@@ -1,0 +1,141 @@
+{
+  "id": "rabobank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Rabobank",
+  "legalName": "Coöperatieve Rabobank U.A.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296085/radar/icons/Rabobank.jpg",
+  "website": "https://www.rabobank.com/en/home/index.html",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NL",
+  "countries": ["NL","BE","LU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.rabobank.nl/bedrijven/actueel/items/developer-portal-voor-softwareontwikkelaars.html"
+  },
+  "developerPortalUrl": "https://developer.rabobank.nl/",
+  "apiProducts": [
+    {
+      "label": "Accounts AIS",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Delivers all the consented payment accounts for a specific Rabobank customer.",
+      "documentationUrl": "https://developer.rabobank.nl/overview/account-information",
+      "apiReferenceUrl": "https://developer.rabobank.nl/reference/accounts-ais/3-0-6",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "5 per second"
+      }]
+    },
+    {
+      "label": "Balances AIS",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Delivers the actual balance for one or more consented payment accounts.",
+      "documentationUrl": "https://developer.rabobank.nl/overview/account-information",
+      "apiReferenceUrl": "https://developer.rabobank.nl/reference/balances-ais/3-0-6",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "5 per second"
+      }]
+    },
+    {
+      "label": "Transactions AIS",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Delivers transactions for a specific consented payment account.",
+      "documentationUrl": "https://developer.rabobank.nl/overview/account-information",
+      "apiReferenceUrl": "https://developer.rabobank.nl/reference/transactions-ais/3-0-6",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "5 per second"
+      }]
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Initiate a single payment from a Rabobank payment account.",
+      "documentationUrl": "https://developer.rabobank.nl/overview/payment-initiation",
+      "apiReferenceUrl": "https://developer.rabobank.nl/reference/payment-initiation/1-1-2",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "5 per second"
+      }]
+    },
+    {
+      "label": "OAuth 2.0 Services",
+      "type": "auth",
+      "description": "Services needed to obtain tokens for OAuth 2.0 secured API's",
+      "categories": ["auth"],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.rabobank.nl/api-marketplace/oauth2-services/2-1-1",
+      "premium": false,
+      "stage": "sandbox",
+       "rateLimits": [{
+        "plan": "Default",
+        "limit": "10 per second"
+       }]
+    },
+    {
+      "label": "Payment Request",
+      "type": "paymentRequest",
+      "categories": ["payments"],
+      "description": "Easily and professionally send your customers payment links and receive funds on your business account sooner.",
+      "documentationUrl": "https://developer.rabobank.nl/overview/payment-request",
+      "apiReferenceUrl": "https://developer.rabobank.nl/reference/payment-request/1-0-5",
+      "premium": false,
+      "stage": "sandbox",
+       "rateLimits": [{
+        "plan": "Default",
+        "limit": "5 per second"
+       }]
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.rabobank.com/en/investors/index.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-14",
+      "url": "https://www.rabobank.com/en/images/01-press-release-annual-results-2018.pdf"
+    }
+  ],
+  "twitter": "Rabobank",
+  "crunchbase": "rabobank",
+  "github": null,
+  "fca": "001b000000MfGnNAAV",
+  "articles": [
+    {
+      "url": "https://www.rabobank.nl/bedrijven/actueel/items/developer-portal-voor-softwareontwikkelaars.html",
+      "date": "2018-09-12"
+    }
+  ]
+}
