@@ -1,0 +1,58 @@
+{
+  "id": "standard-chartered",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Standard Chartered",
+  "legalName": "Standard Chartered PLC",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296088/radar/icons/Standard_Chartered.jpg",
+  "website": "https://www.sc.com/en/",
+  "ownership": [
+    { 
+      "shareholderName": "Temasek",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552340578/radar/icons/Temasek.jpg",
+      "providerId": null,
+      "percentage": 15.8
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://axess.sc.com/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:STAN",
+  "investorRelationsUrl": "https://www.sc.com/en/investors/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-26",
+      "url": "https://av.sc.com/corp-en/content/docs/SCB_ARA_2018_FINAL.pdf"
+    }
+  ],
+  "twitter": "StanChart",
+  "crunchbase": "standard-chartered-bank",
+  "github": null,
+  "fca": "001b000000MfEOLAA3",
+  "articles": []
+}
