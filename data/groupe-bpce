@@ -23,18 +23,7 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://bpce.opendatasoft.com/api/v1/console/datasets/1.0/search/",
-  "apiProducts": [
-    {
-      "label": "Account Information",
-      "type": "accountInformation",
-      "categories": ["accounts"],
-      "description": "Retrieve details of an account such as balance transactions, balance and details.",
-      "documentationUrl": "https://developer.abnamro.com/content/account-information",
-      "apiReferenceUrl": "https://developer.abnamro.com/api/account-information-v1/account-information-documentation",
-      "premium": false,
-      "stage": "upcoming"
-    }
-  ],
+  "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
