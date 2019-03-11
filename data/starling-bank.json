@@ -1,0 +1,50 @@
+{
+  "id": "starling-bank",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Starling Bank",
+  "legalName": "Starling Bank Limited",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296089/radar/icons/Starling_Bank.jpg",
+  "website": "https://www.starlingbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.starlingbank.com/news/UK-first-banking-as-platform/"
+  },
+  "developerPortalUrl": "https://developer.starlingbank.com/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "StarlingBank",
+  "crunchbase": "starling-3",
+  "github": "starlingbank",
+  "fca": "001b000002sy7IMAAY",
+  "articles": [
+    {
+      "url": "https://www.starlingbank.com/news/UK-first-banking-as-platform/",
+      "date": "2018-08-06"
+    }
+  ]
+}
