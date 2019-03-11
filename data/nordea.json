@@ -1,0 +1,116 @@
+{
+  "id": "nordea",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Nordea",
+  "legalName": "Nordea Bank Abp",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nordea.jpg",
+  "website": "https://www.abnamro.com/",
+  "ownership": [
+    { 
+      "shareholderName": "Sampo",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552338908/radar/icons/Sampo.png",
+      "providerId": null,
+      "percentage": 21.3
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "FI",
+  "countries": ["FI","NO","SE","DK"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.nordea.com/en/press-and-news/news-and-press-releases/press-releases/2018/09-14-09h00-open-banking-goes-live-in-sweden.html"
+  },
+  "developerPortalUrl": "https://developer.nordeaopenbanking.com/",
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Securely enable payments & transactions from Nordea clients accounts.",
+      "documentationUrl": "https://developer.nordeaopenbanking.com/app/api-overview?api=Accounts%20API",
+      "apiReferenceUrl": "https://developer.nordeaopenbanking.com/app/documentation?api=Accounts%20API",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payments API SEPA credit transfer",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Initiate and confirm payments via SEPA credit transfer from a Finnish household account.",
+      "documentationUrl": "https://developer.nordeaopenbanking.com/app/api-overview?api=Payments%20API%20SEPA%20credit%20transfer",
+      "apiReferenceUrl": "https://developer.nordeaopenbanking.com/app/documentation?api=Payments%20API%20SEPA%20credit%20transfer",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payments API Domestic transfer",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Initiate and confirm payments via Domestic transfer from a Swedish household account.",
+      "documentationUrl": "https://developer.nordeaopenbanking.com/app/api-overview?api=Payments%20API%20Domestic%20transfer",
+      "apiReferenceUrl": "https://developer.nordeaopenbanking.com/app/documentation?api=Payments%20API%20Domestic%20transfer",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Business Accounts API",
+      "type": "accountInformation",
+      "categories": ["bussiness"],
+      "description": "Account information services for regulated third-party providers",
+      "documentationUrl": "https://developer.nordeaopenbanking.com/app/api-overview?api=Business%20Accounts%20API",
+      "apiReferenceUrl": "https://developer.nordeaopenbanking.com/app/documentation?api=Business%20Accounts%20API",
+      "premium": false,
+      "stage": "sandbox",
+      "customerTypes": ["business"]
+    },
+    {
+      "label": "Instant Reporting API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Delivering real-time account balances and intra-day statement information for your business",
+      "documentationUrl": "https://developer.nordeaopenbanking.com/app/api-overview?api=Instant%20Reporting%20API",
+      "apiReferenceUrl": "https://developer.nordeaopenbanking.com/app/documentation?api=Instant%20Reporting%20API",
+      "premium": true,
+      "stage": "sandbox",
+      "customerTypes": ["business"]
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "HEL:NDA-FI",
+  "investorRelationsUrl": "https://www.nordea.com/en/investor-relations/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-06",
+      "url": "https://www.nordea.com/Images/33-304448/Annual%20Report%20Nordea%20Bank%20Abp%202018.pdf"
+    }
+  ],
+  "twitter": "Nordea",
+  "crunchbase": "nordea-bank",
+  "github": null,
+  "fca": "001b000000MfPpNAAV",
+  "articles": [
+    {
+      "url": "https://www.nordea.com/en/press-and-news/news-and-press-releases/press-releases/2018/09-14-09h00-open-banking-goes-live-in-sweden.html",
+      "date": "2018-09-18"
+    }
+  ]
+}
