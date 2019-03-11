@@ -165,11 +165,18 @@
       }
     },
     "developerPortalUrl": {
-      "type": "string",
-      "format": "uri",
-      "pattern": "^(https?|http?)://",
-      "description": "Aplication url of the provider",
-      "examples": ["https://developer.abnamro.com/"]
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://",
+          "description": "Aplication url of the provider",
+          "examples": ["https://developer.abnamro.com/"]
+        },
+        {
+          "type": "null"
+        }
+      ]
     },
     "openBankProjectUrl": {
       "anyOf": [
@@ -297,24 +304,52 @@
       }
     },
     "twitter": {
-      "type": "string",
-      "description": "Twitter handle",
-      "examples": ["ABNAMRO"]
+      "anyOf": [
+        {
+          "type": "string",
+          "description": "Twitter handle",
+          "examples": ["ABNAMRO"]
+        },
+        {
+          "type": "null"
+        }
+      ]
     },
     "github": {
-      "type": "string",
-      "description": "Github organisation id",
-      "examples": ["ABNAMRO"]
+      "anyOf": [
+        {
+          "type": "string",
+          "description": "Github organisation id",
+          "examples": ["ABNAMRO"]
+        },
+        {
+          "type": "null"
+        }
+      ]
     },
     "crunchbase": {
-      "type": "string",
-      "description": "Crunchbase organisation id",
-      "examples": ["abn-amro-bank"]
+      "anyOf": [
+        {
+          "type": "string",
+          "description": "Crunchbase organisation id",
+          "examples": ["abn-amro-bank"]
+        },
+        {
+          "type": "null"
+        }
+      ]
     },
     "fca": {
-      "type": "string",
-      "description": "FCA firm id",
-      "examples": ["001b000000MfnaPAAR"]
+      "anyOf": [
+        {
+          "type": "string",
+          "description": "FCA firm id",
+          "examples": ["001b000000MfnaPAAR"]
+        },
+        {
+          "type": "null"
+        }
+      ]
     },
     "ipoStatus": {
       "enum": [
@@ -327,7 +362,7 @@
     "stockSymbol": {
       "type": "string",
       "description": "Stock market and ticker symbol",
-      "examples": ["AMS: ABN"]
+      "examples": ["AMS:ABN"]
     },
     "investorRelationsUrl": {
       "anyOf": [

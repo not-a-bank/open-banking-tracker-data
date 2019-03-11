@@ -19,12 +19,21 @@
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": ""
+    "status": "unavailable"
   },
-  "developerPortalUrl": "",
-  "openBankProjectUrl": "",
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
   "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
   "stockSymbol": "EPA:ACA",
   "investorRelationsUrl": "https://www.credit-agricole.com/en/finance/finance",
   "quarterlyReports": [
