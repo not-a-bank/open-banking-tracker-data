@@ -1,0 +1,88 @@
+{
+  "id": "deutsche-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Deutsche Bank",
+  "legalName": "Deutsche Bank AG",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Deutsche_Bank.jpg",
+  "website": "https://www.db.com/company/index.htm",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null,
+  },
+  "developerPortalUrl": "https://developer.db.com/products/psd2",
+  "openBankProjectUrl": null,
+  "apiProducts": [
+    {
+      "label": "Account Insights",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "AccountInsights lets you see up to 12 months of transaction information from a customer’s account. See what amounts are coming in and out, what currencies are being used, who the customer interacts with, and more.",
+      "documentationUrl": "https://developer.db.com/products/accounts",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Customer Insights",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "CustomerInsights lets you access specific personal data that has been checked by Know Your Customer (KYC) processes. Instantly check the customer’s postal addresses, date of birth, nationality and more.",
+      "documentationUrl": "https://developer.db.com/products/customers",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "AgeCertificate",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "AgeCertificate lets you quickly verify that a customer is over the age of 18. Using data checked by Know Your Customer (KYC) processes, it gives you an instant ‘under 18 / over 18’ response without supplying additional private information.",
+      "documentationUrl": "https://developer.db.com/products/agecertificate",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "EPA:BNP",
+  "investorRelationsUrl": "https://invest.bnpparibas.com/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-13",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552296761/4q18-pr2.pdf"
+    }
+  ],
+  "twitter": "BNPParibas",
+  "crunchbase": "",
+  "github": "",
+  "fca": "001b000000MfFC6AAN",
+  "articles": [
+    {
+      "url": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092",
+      "date": "2019-03-08"
+    }
+  ]
+}
