@@ -19,22 +19,12 @@
     }
   ],
   "sandbox": {
-    "status": "available"
+    "status": "available",
      "sourceUrl": "https://www.bbva.com/en/bbva-launches-open-banking-business/"
   },
   "developerPortalUrl": "https://bbvaopenplatform.com/content/home",
   "openBankProjectUrl": null,
   "apiProducts": [
-    {
-      "label": "Customers",
-      "type": "accountInformation",
-      "categories": ["accounts"],
-      "description": "Customers allow authenticated users to recover key profile data to enhance engagement levels.",
-      "documentationUrl": "https://www.bbvaapimarket.com/products/customers",
-      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/customers",
-      "premium": false,
-      "stage": "live"
-    },
     {
       "label": "Accounts",
       "type": "accountInformation",
@@ -46,22 +36,32 @@
       "stage": "live"
     },
     {
-      "label": "Cards",
-      "type": "accountInformation",
-      "categories": ["accounts"],
-      "description": "Cards allows you to integrate pre-authorized bank card data and improve your business potential.",
-      "documentationUrl": "https://www.bbvaapimarket.com/products/cards",
-      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/cards",
-      "premium": false,
-      "stage": "live"
-    },
-    {
       "label": "Payments",
       "type": "paymentInitiation",
       "categories": ["payments"],
       "description": "Payments allows third party apps to offer money transfer services to pre-authorized users.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/payments",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/payments",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Customers",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Customers allow authenticated users to recover key profile data to enhance engagement levels.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/customers",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/customers",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Cards",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Cards allows you to integrate pre-authorized bank card data and improve your business potential.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/cards",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/cards",
       "premium": false,
       "stage": "live"
     },
@@ -77,7 +77,7 @@
     },
     {
       "label": "Alipay",
-      "type": "paymentInitiation",
+      "type": "other",
       "categories": ["payments"],
       "description": "Alipay connects your business with the online payments leader in China.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/alipay",
@@ -107,7 +107,7 @@
     },
     {
       "label": "Business Accounts",
-      "type": "accountInformation",
+      "type": "other",
       "categories": ["accounts"],
       "description": "Download the account statements of your business customers in the standard format AEB43.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/business-accounts",
@@ -141,12 +141,12 @@
   "fca": "001b000000MfFpUAAV",
   "articles": [
     {
-      "url": "https://www.bbva.com/en/bbva-launches-open-banking-business/",
-      "date": "2017-05-24"
-    }
-    {
       "url": "https://www.bbva.com/en/bbva-launches-first-baas-platform-in-the-u-s/",
       "date": "2018-10-16"
+    },
+    {
+      "url": "https://www.bbva.com/en/bbva-launches-open-banking-business/",
+      "date": "2017-05-24"
     }
   ]
 }
