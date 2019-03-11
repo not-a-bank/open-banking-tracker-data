@@ -32,7 +32,7 @@
   "apiProducts": [
     {
       "label": "Account and Transaction API",
-      "type": "accountInformation","consent",
+      "type": "accountInformation",
       "categories": ["accounts"],
       "description": "The Account and Transaction API is intended to give a third party, upon consent of the owning customer, access to product, service and transaction information relating to that account such that they may provide the customer with value-adding products or services.",
       "documentationUrl": "https://developer.rbs.co.uk/apiportal/api-catalogue",
