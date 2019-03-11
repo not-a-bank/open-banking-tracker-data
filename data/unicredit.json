@@ -1,0 +1,51 @@
+{
+  "id": "unicredit",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Unicredit",
+  "legalName": "UniCredit S.p.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296097/radar/icons/Unicredit.jpg",
+  "website": "https://www.unicreditgroup.eu/en.html",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.unicredit.eu/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "BIT:UCG",
+  "investorRelationsUrl": "https://www.unicreditgroup.eu/en/investors/financial-reports.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2018-11-08",
+      "url": "https://www.unicreditgroup.eu/en/press-media/press-releases-price-sensitive/2018/unicredit--a-paneuropean-winner.html"
+    }
+  ],
+  "twitter": "UniCredit_PR",
+  "crunchbase": "unicredit",
+  "github": "unicredit",
+  "fca": "001b000000MfJO8AAN",
+  "articles": []
+}
