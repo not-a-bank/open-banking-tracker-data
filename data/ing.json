@@ -1,0 +1,108 @@
+{
+  "id": "ing",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "ING",
+  "legalName": "ING Groep",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/ING_Groep.png",
+  "website": "https://www.ing.com/Home.htm",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NL",
+  "countries": ["NL;BE;LU;PL;DE;AT;CZ;ES;IT;FR;RO;TY"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.ing.com/Newsroom/All-news/ING-launches-Developer-Portal.htm"
+  },
+  "developerPortalUrl": "https://developer.ing.com/openbanking/",
+  "openBankProjectUrl": null,
+  "apiProducts": [
+    {
+      "label": "Account Information API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Create Account Information Services consuming applications that offer great added value to your customers and users. Our Account Information Service will enable secure access to all European ING online accessible payment accounts.",
+      "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/b6d5093d-626e-41e9-b9e8-ff287bbe2c07/overview",
+      "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/b6d5093d-626e-41e9-b9e8-ff287bbe2c07/reference",
+      "premium": false,
+      "stage": "deprecated"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Create payment initiation applications that offer great added value to your customers and users. INGs Payment Initiation Service will enable secure access to all European ING online accessible payments accounts.",
+      "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/6aa25087-d05d-428e-b7c6-d9131cb46498/overview",
+      "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/6aa25087-d05d-428e-b7c6-d9131cb46498/reference",
+      "premium": false,
+      "stage": "deprecated"
+    },
+    {
+      "label": "Payment Request",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "The Payment Request API allows you to generate payment request links that can be shared with your customers. The Payment Request API is based on ING’s successful consumer–to-consumer (C2C) payment request feature, which means your customers will already be familiar with this payment method.",
+      "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/01199464-4247-4770-8ab8-c3371052e9e5/overview",
+      "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/01199464-4247-4770-8ab8-c3371052e9e5/reference",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Showcase API",
+      "type": "other",
+      "categories": ["products"],
+      "description": "The Showcase API helps you to make your first API call on ING’s Open Banking platform. By consuming the API endpoint, you will learn about ING’s implementation of the OAuth 2.0 framework and the overall functionalities of our platform.",
+      "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/5f5106c4-3413-4b3c-890a-bb4cfa165dba/overview",
+      "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/5f5106c4-3413-4b3c-890a-bb4cfa165dba/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Virtual Ledger Accounts API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "The Virtual Ledger Accounts API will offer you a secured access to the Virtual Accounts that are created in the Virtual Ledger Account Application. Consuming the API allows you to fully retrieve, control and make use of Virtual Account Information and/or create applications that offer value added services to clients using the Virtual Ledger Account Application.",
+      "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/fa224f87-b4c4-4c2b-85a4-193c6eb57e35/overview",
+      "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/fa224f87-b4c4-4c2b-85a4-193c6eb57e35/reference",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "AMS:INGA",
+  "investorRelationsUrl": "https://www.ing.com/Investor-relations/Financial-Reports/Quarterly-results.htm",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-06",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552317750/Financial%20Data/ING_Press_Release_4Q2018.pdf"
+    }
+  ],
+  "twitter": "ING_news",
+  "crunchbase": "ing-group",
+  "github": "ing-bank",
+  "fca": "001b000000MfF4VAAV",
+  "articles": [
+    {
+      "url": "https://www.ing.com/Newsroom/All-news/ING-launches-Developer-Portal.htm",
+      "date": "2018-05-24"
+    }
+  ]
+}
