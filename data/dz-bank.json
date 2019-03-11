@@ -1,0 +1,51 @@
+{
+  "id": "dz-bank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "DZ Bank",
+  "legalName": "DZ Bank AG",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296070/radar/icons/DZ_Bank.jpg",
+  "website": "https://www.dzbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": ["DE"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.dzbank.de/content/dzbank_com/en/home/DZ_BANK/investor_relations.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-03-05",
+      "url": "https://www.dzbank.de/content/dam/dzbank_com/en/home/profile/investor_relations/news/IR_Release_PrelimFigures2018_DZBANK.pdf"
+    }
+  ],
+  "twitter": "DZBank",
+  "crunchbase": "dz-bank",
+  "github": null,
+  "fca": "001b000000MfELbAAN",
+  "articles": []
+}
