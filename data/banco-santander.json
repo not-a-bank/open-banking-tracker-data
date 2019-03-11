@@ -14,7 +14,11 @@
   "countries": ["GB;ES;PT;DE;PL"],
   "compliance": [
     { 
-      "regulation": "PSD2,OB",
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "OB",
       "status": "inProgress"
     }
   ],
