@@ -1,0 +1,152 @@
+{
+  "id": "bbva",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "BBVA",
+  "legalName": "Banco Bilbao Vizcaya Argentaria, S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/BBVA.jpg",
+  "website": "https://www.bbva.es/eng/particulares/index.jsp",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": ["ES","PT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+     "sourceUrl": "https://www.bbva.com/en/bbva-launches-open-banking-business/"
+  },
+  "developerPortalUrl": "https://bbvaopenplatform.com/content/home",
+  "openBankProjectUrl": null,
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Accounts allows you to access key account data and enhance your financial management services.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/accounts",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/accounts",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Payments allows third party apps to offer money transfer services to pre-authorized users.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/payments",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/payments",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Customers",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Customers allow authenticated users to recover key profile data to enhance engagement levels.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/customers",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/customers",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Cards",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Cards allows you to integrate pre-authorized bank card data and improve your business potential.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/cards",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/cards",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Loans",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "Payments allows third party apps to offer money transfer services to pre-authorized users.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/loans",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/loans",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Alipay",
+      "type": "other",
+      "categories": ["payments"],
+      "description": "Alipay connects your business with the online payments leader in China.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/alipay",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/alipay",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Notifications",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Notifications provides real time notifications of operations performed in BBVA by pre-authorized users.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/notifications",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/notifications",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Business Notifications",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Receive in real time the most relevant information about your banking operations.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/business-notifications",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/business-notifications",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Business Accounts",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Download the account statements of your business customers in the standard format AEB43.",
+      "documentationUrl": "https://www.bbvaapimarket.com/products/business-accounts",
+      "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/business-accounts",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "BME:BBVA",
+  "investorRelationsUrl": "https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2018",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-01",
+      "url": "https://shareholdersandinvestors.bbva.com/wp-content/uploads/2019/01/4Q18-Results-Presentation.pdf"
+    }
+  ],
+  "twitter": "bbva",
+  "crunchbase": null,
+  "github": "BBVA",
+  "fca": "001b000000MfFpUAAV",
+  "articles": [
+    {
+      "url": "https://www.bbva.com/en/bbva-launches-first-baas-platform-in-the-u-s/",
+      "date": "2018-10-16"
+    },
+    {
+      "url": "https://www.bbva.com/en/bbva-launches-open-banking-business/",
+      "date": "2017-05-24"
+    }
+  ]
+}
