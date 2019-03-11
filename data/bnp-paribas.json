@@ -8,14 +8,7 @@
   "verified": false,
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
   "website": "https://group.bnpparibas/",
-  "ownership": [
-    { 
-      "shareholderName": " ",
-      "shareholderIconUrl": " ",
-      "providerId": null,
-      "percentage":
-    }
-  ],
+  "ownership": [],
   "stateOwned": false,
   "countryHQ": "FR",
   "countries": ["EU"],
@@ -30,14 +23,15 @@
     "sourceUrl": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092"
   },
   "developerPortalUrl": "https://developer.bnpparibasfortis.com",
+  "openBankProjectUrl": "https://bnpparibas-api.openbankproject.com/",
   "apiProducts": [
     {
       "label": "Account Information",
       "type": "accountInformation",
       "categories": ["accounts"],
-      "description": "Retrieve details of an account such as balance transactions, balance and details.",
+      "description": "Give customers secure access to transaction data and balance data via our BNP Paribas Fortis Account Information API.",
       "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/7",
-      "apiReferenceUrl": " ",
+      "apiReferenceUrl": null,
       "premium": false,
       "stage": "sandbox"
     },
@@ -45,9 +39,9 @@
       "label": "Payment Initiation",
       "type": "paymentInitiation",
       "categories": ["payments"],
-      "description": "Initiate a single payment and retrieve information on the status of the transaction.",
+      "description": "Give customers the option to initiate payments via our BNP Paribas Fortis Payment Initiation API.",
       "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/4",
-      "apiReferenceUrl": " ",
+      "apiReferenceUrl": null,
       "premium": false,
       "stage": "sandbox"
     }
@@ -62,7 +56,8 @@
       "operatingSystem": "android"
     }
   ],
-  "stockSymbol": "EPA: BNP",
+  "stockSymbol": "EPA:BNP",
+  "investorRelationsUrl": "https://invest.bnpparibas.com/",
   "quarterlyReports": [
     {
       "label": "Q4 2018",
@@ -70,8 +65,8 @@
       "url": "https://res.cloudinary.com/banq/image/upload/v1552296761/4q18-pr2.pdf}
   ],
   "twitter": "BNPParibas",
-  "crunchbase": " ",
-  "github": " ",
+  "crunchbase": null,
+  "github": null,
   "fca": "001b000000MfFC6AAN",
   "articles": [
     {
