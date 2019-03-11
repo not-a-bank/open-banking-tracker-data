@@ -1,0 +1,48 @@
+{
+  "id": "n26",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "n26",
+  "legalName": "N26 GmbH",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/N26.jpg",
+  "website": "https://n26.com/en-eu/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+        { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "n26",
+  "crunchbase": "n26",
+  "github": "n26",
+  "fca": "001b00000438MkSAAU",
+  "articles": []
+}
