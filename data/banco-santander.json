@@ -1,0 +1,73 @@
+{
+  "id": "banco-santander",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Santander",
+  "legalName": "Banco Santander, S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Banco_Santander.jpg",
+  "website": "https://www.santander.com/csgs/Satellite/CFWCSancomQP01/es_ES/Corporativo.html?leng=en_GB",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": ["GB;ES;PT;DE;PL"],
+  "compliance": [
+    { 
+      "regulation": "PSD2,OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092"
+  },
+  "developerPortalUrl": "https://developer.santander.co.uk/sanuk/external",
+  "openBankProjectUrl": "https://santander.openbankproject.com",
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Give customers secure access to transaction data and balance data via our BNP Paribas Fortis Account Information API.",
+      "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/7",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Give customers the option to initiate payments via our BNP Paribas Fortis Payment Initiation API.",
+      "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/4",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "BME:SAN",
+  "investorRelationsUrl": "https://www.santander.com/csgs/Satellite/CFWCSancomQP01/en_GB/Corporate/Investor-Relations.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019",
+      "url": "https://www.santander.com/csgs/Satellite/CFWCSancomQP01/en_GB/pdf/Folleto_4T18_ingles.pdf"
+    }
+  ],
+  "twitter": "bancosantander",
+  "crunchbase": "banco-santander",
+  "github": null,
+  "fca": "001b000000MfGAiAAN",
+  "articles": []
+}
