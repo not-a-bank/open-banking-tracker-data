@@ -1,0 +1,50 @@
+{
+  "id": "credit-mutuel",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Crédit Mutuel",
+  "legalName": "Crédit Mutuel",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Credit_Mutuel.jpg",
+  "website": "https://www.creditmutuel.com/en",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": ["FR"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "http://www.bfcm.creditmutuel.fr/en/bfcm/presentation/index.html",
+  "quarterlyReports": [
+    {
+      "label": "H1 2018",
+      "date": "2018-08-07",
+      "url": "http://www.bfcm.creditmutuel.fr/en/bfcm/pdf/DOCREF_JUNE2018_VENG.pdf"
+    }
+  ],
+  "twitter": "CreditMutuel",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000aS5XoAAK",
+  "articles": []
+}
