@@ -238,6 +238,7 @@
               "branchLocator",
               "productFinder",
               "consent",
+              "auth",
               "other"
             ]
           },
@@ -259,7 +260,8 @@
                 "payments",
                 "loans",
                 "locators",
-                "products"
+                "products",
+                "auth"
               ]
             }
           },
@@ -321,6 +323,23 @@
             "description": "In what countries is the API available",
             "examples": ["NL", "BE"],
             "uniqueItems": true
+          },
+          "rateLimits": {
+            "type": "array",
+            "description": "Rate limits that apply to this API",
+            "items": {
+              "type": "object",
+              "properties": {
+                "plan": {
+                  "type": "string",
+                  "examples": ["Default"]
+                },
+                "limit": {
+                  "type": "string",
+                  "examples": ["10 per second"]
+                }
+              }
+            }
           }
         }
       }
