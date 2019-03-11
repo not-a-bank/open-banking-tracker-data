@@ -1,0 +1,58 @@
+{
+  "id": "kbc-ireland",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "KBC Ireland",
+  "legalName": "KBC Bank Ireland plc",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/KBC_Ireland.jpg",
+  "website": "https://www.kbc.ie/",
+  "ownership": [
+    { 
+      "shareholderName": "KBC Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/KBC_Ireland.jpg",
+      "providerId": "kbc-bank",
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "IE",
+  "countries": ["IE"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://kbcireland.dev.ca.com/admin/login?to-default-config=true&zone=topnav",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "EBR:KBC",
+  "investorRelationsUrl": "https://www.kbc.com/en/investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-14",
+      "url": "https://www.kbc.com/nl/system/files/doc/investor-relations/Results/4Q2018/4Q2018_Quarterly_Report_en.pdf"
+    }
+  ],
+  "twitter": "AskKBCIreland",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000MfJyeAAF",
+  "articles": []
+}
