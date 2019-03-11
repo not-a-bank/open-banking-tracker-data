@@ -1,0 +1,51 @@
+{
+  "id": "ubs",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "UBS",
+  "legalName": "UBS Group AG",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296094/radar/icons/UBS.jpg",
+  "website": "https://www.ubs.com/global/en.html",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CH",
+  "countries": ["CH","DE","IT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "SWX:UBSG",
+  "investorRelationsUrl": "https://www.ubs.com/global/en/about_ubs/investor_relations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-01-22",
+      "url": "https://www.ubs.com/content/dam/static/epaper/index.html?id=2f79bb2d"
+    }
+  ],
+  "twitter": "UBS",
+  "crunchbase": "ubs",
+  "github": null,
+  "fca": "001b000000MfF5lAAF",
+  "articles": []
+}
