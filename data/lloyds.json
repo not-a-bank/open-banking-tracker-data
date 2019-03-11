@@ -1,0 +1,148 @@
+{
+  "id": "lloyds",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Lloyds Bank",
+  "legalName": "Lloyds Bank plc",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Lloyds_Banking_Group.jpg",
+  "website": "https://www.lloydsbank.com/",
+  "ownership": [
+    { 
+      "shareholderName": "Lloyds Banking Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Lloyds_Banking_Group.jpg",
+      "providerId": "lloyds",
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://developer.lloydsbanking.com/",
+  "apiProducts": [
+    {
+      "label": "/branches",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": "Gets a list of all Branch objects.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-branches-2.1",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/personal-current-accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Gets a list of all Personal Current Account objects.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-personal-current-accounts-2.1",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/atms",
+      "type": "atmLocator",
+      "description": "Gets a list of all ATM objects.",
+      "categories": ["locators"],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-atms-2.1",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/business-current-accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Gets a list of all Branch Current Account objects.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-business-current-accounts-2.1",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/unsecured-sme-loans",
+      "type": "productFinder",
+      "description": "Gets a list of all Unsercured SME Lending objects.",
+      "categories": ["loans"],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-unsecured-sme-loans-2.1",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/commercial-credit-cards",
+      "type": "productFinder",
+      "description": "Gets a list of all Commerical Credit Card objects.",
+      "categories": ["accounts"],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-commercial-credit-cards-2.1",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/accounts",
+      "type": "accountInformation",
+      "description": "FCA Service Metric API.",
+      "categories": ["accounts"],
+      "documentationUrl": "https://developer.lloydsbanking.com/accounts-product-lyds-v2",
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/942#get-accounts-2.0.0", 
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Create a single immediate payment",
+      "documentationUrl": "https://developer.lloydsbanking.com/payments-product-lyds",
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/596#post-payments-1.0.1",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/payment-submissions",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Submit a previously setup payment",
+      "documentationUrl": "https://developer.lloydsbanking.com/payments-product-lyds",
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/596#post-payment-submissions-1.0.1",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:LLOY",
+  "investorRelationsUrl": "https://www.lloydsbankinggroup.com/investors/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-20",
+      "url": "https://www.lloydsbankinggroup.com/globalassets/documents/investors/2018/2018_lbg_fy_results.pdf"
+    }
+  ],
+  "twitter": "AskLloydsBank",
+  "crunchbase": "lloyds-bank",
+  "github": null,
+  "fca": "001b000000MfFNkAAN",
+  "articles": []
+}
