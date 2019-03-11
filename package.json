@@ -1,0 +1,28 @@
+{
+  "name": "open-banking-radar-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "deploy": "serverless deploy",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "validate-data": "node scripts/validate.js",
+    "upload": "node scripts/validate.js && node scripts/upload.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apideck-io/open-banking-radar.git"
+  },
+  "author": "Gertjan De Wilde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apideck-io/open-banking-radar/issues"
+  },
+  "homepage": "https://github.com/apideck-io/open-banking-radar#readme",
+  "dependencies": {
+    "ajv": "^6.2.1",
+    "algoliasearch": "^3.27.0",
+    "bluebird": "^3.5.1",
+    "github-api": "^3.0.0"
+  }
+}

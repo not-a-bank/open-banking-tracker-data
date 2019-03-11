@@ -1,0 +1,365 @@
+{
+  "title": "Provider",
+  "type": "object",
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "id": "",
+  "required": [
+    "id",
+    "type",
+    "name",
+    "iconUrl",
+    "verified",
+    "website",
+    "ipoStatus",
+    "countryHQ",
+    "countries",
+    "webApplication",
+    "mobileApps",
+    "compliance",
+    "sandbox",
+    "developerPortalUrl",
+    "apiStandards",
+    "apiProducts",
+    "ownership",
+    "stateOwned",
+    "stockSymbol"
+  ],
+  "additionalProperties": false,
+  "properties": { 
+    "id": { 
+      "type": "string", 
+      "pattern": "[a-z0-9-]*$",
+      "description": "Unique indentifier",
+      "examples": ["abn-amro"]
+    },
+    "type": { 
+      "type": "array",
+      "items": {
+        "enum": [
+          "account",
+          "third-party"
+        ]
+      },
+      "description": "Provider type(s)",
+      "examples": ["account"]
+    },
+    "bankType": { 
+      "type": "array",
+      "description": "Bank type",
+      "examples": ["universal"],
+      "items": {
+        "enum": [
+          "universal",
+          "retail",
+          "corperate",
+          "challenger"
+        ]
+      }
+    },
+    "name": {
+      "type": "string",
+      "description": "Name of the provider",
+      "examples": ["ABN Amro"]
+    },
+    "legalName": {
+      "type": "string",
+      "description": "ABN AMRO Group N.V.",
+      "examples": ["ABN Amro"]
+    },
+    "verified": {
+      "type": "boolean",
+      "description": "Verified by company representative",
+      "examples": [true]
+    },
+    "iconUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^(https?|http?)://",
+      "description": "URL to the icon of the provider (recommended size 400x400)",
+      "examples": ["https://res.cloudinary.com/banq/image/upload/v1552240551/radar/icons/abn-amro.jpg"]
+    },
+    "website": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^(https?|http?)://",
+      "description": "Website of the cloud service",
+      "examples": ["https://www.abnamro.com/"]
+    },
+    "countryHQ": {
+      "type": "string",
+      "description": "Country (ISO ALPHA-2 code) of HQ",
+      "examples": ["NL"]
+    },
+    "countries": {
+      "type": "array",
+      "description": "In what countries is the provider active",
+      "examples": ["NL", "BE"],
+      "uniqueItems": true
+    },
+    "webApplication": {
+      "type": "boolean",
+      "description": "Does this provider have a desktop application?",
+      "examples": [true]
+    },
+    "mobileApps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "operatingSystem": {
+            "enum": [
+              "ios",
+              "android"
+            ]
+          }
+        }
+      }
+    },
+    "compliance": {
+      "description": "Applicable regulations and compliance status",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "regulation"
+        ],
+        "properties": {
+          "regulation": { 
+            "enum": [
+              "PSD2",
+              "OB",
+              "GDPR"
+            ]
+          },
+          "status": { 
+            "enum": [ 
+              "inProgress", 
+              "ready", 
+              "nonCompliant", 
+              "unknown" 
+            ]
+          },
+          "sourceUrl": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^(https?|http?)://"
+          }
+        }
+      }
+    },
+    "sandbox": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "enum": [
+            "available",
+            "unavailable"
+          ]
+        },
+        "sourceUrl": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://"
+        }
+      }
+    },
+    "developerPortalUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^(https?|http?)://",
+      "description": "Aplication url of the provider",
+      "examples": ["https://developer.abnamro.com/"]
+    },
+    "apiStandards": {
+      "description": "The supported standards",
+      "type": "array",
+      "items": {
+        "enum": [
+          "OBIE",
+          "STET",
+          "BERLIN"
+        ]
+      }
+    },
+    "apiProducts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "label": {
+            "type": "string",
+            "examples": ["Account information"]
+          }, 
+          "type": {
+            "enum": [
+              "accountInformation",
+              "paymentInitiation",
+              "fundsConfirmation",
+              "other"
+            ]
+          },
+          "categories": {
+            "type": "array",
+            "items": {
+              "enum": [
+                "accounts",
+                "payments",
+                "loans"
+              ]
+            }
+          },
+          "description": {
+            "type": "string",
+            "description": "Description of the API product",
+            "examples": ["Initiate a single payment and retrieve information on the status of the transaction."]
+          },
+          "documentationUrl": {
+            "type": "string",
+            "examples": ["https://developer.abnamro.com/content/payment-initiation"]
+          },
+          "apiReferenceUrl": {
+            "anyOf" : [
+              { "type": "string" },
+              { "type": "null" }
+            ],
+            "examples": ["https://developer.abnamro.com/api/payment-initiation-v1/payment-initiation-documentation"]
+          },
+          "premium": {
+            "type": "boolean",
+            "description": "Is this a premium/paid API?"
+          },
+          "stage": {
+            "enum": [
+              "live",
+              "privateBeta",
+              "upcoming",
+              "prototype",
+              "idea",
+              "unknown"
+            ]
+          }
+        }
+      }
+    },
+    "twitter": {
+      "type": "string",
+      "description": "Twitter handle",
+      "examples": ["ABNAMRO"]
+    },
+    "github": {
+      "type": "string",
+      "description": "Github organisation id",
+      "examples": ["ABNAMRO"]
+    },
+    "crunchbase": {
+      "type": "string",
+      "description": "Crunchbase organisation id",
+      "examples": ["abn-amro-bank"]
+    },
+    "fca": {
+      "type": "string",
+      "description": "FCA firm id",
+      "examples": ["001b000000MfnaPAAR"]
+    },
+    "ipoStatus": {
+      "enum": [
+        "public",
+        "private",
+        "subsidiary"
+      ],
+      "examples": ["public"]
+    },
+    "stockSymbol": {
+      "type": "string",
+      "description": "Stock market and ticker symbol",
+      "examples": ["AMS: ABN"]
+    },
+    "quarterlyReports": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "label",
+          "date",
+          "url"
+        ],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "date": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "ownership": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "shareholderName",
+          "shareholderIconUrl",
+          "providerId",
+          "percentage"
+        ],
+        "properties": {
+          "shareholderName": {
+            "type": "string"
+          },
+          "shareholderIconUrl": {
+            "type": "string"
+          },
+          "providerId": {
+            "anyOf" : [
+              { "type": "string" },
+              { "type": "null" }
+            ],
+            "description": "Use the id if this shareholder part of the radar directory"
+          },
+          "percentage": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100,
+            "multiplpeOf": 0.01
+          }
+        }
+      }
+    },
+    "stateOwned": {
+      "type": "boolean",
+      "description": "Is this is a state-owned provider?",
+      "examples": [true]
+    },
+    "dataBreaches": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "date",
+          "url"
+        ],
+        "properties": {
+          "date": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    },
+    "articles": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "url"
+        ],
+        "properties": {
+          "date": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    }
+  }
+}
