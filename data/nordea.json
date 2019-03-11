@@ -64,22 +64,24 @@
     {
       "label": "Business Accounts API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": ["bussiness"],
       "description": "Account information services for regulated third-party providers",
       "documentationUrl": "https://developer.nordeaopenbanking.com/app/api-overview?api=Business%20Accounts%20API",
       "apiReferenceUrl": "https://developer.nordeaopenbanking.com/app/documentation?api=Business%20Accounts%20API",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "sandbox",
+      "customerTypes": ["business"]
     },
     {
-      "label": "Business Accounts API",
+      "label": "Instant Reporting API",
       "type": "accountInformation",
       "categories": ["accounts"],
       "description": "Delivering real-time account balances and intra-day statement information for your business",
       "documentationUrl": "https://developer.nordeaopenbanking.com/app/api-overview?api=Instant%20Reporting%20API",
       "apiReferenceUrl": "https://developer.nordeaopenbanking.com/app/documentation?api=Instant%20Reporting%20API",
       "premium": true,
-      "stage": "sandbox"
+      "stage": "sandbox",
+      "customerTypes": ["business"]
     }
   ],
   "apiStandards": [],
