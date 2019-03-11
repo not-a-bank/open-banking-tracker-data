@@ -1,0 +1,82 @@
+{
+  "id": "intesa-sanpaolo",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Intesa Sanpaolo",
+  "legalName": "Intesa Sanpaolo S.p.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552321067/radar/icons/Intesa-Sanpaolo.jpg",
+  "website": "https://www.intesasanpaolo.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": ["IT","SI","HR","RO","RS","AL","HU","CZ","UA"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+ },
+  "developerPortalUrl": "https://openbanking.intesasanpaolo.com/#/",
+  "openBankProjectUrl": null,
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Access balances and transaction history in real-time and retrieve details.",
+      "documentationUrl": "https://openbanking.intesasanpaolo.com/#/account-information",
+      "apiReferenceUrl": "https://openbanking.intesasanpaolo.com/#/api_documentation",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Dispose payments directly from your systems.",
+      "documentationUrl": "https://openbanking.intesasanpaolo.com/#/payments",
+      "apiReferenceUrl": "https://openbanking.intesasanpaolo.com/#/api_documentation",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Tools",
+      "type": "atmLocator",
+      "categories": ["locators"],
+      "description": "Exploit bank utilities to empower additional services such as IBAN verification or ATM availability.",
+      "documentationUrl": "https://openbanking.intesasanpaolo.com/#/tools",
+      "apiReferenceUrl": "https://openbanking.intesasanpaolo.com/#/api_documentation",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "BIT:ISP",
+  "investorRelationsUrl": "https://www.group.intesasanpaolo.com/scriptIsir0/si09/investor_relations/eng_wp_investor_relations.jsp",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019",
+      "url": "https://www.group.intesasanpaolo.com/scriptIsir0/si09/contentData/view/20190205_FY18_Results_uk.pdf?id=CNT-05-0000000528482&ct=application/pdf"
+    }
+  ],
+  "twitter": "intesasanpaolo",
+  "crunchbase": "intesa-sanpaolo",
+  "github": null,
+  "fca": "001b000000MfISQAA3",
+  "articles": []
+}
