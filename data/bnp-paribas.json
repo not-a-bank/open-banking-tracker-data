@@ -1,0 +1,77 @@
+{
+  "id": "bnp-paribas",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "BNP Paribas",
+  "legalName": "BNP Paribas S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
+  "website": "https://group.bnpparibas/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092"
+  },
+  "developerPortalUrl": "https://developer.bnpparibasfortis.com",
+  "openBankProjectUrl": "https://bnpparibas-api.openbankproject.com/",
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Give customers secure access to transaction data and balance data via our BNP Paribas Fortis Account Information API.",
+      "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/7",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Give customers the option to initiate payments via our BNP Paribas Fortis Payment Initiation API.",
+      "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/4",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "EPA:BNP",
+  "investorRelationsUrl": "https://invest.bnpparibas.com/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-13",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552296761/4q18-pr2.pdf}
+  ],
+  "twitter": "BNPParibas",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000MfFC6AAN",
+  "articles": [
+    {
+      "url": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092",
+      "date": "2019-03-08"
+    }
+  ]
+}
