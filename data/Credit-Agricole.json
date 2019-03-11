@@ -1,0 +1,42 @@
+{
+  "id": "credit-agricole",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Crédit Agricole",
+  "legalName": "Crédit Agricole S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296073/radar/icons/Credit_Agricole.jpg",
+  "website": "https://www.credit-agricole.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": ""
+  },
+  "developerPortalUrl": "",
+  "openBankProjectUrl": "",
+  "apiProducts": [],
+  "stockSymbol": "EPA:ACA",
+  "investorRelationsUrl": "https://www.credit-agricole.com/en/finance/finance",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-14",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552300140/Financial%20Data/CASA_2018-Q4_Slides_EN_Vd%C3%A9f.pdf"
+    }
+  ],
+  "twitter": "CreditAgricole",
+  "crunchbase": "credit-agricole",
+  "github": "",
+  "fca": "001b000000MfF2HAAV",
+  "articles": []
+}
