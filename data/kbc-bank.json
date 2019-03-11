@@ -1,0 +1,56 @@
+{
+  "id": "kbc-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "KBC",
+  "legalName": "KBC Group N.V.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/KBC.jpg",
+  "website": "https://www.kbc.com/en",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": ["BE","BG","HU","CZ","SK"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": "https://newsroom.kbc.com/belgians-positive-towards-integrated-banking-app-kbc-mobile-gives-direct-access-to-current-accounts-held-with-other-banks"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "EBR:KBC",
+  "investorRelationsUrl": "https://www.kbc.com/en/investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-14",
+      "url": "https://www.kbc.com/nl/system/files/doc/investor-relations/Results/4Q2018/4Q2018_Quarterly_Report_en.pdf"
+    }
+  ],
+  "twitter": "KBC_Group",
+  "crunchbase": "kbc-bank",
+  "github": null,
+  "fca": "001b000000MfHWzAAN",
+  "articles": [
+    {
+      "url": "https://newsroom.kbc.com/belgians-positive-towards-integrated-banking-app-kbc-mobile-gives-direct-access-to-current-accounts-held-with-other-banks",
+      "date": "2018-03-05"
+    }
+  ]
+}
