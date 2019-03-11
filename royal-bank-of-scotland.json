@@ -1,0 +1,78 @@
+{
+  "id": "royal-bank-of-scotland",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "The Royal Bank of Scotland",
+  "legalName": "The Royal Bank of Scotland",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/RBS.jpg",
+  "website": "https://en.wikipedia.org/wiki/Royal_Bank_of_Scotland",
+  "ownership": [
+    { 
+      "shareholderName": "The Royal Bank of Scotland Group plc",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552312195/radar/icons/Royal_Bank_of_Scotland.jpg",
+      "providerId": "royal-bank-of-scotland",
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://developer.rbs.co.uk/apiportal",
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "The Account and Transaction API is intended to give a third party, upon consent of the owning customer, access to product, service and transaction information relating to that account such that they may provide the customer with value-adding products or services.",
+      "documentationUrl": "https://developer.rbs.co.uk/apiportal/api-catalogue",
+      "apiReferenceUrl": "https://developer.rbs.co.uk/apiportal/documentation/account-info",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "The payment initiation API enables any third party, registered as an approved Payment Initiation Service Provider (PISP) with Open Banking, to provision secure payments on behalf of our customers. The payment, once approved and authorised by the customer, is submitted for processing. We currently support the submission of a single, immediate, domestic payment from our customer’s UK personal and business current accounts.",
+      "documentationUrl": "https://developer.rbs.co.uk/apiportal/api-catalogue",
+      "apiReferenceUrl": "https://developer.rbs.co.uk/apiportal/documentation/payment-initiation",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:RBS",
+  "investorRelationsUrl": "https://investors.rbs.com/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-15",
+      "url": "https://investors.rbs.com/~/media/Files/R/RBS-IR/results-center/annual-report-2018.pdf"
+    }
+  ],
+  "twitter": "RBS_Help",
+  "crunchbase": "rbs-b75c",
+  "github": null,
+  "fca": "001b000000MfFNkAAN",
+  "articles": []
+}
