@@ -22,7 +22,8 @@
     "apiProducts",
     "ownership",
     "stateOwned",
-    "stockSymbol"
+    "stockSymbol",
+    "investorRelationsUrl"
   ],
   "additionalProperties": false,
   "properties": { 
@@ -327,6 +328,20 @@
       "type": "string",
       "description": "Stock market and ticker symbol",
       "examples": ["AMS: ABN"]
+    },
+    "investorRelationsUrl": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://",
+          "description": "Aplication url of the provider",
+          "examples": ["https://www.abnamro.com/en/investor-relations/index.html"]
+        }, 
+        {
+          "type": "null"
+        }
+      ]
     },
     "quarterlyReports": {
       "type": "array",
