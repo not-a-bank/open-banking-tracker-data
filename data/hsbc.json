@@ -1,0 +1,167 @@
+{
+  "id": "hsbc",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "HSBC",
+  "legalName": "HSBC Holdings plc",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552239844/radar/icons/hsbc.svg",
+  "website": "https://www.hsbc.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "UK",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "OB",
+      "status": "ready"
+    },
+    {
+      "regulation": "GDPR",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.businesswire.com/news/home/20190307005306/en/HSBC-Launches-PSD2-Developer-Portal-Expanded-APIs"
+  },
+  "developerPortalUrl": "https://developer.hsbc.com/",
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Securely retrieve real-time Account Information for HSBC customers in your target market",
+      "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_accountInformation",
+      "apiReferenceUrl": "https://developer.hsbc.com/#/login",
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "OBIE-AISP"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "Integrate secure payment Initiation in your application and launch your business potential.",
+      "categories": ["payments"],
+      "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_paymentInitiation",
+      "apiReferenceUrl": "https://developer.hsbc.com/#/login",
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "OBIE-PISP"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": ["payments"],
+      "description": "Receive a confirmation of available funds to cover a proposed transaction amount.",
+      "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_fundsConfirmation",
+      "apiReferenceUrl": "https://developer.hsbc.com/#/login",
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "OBIE-CBPII"
+    },
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Securely retrieve real-time Account Information for HSBC customers in your target market",
+      "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_accountInformation",
+      "apiReferenceUrl": "https://developer.hsbc.com/#/login",
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "STET-AISP"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "Integrate secure payment Initiation in your application and launch your business potential.",
+      "categories": ["payments"],
+      "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_paymentInitiation",
+      "apiReferenceUrl": "https://developer.hsbc.com/#/login",
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "STET-PISP"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": ["payments"],
+      "description": "Receive a confirmation of available funds to cover a proposed transaction amount.",
+      "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_fundsConfirmation",
+      "apiReferenceUrl": "https://developer.hsbc.com/#/login",
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "STET-CBPII"
+    },
+    {
+      "label": "ATM Locator",
+      "type": "atmLocator",
+      "categories": ["locators"],
+      "description": "Get the locations of all our ATMs.",
+      "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/open_atmLocator",
+      "apiReferenceUrl": "https://developer.hsbc.com/#/login",
+      "premium": false,
+      "stage": "live",
+      "countries": ["UK"]
+    },
+    {
+      "label": "Branch Locator",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": "Get the location of and facilities at our branches.",
+      "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/open_branchLocator",
+      "apiReferenceUrl": "https://developer.hsbc.com/#/login",
+      "premium": false,
+      "stage": "live",
+      "countries": ["UK"]
+    },
+    {
+      "label": "Product Finder",
+      "type": "productFinder",
+      "categories": ["products"],
+      "description": "Current accounts, SME lending products and commercial credit cards.",
+      "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/open_productFinder",
+      "apiReferenceUrl": "https://developer.hsbc.com/#/login",
+      "premium": false,
+      "stage": "live",
+      "countries": ["UK"]
+    }
+  ],
+  "apiStandards": [
+    "STET",
+    "OBIE"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:HSBA",
+  "investorRelationsUrl": "https://www.hsbc.com/investors/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-13",
+      "url": "https://www.abnamro.com/nl/images/Documents/050_Investor_Relations/Financial_Disclosures/2018/ABN_AMRO_Quarterly_Report_2018_Q4.pdf"
+    }
+  ],
+  "twitter": "ABNAMRO",
+  "crunchbase": "hsbc",
+  "github": "ABNAMRO",
+  "fca": "001b000000MfnaPAAR",
+  "articles": [
+    {
+      "url": "https://medium.com/abn-amro-developer/psd2-sandbox-available-lets-get-started-5220d7e9418b",
+      "date": "2019-03-05"
+    }
+  ]
+}
