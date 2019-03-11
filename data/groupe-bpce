@@ -1,0 +1,51 @@
+{
+  "id": "groupe-bpce",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Groupe BPCE",
+  "legalName": "Groupe BPCE",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Groupe_BPCE.jpg",
+  "website": "https://www.groupebpce.fr/en",
+  "ownership": [],
+  "stateOwned": true,
+  "countryHQ": "FR",
+  "countries": ["FR"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://bpce.opendatasoft.com/api/v1/console/datasets/1.0/search/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.groupebpce.fr/en/Investors",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-12",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552311206/Financial%20Data/20190212_CP_BPCE_Results_2018_GB.pdf"
+    }
+  ],
+  "twitter": "GroupeBPCE",
+  "crunchbase": "groupe-bpce",
+  "github": null,
+  "fca": "001b000000Mfre4AAB",
+  "articles": []
+}
