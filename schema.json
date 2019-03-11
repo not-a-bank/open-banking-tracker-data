@@ -170,6 +170,20 @@
       "description": "Aplication url of the provider",
       "examples": ["https://developer.abnamro.com/"]
     },
+    "openBankProjectUrl": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://",
+          "description": "Aplication url of the provider",
+          "examples": ["https://developer.abnamro.com/"]
+        }, 
+        {
+          "type": "null"
+        }
+      ]
+    },
     "apiStandards": {
       "description": "The supported standards",
       "type": "array",
@@ -185,6 +199,16 @@
       "type": "array",
       "items": {
         "type": "object",
+        "required": [
+          "label",
+          "type",
+          "categories",
+          "description",
+          "documentationUrl",
+          "apiReferenceUrl",
+          "premium",
+          "stage"
+        ],
         "properties": {
           "label": {
             "type": "string",
@@ -195,7 +219,17 @@
               "accountInformation",
               "paymentInitiation",
               "fundsConfirmation",
+              "atmLocator",
+              "branchLocator",
+              "productFinder",
               "other"
+            ]
+          },
+          "specification": {
+            "enum": [
+              "OBIE-AISP",
+              "OBIE-CBPII",
+              "OBIE-PISP"
             ]
           },
           "categories": {
@@ -204,7 +238,9 @@
               "enum": [
                 "accounts",
                 "payments",
-                "loans"
+                "loans",
+                "locators",
+                "products"
               ]
             }
           },
@@ -231,12 +267,30 @@
           "stage": {
             "enum": [
               "live",
+              "sandbox",
               "privateBeta",
               "upcoming",
               "prototype",
               "idea",
               "unknown"
             ]
+          },
+          "customerTypes": {
+            "type": "array",
+            "items": {
+              "enum": [
+                "retail",
+                "business",
+                "corperate",
+                "private"
+              ]
+            }
+          },
+          "countries": {
+            "type": "array",
+            "description": "In what countries is the API available",
+            "examples": ["NL", "BE"],
+            "uniqueItems": true
           }
         }
       }
