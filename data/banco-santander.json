@@ -11,7 +11,7 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "ES",
-  "countries": ["GB;ES;PT;DE;PL"],
+  "countries": ["GB","ES","PT","DE","PL"],
   "compliance": [
     { 
       "regulation": "PSD2",
@@ -24,7 +24,7 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092"
+    "sourceUrl":null
   },
   "developerPortalUrl": "https://developer.santander.co.uk/sanuk/external",
   "openBankProjectUrl": "https://santander.openbankproject.com",
