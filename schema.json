@@ -269,8 +269,18 @@
             "examples": ["Initiate a single payment and retrieve information on the status of the transaction."]
           },
           "documentationUrl": {
-            "type": "string",
-            "examples": ["https://developer.abnamro.com/content/payment-initiation"]
+            "anyOf": [
+              {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^(https?|http?)://",
+                "description": "Aplication url of the provider",
+                "examples": ["https://developer.abnamro.com/content/payment-initiation"]
+              },
+              {
+                "type": "null"
+              }
+            ]
           },
           "apiReferenceUrl": {
             "anyOf" : [
@@ -291,7 +301,8 @@
               "upcoming",
               "prototype",
               "idea",
-              "unknown"
+              "unknown",
+              "deprecated"
             ]
           },
           "customerTypes": {
