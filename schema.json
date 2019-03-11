@@ -158,9 +158,16 @@
           ]
         },
         "sourceUrl": {
-          "type": "string",
-          "format": "uri",
-          "pattern": "^(https?|http?)://"
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^(https?|http?)://"
+            },
+            { 
+              "type": "null"
+            }
+          ]
         }
       }
     },
@@ -361,9 +368,16 @@
       "examples": ["public"]
     },
     "stockSymbol": {
-      "type": "string",
-      "description": "Stock market and ticker symbol",
-      "examples": ["AMS:ABN"]
+      "anyOf": [
+        {
+          "type": "string",
+          "description": "Stock market and ticker symbol",
+          "examples": ["AMS:ABN"]
+        },
+        { 
+          "type": "null"
+        }
+      ]
     },
     "investorRelationsUrl": {
       "anyOf": [
