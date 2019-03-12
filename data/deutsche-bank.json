@@ -53,6 +53,16 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "sandbox"
+    },
+     {
+      "label": "Payment Initiation Services",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Can be operated by a licensed Payment Initiation Service Provider (PISP) possessing an eIDAS certificate with PSP_PI role for initiating payments and checking the status of such payments, as instructed by PSU.",
+      "documentationUrl": "https://developer.db.com/products/psd2",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
     }
   ],
   "apiStandards": [],
