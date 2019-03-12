@@ -1,0 +1,54 @@
+{
+  "id": "revolut",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Revolut",
+  "legalName": "Revolut Ltd",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Revolut.jpg",
+  "website": "https://www.revolut.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://blog.revolut.com/introducing-revolut-for-business-open-api/"
+  },
+  "developerPortalUrl": "https://www.revolut.com/en-BE/open-api",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "RevolutApp",
+  "crunchbase": "revolut",
+  "github": "revolut",
+  "fca": "001b000002zyAwNAAU",
+  "articles": [
+    {
+      "url": "https://blog.revolut.com/introducing-revolut-for-business-open-api/",
+      "date": "2018-05-17"
+    }
+  ]
+}
