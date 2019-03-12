@@ -1,0 +1,58 @@
+{
+  "id": "belfius",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Belfius",
+  "legalName": "BELFIUS BANK SA/NV",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Belfius.jpg",
+  "website": "https://www.belfius.be/about-us/en/who-we-are",
+  "ownership": [
+    { 
+      "shareholderName": "Belgian State",
+      "shareholderIconUrl": ["BE"],
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "BE",
+  "countries": ["BE"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.belfius.be/devportal/en/getstarted/index.aspx",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.belfius.be/about-us/en/investors/reports-presentations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-22",
+      "url": "https://www.belfius.be/about-us/dam/corporate/investors/results/en/Press_Release_Results_2018.pdf"
+    }
+  ],
+  "twitter": "Belfius",
+  "crunchbase": "belfius-bank",
+  "github": null,
+  "fca": null,
+  "articles": []
+}
