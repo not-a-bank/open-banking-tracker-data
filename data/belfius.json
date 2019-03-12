@@ -30,7 +30,38 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://developer.belfius.be/devportal/en/getstarted/index.aspx",
-  "apiProducts": [],
+  "apiProducts": [
+     {
+      "label": "Account Information Services (AIS)",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Use our Account Information Services (AIS) API to access account balances and transaction histories through third-party applications.",
+      "documentationUrl": "https://developer.belfius.be/devportal/en/apis/accounts/index.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation Service (PIS)",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Use our Payment Initiation Service API to initiate payments via third-party applications.",
+      "documentationUrl": "https://developer.belfius.be/devportal/en/apis/payments/index.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Consent API",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "Use our Consent API in order to receive the required authorization code, a mandatory input in all our AIS APIs.",
+      "documentationUrl": "https://developer.belfius.be/devportal/en/apis/consent/index.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
