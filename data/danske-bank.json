@@ -1,0 +1,63 @@
+{
+  "id": "danske-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Danske Bank",
+  "legalName": "Danske Bank A/S",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296069/radar/icons/Danske_Bank.jpg",
+  "website": "https://danskebank.com/",
+  "ownership": [
+    { 
+      "shareholderName": "A.P. Møller Holding Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552350016/radar/icons/AP_Moller_Maersk.jpg",
+      "providerId": null,
+      "percentage": 20.5
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "DK",
+  "countries": ["DK","NO","FI","SE"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://danskebank.com/news-and-insights/news-archive/news/2018/15012018"
+  },
+  "developerPortalUrl": "https://danskebank.com/openbanking",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "CPH:DANSKE",
+  "investorRelationsUrl": "https://danskebank.com/investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-01",
+      "url": "https://danskebank.com/-/media/danske-bank-com/file-cloud/2019/2/annual-report-2018-.-la=en.pdf"
+    }
+  ],
+  "twitter": "DanskeBank_DK",
+  "crunchbase": "danske-bank",
+  "github": "DanskeBank",
+  "fca": "001b000000MfF0LAAV",
+  "articles": [
+    {
+      "url": "https://danskebank.com/news-and-insights/news-archive/news/2018/15012018",
+      "date": "2018-01-15"
+    }
+  ]
+}
