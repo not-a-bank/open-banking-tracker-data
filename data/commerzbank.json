@@ -1,0 +1,58 @@
+{
+  "id": "CaixaBank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "CaixaBank",
+  "legalName": "Caixabank, SA.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552381252/radar/icons/CaixaBank.jpg",
+  "website": "https://www.commerzbank.com/",
+  "ownership": [
+    { 
+      "shareholderName": "Criteria Caixa",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552381367/radar/icons/CriteriaCaixa.jpg",
+      "providerId": null,
+      "percentage": 40.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": ["ES";"PT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "CABK:SM",
+  "investorRelationsUrl": "https://www.caixabank.com/inversoresinstitucionales_en.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-01",
+      "url": "https://www.caixabank.com/deployedfiles/caixabank/Estaticos/PDFs/Informacion_accionistas_inversores/IPP_4T18_ENG.PDF"
+    }
+  ],
+  "twitter": "caixabank",
+  "crunchbase": "caixabank",
+  "github": null,
+  "fca": "001b000000MfgbgAAB",
+  "articles": []
+}
