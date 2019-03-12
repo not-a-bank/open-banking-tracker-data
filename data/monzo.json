@@ -1,0 +1,50 @@
+{
+  "id": "monzo",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Monzo",
+  "legalName": "Monzo Bank Limited",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Monzo.jpg",
+  "website": "https://monzo.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://monzo.com/blog/2018/01/12/api-update/"
+  },
+  "developerPortalUrl": "https://monzo.com/blog/2018/01/12/api-update/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "monzo",
+  "crunchbase": "monzo",
+  "github": "monzo",
+  "fca": "001b000002syvKiAAI",
+  "articles": [
+    {
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Monzo.jpg",
+      "date": "2018-01-12"
+    }
+  ]
+}
