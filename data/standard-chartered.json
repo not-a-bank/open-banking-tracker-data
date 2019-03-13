@@ -30,7 +30,58 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://axess.sc.com/",
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Provides account information, balances and  information about transactions.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://axess.sc.com/apis/account-data/returns-list-of-transactions-for-specific-account",
+      "premium": false,
+      "stage": "live",
+    },
+    {
+      "label": "Move Money",
+      "type": "paymentInitiation",
+      "description": "Instruction for making and tracking payments of different types including cross border transaction.",
+      "categories": ["payments"],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://axess.sc.com/apis/paynow/payment-status-check",
+      "premium": false,
+      "stage": "live",
+    },
+    {
+      "label": "ATM Locator",
+      "type": "atmLocator",
+      "categories": ["locators"],
+      "description": "Details of Standard Chartered ATMs and Branches",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://axess.sc.com/apis/locations/list-of-atm-and-branch-locations",
+      "premium": false,
+      "stage": "live",
+    },
+    {
+      "label": "Branch Locator",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": "Details of Standard Chartered ATMs and Branches.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://axess.sc.com/apis/locations/list-of-atm-and-branch-locations",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Retail Products",
+      "type": "productFinder",
+      "categories": ["products"],
+      "description": "Information on products and services for Retail customers.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://axess.sc.com/apis/products/list-of-products",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
