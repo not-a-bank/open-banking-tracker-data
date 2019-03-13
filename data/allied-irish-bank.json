@@ -1,0 +1,103 @@
+{
+  "id": "allied-irish-bank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "AIB",
+  "legalName": "Allied Irish Banks, p.l.c.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296069/radar/icons/Allied_Irish_Bank.jpg",
+  "website": "https://aib.ie/",
+  "ownership": [
+    { 
+      "shareholderName": "Irish State",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552486084/radar/icons/Irish_State.webp",
+      "providerId": "Irish State",
+      "percentage": null
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "IE",
+  "countries": ["IE","GB"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.aib.ie/",
+  "apiProducts": [
+     {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "With your customer's consent, access their account data, and their balance and transaction information.",
+      "documentationUrl": "https://developer.aib.ie/api-product-overview-ROI",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Enable your customers to make secure payments from their chosen bank account.",
+      "documentationUrl": "https://developer.aib.ie/api-product-overview-ROI",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": "Our Confirmation of Funds API will be available soon. This will enable your customers to request a funds availability check on their account.",
+      "documentationUrl": "https://developer.aib.ie/api-product-overview-ROI",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Credit Cards",
+      "type": "other",
+      "categories": ["products"],
+      "description": "Our Cards API will be available soon. With your customer's consent, access up to date balance and transaction information on their credit card account.",
+      "documentationUrl": "https://developer.aib.ie/api-product-overview-ROI",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:AIBG",
+  "investorRelationsUrl": "https://aib.ie/investorrelations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-03-01",
+      "url": "https://aib.ie/content/dam/aib/investorrelations/docs/resultscentre/annualreport/aib-annual-financial-report-2018.pdf"
+    }
+  ],
+  "twitter": "AIBIreland",
+  "crunchbase": "allied-irish-banks",
+  "github": null,
+  "fca": "001b000000MfJOKAA3",
+  "articles": []
+}
