@@ -218,11 +218,15 @@
       "examples": [true]
     },
     "apiAuth": {
-      "enum": [
-        "oauth2",
-        "unkown"
-      ],
-      "examples": ["oauth2"]
+      "type": "array",
+      "items": {
+        "enum": [
+          "OAUTH2",
+          "OPENID-CONNECT",
+          "UNKNOWN"
+        ]
+      },
+      "examples": ["OAUTH2"]
     },
     "apiReferenceUrl": {
       "anyOf": [

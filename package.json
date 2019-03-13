@@ -4,7 +4,6 @@
   "description": "",
   "main": "",
   "scripts": {
-    "deploy": "serverless deploy",
     "test": "echo \"Error: no test specified\" && exit 1",
     "validate-data": "node scripts/validate.js",
     "upload": "node scripts/validate.js && node scripts/upload.js"

@@ -26,7 +26,7 @@
   "developerCommunityUrl": "https://developer.starlingbank.com/community",
   "openBankProjectUrl": null,
   "slackCommunity": true,
-  "apiAuth": "oauth2",
+  "apiAuth": ["OAUTH2"],
   "apiReferenceUrl": "https://developer.starlingbank.com/docs",
   "apiProducts": [
     {
