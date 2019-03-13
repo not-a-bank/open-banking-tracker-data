@@ -8,7 +8,14 @@
   "verified": false,
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Credit_Mutuel.jpg",
   "website": "https://www.creditmutuel.com/en",
-  "ownership": [],
+  "ownership": [
+    { 
+      "shareholderName": "Co-Operative of French Banks",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Credit_Mutuel.jpg",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "FR",
   "countries": ["FR"],

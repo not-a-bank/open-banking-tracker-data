@@ -1,0 +1,133 @@
+{
+  "id": "op-financial-group",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "LegalName": "OP Osuuskunta",
+  "name": "OP Financial Group",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/OP_Financial_Group.png",
+  "website": "https://www.op.fi/",
+  "ownership": [
+    { 
+      "shareholderName": "Co-Operative of Finnish Banks",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/OP_Financial_Group.png",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "FI",
+  "countries": ["FI"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://op-developer.fi/",
+  "apiProducts": [
+     {
+      "label": "Accounts V3.0",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Effortless access to account and transaction information.",
+      "documentationUrl": "https://op-developer.fi/docs/#Banking",
+      "apiReferenceUrl": "https://op-developer.fi/docs/api/3Oo5zCujXGw2SGEi00skug/Accounts%20V3.0",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://op-developer.fi/docs/#Banking",
+      "apiReferenceUrl": "https://op-developer.fi/docs/api/3q56PNZ49yiYWOCuAOYU40/Payments",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Transfers",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://op-developer.fi/docs/#Banking",
+      "apiReferenceUrl": "https://op-developer.fi/docs/api/3q56PNZ49yiYWOCuAOYU40/Payments#tag/Transfer",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "OP-Yrityssiirto",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "The API allows merchants to pay real time transfers directly to consumers’ bank accounts.",
+      "documentationUrl": "https://op-developer.fi/docs/#Banking",
+      "apiReferenceUrl": "https://maksu.pivo.fi/docs/",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "One-off Loan API (v2)",
+      "type": "other",
+      "categories": ["loans"],
+      "description": null,
+      "documentationUrl": "https://op-developer.fi/docs/#Banking",
+      "apiReferenceUrl": "https://op-developer.fi/docs/api/6OC4VgQIY8Sg4EsGa8E0OG/One-off%20Loan",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Pivo Payment",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Finland’s largest mobile wallet payment solution is designed to make paying online easy and fast. The API supports online, in-app and Facebook messenger.",
+      "documentationUrl": "https://op-developer.fi/docs/#Banking",
+      "apiReferenceUrl": "https://maksu.pivo.fi/docs/",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Highway",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Payment Highway offers Finland’s best app payment experience. The APIs enable one-click payments and recurring charging in-app and on the web.",
+      "documentationUrl": "https://www.paymenthighway.io/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Accounts with AI (v2.0.0)",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Accounts with AI 2.0: Accounts with AI APIs provide access points to basic, enriched, and predictive information on accounts and transactions.",
+      "documentationUrl": "https://op-developer.fi/docs/#Banking",
+      "apiReferenceUrl": "https://op-developer.fi/docs/api/6mU2J4ZntSISWMiOmueYKG/Accounts-2.0",
+      "premium": false,
+      "stage": "deprecated"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.op.fi/common/pohjola-s-insurances-have-been-moved",
+  "quarterlyReports": [],
+  "twitter": "OP_Ryhma",
+  "crunchbase": "op-financial-group",
+  "github": null,
+  "fca": null,
+  "articles": []
+}

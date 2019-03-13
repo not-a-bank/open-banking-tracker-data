@@ -1,0 +1,53 @@
+{
+  "id": "zurcher-kantonalbank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Zurcher Kantonalbank",
+  "legalName": "Zürcher Kantonalbank (ZKB)",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296100/radar/icons/Zurcher_Kantonalbank.png",
+  "website": "https://www.zkb.ch/en/lg/ew",
+  "ownership": [
+    { 
+      "shareholderName": "Kanton Zürich",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552482059/radar/icons/Kanton_Zurich.png",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "CH",
+  "countries": ["CH"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.zkb.ch/en/lg/ew/dsc-investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-08",
+      "url": "https://www.zkb.ch/en/lg/ew/media/press-releases/2019/press-release-08-02-2019.html"
+    }
+  ],
+  "twitter": "KantonZuerich",
+  "crunchbase": "z%C3%BCrcher-kantonalbank",
+  "github": null,
+  "fca": null,
+  "articles": []
+}

@@ -1,0 +1,159 @@
+{
+  "id": "erste-group",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Erste Group",
+  "legalName": "Erste Group Bank AG.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Erste_Group.jpg",
+  "website": "https://www.erstegroup.com/en/home",
+  "ownership": [
+    { 
+      "shareholderName": "Erste Foundation",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552472794/radar/icons/Erste-Foundation.jpg",
+      "providerId": null,
+      "percentage": 11.3
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "AT",
+  "countries": ["AT","CZ","HU","SK","HR","RS","RO"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developers.erstegroup.com/docs/apis",
+  "apiProducts": [
+    {
+      "label": "PSD2 accounts API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Faccount-information",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "PSD2 payments API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Fpayment-initiation",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Transparent Accounts API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2FtransparentAccounts",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Places API",
+      "type": ["atmLocator","branchLocator"],
+      "categories": ["locators"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fplaces",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Personal Products API",
+      "type": ["productFinder"],
+      "categories": ["products"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fnetbanking",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Personal accounts API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Faccounts",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Mortgage calculator API",
+      "type": "other",
+      "description": null,
+      "categories": ["products"],
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Fhypocalc",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Know your customer API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Fkyc",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Corporate accounts API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Fcorporate",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Exchange rates API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Frates",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "VIE:EBS",
+  "investorRelationsUrl": "https://www.erstegroup.com/en/investors",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-28",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552474079/Financial%20Data/IR_News_190228en_FY18.pdf"
+    }
+  ],
+  "twitter": "ErsteGroup",
+  "crunchbase": "erste-group",
+  "github": null,
+  "fca": "001b000000MfFC8AAN",
+  "articles": []
+}
