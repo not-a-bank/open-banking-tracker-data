@@ -1,21 +1,14 @@
 {
-  "id": "seb-bank",
+  "id": "swedbank",
   "type": ["account"],
   "bankType": ["universal"],
-  "name": "SEB",
-  "legalName": "Skandinaviska Enskilda Banken AB",
+  "name": "Swedbank",
+  "legalName": "Swedbank AB",
   "ipoStatus": "public",
   "verified": false,
-  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/SEB_Bank.png",
-  "website": "https://sebgroup.com/",
-  "ownership": [
-    { 
-      "shareholderName": "AB Investor",
-      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552469995/radar/icons/Investor_AB.png",
-      "providerId": null,
-      "percentage": 20.8
-    }
-  ],
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296089/radar/icons/Swedbank.jpg",
+  "website": "https://www.swedbank.com/",
+  "ownership": [],
   "stateOwned": false,
   "countryHQ": "SE",
   "countries": ["SE","EE","LV","LT"],
