@@ -1,0 +1,50 @@
+{
+  "id": "banco-bpm",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Banco BPM",
+  "legalName": "Banco BPM S.p.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Banco_BPM.jpg",
+  "website": "https://www.bancobpm.it/index.php",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": ["IT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "BIT: BAMI",
+  "investorRelationsUrl": "https://www.bancobpm.it/investor-relations/?lang=en",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-06",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552472376/Financial%20Data/Banco-BPM-FY-2018-Group-Results-presentation-FINAL-1.pdf"
+    }
+  ],
+  "twitter": "BancoBPMSpa",
+  "crunchbase": "banco-bpm",
+  "github": null,
+  "fca": null,
+  "articles": []
+}
