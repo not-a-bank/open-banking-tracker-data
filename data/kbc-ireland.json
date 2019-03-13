@@ -30,7 +30,38 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://kbcireland.dev.ca.com/admin/login?to-default-config=true&zone=topnav",
-  "apiProducts": [],
+  "apiProducts": [
+     {
+      "label": "Account Information Service (AIS)",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Access current account or credit card information (with your customer's explicit consent).",
+      "documentationUrl": "https://www.kbc.ie/psd2-developer-portal/apis/ais",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation Services (PIS)",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Initiate an immediate payment to a SEPA-zone beneficiary (with your customer's explicit consent)",
+      "documentationUrl": "https://www.kbc.ie/psd2-developer-portal/apis/pis",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds (COF)",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": "Check availability of a KBC customer's current account or credit card funds (with their explicit consent).",
+      "documentationUrl": "https://www.kbc.ie/psd2-developer-portal/apis/cof",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
