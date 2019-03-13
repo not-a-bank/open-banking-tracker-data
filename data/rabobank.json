@@ -8,7 +8,14 @@
   "verified": false,
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296085/radar/icons/Rabobank.jpg",
   "website": "https://www.rabobank.com/en/home/index.html",
-  "ownership": [],
+  "ownership": [
+    { 
+      "shareholderName": "Co-Operative of Dutch Banks",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296085/radar/icons/Rabobank.jpg",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "NL",
   "countries": ["NL","BE","LU"],
