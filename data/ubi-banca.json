@@ -12,7 +12,12 @@
   "stateOwned": false,
   "countryHQ": "IT",
   "countries": ["IT"],
-  "compliance": [],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
   "sandbox": {
     "status": "unavailable",
     "sourceUrl": null
