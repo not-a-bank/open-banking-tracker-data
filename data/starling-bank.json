@@ -23,7 +23,33 @@
     "sourceUrl": "https://www.starlingbank.com/news/UK-first-banking-as-platform/"
   },
   "developerPortalUrl": "https://developer.starlingbank.com/",
-  "apiProducts": [],
+  "developerCommunityUrl": "https://developer.starlingbank.com/community",
+  "openBankProjectUrl": null,
+  "slackCommunity": true,
+  "apiAuth": "oauth2",
+  "apiReferenceUrl": "https://developer.starlingbank.com/docs",
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.starlingbank.com/docs",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.starlingbank.com/docs",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "webApplication": false,
   "mobileApps": [
