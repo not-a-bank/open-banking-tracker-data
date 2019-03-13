@@ -1,0 +1,79 @@
+{
+  "id": "seb-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "SEB",
+  "legalName": "Skandinaviska Enskilda Banken AB",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/SEB_Bank.png",
+  "website": "https://sebgroup.com/",
+  "ownership": [
+    { 
+      "shareholderName": "AB Investor",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552469995/radar/icons/Investor_AB.png",
+      "providerId": null,
+      "percentage": 20.8
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "SE",
+  "countries": ["SE","EE","LV","LT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.sebgroup.com/",
+  "apiProducts": [
+     {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "The Account Information Product provides easy integration with Swedish customers' Transaction and Card accounts at SEB.",
+      "documentationUrl": "https://developer.sebgroup.com/products",
+      "apiReferenceUrl": "https://developer.sebgroup.com/node/1283",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "The Payment Initiation Product provides seamless and efficient payment functionalities to enhance your payment services.",
+      "documentationUrl": "https://developer.sebgroup.com/products",
+      "apiReferenceUrl": "https://developer.sebgroup.com/node/1277",
+      "premium": false,
+      "stage": "sandbox"
+    }
+    ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "STO: SEB-A",
+  "investorRelationsUrl": "https://sebgroup.com/investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-01-30",
+      "url": "https://sebgroup.com/siteassets/investor_relations1/interim_reports/2018_q4_interim.pdf"
+    }
+  ],
+  "twitter": "seb_bank",
+  "crunchbase": "seb",
+  "github": "sebgroup",
+  "fca": "001b000000MfF4XAAV",
+  "articles": []
+}
