@@ -1,0 +1,59 @@
+{
+  "id": "bankinter",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Bankinter",
+  "legalName": "Bankinter Gestion de Activos SA",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Bankinter.png",
+  "website": "https://www.bankinter.pt/",
+  "ownership": [
+    { 
+      "shareholderName": "Cartival S.A.",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552491769/radar/icons/Cartival.png",
+      "providerId": null,
+      "percentage": 22.9,
+      "sourceUrl": "https://webcorporativa.bankinter.com/stf/web_corporativa/accionistas_e_inversores/info_financiera/memoria/2018/informe_anual_integrado_2018.pdf"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": ["ES","PT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "BME:BKT",
+  "investorRelationsUrl": "https://webcorporativa.bankinter.com/www2/corporativa/en/inf_financiera_cnmv/informacion_financiera/agenda_inversor",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-01-24",
+      "url": "https://webcorporativa.bankinter.com/stf/traducciones/ingles/web_corporativa/accionistas_e_inversores/info_financiera/resultados/2018/cuarto_trimestre/bankinter_4q18.pdf"
+    }
+  ],
+  "twitter": "bankinter",
+  "crunchbase": "bankinter",
+  "github": null,
+  "fca": "001b000000NMXIGAA5",
+  "articles": []
+}
