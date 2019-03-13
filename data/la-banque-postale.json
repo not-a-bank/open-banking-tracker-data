@@ -1,0 +1,53 @@
+{
+  "id": "la-banque-postale",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "La Banque Postale",
+  "legalName": "La Banque Postale S.A.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/La_Banque_Postale.jpg",
+  "website": "https://www.labanquepostale.fr/",
+  "ownership": [
+    { 
+      "shareholderName": "La Poste",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552469076/radar/icons/Le-Groupe-La-Poste.jpg",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "FR",
+  "countries": ["FR"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://kbcireland.dev.ca.com/admin/login?to-default-config=true&zone=topnav",
+  "openBankProjectUrl": "https://labanquepostale.openbankproject.com/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "LaBanquePostale",
+  "crunchbase": "la-banque-postale",
+  "github": null,
+  "fca": "001b000003YBGgtAAH",
+  "articles": []
+}
