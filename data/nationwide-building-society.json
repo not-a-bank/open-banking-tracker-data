@@ -1,0 +1,91 @@
+{
+  "id": "nationwide-building-society",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Nationwide Building Society",
+  "legalName": "Nationwide Building Society",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nationwide_Building_Society.jpg",
+  "website": "https://www.nationwide.co.uk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://www.nationwide.co.uk/developer",
+  "apiProducts": "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Detailed Open Banking specifications for the Account and Transaction API that is available to Account Information Service Providers (AISPs) are available on the Open Banking website.",
+      "documentationUrl": "https://www.nationwide.co.uk/developer/open-banking-api",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Detailed Open Banking specifications for the Payment Initiation API that is available to Payment Initiation Service Providers (PISPs) are available on the Open Banking website.",
+      "documentationUrl": "https://www.nationwide.co.uk/developer/open-banking-api",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Discovery and Application Registration",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "Give customers the option to initiate payments via our BNP Paribas Fortis Payment Initiation API.",
+      "documentationUrl": "https://www.nationwide.co.uk/developer/open-banking-api",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Security",
+      "type": "other",
+      "categories": ["products"],
+      "description": "The detailed Open Banking specification for the security model (Security Profile) is available on the central Open Banking website (This link will open in a new window).",
+      "documentationUrl": "https://www.nationwide.co.uk/developer/open-banking-api",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.nationwide.co.uk/about/investor-relations/introduction",
+  "quarterlyReports": [
+    {
+      "label": "Q3 2018/19",
+      "date": "2019-02-08",
+      "url": "https://www.nationwide.co.uk/-/media/MainSite/documents/about/corporate-information/results-and-accounts/2018-2019/Interim-Management-Statement-December%202018.pdf"
+    }
+  ],
+  "twitter": "askNationwide",
+  "crunchbase": "nationwide-building-society-llc",
+  "github": null,
+  "fca": "001b000000MfFYOAA3",
+  "articles": []
+}
