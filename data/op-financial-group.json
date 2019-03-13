@@ -8,7 +8,14 @@
   "verified": false,
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/OP_Financial_Group.png",
   "website": "https://www.op.fi/",
-  "ownership": [],
+  "ownership": [
+    { 
+      "shareholderName": "Co-Operative of Finnish Banks",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/OP_Financial_Group.png",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
   "stateOwned": true,
   "countryHQ": "FI",
   "countries": ["FI"],
