@@ -538,6 +538,11 @@
               },
               { "type": "null" }
             ]
+          },
+          "sourceUrl": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^(https?|http?)://"
           }
         }
       }
