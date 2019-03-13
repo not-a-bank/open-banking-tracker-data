@@ -29,7 +29,7 @@
     "status": "available",
     "sourceUrl": "https://developer.rb.cz/psd2"
   },
-  "developerPortalUrl": "https://developer.rb.cz/accounts_cz_api_sandbox"
+  "developerPortalUrl": "https://developer.rb.cz/accounts_cz_api_sandbox",
   "apiProducts": [
     {
       "label": "Accounts CZ API",
@@ -39,7 +39,7 @@
       "documentationUrl": "https://developer.rb.cz/accounts_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/251",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "sandbox",
       "rateLimits": [{
         "plan": "Default",
         "limit": "100 per hour"
@@ -53,7 +53,7 @@
       "documentationUrl": "https://developer.rb.cz/payments_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/388",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "sandbox",
       "rateLimits": [{
         "plan": "Default",
         "limit": "100 per hour"
@@ -67,7 +67,7 @@
       "documentationUrl": "https://developer.rb.cz/balancecheck_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/383",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "sandbox",
       "rateLimits": [{
         "plan": "Default",
         "limit": "100 per hour"
@@ -81,7 +81,7 @@
       "documentationUrl": "https://developer.rb.cz/authorization_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/386",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "sandbox",
       "rateLimits": [{
         "plan": "Default",
         "limit": "100 per hour"
@@ -95,7 +95,7 @@
       "documentationUrl": "https://developer.rb.cz/authorization_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/386",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "sandbox",
       "rateLimits": [{
         "plan": "Default",
         "limit": "100 per hour"
@@ -109,7 +109,7 @@
       "documentationUrl": "https://developer.rb.cz/authorization_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/386",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "sandbox",
       "rateLimits": [{
         "plan": "Default",
         "limit": "100 per hour"
