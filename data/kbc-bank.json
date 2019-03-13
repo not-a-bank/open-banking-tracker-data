@@ -19,11 +19,56 @@
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": "https://newsroom.kbc.com/belgians-positive-towards-integrated-banking-app-kbc-mobile-gives-direct-access-to-current-accounts-held-with-other-banks"
+    "status": "available",
+    "sourceUrl": "https://www.kbc.com/system/files/doc/newsroom/pressreleases/2019/20190311_PR_DeveloperPortal_EN.pdf"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
+  "developerPortalUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en.html",
+  "apiAuth": "oauth2",
+  "apiProducts": [
+     {
+      "label": "Account Information Service (AIS)",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Access current account or credit card information (with your customer's explicit consent).",
+      "documentationUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en/apis/ais.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "BERLIN1.1"
+    },
+    {
+      "label": "Payment Initiation Services (PIS)",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Initiate an immediate payment to a SEPA-zone beneficiary (with your customer's explicit consent)",
+      "documentationUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en/apis/pis.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "BERLIN1.1"
+    },
+    {
+      "label": "Confirmation of Funds (COF)",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": "Check availability of a KBC customer's current account or credit card funds (with their explicit consent).",
+      "documentationUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en/apis/cof.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "BERLIN1.1"
+    },
+    {
+      "label": "Authorization API",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "Compose & trigger authorization request. Get & refresh tokens. Security endpoints.",
+      "documentationUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en/apis/authorization.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
