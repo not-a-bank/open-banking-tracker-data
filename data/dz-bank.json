@@ -8,7 +8,14 @@
   "verified": false,
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296070/radar/icons/DZ_Bank.jpg",
   "website": "https://www.dzbank.com/",
-  "ownership": [],
+  "ownership": [
+    { 
+      "shareholderName": "Co-Operative of Germany Banks",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296070/radar/icons/DZ_Bank.jpg",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "DE",
   "countries": ["DE"],
