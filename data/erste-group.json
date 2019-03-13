@@ -63,7 +63,17 @@
     },
     {
       "label": "Places API",
-      "type": ["atmLocator","branchLocator"],
+      "type": "atmLocator",
+      "categories": ["locators"],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fplaces",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Places API",
+      "type": "branchLocator",
       "categories": ["locators"],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
@@ -73,7 +83,7 @@
     },
     {
       "label": "Personal Products API",
-      "type": ["productFinder"],
+      "type": "productFinder",
       "categories": ["products"],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
