@@ -308,9 +308,14 @@
             }
           },
           "description": {
-            "type": "string",
-            "description": "Description of the API product",
-            "examples": ["Initiate a single payment and retrieve information on the status of the transaction."]
+            "anyOf": [
+              {
+                "type": "string",
+                "description": "Description of the API product",
+                "examples": ["Initiate a single payment and retrieve information on the status of the transaction."]
+              }, 
+              {"type": "null"}
+            ]
           },
           "documentationUrl": {
             "anyOf": [
