@@ -23,7 +23,7 @@
     "sourceUrl": "https://www.kbc.com/system/files/doc/newsroom/pressreleases/2019/20190311_PR_DeveloperPortal_EN.pdf"
   },
   "developerPortalUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en.html",
-  "apiAuth": "oauth2",
+  "apiAuth": ["OAUTH2"],
   "apiProducts": [
      {
       "label": "Account Information Service (AIS)",
