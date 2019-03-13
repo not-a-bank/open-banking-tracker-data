@@ -1,0 +1,64 @@
+{
+  "id": "bank-pekao",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Bank Pekao",
+  "legalName": "Bank Polska Kasa Opieki Spółka Akcyjna",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552489258/radar/icons/Bank_Pekao.jpg",
+  "website": "https://www.pekao.com.pl/",
+  "ownership": [
+    { 
+      "shareholderName": "PZU",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552489387/radar/icons/PZU.jpg",
+      "providerId": null,
+      "percentage": 20.0
+    },
+    { 
+      "shareholderName": "Polish State Treasury",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552487385/radar/icons/Polish_Treasury.png",
+      "providerId": "Polish State Treasury",
+      "percentage": 12.8
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "PL",
+  "countries": ["PL"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "WSE:PEO",
+  "investorRelationsUrl": "https://www.pekao.com.pl/en/investors-relations/financial-results.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2018-02-26",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552489608/Financial%20Data/Unconsolidated_Financial_Statement_31122018.pdf"
+    }
+  ],
+  "twitter": "BankPekaoSA",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}
