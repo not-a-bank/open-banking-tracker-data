@@ -8,7 +8,14 @@
   "verified": false,
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nationwide_Building_Society.jpg",
   "website": "https://www.nationwide.co.uk/",
-  "ownership": [],
+  "ownership": [
+    { 
+      "shareholderName": "Co-Operative of British Building Societies",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nationwide_Building_Society.jpg",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "GB",
   "countries": ["GB"],
