@@ -199,6 +199,45 @@
         }
       ]
     },
+    "developerCommunityUrl": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://",
+          "description": "Aplication url of the provider",
+          "examples": ["https://developer.starlingbank.com/community"]
+        }, 
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "slackCommunity": {
+      "type": "boolean",
+      "examples": [true]
+    },
+    "apiAuth": {
+      "enum": [
+        "oauth2",
+        "unkown"
+      ],
+      "examples": ["oauth2"]
+    },
+    "apiReferenceUrl": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://",
+          "description": "Aplication url of the provider",
+          "examples": ["https://developer.abnamro.com/"]
+        }, 
+        {
+          "type": "null"
+        }
+      ]
+    },
     "apiStandards": {
       "description": "The supported standards",
       "type": "array",
