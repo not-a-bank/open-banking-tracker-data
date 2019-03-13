@@ -1,0 +1,58 @@
+{
+  "id": "virgin-money-uk",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "Virgin Money UK",
+  "legalName": "Virgin Money plc",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296097/radar/icons/Virgin_Money.jpg",
+  "website": "https://uk.virginmoney.com/virgin/",
+  "ownership": [
+    { 
+      "shareholderName": "CYBG",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552491985/radar/icons/CYBG.jpg",
+      "providerId": "royal-bank-of-scotland",
+      "percentage": 100.0
+      "sourceURL": "https://www.cybg.com/resources/7e17aaa1-ced2-4619-acf3-cdc759ee0e84/AP+24_2_2016+-+Final.pdf"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:CYBG",
+  "investorRelationsUrl": "https://uk.virginmoney.com/virgin/investor-relations/results-and-presentations/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "null",
+      "url": "https://uk.virginmoney.com/virgin/investor-relations/results/virgin-money-group-annual-report-and-accounts-2018.pdf"
+    }
+  ],
+  "twitter": "VirginMoney",
+  "crunchbase": "virgin-money",
+  "github": null,
+  "fca": "001b000000NMUWZAA5",
+  "articles": []
+}
