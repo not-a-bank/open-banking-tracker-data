@@ -1,0 +1,59 @@
+{
+  "id": "bankia",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Bankia",
+  "legalName": "Bankia S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Bankia.jpg",
+  "website": "https://www.bankia.com/en/",
+  "ownership": [
+    { 
+      "shareholderName": "BFA",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552490319/radar/icons/BFA.png",
+      "providerId": "BFA",
+      "percentage": 68.4,
+      "sourceUrl": "https://www.bankia.com/en/shareholders-and-investors/the-share/shareholder-structure/"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "ES",
+  "countries": ["ES"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+    ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "BME:BKIA",
+  "investorRelationsUrl": "https://www.bankia.com/en/shareholders-and-investors/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2018-12-31",
+      "url": "https://www.bankia.com/recursos/doc/corporativo/20121001/ingles74659/annual-report-consolidated-financial-statements-2018.pdf"
+    }
+  ],
+  "twitter": "bankia",
+  "crunchbase": "bankia",
+  "github": null,
+  "fca": "001b000000NMbTbAAL",
+  "articles": []
+}
