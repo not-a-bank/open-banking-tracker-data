@@ -63,7 +63,7 @@
     },
     {
       "label": "Places API",
-      "type": ["atmLocator","branchLocator"]
+      "type": ["atmLocator","branchLocator"],
       "categories": ["locators"],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
@@ -73,7 +73,7 @@
     },
     {
       "label": "Personal Products API",
-      "type": ["productFinder"]
+      "type": ["productFinder"],
       "categories": ["products"],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
@@ -101,6 +101,7 @@
       "premium": false,
       "stage": "sandbox"
     },
+    {
       "label": "Know your customer API",
       "type": "accountInformation",
       "categories": ["accounts"],
