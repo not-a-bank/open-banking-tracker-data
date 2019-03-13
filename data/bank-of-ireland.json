@@ -1,0 +1,62 @@
+{
+  "id": "bank-of-ireland",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Bank of Ireland",
+  "legalName": "Bank of Ireland Group plc",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Bank_of_Ireland.jpg",
+  "website": "https://www.bankofireland.com/",
+  "ownership": [
+    { 
+      "shareholderName": "Irish State",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552486084/radar/icons/Irish_State.webp",
+      "providerId": "Irish State",
+      "percentage": 14.0
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "IE",
+  "countries": ["IE","GB"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:BIRG",
+  "investorRelationsUrl": "https://investorrelations.bankofireland.com/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-25",
+      "url": "https://investorrelations.bankofireland.com/app/uploads/Bank-of-Ireland-Investor-Presentation-Dec-2018-1.pdf"
+    }
+  ],
+  "twitter": "BankOfIreland",
+  "crunchbase": "bank-of-ireland",
+  "github": null,
+  "fca": "001b000000NMNtpAAH",
+  "articles": []
+}
