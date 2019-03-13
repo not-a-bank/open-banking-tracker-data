@@ -493,7 +493,10 @@
             "type": "string"
           },
           "date": {
-            "type": "string"
+            "anyOf": [
+              { "type": "string" },
+              { "type": "null" }
+            ]
           },
           "url": {
             "type": "string"
@@ -526,10 +529,15 @@
             "description": "Use the id if this shareholder part of the radar directory"
           },
           "percentage": {
-            "type": "number",
-            "minimum": 0,
-            "maximum": 100,
-            "multiplpeOf": 0.01
+            "anyOf": [
+              { 
+                "type": "number",
+                "minimum": 0,
+                "maximum": 100,
+                "multiplpeOf": 0.01
+              },
+              { "type": "null" }
+            ]
           }
         }
       }
