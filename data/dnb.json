@@ -1,0 +1,169 @@
+{
+  "id": "dnb",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "DNB",
+  "legalName": "DNB ASA",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/DNB.jpg",
+  "website": "https://www.dnb.no/en",
+  "ownership": [
+    { 
+      "shareholderName": "Norwegian State",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552467237/radar/icons/2000px-Flag_of_Norway.svg.png",
+      "providerId": null,
+      "percentage": 34.0
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "NO",
+  "countries": ["NO"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.dnb.no/",
+  "apiProducts": [
+     {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Accounts",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Accounts",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Payments",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Payments",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "API",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/API",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/API",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Cards",
+      "type": "paymentInitiation",
+      "categories": ["products"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Cards",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Cards",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Currencies",
+      "type": "other",
+      "categories": ["products"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Currencies",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Currencies",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Customers",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Customers",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Customers",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Location",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Location",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Location",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Location",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Location",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Location",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Location",
+      "type": "atmLocator",
+      "categories": ["locators"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Location",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Location",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Test_Customers",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "There are ten fictitious test customers available in our sandbox."
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Test_Customers",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Test_Customers",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Transacations",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developer.dnb.no/documentation#tag/Transactions",
+      "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Transactions",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.ir.dnb.no/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-03-07",
+      "url": "https://vp267.alertir.com/afw/files/press/dnb_asa/201903066039-2.pdf"
+    }
+  ],
+  "twitter": "DNB_Bank",
+  "crunchbase": "dnb-nor",
+  "github": "DNBbank",
+  "fca": "001b000000MfJO3AAN",
+  "articles": []
+}
