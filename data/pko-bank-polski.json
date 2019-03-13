@@ -1,0 +1,58 @@
+{
+  "id": "pko-bank-polski",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "PKO",
+  "legalName": "Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296085/radar/icons/PKO_Bank_Polski.png",
+  "website": "https://www.pkobp.pl/",
+  "ownership": [
+    { 
+      "shareholderName": "Polish State Treasury",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552487385/radar/icons/Polish_Treasury.png",
+      "providerId": "Polish State Treasury",
+      "percentage": 29.4
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "PL",
+  "countries": ["PL"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "WSE:PKO",
+  "investorRelationsUrl": "https://www.pkobp.pl/pkobppl-en/investor-relations/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": null,
+      "url": "https://www.pkobp.pl/media_files/ec332d2c-a2ec-4261-a3be-97da284d2393.pdf"
+    }
+  ],
+  "twitter": "PKOBP",
+  "crunchbase": "pko-bp",
+  "github": null,
+  "fca": null,
+  "articles": []
+}
