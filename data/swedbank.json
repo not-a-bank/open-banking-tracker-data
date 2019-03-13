@@ -1,0 +1,97 @@
+{
+  "id": "swedbank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Swedbank",
+  "legalName": "Swedbank AB",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296089/radar/icons/Swedbank.jpg",
+  "website": "https://www.swedbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SE",
+  "countries": ["SE","EE","LV","LT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.swedbank.com/admin/app/home",
+  "openBankProjectUrl": "https://www.swedbank.com/openbanking.html",
+  "apiProducts": [
+    {
+      "label": "accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "invalidateToken",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "consents",
+      "type": "consent",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "funds-confirmation",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "SWEDA:Stockholm",
+  "investorRelationsUrl": "https://www.swedbank.com/investor-relations.html",
+  "quarterlyReports": [],
+  "twitter": "swedbank",
+  "crunchbase": "swedbank",
+  "github": null,
+  "fca": "001b000000MfF4XAAV",
+  "articles": []
+}
