@@ -1,0 +1,51 @@
+{
+  "id": "nykredit",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Nykredit",
+  "legalName": "Nykredit Bank A/S",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nykredit.jpg",
+  "website": "https://www.nykredit.com/en-gb/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DK",
+  "countries": ["DK"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.nykredit.com/en-gb/investor-relations/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-05",
+      "url": "https://www.nykredit.com/siteassets/ir/files/financial-reporting/financial-reports/nykredit-realkredit/nykredit_realkredit_group_q4_18_2019-02-05_en.pdf"
+    }
+  ],
+  "twitter": "nykredit",
+  "crunchbase": "nykredit-a-s",
+  "github": null,
+  "fca": "001b000000MfZbXAAV",
+  "articles": []
+}
