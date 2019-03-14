@@ -1,0 +1,66 @@
+{
+  "id": "millennium-bcp",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Millennium BCP",
+  "legalName": "Banco Comercial Português (BCP), S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Millennium_BCP.png",
+  "website": "https://ind.millenniumbcp.pt/en/particulares/Pages/Welcome.aspx",
+  "ownership": [
+    { 
+      "shareholderName": "Fosun Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552558934/Fosun.jpg",
+      "providerId": null,
+      "percentage": 27.1,
+      "sourceUrl": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/EstruturaAcionista.aspx"
+    },
+    { 
+      "shareholderName": "Sonangol Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552558934/Sonangol_Group.jpg",
+      "providerId": null,
+      "percentage": 19.5,
+      "sourceUrl": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/EstruturaAcionista.aspx"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "PT",
+  "countries": ["PT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "ELI:BCP",
+  "investorRelationsUrl": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/RelInvestidores.aspx",
+  "quarterlyReports": [
+    {
+      "label": "Q3 2018",
+      "date": "2018-11-08",
+      "url": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Documents/RelatorioContas/2018/RCBCP9M2018GB.pdf"
+    }
+  ],
+  "twitter": "Millennium_Comm",
+  "crunchbase": "millennium-bank-sa",
+  "github": null,
+  "fca": "001b000000MfOEfAAN",
+  "articles": []
+}
