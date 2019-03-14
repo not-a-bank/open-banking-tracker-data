@@ -1,0 +1,58 @@
+{
+  "id": "axa-bank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Axa Bank",
+  "legalName": "AXA Holdings Belgium S.A.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Axa_Bank.jpg",
+  "website": "https://www.axabank.be/",
+  "ownership": [
+    { 
+      "shareholderName": "AXA",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Axa_Bank.jpg",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": ["BE"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "EPA:CS",
+  "investorRelationsUrl": "https://group.axa.com/en/investor",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-21",
+      "url": "https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com%2Fc1efdbb4-566e-4e72-a7cd-b7a7b00383e6_axa_pr_20190221_b.pdf"
+    }
+  ],
+  "twitter": "AXABankBE",
+  "crunchbase": "axa-bank",
+  "github": null,
+  "fca": null,
+  "articles": []
+}
