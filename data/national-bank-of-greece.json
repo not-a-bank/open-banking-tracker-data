@@ -1,0 +1,340 @@
+{
+  "id": "national-bank-of-greece",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "National Bank of Greece",
+  "legalName": "National Bank of Greece S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/National_Bank_of_Greece.jpg",
+  "website": "https://www.nbg.gr/en",
+  "ownership": [
+    { 
+      "shareholderName": "Hellenic Financial Stability Fund",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552559924/radar/icons/Greek_State_Fund.png",
+      "providerId": "Hellenic Financial Stability Fund",
+      "percentage": 40.4,
+      "sourceUrl": "https://www.nbg.gr/en/the-group/corporate-governance/shareholder-structure"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "GR",
+  "countries": ["GR"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": "https://developer.nbg.gr/product?page=1",
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Access the user’s list of accounts and transactions.",
+      "documentationUrl": "https://developer.nbg.gr/product/account-information",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/accounts-information-api-oauth2-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Initiate payments (transfers) with strong customer authentication and confirm charges.",
+      "documentationUrl": "https://developer.nbg.gr/product/payment-initiation",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/payments-initiation-api-oauth2-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": "Initiate payments (transfers) with strong customer authentication and confirm charges.",
+      "documentationUrl": "https://developer.nbg.gr/product/confirmation-funds",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/confirmation-funds-api-oauth2-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "Points of Interest",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": "Use the Point of Interest API Product to obtain geographic information about your branches and other POIs. Let your customers view their nearest branches, see the queues and waiting time estimations and generate an e-queuing ticket that lets them know when their turn is expected for service at the branch of their convenience. Were your customers happy with the service? Let them rate their visit!",
+      "documentationUrl": "https://developer.nbg.gr/product/points-interest",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/equeuing-sandbox-api-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "With Accounts you can retrieve information about existing accounts or create new accounts at any bank.",
+      "documentationUrl": "https://developer.nbg.gr/product/accounts-1",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/accounts-api-v11-0",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+      {
+      "label": "Transations",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "With Transactions you can retrieve transaction information of accounts at any bank.",
+      "documentationUrl": "https://developer.nbg.gr/product/transactions-1",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/transactions-api-v11-5",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "With Payments you can send money to any card or bank account (domestic or cross border).",
+      "documentationUrl": "https://developer.nbg.gr/product/payments-1",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/payments-api-v11-1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "IBAN Validation",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "With IBAN validation you can get the IBAN of an NBG account or check that an IBAN is valid and corresponds to an NBG account.",
+      "documentationUrl": "https://developer.nbg.gr/product/iban-validation-0",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/iban-validation-api-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "FX Rates",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "With FX Rates you can get information about foreign exchange market rates.",
+      "documentationUrl": "https://developer.nbg.gr/product/fx-rates-0",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/fx-rates-api-v1-0",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "Biometrics",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "With Biometrics you can count and compare faces in images and detect user liveness in videos.",
+      "documentationUrl": "https://developer.nbg.gr/product/biometrics",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/biometrics-api-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "Crowdfunding",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "Crowdfunding is the practice of funding a project or venture by raising many small amounts of money from a large number of people. This API helps you to integrate your app with NBG Crowdfunding Infrastructure.",
+      "documentationUrl": "https://developer.nbg.gr/product/crowdfunding",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/crowdfunding-api-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "Cards",
+      "type": "cards",
+      "categories": ["cards"],
+      "description": "With the Cards product you can get information about the user’s cards at any bank.",
+      "documentationUrl": "https://developer.nbg.gr/product/cards",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/cards-api-v1-0",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "i-bank Pay eCommerce Platform",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "The i-bank Pay eCommerce Platform lets you easily integrate the i-bank Pay payment method into your website in a two-part process, addressing both the client side to create payment tokens and the API calls to finalize the payments.",
+      "documentationUrl": "https://developer.nbg.gr/product/i-bank-pay-ecommerce-platform",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/ibankpay-ecommerce-sandbox-api-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+      }]
+    },
+    {
+      "label": "Bill Payments",
+      "type": "other",
+      "categories": ["products"],
+      "description": "Take full control of your bill payment lifecycle. Our real-time processing helps you maintain control of your user interface while minimizing the costs.",
+      "documentationUrl": "https://developer.nbg.gr/product/bill-payments",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/bill-payments-sandbox-v2",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+     }]
+    },
+    {
+      "label": "Loan Payments Platform ",
+      "type": "other",
+      "categories": ["products"],
+      "description": "By using the Loan Payment Platform, you can get information and pay instalments of your customer’s loan, issued by NBG.",
+      "documentationUrl": "https://developer.nbg.gr/product/loan-payments-platform",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/loan-management-application-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+     }]
+    },
+    {
+      "label": "Rewards Platform",
+      "type": "other",
+      "categories": ["products"],
+      "description": "Increase your customer’s loyalty by applying your own rewarding platform. Customize your loyalty campaigns and monitor the loyalty experience, resulting in increased engagement with your customers.",
+      "documentationUrl": "https://developer.nbg.gr/product/rewards-platform",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/i-bank-loyalty-api-sandbox-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+     }]
+    },
+    {
+      "label": "Digital Payments Wallet",
+      "type": "other",
+      "categories": ["products"],
+      "description": "Real-time payments to any individual or company at the tip of your finger.",
+      "documentationUrl": "https://developer.nbg.gr/product/digital-payments-wallet-0",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/ibank-pay-sandbox-v12",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+     }]
+    },
+    {
+      "label": "Social Network Platform",
+      "type": "other",
+      "categories": ["products"],
+      "description": "By uploading your contacts, you have the ability to interact with them by creating posts, by sending direct messages or by reacting on the posts and on the direct messages of your contacts. Empower your clients with a fully functional Social Network Platform.",
+      "documentationUrl": "https://developer.nbg.gr/product/social-network-platform-0",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/social-network-application-v2-0",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+     }]
+    },
+    {
+      "label": "Optical Character Recognition",
+      "type": "other",
+      "categories": ["products"],
+      "description": "The OCR (Optical Character Recognition) API gives you the ability to convert different types of documents into editable and searchable data.",
+      "documentationUrl": "https://developer.nbg.gr/product/optical-character-recognition",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/ocr-api-documents-optical-character-recognition-v1",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+     }]
+    },
+    {
+      "label": "ERP Bank Connection",
+      "type": "other",
+      "categories": ["products"],
+      "description": "Empower your clients with full control of their NBG finance in one place and increase your customer satisfaction. Connect to a user’s bank account or card and perform money transfers.",
+      "documentationUrl": "https://developer.nbg.gr/product/erp-bank-connection",
+      "apiReferenceUrl": "https://developer.nbg.gr/documentation/i-bank-erp-api-v101",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "100 per hour"
+     }]
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "OTCMKTS:NBGIF",
+  "investorRelationsUrl": "https://www.nbg.gr/en/the-group/investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q3 2018",
+      "date": "2018-11-29",
+      "url": "https://www.nbg.gr/english/the-group/investor-relations/Documents/Financial%20Results%20Announcements/NBG_3Q18%20Results%20Press%20Release_EN.pdf"
+    }
+  ],
+  "twitter": "NationalBankGR",
+  "crunchbase": "national-bank-of-greece",
+  "github": null,
+  "fca": "001b000000MfG8SAAV",
+  "articles": []
+}
