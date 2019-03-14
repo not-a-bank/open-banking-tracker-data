@@ -1,0 +1,70 @@
+{
+  "id": "luminor-bank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Luminor",
+  "legalName": "Luminor Bank AS",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Luminor_Bank.png",
+  "website": "https://www.luminor.lt/",
+  "ownership": [
+    { 
+      "shareholderName": "Blackstone Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552574124/Financial%20Data/blackstone.jpg",
+      "providerId": "Blackstone Group",
+      "percentage": 60.0
+    },
+    { 
+      "shareholderName": "DNB",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/DNB.jpg",
+      "providerId": "dnb",
+      "percentage": 20.0
+    },
+    { 
+      "shareholderName": "Nordea",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nordea.jpg",
+      "providerId": "nordea",
+      "percentage": 20.0
+    },
+  ],
+  "stateOwned": false,
+  "countryHQ": "EE",
+  "countries": ["EE","LV","LT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.luminor.ee/en/investors",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": null,
+      "url": "https://www.luminor.ee/sites/default/files/documents/files/common/luminor-ee-q4-eng.pdf"
+    }
+  ],
+  "twitter": "luminoreesti",
+  "crunchbase": "luminor",
+  "github": null,
+  "fca": null,
+  "articles": []
+}
