@@ -1,0 +1,62 @@
+{
+  "id": "permanent-tsb",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "Permanent TSB",
+  "legalName": "Permanent TSB PLC",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Permanent_TSB.jpg",
+  "website": "https://www.permanenttsb.ie/",
+  "ownership": [
+    { 
+      "shareholderName": "Department of Finance Ireland",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552568502/Minister_for_Finance_Ireland.jpg",
+      "providerId": "Department of Finance Ireland",
+      "percentage": 74.9,
+      "sourceUrl": "https://www.permanenttsbgroup.ie/about-us/ownership-profile.aspx"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "IE",
+  "countries": ["IE"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON: IL0A",
+  "investorRelationsUrl": "https://www.permanenttsbgroup.ie/investors.aspx",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-27",
+      "url": "https://www.permanenttsbgroup.ie/media/press-releases/2019/27-02-2019.aspx"
+    }
+  ],
+  "twitter": "permanenttsb",
+  "crunchbase": "permanent-tsb",
+  "github": null,
+  "fca": "001b000000pitRtAAI",
+  "articles": []
+}
