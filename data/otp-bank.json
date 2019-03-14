@@ -1,0 +1,51 @@
+{
+  "id": "otp-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "OTP Bank",
+  "legalName": "OTP Bank Nyrt.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/OTP_Bank.jpg",
+  "website": "https://www.otpbank.hu/portal/hu/Maganszemelyek",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "HU",
+  "countries": ["HU","RU","UA","RO","SI","RS","HR"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "OTCMKTS:OTPBF",
+  "investorRelationsUrl": "https://www.otpbank.hu/portal/en/Investor_relations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-03-01",
+      "url": "https://www.otpbank.hu/static/portal/sw/file/190228_OTP_20184Q_e_final.pdf"
+    }
+  ],
+  "twitter": "otpbank_hu",
+  "crunchbase": "otp-bank",
+  "github": null,
+  "fca": "0010X00004D9ObJQAV",
+  "articles": []
+}
