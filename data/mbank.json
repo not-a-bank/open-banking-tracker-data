@@ -1,0 +1,59 @@
+{
+  "id": "mbank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "mBank",
+  "legalName": "mBank S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/mBank.jpg",
+  "website": "https://www.mbank.pl/indywidualny/",
+  "ownership": [
+    { 
+      "shareholderName": "CommerzBank",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/CommerzBank.jpg",
+      "providerId": "CommerzBank",
+      "percentage": 69.4,
+      "sourceUrl": "https://www.mbank.pl/en/investor-relations/shares/shareholders.html"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "PL",
+  "countries": ["PL","CZ","SK"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+    ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "WSE:MBK",
+  "investorRelationsUrl": "https://www.mbank.pl/en/investor-relations/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-07",
+      "url": "https://www.mbank.pl/pdf/msp-korporacje/relacje-inwestorskie/wyniki-finansowe/2018/presentation-q4-eng.pdf"
+    }
+  ],
+  "twitter": "mBankpl",
+  "crunchbase": "mbank",
+  "github": null,
+  "fca": "001b000000Mfzo5AAB",
+  "articles": []
+}
