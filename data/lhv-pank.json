@@ -1,0 +1,51 @@
+{
+  "id": "lhv-pank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "LHV Pank",
+  "legalName": "AS LHV Pank",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/LHV_Pank.jpg",
+  "website": "https://www.lhv.ee/en/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "EE",
+  "countries": ["EE","LV","LT","FI"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "ETAL:LHV1T",
+  "investorRelationsUrl": "https://investor.lhv.ee/en/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-03-12",
+      "url": "https://investor.lhv.ee/assets/files/AS_LHV_Group_Monthly_Results_2019-02-EN.pdf"
+    }
+  ],
+  "twitter": "ellhaavee",
+  "crunchbase": null,
+  "github": null,
+  "fca": "0010X000044E7wfQAC",
+  "articles": []
+}
