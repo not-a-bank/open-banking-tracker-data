@@ -1,0 +1,71 @@
+{
+  "id": "metro-bank",
+  "type": ["account"],
+  "bankType": ["retail","sorperate"],
+  "name": "Metro Bank",
+  "legalName": "Barclays plc",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Metro_Bank.jpg",
+  "website": "https://www.metrobankonline.co.uk",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://developer.metrobankonline.co.uk/overview",
+  "apiProducts": [
+    {
+      "label": "Identity API version 1.0",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "This API is designed to be called by TPPs (Third Party Providers) before the initiation of AIS or PIS requests. TPPs can use the Identity API for functionalities like getting themselves authorised by the TPP consumer, registered with the authorisation server, generation of access token (both client credential grant type and authorisation code grant type) and refresh token, and generation of SSA (software statement assertion). Additionally the Identity API also provides health check utilities through ping endpoint.",
+      "documentationUrl": "https://developer.metrobankonline.co.uk/apis",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Account API version 1.0",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "This API is designed to be called by TPPs (Third Party Providers) to retrieve the information related to accounts, transactions and balances associated with a single account id or for all the account ids linked with the TPP customer’s consent. At the same time, TPPs can use this API to create, retrieve and delete account-request ids for a TPP consumer. Additionally the Account API also provides health check utilities through ping and status endpoints.",
+      "documentationUrl": "https://developer.metrobankonline.co.uk/apis",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+    ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:MTRO",
+  "investorRelationsUrl": "https://www.metrobankonline.co.uk/investor-relations/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-26",
+      "url": "https://www.metrobankonline.co.uk/globalassets/documents/investor_documents/trading-announcement-fy-2018.pdf"
+    }
+  ],
+  "twitter": "Metro_Bank",
+  "crunchbase": "metro-bank-2",
+  "github": null,
+  "fca": "001b000000MfnC7AAJ",
+  "articles": []
+}
