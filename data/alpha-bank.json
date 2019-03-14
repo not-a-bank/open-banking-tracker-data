@@ -1,0 +1,59 @@
+{
+  "id": "alpha-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Alpha Bank",
+  "legalName": "Alpha Bank S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296069/radar/icons/Alpha_Bank.png",
+  "website": "https://www.alpha.gr/",
+  "ownership": [
+    { 
+      "shareholderName": "Hellenic Financial Stability Fund",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552559924/radar/icons/Greek_State_Fund.png",
+      "providerId": "Hellenic Financial Stability Fund",
+      "percentage": 11.0,
+      "sourceUrl": "https://www.alpha.gr/en/group/investor-relations/share-information/shareholder-structure"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "GR",
+  "countries": ["GR"AL","CY","RO"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "Athens:ALPHA",
+  "investorRelationsUrl": "https://www.alpha.gr/en/group/investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q3 2018",
+      "date": "2018-11-29",
+      "url": "https://www.alpha.gr/-/media/alphagr/files/group/apotelesmata/2018_q3/20181129_deltio_typou_en.pdf"
+    }
+  ],
+  "twitter": "alpha_bank",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000MfFTuAAN",
+  "articles": []
+}
