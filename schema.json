@@ -111,7 +111,12 @@
             "enum": [
               "ios",
               "android"
-            ]
+            ],
+            "examples": ["ios"]
+          },
+          "storeUrl": {
+            "type": "string",
+            "examples": ["https://itunes.apple.com/be/app/easy-banking-for-smartphone/id516502006"]
           }
         }
       }
@@ -516,10 +521,16 @@
         ],
         "properties": {
           "shareholderName": {
-            "type": "string"
+            "anyOf" : [
+              { "type": "string" },
+              { "type": "null" }
+            ]
           },
           "shareholderIconUrl": {
-            "type": "string"
+            "anyOf" : [
+              { "type": "string" },
+              { "type": "null" }
+            ]
           },
           "providerId": {
             "anyOf" : [
