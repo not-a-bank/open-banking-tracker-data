@@ -1,0 +1,130 @@
+{
+  "id": "piraeus-bank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Piraeus Bank",
+  "legalName": "Piraeus Bank S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296083/radar/icons/Piraeus_Bank_Twitter.jpg",
+  "website": "https://www.piraeusbank.gr/en/idiwtes",
+  "ownership": [
+    { 
+      "shareholderName": "Hellenic Financial Stability Fund",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552559924/radar/icons/Greek_State_Fund.png",
+      "providerId": "Hellenic Financial Stability Fund",
+      "percentage": 26.0,
+      "sourceUrl": "https://www.piraeusbankgroup.com/en/investors/share/shareholder-structure"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "GR",
+  "countries": ["GR""BG","AL","RS","UA"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": "https://rapidlink.piraeusbank.gr/node/241",
+  "apiProducts": [
+    {
+      "label": "PB API Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "PB API Accounts, provides information and transactions, about customer's accounts.",
+      "documentationUrl": "https://rapidlink.piraeusbank.gr/node/135",
+      "apiReferenceUrl": "https://rapidlink.piraeusbank.gr/node/135",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "120 per hour"
+      }]
+    },
+    {
+      "label": "PB API Transactions",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "With PB API Transactions, you can transfer money to any recipient, inside or outside the bank, in single transactions, or in bulk (remittances and/or payrolls).",
+      "documentationUrl": "https://rapidlink.piraeusbank.gr/node/188",
+      "apiReferenceUrl": "https://rapidlink.piraeusbank.gr/node/188",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "120 per hour"
+      }]
+    },
+    {
+      "label": "PB API Cards",
+      "type": "cards",
+      "categories": ["cards"],
+      "description": "PB API Cards provides information and basic administration functionality about the most common card types: credit, debit, and prepaid.",
+      "documentationUrl": "https://rapidlink.piraeusbank.gr/node/137",
+      "apiReferenceUrl": "https://rapidlink.piraeusbank.gr/node/137",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "120 per hour"
+      }]
+    },
+    {
+      "label": "	PB API General Info",
+      "type": ["branchLocator","atmLocator","auth"],
+      "categories": ["locators","auth"],
+      "description": "PB API General allows access to public data, like branch/atm/aps location, iban calculation/validation, etc",
+      "documentationUrl": "https://rapidlink.piraeusbank.gr/node/185",
+      "apiReferenceUrl": "https://rapidlink.piraeusbank.gr/node/185",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "120 per hour"
+      }]
+    },
+    {
+      "label": "PB API Customers",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "PB API Customers provides information and runtime data about the customer.",
+      "documentationUrl": "https://rapidlink.piraeusbank.gr/node/193",
+      "apiReferenceUrl": "https://rapidlink.piraeusbank.gr/node/193",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "120 per hour"
+      }]
+    }
+    ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "FRA:BKP6",
+  "investorRelationsUrl": "https://www.nbg.gr/en/the-group/investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q3 2018",
+      "date": "2018-11-29",
+      "url": "https://www.nbg.gr/english/the-group/investor-relations/Documents/Financial%20Results%20Announcements/NBG_3Q18%20Results%20Press%20Release_EN.pdf"
+    }
+  ],
+  "twitter": "piraeus_bank",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000MfJAqAAN",
+  "articles": []
+}
