@@ -1,0 +1,57 @@
+{
+  "id": "the-co-operative-bank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "The Co-Operative Bank",
+  "legalName": "The Co-operative Bank plc",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296091/radar/icons/The_Co-operative_Bank.jpg",
+  "website": "https://www.co-operativebank.co.uk/",
+  "ownership": [
+    { 
+      "shareholderName": "Co-operative Banking Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296091/radar/icons/The_Co-operative_Bank.jpg",
+      "providerId": "Co-operative Banking Group",
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.co-operativebank.co.uk/investorrelations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-28",
+      "url": "https://www.co-operativebank.co.uk/assets/pdf/bank/investorrelations/2018-annual-report-and-accounts.pdf"
+    }
+  ],
+  "twitter": "CooperativeBank",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000MfFIYAA3",
+  "articles": []
+}
