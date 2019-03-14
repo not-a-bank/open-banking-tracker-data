@@ -1,0 +1,78 @@
+{
+  "id": "natwest",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Natwest",
+  "legalName": "National Westminster Bank Plc",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Natwest.jpg",
+  "website": "https://personal.natwest.com/personal.html",
+  "ownership": [
+    { 
+      "shareholderName": "The Royal Bank of Scotland Group plc",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552312195/radar/icons/Royal_Bank_of_Scotland.jpg",
+      "providerId": "royal-bank-of-scotland",
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://developer.natwest.com/apiportal",
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "The Account and Transaction API is intended to give a third party, upon consent of the owning customer, access to product, service and transaction information relating to that account such that they may provide the customer with value-adding products or services.",
+      "documentationUrl": "https://developer.natwest.com/apiportal/api-catalogue",
+      "apiReferenceUrl": "https://developer.natwest.com/apiportal/documentation/account-info",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "The payment initiation API enables any third party, registered as an approved Payment Initiation Service Provider (PISP) with Open Banking, to provision secure payments on behalf of our customers. The payment, once approved and authorised by the customer, is submitted for processing. We currently support the submission of a single, immediate, domestic payment from our customer’s UK personal and business current accounts.",
+      "documentationUrl": "https://developer.natwest.com/apiportal/api-catalogue",
+      "apiReferenceUrl": "https://developer.natwest.com/apiportal/documentation/payment-initiation",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:RBS",
+  "investorRelationsUrl": "https://investors.rbs.com/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-15",
+      "url": "https://investors.rbs.com/~/media/Files/R/RBS-IR/results-center/annual-report-2018.pdf"
+    }
+  ],
+  "twitter": "Natwest_help",
+  "crunchbase": "natwest-bank1",
+  "github": null,
+  "fca": "001b000000MfFIWAA3",
+  "articles": []
+}
