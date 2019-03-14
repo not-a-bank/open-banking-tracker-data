@@ -1,0 +1,44 @@
+{
+  "id": "bunq",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "bunq",
+  "legalName": "bunq b.v.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Bunq.jpg",
+  "website": "https://www.bunq.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NL",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://doc.bunq.com/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "bunq",
+  "crunchbase": "bunq",
+  "github": "bunq",
+  "fca": null,
+  "articles": []
+}
