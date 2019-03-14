@@ -1,0 +1,87 @@
+{
+  "id": "bnp-paribas-fortis",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "BNP Paribas Fortis",
+  "legalName": "BNP Paribas Fortis NV/SA",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552592392/radar/icons/bnp-paribas-fortis.jpg",
+  "website": "https://www.bnpparibasfortis.be/",
+  "ownership": [
+    { 
+      "shareholderName": "BNP Paribas",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
+      "providerId": "bnp-paribas",
+      "percentage": null
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": ["BE"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092"
+  },
+  "developerPortalUrl": "https://developer.bnpparibasfortis.com/",
+  "openBankProjectUrl": null,
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Give customers secure access to transaction data and balance data via our BNP Paribas Fortis Account Information API.",
+      "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/7",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Give customers the option to initiate payments via our BNP Paribas Fortis Payment Initiation API.",
+      "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/4",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/easy-banking-for-smartphone/id516502006"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bnpp.easybanking"
+    }
+  ],
+  "stockSymbol": "EPA:BNP",
+  "investorRelationsUrl": "https://invest.bnpparibas.com/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-13",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552296761/4q18-pr2.pdf"
+    }
+  ],
+  "twitter": "BNPPFBelgie",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": [
+    {
+      "url": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092",
+      "date": "2019-03-08"
+    }
+  ]
+}
