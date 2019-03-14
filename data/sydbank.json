@@ -1,0 +1,51 @@
+{
+  "id": "sydbank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Sydbank",
+  "legalName": "Sydbank A/S",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296090/radar/icons/Sydbank.jpg",
+  "website": "https://www.sydbank.com/sydbankcom/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DK",
+  "countries": ["DK"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "CPH:SYDB",
+  "investorRelationsUrl": "https://www.sydbank.com/sydbankcom/about/ir/finreports",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-27",
+      "url": "https://www.sydbank.com/inc/pdf/sydbankcom/financial_reports/2018/annual-report-2018.pdf"
+    }
+  ],
+  "twitter": "DanskeBank_DK",
+  "crunchbase": "sydbankweb",
+  "github": null,
+  "fca": "001b000000MfcwLAAR",
+  "articles": []
+}
