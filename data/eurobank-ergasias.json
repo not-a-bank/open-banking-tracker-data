@@ -1,0 +1,59 @@
+{
+  "id": "eurobank-ergasias",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Eurobank Ergasias",
+  "legalName": "Eurobank Ergasias S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Eurobank_Ergasias.jpg",
+  "website": "https://www.eurobank.gr/en/group/grafeio-tupou/159-news-page",
+  "ownership": [
+    { 
+      "shareholderName": "Fairfax Financial Holding",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552560688/radar/icons/Fairfax.jpg,
+      "providerId": null,
+      "percentage": 18.4,
+      "sourceUrl": "https://www.eurobank.gr/en/group/investor-relations/shareholders/shareholding-structure"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "GR",
+  "countries": ["GR","BG","RS","CY"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "OTCMKTS: EGFEF",
+  "investorRelationsUrl": "https://www.eurobank.gr/en/group/investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-03-07",
+      "url": "https://www.eurobank.gr/-/media/eurobank/omilos/enimerosi-ependuton/enimerosi-metoxon-eurobank/oikonomika-apotelesmata-part-01/2018/fy2018-results-pr-en.pdf"
+    }
+  ],
+  "twitter": "Eurobank_Group",
+  "crunchbase": "eurobank#section-overview",
+  "github": null,
+  "fca": "001b000000MfHUSAA3",
+  "articles": []
+}
