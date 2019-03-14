@@ -19,7 +19,7 @@
   ],
   "stateOwned": true,
   "countryHQ": "GR",
-  "countries": ["GR""BG","AL","RS","UA"],
+  "countries": ["GR","BG","AL","RS","UA"],
   "compliance": [
     { 
       "regulation": "PSD2",
@@ -75,8 +75,22 @@
       }]
     },
     {
-      "label": "	PB API General Info",
-      "type": ["branchLocator","atmLocator","auth"],
+      "label": "PB API General Info",
+      "type": "branchLocator",
+      "categories": ["locators","auth"],
+      "description": "PB API General allows access to public data, like branch/atm/aps location, iban calculation/validation, etc",
+      "documentationUrl": "https://rapidlink.piraeusbank.gr/node/185",
+      "apiReferenceUrl": "https://rapidlink.piraeusbank.gr/node/185",
+      "premium": false,
+      "stage": "sandbox",
+      "rateLimits": [{
+        "plan": "Default",
+        "limit": "120 per hour"
+      }]
+    },
+    {
+      "label": "PB API General Info",
+      "type": "atmLocator",
       "categories": ["locators","auth"],
       "description": "PB API General allows access to public data, like branch/atm/aps location, iban calculation/validation, etc",
       "documentationUrl": "https://rapidlink.piraeusbank.gr/node/185",
