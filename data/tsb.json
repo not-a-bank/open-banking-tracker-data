@@ -1,0 +1,58 @@
+{
+  "id": "tsb",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "TSB",
+  "legalName": "TSB Bank plc",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296092/radar/icons/TSB.jpg",
+  "website": "https://www.tsb.co.uk/personal/",
+  "ownership": [
+    { 
+      "shareholderName": "Banco De Sabadell",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Banco_Sabadell.jpg",
+      "providerId": "banco-de-sabadell",
+      "percentage": 100.0
+      "sourceUrl": "https://www.tsb.co.uk/investors/"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": "https://developer.natwest.com/apiportal",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "BME:SAB",
+  "investorRelationsUrl": "https://www.grupbancsabadell.com/en/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-01",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552573113/Financial%20Data/4Q18_results_presentation.pdf"
+    }
+  ],
+  "twitter": "TSB",
+  "crunchbase": "tsb-banking-group",
+  "github": null,
+  "fca": "001b000000MfI5JAAV",
+  "articles": []
+}
