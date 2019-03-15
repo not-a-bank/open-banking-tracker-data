@@ -54,10 +54,12 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/starling-bank/id956806430"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.starlingbank.android"
     }
   ],
   "stockSymbol": null,
