@@ -1,0 +1,66 @@
+{
+  "id": "marks-&-spencer-financial-services",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "M&S Bank",
+  "legalName": "Marks & Spencer Financial Services plc",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552649978/radar/icons/M_S_Bank.jpg",
+  "website": "https://bank.marksandspencer.com/",
+  "ownership": [
+    { 
+      "shareholderName": "M&S Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552650040/radar/icons/M_S.png",
+      "providerId": "M&S Group",
+      "percentage": null,
+      "sourceUrl": "https://bank.marksandspencer.com/explore/about-us/fscs-protection/"
+    },
+    { 
+      "shareholderName": "HSBC",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552239844/radar/icons/hsbc.svg",
+      "providerId": "HSBC",
+      "percentage": null,
+      "sourceUrl": "https://bank.marksandspencer.com/explore/about-us/fscs-protection/"
+    } 
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+"stockSymbol": "LON:HSBA",
+ "investorRelationsUrl": "https://www.hsbc.com/investors/",
+ "quarterlyReports": [
+   {
+     "label": "Q4 2018",
+     "date": "2019-02-19",
+     "url": "https://res.cloudinary.com/banq/image/upload/v1552641665/Financial%20Data/HSBC-annual-report-and-accounts-2018.pdf"
+   }
+ ],
+  "twitter": "MandSBank",
+  "crunchbase": "marks-and-spencer-retail-financial-services",
+  "github": null,
+  "fca": "001b000000MfGS1AAN",
+  "articles": []
+}
