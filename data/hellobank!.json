@@ -1,0 +1,61 @@
+{
+  "id": "hellobank!",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "helloBank!",
+  "legalName": "Hello bank!",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/HelloBank.jpg",
+  "website": "https://www.hellobank.be/",
+  "ownership": [
+    { 
+      "shareholderName": "BNP Paribas",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
+      "providerId": "bnp-paribas",
+      "percentage": null
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": ["BE","AT","DE","FR","IT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+    },
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/easy-banking-for-smartphone/id516502006"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bnpp.easybanking"
+    }
+  ],
+  "stockSymbol": "EPA:BNP",
+  "investorRelationsUrl": "https://invest.bnpparibas.com/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-13",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552296761/4q18-pr2.pdf"
+    }
+  ],
+  "twitter": "hellobankbelgie",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}
