@@ -1,0 +1,45 @@
+{
+  "id": "clearbank",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "ClearBank",
+  "legalName": "Clearbank Ltd.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552648690/radar/icons/clearbank.jpg",
+  "website": "https://www.clear.bank/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://www.clear.bank/services/clearbank-api",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "clear_bank",
+  "crunchbase": "clearbank",
+  "github": null,
+  "fca": "001b000003TEU71AAH",
+  "articles": []
+}
