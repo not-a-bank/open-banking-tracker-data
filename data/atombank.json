@@ -1,0 +1,64 @@
+{
+  "id": "atombank",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Atom Bank",
+  "legalName": "Atom bank plc.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Atom_Bank.jpg",
+  "website": "https://www.atombank.co.uk/",
+  "ownership": [
+    { 
+      "shareholderName": "BBVA",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552482524/radar/icons/Minsitero_Economia_e_Finanze_logo.png",
+      "providerId": "BBVA",
+      "percentage": 39.0,
+      "sourceUrl": "https://www.bbva.com/en/bbva-completes-85-4m-investment-uk-digital-bank-atom-increasing-stake-39/"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.atombank.co.uk/investor-information",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": null,
+      "url": "https://www.atombank.co.uk/static/Atom%20Annual%20Report%202017-18-3fb99ea4128839c73451672cfbb60a99.pdf"
+    }
+  ],
+  "twitter": "atom_bank",
+  "crunchbase": "atom-bank",
+  "github": null,
+  "fca": "001b000000i8ezfAAA",
+  "articles": [
+    {
+      "url": "https://www.bbva.com/en/atom-bank-ceo-lead-challenger-banks-uk-open-banking-initiative/",
+      "date": "2017-07-05"
+    }
+  ]
+}
