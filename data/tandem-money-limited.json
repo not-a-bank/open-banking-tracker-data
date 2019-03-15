@@ -1,0 +1,45 @@
+{
+  "id": "tandem-money-limited",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Tandem Money",
+  "legalName": "Tandem Money Limited",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296090/radar/icons/Tandem_Money_Limited.jpg",
+  "website": "https://www.tandem.co.uk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "TandemMoney",
+  "crunchbase": "tandem-5",
+  "github": null,
+  "fca": "001b000000i8ezfAAA",
+  "articles": []
+}
