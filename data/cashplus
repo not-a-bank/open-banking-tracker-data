@@ -1,0 +1,45 @@
+{
+  "id": "cashplus",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Cashplus",
+  "legalName": "Advanced Payment Solutions Limited",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Cashplus.jpg",
+  "website": "https://www.cashplus.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://apisandbox.mycashplus.co.uk/swagger/ui/index#!/Root32Infrastructure",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "cashplus",
+  "crunchbase": "cashplus",
+  "github": null,
+  "fca": "001b000000k3SAHAA2",
+  "articles": []
+}
