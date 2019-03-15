@@ -1,0 +1,108 @@
+{
+  "id": "banco-de-sabadell",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Sabadell",
+  "legalName": "Banco de Sabadell, S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Banco_Sabadell.jpg",
+  "website": "https://www.bancsabadell.com/cs/Satellite/SabAtl/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": ["GB","ES","PT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": "http://developers.bancsabadell.com/",
+  "apiProducts": [
+    {
+      "label": "Movimientos de cuentas",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Esta funcionalidad permite a los usuarios obtener toda la información de las transacciones de sus cuentas de Banco Sabadell. En ella aparecerá un listado con la fecha del movimiento, el concepto, la fecha valor, el importe y el saldo de la cuenta. También podrán importar los movimientos de sus cuentas de Banco Sabadell especificando una serie de filtros avanzados (fechas e importes).",
+      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Posición global",
+      "type": ["atmLocator","branchLocator"]
+      "categories": ["locators"],
+      "description": "Desde la aplicación cliente, los usuarios podrán consultar el listado de productos contratados con Banco Sabadell. La aplicación les devolverá como resultado de esta operación únicamente la información de las cuentas y tarjetas que ellos hayan autorizado. Por lo tanto, retornará una posición global limitada por los permisos que el usuario haya dado en su nombre.",
+      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Movimientos y estados de tarjetas",
+      "type": ["cards"]
+      "categories": ["cards"],
+      "description": "El usuario podrá importar a la aplicación los detalles de sus tarjetas de Banco Sabadell. Obtendrá el listado de tarjetas, toda la información de cada movimiento realizado con la tarjeta y los detalles de la situación de la misma (límite de crédito, saldo dispuesto, cuenta relacionada, etc.)",
+      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+    {
+      "label": "Transferencias",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Esta función permite a un usuario preparar y simular, desde la aplicación cliente y con los datos provistos, una operación de transferencia nacional para su ejecución.",
+      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Instant Money",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "La API ofrece la posibilidad de preparar una operación de Instant Money. Instant Money es un servicio que permite enviar dinero a cualquier móvil mediante un mensaje SMS. El código incluido en el mensaje permite recoger el dinero, sin tarjeta, en cualquiera de los cajeros de Banco Sabadell. Para emitir la operación solo hay que tener acceso a BS Móvil.",
+      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/banco-sabadell-app/id347887638?mt=8"
+    },
+    {
+      "operatingSystem": "android"
+      "storeUrl": "https://play.google.com/store/apps/details?id=net.inverline.bancosabadell.officelocator.android&hl=en"
+    }
+  ],
+  "stockSymbol": "BME:SAB",
+  "investorRelationsUrl": "https://www.grupbancsabadell.com/en/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": null,
+      "url": "https://www.grupbancsabadell.com/en/XTD/INDEX/?url=/en/INFORMACION_ACCIONISTAS_E_INVERSORES/INFORMACION_FINANCIERA/PRINCIPALES_MAGNITUDES/?menuid=39324&language=en"
+    }
+  ],
+  "twitter": "BancoSabadell",
+  "crunchbase": "banco-sabadell",
+  "github": null,
+  "fca": "001b000000MfJLoAAN",
+  "articles": []
+}
