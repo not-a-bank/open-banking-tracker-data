@@ -1,0 +1,119 @@
+{
+  "id": "bank-of-scotland",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Bank of Scotland",
+  "legalName": "Bank of Scotland plc",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552648073/radar/icons/UfYosl_o_400x400.jpg",
+  "website": "https://www.bankofscotland.co.uk/",
+  "ownership": [
+    { 
+      "shareholderName": "Lloyds Banking Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Lloyds_Banking_Group.jpg",
+      "providerId": "lloyds",
+      "percentage": 100.0,
+      "sourceUrl": "https://www.lloydsbankinggroup.com/Our-Group/our-heritage/our-history/bank-of-scotland/bank-of-scotland/"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://developer.bankofscotland.co.uk/opendata-v2.2",
+  "apiProducts": [
+    {
+      "label": "/branches",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": "Gets a list of all Branch objects.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.bankofscotland.co.uk/opendata-v2.2#get-branches-2.2",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/personal-current-accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Gets a list of all Personal Current Account objects.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.bankofscotland.co.uk/opendata-v2.2#get-personal-current-accounts-2.2",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/atms",
+      "type": "atmLocator",
+      "description": "Gets a list of all ATM objects.",
+      "categories": ["locators"],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.bankofscotland.co.uk/opendata-v2.2#get-atms-2.2",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/business-current-accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Gets a list of all Branch Current Account objects.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.bankofscotland.co.uk/opendata-v2.2#get-business-current-accounts-2.2",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/unsecured-sme-loans",
+      "type": "productFinder",
+      "description": "Gets a list of all Unsercured SME Lending objects.",
+      "categories": ["loans"],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.bankofscotland.co.uk/opendata-v2.2#get-unsecured-sme-loans-2.2",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "/commercial-credit-cards",
+      "type": "productFinder",
+      "description": "Gets a list of all Commerical Credit Card objects.",
+      "categories": ["accounts"],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.bankofscotland.co.uk/opendata-v2.2#get-commercial-credit-cards-2.2",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": "LON:LLOY",
+  "investorRelationsUrl": "https://www.lloydsbankinggroup.com/investors/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-20",
+      "url": "https://www.lloydsbankinggroup.com/globalassets/documents/investors/2018/2018_lbg_fy_results.pdf"
+    }
+  ],
+  "twitter": "AskBankOfScot",
+  "crunchbase": "bank-of-scotland-community-banks",
+  "github": null,
+  "fca": "001b000000MfGrKAAV",
+  "articles": []
+}
