@@ -1,0 +1,93 @@
+{
+  "id": "yorkshire-building-society",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "Yorkshire Building Society",
+  "legalName": "Yorkshire Building Society",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552654979/radar/icons/Yorkshire_Building_Society.jpg",
+  "website": "https://www.ybs.co.uk/index.html?cmpid=soc-00071",
+  "ownership": [
+    { 
+      "shareholderName": "Yorkshire Building Society Members",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552654979/radar/icons/Yorkshire_Building_Society.jpg",
+      "providerId": "yorkshire-building-society",
+      "percentage": null,
+      "sourceUrl": "https://www.ybs.co.uk/your-society/member-benefits/what-it-means-to-be-a-member/index.html"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developers.ybs.co.uk/getting-started",
+  "apiProducts": [
+     {
+      "label": "Account",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.ybs.co.uk/account-v3/apis",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.ybs.co.uk/payment-v3/apis",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.ybs.co.uk/confirmation-funds-v3/apis",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Identity",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.ybs.co.uk/identity-v3/apis",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.ybs.co.uk/your-society/treasury/investor_relations/introduction.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-03-01",
+      "url": "file:///C:/Users/aadit/Downloads/YBS%20Presentation%20Full%20year%20results%202018%20Roadshow%20version%20Final.pdf"
+    }
+  ],
+  "twitter": "Yorkshire_BS",
+  "crunchbase": "yorkshire-building-society-group",
+  "github": null,
+  "fca": "001b000000MfFYQAA3",
+  "articles": []
+}
