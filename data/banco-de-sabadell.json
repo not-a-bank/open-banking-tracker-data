@@ -50,7 +50,7 @@
     },
     {
       "label": "Movimientos y estados de tarjetas",
-      "type": ["cards"]
+      "type": ["cards"],
       "categories": ["cards"],
       "description": "El usuario podrá importar a la aplicación los detalles de sus tarjetas de Banco Sabadell. Obtendrá el listado de tarjetas, toda la información de cada movimiento realizado con la tarjeta y los detalles de la situación de la misma (límite de crédito, saldo dispuesto, cuenta relacionada, etc.)",
       "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
