@@ -1,0 +1,49 @@
+{
+  "id": "monese",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Monese",
+  "legalName": "Monese Ltd",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Monese.jpg",
+  "website": "https://monese.com/",
+  "ownership": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["EU"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.atombank.co.uk/investor-information",
+  "quarterlyReports": [],
+  "twitter": "monese",
+  "crunchbase": "monese",
+  "github": null,
+  "fca": "001b000000m4IXjAAM",
+  "articles": []
+}
