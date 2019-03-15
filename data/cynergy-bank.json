@@ -1,0 +1,45 @@
+{
+  "id": "cynergy-bank",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "Cynergy Bank",
+  "legalName": "Cynergy Bank Ltd",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552648690/radar/icons/clearbank.jpg",
+  "website": "https://www.cynergybank.co.uk/international",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "CynergyBank",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000NMgJnAAL",
+  "articles": []
+}
