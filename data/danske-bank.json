@@ -13,17 +13,21 @@
       "shareholderName": "A.P. Møller Holding Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552350016/radar/icons/AP_Moller_Maersk.jpg",
       "providerId": null,
-      "percentage": 20.5
+      "percentage": 20.5,
+      "sourceUrl": "https://danskebank.com/investor-relations/shares/largest-shareholders"
     }
   ],
   "stateOwned": false,
   "countryHQ": "DK",
-  "countries": ["DK","NO","FI","SE"],
+  "countries": ["DK","NO","FI","SE","GB"],
   "compliance": [
     { 
       "regulation": "PSD2",
       "status": "inProgress"
-    }
+    },
+    [
+       "regulation": "OB",
+      "status": "inProgress"
   ],
   "sandbox": {
     "status": "available",
@@ -35,10 +39,12 @@
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/%C3%A6ldre-version-af-mobilbank-dk/id388423462"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.danskebank.mobilebank3.dk&hl=en"
     }
   ],
   "stockSymbol": "CPH:DANSKE",
