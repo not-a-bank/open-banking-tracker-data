@@ -1,0 +1,55 @@
+{
+  "id": "ziraat-bankası",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Ziraat Bankası",
+  "legalName": "T.C. Ziraat Bankası A.Ş.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296099/radar/icons/Ziraat_Bankasi.jpg",
+  "website": "https://www.ziraatbank.com.tr/tr",
+  "ownership": [
+    { 
+      "shareholderName": "Treasury of Turkey",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552903952/radar/icons/Treasury_of_Turkey.jpg",
+      "providerId": "turkish-treasury",
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "TK",
+  "countries": ["TK"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/tr/app/ziraat-mobil/id885993234?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ziraat.ziraatmobil&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.ziraatbank.com.tr/en/investor-relations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": null,
+      "url": "https://www.ziraatbank.com.tr/en/Investor-Relations-ZB/Financials/Documents/financials_presentation_q4_2018-v8.pdf"
+    }
+  ],
+  "twitter": "ziraatbankasi",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000MfJLhAAN",
+  "articles": []
+}
