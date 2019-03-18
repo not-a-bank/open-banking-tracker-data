@@ -1,0 +1,74 @@
+{
+  "id": "bper-banca",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Credit Agricole Italia",
+  "legalName": "Crédit Agricole Cariparma S.p.A.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552913842/radar/icons/Credit_Agricole_Italia.jpg",
+  "website": "https://www.credit-agricole.it/#",
+  "ownership": [
+    { 
+      "shareholderName": "Credit Agricole",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Credit_Agricole.jpg",
+      "providerId": "credit-agricole",
+      "percentage": 76.7,
+      "sourceUrl": "https://gruppo.credit-agricole.it/comunicati-stampa/ca-cariparma/comunicazione-su-aumento-capitale-sociale-di-ca-cariparma-0cb1a23c-44a6-480f-8d6c-38f7288ab1e6"
+    },
+    { 
+      "shareholderName": "Cariparma",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Credit_Agricole.jpg",
+      "providerId": "Cariparma",
+      "percentage": 13.5,
+      "sourceUrl": "https://gruppo.credit-agricole.it/comunicati-stampa/ca-cariparma/comunicazione-su-aumento-capitale-sociale-di-ca-cariparma-0cb1a23c-44a6-480f-8d6c-38f7288ab1e6"
+    },
+    { 
+      "shareholderName": "SACAM International",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552914373/radar/icons/SACAM.png",
+      "providerId": "SACAM",
+      "percentage": 9.8,
+      "sourceUrl": "https://gruppo.credit-agricole.it/comunicati-stampa/ca-cariparma/comunicazione-su-aumento-capitale-sociale-di-ca-cariparma-0cb1a23c-44a6-480f-8d6c-38f7288ab1e6"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": ["IT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/it/app/nowbanking/id891029339?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=it.gruppocariparma.nowbanking&hl=en"
+    }
+  ],
+  "stockSymbol": "EPA:ACA",
+  "investorRelationsUrl": "https://www.credit-agricole.com/en/finance/finance",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-14",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552300140/Financial%20Data/CASA_2018-Q4_Slides_EN_Vd%C3%A9f.pdf"
+    }
+  ],
+  "twitter": "CreditAgricole",
+  "crunchbase": "credit-agricole",
+  "github": "",
+  "fca": "001b000000MfF2HAAV",
+  "articles": []
+}
