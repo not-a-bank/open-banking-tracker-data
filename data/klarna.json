@@ -1,0 +1,151 @@
+{
+  "id": "klarna",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Klarna",
+  "legalName": "Klarna Bank AB",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552914866/radar/icons/Klarna.jpg",
+  "website": "https://www.klarna.com/uk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SE",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developers.klarna.com/api/",
+  "apiProducts": [
+    {
+      "label": "Checkout API",
+      "type": null,
+      "categories": null,
+      "description": "The checkout API is used to create a checkout with Klarna and update the checkout order during the purchase. As soon as the purchase is completed the order should be read and handled using the Order Management API.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#checkout-api",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Checkout API Callbacks",
+      "type": null,
+      "categories": null,
+      "description": "Klarna provides a number of different callbacks during the customer's checkout session. The callbacks can be used to update the order when the customer changes their address as well as to do a final check to validate the order before it is submitted. The callbacks are sent as POST requests to the endpoint you specify when creating the order. Your response is interpreted using the response code and body.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#checkout-api-callbacks",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "The payments API is used to create a session to offer Klarna's payment methods as part of your checkout. As soon as the purchase is completed the order should be read and handled using the Order Management API.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#payments-api",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Order Management API",
+      "type": null,
+      "categories": null,
+      "description": "The Order Management API is used for handling an order after the customer has completed the purchase. It is used for updating, capturing and refunding an order as well as to see the history of events that have affected this order.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#order-management-api",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Settlements API",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": "This API gives you access to your payouts and transactions.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#settlements-api",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Hosted Payment Page (HPP) API is a service that lets you integrate Klarna Payments without the need of hosting the web page that manages the client side of Klarna Payments.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#hosted-payment-page-api",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Customer Tokens API",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "The Customer Token API is used to charge customers with a tokenized Klarna payment method and can be used for recurring purchases, subscriptions and for storing a customer's payment method. Tokens are created using the generate a customer token call in the payments API.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#customer-token-api",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Merchant Card Service API",
+      "type": "cards",
+      "categories": ["payments"],
+      "description": "The Merchant Card Service (MCS) API is used to settle orders with virtual credit cards.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#merchant-card-service-api",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Instant Shopping API",
+      "type": null,
+      "categories": null,
+      "description": "The Instant Shopping API is serving two purposes:1) to manage the orders as they result from the Instant Shopping purchase flow. 2) to generate Instant Shopping Button keys necessary for setting up the Instant Shopping flow both onsite and offsite. Note that as soon as a purchase initiated through Instant Shopping is completed within Klarna, the order should be read and handled using the Order Management API.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#instant-shopping-api",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "https://developers.klarna.com/api/#klarna-shipping-service-callback-api",
+      "type": null,
+      "categories": null,
+      "description": "The Klarna Shipping Service Callback API enables communication between the Klarna Shipping Service and the Integrator.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.klarna.com/api/#klarna-shipping-service-callback-api",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      storeUrl: ""
+    },
+    {
+      "operatingSystem": "android",
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [],
+  "twitter": "klarna",
+  "crunchbase": "klarna",
+  "github": "klarna",
+  "fca": "001b000002zyAwNAAU",
+  "articles": null
+}
