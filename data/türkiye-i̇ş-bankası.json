@@ -1,0 +1,63 @@
+{
+  "id": "türkiye-i̇ş-bankası",
+  "type": ["account"],
+  "bankType": ["corperate","retail"],
+  "name": "Türkiye İş Bankası",
+  "legalName": "Türkiye İş Bankası A.Ş.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296092/radar/icons/T%C3%BCrkiye_%C4%B0%C5%9F_Bankas%C4%B1.jpg",
+  "website": "https://www.isbank.com.tr/EN/home/Pages/home.aspx",
+  "ownership": [
+    { 
+      "shareholderName": "İş Bank Pension Fund",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296092/radar/icons/T%C3%BCrkiye_%C4%B0%C5%9F_Bankas%C4%B1.jpg",
+      "providerId": "türkiye-i̇ş-bankası",
+      "percentage": 40.5,
+      "sourceUrl": "https://www.isbank.com.tr/EN/about-isbank/investor-relations/corporate-overview/corporate-information/ownership-structure/Pages/ownership-structure.aspx"
+    },
+    {
+      "shareholderName": "Treasury of Turkey",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552903952/radar/icons/Treasury_of_Turkey.jpg",
+      "providerId": "turkish-treasury",
+      "percentage": 28.1,
+      "sourceUrl": "https://www.isbank.com.tr/EN/about-isbank/investor-relations/corporate-overview/corporate-information/ownership-structure/Pages/ownership-structure.aspx"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "TR",
+  "countries": ["TR"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/i-%C5%9Fcep/id308261752?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.pozitron.iscep&hl=en"
+    }
+  ],
+  "stockSymbol": "IST:ISCTR",
+  "investorRelationsUrl": "https://www.isbank.com.tr/EN/about-isbank/investor-relations/Pages/investor-relations.aspx",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": null,
+      "url": "https://www.isbank.com.tr/EN/about-isbank/investor-relations/publications-and-results/investor-presentation/Documents/InvestorPresentation.pdf"
+    }
+  ],
+  "twitter": "isbankasi",
+  "crunchbase": "isbank",
+  "github": null,
+  "fca": "001b000000MfJLiAAN",
+  "articles": []
+}
