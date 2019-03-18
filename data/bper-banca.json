@@ -1,0 +1,60 @@
+{
+  "id": "bper-banca",
+  "type": ["account"],
+  "bankType": ["retail",""corperate"],
+  "name": "BPER Banca",
+  "legalName": "BPER Banca S.p.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552912956/radar/icons/BPER_Banca.jpg",
+  "website": "https://www.bper.it/",
+  "ownership": [
+    { 
+      "shareholderName": "Unipol Gruppo S.p.A.",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552913138/radar/icons/Unipol.jpg",
+      "providerId": "Unipol",
+      "percentage": 15.1,
+      "sourceUrl": "https://istituzionale.bper.it/en/investor-relations/shareholders"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": ["IT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/it/app/smart-mobile-banking/id554965344?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=it.gruppobper.ams.android.bper&hl=it"
+    }
+  ],
+  "stockSymbol": "BIT:BPE",
+  "investorRelationsUrl": "https://istituzionale.bper.it/en/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-08",
+      "url": "https://istituzionale.bper.it/en/investor-relations/financial-statements-reports"
+    }
+  ],
+  "twitter": "GruppoBPER_PR",
+  "crunchbase": null,
+  "github": null,
+  "fca": "0010X00004MkHXcQAN",
+  "articles": []
+}
