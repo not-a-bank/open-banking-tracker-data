@@ -40,7 +40,17 @@
     },
     {
       "label": "Posición global",
-      "type": ["atmLocator","branchLocator"],
+      "type": ["branchLocator"],
+      "categories": ["locators"],
+      "description": "Desde la aplicación cliente, los usuarios podrán consultar el listado de productos contratados con Banco Sabadell. La aplicación les devolverá como resultado de esta operación únicamente la información de las cuentas y tarjetas que ellos hayan autorizado. Por lo tanto, retornará una posición global limitada por los permisos que el usuario haya dado en su nombre.",
+      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Posición global",
+      "type": ["atmLocator"],
       "categories": ["locators"],
       "description": "Desde la aplicación cliente, los usuarios podrán consultar el listado de productos contratados con Banco Sabadell. La aplicación les devolverá como resultado de esta operación únicamente la información de las cuentas y tarjetas que ellos hayan autorizado. Por lo tanto, retornará una posición global limitada por los permisos que el usuario haya dado en su nombre.",
       "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
