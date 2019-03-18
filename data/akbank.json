@@ -1,0 +1,147 @@
+{
+  "id": "akbank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Akbank",
+  "legalName": "Akbank T.A.Ş.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296069/radar/icons/Akbank.jpg",
+  "website": "https://www.akbank.com/tr-tr/sayfalar/default.aspx",
+  "ownership": [
+    { 
+      "shareholderName": "Hacı Ömer Sabancı Holding A.Ş.",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552906629/radar/icons/Hac%C4%B1_%C3%96mer_Sabanc%C4%B1_Holding_A.%C5%9E..jpg",
+      "providerId": "Haci-Omer",
+      "percentage": 40.8,
+      "sourceUrl": "https://www.akbank.com/Documents/2017_Akbank_Annual_Report.pdf"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "TR",
+  "countries": ["TR"],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://apiportal.akbank.com/",
+  "apiProducts": [
+    {
+      "label": "Credit Card Application",
+      "type": "cards",
+      "categories": ["cards"],
+      "description": "This API allows you to apply for Akbank credit card.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.akbank.com/documentation/CreditCardApplicationService",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Credit Interest Rates",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "Credit Interest Rates API allows you to get current interest rates.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.akbank.com/documentation/creditInterestRatesMock",
+      "premium": live,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Credit Payment Plan",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "This API allows you to get credit payment plan.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.akbank.com/documentation/creditPaymentPlanMock",
+      "premium": live,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Credit Application",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "This API allows you to apply Akbank credit.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.akbank.com/documentation/CreditApplicationService",
+      "premium": live,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Exchange Rates",
+      "type": "other",
+      "categories": ["FX"],
+      "description": "Exchange Rates API allows you to get current and historical exchange rates.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.akbank.com/documentation/exchangeRatesMock",
+      "premium": live,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Find ATM",
+      "type": "atmLocator",
+      "categories": ["locators"],
+      "description": "This API allows you to find ATMs in the specified search area.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.akbank.com/documentation/findAtmMock",
+      "premium": live,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Find Branch",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": "This API allows you to find nearest branches in the specified search area.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.akbank.com/documentation/findBranchMock",
+      "premium": live,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Fund Prices",
+      "type": "other",
+      "categories": ["products"],
+      "description": "Fund Prices API allows you to get current fund values.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.akbank.com/documentation/fundPricesMock",
+      "premium": live,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Stock Values",
+      "type": "other",
+      "categories": ["products"],
+      "description": "Stock Values API allows you to get current stock values...",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.akbank.com/documentation/stockValuesMock",
+      "premium": live,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/akbank-direkt/id560516360?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.akbank.android.apps.akbank_direkt&hl=en"
+    }
+  ],
+  "stockSymbol": "IST:AKBNK",
+  "investorRelationsUrl": "https://www.akbank.com/en-us/investor-relations/Pages/default.aspx",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-01-31",
+      "url": "https://www.akbank.com/Documents/IR2003-PDFs/Akbank_Earnings_Presentation_4Q2018.pdf"
+    }
+  ],
+  "twitter": "isbankasi",
+  "crunchbase": "akbank",
+  "github": null,
+  "fca": null,
+  "articles": []
+}
