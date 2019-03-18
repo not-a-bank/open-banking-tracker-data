@@ -44,8 +44,8 @@
       "description": "Credit Interest Rates API allows you to get current interest rates.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.akbank.com/documentation/creditInterestRatesMock",
-      "premium": live,
-      "stage": "sandbox"
+      "premium": false,
+      "stage": "live"
     },
     {
       "label": "Credit Payment Plan",
@@ -54,8 +54,8 @@
       "description": "This API allows you to get credit payment plan.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.akbank.com/documentation/creditPaymentPlanMock",
-      "premium": live,
-      "stage": "sandbox"
+      "premium": false,
+      "stage": "live"
     },
     {
       "label": "Credit Application",
@@ -64,8 +64,8 @@
       "description": "This API allows you to apply Akbank credit.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.akbank.com/documentation/CreditApplicationService",
-      "premium": live,
-      "stage": "sandbox"
+      "premium": false,
+      "stage": "live"
     },
     {
       "label": "Exchange Rates",
@@ -74,8 +74,8 @@
       "description": "Exchange Rates API allows you to get current and historical exchange rates.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.akbank.com/documentation/exchangeRatesMock",
-      "premium": live,
-      "stage": "sandbox"
+      "premium": false,
+      "stage": "live"
     },
     {
       "label": "Find ATM",
@@ -84,8 +84,8 @@
       "description": "This API allows you to find ATMs in the specified search area.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.akbank.com/documentation/findAtmMock",
-      "premium": live,
-      "stage": "sandbox"
+      "premium": false,
+      "stage": "live"
     },
     {
       "label": "Find Branch",
@@ -94,8 +94,8 @@
       "description": "This API allows you to find nearest branches in the specified search area.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.akbank.com/documentation/findBranchMock",
-      "premium": live,
-      "stage": "sandbox"
+      "premium": false,
+      "stage": "live"
     },
     {
       "label": "Fund Prices",
@@ -104,8 +104,8 @@
       "description": "Fund Prices API allows you to get current fund values.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.akbank.com/documentation/fundPricesMock",
-      "premium": live,
-      "stage": "sandbox"
+      "premium": false,
+      "stage": "live"
     },
     {
       "label": "Stock Values",
@@ -114,8 +114,8 @@
       "description": "Stock Values API allows you to get current stock values...",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.akbank.com/documentation/stockValuesMock",
-      "premium": live,
-      "stage": "sandbox"
+      "premium": false,
+      "stage": "live"
     }
   ],
   "apiStandards": [],
