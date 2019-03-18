@@ -40,7 +40,7 @@
     },
     {
       "label": "Posición global",
-      "type": ["branchLocator"],
+      "type": "branchLocator",
       "categories": ["locators"],
       "description": "Desde la aplicación cliente, los usuarios podrán consultar el listado de productos contratados con Banco Sabadell. La aplicación les devolverá como resultado de esta operación únicamente la información de las cuentas y tarjetas que ellos hayan autorizado. Por lo tanto, retornará una posición global limitada por los permisos que el usuario haya dado en su nombre.",
       "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
@@ -50,7 +50,7 @@
     },
     {
       "label": "Posición global",
-      "type": ["atmLocator"],
+      "type": "atmLocator",
       "categories": ["locators"],
       "description": "Desde la aplicación cliente, los usuarios podrán consultar el listado de productos contratados con Banco Sabadell. La aplicación les devolverá como resultado de esta operación únicamente la información de las cuentas y tarjetas que ellos hayan autorizado. Por lo tanto, retornará una posición global limitada por los permisos que el usuario haya dado en su nombre.",
       "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
@@ -60,7 +60,7 @@
     },
     {
       "label": "Movimientos y estados de tarjetas",
-      "type": ["cards"],
+      "type": "cards",
       "categories": ["cards"],
       "description": "El usuario podrá importar a la aplicación los detalles de sus tarjetas de Banco Sabadell. Obtendrá el listado de tarjetas, toda la información de cada movimiento realizado con la tarjeta y los detalles de la situación de la misma (límite de crédito, saldo dispuesto, cuenta relacionada, etc.)",
       "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
