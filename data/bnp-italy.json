@@ -1,0 +1,61 @@
+{
+  "id": "bnp-italy",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Banca Nazionale del Lavoro",
+  "legalName": "Banca Nazionale del Lavoro S.p.A.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552912437/radar/icons/BNL.jpg",
+  "website": "https://bnl.it/it/Individui-e-Famiglie",
+  "ownership": [
+    { 
+      "shareholderName": "BNP Paribas",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
+      "providerId": "bnp-paribas",
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": ["IT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null,
+    },
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/bnl/id578969149?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=it.bnl.apps.banking&hl=en"
+    }
+  ],
+  "stockSymbol": "EPA:BNP",
+  "investorRelationsUrl": "https://invest.bnpparibas.com/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-13",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552296761/4q18-pr2.pdf"
+    }
+  ],
+  "twitter": "BNLBNPParibas_",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}
