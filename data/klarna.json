@@ -30,8 +30,8 @@
   "apiProducts": [
     {
       "label": "Checkout API",
-      "type": null,
-      "categories": null,
+      "type": "other",
+      "categories": [],
       "description": "The checkout API is used to create a checkout with Klarna and update the checkout order during the purchase. As soon as the purchase is completed the order should be read and handled using the Order Management API.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#checkout-api",
@@ -40,8 +40,8 @@
     },
     {
       "label": "Checkout API Callbacks",
-      "type": null,
-      "categories": null,
+      "type": "other",
+      "categories": [],
       "description": "Klarna provides a number of different callbacks during the customer's checkout session. The callbacks can be used to update the order when the customer changes their address as well as to do a final check to validate the order before it is submitted. The callbacks are sent as POST requests to the endpoint you specify when creating the order. Your response is interpreted using the response code and body.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#checkout-api-callbacks",
@@ -60,8 +60,8 @@
     },
     {
       "label": "Order Management API",
-      "type": null,
-      "categories": null,
+      "type": "other",
+      "categories": [],
       "description": "The Order Management API is used for handling an order after the customer has completed the purchase. It is used for updating, capturing and refunding an order as well as to see the history of events that have affected this order.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#order-management-api",
@@ -110,8 +110,8 @@
     },
     {
       "label": "Instant Shopping API",
-      "type": null,
-      "categories": null,
+      "type": "other",
+      "categories": [],
       "description": "The Instant Shopping API is serving two purposes:1) to manage the orders as they result from the Instant Shopping purchase flow. 2) to generate Instant Shopping Button keys necessary for setting up the Instant Shopping flow both onsite and offsite. Note that as soon as a purchase initiated through Instant Shopping is completed within Klarna, the order should be read and handled using the Order Management API.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#instant-shopping-api",
@@ -120,8 +120,8 @@
     },
     {
       "label": "https://developers.klarna.com/api/#klarna-shipping-service-callback-api",
-      "type": null,
-      "categories": null,
+      "type": "other",
+      "categories": [],
       "description": "The Klarna Shipping Service Callback API enables communication between the Klarna Shipping Service and the Integrator.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#klarna-shipping-service-callback-api",
@@ -148,5 +148,5 @@
   "crunchbase": "klarna",
   "github": "klarna",
   "fca": "001b000002zyAwNAAU",
-  "articles": null
+  "articles": []
 }

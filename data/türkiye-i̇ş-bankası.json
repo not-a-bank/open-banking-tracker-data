@@ -147,7 +147,7 @@
     {
       "label": "Business Days",
       "type": "other",
-      "categories": null,
+      "categories": [],
       "description": "Business Days API allows developers to query İşbank's business days, holidays and next available business day when doing financial operations.",
       "documentationUrl": "https://developer.isbank.com.tr/Pages/business-days.aspx",
       "apiReferenceUrl": null,
@@ -196,8 +196,8 @@
     },
     {
       "label": "IBAN",
-      "type": "auth",
-      "categories": ["auth"],
+      "type": "other",
+      "categories": [],
       "description": "This API is used to validate and verify the correctness of the entered İşbank IBAN.",
       "documentationUrl": "https://developer.isbank.com.tr/Pages/iban-api.aspx",
       "apiReferenceUrl": null,
