@@ -33,7 +33,178 @@
     "sourceUrl": null
   },
   "developerPortalUrl": null,
-  "apiProducts": [],
+  "apiProducts": [    
+    {
+      "label": "Campaigns",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "https://developer.isbank.com.tr/Pages/campaigns-api.aspx",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/campaigns-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Plans",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "Loan installment options are displayed as a template with this API",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/payment-plans-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Repayment Schedule",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "Repayment schedule of loan amount is created with this API. Repayment schedule will be displayed according to selected number of installments.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/repayment-schedule-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Loans",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "This API starts loan application. Loans API must be invoked and get application_id.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/loans-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Credit Scores",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "This API is used to start credit score query. ",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/credit-scores-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Customer Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Customer account list is retrieved with this API. Use this API if you need to ask customer to select an account.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/customer-accounts-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Customers",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "This API is used to get customer’s e-mail and job information.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/customers-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Branches",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": "Branches API returns available branches in a given city.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/branches-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Decisions",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "This API is used to get result of loan application.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/decisions-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Exchange Rates",
+      "type": "other",
+      "categories": ["fx"],
+      "description": "This API is used to convert any currency to TRY. By default it uses today. Date parameter is used to specify the date.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/exchange-rates.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consumer Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/consumer-payments.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Business Days",
+      "type": "other",
+      "categories": null,
+      "description": "Business Days API allows developers to query İşbank's business days, holidays and next available business day when doing financial operations.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/business-days.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Loan Agreement Notices",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "This API is used to create pre-contract information request form. If customer is applicable to get a loan, Loan Agreement Notices API is invoked to create pre-contract request form. ",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/loan-agreement-notices-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Loan Agreements",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "This API is used to create consumer loan agreement.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/loan-agreements-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Loan Agreement Approvals",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "This API is used to approve consumer loan agreement. Call this API when customer approves the loan agreement to let the Is Bank know about this approval.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/loan-agreement-approvals-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Disbursements",
+      "type": "other",
+      "categories": ["loans"],
+      "description": "This API is used to disburse loan to customer.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/loan-agreement-approvals-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "IBAN",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "This API is used to validate and verify the correctness of the entered İşbank IBAN.",
+      "documentationUrl": "https://developer.isbank.com.tr/Pages/iban-api.aspx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
