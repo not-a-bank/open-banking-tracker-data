@@ -259,6 +259,17 @@
         ]
       }
     },
+    "apiAccess": {
+      "description": "Is the API access limited to verified TPPs only",
+      "anyOf": [
+        {
+          "enum": [
+            "verifiedTpp"
+          ]
+        }, 
+        {"type": "null"}
+      ]
+    },
     "apiProducts": {
       "type": "array",
       "items": {
@@ -302,7 +313,8 @@
               "STET-AISP",
               "STET-CBPII",
               "STET-PISP",
-              "BERLIN1.1"
+              "BERLIN1.1",
+              "BERLIN1.3"
             ]
           },
           "categories": {
