@@ -1,0 +1,61 @@
+{
+  "id": "ASN-bank",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "ASN Bank",
+  "legalName": "ASN Bank (de Volksbank N.V)",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553166434/radar/icons/ASN_Bank.jpg,
+  "website": "https://www.asnbank.nl/home.html",
+  "ownership": [
+    { 
+      "shareholderName": "de Volksbank",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553166048/radar/icons/DeVolksbank.jpg",
+      "providerId": "devolksbank",
+      "percentage": 100.0,
+      "sourceUrl": "https://res.cloudinary.com/banq/image/upload/v1553166592/Financial%20Data/ASN_Bank_2017.pdf"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "NL",
+  "countries": ["NL"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": "https://www.asnbank.nl/service-en-contact/psd2.html"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/nl/app/asn-mobiel-bankieren/id593013249?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=nl.asnbank.asnbankieren&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.asnbank.nl/over-asn-bank/organisatie/publicaties.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2017",
+      "date": null,
+      "url": "https://res.cloudinary.com/banq/image/upload/v1553166592/Financial%20Data/ASN_Bank_2017.pdf"
+    }
+  ],
+  "twitter": "asnbank",
+  "crunchbase": "asn-bank",
+  "github": null,
+  "fca": "001b000000NMLYRAA5",
+  "articles": []
+}
