@@ -1,0 +1,99 @@
+{
+  "id": "spar-nord-bank",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "Spar Nord Bank",
+  "legalName": "Spar Nord Bank A/S",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553182241/radar/icons/Spar-Nord.jpg",
+  "website": "https://www.sparnord.dk/",
+  "ownership": [
+    { 
+      "shareholderName": "Spar Nord Foundation",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553182241/radar/icons/Spar-Nord.jpg",
+      "providerId": "spar-nord-foundation",
+      "percentage": 18.9,
+      "sourceUrl": "https://media.sparnord.dk/com/investor/financial_communication/reports/2018/annual-report-2018.pdf"
+    },
+    { 
+      "shareholderName": "Nykredit Realkredit",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552474290/radar/icons/nykredit.jpg",
+      "providerId": "nykredit",
+      "percentage": 11.4,
+      "sourceUrl": "https://media.sparnord.dk/com/investor/financial_communication/reports/2018/annual-report-2018.pdf"
+    },
+    
+  ],
+  "stateOwned": false,
+  "countryHQ": "DK",
+  "countries": ["DK"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://sparnordopenbanking.com/",
+  "apiProducts": [
+    {
+      "label": "Account",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Retrieves the list of accounts for the user.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://sparnordopenbanking.com/docs/index.html#account",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Transactions",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Retrieves the transactions that matches the given parameters.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://sparnordopenbanking.com/docs/index.html#transactions",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Authenticsation",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "Before make requests using the Spar Nord SDK you will need to authenticate the user.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://sparnordopenbanking.com/docs/index.html#authentication",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": null,
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/spar-nord/id1099816514?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=dk.bec.android.mb1.b00369.prod&hl=en_US"
+    }
+  ],
+  "stockSymbol": "CPH:SPNO",
+  "investorRelationsUrl": "https://www.sparnord.com/en/investor-relations/",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": null,
+      "url": "https://media.sparnord.dk/com/investor/financial_communication/reports/2018/annual-report-2018.pdf"
+    }
+  ],
+  "twitter": "sparnordbank",
+  "crunchbase": "spar-nord-bank-a-s",
+  "github": null,
+  "fca": "001b000000MfSZmAAN",
+  "articles": []
+}
