@@ -1,0 +1,52 @@
+{
+  "id": "argenta",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "Argenta",
+  "legalName": "Argenta Spaarbank N.V.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553172240/argenta.png",
+  "website": "https://www.argenta.be/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": ["BE","NL","LU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://portal.test-payments.argenta.be/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/argenta-banking/id893585833?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=be.argenta.bankieren&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "http://www.argenta.eu/investor-relations/",
+  "quarterlyReports": [
+    {
+      "label": "H1 2018",
+      "date": "2019-08-29",
+      "url": "http://www.argenta.eu/wp-content/uploads/2016/05/447211-ARGENTA-REPORT-2018-WEB.pdf"
+    }
+  ],
+  "twitter": "argenta",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}
