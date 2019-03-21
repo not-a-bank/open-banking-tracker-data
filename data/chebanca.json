@@ -1,0 +1,60 @@
+{
+  "id": "chebanca",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "CheBanca!",
+  "legalName": "CheBanca! S.p.A.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553164472/radar/icons/CheBanca.jpg",
+  "website": "https://www.chebanca.it/",
+  "ownership": [
+    { 
+      "shareholderName": "Mediobanca",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553164582/radar/icons/Mediobanca.jpg",
+      "providerId": "mediobanca",
+      "percentage": 100.0,
+      "sourceUrl": "https://www.mediobanca.com/static/upload/_con/consolidated-financial-statements-30-6-2017.pdf"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": ["IT"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://developer.chebanca.it/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/chebanca/id622619121?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.vipera.chebanca&hl=en"
+    }
+  ],
+  "stockSymbol": "BIT:MB",
+  "investorRelationsUrl": "https://www.mediobanca.com/en/media-relations/press-releases/index.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-01-30",
+      "url": "https://www.mediobanca.com/en/media-relations/press-releases/chebanca-bod-meeting-financial-statements-for-six-months-ended-31-dec-2018-approved.html"
+    }
+  ],
+  "twitter": "Chebanca",
+  "crunchbase": "chebanca",
+  "github": null,
+  "fca": null,
+  "articles": []
+}
