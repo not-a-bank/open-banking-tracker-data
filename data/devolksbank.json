@@ -1,0 +1,85 @@
+{
+  "id": "devolksbank",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "de Volksbank",
+  "legalName": "de Volksbank N.V.",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553166048/radar/icons/DeVolksbank.jpg",
+  "website": "https://www.devolksbank.nl/home.html",
+  "ownership": [
+    { 
+      "shareholderName": "NLFI",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552255582/radar/icons/nlfi.png",
+      "providerId": "NLFI",
+      "percentage": 100.0,
+      "sourceUrl": "https://res.cloudinary.com/banq/image/upload/v1553165498/Financial%20Data/Volksbank_2018.pdf"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "NL",
+  "countries": ["NL"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.devolksbank.nl/artikel/nieuwe-europese-richtlijn-betaaldiensten-psd2-en-gevolgen-voor-de-klanten.html"
+  },
+  "developerPortalUrl": "https://innovatie.devolksbank.nl/cases/api-koppelingen/",
+  "apiProducts": [
+    {
+      "label": "Transaction Information API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Deze API werkt eigenlijk op dezelfde manier als betaalinitiatie, met een ander resultaat. Zo kan je bijvoorbeeld een app met een mooi huishoudboekje machtigen om jouw rekeninginformatie op te halen. Ook hier werkt de dienst niet zonder jouw digitale handtekening in de vorm van de code die door je kastje wordt gegenereerd.",
+      "documentationUrl": "https://innovatie.devolksbank.nl/cases/api-koppelingen/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "upcoming"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Met een betaalinitiatie kan een andere partij dan je eigen bank namens jou een betaling bij de bank indienen. Doordat jij die betaling ondertekent met het kastje van jouw bank, de zogeheten Digipas bij de ASN, RegioBank en SNS, weet de bank zeker dat jij de opdracht hebt gegeven. Het heeft daarmee in de ervaring iets weg van een dienst die je waarschijnlijk al gebruikt: iDEAL.",
+      "documentationUrl": "https://innovatie.devolksbank.nl/cases/api-koppelingen/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "upcoming"
+    }
+  ],
+   "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": null
+    },
+    {
+      "operatingSystem": null
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.abnamro.com/en/investor-relations/index.html",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-15",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1553165498/Financial%20Data/Volksbank_2018.pdf"
+    }
+  ],
+  "twitter": "devolksbank",
+  "crunchbase": "de-volksbank",
+  "github": "devolksbank",
+  "fca": "001b000000MfK1YAAV",
+  "articles": [
+    {
+      "url": "https://www.devolksbank.nl/artikel/nieuwe-europese-richtlijn-betaaldiensten-psd2-en-gevolgen-voor-de-klanten.html",
+      "date": "2017-05-05"
+    }
+  ]
+}
