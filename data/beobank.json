@@ -1,0 +1,61 @@
+{
+  "id": "beobank",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "Beobank",
+  "legalName": "BEOBANK NV/SA",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553173196/Beobank.png",
+  "website": "https://www.beobank.be/fr/particulier/",
+  "ownership": [
+    { 
+      "shareholderName": "Credit Mutuel",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Credit_Mutuel.jpg",
+      "providerId": "credit-mutuel",
+      "percentage": 100.0,
+      "sourceUrl": "https://www.creditmutuel.fr/cmne/fr/banques/site-institutionnel/publications/rapport-annuel/2017/en/rapport-annuel-2017_en_global-final.pdf"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": ["BE","NL","LU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://online.beobank.be/oauth2/en/devportal/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAccess": ["all","verifiedTpp"]
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/beobank-mobile/id1008666594?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.beobank_prod.bad&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "http://www.bfcm.creditmutuel.fr/en/bfcm/presentation/index.html",
+  "quarterlyReports": [
+    {
+      "label": "H1 2018",
+      "date": "2018-08-07",
+      "url": "http://www.bfcm.creditmutuel.fr/en/bfcm/pdf/DOCREF_JUNE2018_VENG.pdf"
+    }
+  ],
+  "twitter": "beobank",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}
