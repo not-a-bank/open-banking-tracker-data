@@ -1,0 +1,61 @@
+{
+  "id": "nagelmackers",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "Bank Nagelmackers",
+  "legalName": "Bank Nagelmackers nv",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553177489/radar/icons/Nagelmackers.png",
+  "website": "https://www.nagelmackers.be/nl",
+  "ownership": [
+    { 
+      "shareholderName": "Anbang Insurance Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553178025/radar/icons/Anbang-Insurance-Group.jpg",
+      "providerId": "anbang",
+      "percentage": 100.0,
+      "sourceUrl": "https://www.nagelmackers.be/nl/module-press/detail/anbang-insurance-group-acquires-delta-lloyd-bank-belgium."
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": ["BE"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/nagelmackers/id885804394?l=nl&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://itunes.apple.com/be/app/nagelmackers/id885804394?l=nl&mt=8"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.nagelmackers.be/fr/donnees-entreprise-et-structure/donnees-de-l-entreprise",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2017",
+      "date": null,
+      "url": "https://www.nagelmackers.be/src/Frontend/Files/userfiles/files/Rapport_dactivites_2017.pdf"
+    }
+  ],
+  "twitter": "nagelmackers_be",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000MfLYpAAN",
+  "articles": []
+}
