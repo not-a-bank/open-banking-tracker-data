@@ -1,0 +1,57 @@
+
+{
+  "id": "halk-bankasi",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "Halk Bankasi",
+  "legalName": "Turkiye Halk Bankasi A.S.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/HalkBank.jpg",
+  "website": "https://www.halkbank.com.tr/",
+  "ownership": [
+    { 
+      "shareholderName": "Treasury of Turkey",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552903952/radar/icons/Treasury_of_Turkey.jpg",
+      "providerId": "turkish-treasury",
+      "percentage": 51.1,
+      "sourceUrl": "https://www.halkbank.com.tr/en/investor-relations/50/ownership-structure"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "TR",
+  "countries": ["TR"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/halkbank-mobil/id1068841746?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.tmobtech.halkbank&hl=en"
+    }
+  ],
+  "stockSymbol": "IST:HALKB",
+  "investorRelationsUrl": "https://www.halkbank.com.tr/en/home/investorrelations",
+  "quarterlyReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-14",
+      "url": "https://www.halkbank.com.tr/images/channels/English/investor_relations/earnings_presentation/2018/HALKB_Q4_18_ENG.PDF"
+    }
+  ],
+  "twitter": "halkbank",
+  "crunchbase": "akbank",
+  "github": null,
+  "fca": "001b000000NMVUrAAP",
+  "articles": []
+}
