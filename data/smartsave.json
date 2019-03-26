@@ -1,0 +1,54 @@
+{
+  "id": "smartsave",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "SmartSave",
+  "legalName": "SmartSave",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553609982/radar/icons/SmartSave.png",
+  "website": "https://smartsavebank.co.uk/",
+  "ownership": [
+    { 
+      "shareholderName": "Chetwood Financial Ltd.",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553609689/radar/icons/Chetwood.jpg",
+      "providerId": "chetwood",
+      "percentage": 100.0,
+      "sourceUrl": "https://chetwood.co/"
+    }
+  ],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [
+    {
+      "label": "2017",
+      "date": "2018-09-12",
+      "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/gUlyGfFa1sa3RfZhdHfz6NcdxzrSEIn4_wA6mVqvNQY/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAWRGBDBV3M4JKB3O2%2F20190326%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20190326T141753Z&X-Amz-Expires=60&X-Amz-Security-Token=FQoGZXIvYXdzEFUaDEHvL9GIvU7Q2rFlCyK3A%2BBA7oqL7g5%2FLrELMaUyT6k%2FVUR5q7dPkY7pqOHSWVei3n0g07IfQ5gYR7GddEUGbqBzngfUDr708VixwT9ECwDFL3BXUjlwXXK80yt0BZN%2Bvhb0FY99F8hKPMTdRcZD4rXo9xcXEMYrppavoZUkJe7%2BTzS5AN82l2QELDssFWG3OihGnT9BbypwEnBINw3jaPvhbPjVp0oNaVmq4INI5ugJY%2BvZinbc5cMmcCbgboIi5ZdtU34voEpa0K8zqB0eIr6TD9Oh9aiEnZVJSzChayv5MqnGjkljv5VTNqZd72qCIC1FUzwU3qXhUBz2AGxO7xprlhrZPyQwpdf1tTI9Jv3tV%2FTEIbmoKNQ9bCrqdlLM%2B89zi8WvUNYCu7GfKuI4tPnd7SnGpyplQQfzzuihqg9Jv1i3y%2B2fYLRUxTjxDVTq%2FP22Z7QyhTfAFDkx%2F8QRw5uMGlHOTGK9twaCOZvI8Nuhq%2BoJwOttJjPKMYHzlAr6tJgcMHby7gPiA75J4Ktg%2BjPLaO2n8jYfUaaRS620nSqencZ3UTPd4AUNSucubnR89YUXHBgkaXoQKQd6hW9nOxPm922cUWQokZ%2Fo5AU%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=96d36924ace0c5b82c3222b741b6d858f90317e83998cf765e50c60ea4be36c8",
+      "documentType": "annualreport"
+    }
+  ],
+  "twitter": null,
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000003Jj5LyAAJ",
+  "articles": []
+}
