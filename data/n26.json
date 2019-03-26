@@ -31,10 +31,12 @@
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/n26-the-mobile-bank/id956857223?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.number26.android&hl=en"
     }
   ],
   "stockSymbol": null,
