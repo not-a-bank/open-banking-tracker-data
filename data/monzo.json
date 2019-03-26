@@ -53,15 +53,24 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/monzo-bank/id1052238659?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=co.uk.getmondo&hl=en"
     }
   ],
   "stockSymbol": null,
   "investorRelationsUrl": null,
-  "quarterlyReports": [],
+  "quarterlyReports": [
+    {
+      "label": "2018",
+      "date": "2019-02-28",
+      "url": "https://monzo.com/annual-report/2018/",
+      "documentType": "annualreport"
+    }
+  ],
   "twitter": "monzo",
   "crunchbase": "monzo",
   "github": "monzo",
