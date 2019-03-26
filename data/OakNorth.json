@@ -1,0 +1,44 @@
+{
+  "id": "OakNorth",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "OakNorth Bank",
+  "legalName": "OakNorth Bank plc",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553597743/radar/icons/OakNorth.jpg",
+  "website": "https://www.oaknorth.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+        { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": null,
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [
+    {
+      "label": "2018",
+      "date": null,
+      "url": "https://www.oaknorth.com/wp-content/uploads/2019/03/Annual-accounts-2018-OakNorth-1.pdf",
+      "documentType": "annualreport"
+    }
+  ],
+  "twitter": "oaknorth",
+  "crunchbase": "oaknorth-bank",
+  "github": null,
+  "fca": "001b000000aQtn8AAC",
+  "articles": []
+}
