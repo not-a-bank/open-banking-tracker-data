@@ -1,0 +1,46 @@
+{
+  "id": "masthaven",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Masthaven",
+  "legalName": "Monese Ltd",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553608590/radar/icons/468MeSl6_400x400.jpg",
+  "website": "https://www.masthaven.co.uk/",
+  "ownership": [],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [
+    {
+      "label": "2018",
+      "date": "2018-08-28",
+      "url": "https://document-api-images-prod.s3.eu-west-1.amazonaws.com/docs/b8BGj2Xu7M1PHTXZ5mGGqAWlbIs7DFrg-ajGBIKZGZw/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAWRGBDBV3GB7IST7P%2F20190326%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20190326T135931Z&X-Amz-Expires=60&X-Amz-Security-Token=FQoGZXIvYXdzEFEaDJRO9GkYoNEgMT7QzCK3A1HvS%2B3A3MmVAZZO%2BTA5yP%2F6zqhmUGKQxYG9ZAVySXYEnVidg6v6fVqA9cCM9I4NgQsdblu8NReRlCmgbRNDrGaMOlETwsaUox2u8sUKkKvf9mPAzgjKtFzr8sNlb5zc6Jn9OX8rHWlZtSRsyYE2AB32Eq%2FVb85hwVt%2FZsMzz4yz90FkcogIwrEc3Z%2BOXWPdeWMAnVreoND%2Bcf9pM2GQ6Tnhs0XuX319vqDIxOOdvmXoQNshF4K3FXpLx5d2qLSOLgm53N47YJ0VRrOsh5yV2LPlAKFkg8yZBXC3uj6PtRMXc5fFL8Qv3FYEijLpg%2Bybw5Ndm%2F5TWjZ4V2SN%2FPDnhM3DYMr4qNvIEdWYaon2%2FrtBP%2FBZKEgGQ9eEFa0r4muxvbw3Bzd2%2BLuVOWJ9XZFHtuufNF4pnUG%2Fh01ypYV30zzn7lGIG8EOSpPyZd1RZLneS3SgaylraJohXSORsXFkzY62WfNf2nvRv8rNqwJXQOpaeYdCB1b1B6Hb7V%2FfnOvrYW%2Ftljxfa%2FMsBh69hOJcrBWqLDygcl40hDxnMa5tO7V0vGOQePagESO4gXewjpNN7IAbD3ryOWUorbPn5AU%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=eab778f4659d9b710b26e25a1adf28f02b5091895c7288acb2215ee27b06911f",
+      "documentType": "annualreport"
+    }
+  ],
+  "twitter": "masthavenbank",
+  "crunchbase": "masthaven",
+  "github": null,
+  "fca": "001b000001YXrBSAA1",
+  "articles": []
+}
