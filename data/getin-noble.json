@@ -1,0 +1,62 @@
+{
+  "id": "getin-noble",
+  "type": ["account"],
+  "bankType": ["retail","corperate"],
+  "name": "mBank",
+  "legalName": "Getin Noble Bank S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553524296/radar/icons/Getin_Noble.jpg",
+  "website": "http://en.gnb.pl/",
+  "ownership": [
+    { 
+      "shareholderName": "LC Corp B.V",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553524806/radar/icons/lc_corp.png",
+      "providerId": "LC-Corp",
+      "percentage": 46.0,
+      "sourceUrl": "http://en.gnb.pl/gnb_en/doc/news/r-okresowe-kwartalne/2018/Q32018_GNB%20Financial%20Statements_Group_ENG.pdf"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "PL",
+  "countries": ["PL"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+    ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl":null
+  },
+  "developerPortalUrl": "https://getinapi.getinbank.pl/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/pl/app/getin-mobile-banking/id591859430?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.getingroup.mobilebanking&hl=en_US"
+    }
+  ],
+  "stockSymbol": "WSE:GNB",
+  "investorRelationsUrl": "http://en.gnb.pl/prezentacje",
+  "quarterlyReports": [
+    {
+      "label": "Q3 2018",
+      "date": "2019-02-07",
+      "documentType": "quarterlyinvestorpresentation"
+      "url": "http://en.gnb.pl/gnb_en/doc/news/r-okresowe-kwartalne/2018/Q32018_GNB%20Financial%20Statements_Group_ENG.pdf"
+    }
+  ],
+  "twitter": null,
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}
