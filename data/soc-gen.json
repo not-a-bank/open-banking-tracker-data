@@ -1,0 +1,58 @@
+{
+  "id": "soc-gen",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Société Générale",
+  "legalName": "Société Générale S.A.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Societe_Generale.jpg",
+  "website": "https://www.societegenerale.com/en/home",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": ["FR","GB","LU","BE"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": null
+    },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/lappli-soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale/id376991016?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=mobi.societegenerale.mobile.lappli&hl=en"
+    }
+  ],
+"stockSymbol": "EPA:GLE:EN",
+ "investorRelationsUrl": "https://www.societegenerale.com/en/investors",
+ "quarterlyReports": [
+   {
+     "label": "Q4 2018",
+     "date": "2019-02-07",
+     "documentType": ["annualpressrelease","quarterlypressrelease"],
+     "url": "https://www.societegenerale.com/sites/default/files/documents/R%C3%A9sultats%20financiers/2018/Q4/pr_q4_2018.pdf"
+   }
+ ],
+ "twitter": "societegenerale",
+ "crunchbase": "societe-generale",
+ "github": "societe-generale",
+ "fca": "001b000000MfF4FAAV",
+ "articles": []
+}
