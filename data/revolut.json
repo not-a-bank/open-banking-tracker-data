@@ -32,15 +32,24 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/revolut-beyond-banking/id932493382?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.revolut.revolut&hl=en"
     }
   ],
   "stockSymbol": null,
   "investorRelationsUrl": null,
-  "quarterlyReports": [],
+  "quarterlyReports": [
+    {
+      "label": "2017",
+      "date": "2018-09-20",
+      "url": "https://document-api-images-prod.s3.eu-west-1.amazonaws.com/docs/Srvh-mP82wktaEigyJ38IUBrsgA3TBs5jEbZtZ6FDxM/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAWRGBDBV3G4GNMK5Y%2F20190326%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20190326T104852Z&X-Amz-Expires=60&X-Amz-Security-Token=FQoGZXIvYXdzEFEaDK6IbjK3Vp4rTb2n7SK3A6xN193Aq1zoQsROdZ3lHuJkKr%2B2HZKafXZOyAwhQAYHvuXyoekdI9mHhlPkIVrpqKxg3E5fBJ7eL8wfItxi0KIznHdP2k9%2FXgWlLIwyO70cLhEZUOlozqEI8sZov5S1MZSopuepkSQpsaqj8va9EWQHmuPo%2Bltbyq1laCMT4uXtO%2Fl9Wfx76UwrhnmG8ZKTu9PJ%2Be7QGIuKxCT8GPFkiUQkLEDlgLR7S6Z3%2BQ1QXWup2BA4FKtYaNCh6oaqiZFI4LZOZ7lp11T6PtcNCGDCUsaLXbyU7ExlSiwp3VulRsgmCpaOYKXcY%2BffO0fNZOFUbFcekqdJcWcOYs28EEU1%2F3olBNWLZnEa2%2Fu6i5Mv37g%2FyPiXkVhVKI4HqB%2FxN9qTj91MjELAGftNOeXOeyup%2B71MqmUzrBKXwTh7hJRlncqd03pnD29EPO0WXiUNS55DyqS0TpTeyZm7hsZHrjte6XU5WCBTjhOPgAIGO5BZvx%2BDb%2BSWexVc3078wFmyc%2F%2Fiqi64yMqUXbcIKt95yrYW7hXe6EIOkTs8hHTPKFjn0T%2BroU7wIxmEJRZR0P3y31ev1D80qfxL%2FDsopqHn5AU%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f62e1d353255c0b161daaae3938244871042922cb2040dd6f0d87daef9a728a6",
+      "documentType": "annualreport"
+    }
+  ],
   "twitter": "RevolutApp",
   "crunchbase": "revolut",
   "github": "revolut",
