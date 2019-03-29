@@ -1,0 +1,61 @@
+{
+  "id": "b",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "B",
+  "legalName": "Clydesdale Bank PLC",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553855928/radar/icons/b.jpg",
+  "website": "https://www.youandb.co.uk/",
+  "ownership": [
+    { 
+      "shareholderName": "CYBG",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552491985/radar/icons/CYBG.jpg",
+      "providerId": "cybg",
+      "percentage": 100.0,
+      "sourceURL": "https://www.youandb.co.uk/"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/b-manage-your-money/id1051351437?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=co.uk.youandb.android.b&hl=en"
+    }
+  ],
+  "stockSymbol": "LON:CYBG",
+  "investorRelationsUrl": null,
+  "quarterlyReports": [
+    {
+      "label": "2018",
+      "date": "null",
+      "url": "https://www.cybg.com/investor-centre/annual-reports/",
+      "documentType": "annualreport"
+    }
+  ],
+  "twitter": "HelloB",
+  "crunchbase": null,
+  "github": null,
+  "fca": "001b000000MfFIVAA3",
+  "articles": null
+}
