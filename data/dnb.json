@@ -29,14 +29,14 @@
     "status": "available",
     "sourceUrl": null
   },
-  "developerPortalUrl": "https://developer.dnb.no/",
+  "developerPortalUrl": "https://developer.dnb.no/Documentation/psd2#tag/PSD2%20for%20PSD2",
   "apiProducts": [
      {
       "label": "Accounts",
       "type": "accountInformation",
       "categories": ["accounts"],
       "description": null,
-      "documentationUrl": "https://developer.dnb.no/documentation#tag/Accounts",
+      "documentationUrl": "https://developer.dnb.no/Documentation/psd2#tag/Account-Information-Service-(AIS)",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Accounts",
       "premium": false,
       "stage": "sandbox"
@@ -46,7 +46,7 @@
       "type": "paymentInitiation",
       "categories": ["payments"],
       "description": null,
-      "documentationUrl": "https://developer.dnb.no/documentation#tag/Payments",
+      "documentationUrl": "https://developer.dnb.no/Documentation/psd2#tag/Payment-Initiation-Service-(PIS)",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Payments",
       "premium": false,
       "stage": "sandbox"
