@@ -27,19 +27,22 @@
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/dilizi/id805566329?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=fr.smoney.android.smoneypart&hl=en"
     }
   ],
   "stockSymbol": null,
   "investorRelationsUrl": "https://www.groupebpce.fr/en/Investors",
   "quarterlyReports": [
     {
-      "label": "Q4 2018",
+      "label": "2018",
       "date": "2019-02-12",
       "url": "https://res.cloudinary.com/banq/image/upload/v1552311206/Financial%20Data/20190212_CP_BPCE_Results_2018_GB.pdf"
+      "documentType": "annualreport"
     }
   ],
   "twitter": "GroupeBPCE",
