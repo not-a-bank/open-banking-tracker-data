@@ -1,0 +1,94 @@
+{
+  "id": "tide",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "tide.",
+  "legalName": "Tide Platform Limited",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553854943/radar/icons/Tide.jpg",
+  "website": "https://www.tide.co/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://tideapi.github.io/docs/#introduction",
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "This endpoint retrieves a collection of company accounts associated with the user.",
+      "documentationUrl": "https://tideapi.github.io/docs/#accounts",
+      "apiReferenceUrl": "https://tideapi.github.io/docs/#accounts",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Transactions",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "This endpoint retrieves a collection of an account’s transactions.",
+      "documentationUrl": "https://tideapi.github.io/docs/#transactions",
+      "apiReferenceUrl": "https://tideapi.github.io/docs/#transactions",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Companies",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "This endpoint retrieves a collection of companies with the user.",
+      "documentationUrl": "https://tideapi.github.io/docs/#companies",
+      "apiReferenceUrl": "https://tideapi.github.io/docs/#companies",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Authentication",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "Tide implements OAuth 2 to authenticate requests.",
+      "documentationUrl": "https://tideapi.github.io/docs/#authentication",
+      "apiReferenceUrl": "https://tideapi.github.io/docs/#authentication",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/tide-business-banking/id1140086177?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.tideplatform.banking&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "quarterlyReports": [
+    {
+      "label": "2018",
+      "date": "2018-09-20",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1553855414/Financial%20Data/Tide_2018.pdf",
+      "documentType": "annualreport"
+    }
+  ],
+  "twitter": "TideBanking",
+  "crunchbase": "tide-2",
+  "github": null,
+  "fca": "001b000001SHTjVAAX",
+  "articles": null
+}
