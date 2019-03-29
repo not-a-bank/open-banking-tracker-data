@@ -13,13 +13,15 @@
       "shareholderName": "PZU",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552489387/radar/icons/PZU.jpg",
       "providerId": null,
-      "percentage": 20.0
+      "percentage": 20.0,
+      "sourceUrl": "https://www.pekao.com.pl/en/investors-relations/composition-shareholding.html"
     },
     { 
       "shareholderName": "Polish State Treasury",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552487385/radar/icons/Polish_Treasury.png",
       "providerId": "Polish State Treasury",
-      "percentage": 12.8
+      "percentage": 12.8,
+      "sourceUrl": "https://www.pekao.com.pl/en/investors-relations/composition-shareholding.html"
     }
   ],
   "stateOwned": true,
@@ -38,13 +40,18 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/pl/app/pekao24makler/id484502613?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=softax.pekao.powerpay&hl=en"
     }
   ],
   "stockSymbol": "WSE:PEO",
