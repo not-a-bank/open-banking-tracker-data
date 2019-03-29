@@ -192,6 +192,27 @@
         }
       ]
     },
+    "apiAggregators": {
+      "anyOf": [
+        {
+          "type": "array",
+          "items": {
+            "enum": [
+              "klarna",
+              "token",
+              "tink",
+              "ibanity",
+              "figo",
+              "bud",
+              "truelayer",
+              "saltedge"
+            ]
+          }
+      },
+      {
+        "type": "null"
+      }]
+    },
     "openBankProjectUrl": {
       "anyOf": [
         {

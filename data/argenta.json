@@ -24,6 +24,9 @@
   "developerPortalUrl": "https://portal.test-payments.argenta.be/",
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
