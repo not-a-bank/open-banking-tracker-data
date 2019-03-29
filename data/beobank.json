@@ -32,6 +32,9 @@
   "developerPortalUrl": "https://online.beobank.be/oauth2/en/devportal/",
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "apiAccess": null,
   "webApplication": true,
   "mobileApps": [
