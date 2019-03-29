@@ -5,7 +5,7 @@
   "name": "DNB",
   "legalName": "DNB ASA",
   "ipoStatus": "public",
-  "verified": false,
+  "verified": true,
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/DNB.jpg",
   "website": "https://www.dnb.no/en",
   "ownership": [
@@ -13,7 +13,8 @@
       "shareholderName": "Norwegian State",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552467237/radar/icons/2000px-Flag_of_Norway.svg.png",
       "providerId": null,
-      "percentage": 34.0
+      "percentage": 34.0,
+      "sourceUrl": "https://www.ir.dnb.no/share/largest-shareholders"
     }
   ],
   "stateOwned": true,
@@ -146,19 +147,22 @@
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/no/app/dnb-mobile-bank/id390631214?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=no.apps.dnbnor&hl=en"
     }
   ],
   "stockSymbol": null,
   "investorRelationsUrl": "https://www.ir.dnb.no/",
   "quarterlyReports": [
     {
-      "label": "Q4 2018",
+      "label": "2018",
       "date": "2019-03-07",
-      "url": "https://vp267.alertir.com/afw/files/press/dnb_asa/201903066039-2.pdf"
+      "url": "https://vp267.alertir.com/afw/files/press/dnb_asa/201903066039-2.pdf",
+      "documentType": "annualreport"
     }
   ],
   "twitter": "DNB_Bank",
