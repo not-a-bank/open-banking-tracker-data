@@ -13,7 +13,8 @@
       "shareholderName": "Italian State",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552482524/radar/icons/Minsitero_Economia_e_Finanze_logo.png",
       "providerId": "Italian State",
-      "percentage": 68.2
+      "percentage": 68.2,
+      "sourceUrl": "https://www.gruppomps.it/en/corporate-governance/shareholding-structure.html"
     }
   ],
   "stateOwned": false,
@@ -32,13 +33,18 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/dz/app/banca-mps/id366805842?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=it.copergmps.rt.pf.android.sp.bmps&hl=en"
     }
   ],
   "stockSymbol": "BIT:BMPS",
