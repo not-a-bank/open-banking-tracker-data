@@ -5,7 +5,7 @@
   "name": "Metro Bank",
   "legalName": "Barclays plc",
   "ipoStatus": "public",
-  "verified": false,
+  "verified": true,
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Metro_Bank.jpg",
   "website": "https://www.metrobankonline.co.uk",
   "ownership": [],
@@ -48,10 +48,12 @@
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/metro-bank/id1175525592?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=ph.com.metrobank.metrobankdirectmobile&hl=en"
     }
   ],
   "stockSymbol": "LON:MTRO",
@@ -60,7 +62,8 @@
     {
       "label": "Q4 2018",
       "date": "2019-02-26",
-      "url": "https://www.metrobankonline.co.uk/globalassets/documents/investor_documents/trading-announcement-fy-2018.pdf"
+      "url": "https://www.metrobankonline.co.uk/globalassets/documents/investor_documents/trading-announcement-fy-2018.pdf",
+      "documentType": "annualpressrelease"
     }
   ],
   "twitter": "Metro_Bank",
