@@ -32,13 +32,18 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/caixabank/id318806094?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=en"
     }
   ],
   "stockSymbol": "CABK:SM",
