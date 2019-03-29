@@ -24,13 +24,18 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios"
+      "storeUrl": "https://itunes.apple.com/it/app/youapp/id739705959?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.lynxspa.bancopopolare"
     }
   ],
   "stockSymbol": "BIT: BAMI",
