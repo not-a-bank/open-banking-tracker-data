@@ -115,13 +115,18 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/barclays-mobile-banking/id536248734?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.barclays.android.barclaysmobilebanking&hl=en"
     }
   ],
   "stockSymbol": "LON:BARC",
