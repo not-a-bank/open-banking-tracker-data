@@ -54,6 +54,9 @@
     }
     ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
@@ -72,7 +75,6 @@
       "label": "Q4 2018",
       "date": "2019-01-30",
       "url": "https://sebgroup.com/siteassets/investor_relations1/interim_reports/2018_q4_interim.pdf"
-      "documentType": "quarterlyreport"
     }
   ],
   "twitter": "seb_bank",
