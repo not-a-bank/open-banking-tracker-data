@@ -26,6 +26,9 @@
   "openBankProjectUrl": "https://bnpparibas-api.openbankproject.com/",
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
@@ -45,8 +48,8 @@
     }
   ],
   "twitter": "BNPParibas",
-  "crunchbase": "",
-  "github": "",
+  "crunchbase": null,
+  "github": null,
   "fca": "001b000000MfFC6AAN",
   "articles": [
     {
