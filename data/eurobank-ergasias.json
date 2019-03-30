@@ -33,13 +33,18 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+   "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gr/app/eurobank-mobile-app/id364587747?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.EurobankEFG&hl=en"
     }
   ],
   "stockSymbol": "OTCMKTS: EGFEF",
