@@ -37,6 +37,11 @@
   "developerPortalUrl": "https://danskebank.com/openbanking",
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna",
+    "token",
+    "yolt"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
