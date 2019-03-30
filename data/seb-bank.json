@@ -5,7 +5,7 @@
   "name": "SEB",
   "legalName": "Skandinaviska Enskilda Banken AB",
   "ipoStatus": "public",
-  "verified": false,
+  "verified": true,
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/SEB_Bank.png",
   "website": "https://sebgroup.com/",
   "ownership": [
@@ -13,7 +13,8 @@
       "shareholderName": "AB Investor",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552469995/radar/icons/Investor_AB.png",
       "providerId": null,
-      "percentage": 20.8
+      "percentage": 20.8,
+      "sourceUrl": "https://www.swedbank.com/investor-relations/the-share/shareholders.html"
     }
   ],
   "stateOwned": false,
@@ -53,13 +54,18 @@
     }
     ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/swedbank-private/id344161302?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=se.swedbank.mobil&hl=en"
     }
   ],
   "stockSymbol": "STO:SEB-A",
