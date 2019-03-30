@@ -196,6 +196,7 @@
       "anyOf": [
         {
           "type": "array",
+          "uniqueItems": true,
           "items": {
             "enum": [
               "klarna",
@@ -205,7 +206,11 @@
               "figo",
               "bud",
               "truelayer",
-              "saltedge"
+              "salt-edge",
+              "nordic-api-gateway",
+              "yolt",
+              "plaid",
+              "yapily"
             ]
           }
       },
