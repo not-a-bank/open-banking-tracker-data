@@ -25,13 +25,18 @@
   "developerPortalUrl": "https://developer.unicredit.eu/",
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/developer/unicredit/id396670011"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.unicredit&hl=en"
     }
   ],
   "stockSymbol": "BIT:UCG",
