@@ -9,7 +9,7 @@
   "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Bunq.jpg",
   "website": "https://www.bunq.com/",
   "ownership": [],
-  "stateOwned": false,
+  "stateOwned": true,
   "countryHQ": "NL",
   "countries": ["EU"],
   "compliance": [
@@ -21,16 +21,18 @@
   "sandbox": {
     "status": "available"
   },
-  "developerPortalUrl": "https://doc.bunq.com/",
+  "developerPortalUrl": "https://doc.bunq.com/#/psd2",
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/bunq/id1021178150?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bunq.android&hl=en"
     }
   ],
   "stockSymbol": null,
