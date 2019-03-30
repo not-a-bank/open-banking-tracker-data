@@ -53,7 +53,9 @@
   "apiStandards": [],
   "apiAggregators": [
     "klarna",
-    "salt-edge"
+    "salt-edge",
+    "token",
+    "yolt"
   ],
   "webApplication": true,
   "mobileApps": [

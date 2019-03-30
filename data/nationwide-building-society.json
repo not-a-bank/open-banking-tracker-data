@@ -72,6 +72,11 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna",
+    "token",
+    "yolt"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
