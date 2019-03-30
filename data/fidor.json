@@ -1,0 +1,125 @@
+{
+  "id": "fidor",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Fidor Bank",
+  "legalName": "Fidor Bank AG",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1553857289/radar/icons/Fidor.jpg",
+  "website": "https://www.fidor.de/",
+  "ownership": [
+    { 
+      "shareholderName": "Groupe BPCE",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Groupe_BPCE.jpg",
+      "providerId": "groupe-bpce",
+      "percentage": 100.0,
+      "sourceUrl": "https://www.groupebpce.fr/en/Journalists/News-and-Press-releases/Strategy/Acquisition-of-Fidor-Bank-by-Groupe-BPCE"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": ["EU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.fidor.com/platform" 
+  },
+  "developerPortalUrl": "https://www.fidor.com/solutions/developer",
+  "apiProducts": [
+    {
+      "label": "Customers",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "lists all the personal data of the customer.",
+      "documentationUrl": "https://fidor-sandbox-api.api-docs.io/v1/customers",
+      "apiReferenceUrl": "https://fidor-sandbox-api.api-docs.io/v1/customers",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Customers related",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "After authorization you can query the user data of the authorized account holder. You will only receive high-level user information",
+      "documentationUrl": "https://fidor-sandbox-api.api-docs.io/v1/customers-related/J4Gcy8w5hyppNB4up",
+      "apiReferenceUrl": "https://fidor-sandbox-api.api-docs.io/v1/customers-related/J4Gcy8w5hyppNB4up",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "lists all the account data of the customer. For your convenience, we also include information about the customer in a response.",
+      "documentationUrl": "https://fidor-sandbox-api.api-docs.io/v1/accounts/abhB2PGfGwbam5i9S",
+      "apiReferenceUrl": "https://fidor-sandbox-api.api-docs.io/v1/accounts/abhB2PGfGwbam5i9S",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Transfers",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "We differentiate between different types of money transfers. In general we distinguish between the Fidor internal transfers (Fidor to Fidor money transfer) and external transfers (SEPA, GMT, FPS, BACS, etc.).",
+      "documentationUrl": "https://fidor-sandbox-api.api-docs.io/v1/transfers",
+      "apiReferenceUrl": "https://fidor-sandbox-api.api-docs.io/v1/transfers",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Account Information",
+      "type": "auth",
+      "categories": ["auth"],
+      "description": "https://fidor-sandbox-api.api-docs.io/v1/preauths/preauths",
+      "documentationUrl": "https://fidor-sandbox-api.api-docs.io/v1/preauths/preauths",
+      "apiReferenceUrl": "https://fidor-sandbox-api.api-docs.io/v1/preauths/preauths",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Transactions",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "lists all financial transactions on the given account. In most cases #docTextSection:g3wA2ee9xHrWmf7uk, are provided as well.",
+      "documentationUrl": "https://fidor-sandbox-api.api-docs.io/v1/transactions",
+      "apiReferenceUrl": "https://fidor-sandbox-api.api-docs.io/v1/transactions",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl":"https://itunes.apple.com/de/app/fidor-smart-banking/id1181856652?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fidor.fsw&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://www.groupebpce.fr/en/Investors/Financial-profile/In-brief",
+  "quarterlyReports": [
+    {
+      "label": "2018",
+      "date": "2019-02-12",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552311206/Financial%20Data/20190212_CP_BPCE_Results_2018_GB.pdf"
+    }
+  ],
+  "twitter": "ficoba",
+  "crunchbase": "fidor-bank",
+  "github": null,
+  "fca": "001b000000NMX0zAAH",
+  "articles": []
+}
