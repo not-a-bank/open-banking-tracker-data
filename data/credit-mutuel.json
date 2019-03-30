@@ -31,13 +31,18 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+    "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/fr/app/cr%C3%A9dit-mutuel/id1436153712?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.cm_prod.bad&hl=en"
     }
   ],
   "stockSymbol": null,
