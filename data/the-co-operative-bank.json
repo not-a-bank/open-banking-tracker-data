@@ -13,7 +13,8 @@
       "shareholderName": "Co-operative Banking Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296091/radar/icons/The_Co-operative_Bank.jpg",
       "providerId": "Co-operative Banking Group",
-      "percentage": 100.0
+      "percentage": 100.0,
+      "sourceUrl": "https://www.co-operativebank.co.uk/investorrelations/shareholderinformation"
     }
   ],
   "stateOwned": false,
@@ -31,22 +32,28 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/co-operative-bank/id1439204021?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.monitise.coop&hl=en"
     }
   ],
   "stockSymbol": null,
   "investorRelationsUrl": "https://www.co-operativebank.co.uk/investorrelations",
   "financialReports": [
     {
-      "label": "Q4 2018",
+      "label": "2018",
       "date": "2019-02-28",
-      "url": "https://www.co-operativebank.co.uk/assets/pdf/bank/investorrelations/2018-annual-report-and-accounts.pdf"
+      "url": "https://www.co-operativebank.co.uk/assets/pdf/bank/investorrelations/2018-annual-report-and-accounts.pdf",
+      "type": ["annualReport"]
     }
   ],
   "twitter": "CooperativeBank",
