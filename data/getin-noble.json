@@ -33,6 +33,9 @@
   "developerPortalUrl": "https://getinapi.getinbank.pl/",
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
@@ -46,7 +49,7 @@
   ],
   "stockSymbol": "WSE:GNB",
   "investorRelationsUrl": "http://en.gnb.pl/prezentacje",
-  "quarterlyReports": [
+  "financialReports": [
     {
       "label": "Q3 2018",
       "date": "2019-02-07",

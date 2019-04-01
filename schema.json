@@ -526,7 +526,7 @@
         }
       ]
     },
-    "quarterlyReports": {
+    "financialReports": {
       "type": "array",
       "items": {
         "type": "object",
@@ -543,6 +543,24 @@
             "anyOf": [
               { "type": "string" },
               { "type": "null" }
+            ]
+          },
+          "type": {
+            "anyOf": [
+              { "type": "null" },
+              { 
+                "type": "array",
+                "items": {
+                  "enum": [
+                    "analystPresentation",
+                    "annualReport",
+                    "quarterlyReport",
+                    "quarterlyInvestorPresentation",
+                    "quarterlyPressRelease",
+                    "annualPressRelease"
+                  ]
+                }
+              }
             ]
           },
           "url": {

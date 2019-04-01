@@ -78,20 +78,23 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "klarna"
   ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/ing-smart-banking-for-iphone/id437203741?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=MyING.be&hl=en"
     }
   ],
   "stockSymbol": "AMS:INGA",
   "investorRelationsUrl": "https://www.ing.com/Investor-relations/Financial-Reports/Quarterly-results.htm",
-  "quarterlyReports": [
+  "financialReports": [
     {
       "label": "Q4 2018",
       "date": "2019-02-06",
