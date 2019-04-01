@@ -13,7 +13,8 @@
       "shareholderName": "The Royal Bank of Scotland Group plc",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552312195/radar/icons/Royal_Bank_of_Scotland.jpg",
       "providerId": "royal-bank-of-scotland",
-      "percentage": 100.0
+      "percentage": 100.0,
+      "sourceUrl": "https://investors.rbs.com/fixed-income-investors/company-legal-structure.aspx"
     }
   ],
   "stateOwned": false,
@@ -61,10 +62,12 @@
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "sourceUrl": "https://itunes.apple.com/us/app/royal-bank-of-scotland/id334852412?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.rbs.mobile.android.rbs&hl=en_US"
     }
   ],
   "stockSymbol": "LON:RBS",
@@ -74,6 +77,7 @@
       "label": "Q4 2018",
       "date": "2019-02-15",
       "url": "https://investors.rbs.com/~/media/Files/R/RBS-IR/results-center/annual-report-2018.pdf"
+      "type": ["annualReport"]
     }
   ],
   "twitter": "RBS_Help",
