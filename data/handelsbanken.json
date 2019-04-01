@@ -50,13 +50,18 @@
     }
     ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/hello-bank-for-smartphone/id642897716?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=fr.bnpp.digitalbanking&hl=en"
     }
   ],
   "stockSymbol": "STO:SHB-A",
