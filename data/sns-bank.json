@@ -33,6 +33,9 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
@@ -50,7 +53,8 @@
     {
       "label": "Q4 2018",
       "date": "2018-02-15",
-      "url": "https://www.devolksbank.nl/article/de-volksbank-posts-2018-net-profit-of-268-million.html"
+      "url": "https://www.devolksbank.nl/article/de-volksbank-posts-2018-net-profit-of-268-million.html",
+      "type": ["annualPressRelease"]
     }
   ],
   "twitter": "SNSbank",
