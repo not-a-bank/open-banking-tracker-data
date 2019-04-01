@@ -13,7 +13,8 @@
       "shareholderName": "Co-Operative of Dutch Banks",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296085/radar/icons/Rabobank.jpg",
       "providerId": null,
-      "percentage": 100.0
+      "percentage": 100.0,
+      "sourceUrl": "https://www.rabobank.com/en/about-rabobank/results-and-reports/annual-review/2015/organisational-structure/index.html"
     }
   ],
   "stateOwned": false,
@@ -117,13 +118,18 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/nl/app/rabo-bankieren/id346790636?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=nl.rabomobiel&hl=en"
     }
   ],
   "stockSymbol": null,
@@ -132,7 +138,8 @@
     {
       "label": "Q4 2018",
       "date": "2019-02-14",
-      "url": "https://www.rabobank.com/en/images/01-press-release-annual-results-2018.pdf"
+      "url": "https://www.rabobank.com/en/images/01-press-release-annual-results-2018.pdf",
+      "type": ["annualReport"]
     }
   ],
   "twitter": "Rabobank",
