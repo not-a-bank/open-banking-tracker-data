@@ -78,15 +78,18 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "klarna"
   ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/ing-smart-banking-for-iphone/id437203741?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=MyING.be&hl=en"
     }
   ],
   "stockSymbol": "AMS:INGA",
