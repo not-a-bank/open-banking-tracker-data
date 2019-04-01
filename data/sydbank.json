@@ -25,13 +25,18 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/syndicate-bank-syndmobile/id569440107?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.paymate.syndicatebank&hl=en"
     }
   ],
   "stockSymbol": "CPH:SYDB",
@@ -40,7 +45,8 @@
     {
       "label": "Q4 2018",
       "date": "2019-02-27",
-      "url": "https://www.sydbank.com/inc/pdf/sydbankcom/financial_reports/2018/annual-report-2018.pdf"
+      "url": "https://www.sydbank.com/inc/pdf/sydbankcom/financial_reports/2018/annual-report-2018.pdf",
+      "type": ["annualReport"]
     }
   ],
   "twitter": "DanskeBank_DK",
