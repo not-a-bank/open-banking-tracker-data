@@ -29,6 +29,9 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
@@ -46,7 +49,7 @@
    {
      "label": "Q4 2018",
      "date": "2019-02-07",
-     "documentType": ["annualpressrelease","quarterlypressrelease"],
+     "type": ["annualPressRelease","quarterlyPressRelease"],
      "url": "https://www.societegenerale.com/sites/default/files/documents/R%C3%A9sultats%20financiers/2018/Q4/pr_q4_2018.pdf"
    }
  ],
