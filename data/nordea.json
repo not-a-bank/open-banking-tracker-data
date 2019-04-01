@@ -85,13 +85,18 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/nordea-mobilbank-norge/id882415097?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=no.nordea.mobilebank&hl=en"
     }
   ],
   "stockSymbol": "HEL:NDA-FI",
@@ -100,7 +105,8 @@
     {
       "label": "Q4 2018",
       "date": "2019-02-06",
-      "url": "https://www.nordea.com/Images/33-304448/Annual%20Report%20Nordea%20Bank%20Abp%202018.pdf"
+      "url": "https://www.nordea.com/Images/33-304448/Annual%20Report%20Nordea%20Bank%20Abp%202018.pdf",
+      "type": "annualReport"
     }
   ],
   "twitter": "Nordea",
