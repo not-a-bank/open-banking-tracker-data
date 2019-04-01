@@ -32,13 +32,18 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/iko/id597657968?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=pl.pkobp.iko&hl=en"
     }
   ],
   "stockSymbol": "WSE:PKO",
@@ -47,7 +52,8 @@
     {
       "label": "Q4 2018",
       "date": null,
-      "url": "https://www.pkobp.pl/media_files/ec332d2c-a2ec-4261-a3be-97da284d2393.pdf"
+      "url": "https://www.pkobp.pl/media_files/ec332d2c-a2ec-4261-a3be-97da284d2393.pdf",
+      "type": ["annualReport"]
     }
   ],
   "twitter": "PKOBP",
