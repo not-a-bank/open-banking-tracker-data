@@ -25,22 +25,28 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/it/app/ubi-banca/id399790324?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=it.nogood.container&hl=en"
     }
   ],
   "stockSymbol": "BIT:UBI",
   "investorRelationsUrl": "https://www.ubibanca.it/pagine/Investor-relations-EN.aspx",
   "financialReports": [
     {
-      "label": "Q4 2018",
+      "label": "2018",
       "date": "2010-02-08",
-      "url": "https://www.ubibanca.it/contenuti/file/UBI%20Banca_Consolidated%20Results_31%20December%2020181.pdf"
+      "url": "https://www.ubibanca.it/contenuti/file/UBI%20Banca_Consolidated%20Results_31%20December%2020181.pdf",
+      "type": ["annualReport"]
     }
   ],
   "twitter": null,
