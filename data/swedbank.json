@@ -77,18 +77,30 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/swedbank-private/id344161302?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=se.swedbank.mobil&hl=en"
     }
   ],
   "stockSymbol": "Stockholm:SWEDA",
   "investorRelationsUrl": "https://www.swedbank.com/investor-relations.html",
-  "financialReports": [],
+  "financialReports": [
+    {
+      "label": "2018",
+      "date": "2019-01-29",
+      "url": "https://online.swedbank.se/ConditionsEarchive/download?bankid=1111&id=WEBDOC-PRODE29146126",
+      "type": ["annualReport"]
+    }
+  ],
   "twitter": "swedbank",
   "crunchbase": "swedbank",
   "github": null,
