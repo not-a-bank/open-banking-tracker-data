@@ -13,7 +13,8 @@
       "shareholderName": "Regional Raiffeisen Banks",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Raiffaisen.jpg",
       "providerId": null,
-      "percentage": 58.8
+      "percentage": 58.8,
+      "soureUrl": "https://www.rbinternational.com/eBusiness/01_template1/829189266947841370-829188968716049154-829188968716049154-NA-2-EN.html"
     }
   ],
   "stateOwned": false,
@@ -117,13 +118,18 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/raiffeisenbank-mobiln%C3%AD-ekonto/id538751727?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.advantage.RaiffeisenBank&hl=en"
     }
   ],
   "stockSymbol": "VIE:RBI",
@@ -132,7 +138,8 @@
     {
       "label": "Q4 2018",
       "date": "2019-03-19",
-      "url": "http://investor.rbinternational.com/fileadmin/ir/2018_FY/2019-03-13_FY_IR_release_RBI.pdf"
+      "url": "http://investor.rbinternational.com/fileadmin/ir/2018_FY/2019-03-13_FY_IR_release_RBI.pdf",
+      "type": ["annualPressRelease"]
     }
   ],
   "twitter": "RBI_presse",
