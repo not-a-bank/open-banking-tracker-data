@@ -24,23 +24,29 @@
   "developerPortalUrl": null,
   "openBankProjectUrl": null,
   "apiProducts": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/ubs-mobile-banking/id441068021?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ubs.swidKXJ.android&hl=en"
     }
   ],
   "stockSymbol": "SWX:UBSG",
   "investorRelationsUrl": "https://www.ubs.com/global/en/about_ubs/investor_relations",
   "financialReports": [
     {
-      "label": "Q4 2018",
+      "label": "2018",
       "date": "2019-01-22",
-      "url": "https://www.ubs.com/content/dam/static/epaper/index.html?id=2f79bb2d"
+      "url": "https://www.ubs.com/content/dam/static/epaper/index.html?id=2f79bb2d",
+      "type": ["annualReport"]
     }
   ],
   "twitter": "UBS",
