@@ -36,13 +36,18 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/tsb-mobile-banking/id1160720878?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=uk.co.tsb.newmobilebank&hl=en"
     }
   ],
   "stockSymbol": "LON: IL0A",
@@ -51,7 +56,8 @@
     {
       "label": "Q4 2018",
       "date": "2019-02-27",
-      "url": "https://www.permanenttsbgroup.ie/media/press-releases/2019/27-02-2019.aspx"
+      "url": "https://www.permanenttsbgroup.ie/media/press-releases/2019/27-02-2019.aspx",
+      "type": ["annualPressRelease"]
     }
   ],
   "twitter": "permanenttsb",
