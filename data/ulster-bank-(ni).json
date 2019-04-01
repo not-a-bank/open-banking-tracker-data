@@ -53,13 +53,18 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [
+    "klarna"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/ie/app/ulster-bank-ri-mobile-banking/id469519882?mt=8"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.rbs.mobile.android.ubr&hl=en"
     }
   ],
   "stockSymbol": "LON:RBS",
@@ -68,7 +73,8 @@
     {
       "label": "Q4 2018",
       "date": "2019-02-15",
-      "url": "https://investors.rbs.com/~/media/Files/R/RBS-IR/results-center/annual-report-2018.pdf"
+      "url": "https://investors.rbs.com/~/media/Files/R/RBS-IR/results-center/annual-report-2018.pdf",
+      "type": ["annualReport]
     }
   ],
   "twitter": "UlsterBankNI",
