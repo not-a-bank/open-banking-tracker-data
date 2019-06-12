@@ -152,6 +152,16 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
     "STET",
     "OBIE"
   ],
+  "apiAggregators": [
+    "klarna",
+    "salt-edge",
+    "token",
+    "yolt",
+    "openwrks"
+  ],
+  "collections": [
+    "cma9"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
