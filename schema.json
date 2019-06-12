@@ -210,7 +210,38 @@
               "nordic-api-gateway",
               "yolt",
               "plaid",
-              "yapily"
+              "yapily",
+              "openwrks"
+            ]
+          }
+      },
+      {
+        "type": "null"
+      }]
+    },
+    "collections": {
+      "anyOf": [
+        {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "cma9"
+            ]
+          }
+      },
+      {
+        "type": "null"
+      }]
+    },
+    "collections": {
+      "anyOf": [
+        {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "cma9"
             ]
           }
       },

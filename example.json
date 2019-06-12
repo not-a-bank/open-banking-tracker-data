@@ -137,6 +137,16 @@
     "STET",
     "OBIE"
   ],
+  "apiAggregators": [
+    "klarna",
+    "salt-edge",
+    "token",
+    "yolt",
+    "openwrks"
+  ],
+  "collections": [
+    "cma9"
+  ],
   "webApplication": true,
   "mobileApps": [
     {

@@ -125,7 +125,11 @@
   "apiAggregators": [
     "klarna",
     "token",
-    "yolt"
+    "yolt",
+    "openwrks"
+  ],
+  "collections": [
+    "cma9"
   ],
   "webApplication": true,
   "mobileApps": [
