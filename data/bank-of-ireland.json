@@ -30,11 +30,41 @@
     }
   ],
   "sandbox": {
-    "status": "unavailable",
+    "status": "available",
     "sourceUrl": null
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
+  "developerPortalUrl": "https://developer.bankofireland.com/#!/",
+  "apiProducts": [
+    {
+      "label": "Account Information Services",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "This API Specification provides details of the Account and Transaction API and a set of REST API endpoints for executing the accounts flow for the AISP",
+      "documentationUrl": "https://eu1.anypoint.mulesoft.com/exchange/portals/bankofireland/a52d35f4-6c7f-4e2a-97c2-2be7cd7d592c/account-and-transaction/",
+      "apiReferenceUrl": "https://eu1.anypoint.mulesoft.com/exchange/portals/bankofireland/a52d35f4-6c7f-4e2a-97c2-2be7cd7d592c/account-and-transaction/",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "This API Specification provides details of the Payment Initiation API and a set of REST API endpoints for executing the payments flow for the PISP",
+      "documentationUrl": "https://eu1.anypoint.mulesoft.com/exchange/portals/bankofireland/a52d35f4-6c7f-4e2a-97c2-2be7cd7d592c/payment-initiation/",
+      "apiReferenceUrl": "https://eu1.anypoint.mulesoft.com/exchange/portals/bankofireland/a52d35f4-6c7f-4e2a-97c2-2be7cd7d592c/payment-initiation/",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation Service",
+      "type": "fundsConfirmation",
+      "description": "This API Specification provides details of the Confirmation of Funds API and a set of REST API endpoints for executing the flow for the Card Based Payment Instrument Issuer ('CBPII')",
+      "categories": ["funds"],
+      "documentationUrl": "https://eu1.anypoint.mulesoft.com/exchange/portals/bankofireland/a52d35f4-6c7f-4e2a-97c2-2be7cd7d592c/confirmation-of-funds/",
+      "apiReferenceUrl": "https://eu1.anypoint.mulesoft.com/exchange/portals/bankofireland/a52d35f4-6c7f-4e2a-97c2-2be7cd7d592c/confirmation-of-funds/",
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "apiAggregators": [
     "token",
@@ -47,10 +77,12 @@
   "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "sourceUrl": "https://apps.apple.com/ie/app/bank-of-ireland-mobile-banking/id520821023"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "sourceUrl": "https://play.google.com/store/apps/details?id=com.bankofireland.mobilebanking&hl=en"
     }
   ],
   "stockSymbol": "LON:BIRG",
