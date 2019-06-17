@@ -31,7 +31,50 @@
     "sourceUrl": null
   },
   "developerPortalUrl": null,
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Geef cliënten beveiligde toegang tot transactiedata en saldo’s.",
+      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-payment-initiation-service/apis",
+      "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-payment-initiation-service/apis",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Geef onze cliënten de optie om betalingen uit te voeren.",
+      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-payment-initiation-service/apis",
+      "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-payment-initiation-service/apis",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3"
+    },
+    {
+      "label": "Authorization API",
+      "type": "auth",
+      "description": "Maak en verstuur een aanvraag tot toestemming voor het verkrijgen van de nodige toegangstoken.",
+      "categories": ["auth"],
+      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-oauth2-apis/apis",
+      "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-oauth2-apis/apis",
+      "stage": "live",
+      "specifications": "BERLIN1.3"
+    },
+    {
+      "label": "Funds Confirmation Service",
+      "type": "fundsConfirmation",
+      "description": "Krijg de mogelijkheid na te kijken of de nodige fondsen aanwezig zijn op de betaalrekening van de betaler. Voor het gebruik van deze dienst moet de cliënt eerst zijn/haar uitdrukkelijke toestemming geven.",
+      "categories": ["funds"],
+      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-funds-confirmation-service/apis",
+      "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-funds-confirmation-service/apis",
+      "stage": "live",
+      "specifications": "BERLIN1.3"
+    }
+  ],
   "apiStandards": [],
   "apiAggregators": [
     "klarna"
