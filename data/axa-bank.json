@@ -59,6 +59,7 @@
       "categories": ["auth"],
       "documentationUrl": "https://api-portal.axabank.be/psd2-oauth2-apis/apis-0",
       "apiReferenceUrl": "https://api-portal.axabank.be/psd2-oauth2-apis/apis-0",
+      "premium": false,
       "stage": "live",
       "specifications": "BERLIN1.3"
     },
@@ -69,6 +70,7 @@
       "categories": ["funds"],
       "documentationUrl": "https://api-portal.axabank.be/psd2-funds-confirmation-service/apis-0",
       "apiReferenceUrl": "https://api-portal.axabank.be/psd2-funds-confirmation-service/apis-0",
+      "premium": false,
       "stage": "live",
       "specifications": "BERLIN1.3"
     }

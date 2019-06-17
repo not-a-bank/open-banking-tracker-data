@@ -44,10 +44,10 @@
       "type": "accountInformation",
       "categories": ["accounts"],
       "description": "Account Information Service (AIS) – usługa dostępu do informacji o rachunku, zdefiniowana w art. 66 PSD2",
-      "documentationUrl": "Account Information Service (AIS) – usługa dostępu do informacji o rachunku, zdefiniowana w art. 66 PSD2",
-      "apiReferenceUrl": "Account Information Service (AIS) – usługa dostępu do informacji o rachunku, zdefiniowana w art. 66 PSD2",
+      "documentationUrl": "https://developer.pekao.com.pl/api/node/317",
+      "apiReferenceUrl": "https://developer.pekao.com.pl/api/node/317",
       "premium": false,
-      "stage": "live",
+      "stage": "live"
     },
     {
       "label": "Payment Initiation Service",
@@ -57,7 +57,7 @@
       "documentationUrl": "https://developer.pekao.com.pl/api/node/323",
       "apiReferenceUrl": "https://developer.pekao.com.pl/api/node/323",
       "premium": false,
-      "stage": "live",
+      "stage": "live"
     }
   ],
   "apiStandards": [],

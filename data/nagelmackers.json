@@ -61,6 +61,7 @@
       "categories": ["auth"],
       "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-oauth2-apis/apis",
       "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-oauth2-apis/apis",
+      "premium": false,
       "stage": "live",
       "specifications": "BERLIN1.3"
     },
@@ -71,6 +72,7 @@
       "categories": ["funds"],
       "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-funds-confirmation-service/apis",
       "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-funds-confirmation-service/apis",
+      "premium": false,
       "stage": "live",
       "specifications": "BERLIN1.3"
     }
