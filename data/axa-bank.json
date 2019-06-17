@@ -26,12 +26,54 @@
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://api-portal.axabank.be/?_ga=2.107526082.1917875110.1560803527-23250045.1557492946",
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://api-portal.axabank.be/psd2-account-information-service/apis",
+      "apiReferenceUrl": "https://api-portal.axabank.be/psd2-account-information-service/apis",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://api-portal.axabank.be/psd2-payment-initiation-service/apis-0",
+      "apiReferenceUrl": "https://api-portal.axabank.be/psd2-payment-initiation-service/apis-0",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3"
+    },
+    {
+      "label": "OAuth2",
+      "type": "auth",
+      "description": null,
+      "categories": ["auth"],
+      "documentationUrl": "https://api-portal.axabank.be/psd2-oauth2-apis/apis-0",
+      "apiReferenceUrl": "https://api-portal.axabank.be/psd2-oauth2-apis/apis-0",
+      "stage": "live",
+      "specifications": "BERLIN1.3"
+    },
+    {
+      "label": "Funds Confirmation Service",
+      "type": "fundsConfirmation",
+      "description": null,
+      "categories": ["funds"],
+      "documentationUrl": "https://api-portal.axabank.be/psd2-funds-confirmation-service/apis-0",
+      "apiReferenceUrl": "https://api-portal.axabank.be/psd2-funds-confirmation-service/apis-0",
+      "stage": "live",
+      "specifications": "BERLIN1.3"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
   "apiAggregators": [
     "klarna",
     "ibanity"
