@@ -74,5 +74,95 @@
       "url": "https://www.starlingbank.com/news/UK-first-banking-as-platform/",
       "date": "2018-08-06"
     }
+  ],
+  "customers": {
+    "consumer": [
+      {
+        "amount": "460000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2019/02/13/starling-bank-now-with-460k-consumer-accounts-raises-further-75m-for-european-expansion/",
+          "date": "2019-02-13",
+          "verified": true
+        }
+      }
+    ],
+    "sme": [
+      {
+        "amount": "30000",
+        "product": "smeAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2019/02/13/starling-bank-now-with-460k-consumer-accounts-raises-further-75m-for-european-expansion/",
+          "date": "2019-02-13",
+          "verified": true
+        }
+      }
+    ],
+    "targets": {
+      "amount": "1000000",
+      "type": "forecast",
+      "date": "2019-12-31",
+      "products": ["currentAccounts", "smeAccounts"],
+      "source": {
+        "url": "https://techcrunch.com/2019/02/13/starling-bank-now-with-460k-consumer-accounts-raises-further-75m-for-european-expansion/",
+        "date": "2019-02-13",
+        "verified": true
+      }
+    }
+  },
+  "fundingTotal": {
+    "amount": "233000000",
+    "currency": "GBP"
+  },
+  "foundedYear": 2014,
+  "strategies": [
+    "marketplaceBanking"
+  ],
+  "debitCards": [
+    "mastercard"
+  ],
+  "applePay": true, 
+  "googlePay": true, 
+  "samsungPay": true, 
+  "fitbitPay": true, 
+  "fscsProtected": true,
+  "products": {
+    "currentAccounts": {
+      "personalAccount": true,
+      "jointAccount": true,
+      "euroAccount": true,
+      "teenAccount": true,
+      "freeFeeTravel": true
+    },
+    "businessCurrentAccount": true,
+    "loans": {
+      "personalOverdraft": true,
+      "personalLoans": true,
+      "bussinesOverdraft": true
+    },
+    "pfm": true,
+    "internationalMoneyTransfers": true
+  },
+  "partnerships": [
+    {
+      "partner": "Post Office",
+      "source": {
+        "url": "https://www.telegraph.co.uk/technology/2018/11/14/digital-bank-starling-heads-high-street-following-post-office/"
+      }
+    }
+  ], 
+  "platforms": [
+    "mobile"
+  ],
+  "awards": [
+    {
+      "award": "Best British Bank",
+      "year": 2019
+    },
+    {
+      "award": "Best Current Account",
+      "year": 2019
+    }
   ]
 }
