@@ -124,35 +124,42 @@
     },
     "compliance": {
       "description": "Applicable regulations and compliance status",
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": [
-          "regulation"
-        ],
-        "properties": {
-          "regulation": { 
-            "enum": [
-              "PSD2",
-              "OB",
-              "GDPR"
-            ]
-          },
-          "status": { 
-            "enum": [ 
-              "inProgress", 
-              "ready", 
-              "nonCompliant", 
-              "unknown" 
-            ]
-          },
-          "sourceUrl": {
-            "type": "string",
-            "format": "uri",
-            "pattern": "^(https?|http?)://"
+      "anyOf": [
+        {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": [
+              "regulation"
+            ],
+            "properties": {
+              "regulation": { 
+                "enum": [
+                  "PSD2",
+                  "OB",
+                  "GDPR"
+                ]
+              },
+              "status": { 
+                "enum": [ 
+                  "inProgress", 
+                  "ready", 
+                  "nonCompliant", 
+                  "unknown" 
+                ]
+              },
+              "sourceUrl": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^(https?|http?)://"
+              }
+            }
           }
+        },
+        {
+          "type": "null"
         }
-      }
+      ]
     },
     "sandbox": {
       "type": "object",
@@ -211,21 +218,6 @@
               "plaid",
               "yapily",
               "openwrks"
-            ]
-          }
-      },
-      {
-        "type": "null"
-      }]
-    },
-    "collections": {
-      "anyOf": [
-        {
-          "type": "array",
-          "uniqueItems": true,
-          "items": {
-            "enum": [
-              "cma9"
             ]
           }
       },
