@@ -1,0 +1,74 @@
+{
+  "id": "finn-by-chase",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Finn by Chase℠",
+  "legalName": "JPMorgan Chase & Co.",
+  "ipoStatus": "public",
+  "verified": false,
+  "status": "discontinued",
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1560982958/radar/icons/finn-by-chase.jpg",
+  "website": "https://www.chase.com/personal/finnbank",
+  "ownership": [
+    { 
+      "shareholderName": "JPMorgan Chase",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1560982867/radar/icons/chase.jpg",
+      "providerId": "jpmorgan-chase",
+      "percentage": 100,
+      "sourceUrl": "https://www.chase.com/personal/finnbank"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": ["US"],
+  "compliance": null,
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/finn-by-chase/id1268782377"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.chase.finn&hl=en"
+    }
+  ],
+  "stockSymbol": "NYSE: JPM",
+  "investorRelationsUrl": "https://www.jpmorganchase.com/corporate/investor-relations/investor-relations.htm",
+  "financialReports": [],
+  "twitter": "finnsupport",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": [],
+  "customers": null,
+  "fundingTotal": null,
+  "foundedYear": 2017,
+  "strategies": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "applePay": false, 
+  "googlePay": false, 
+  "samsungPay": false, 
+  "fitbitPay": false, 
+  "fscsProtected": false,
+  "products": {},
+  "partnerships": [], 
+  "platforms": [
+    "mobile", "web"
+  ],
+  "awards": []
+}
