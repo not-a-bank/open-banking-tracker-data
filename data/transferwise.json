@@ -1,0 +1,169 @@
+{
+  "id": "transferwise",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Transferwise",
+  "legalName": "Transferwise",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1560963340/radar/icons/transferwise.png",
+  "website": "https://transferwise.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["EU","US","AU","BR","CH","CA","NZ","JP","SG","IN","HK","MY","PH","PK","MA","TH","AE","UA","ID","CO","TR","MX","RU","CN","KR","LK","BD","VN","ZA"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }    
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://api-docs.transferwise.com/#transferwise-api",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": true,
+  "apiAuth": ["OAUTH2"],
+  "apiReferenceUrl": "https://www.openbanking.org.uk/customers/regulated-providers/transferwise/",
+  "apiProducts": [
+    {
+      "label": "Payouts and Account Automation",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "This lets you to automate how you use your TransferWise account. You can automate payments, connect your business tools, and create ways to manage your finances.",
+      "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-payouts-and-account-automation",
+      "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-payouts-and-account-automation",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Third Party Payouts",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Third-Party Payouts allows marketplaces and financial institutions (banks and payment service providers) to use TransferWise as a payout option for their customers. It’s different from Payouts since it doesn’t require your company to be the originator of payments. Instead, TransferWise will act as a third-party to your customers when they initiate a payment through your site.",
+      "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-third-party-payouts",
+      "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-third-party-payouts",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Banks",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Our bank integration lets banks build TransferWise payments seamlessly into their own desktop and mobile apps. Banks can also build their own native user experience directly onto our API, co-branded with TransferWise.",
+      "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-banks",
+      "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-banks",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Affiliates",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "When you apply to the TransferWise affiliates program you can get access to our API to help you build your own valuable content for your customers or readers.",
+      "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-affiliates",
+      "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-affiliates",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Recieve Money",
+      "type": "paymentInitiation",
+      "categories": ["payments","FX"],
+      "description": "You can receive money to the local bank details that come with your TransferWise account (AUD, EUR, GBP, NZD and USD) and reconcile these incoming payments via the API.",
+      "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-receive-money",
+      "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-receive-money",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Connected Applications",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "With Connected Applications, you can let your customers connect their TransferWise accounts to your product. Say you’re an accounting software – doing this could let your customers automate reconciliation. If you’re a payroll company, you could push customer payments right into TransferWise. Or you could push TransferWise notifications through your app. Whatever you want to build, you likely could!",
+      "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-connected-applications",
+      "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-connected-applications",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/transferwise-money-transfer/id612261027"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": "https://transferwise.com/about",
+  "financialReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-04-16",
+      "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/VLPx0l7JMcufDQK3elDpr_16KuitN1dcEUviI2Y4ngg/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAWRGBDBV3NFCYJGR3%2F20190619%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20190619T171318Z&X-Amz-Expires=60&X-Amz-Security-Token=AgoJb3JpZ2luX2VjED0aCWV1LXdlc3QtMiJIMEYCIQCfTMdu3m3CdLDym5XtJMR%2FIeEHsD2DYpWX819FSo4E7wIhAOQMd%2Ba8Gb%2BrQdJhxKMdBV9s1zPbLj7Pip%2F%2BJ%2FvSjah0KtoDCHUQARoMNDQ5MjI5MDMyODIyIgyI0gKLxpfE3wdw7%2BUqtwPuPleVs5yXwYx0G7gKzP2tZuigt4tJE2xaotMtk1NONKAU2au4kPTs9sAVxP%2BSVeIoLbMRgtaj4jxMFd%2FBkt6BpcCB%2BxP1H%2FZusc9LjfnmWxldhIqjvdqJRGGio9T2lJvzE9x0C67j3AfklLswFdCzFMA5XxBrSNCO1ZGeITwDchEJUz8BiWbjQVOw967T0840Mqms5Y7KDc4YmuY4hMK8t5hO%2Bl9H0wN7BmvLlIbWAxeajv2MP00X2%2F7BTD1qbYWOHDKjgL%2BEC0UhA5VFIPH1O448L78%2B3YFpQNJdNt4RotfEKInc2LubUukL%2BAgLv91gcIoexG7pyCU8OY6AYbAygITb%2BBPJ4FyO3T1G7ldHLZMZHtDsxielY9NJbHHsWBP8s0r9VE43E0%2FQc3u80kds1etO53jrnj88IGpKrSHpg2fFzjDHwR1CIDGgjt%2FWifsxvairq%2F%2Fm6FVW5gHUV3MUi7F3OAyhBl%2Bx9JOW01ohiTa2xXqsfD62NM8pE0IzpmgviQAaYhunDhWBO6MbZD0QAXLw3oCsUQgYomSDTR2T8fkEtIcpAm4c7xrEV8NObuPKRr2YqHisMLTRqOgFOrMB%2BWIRdeiKY6D27PIyLWWwVM0yHgxCJCCBRd7GfFhHlPqxpeUy7ofPPjCEUAb6wJjfQspKoK4bSHd2%2BFps3H6irs3EDhWACkl1YyK3L2%2FjNEJK5M7zFx5KBjoUCQA4K%2BMSLqoAaOI7%2Bg%2FMO3Ei9x3bnVJRHKhnUEI3GmMjTIQc2buGz8sCsIkanzFCtV7VfKQX%2BKplo7zNsi8LNwmDNY4MRWrIECyhrb4PeOA2nXoWxzdsqok%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=c1ba253b237aba4100387047e29c97eada6862a382dbc19f95b4f3f19f5524c0"
+    }
+  ],
+  "twitter": "Transferwise",
+  "crunchbase": "transferwise",
+  "github": "transferwise",
+  "fca": "001b000001EjC6SAAV",
+  "articles": [],
+  "customers": {
+    "consumer": [
+      {
+        "amount": "4000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://venturebeat.com/2018/09/10/transferwise-reports-75-revenue-growth-as-customer-base-doubles-to-4-million/",
+          "date": "2018-10-18",
+          "verified": true
+        }
+      }
+    ],
+    "sme": [],
+    "targets": null,
+  "fundingTotal": {
+    "amount": "772700000",
+    "currency": "USD"
+  },
+  "foundedYear": 2011,
+  "strategies": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "applePay": true, 
+  "googlePay": true, 
+  "samsungPay": true, 
+  "fitbitPay": false, 
+  "fscsProtected": true,
+  "products": {
+    "currentAccounts": {
+      "personalAccount": true,
+      "jointAccount": true,
+      "euroAccount": true,
+      "teenAccount": false
+    },
+    "businessCurrentAccount": true,
+    "loans": {},
+    "pfm": false,
+    "internationalMoneyTransfers": true
+  },
+  "partnerships": [], 
+  "platforms": [
+    "mobile",
+    "web"
+  ],
+  "awards": []
+}
