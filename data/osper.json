@@ -1,0 +1,112 @@
+{
+  "id": "osper",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Osper",
+  "legalName": "OSPER LTD",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1560971342/radar/icons/Osper.png",
+  "website": "https://osper.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/gb/app/osper-banking-for-8-18s/id881886636"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.osper.app&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [
+    {
+      "label": "FY 2018",
+      "date": "2018-05-21",
+      "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/DZsZsB4fggblx2B-TcjGEqVhEp7hq3-WMDZwb0kY8XQ/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAWRGBDBV3JFDRRRC4%2F20190619%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20190619T190521Z&X-Amz-Expires=60&X-Amz-Security-Token=AgoJb3JpZ2luX2VjED8aCWV1LXdlc3QtMiJGMEQCIHWHefJqOipQ%2BBGaGfYss50KrTUS%2FWFitjhiC6X1C%2BP0AiAy7WDWmRM0gez3yiDigpDtUlTeqLeKmcIdV1Nvo3%2FIhiraAwh4EAEaDDQ0OTIyOTAzMjgyMiIMYzfJCVjmaHb%2FhNxkKrcDvzwyFcQWY1deKVhswbx0zWm9gV8jSM5J%2BWUizwHmzRoXTKb0fg01wCEASyCKYQzh6DJ89HhYwD8OvB59%2BiAH1vtwB6AZFz8jypMVNnDSCmfqTDUrqg33dqvDgxGb4sFMiYbexWo5TI%2BZl4ZHMXvDLD%2Bc8%2Bmm5xCwSL7De7F74WSzcIZYGPwTzBjhikAV1wpI5J0Zi45r3K7F%2F8yXbgh05n2il2FuFfoSJVk%2BL3fXNjx9U15wk%2B35NydHvZWo3Pk5HlYw4DRhTjEZKipElmYidClevjllkfnL6tZQZze7Zrl6PHjVk9aOOlphJM9Z8qqUvuc8968oTwxPCY6aoA9aObWjis3A49i3w5kpQp%2BAd9vPQ%2FydmosFP0IYzjqQLqwTEAZH9HfEP2xCOrLqTljmvHbX%2B9AVKPOyisfUfrCg%2B86sGZeTo2taxSWERpoUqgGEvVn5l0EfWnPH%2FHaxBDOaX6mbQ3SBwE6V8LLkXMMAVZ9c%2F2SSPF%2Fo8j0SAW7yqSAQnNAvcxqMdGZw%2FyW3MJjJTaGMN54PzooLmhekpohwG%2BML8Wnu5sUoTX9YI%2Fku5xyviHyKQqQGazC0l6noBTq1AaPnAb%2F769DRAxIHA59DezBCuAFmzwFliMMri5sZ1ysSS322NOMl4uvMw71CklNy6h8PL3auR4OqUXjsIxDE2jljKiZC94gU6%2FVDApV4fNCC3SPAEmH3SsTJJgOIexobgRiEzfmADmv9peX7FgGCjamrcF9KKaNWR%2BvyDi0CS%2FB8FfidWuHVhqvi7vNOCMVpUXki%2Fr2uYEp3gwEJnGWvO1ucSAFfFF3GhqNMOBzgg%2FA%2B2vQZoD4%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=bca41d97cb572137a03f9804735a023fc560e1aba39aca2d3aa0b33e1c9b928c"
+    }
+  ],
+  "twitter": "osper",
+  "crunchbase": "osper",
+  "github": null,
+  "fca": null,
+  "articles": [],
+  "customers": {
+    "consumer": [
+      {
+        "amount": "100000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.thesun.co.uk/news/5581186/would-you-give-six-year-old-bank-card/",
+          "date": "2018-02-14",
+          "verified": true
+        }
+      }
+    ],
+    "sme": [],
+    "targets": {}
+  },
+  "fundingTotal": {
+    "amount": "11200000",
+    "currency": "USD",
+    "sourceURL": "https://www.crunchbase.com/search/funding_rounds/field/organizations/funding_total/osper"
+  },
+  "foundedYear": 2012,
+  "strategies": [
+    "marketplaceBanking"
+  ],
+  "debitCards": [
+    "mastercard"
+  ],
+  "applePay": false, 
+  "googlePay": false, 
+  "samsungPay": false, 
+  "fitbitPay": false, 
+  "fscsProtected": true,
+  "products": {
+    "currentAccounts": {
+      "personalAccount": true,
+      "jointAccount": false,
+      "euroAccount": true,
+      "teenAccount": true,
+      "freeFeeTravel": false
+    },
+    "businessCurrentAccount": false,
+    "loans": {
+      "personalOverdraft": false,
+      "personalLoans": false,
+      "bussinesOverdraft": false
+    },
+    "pfm": true,
+    "internationalMoneyTransfers": true
+  },
+  "partnerships": [], 
+  "platforms": [
+    "mobile"
+  ],
+  "awards": []
+}
