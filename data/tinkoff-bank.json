@@ -88,10 +88,11 @@
     "currency": "USD"
   },
   "foundedYear": 2006,
-  "strategies": [
-    "marketplaceBanking"
-  ],
+  "strategies": [],
   "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [
     "mastercard"
   ],
   "applePay": true, 

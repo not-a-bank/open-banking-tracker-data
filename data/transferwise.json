@@ -75,7 +75,7 @@
     {
       "label": "Recieve Money",
       "type": "paymentInitiation",
-      "categories": ["payments","FX"],
+      "categories": ["payments","fx"],
       "description": "You can receive money to the local bank details that come with your TransferWise account (AUD, EUR, GBP, NZD and USD) and reconcile these incoming payments via the API.",
       "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-receive-money",
       "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-receive-money",
@@ -133,7 +133,8 @@
       }
     ],
     "sme": [],
-    "targets": null,
+    "targets": null
+  },
   "fundingTotal": {
     "amount": "772700000",
     "currency": "USD"
