@@ -1,0 +1,65 @@
+{
+  "id": "kakao-bank",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Kakao Bank",
+  "legalName": "Korea Investment Holdings Co., Ltd.",
+  "ipoStatus": "public",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1561189173/radar/icons/sqlYaEpL2c9d_7mAqegrZSyPPl1HksSoMAjrSW8LCBaK7n25HZKNeeAYlgRK8VkoVyk_s360-rw.webp",
+  "website": "https://kakaobank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "KR",
+  "countries": ["KR"],
+  "compliance": null,
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/kr/app/id1258016944"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.kakaobank.channel"
+    }
+  ],
+  "stockSymbol": "KRX: 035720",
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "kakaocorpglobal",
+  "crunchbase": "kakao",
+  "github": "kakaobank",
+  "fca": null,
+  "articles": [],
+  "customers": {},
+  "fundingTotal": null,
+  "foundedYear": 2017,
+  "strategies": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "applePay": false, 
+  "googlePay": false, 
+  "samsungPay": false, 
+  "fitbitPay": false, 
+  "fscsProtected": false,
+  "products": {},
+  "partnerships": [], 
+  "platforms": [
+    "mobile", "web"
+  ],
+  "awards": []
+}
