@@ -23,21 +23,25 @@
   },
   "developerPortalUrl": "https://doc.bunq.com/#/psd2",
   "apiProducts": [
-  {
+    {
       "label": "Account Information",
       "type": "accountInformation",
+      "categories": ["accounts"],
       "description": "Retrieve details of an account such as balance transactions, balance and details and more.",
       "documentationUrl": "https://doc.bunq.com#psd2",
       "apiReferenceUrl": "https://doc.bunq.com#psd2",
-      "stage": "production"
+      "stage": "live",
+      "premium": false
     },
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
+      "categories": ["payments"],
       "description": "Initiate single and scheduled payments. Retrieve information on the status of the transaction.",
       "documentationUrl": "https://doc.bunq.com#psd2",
       "apiReferenceUrl": "https://doc.bunq.com#psd2",
-      "stage": "production"
+      "stage": "live",
+      "premium": false
     }
   ],
   "apiStandards": [],
