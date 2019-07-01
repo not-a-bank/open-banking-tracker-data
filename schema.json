@@ -63,6 +63,18 @@
       "description": "Name of the provider",
       "examples": ["ABN Amro"]
     },
+    "desription": {
+      "type": "string",
+      "description": "Description of the provider",
+      "examples": ["ABN AMRO Bank N.V. is a Dutch bank with headquarters in Amsterdam. ABN AMRO Bank is the third-largest bank in the Netherlands. It was re-established in its current form in 2009, following the acquisition and break-up of the original ABN AMRO by a banking consortium consisting of Royal Bank of Scotland Group, Santander Group and Fortis."]
+    },
+    "wikipediaUrl": {
+      "type": "string",
+      "format": "uri",
+      "pattern": "^(https?|http?)://",
+      "description": "Wikipedia URL",
+      "examples": ["https://en.wikipedia.org/wiki/ABN_AMRO"]
+    },
     "legalName": {
       "type": "string",
       "description": "ABN AMRO Group N.V.",
