@@ -1,0 +1,79 @@
+{
+  "id": "shine",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "Shine",
+  "description": "Shine.fr is a mobile bank that offers a management platform to freelancers for online banking with contract and invoice management.",
+  "legalName": "Shine SAS",
+  "ipoStatus": "private",
+  "verified": false,
+  "status": "live",
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1562278922/radar/icons/shine.jpg",
+  "website": "https://www.shine.fr/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": ["FR"],
+  "compliance": null,
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": "https://developers.shine.fr/reference",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developers.shine.fr/reference",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/fr/app/shine/id1159779855"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.shine.app&hl=fr"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "shine_tools",
+  "crunchbase": "https://www.crunchbase.com/organization/shine-fr",
+  "bloomberg": "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=133452998",
+  "github": null,
+  "fca": null,
+  "articles": [],
+  "keySegments": [
+    "freelancer"
+  ],
+  "customers": null,
+  "fundingTotal": null,
+  "foundedYear": 2016,
+  "strategies": [],
+  "prepaidCards": [
+    "mastercard"
+  ],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "applePay": false, 
+  "googlePay": false, 
+  "samsungPay": false, 
+  "fitbitPay": false, 
+  "fscsProtected": false,
+  "products": {},
+  "partnerships": [], 
+  "platforms": [
+    "mobile", 
+    "web"
+  ],
+  "technologies": [
+    "treezor"
+  ],
+  "pricingUrl": "https://www.shine.fr/tarifs/",
+  "awards": []
+}
