@@ -1,0 +1,108 @@
+{
+  "id": "bankmobile",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "BankMobile",
+  "legalName": "Starling Bank Limited",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1562597605/radar/icons/BankMobile.png",
+  "website": "https://www.bankmobile.com/bankmobile-team",
+  "ownership": [
+    { 
+      "shareholderName": "Customers Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1562597698/radar/icons/Customers_Bank.jpg",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],,
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": ["US"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": null,
+  "apiReferenceUrl": null,
+  "apiProducts": null,
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/bankmobile-app/id578435033"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.higherone.mobile.android&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "BankMobile",
+  "crunchbase": "bankmobile",
+  "github": null,
+  "fca": null,
+  "articles": null,
+  "customers": {
+    "consumer": [
+      {
+        "amount": "1800000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://thefinancialbrand.com/80002/challenger-banks-legacy-institutions-mobile-banking/",
+          "date": "2019-02-05",
+          "verified": true
+        }
+      }
+    ],
+    "sme": null,
+    "targets": null
+  },
+  "fundingTotal": {
+    "amount": 0,
+    "currency": "USD"
+  },
+  "foundedYear": 2015,
+  "strategies": [
+    "marketplaceBanking"
+  ],
+  "debitCards": [
+    "mastercard"
+  ],
+  "applePay": false, 
+  "googlePay": false, 
+  "samsungPay": false, 
+  "fitbitPay": false, 
+  "fscsProtected": false,
+  "products": {
+    "currentAccounts": {
+      "personalAccount": true,
+      "jointAccount": false,
+      "euroAccount": false,
+      "teenAccount": false,
+      "freeFeeTravel": false
+    },
+    "businessCurrentAccount": false,
+    "loans": {
+      "personalOverdraft": true,
+      "personalLoans": true,
+      "bussinesOverdraft": false
+    },
+    "pfm": false,
+    "internationalMoneyTransfers": true
+  },
+  "partnerships": [], 
+  "platforms": [
+    "mobile",
+    "web"
+  ],
+  "awards": []
+}
