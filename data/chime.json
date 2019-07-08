@@ -1,0 +1,94 @@
+{
+  "id": "chime",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "chime",
+  "legalName": "Chime Banking",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1562595784/radar/icons/chime.png",
+  "website": "https://www.chimebank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": ["US"],
+  "compliance": null,
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": null,
+  "apiReferenceUrl": null,
+  "apiProducts": null,
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/chime-mobile-banking/id836215269"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.onedebit.chime&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": null,
+  "twitter": "chime",
+  "crunchbase": "chime-2",
+  "github": null,
+  "fca": null,
+  "articles": [],
+  "customers": {
+    "consumer": [
+      {
+        "amount": "1000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://bankinnovation.net/2018/05/chime-crosses-1-million-user-accounts-thanks-to-its-referral-progamm/",
+          "date": "2018-05-18",
+          "verified": true
+        }
+      }
+    ],
+    "sme": [],
+    "targets": null
+  },
+  "fundingTotal": {
+    "amount": "308800000",
+    "currency": "USD"
+  },
+  "foundedYear": 2013,
+  "strategies": [],
+  "debitCards": [
+    "visa"
+  ],
+  "applePay": true, 
+  "googlePay": true, 
+  "samsungPay": true, 
+  "fitbitPay": false, 
+  "fscsProtected": true,
+  "products": {
+    "currentAccounts": {
+      "personalAccount": true,
+      "jointAccount": false,
+      "euroAccount": false,
+      "teenAccount": false
+    },
+    "businessCurrentAccount": false,
+    "loans": {},
+    "pfm": false,
+    "internationalMoneyTransfers": true
+  },
+  "partnerships": [], 
+  "platforms": [
+    "mobile",
+    "web"
+  ],
+  "awards": []
+}
