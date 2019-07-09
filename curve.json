@@ -1,0 +1,111 @@
+{
+  "id": "curve",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "curve",
+  "legalName": "Curve 1 LTD",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1562672026/radar/icons/CKHJSoiw_400x400.jpg",
+  "website": "https://www.curve.app/en/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": ["GB","EU","US"],
+  "compliance": [
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": null,
+  "apiReferenceUrl": null,
+  "apiProducts": null,
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/gb/app/curve/id1049397112"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.imaginecurve.curve.prd&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [
+    {
+      "label": "AR 2018",
+      "date": "2019-06-14",
+      "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/q14LIsouK7-8P2eObKHdeA6TK_rg8QmOmi-sBVW56wM/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAWRGBDBV3J2O5CLP4%2F20190709%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20190709T113645Z&X-Amz-Expires=60&X-Amz-Security-Token=AgoJb3JpZ2luX2VjEBkaCWV1LXdlc3QtMiJGMEQCIDxWem5rIZwHl8BeSwk4Mc6Na5tcpVbLqDl40ez%2B9qHxAiBCWs%2FuQjOtKnYsqHfM41ju8UCgJH4NOp45vZtn%2F4tjZiraAwhyEAEaDDQ0OTIyOTAzMjgyMiIMdJcialAVFqFQ4BXXKrcDPTvXQXAV3emxrvExYE6sjlsUQYL4i%2BU1u5Y%2F3R2PepVH7L4Dqh4kQ4zgtOIa2RzehJCIYI4KZUo7WQm%2BRShoUiro%2Bni4CJ6Nv3DrmOIxfvDkcC1Idx9aS2VyA5myuavLerKUUeS1965zXSuEJB2tfk9dkic2Ntt4XvuzgqapRm0BsGIEYNjBLA8TSxVhUewBOHPaT71gw2E8d5aQfnDo4JZTRn4LE%2FhP1CnIC%2BVL0IDmYK54%2BAkbwprnPGJaTFK6hUbU1%2BZQduFV6tx6miplVVrHIqDD155HewUp%2Fkm%2FjxTalSiUIvF3yRaRPRPgQKphymKvhSgcCcsdqmWw%2Bm0whufYwavhllWj7aJF3VoEQD%2FOiqiDTPCm5GgYM9t%2FvETdijDtpuEO8qPWtwss%2BZWCYXdPx5ZQ1G9HlBMA%2Bi93hHRMvBlMpsg4%2FHzafC9rhgmFYq4lkHUY02adB7P3dLp0NPchgPJkNOKD%2FGfNnMk4WSeP9EYs1O8f9eruczyEt9q6kgkXFbdebB5yI9W9hyQioRGHDKsba620KK0t6XE6zoy9AATU%2FCPLRpGV8qcBN8J0%2FL7Mih3TujC%2Fq5HpBTq1AZtTDlxVyKnkpYP9VNfCrc0rqiknYWXoc0vSNY4bMAdFusMItFk3Zj4SPPlu042uKHpPEjPCPlwcAobv5ruvu5mqTAPGnlQV4VQQ7ZyV8shqD0wLoDmOAb6RvvYBrVT2ka%2FJBZpqjplaBvJNHmJEUReB4ohhcZtM2MqyYTT4r%2B8%2BRRrx%2FAHWfFutJd2Mj%2BKiyJ7rEu7FoaizpkqjpD8Aduc2R91zbmlEUOQrvuDYh4VGU5pLA9I%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fb6ac1bd86afdcc0e4aaffc26ea35410052a702b8566ff8adf1829f90f478c8d"
+    }
+  ],
+  "twitter": "imagineCurve",
+  "crunchbase": "curve",
+  "github": null,
+  "fca": "0010X00004IN5FnQAL",
+  "articles": null,
+  "customers": {
+    "consumer": [
+      {
+        "amount": "300000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.forbes.com/sites/oliversmith/2018/12/06/curve-hits-300000-users-with-us-expansion-planned-but-this-all-in-one-card-is-still-too-clever-for-its-own-good/",
+          "date": "2018-12-06",
+          "verified": true
+        }
+      }
+    ],
+    "sme": null,
+    "targets": null
+  },
+  "fundingTotal": {
+    "amount": "12000000",
+    "currency": "USD"
+  },
+  "foundedYear": 2015,
+  "strategies": [
+    "cardCoagulator"
+  ],
+  "debitCards": [
+    "mastercard"
+  ],
+  "applePay": true, 
+  "googlePay": true, 
+  "samsungPay": true, 
+  "fitbitPay": false, 
+  "fscsProtected": true,
+  "products": {
+    "currentAccounts": {
+      "personalAccount": true,
+      "jointAccount": true,
+      "euroAccount": true,
+      "teenAccount": false,
+      "freeFeeTravel": true
+    },
+    "businessCurrentAccount": false,
+    "loans": {
+      "personalOverdraft": false,
+      "personalLoans": false,
+      "bussinesOverdraft": false
+    },
+    "pfm": true,
+    "internationalMoneyTransfers": true
+  },
+  "partnerships": null, 
+  "platforms": [
+    "mobile"
+  ],
+  "awards": null
+}
