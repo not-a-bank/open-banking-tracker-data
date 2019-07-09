@@ -1,0 +1,115 @@
+{
+  "id": "yolt",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "name": "yolt",
+  "legalName": "yolt",
+  "ipoStatus": "private",
+  "verified": false,
+  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1562684423/radar/icons/yolt.jpg",
+  "website": "https://www.yolt.com/",
+  "ownership": [
+    { 
+      "shareholderName": "ING",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/ING_Groep.png",
+      "providerId": "ing",
+      "percentage": 100.0,
+      "sourceUrl": "https://www.yolt.com/"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "NL",
+  "countries": ["GB","EU"],
+  "compliance": [
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    { 
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://www.yolt.com/business",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": "https://www.openbanking.org.uk/customers/regulated-providers/yolt/",
+  "slackCommunity": false,
+  "apiAuth": null,
+  "apiReferenceUrl": null,
+  "apiProducts": null,
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/gb/app/yolt-the-smart-money-manager/id1166560838"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.yolt.android&hl=en"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": null,
+  "twitter": "getyolt",
+  "crunchbase": "yolt-2",
+  "github": null,
+  "fca": "001b000000MfF4VAAV",
+  "articles": null,
+  "customers": {
+    "consumer": [
+      {
+        "amount": "500000",
+        "type": "fact",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.finextra.com/pressarticle/75839/yolt-passes-500000-user-landmark",
+          "date": "2018-10-11",
+          "verified": true
+        }
+      }
+    ],
+    "sme": null,
+    "targets": null
+  },
+  "fundingTotal": {
+    "amount": null,
+    "currency": "USD"
+  },
+  "foundedYear": 2016,
+  "strategies": [
+    "cardCoagulator"
+  ],
+  "debitCards": null,
+  "applePay": false, 
+  "googlePay": false, 
+  "samsungPay": false, 
+  "fitbitPay": false, 
+  "fscsProtected": false,
+  "products": {
+    "currentAccounts": {
+      "personalAccount": false,
+      "jointAccount": false,
+      "euroAccount": false,
+      "teenAccount": false,
+      "freeFeeTravel": false
+    },
+    "businessCurrentAccount": false,
+    "loans": {
+      "personalOverdraft": false,
+      "personalLoans": false,
+      "bussinesOverdraft": false
+    },
+    "pfm": true,
+    "internationalMoneyTransfers": true
+  },
+  "partnerships": null, 
+  "platforms": [
+    "mobile"
+  ],
+  "awards": null
+}
