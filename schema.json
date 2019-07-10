@@ -291,6 +291,7 @@
           "type": "array",
           "items": {
             "enum": [
+              "EIDAS",
               "OAUTH2",
               "OPENID-CONNECT",
               "UNKNOWN"
