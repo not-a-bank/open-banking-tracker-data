@@ -76,10 +76,8 @@
 			"specifications": "BERLIN1.3"
 		}
 	],
-	"apiStandards": [],
-	"apiAggregators": [
-		"klarna"
-	],
+	"apiStandards": ["BERLIN"],
+	"apiAggregators": [],
 	"twitter": "MoneYouNL",
 	"crunchbase": "Moneyou",
 	"fca": null,
