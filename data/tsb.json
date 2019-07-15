@@ -27,11 +27,14 @@
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available"
   },
   "developerPortalUrl": "https://developer.natwest.com/apiportal",
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
