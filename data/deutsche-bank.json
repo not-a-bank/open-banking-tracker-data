@@ -66,8 +66,9 @@
     }
   ],
   "apiStandards": [],
-    "apiAggregators": [
-    "klarna"
+  "apiAggregators": [
+    "klarna",
+    "salt-edge"
   ],
   "webApplication": true,
   "mobileApps": [
