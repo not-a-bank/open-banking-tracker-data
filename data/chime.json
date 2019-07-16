@@ -46,6 +46,16 @@
   "customers": {
     "consumer": [
       {
+        "amount": "3000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2019/07/16/learn-how-to-change-banking-one-dollar-at-a-time-at-disrupt-sf/",
+          "date": "2018-07-16",
+          "verified": false
+        }
+      },
+      {
         "amount": "1000000",
         "type": "claim",
         "product": "currentAccounts",
