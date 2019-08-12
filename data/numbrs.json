@@ -1,0 +1,63 @@
+{
+  "id": "numbrs",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Numbrs",
+  "description": "Numbrs - Mobile Banking App. Numbrs aggregates bank account and credit card information and facilitates mobile banking and personal financial planning.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "verified": false,
+  "status": "live",
+  "iconUrl": "https://res.cloudinary.com/apideck/image/upload/v1565587678/catalog/numbrs/icon128x128.png",
+  "website": "https://numbrs.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CH",
+  "countries": [
+    "CH",
+    "DE",
+    "US"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": "",
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+   "platforms": [
+    "mobile"
+  ],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/centralway-numbrs-mobile-banking/id652918824?mt=8&l=en"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.centralway.numbrs&hl=en_gb"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Numbrs_Personal_Finance_AG",
+  "twitter": "numbrs",
+  "crunchbase": "centralway-holding-ag",
+  "bloomberg": null,
+  "github": ""
+}
