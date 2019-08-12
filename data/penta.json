@@ -21,15 +21,18 @@
     "DE"
   ],
   "compliance": [
-    "PSD2"
+    { 
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
   ],
   "sandbox": {
     "status": "unavailable"
   },
-  "developerPortalUrl": "",
+  "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
-  "slackCommunity": "",
+  "slackCommunity": false,
   "apiAuth": [],
   "apiProducts": [],
   "apiStandards": [],
