@@ -74,9 +74,16 @@
       "examples": ["https://en.wikipedia.org/wiki/ABN_AMRO"]
     },
     "legalName": {
-      "type": "string",
-      "description": "ABN AMRO Group N.V.",
-      "examples": ["ABN Amro"]
+      "anyOf": [
+        {
+          "type": "string",
+          "description": "ABN AMRO Group N.V.",
+          "examples": ["ABN Amro"]
+        },
+        {
+          "type": "null"
+        }
+      ]
     },
     "verified": {
       "type": "boolean",
@@ -107,6 +114,13 @@
       "description": "In what countries is the provider active",
       "examples": ["NL", "BE"],
       "uniqueItems": true
+    },
+    "thirdPartyBankingLicense": {
+      "anyOf" : [
+        { "type": "string" },
+        { "type": "null" }
+      ],
+      "description": "Id of third-party bank license. for challenger banks without their own banking license."
     },
     "webApplication": {
       "type": "boolean",
@@ -281,6 +295,20 @@
     "slackCommunity": {
       "type": "boolean",
       "examples": [true]
+    },
+    "acceleratorProgramUrl": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://",
+          "description": "Url to the accelerator program",
+          "examples": ["http://www.fountaincityfintech.com/"]
+        }, 
+        {
+          "type": "null"
+        }
+      ]
     },
     "apiAuth": {
       "anyOf": [
