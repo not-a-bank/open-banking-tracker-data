@@ -47,6 +47,8 @@ are the best way to propose changes to the codebase (we use [Github Flow](https:
     "sourceUrl": "https://www.businesswire.com/news/home/20190307005306/en/HSBC-Launches-PSD2-Developer-Portal-Expanded-APIs"
   },
   "developerPortalUrl": "https://developer.hsbc.com/",
+  "apiReferenceUrl": "https://developer.hsbc.com/api-reference",
+  "apiChangelogUrl": "https://developer.hsbc.com/changelog",
   "acceleratorProgramUrl": null,
   "apiAccess": "verifiedTpp",
   "apiProducts": [
