@@ -327,6 +327,20 @@
         }
       ]
     },
+    "apiChangelogUrl": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://",
+          "description": "API changelog url of the provider",
+          "examples": ["https://developer.abnamro.com/changelog"]
+        }, 
+        {
+          "type": "null"
+        }
+      ]
+    },
     "apiReferenceUrl": {
       "anyOf": [
         {
