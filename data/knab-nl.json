@@ -1,0 +1,62 @@
+{
+  "id": "knab-nl",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Knab",
+  "description": "A Dutch bank operated by Aegon N.V., a multinational life insurance, pensions and asset management company headquartered in The Hague, Netherlands.",
+  "legalName": "Aegon Bank N.V.",
+  "ipoStatus": "public",
+  "verified": false,
+  "status": "live",
+  "iconUrl": "https://res.cloudinary.com/apideck/image/upload/v1566868438/radar/icons/knab-nl.jpg",
+  "website": "https://knab.nl",
+  "ownership": [
+    {
+      "shareholderName": "Aegon N.V.",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1566872657/radar/icons/aegon-nv.jpg",
+      "providerId": "aegon-nv"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "NL",
+  "countries": [
+    "NL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/nl/app/knab-app/id529493145"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=bvm.bvmapp"
+    }
+  ],
+  "stockSymbol": "AMS:AGN",
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "https://twitter.com/@knab_nl",
+  "bloomberg": null,
+  "github": ""
+}
