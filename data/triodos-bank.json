@@ -1,0 +1,99 @@
+{
+  "id": "triodos-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Triodos Bank",
+  "description": "Triodos Bank is one of the world's leading sustainable banks. Our mission is to make money work for positive social, environmental and cultural change.",
+  "legalName": "Triodos Bank N.V.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "iconUrl": "https://res.cloudinary.com/apideck/image/upload/v1566957825/radar/icons/triodos-bank.png",
+  "website": "https://triodos.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NL",
+  "countries": [
+    "BE",
+    "NL",
+    "DE",
+    "ES",
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.triodos.com/"
+  },
+  "developerPortalUrl": "https://developer.triodos.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.triodos.com/reference",
+  "apiChangelogUrl": "https://developer.triodos.com/changelog",
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "The Account Information Service enables secure access to Triodos Bank payment accounts.",
+      "documentationUrl": "https://developer.triodos.com/docs/account-information-service",
+      "apiReferenceUrl": "https://developer.triodos.com/docs/account-information-service",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "description": "The Payment Initiation Service allows you to create applications that can initiate payments from Triodos Bank payment accounts.",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.triodos.com/docs/payment-initiation-service",
+      "apiReferenceUrl": "https://developer.triodos.com/docs/payment-initiation-service",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds Service",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "The Confirmation of Funds Service allows you to create applications that can check if an amount is available on Triodos Bank payment accounts.",
+      "documentationUrl": "https://developer.triodos.com/reference/confirmation-of-funds-service",
+      "apiReferenceUrl": "https://developer.triodos.com/reference/confirmation-of-funds-service",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "github": "",
+  "keySegments": [
+    "teen"
+  ]
+}
