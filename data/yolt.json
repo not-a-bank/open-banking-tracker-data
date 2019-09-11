@@ -1,7 +1,6 @@
 {
   "id": "yolt",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": ["third-party"],
   "name": "yolt",
   "legalName": "yolt",
   "ipoStatus": "private",
@@ -19,17 +18,8 @@
   ],
   "stateOwned": false,
   "countryHQ": "NL",
-  "countries": ["GB","EU"],
-  "compliance": [
-    { 
-      "regulation": "PSD2",
-      "status": "inProgress"
-    },
-    { 
-      "regulation": "OB",
-      "status": "inProgress"
-    }
-  ],
+  "countries": ["GB","FR","IT"],
+  "compliance": [],
   "sandbox": {
     "status": "available"
   },

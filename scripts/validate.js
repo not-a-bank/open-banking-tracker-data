@@ -36,10 +36,12 @@ function asyncFunction (file, cb) {
 
 let requests = getFiles('data').map((fileName) => {
   return new Promise((resolve) => {
-    asyncFunction(fileName, resolve)
-    const ext = fileName.split('.').pop()
-    if (ext !== 'json') {
-      throw `"${ext}" must be saved with a JSON extension`
+    if (fileName !== 'data/.DS_Store') {
+      asyncFunction(fileName, resolve)
+      const ext = fileName.split('.').pop()
+      if (ext !== 'json') {
+        throw `"${ext}" must be saved with a JSON extension`
+      }
     }
   })
 })
