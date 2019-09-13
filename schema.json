@@ -7,9 +7,9 @@
     "id",
     "type",
     "name",
-    "iconUrl",
+    "icon",
     "verified",
-    "website",
+    "websiteUrl",
     "countryHQ",
     "countries",
     "webApplication",
@@ -89,14 +89,14 @@
       "description": "Verified by company representative",
       "examples": [true]
     },
-    "iconUrl": {
+    "icon": {
       "type": "string",
       "format": "uri",
       "pattern": "^(https?|http?)://",
       "description": "URL to the icon of the provider (recommended size 400x400)",
       "examples": ["https://res.cloudinary.com/banq/image/upload/v1552240551/radar/icons/abn-amro.jpg"]
     },
-    "website": {
+    "websiteUrl": {
       "type": "string",
       "format": "uri",
       "pattern": "^(https?|http?)://",

@@ -2,12 +2,12 @@
   "id": "allied-irish-bank",
   "type": ["account"],
   "bankType": ["retail","corporate"],
-  "name": "AIB",
+  "name": "AIB (Allied Irish Banks)",
   "legalName": "Allied Irish Banks, p.l.c.",
   "ipoStatus": "public",
   "verified": false,
-  "iconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296069/radar/icons/Allied_Irish_Bank.jpg",
-  "website": "https://aib.ie/",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296069/radar/icons/Allied_Irish_Bank.jpg",
+  "websiteUrl": "https://aib.ie/",
   "ownership": [
     { 
       "shareholderName": "Irish State",
