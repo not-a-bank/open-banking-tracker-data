@@ -1,32 +1,83 @@
 {
   "id": "banco-bpm",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Banco BPM",
   "legalName": "Banco BPM S.p.A.",
   "ipoStatus": "public",
+  "stockSymbol": "BIT: BAMI",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Banco_BPM.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568414200/radar/icons/banco-bpm.jpg",
   "websiteUrl": "https://www.bancobpm.it/index.php",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "IT",
-  "countries": ["IT"],
+  "countries": [
+    "IT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "sourceUrl": "https://cbiglobeopenbankingapiportal.nexi.it"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Reads a list of bank accounts, with balances where required. It is assumed that a consent of the PSU to this access is already given and stored on the ASPSP system.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/accountInformationServices/2.3.2/accounts/get",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Enable your customers to make secure payments from their chosen bank account.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInitiationServices/2.3.2/paymentspayment-product/post",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "OAuth2",
+      "type": "auth",
+      "description": null,
+      "categories": [
+        "auth"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/auth/v2/oauth-v2-token/post",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -38,7 +89,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.lynxspa.bancopopolare"
     }
   ],
-  "stockSymbol": "BIT: BAMI",
   "investorRelationsUrl": "https://www.bancobpm.it/investor-relations/?lang=en",
   "financialReports": [
     {
@@ -49,7 +99,11 @@
   ],
   "twitter": "BancoBPMSpa",
   "crunchbase": "banco-bpm",
+  "bloomberg": null,
   "github": null,
   "fca": null,
-  "articles": []
+  "articles": [],
+  "stack": [
+    "cbiglobe"
+  ]
 }

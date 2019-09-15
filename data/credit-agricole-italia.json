@@ -1,54 +1,78 @@
 {
   "id": "credit-agricole-italia",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
-  "name": "Credit Agricole Italia",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
+  "name": "Crédit Agricole Italia",
   "legalName": "Crédit Agricole Cariparma S.p.A.",
   "ipoStatus": "private",
+  "stockSymbol": "EPA:ACA",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552913842/radar/icons/Credit_Agricole_Italia.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568499987/radar/icons/credit-agricole-italia.jpg",
   "websiteUrl": "https://www.credit-agricole.it/#",
   "ownership": [
-    { 
+    {
       "shareholderName": "Credit Agricole",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Credit_Agricole.jpg",
       "providerId": "credit-agricole",
-      "percentage": 76.7,
-      "sourceUrl": "https://gruppo.credit-agricole.it/comunicati-stampa/ca-cariparma/comunicazione-su-aumento-capitale-sociale-di-ca-cariparma-0cb1a23c-44a6-480f-8d6c-38f7288ab1e6"
+      "percentage": 76.7
     },
-    { 
+    {
       "shareholderName": "Cariparma",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Credit_Agricole.jpg",
       "providerId": "Cariparma",
-      "percentage": 13.5,
-      "sourceUrl": "https://gruppo.credit-agricole.it/comunicati-stampa/ca-cariparma/comunicazione-su-aumento-capitale-sociale-di-ca-cariparma-0cb1a23c-44a6-480f-8d6c-38f7288ab1e6"
+      "percentage": 13.5
     },
-    { 
+    {
       "shareholderName": "SACAM International",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552914373/radar/icons/SACAM.png",
       "providerId": "SACAM",
-      "percentage": 9.8,
-      "sourceUrl": "https://gruppo.credit-agricole.it/comunicati-stampa/ca-cariparma/comunicazione-su-aumento-capitale-sociale-di-ca-cariparma-0cb1a23c-44a6-480f-8d6c-38f7288ab1e6"
+      "percentage": 9.8
     }
   ],
   "stateOwned": false,
   "countryHQ": "IT",
-  "countries": ["IT"],
+  "countries": [
+    "IT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "sourceUrl": "https://www.creditagricolestore.fr/castore-data-provider/docs/V1/index.html"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://www.creditagricolestore.fr/castore-data-provider/docs/V1/index.html",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.creditagricolestore.fr/castore-data-provider/docs/V1/index.html",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://www.creditagricolestore.fr/castore-data-provider/docs/V1/resource_Compte.html",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -60,7 +84,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=it.gruppocariparma.nowbanking&hl=en"
     }
   ],
-  "stockSymbol": "EPA:ACA",
   "investorRelationsUrl": "https://www.credit-agricole.com/en/finance/finance",
   "financialReports": [
     {
@@ -71,6 +94,7 @@
   ],
   "twitter": "CreditAgricole",
   "crunchbase": "credit-agricole",
+  "bloomberg": null,
   "github": "",
   "fca": "001b000000MfF2HAAV",
   "articles": []

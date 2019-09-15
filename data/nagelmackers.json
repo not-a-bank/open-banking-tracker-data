@@ -1,44 +1,61 @@
 {
   "id": "nagelmackers",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "Bank Nagelmackers",
   "legalName": "Bank Nagelmackers nv",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1553177489/radar/icons/Nagelmackers.png",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568414771/radar/icons/nagelmackers.png",
   "websiteUrl": "https://www.nagelmackers.be/nl",
   "ownership": [
-    { 
+    {
       "shareholderName": "Anbang Insurance Group",
-      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553178025/radar/icons/Anbang-Insurance-Group.jpg",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568426376/radar/icons/anbang.jpg",
       "providerId": "anbang",
-      "percentage": 100.0,
-      "sourceUrl": "https://www.nagelmackers.be/nl/module-press/detail/anbang-insurance-group-acquires-delta-lloyd-bank-belgium."
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "BE",
-  "countries": ["BE"],
+  "countries": [
+    "BE"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://openbankingdevportal.nagelmackers.be/"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://openbankingdevportal.nagelmackers.be/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/",
+  "apiAggregators": [
+    "klarna"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",
       "type": "accountInformation",
-      "categories": ["accounts"],
-      "description": "Geef cliënten beveiligde toegang tot transactiedata en saldo’s.",
-      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-payment-initiation-service/apis",
-      "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-payment-initiation-service/apis",
+      "categories": [
+        "accounts"
+      ],
+      "description": ".",
+      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-ais/apis",
+      "apiReferenceUrl": "",
       "premium": false,
       "stage": "live",
       "specifications": "BERLIN1.3"
@@ -46,10 +63,12 @@
     {
       "label": "Payment Initiation Service",
       "type": "paymentInitiation",
-      "categories": ["payments"],
-      "description": "Geef onze cliënten de optie om betalingen uit te voeren.",
-      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-payment-initiation-service/apis",
-      "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-payment-initiation-service/apis",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-pis/apis",
+      "apiReferenceUrl": null,
       "premium": false,
       "stage": "live",
       "specifications": "BERLIN1.3"
@@ -57,10 +76,12 @@
     {
       "label": "Authorization API",
       "type": "auth",
-      "description": "Maak en verstuur een aanvraag tot toestemming voor het verkrijgen van de nodige toegangstoken.",
-      "categories": ["auth"],
+      "description": "",
+      "categories": [
+        "auth"
+      ],
       "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-oauth2-apis/apis",
-      "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-oauth2-apis/apis",
+      "apiReferenceUrl": null,
       "premium": false,
       "stage": "live",
       "specifications": "BERLIN1.3"
@@ -68,31 +89,20 @@
     {
       "label": "Funds Confirmation Service",
       "type": "fundsConfirmation",
-      "description": "Krijg de mogelijkheid na te kijken of de nodige fondsen aanwezig zijn op de betaalrekening van de betaler. Voor het gebruik van deze dienst moet de cliënt eerst zijn/haar uitdrukkelijke toestemming geven.",
-      "categories": ["funds"],
-      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-funds-confirmation-service/apis",
-      "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/psd2-funds-confirmation-service/apis",
+      "description": "",
+      "categories": [
+        "funds"
+      ],
+      "documentationUrl": "https://openbankingdevportal.nagelmackers.be/psd2-fcs/apis",
+      "apiReferenceUrl": null,
       "premium": false,
       "stage": "live",
       "specifications": "BERLIN1.3"
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [
-    "klarna"
-  ],
   "webApplication": true,
-  "mobileApps": [
-    {
-      "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/be/app/nagelmackers/id885804394?l=nl&mt=8"
-    },
-    {
-      "operatingSystem": "android",
-      "storeUrl": "https://itunes.apple.com/be/app/nagelmackers/id885804394?l=nl&mt=8"
-    }
-  ],
-  "stockSymbol": null,
+  "mobileApps": [],
   "investorRelationsUrl": "https://www.nagelmackers.be/fr/donnees-entreprise-et-structure/donnees-de-l-entreprise",
   "financialReports": [
     {
@@ -103,6 +113,7 @@
   ],
   "twitter": "nagelmackers_be",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfLYpAAN",
   "articles": []

@@ -1,45 +1,91 @@
 {
   "id": "cynergy-bank",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "Cynergy Bank",
   "legalName": "Cynergy Bank Ltd",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552648690/radar/icons/clearbank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568501480/radar/icons/cynergy-bank.jpg",
   "websiteUrl": "https://www.cynergybank.co.uk/international",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
-      "regulation": "OB",
+    {
+      "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://openbanking.cynergybank.co.uk/store/"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
-  "webApplication": true,
-  "mobileApps": [
+  "developerPortalUrl": "https://openbanking.cynergybank.co.uk/store/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://openbanking.cynergybank.co.uk/store/",
+  "apiAggregators": [],
+  "apiProducts": [
     {
-      "operatingSystem": "ios"
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://openbanking.cynergybank.co.uk/store/apis/info?name=AccountAndTransactionAPI&version=v3.0&provider=mark%40cynergybank.co.uk#tab0",
+      "apiReferenceUrl": "https://openbanking.cynergybank.co.uk/store/apis/info?name=AccountAndTransactionAPI&version=v3.0&provider=mark%40cynergybank.co.uk#tab1",
+      "premium": false,
+      "stage": "live"
     },
     {
-      "operatingSystem": "android"
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://openbanking.cynergybank.co.uk/store/apis/info?name=PaymentInitiationAPI&version=v3.0&provider=mark%40cynergybank.co.uk",
+      "apiReferenceUrl": "https://openbanking.cynergybank.co.uk/store/apis/info?name=PaymentInitiationAPI&version=v3.0&provider=mark%40cynergybank.co.uk#tab1",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://openbanking.cynergybank.co.uk/store/apis/info?name=ConfirmationOfFundsAPI&version=v3.0&provider=mark%40cynergybank.co.uk",
+      "apiReferenceUrl": "https://openbanking.cynergybank.co.uk/store/apis/info?name=ConfirmationOfFundsAPI&version=v3.0&provider=mark%40cynergybank.co.uk#tab1",
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "stockSymbol": null,
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "CynergyBank",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000NMgJnAAL",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "swagger"
+  ]
 }

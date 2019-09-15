@@ -1,44 +1,75 @@
 {
   "id": "cashplus",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Cashplus",
   "legalName": "Advanced Payment Solutions Limited",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Cashplus.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568497887/radar/icons/cashplus.jpg",
   "websiteUrl": "https://www.cashplus.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
-      "regulation": "OB",
+    {
+      "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": null
+    "sourceUrl": "https://apisandbox.mycashplus.co.uk/swagger/ui/index#!/Root32Infrastructure"
   },
   "developerPortalUrl": "https://apisandbox.mycashplus.co.uk/swagger/ui/index#!/Root32Infrastructure",
-  "apiProducts": [],
-  "apiStandards": [],
-  "webApplication": true,
-  "mobileApps": [
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://apisandbox.mycashplus.co.uk/swagger/ui/index#!/Root32Infrastructure",
+  "apiAggregators": [],
+  "apiProducts": [
     {
-      "operatingSystem": "ios"
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://apisandbox.mycashplus.co.uk/swagger/ui/index#!/Operations32Accounts",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     },
     {
-      "operatingSystem": "android"
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://apisandbox.mycashplus.co.uk/swagger/ui/index#!/Operations32Payments",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "stockSymbol": null,
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "cashplus",
   "crunchbase": "cashplus",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000k3SAHAA2",
   "articles": []

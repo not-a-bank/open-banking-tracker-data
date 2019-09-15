@@ -1,81 +1,110 @@
 {
   "id": "bank-pekao",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Bank Pekao",
   "legalName": "Bank Polska Kasa Opieki Spółka Akcyjna",
   "ipoStatus": "public",
+  "stockSymbol": "WSE:PEO",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552489258/radar/icons/Bank_Pekao.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568435335/radar/icons/bank-pekao.jpg",
   "websiteUrl": "https://www.pekao.com.pl/",
   "ownership": [
-    { 
+    {
       "shareholderName": "PZU",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552489387/radar/icons/PZU.jpg",
       "providerId": null,
-      "percentage": 20.0,
-      "sourceUrl": "https://www.pekao.com.pl/en/investors-relations/composition-shareholding.html"
+      "percentage": 20
     },
-    { 
+    {
       "shareholderName": "Polish State Treasury",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552487385/radar/icons/Polish_Treasury.png",
       "providerId": "Polish State Treasury",
-      "percentage": 12.8,
-      "sourceUrl": "https://www.pekao.com.pl/en/investors-relations/composition-shareholding.html"
+      "percentage": 12.8
     }
   ],
-  "stateOwned": true,
+  "stateOwned": false,
   "countryHQ": "PL",
-  "countries": ["PL"],
+  "countries": [
+    "PL"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": null
+    "sourceUrl": "https://developer.pekao.com.pl/api/"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.pekao.com.pl/api/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.pekao.com.pl/api/",
+  "apiAggregators": [
+    "klarna"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",
       "type": "accountInformation",
-      "categories": ["accounts"],
-      "description": "Account Information Service (AIS) – usługa dostępu do informacji o rachunku, zdefiniowana w art. 66 PSD2",
-      "documentationUrl": "https://developer.pekao.com.pl/api/node/317",
-      "apiReferenceUrl": "https://developer.pekao.com.pl/api/node/317",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.pekao.com.pl/api/node/355",
+      "apiReferenceUrl": "https://developer.pekao.com.pl/api/node/354",
       "premium": false,
       "stage": "live"
     },
     {
       "label": "Payment Initiation Service",
       "type": "paymentInitiation",
-      "categories": ["payments"],
-      "description": "Payment Initiation Services (PIS) – usługa inicjowania transakcji płatniczej, zdefiniowana w art. 67 PSD2.",
-      "documentationUrl": "https://developer.pekao.com.pl/api/node/323",
-      "apiReferenceUrl": "https://developer.pekao.com.pl/api/node/323",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.pekao.com.pl/api/node/362",
+      "apiReferenceUrl": "https://developer.pekao.com.pl/api/node/361",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.pekao.com.pl/api/node/360",
+      "apiReferenceUrl": "https://developer.pekao.com.pl/api/node/359",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Authorization Service",
+      "type": "auth",
+      "description": null,
+      "categories": [
+        "auth"
+      ],
+      "documentationUrl": "https://developer.pekao.com.pl/api/node/358",
+      "apiReferenceUrl": "https://developer.pekao.com.pl/api/node/356",
       "premium": false,
       "stage": "live"
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [
-    "klarna"
-  ],
   "webApplication": true,
-  "mobileApps": [
-    {
-      "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/pl/app/pekao24makler/id484502613?mt=8"
-    },
-    {
-      "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=softax.pekao.powerpay&hl=en"
-    }
-  ],
-  "stockSymbol": "WSE:PEO",
+  "mobileApps": [],
   "investorRelationsUrl": "https://www.pekao.com.pl/en/investors-relations/financial-results.html",
   "financialReports": [
     {
@@ -86,6 +115,7 @@
   ],
   "twitter": "BankPekaoSA",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": null,
   "articles": []

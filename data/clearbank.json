@@ -1,44 +1,87 @@
 {
   "id": "clearbank",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "ClearBank",
   "legalName": "Clearbank Ltd.",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552648690/radar/icons/clearbank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568502195/radar/icons/clearbank.jpg",
   "websiteUrl": "https://www.clear.bank/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": null
+    "sourceUrl": "https://developer-sandbox.clearbank.co.uk/open-banking#/"
   },
-  "developerPortalUrl": "https://www.clear.bank/services/clearbank-api",
-  "apiProducts": [],
-  "apiStandards": [],
-  "webApplication": true,
-  "mobileApps": [
+  "developerPortalUrl": "https://developer-sandbox.clearbank.co.uk/open-banking#/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer-sandbox.clearbank.co.uk/open-banking#/",
+  "apiAggregators": [],
+  "apiProducts": [
     {
-      "operatingSystem": "ios"
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer-sandbox.clearbank.co.uk/developer-guides/account-information#tag/Accounts",
+      "premium": false,
+      "stage": "live"
     },
     {
-      "operatingSystem": "android"
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer-sandbox.clearbank.co.uk/developer-guides/payment-initiation",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer-sandbox.clearbank.co.uk/developer-guides/confirmation-of-funds#section/Authentication",
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "stockSymbol": null,
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "clear_bank",
   "crunchbase": "clearbank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000003TEU71AAH",
   "articles": []

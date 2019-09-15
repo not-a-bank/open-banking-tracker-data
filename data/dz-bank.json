@@ -1,47 +1,53 @@
 {
   "id": "dz-bank",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "DZ Bank",
   "legalName": "DZ Bank AG",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296070/radar/icons/DZ_Bank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568505127/radar/icons/dz-bank.jpg",
   "websiteUrl": "https://www.dzbank.com/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Co-Operative of Germany Banks",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296070/radar/icons/DZ_Bank.jpg",
       "providerId": null,
-      "percentage": 100.0
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "DE",
-  "countries": ["DE"],
+  "countries": [
+    "DE"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "sourceUrl": "https://www.dzbank.de/content/dzbank_de/de/home/unsere_kunden/firmenkunden/produkte_und_leistungen/transaction_banking/konto/psd2-schnittstelle.html"
   },
-  "developerPortalUrl": null,
-  "openBankProjectUrl": null,
+  "developerPortalUrl": "https://www.dzbank.de/content/dzbank_de/de/home/unsere_kunden/firmenkunden/produkte_und_leistungen/transaction_banking/konto/psd2-schnittstelle.html",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.dzbank.de/content/dzbank_de/de/home/unsere_kunden/firmenkunden/produkte_und_leistungen/transaction_banking/konto/psd2-schnittstelle.html",
+  "apiAggregators": [],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,
-  "mobileApps": [
-    {
-      "operatingSystem": "ios"
-    },
-    {
-      "operatingSystem": "android"
-    }
-  ],
-  "stockSymbol": null,
+  "mobileApps": [],
   "investorRelationsUrl": "https://www.dzbank.de/content/dzbank_com/en/home/DZ_BANK/investor_relations.html",
   "financialReports": [
     {
@@ -52,6 +58,7 @@
   ],
   "twitter": "DZBank",
   "crunchbase": "dz-bank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfELbAAN",
   "articles": []

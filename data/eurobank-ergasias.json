@@ -1,42 +1,93 @@
 {
   "id": "eurobank-ergasias",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Eurobank Ergasias",
   "legalName": "Eurobank Ergasias S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "OTCMKTS: EGFEF",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Eurobank_Ergasias.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568505801/radar/icons/eurobank-ergasias.jpg",
   "websiteUrl": "https://www.eurobank.gr/en/group/grafeio-tupou/159-news-page",
   "ownership": [
-    { 
+    {
       "shareholderName": "Fairfax Financial Holding",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552560688/radar/icons/Fairfax.jpg",
       "providerId": null,
-      "percentage": 18.4,
-      "sourceUrl": "https://www.eurobank.gr/en/group/investor-relations/shareholders/shareholding-structure"
+      "percentage": 18.4
     }
   ],
-  "stateOwned": true,
+  "stateOwned": false,
   "countryHQ": "GR",
-  "countries": ["GR","BG","RS","CY"],
+  "countries": [
+    "GR",
+    "BG",
+    "RS",
+    "CY"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl":null
+    "status": "available",
+    "sourceUrl": "https://developer.eurobank.gr/eurobank/apis/product"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
-   "apiAggregators": [
+  "developerPortalUrl": "https://developer.eurobank.gr/eurobank/apis/product",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.eurobank.gr/eurobank/apis/product",
+  "apiAggregators": [
     "klarna",
     "salt-edge"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.eurobank.gr/eurobank/apis/product/809/api/13",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.eurobank.gr/eurobank/apis/product/806/api/26",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.eurobank.gr/eurobank/apis/product/804/api/7",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -48,7 +99,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.EurobankEFG&hl=en"
     }
   ],
-  "stockSymbol": "OTCMKTS: EGFEF",
   "investorRelationsUrl": "https://www.eurobank.gr/en/group/investor-relations",
   "financialReports": [
     {
@@ -59,6 +109,7 @@
   ],
   "twitter": "Eurobank_Group",
   "crunchbase": "eurobank#section-overview",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfHUSAA3",
   "articles": []

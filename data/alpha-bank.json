@@ -1,50 +1,97 @@
 {
   "id": "alpha-bank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Alpha Bank",
   "legalName": "Alpha Bank S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "Athens:ALPHA",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296069/radar/icons/Alpha_Bank.png",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568408893/radar/icons/alpha-bank.png",
   "websiteUrl": "https://www.alpha.gr/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Hellenic Financial Stability Fund",
-      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552559924/radar/icons/Greek_State_Fund.png",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568415654/radar/icons/Hellenic%20Financial%20Stability%20Fund.png",
       "providerId": "Hellenic Financial Stability Fund",
-      "percentage": 11.0,
-      "sourceUrl": "https://www.alpha.gr/en/group/investor-relations/share-information/shareholder-structure"
+      "percentage": 11
     }
   ],
-  "stateOwned": true,
+  "stateOwned": false,
   "countryHQ": "GR",
-  "countries": ["GR","AL","CY","RO"],
+  "countries": [
+    "GR",
+    "AL",
+    "CY",
+    "RO"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "available"
+    "status": "available",
+    "sourceUrl": "https://www.alpha.gr/en/business/myalpha/api-portal"
   },
   "developerPortalUrl": "https://www.alpha.gr/en/business/myalpha/api-portal",
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.alpha.gr/en/business/myalpha/api-portal",
   "apiAggregators": [
     "salt-edge"
   ],
-  "webApplication": true,
-  "mobileApps": [
+  "apiProducts": [
     {
-      "operatingSystem": "ios"
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "The ALPHA WEB Banking Account, Payment and Funds Confirmation APIs are PSD2 Compliant APIs providing information about the accounts (products) of a WEB Banking subscriber of the Alpha Bank, as well as payment initiation functionality. Both account information and lists of transactions can be acquired, along with direct-debits, standing orders, etc.",
+      "documentationUrl": "https://developer.api.alphabank.eu/documentation?id=accounts",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox",
+      "specifications": "BERLIN1.3"
     },
     {
-      "operatingSystem": "android"
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "The ALPHA WEB Banking Account, Payment and Funds Confirmation APIs are PSD2 Compliant APIs providing information about the accounts (products) of a WEB Banking subscriber of the Alpha Bank, as well as payment initiation functionality. Both account information and lists of transactions can be acquired, along with direct-debits, standing orders, etc.",
+      "documentationUrl": "https://developer.api.alphabank.eu/documentation?id=payments",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox",
+      "specifications": "BERLIN1.3"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "The ALPHA WEB Banking Account, Payment and Funds Confirmation APIs are PSD2 Compliant APIs providing information about the accounts (products) of a WEB Banking subscriber of the Alpha Bank, as well as payment initiation functionality. Both account information and lists of transactions can be acquired, along with direct-debits, standing orders, etc.",
+      "documentationUrl": "https://developer.api.alphabank.eu/documentation?id=fundsconfirmation",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
     }
   ],
-  "stockSymbol": "Athens:ALPHA",
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
   "investorRelationsUrl": "https://www.alpha.gr/en/group/investor-relations",
   "financialReports": [
     {
@@ -55,6 +102,7 @@
   ],
   "twitter": "alpha_bank",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfFTuAAN",
   "articles": []

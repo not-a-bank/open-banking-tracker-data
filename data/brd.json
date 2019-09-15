@@ -1,37 +1,75 @@
 {
   "id": "brd",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "BRD",
   "legalName": "BRD - Groupe Societe Generale",
   "ipoStatus": "public",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1553596162/radar/icons/BRD.png",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568488197/radar/icons/brd.png",
   "websiteUrl": "https://www.brd.ro/en",
   "ownership": [
-    { 
+    {
       "shareholderName": "Societe Generale",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Societe_Generale.jpg",
       "providerId": "soc-gen",
-      "percentage": 60.2,
-      "sourceUrl": "https://www.brd.ro/en/about-brd/investors-and-shareholders/corporate-guvernance/shareholder-structure"
+      "percentage": 60.2
     }
   ],
   "stateOwned": false,
   "countryHQ": "RO",
-  "countries": ["RO"],
+  "countries": [
+    "RO"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://www.devbrd.ro/brd/apisandbox/"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
+  "developerPortalUrl": "https://www.devbrd.ro/brd/apisandbox/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.devbrd.ro/brd/apisandbox/",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Provides information and transactions, about customer's accounts",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://www.devbrd.ro/brd/apisandbox/product/36/api/6",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Provides money transfer services",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://www.devbrd.ro/brd/apisandbox/product/36/api/23",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
@@ -44,7 +82,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=brd.bankingapp.android&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": "https://www.brd.ro/en/about-brd/investors-and-shareholders/financial-information/financial-results",
   "financialReports": [
     {
@@ -56,6 +93,7 @@
   ],
   "twitter": null,
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": null,
   "articles": []

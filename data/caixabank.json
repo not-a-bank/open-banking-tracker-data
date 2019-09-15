@@ -1,40 +1,91 @@
 {
   "id": "caixabank",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "CaixaBank",
   "legalName": "Caixabank, SA.",
   "ipoStatus": "public",
+  "stockSymbol": "CABK:SM",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552381252/radar/icons/CaixaBank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568489369/radar/icons/caixabank.jpg",
   "websiteUrl": "https://www.caixabank.es/particular/home/particulares_es.html",
   "ownership": [
-    { 
+    {
       "shareholderName": "Criteria Caixa",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552381367/radar/icons/CriteriaCaixa.jpg",
       "providerId": null,
-      "percentage": 40.0
+      "percentage": 40
     }
   ],
   "stateOwned": false,
   "countryHQ": "ES",
-  "countries": ["ES","PT"],
+  "countries": [
+    "ES",
+    "PT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://apistore.caixabank.com/"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://apistore.caixabank.com/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://apistore.caixabank.com/",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -46,7 +97,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=es.lacaixa.mobile.android.newwapicon&hl=en"
     }
   ],
-  "stockSymbol": "CABK:SM",
   "investorRelationsUrl": "https://www.caixabank.com/inversoresinstitucionales_en.html",
   "financialReports": [
     {
@@ -57,7 +107,11 @@
   ],
   "twitter": "caixabank",
   "crunchbase": "caixabank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfgbgAAB",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "redsys-es"
+  ]
 }

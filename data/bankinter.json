@@ -1,51 +1,93 @@
 {
   "id": "bankinter",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Bankinter",
   "legalName": "Bankinter Gestion de Activos SA",
   "ipoStatus": "public",
+  "stockSymbol": "BME:BKT",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Bankinter.png",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568473668/radar/icons/bankinter.png",
   "websiteUrl": "https://www.bankinter.pt/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Cartival S.A.",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552491769/radar/icons/Cartival.png",
       "providerId": null,
-      "percentage": 22.9,
-      "sourceUrl": "https://webcorporativa.bankinter.com/stf/web_corporativa/accionistas_e_inversores/info_financiera/memoria/2018/informe_anual_integrado_2018.pdf"
+      "percentage": 22.9
     }
   ],
   "stateOwned": false,
   "countryHQ": "ES",
-  "countries": ["ES","PT"],
+  "countries": [
+    "ES",
+    "PT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl":null
+    "status": "available",
+    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
   "apiAggregators": [
     "salt-edge"
   ],
-  "webApplication": true,
-  "mobileApps": [
+  "apiProducts": [
     {
-      "operatingSystem": "ios"
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     },
     {
-      "operatingSystem": "android"
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "stockSymbol": "BME:BKT",
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
   "investorRelationsUrl": "https://webcorporativa.bankinter.com/www2/corporativa/en/inf_financiera_cnmv/informacion_financiera/agenda_inversor",
   "financialReports": [
     {
@@ -56,7 +98,11 @@
   ],
   "twitter": "bankinter",
   "crunchbase": "bankinter",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000NMXIGAA5",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "redsys-es"
+  ]
 }

@@ -1,40 +1,90 @@
 {
   "id": "chebanca",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "CheBanca!",
   "legalName": "CheBanca! S.p.A.",
   "ipoStatus": "private",
+  "stockSymbol": "BIT:MB",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1553164472/radar/icons/CheBanca.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568497699/radar/icons/chebanca.jpg",
   "websiteUrl": "https://www.chebanca.it/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Mediobanca",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553164582/radar/icons/Mediobanca.jpg",
       "providerId": "mediobanca",
-      "percentage": 100.0,
-      "sourceUrl": "https://www.mediobanca.com/static/upload/_con/consolidated-financial-statements-30-6-2017.pdf"
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "IT",
-  "countries": ["IT"],
+  "countries": [
+    "IT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "available"
+    "status": "available",
+    "sourceUrl": "https://developer.chebanca.it/"
   },
   "developerPortalUrl": "https://developer.chebanca.it/",
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.chebanca.it/",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.chebanca.it/apis/preview?apiSymbolicName=accounts&apiVersion=1.0",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.chebanca.it/apis/preview?apiSymbolicName=moneyTransfer.execute&apiVersion=1.1",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.chebanca.it/apis/preview?apiSymbolicName=funds.confirmation&apiVersion=1.0",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -46,7 +96,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.vipera.chebanca&hl=en"
     }
   ],
-  "stockSymbol": "BIT:MB",
   "investorRelationsUrl": "https://www.mediobanca.com/en/media-relations/press-releases/index.html",
   "financialReports": [
     {
@@ -57,7 +106,11 @@
   ],
   "twitter": "Chebanca",
   "crunchbase": "chebanca",
+  "bloomberg": null,
   "github": null,
   "fca": null,
-  "articles": []
+  "articles": [],
+  "stack": [
+    "swagger-io"
+  ]
 }

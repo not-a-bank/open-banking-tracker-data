@@ -1,36 +1,99 @@
 {
   "id": "bper-banca",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "BPER Banca",
   "legalName": "BPER Banca S.p.A.",
   "ipoStatus": "public",
+  "stockSymbol": "BIT:BPE",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552912956/radar/icons/BPER_Banca.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568485521/radar/icons/bper-banca.jpg",
   "websiteUrl": "https://www.bper.it/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Unipol Gruppo S.p.A.",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552913138/radar/icons/Unipol.jpg",
       "providerId": "Unipol",
-      "percentage": 15.1,
-      "sourceUrl": "https://istituzionale.bper.it/en/investor-relations/shareholders"
+      "percentage": 15.1
     }
   ],
   "stateOwned": false,
   "countryHQ": "IT",
-  "countries": ["IT"],
+  "countries": [
+    "IT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "sourceUrl": "https://cbiglobeopenbankingapiportal.nexi.it"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Reads a list of bank accounts, with balances where required. It is assumed that a consent of the PSU to this access is already given and stored on the ASPSP system.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/accountInformationServices/2.3.2/accounts/get",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Enable your customers to make secure payments from their chosen bank account.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInitiationServices/2.3.2/paymentspayment-product/post",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": " https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInstrumentIssuingServices/2.3.2/funds-confirmations/post",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "OAuth2",
+      "type": "auth",
+      "description": null,
+      "categories": [
+        "auth"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/auth/v2/oauth-v2-token/post",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
@@ -43,7 +106,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=it.gruppobper.ams.android.bper&hl=it"
     }
   ],
-  "stockSymbol": "BIT:BPE",
   "investorRelationsUrl": "https://istituzionale.bper.it/en/",
   "financialReports": [
     {
@@ -54,7 +116,11 @@
   ],
   "twitter": "GruppoBPER_PR",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": "0010X00004MkHXcQAN",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "cbiglobe"
+  ]
 }

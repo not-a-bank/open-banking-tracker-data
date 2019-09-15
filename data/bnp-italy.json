@@ -1,41 +1,90 @@
 {
   "id": "bnp-italy",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Banca Nazionale del Lavoro",
   "legalName": "Banca Nazionale del Lavoro S.p.A.",
   "ipoStatus": "private",
+  "stockSymbol": "EPA:BNP",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552912437/radar/icons/BNL.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568413854/radar/icons/bnp-italy.jpg",
   "websiteUrl": "https://bnl.it/it/Individui-e-Famiglie",
   "ownership": [
-    { 
+    {
       "shareholderName": "BNP Paribas",
-      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568419135/radar/icons/bnp-paribas.jpg",
       "providerId": "bnp-paribas",
-      "percentage": 100.0
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "IT",
-  "countries": ["IT"],
+  "countries": [
+    "IT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
-    },
-  "developerPortalUrl": null,
+    "status": "available",
+    "sourceUrl": "https://bnl.it/it/Individui-e-Famiglie/Internet-e-Mobile/Navigare-in-sicurezza/PSD2"
+  },
+  "developerPortalUrl": "https://bnl.it/it/Individui-e-Famiglie/Internet-e-Mobile/Navigare-in-sicurezza/PSD2",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://bnl.it/it/Individui-e-Famiglie/Internet-e-Mobile/Navigare-in-sicurezza/PSD2",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Reads a list of bank accounts, with balances where required. It is assumed that a consent of the PSU to this access is already given and stored on the ASPSP system.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/accountInformationServices/2.3.2/accounts/get",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Enable your customers to make secure payments from their chosen bank account.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInitiationServices/2.3.2/paymentspayment-product/post",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "OAuth2",
+      "type": "auth",
+      "description": null,
+      "categories": [
+        "auth"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/auth/v2/oauth-v2-token/post",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -47,7 +96,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=it.bnl.apps.banking&hl=en"
     }
   ],
-  "stockSymbol": "EPA:BNP",
   "investorRelationsUrl": "https://invest.bnpparibas.com/",
   "financialReports": [
     {
@@ -58,7 +106,11 @@
   ],
   "twitter": "BNLBNPParibas_",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": null,
-  "articles": []
+  "articles": [],
+  "stack": [
+    "cbiglobe"
+  ]
 }

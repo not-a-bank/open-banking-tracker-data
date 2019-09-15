@@ -1,41 +1,90 @@
 {
   "id": "bankia",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Bankia",
   "legalName": "Bankia S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "BME:BKIA",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Bankia.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568437222/radar/icons/bankia.jpg",
   "websiteUrl": "https://www.bankia.com/en/",
   "ownership": [
-    { 
+    {
       "shareholderName": "BFA",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552490319/radar/icons/BFA.png",
       "providerId": "BFA",
-      "percentage": 68.4,
-      "sourceUrl": "https://www.bankia.com/en/shareholders-and-investors/the-share/shareholder-structure/"
+      "percentage": 68.4
     }
   ],
-  "stateOwned": true,
+  "stateOwned": false,
   "countryHQ": "ES",
-  "countries": ["ES"],
+  "countries": [
+    "ES"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
-    ],
+  ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl":null
+    "status": "available",
+    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -47,7 +96,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=es.cm.android&hl=en"
     }
   ],
-  "stockSymbol": "BME:BKIA",
   "investorRelationsUrl": "https://www.bankia.com/en/shareholders-and-investors/",
   "financialReports": [
     {
@@ -58,7 +106,11 @@
   ],
   "twitter": "bankia",
   "crunchbase": "bankia",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000NMbTbAAL",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "redsys-es"
+  ]
 }

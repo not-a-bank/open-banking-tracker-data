@@ -1,27 +1,38 @@
 {
   "id": "danske-bank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Danske Bank",
   "legalName": "Danske Bank A/S",
   "ipoStatus": "public",
+  "stockSymbol": "CPH:DANSKE",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296069/radar/icons/Danske_Bank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568502929/radar/icons/danske-bank.jpg",
   "websiteUrl": "https://danskebank.com/",
   "ownership": [
-    { 
+    {
       "shareholderName": "A.P. Møller Holding Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552350016/radar/icons/AP_Moller_Maersk.jpg",
       "providerId": null,
-      "percentage": 20.5,
-      "sourceUrl": "https://danskebank.com/investor-relations/shares/largest-shareholders"
+      "percentage": 20.5
     }
   ],
   "stateOwned": false,
   "countryHQ": "DK",
-  "countries": ["DK","NO","FI","SE","GB"],
+  "countries": [
+    "DK",
+    "NO",
+    "FI",
+    "SE",
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     },
@@ -32,11 +43,13 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://danskebank.com/news-and-insights/news-archive/news/2018/15012018"
+    "sourceUrl": "https://danskebank.com/openbanking"
   },
   "developerPortalUrl": "https://danskebank.com/openbanking",
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://danskebank.com/openbanking",
   "apiAggregators": [
     "klarna",
     "token",
@@ -44,9 +57,45 @@
     "openwrks",
     "salt-edge"
   ],
-  "collections": [
-    "cma9"
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.danskebank.com/api_products/danske_bank_apis/aitx/highlights",
+      "apiReferenceUrl": "https://developers.danskebank.com/api_products/danske_bank_apis/aitx/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.danskebank.com/api_products/danske_bank_apis/pi/highlights",
+      "apiReferenceUrl": "https://developers.danskebank.com/api_products/danske_bank_apis/pi/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developers.danskebank.com/api_products/danske_bank_apis/cof/reference",
+      "premium": false,
+      "stage": "live"
+    }
   ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -58,7 +107,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.danskebank.mobilebank3.dk&hl=en"
     }
   ],
-  "stockSymbol": "CPH:DANSKE",
   "investorRelationsUrl": "https://danskebank.com/investor-relations",
   "financialReports": [
     {
@@ -69,6 +117,7 @@
   ],
   "twitter": "DanskeBank_DK",
   "crunchbase": "danske-bank",
+  "bloomberg": null,
   "github": "DanskeBank",
   "fca": "001b000000MfF0LAAV",
   "articles": [
@@ -76,5 +125,8 @@
       "url": "https://danskebank.com/news-and-insights/news-archive/news/2018/15012018",
       "date": "2018-01-15"
     }
+  ],
+  "stack": [
+    "redoc-ly"
   ]
 }

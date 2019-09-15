@@ -1,53 +1,94 @@
 {
   "id": "beobank",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "Beobank",
   "legalName": "BEOBANK NV/SA",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1553173196/radar/icons/Beobank.png",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568477543/radar/icons/beobank.png",
   "websiteUrl": "https://www.beobank.be/fr/particulier/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Credit Mutuel",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Credit_Mutuel.jpg",
       "providerId": "credit-mutuel",
-      "percentage": 100.0,
-      "sourceUrl": "https://www.creditmutuel.fr/cmne/fr/banques/site-institutionnel/publications/rapport-annuel/2017/en/rapport-annuel-2017_en_global-final.pdf"
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "BE",
-  "countries": ["BE","NL","LU"],
+  "countries": [
+    "BE",
+    "NL",
+    "LU"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "available"
+    "status": "available",
+    "sourceUrl": "https://online.beobank.be/oauth2/en/devportal/"
   },
   "developerPortalUrl": "https://online.beobank.be/oauth2/en/devportal/",
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://online.beobank.be/oauth2/en/devportal/",
   "apiAggregators": [
     "klarna"
   ],
-  "apiAccess": null,
-  "webApplication": true,
-  "mobileApps": [
+  "apiProducts": [
     {
-      "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/be/app/beobank-mobile/id1008666594?mt=8"
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://online.beobank.be/oauth2/en/devportal/stetpsd2-spec.html#/AISP/accountsGet",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     },
     {
-      "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.beobank_prod.bad&hl=en"
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://online.beobank.be/oauth2/en/devportal/stetpsd2-spec.html#/PISP/paymentRequestsPost",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://online.beobank.be/oauth2/en/devportal/stetpsd2-spec.html#/CBPII/fundsConfirmationsPost",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "stockSymbol": null,
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
   "investorRelationsUrl": "http://www.bfcm.creditmutuel.fr/en/bfcm/presentation/index.html",
   "financialReports": [
     {
@@ -58,7 +99,12 @@
   ],
   "twitter": "beobank",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": null,
-  "articles": []
+  "articles": [],
+  "stack": [
+    "oas3",
+    "euro-information"
+  ]
 }
