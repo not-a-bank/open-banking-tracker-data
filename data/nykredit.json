@@ -1,40 +1,94 @@
 {
   "id": "nykredit",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Nykredit",
   "legalName": "Nykredit Bank A/S",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552474290/radar/icons/nykredit.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568612127/radar/icons/nykredit.jpg",
   "websiteUrl": "https://www.nykredit.com/en-gb/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "DK",
-  "countries": ["DK"],
+  "countries": [
+    "DK"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "sourceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/APIs"
   },
-  "developerPortalUrl": null,
-  "openBankProjectUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
-  "webApplication": true,
-  "mobileApps": [
+  "developerPortalUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/APIs",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/APIs",
+  "apiAggregators": [],
+  "apiProducts": [
     {
-      "operatingSystem": "ios"
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/psd2-bg-account-information-service-api-ais",
+      "premium": false,
+      "stage": "live"
     },
     {
-      "operatingSystem": "android"
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/psd2-bg-payment-initiation-service-api-pis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation Service",
+      "type": "fundsConfirmation",
+      "description": "",
+      "categories": [
+        "funds"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/node/116",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consent Information Service API",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/psd2-bg-consent-information-service-api-cis",
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "stockSymbol": null,
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
   "investorRelationsUrl": "https://www.nykredit.com/en-gb/investor-relations/",
   "financialReports": [
     {
@@ -45,6 +99,7 @@
   ],
   "twitter": "nykredit",
   "crunchbase": "nykredit-a-s",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfZbXAAV",
   "articles": []

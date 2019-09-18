@@ -10,9 +10,10 @@
   "description": "Free online business bank account for startups and SMEs. ✔ German IBAN ✔ Top Support ✔ Multiple corporate Mastercards.",
   "legalName": "Penta Fintech GmbH",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://pbs.twimg.com/profile_images/1083015648391905280/q6lQiMWm_400x400.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568782011/radar/icons/penta.jpg",
   "websiteUrl": "https://getpenta.com/",
   "ownership": [],
   "stateOwned": false,
@@ -21,19 +22,21 @@
     "DE"
   ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "sourceUrl": "https://www.permanenttsb.ie/developer-portal/api-overview/"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://www.permanenttsb.ie/developer-portal/api-overview/",
   "developerCommunityUrl": null,
-  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiReferenceUrl": "https://www.permanenttsb.ie/developer-portal/api-overview/",
+  "apiAggregators": [],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,
@@ -47,7 +50,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.getpenta.app"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "getpenta",

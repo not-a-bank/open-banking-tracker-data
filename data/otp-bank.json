@@ -1,40 +1,77 @@
 {
   "id": "otp-bank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "OTP Bank",
   "legalName": "OTP Bank Nyrt.",
   "ipoStatus": "public",
+  "stockSymbol": "OTCMKTS:OTPBF",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/OTP_Bank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568779775/radar/icons/otp-bank.jpg",
   "websiteUrl": "https://www.otpbank.hu/portal/hu/Maganszemelyek",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "HU",
-  "countries": ["HU","RU","UA","RO","SI","RS","HR"],
+  "countries": [
+    "HU",
+    "RU",
+    "UA",
+    "RO",
+    "SI",
+    "RS",
+    "HR"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl":null
+    "status": "available",
+    "sourceUrl": "https://portal-sandbox.openbanking.otpbank.hu"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
-  "webApplication": true,
-  "mobileApps": [
+  "developerPortalUrl": "https://portal-sandbox.openbanking.otpbank.hu",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://portal-sandbox.openbanking.otpbank.hu",
+  "apiAggregators": [],
+  "apiProducts": [
     {
-      "operatingSystem": "ios"
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://portal-sandbox.openbanking.otpbank.hu",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     },
     {
-      "operatingSystem": "android"
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://portal-sandbox.openbanking.otpbank.hu",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "stockSymbol": "OTCMKTS:OTPBF",
+  "apiStandards": [],
+  "apiAccess": "verifiedTpp",
+  "webApplication": true,
+  "mobileApps": [],
   "investorRelationsUrl": "https://www.otpbank.hu/portal/en/Investor_relations",
   "financialReports": [
     {
@@ -45,6 +82,7 @@
   ],
   "twitter": "otpbank_hu",
   "crunchbase": "otp-bank",
+  "bloomberg": null,
   "github": null,
   "fca": "0010X00004D9ObJQAV",
   "articles": []

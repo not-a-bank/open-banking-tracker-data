@@ -1,15 +1,21 @@
 {
-  "id": "hellobank",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "id": "hellobank-be",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "helloBank!",
   "legalName": "Hello bank!",
   "ipoStatus": "private",
+  "stockSymbol": "EPA:BNP",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/HelloBank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568603013/radar/icons/hellobank-be.jpg",
   "websiteUrl": "https://www.hellobank.be/",
   "ownership": [
-    { 
+    {
       "shareholderName": "BNP Paribas",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
       "providerId": "bnp-paribas",
@@ -18,24 +24,58 @@
   ],
   "stateOwned": false,
   "countryHQ": "BE",
-  "countries": ["BE","AT","DE","FR","IT"],
+  "countries": [
+    "BE",
+    "AT",
+    "DE",
+    "FR",
+    "IT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
-    },
-  "developerPortalUrl": null,
-  "openBankProjectUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+    "status": "available",
+    "sourceUrl": "https://apistore.bnpparibas/"
+  },
+  "developerPortalUrl": "https://apistore.bnpparibas/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://apistore.bnpparibas/",
   "apiAggregators": [
     "ibanity"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://apistore.bnpparibas/libraries/c40e5ea3-b9de-4396-9248-abc8aa002e05/true",
+      "apiReferenceUrl": "https://apistore.bnpparibas/libraries/c40e5ea3-b9de-4396-9248-abc8aa002e05/true",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://apistore.bnpparibas/libraries/ba81f22a-627d-4d1e-97bd-cd9a032ab39f/true",
+      "apiReferenceUrl": "https://apistore.bnpparibas/libraries/ba81f22a-627d-4d1e-97bd-cd9a032ab39f/true",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -47,7 +87,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.bnpp.easybanking"
     }
   ],
-  "stockSymbol": "EPA:BNP",
   "investorRelationsUrl": "https://invest.bnpparibas.com/",
   "financialReports": [
     {
@@ -58,7 +97,11 @@
   ],
   "twitter": "hellobankbelgie",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": null,
-  "articles": []
+  "articles": [],
+  "stack": [
+    "swagger"
+  ]
 }

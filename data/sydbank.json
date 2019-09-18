@@ -1,33 +1,84 @@
 {
   "id": "sydbank",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "Sydbank",
   "legalName": "Sydbank A/S",
   "ipoStatus": "public",
+  "stockSymbol": "CPH:SYDB",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296090/radar/icons/Sydbank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568613533/radar/icons/sydbank.jpg",
   "websiteUrl": "https://www.sydbank.com/sydbankcom/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "DK",
-  "countries": ["DK"],
+  "countries": [
+    "DK"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://developers.bankdata.dk"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://developers.bankdata.dk",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developers.bankdata.dk",
   "apiAggregators": [
-    "klarna"
+    "klarna",
+    "tink"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.bankdata.dk/products/ais/docs/reference",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.bankdata.dk/products/pis/docs/reference",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation Service",
+      "type": "fundsConfirmation",
+      "description": "",
+      "categories": [
+        "funds"
+      ],
+      "documentationUrl": "https://developers.bankdata.dk/products/cof/docs/reference",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -39,19 +90,24 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.paymate.syndicatebank&hl=en"
     }
   ],
-  "stockSymbol": "CPH:SYDB",
   "investorRelationsUrl": "https://www.sydbank.com/sydbankcom/about/ir/finreports",
   "financialReports": [
     {
       "label": "Q4 2018",
       "date": "2019-02-27",
       "url": "https://www.sydbank.com/inc/pdf/sydbankcom/financial_reports/2018/annual-report-2018.pdf",
-      "type": ["annualReport"]
+      "type": [
+        "annualReport"
+      ]
     }
   ],
   "twitter": "DanskeBank_DK",
   "crunchbase": "sydbankweb",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfcwLAAR",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "bankdata-dk"
+  ]
 }

@@ -10,6 +10,7 @@
   "description": "A Dutch bank operated by Aegon N.V., a multinational life insurance, pensions and asset management company headquartered in The Hague, Netherlands.",
   "legalName": "Aegon Bank N.V.",
   "ipoStatus": "public",
+  "stockSymbol": "AMS:AGN",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1566868438/radar/icons/knab-nl.jpg",
@@ -34,14 +35,65 @@
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "sourceUrl": "https://developer.knab.nl/"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.knab.nl/",
   "developerCommunityUrl": null,
-  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiProducts": [],
+  "apiReferenceUrl": "https://developer.knab.nl/",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.knab.nl/marketplace/transactions-api/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.knab.nl/marketplace/payments-api/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.knab.nl/marketplace/funds-confirmation-api/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consents API",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.knab.nl/marketplace/consents-api/reference",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
@@ -54,10 +106,12 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=bvm.bvmapp"
     }
   ],
-  "stockSymbol": "AMS:AGN",
-  "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "https://twitter.com/@knab_nl",
   "bloomberg": null,
-  "github": ""
+  "stack": [
+    "redoc",
+    "openapi",
+    "swagger"
+  ]
 }

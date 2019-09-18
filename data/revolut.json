@@ -1,38 +1,108 @@
 {
   "id": "revolut",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Revolut",
   "legalName": "Revolut Ltd",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Revolut.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568787548/radar/icons/revolut.jpg",
   "websiteUrl": "https://www.revolut.com",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["CH","AU","SG","AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IS","IE","IT","LV","LI","LT","LU","MT","NL","NO","PL","PT","RO","SK","SI","ES","SE","GB"],
+  "countries": [
+    "CH",
+    "AU",
+    "SG",
+    "AT",
+    "BE",
+    "BG",
+    "HR",
+    "CY",
+    "CZ",
+    "DK",
+    "EE",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "HU",
+    "IS",
+    "IE",
+    "IT",
+    "LV",
+    "LI",
+    "LT",
+    "LU",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SK",
+    "SI",
+    "ES",
+    "SE",
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://blog.revolut.com/introducing-revolut-for-business-open-api/"
+    "sourceUrl": "https://www.revolut.com/en-BE/open-api"
   },
   "developerPortalUrl": "https://www.revolut.com/en-BE/open-api",
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.revolut.com/en-BE/open-api",
   "apiAggregators": [
     "salt-edge",
     "tink"
   ],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://revolutdev.github.io/business-api/#accounts",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://revolutdev.github.io/business-api/#payments",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": false,
   "mobileApps": [
     {
@@ -44,7 +114,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.revolut.revolut&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [
     {
@@ -56,6 +125,7 @@
   ],
   "twitter": "RevolutApp",
   "crunchbase": "revolut",
+  "bloomberg": null,
   "github": "revolut",
   "fca": "001b000002zyAwNAAU",
   "articles": [

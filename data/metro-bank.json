@@ -1,53 +1,83 @@
 {
   "id": "metro-bank",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "Metro Bank",
   "legalName": "Barclays plc",
   "ipoStatus": "public",
-  "verified": true,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Metro_Bank.jpg",
+  "stockSymbol": "LON:MTRO",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568612444/radar/icons/metro-bank.jpg",
   "websiteUrl": "https://www.metrobankonline.co.uk",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "available"
+    "status": "available",
+    "sourceUrl": "https://developer.metrobankonline.co.uk/overview"
   },
   "developerPortalUrl": "https://developer.metrobankonline.co.uk/overview",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.metrobankonline.co.uk/overview",
+  "apiAggregators": [
+    "klarna"
+  ],
   "apiProducts": [
     {
       "label": "Identity API version 1.0",
       "type": "auth",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "description": "This API is designed to be called by TPPs (Third Party Providers) before the initiation of AIS or PIS requests. TPPs can use the Identity API for functionalities like getting themselves authorised by the TPP consumer, registered with the authorisation server, generation of access token (both client credential grant type and authorisation code grant type) and refresh token, and generation of SSA (software statement assertion). Additionally the Identity API also provides health check utilities through ping endpoint.",
       "documentationUrl": "https://developer.metrobankonline.co.uk/apis",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
     },
     {
       "label": "Account API version 1.0",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "This API is designed to be called by TPPs (Third Party Providers) to retrieve the information related to accounts, transactions and balances associated with a single account id or for all the account ids linked with the TPP customer’s consent. At the same time, TPPs can use this API to create, retrieve and delete account-request ids for a TPP consumer. Additionally the Account API also provides health check utilities through ping and status endpoints.",
       "documentationUrl": "https://developer.metrobankonline.co.uk/apis",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.metrobankonline.co.uk/apis",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     }
-    ],
-  "apiStandards": [],
-  "apiAggregators": [
-    "klarna"
   ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -59,7 +89,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=ph.com.metrobank.metrobankdirectmobile&hl=en"
     }
   ],
-  "stockSymbol": "LON:MTRO",
   "investorRelationsUrl": "https://www.metrobankonline.co.uk/investor-relations/",
   "financialReports": [
     {
@@ -70,6 +99,7 @@
   ],
   "twitter": "Metro_Bank",
   "crunchbase": "metro-bank-2",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfnC7AAJ",
   "articles": []

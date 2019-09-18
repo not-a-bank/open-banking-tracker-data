@@ -1,28 +1,67 @@
 {
   "id": "groupe-bpce",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Groupe BPCE",
   "legalName": "Groupe BPCE",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Groupe_BPCE.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568603030/radar/icons/groupe-bpce.jpg",
   "websiteUrl": "https://www.groupebpce.fr/en",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "FR",
-  "countries": ["FR"],
+  "countries": [
+    "FR"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "available"
+    "status": "available",
+    "sourceUrl": "https://www.api.89c3.com"
   },
-  "developerPortalUrl": "https://bpce.opendatasoft.com/api/v1/console/datasets/1.0/search/",
-  "apiProducts": [],
+  "developerPortalUrl": "https://www.api.89c3.com",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.api.89c3.com",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.api.89c3.com/en/component/bpceportal/products/275/usecases/271",
+      "apiReferenceUrl": "https://www.api.89c3.com/en/component/bpceportal/products/275/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620/methods/63bd9331-5365-46cf-8416-0108795070ec",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.api.89c3.com/en/component/bpceportal/products/269/usecases/270",
+      "apiReferenceUrl": "https://www.api.89c3.com/en/component/bpceportal/products/269/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620/methods/c5adab62-d394-4b43-885b-df472a417719",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
@@ -35,7 +74,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=fr.smoney.android.smoneypart&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": "https://www.groupebpce.fr/en/Investors",
   "financialReports": [
     {
@@ -46,6 +84,7 @@
   ],
   "twitter": "GroupeBPCE",
   "crunchbase": "groupe-bpce",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000Mfre4AAB",
   "articles": []

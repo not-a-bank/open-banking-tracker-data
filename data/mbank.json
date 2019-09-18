@@ -1,41 +1,91 @@
 {
   "id": "mbank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "mBank",
   "legalName": "mBank S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "WSE:MBK",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/mBank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568609783/radar/icons/mbank.jpg",
   "websiteUrl": "https://www.mbank.pl/indywidualny/",
   "ownership": [
-    { 
+    {
       "shareholderName": "CommerzBank",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/CommerzBank.jpg",
       "providerId": "CommerzBank",
-      "percentage": 69.4,
-      "sourceUrl": "https://www.mbank.pl/en/investor-relations/shares/shareholders.html"
+      "percentage": 69.4
     }
   ],
-  "stateOwned": true,
+  "stateOwned": false,
   "countryHQ": "PL",
-  "countries": ["PL","CZ","SK"],
+  "countries": [
+    "PL",
+    "CZ",
+    "SK"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
-    ],
+  ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl":null
+    "status": "available",
+    "sourceUrl": "https://developer.api.mbank.pl/"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://developer.api.mbank.pl/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.api.mbank.pl/",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.api.mbank.pl/documentation/sandbox#section/How-to-test-requests-for-AIS",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.api.mbank.pl/documentation/sandbox#section/How-to-test-requests-for-PIS",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.api.mbank.pl/documentation/sandbox#section/How-to-test-requests-for-CAF",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -47,7 +97,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=pl.mbank&hl=en"
     }
   ],
-  "stockSymbol": "WSE:MBK",
   "investorRelationsUrl": "https://www.mbank.pl/en/investor-relations/",
   "financialReports": [
     {
@@ -58,6 +107,7 @@
   ],
   "twitter": "mBankpl",
   "crunchbase": "mbank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000Mfzo5AAB",
   "articles": []

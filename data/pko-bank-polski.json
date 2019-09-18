@@ -1,40 +1,91 @@
 {
   "id": "pko-bank-polski",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "PKO",
   "legalName": "Powszechna Kasa Oszczędności Bank Polski Spółka Akcyjna",
   "ipoStatus": "public",
+  "stockSymbol": "WSE:PKO",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296085/radar/icons/PKO_Bank_Polski.png",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568784549/radar/icons/pko-bank-polski.png",
   "websiteUrl": "https://www.pkobp.pl/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Polish State Treasury",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552487385/radar/icons/Polish_Treasury.png",
       "providerId": "Polish State Treasury",
       "percentage": 29.4
     }
   ],
-  "stateOwned": true,
+  "stateOwned": false,
   "countryHQ": "PL",
-  "countries": ["PL"],
+  "countries": [
+    "PL"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://developers.pkobp.pl/pl/"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://developers.pkobp.pl/pl/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developers.pkobp.pl/pl/",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.pkobp.pl/pl/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.pkobp.pl/pl/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.pkobp.pl/pl/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiAccess": "verifiedTpp",
   "webApplication": true,
   "mobileApps": [
     {
@@ -46,18 +97,20 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=pl.pkobp.iko&hl=en"
     }
   ],
-  "stockSymbol": "WSE:PKO",
   "investorRelationsUrl": "https://www.pkobp.pl/pkobppl-en/investor-relations/",
   "financialReports": [
     {
       "label": "Q4 2018",
       "date": null,
       "url": "https://www.pkobp.pl/media_files/ec332d2c-a2ec-4261-a3be-97da284d2393.pdf",
-      "type": ["annualReport"]
+      "type": [
+        "annualReport"
+      ]
     }
   ],
   "twitter": "PKOBP",
   "crunchbase": "pko-bp",
+  "bloomberg": null,
   "github": null,
   "fca": null,
   "articles": []

@@ -1,59 +1,67 @@
 {
   "id": "luminor-bank",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "Luminor",
   "legalName": "Luminor Bank AS",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Luminor_Bank.png",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568608142/radar/icons/luminor-bank.png",
   "websiteUrl": "https://www.luminor.lt/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Blackstone Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552574124/Financial%20Data/blackstone.jpg",
       "providerId": "Blackstone Group",
-      "percentage": 60.0
+      "percentage": 60
     },
-    { 
+    {
       "shareholderName": "DNB",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/DNB.jpg",
       "providerId": "dnb",
-      "percentage": 20.0
+      "percentage": 20
     },
-    { 
+    {
       "shareholderName": "Nordea",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nordea.jpg",
       "providerId": "nordea",
-      "percentage": 20.0
+      "percentage": 20
     }
   ],
   "stateOwned": false,
   "countryHQ": "EE",
-  "countries": ["EE","LV","LT"],
+  "countries": [
+    "EE",
+    "LV",
+    "LT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://developer.luminoropenbanking.com/"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.luminoropenbanking.com/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.luminoropenbanking.com/",
+  "apiAggregators": [],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,
-  "mobileApps": [
-    {
-      "operatingSystem": "ios"
-    },
-    {
-      "operatingSystem": "android"
-    }
-  ],
-  "stockSymbol": null,
+  "mobileApps": [],
   "investorRelationsUrl": "https://www.luminor.ee/en/investors",
   "financialReports": [
     {
@@ -64,6 +72,7 @@
   ],
   "twitter": "luminoreesti",
   "crunchbase": "luminor",
+  "bloomberg": null,
   "github": null,
   "fca": null,
   "articles": []

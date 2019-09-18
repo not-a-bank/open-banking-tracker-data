@@ -1,98 +1,88 @@
 {
   "id": "banco-de-sabadell",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Sabadell",
   "legalName": "Banco de Sabadell, S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "BME:SAB",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Banco_Sabadell.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568788239/radar/icons/banco-de-sabadell.jpg",
   "websiteUrl": "https://www.bancsabadell.com/cs/Satellite/SabAtl/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "ES",
-  "countries": ["GB","ES","PT"],
+  "countries": [
+    "GB",
+    "ES",
+    "PT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl":null
+    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell"
   },
-  "developerPortalUrl": "http://developers.bancsabadell.com/",
-  "apiProducts": [
-    {
-      "label": "Movimientos de cuentas",
-      "type": "paymentInitiation",
-      "categories": ["payments"],
-      "description": "Esta funcionalidad permite a los usuarios obtener toda la información de las transacciones de sus cuentas de Banco Sabadell. En ella aparecerá un listado con la fecha del movimiento, el concepto, la fecha valor, el importe y el saldo de la cuenta. También podrán importar los movimientos de sus cuentas de Banco Sabadell especificando una serie de filtros avanzados (fechas e importes).",
-      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
-      "apiReferenceUrl": null,
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Posición global",
-      "type": "branchLocator",
-      "categories": ["locators"],
-      "description": "Desde la aplicación cliente, los usuarios podrán consultar el listado de productos contratados con Banco Sabadell. La aplicación les devolverá como resultado de esta operación únicamente la información de las cuentas y tarjetas que ellos hayan autorizado. Por lo tanto, retornará una posición global limitada por los permisos que el usuario haya dado en su nombre.",
-      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
-      "apiReferenceUrl": null,
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Posición global",
-      "type": "atmLocator",
-      "categories": ["locators"],
-      "description": "Desde la aplicación cliente, los usuarios podrán consultar el listado de productos contratados con Banco Sabadell. La aplicación les devolverá como resultado de esta operación únicamente la información de las cuentas y tarjetas que ellos hayan autorizado. Por lo tanto, retornará una posición global limitada por los permisos que el usuario haya dado en su nombre.",
-      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
-      "apiReferenceUrl": null,
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Movimientos y estados de tarjetas",
-      "type": "cards",
-      "categories": ["cards"],
-      "description": "El usuario podrá importar a la aplicación los detalles de sus tarjetas de Banco Sabadell. Obtendrá el listado de tarjetas, toda la información de cada movimiento realizado con la tarjeta y los detalles de la situación de la misma (límite de crédito, saldo dispuesto, cuenta relacionada, etc.)",
-      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
-      "apiReferenceUrl": null,
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Transferencias",
-      "type": "paymentInitiation",
-      "categories": ["payments"],
-      "description": "Esta función permite a un usuario preparar y simular, desde la aplicación cliente y con los datos provistos, una operación de transferencia nacional para su ejecución.",
-      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
-      "apiReferenceUrl": null,
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Instant Money",
-      "type": "paymentInitiation",
-      "categories": ["payments"],
-      "description": "La API ofrece la posibilidad de preparar una operación de Instant Money. Instant Money es un servicio que permite enviar dinero a cualquier móvil mediante un mensaje SMS. El código incluido en el mensaje permite recoger el dinero, sin tarjeta, en cualquiera de los cajeros de Banco Sabadell. Para emitir la operación solo hay que tener acceso a BS Móvil.",
-      "documentationUrl": "http://developers.bancsabadell.com/funcionalidades-api/",
-      "apiReferenceUrl": null,
-      "premium": false,
-      "stage": "sandbox"
-    }
-  ],
-  "apiStandards": [],
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -104,7 +94,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=net.inverline.bancosabadell.officelocator.android&hl=en"
     }
   ],
-  "stockSymbol": "BME:SAB",
   "investorRelationsUrl": "https://www.grupbancsabadell.com/en/",
   "financialReports": [
     {
@@ -115,7 +104,11 @@
   ],
   "twitter": "BancoSabadell",
   "crunchbase": "banco-sabadell",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfJLoAAN",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "redsys-es"
+  ]
 }

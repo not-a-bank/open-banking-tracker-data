@@ -1,43 +1,54 @@
 {
   "id": "marks-spencer-financial-services",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "M&S Bank",
   "legalName": "Marks & Spencer Financial Services plc",
   "ipoStatus": "private",
+  "stockSymbol": "LON:HSBA",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552649978/radar/icons/M_S_Bank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568608798/radar/icons/marks-spencer-financial-services.jpg",
   "websiteUrl": "https://bank.marksandspencer.com/",
   "ownership": [
-    { 
+    {
       "shareholderName": "M&S Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552650040/radar/icons/M_S.png",
       "providerId": "M&S Group",
-      "percentage": null,
-      "sourceUrl": "https://bank.marksandspencer.com/explore/about-us/fscs-protection/"
+      "percentage": null
     },
-    { 
+    {
       "shareholderName": "HSBC",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552239844/radar/icons/hsbc.svg",
       "providerId": "HSBC",
-      "percentage": null,
-      "sourceUrl": "https://bank.marksandspencer.com/explore/about-us/fscs-protection/"
-    } 
+      "percentage": null
+    }
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://api.hsbc.com/"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://api.hsbc.com/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://api.hsbc.com/",
+  "apiAggregators": [],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,
@@ -51,17 +62,17 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.mns.mnsuk.android&hl=en"
     }
   ],
-"stockSymbol": "LON:HSBA",
- "investorRelationsUrl": "https://www.hsbc.com/investors/",
- "financialReports": [
-   {
-     "label": "Q4 2018",
-     "date": "2019-02-19",
-     "url": "https://res.cloudinary.com/banq/image/upload/v1552641665/Financial%20Data/HSBC-annual-report-and-accounts-2018.pdf"
-   }
- ],
+  "investorRelationsUrl": "https://www.hsbc.com/investors/",
+  "financialReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-19",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552641665/Financial%20Data/HSBC-annual-report-and-accounts-2018.pdf"
+    }
+  ],
   "twitter": "MandSBank",
   "crunchbase": "marks-and-spencer-retail-financial-services",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfGS1AAN",
   "articles": []

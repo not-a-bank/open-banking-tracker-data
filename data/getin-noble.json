@@ -1,41 +1,53 @@
 {
   "id": "getin-noble",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
-  "name": "mBank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
+  "name": "Getin Noble Bank",
   "legalName": "Getin Noble Bank S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "WSE:GNB",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1553524296/radar/icons/Getin_Noble.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568610106/radar/icons/getin-noble.jpg",
   "websiteUrl": "http://en.gnb.pl/",
   "ownership": [
-    { 
+    {
       "shareholderName": "LC Corp B.V",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553524806/radar/icons/lc_corp.png",
       "providerId": "LC-Corp",
-      "percentage": 46.0,
-      "sourceUrl": "http://en.gnb.pl/gnb_en/doc/news/r-okresowe-kwartalne/2018/Q32018_GNB%20Financial%20Statements_Group_ENG.pdf"
+      "percentage": 46
     }
   ],
   "stateOwned": false,
   "countryHQ": "PL",
-  "countries": ["PL"],
+  "countries": [
+    "PL"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
-    ],
+  ],
   "sandbox": {
     "status": "available",
-    "sourceUrl":null
+    "sourceUrl": "https://www.getinbank.pl/getinapi/dokumentacja"
   },
-  "developerPortalUrl": "https://getinapi.getinbank.pl/",
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://www.getinbank.pl/getinapi/dokumentacja",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.getinbank.pl/getinapi/dokumentacja",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -47,7 +59,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.getingroup.mobilebanking&hl=en_US"
     }
   ],
-  "stockSymbol": "WSE:GNB",
   "investorRelationsUrl": "http://en.gnb.pl/prezentacje",
   "financialReports": [
     {
@@ -59,6 +70,7 @@
   ],
   "twitter": null,
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": null,
   "articles": []

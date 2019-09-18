@@ -17,7 +17,7 @@
   "ownership": [
     {
       "shareholderName": "Italian State",
-      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568417216/radar/icons/Italian%20State.png",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552482524/radar/icons/Minsitero_Economia_e_Finanze_logo.png",
       "providerId": "Italian State",
       "percentage": 68.2
     }
@@ -39,7 +39,6 @@
   },
   "developerPortalUrl": "https://www.mps.it/PSD2/open-banking.html",
   "developerCommunityUrl": null,
-  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://www.mps.it/PSD2/open-banking.html",
@@ -57,7 +56,7 @@
       "documentationUrl": null,
       "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/accountInformationServices/2.3.2/accounts/get",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
     },
     {
       "label": "Payments",
@@ -69,7 +68,19 @@
       "documentationUrl": null,
       "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInitiationServices/2.3.2/paymentspayment-product/post",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": " https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInstrumentIssuingServices/2.3.2/funds-confirmations/post",
+      "premium": false,
+      "stage": "live"
     },
     {
       "label": "OAuth2",

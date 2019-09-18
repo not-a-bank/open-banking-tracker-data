@@ -1,53 +1,119 @@
 {
   "id": "n26",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "n26",
   "legalName": "N26 GmbH",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/N26.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568610944/radar/icons/n26.jpg",
   "websiteUrl": "https://n26.com/en-eu/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "DE",
-  "countries": ["DE","AT","IE","FR","ES","IT","NL","BE","PT","FI","LU","SI","EE","GR","SK","GB","PL","SE","DK","NO","LI","IS","CH","US"],
+  "countries": [
+    "DE",
+    "AT",
+    "IE",
+    "FR",
+    "ES",
+    "IT",
+    "NL",
+    "BE",
+    "PT",
+    "FI",
+    "LU",
+    "SI",
+    "EE",
+    "GR",
+    "SK",
+    "GB",
+    "PL",
+    "SE",
+    "DK",
+    "NO",
+    "LI",
+    "IS",
+    "CH",
+    "US"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     },
-        { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "sourceUrl": "https://developer.token.io/"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://developer.token.io/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.token.io/",
   "apiAggregators": [
-    "salt-edge"
+    "token",
+    "salt-edge",
+    "tink"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.token.io/bank-integration/#account-information-services-ais",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.token.io/bank-integration/#payment-initiation-services-pis",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/us/app/n26-the-mobile-bank/id956857223?mt=8"
+      "storeUrl": "https://itunes.apple.com/us/app/n26-the-mobile-bank/id956857223"
     },
     {
       "operatingSystem": "android",
       "storeUrl": "https://play.google.com/store/apps/details?id=de.number26.android&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "n26",
   "crunchbase": "n26",
+  "bloomberg": null,
   "github": "n26",
   "fca": "001b00000438MkSAAU",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "token-io"
+  ]
 }
