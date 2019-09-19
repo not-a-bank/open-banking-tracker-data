@@ -1,6 +1,6 @@
 {
     "id": "acb",
-    "type": ["retail", "corporate"],
+    "type": ["account"],
     "name": "Asia Commercial Bank",
     "legalName": "Asia Commercial Joint Stock Bank, VN",
     "bankType": [
@@ -79,7 +79,7 @@
         },
         {
             "label": "Account Profile",
-            "type": "profileInformation",
+            "type": "accountInformation",
             "categories": ["accounts"],
             "description": "Get approved access to shared ACB customer profile data for deeper engagement.",
             "documentationUrl": "https://docs.dev.acb.com.vn/#tag/Profile",
@@ -124,7 +124,7 @@
         {
             "label": "Services",
             "type": "other",
-            "categories": ["services"],
+            "categories": ["products"],
             "description": "Allow developers to get country specific variations of ACB products and services.",
             "documentationUrl": null,
             "apiReferenceUrl": "https://docs.dev.acb.com.vn/#tag/Service",
