@@ -4,6 +4,8 @@
   "bankType": ["challenger"],
   "name": "bunq",
   "legalName": "bunq b.v.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/bunq",
+  "description": "Building the bank of tomorrow, today.",
   "ipoStatus": "private",
   "verified": true,
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Bunq.jpg",
@@ -11,7 +13,7 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "NL",
-  "countries": ["EU"],
+  "countries": ["EU","NO","IS"],
   "compliance": [
     { 
       "regulation": "PSD2",
@@ -42,11 +44,32 @@
       "apiReferenceUrl": "https://doc.bunq.com#psd2",
       "stage": "live",
       "premium": false
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "paymentInitiation",
+      "categories": ["fundsConfirmation"],
+      "description": "Receive a confirmation of available funds to cover a proposed transaction amount.",
+      "documentationUrl": "https://doc.bunq.com",
+      "apiReferenceUrl": "https://doc.bunq.com",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "Card Management",
+      "type": "other",
+      "categories": ["fundsConfirmation"],
+      "description": "Order and manage bank cards programmatically.",
+      "documentationUrl": "https://doc.bunq.com",
+      "apiReferenceUrl": "https://doc.bunq.com",
+      "stage": "live",
+      "premium": false
     }
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "klarna"
+    "klarna",
+    "tink"
   ],
   "webApplication": false,
   "mobileApps": [
