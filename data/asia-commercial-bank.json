@@ -3,8 +3,8 @@
     "type": ["account"],
     "name": "Asia Commercial Bank",
     "aliases": [
-       "ACB"
-    ],
+        "ACB"
+     ],
     "legalName": "Asia Commercial Joint Stock Bank, VN",
     "bankType": [
         "retail",
@@ -14,7 +14,7 @@
     "verified": true,
     "icon": "https://upload.wikimedia.org/wikipedia/en/7/79/Asia_Commercial_Bank_logo.png",
     "websiteUrl": "https://www.acb.com.vn/",
-    "description": "ACB is one of the leading joint stock commercial banks in Vietnam, with the branch network ststem nationally with nearly 9000 employees and many various products and services. The position of ACB in the next 5 years is the position of a leading bank estahlished in 5 fields; in the next 3 years, it is the bank with outstanding effectiveness operation structure; and in 2014, ACB is the bank operating with principle: growth must be stable, managament must be gradually professional, income must be suitable, and profit must be reasonable",
+    "description": "ACB is one of the leading joint stock commercial banks in Vietnam, with the branch network ststem nationally with nearly 9000 employees and many various products and services. The position of ACB in the next 5 years is the position of a leading bank estahlished in 5 fields; in the next 3 years, it is the bank with outstanding effectiveness operation structure; and in 2014, ACB is the bank operating with principle: growth must be stable, managament must be gradually professional, income must be suitable, and profit must be reasonable.",
     "wikipediaUrl": "https://en.wikipedia.org/wiki/Asia_Commercial_Bank",
     "countryHQ": "VN",
     "countries": ["VN"],
@@ -27,7 +27,7 @@
     }],
     "sandbox": {
         "status": "available",
-        "sourceUrl": "https://api.dev.acb.com.vn"
+        "sourceUrl": "https://docs.dev.acb.com.vn"
     },
     "openBankProjectUrl": "https://developer.acb.com.vn/about",
     "developerPortalUrl": "https://developer.acb.com.vn",
@@ -75,7 +75,7 @@
             "categories": ["auth"],
             "description": "Verify ACB customer accounts and grant third-party apps access to account data.",
             "documentationUrl": "https://docs.dev.acb.com.vn/#tag/Authorization",
-            "apiReferenceUrl": "https://docs.dev.acb.com.vn/#operation/Token",
+            "apiReferenceUrl": "https://docs.dev.acb.com.vn/#tag/Authorization",
             "premium": false,
             "stage": "live",
             "countries": ["VN"]
@@ -86,7 +86,7 @@
             "categories": ["accounts"],
             "description": "Get approved access to shared ACB customer profile data for deeper engagement.",
             "documentationUrl": "https://docs.dev.acb.com.vn/#tag/Profile",
-            "apiReferenceUrl": "https://api.dev.acb.com.vn/v1/profile",
+            "apiReferenceUrl": "https://docs.dev.acb.com.vn/#tag/Profile",
             "premium": false,
             "stage": "live",
             "countries": ["VN"]
@@ -97,7 +97,7 @@
             "categories": ["payments"],
             "description": "Give ACB customers the ability to make money transfer across accounts and institutions.",
             "documentationUrl": "https://docs.dev.acb.com.vn/#tag/Transaction",
-            "apiReferenceUrl": "https://api.dev.acb.com.vn/v1/transaction",
+            "apiReferenceUrl": "https://docs.dev.acb.com.vn/#tag/Transaction",
             "premium": false,
             "stage": "live",
             "countries": ["VN"]
@@ -108,7 +108,7 @@
             "categories": ["payments"],
             "description": "Give ACB customers the ability to use ACB money collection service with their corporate banking account issued at ACB.",
             "documentationUrl": "https://docs.dev.acb.com.vn/#tag/Collection",
-            "apiReferenceUrl": "https://api.dev.acb.com.vn/v1/collection",
+            "apiReferenceUrl": "https://docs.dev.acb.com.vn/#tag/Collection",
             "premium": false,
             "stage": "live",
             "countries": ["VN"]
@@ -119,7 +119,7 @@
             "categories": ["payments"],
             "description": "Verify ACB customer accounts and grant third-party digital & virtual service providers access to expand ecosystem and account data.",
             "documentationUrl": "https://docs.dev.acb.com.vn/#tag/eWallet",
-            "apiReferenceUrl": "https://api.dev.acb.com.vn/v1/ewallet",
+            "apiReferenceUrl": "https://docs.dev.acb.com.vn/#tag/eWallet",
             "premium": false,
             "stage": "privateBeta",
             "countries": ["VN"]
