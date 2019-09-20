@@ -47,8 +47,8 @@
     },
     {
       "label": "Funds Confirmation",
-      "type": "paymentInitiation",
-      "categories": ["fundsConfirmation"],
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
       "description": "Receive a confirmation of available funds to cover a proposed transaction amount.",
       "documentationUrl": "https://doc.bunq.com",
       "apiReferenceUrl": "https://doc.bunq.com",
@@ -57,8 +57,8 @@
     },
     {
       "label": "Card Management",
-      "type": "other",
-      "categories": ["fundsConfirmation"],
+      "type": "cards",
+      "categories": ["cards"],
       "description": "Order and manage bank cards programmatically.",
       "documentationUrl": "https://doc.bunq.com",
       "apiReferenceUrl": "https://doc.bunq.com",
