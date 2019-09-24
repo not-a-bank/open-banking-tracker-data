@@ -1,32 +1,41 @@
 {
-  "id": "oakkorth",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "id": "oaknorth",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "OakNorth Bank",
   "legalName": "OakNorth Bank plc",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1553597743/radar/icons/OakNorth.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1569336509/radar/icons/oaknorth.jpg",
   "websiteUrl": "https://www.oaknorth.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
-  "sandbox": {
-    "status": "unavailable"
-  },
   "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": null,
+  "apiAggregators": [],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [
     {
@@ -38,7 +47,14 @@
   ],
   "twitter": "oaknorth",
   "crunchbase": "oaknorth-bank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000aQtn8AAC",
-  "articles": []
+  "articles": [],
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }
