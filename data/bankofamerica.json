@@ -1,0 +1,89 @@
+{
+  "id": "bankofamerica",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Bank of America",
+  "description": "The Bank of America Corporation is an American multinational investment bank and financial services company based in Charlotte, North Carolina, with central hubs in New York City, London, Hong Kong, Minneapolis, and Toronto. Bank of America was formed through NationsBank's acquisition of BankAmerica in 1998",
+  "legalName": "Bank of America Corporation",
+  "ipoStatus": "public",
+  "stockSymbol": "NYSE:BAC",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1569442745/radar/icons/bankofamerica.jpg",
+  "websiteUrl": "https://bankofamerica.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://developer.bankofamerica.com",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.bankofamerica.com",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.bankofamerica.com/CPODevPortal/apidocs/public/APIDevPortal.html#/balance",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.bankofamerica.com/CPODevPortal/apidocs/public/APIDevPortal.html#/payment",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.bankofamerica.com/CPODevPortal/apidocs/public/APIDevPortal.html#/fundsCheck",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/bank-america-mobile-banking/id284847138?mt=8%27"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.infonow.bofa"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
