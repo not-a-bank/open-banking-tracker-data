@@ -1,0 +1,44 @@
+{
+  "id": "commbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "CommBank",
+  "description": "CommBank offers personal banking, business solutions, institutional banking, company information, and more",
+  "legalName": "Commonwealth Bank of Australia",
+  "ipoStatus": "public",
+  "stockSymbol": "ASX: CBA",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1569752232/radar/icons/commbank.jpg",
+  "websiteUrl": "https://commbank.com.au",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AU",
+  "countries": [
+    "AU"
+  ],
+  "compliance": [],
+  "sandbox": {},
+  "developerPortalUrl": "https://www.commbank.com.au/Developer/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.commbank.com.au/Developer/",
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
