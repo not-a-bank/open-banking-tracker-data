@@ -1,37 +1,90 @@
 {
   "id": "soc-gen",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Société Générale",
   "legalName": "Société Générale S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "EPA:GLE:EN",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Societe_Generale.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1569852355/radar/icons/soc-gen.jpg",
   "websiteUrl": "https://www.societegenerale.com/en/home",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "FR",
-  "countries": ["FR","GB","LU","BE"],
+  "countries": [
+    "FR",
+    "GB",
+    "LU",
+    "BE"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
-    },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+    "status": "available",
+    "sourceUrl": "https://developer.societegenerale.fr/en"
+  },
+  "developerPortalUrl": "https://developer.societegenerale.fr/en",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.societegenerale.fr/en",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.societegenerale.fr/en/product/373",
+      "apiReferenceUrl": "https://developer.societegenerale.fr/en/product/373/api/337",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.societegenerale.fr/en/product/370",
+      "apiReferenceUrl": "https://developer.societegenerale.fr/en/product/370/api/332",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.societegenerale.fr/en/product/367",
+      "apiReferenceUrl": "https://developer.societegenerale.fr/en/product/367/api/364",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiAccess": "",
   "webApplication": true,
   "mobileApps": [
     {
@@ -43,19 +96,28 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=mobi.societegenerale.mobile.lappli&hl=en"
     }
   ],
-"stockSymbol": "EPA:GLE:EN",
- "investorRelationsUrl": "https://www.societegenerale.com/en/investors",
- "financialReports": [
-   {
-     "label": "Q4 2018",
-     "date": "2019-02-07",
-     "type": ["annualPressRelease","quarterlyPressRelease"],
-     "url": "https://www.societegenerale.com/sites/default/files/documents/R%C3%A9sultats%20financiers/2018/Q4/pr_q4_2018.pdf"
-   }
- ],
- "twitter": "societegenerale",
- "crunchbase": "societe-generale",
- "github": "societe-generale",
- "fca": "001b000000MfF4FAAV",
- "articles": []
+  "investorRelationsUrl": "https://www.societegenerale.com/en/investors",
+  "financialReports": [
+    {
+      "label": "Q4 2018",
+      "date": "2019-02-07",
+      "type": [
+        "annualPressRelease",
+        "quarterlyPressRelease"
+      ],
+      "url": "https://www.societegenerale.com/sites/default/files/documents/R%C3%A9sultats%20financiers/2018/Q4/pr_q4_2018.pdf"
+    }
+  ],
+  "twitter": "societegenerale",
+  "crunchbase": "societe-generale",
+  "bloomberg": null,
+  "github": "societe-generale",
+  "fca": "001b000000MfF4FAAV",
+  "articles": [],
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }
