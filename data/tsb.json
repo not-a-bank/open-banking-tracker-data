@@ -1,50 +1,111 @@
 {
   "id": "tsb",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "TSB",
   "legalName": "TSB Bank plc",
   "ipoStatus": "private",
+  "stockSymbol": "BME:SAB",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296092/radar/icons/TSB.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1569887489/radar/icons/tsb.jpg",
   "websiteUrl": "https://www.tsb.co.uk/personal/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Banco De Sabadell",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Banco_Sabadell.jpg",
       "providerId": "banco-de-sabadell",
-      "percentage": 100.0,
-      "sourceUrl": "https://www.tsb.co.uk/investors/"
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
-      "status": "inProgress"
+      "status": "ready"
     }
   ],
   "sandbox": {
-    "status": "available"
+    "status": "available",
+    "sourceUrl": "https://developer.tsb.co.uk/product"
   },
-  "developerPortalUrl": "https://developer.natwest.com/apiportal",
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://apis.developer.tsb.co.uk/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://apis.developer.tsb.co.uk/",
   "apiAggregators": [
     "salt-edge"
   ],
-  "webApplication": true,
-  "mobileApps": [
+  "apiProducts": [
     {
-      "operatingSystem": "ios"
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://apis.developer.tsb.co.uk/doc-aisp.html",
+      "apiReferenceUrl": "https://apis.developer.tsb.co.uk/doc-aisp.html",
+      "specs": [
+        {
+          "url": "https://apis.developer.tsb.co.uk/swagger/ukobie_accounts_v3.1.json",
+          "type": "swagger2"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
     },
     {
-      "operatingSystem": "android"
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://apis.developer.tsb.co.uk/doc-pisp.html",
+      "apiReferenceUrl": "https://apis.developer.tsb.co.uk/doc-pisp.html",
+      "specs": [
+        {
+          "url": "https://apis.developer.tsb.co.uk/swagger/ukobie_payments_v3.1.json",
+          "type": "swagger2"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://apis.developer.tsb.co.uk/doc-funds.html",
+      "apiReferenceUrl": "https://apis.developer.tsb.co.uk/doc-funds.html",
+      "specs": [
+        {
+          "url": "https://apis.developer.tsb.co.uk/swagger/ukobie_funds_confirmations_v3.1.json",
+          "type": "swagger2"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "stockSymbol": "BME:SAB",
+  "apiStandards": [],
+  "apiAccess": null,
+  "webApplication": true,
+  "mobileApps": [],
   "investorRelationsUrl": "https://www.grupbancsabadell.com/en/",
   "financialReports": [
     {
@@ -55,7 +116,18 @@
   ],
   "twitter": "TSB",
   "crunchbase": "tsb-banking-group",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfI5JAAV",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "redoc",
+    "swagger2"
+  ],
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }
