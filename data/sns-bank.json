@@ -1,41 +1,89 @@
 {
   "id": "sns-bank",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "SNS",
   "legalName": "SNS (de Volksbank N.V)",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1553168384/radar/icons/SNS.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568821420/radar/icons/sns-bank.jpg",
   "websiteUrl": "https://www.snsbank.nl/particulier/home.html",
   "ownership": [
-    { 
+    {
       "shareholderName": "de Volksbank",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553166048/radar/icons/DeVolksbank.jpg",
       "providerId": "devolksbank",
-      "percentage": 100.0,
-      "sourceUrl": "https://res.cloudinary.com/banq/image/upload/v1553166592/Financial%20Data/ASN_Bank_2017.pdf"
+      "percentage": 100
     }
   ],
-  "stateOwned": true,
+  "stateOwned": false,
   "countryHQ": "NL",
-  "countries": ["NL"],
+  "countries": [
+    "NL"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": "https://www.snsbank.nl/particulier/service/toegang-betaalrekening.html"
+    "status": "available",
+    "sourceUrl": "https://developer.devolksbank.nl/admin/app/api-catalog"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consent Services",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -47,19 +95,27 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=nl.regiobank.regiobankieren&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": "https://play.google.com/store/apps/details?id=nl.snsbank.snsbankieren&hl=en",
   "financialReports": [
     {
       "label": "Q4 2018",
       "date": "2018-02-15",
       "url": "https://www.devolksbank.nl/article/de-volksbank-posts-2018-net-profit-of-268-million.html",
-      "type": ["annualPressRelease"]
+      "type": [
+        "annualPressRelease"
+      ]
     }
   ],
   "twitter": "SNSbank",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": null,
-  "articles": []
+  "articles": [],
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }

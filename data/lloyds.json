@@ -1,39 +1,62 @@
 {
   "id": "lloyds",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Lloyds Bank",
   "legalName": "Lloyds Bank plc",
   "ipoStatus": "private",
+  "stockSymbol": "LON:LLOY",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Lloyds_Banking_Group.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568856945/radar/icons/lloyds.jpg",
   "websiteUrl": "https://www.lloydsbank.com/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Lloyds Banking Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Lloyds_Banking_Group.jpg",
       "providerId": "lloyds",
-      "percentage": 100.0
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "available"
+    "status": "available",
+    "sourceUrl": "https://developer.lloydsbanking.com/"
   },
   "developerPortalUrl": "https://developer.lloydsbanking.com/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.lloydsbanking.com/",
+  "apiAggregators": [
+    "klarna",
+    "plaid",
+    "token",
+    "openwrks",
+    "salt-edge",
+    "yolt"
+  ],
   "apiProducts": [
     {
       "label": "/branches",
       "type": "branchLocator",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "description": "Gets a list of all Branch objects.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-branches-2.1",
@@ -43,7 +66,9 @@
     {
       "label": "/personal-current-accounts",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Gets a list of all Personal Current Account objects.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-personal-current-accounts-2.1",
@@ -54,7 +79,9 @@
       "label": "/atms",
       "type": "atmLocator",
       "description": "Gets a list of all ATM objects.",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "documentationUrl": null,
       "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-atms-2.1",
       "premium": false,
@@ -63,7 +90,9 @@
     {
       "label": "/business-current-accounts",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Gets a list of all Branch Current Account objects.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-business-current-accounts-2.1",
@@ -74,7 +103,9 @@
       "label": "/unsecured-sme-loans",
       "type": "productFinder",
       "description": "Gets a list of all Unsercured SME Lending objects.",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "documentationUrl": null,
       "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-unsecured-sme-loans-2.1",
       "premium": false,
@@ -84,7 +115,9 @@
       "label": "/commercial-credit-cards",
       "type": "productFinder",
       "description": "Gets a list of all Commerical Credit Card objects.",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "documentationUrl": null,
       "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-commercial-credit-cards-2.1",
       "premium": false,
@@ -94,16 +127,20 @@
       "label": "/accounts",
       "type": "accountInformation",
       "description": "FCA Service Metric API.",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "documentationUrl": "https://developer.lloydsbanking.com/accounts-product-lyds-v2",
-      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/942#get-accounts-2.0.0", 
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/942#get-accounts-2.0.0",
       "premium": false,
       "stage": "sandbox"
     },
     {
       "label": "/payments",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Create a single immediate payment",
       "documentationUrl": "https://developer.lloydsbanking.com/payments-product-lyds",
       "apiReferenceUrl": "https://developer.lloydsbanking.com/node/596#post-payments-1.0.1",
@@ -113,7 +150,9 @@
     {
       "label": "/payment-submissions",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Submit a previously setup payment",
       "documentationUrl": "https://developer.lloydsbanking.com/payments-product-lyds",
       "apiReferenceUrl": "https://developer.lloydsbanking.com/node/596#post-payment-submissions-1.0.1",
@@ -122,16 +161,6 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [
-    "klarna",
-    "token",
-    "yolt",
-    "openwrks",
-    "salt-edge"
-  ],
-  "collections": [
-    "cma9"
-  ],
   "webApplication": true,
   "mobileApps": [
     {
@@ -143,7 +172,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.grppl.android.shell.CMBlloydsTSB73&hl=en"
     }
   ],
-  "stockSymbol": "LON:LLOY",
   "investorRelationsUrl": "https://www.lloydsbankinggroup.com/investors/",
   "financialReports": [
     {
@@ -154,7 +182,14 @@
   ],
   "twitter": "AskLloydsBank",
   "crunchbase": "lloyds-bank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfFNkAAN",
-  "articles": []
+  "articles": [],
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }

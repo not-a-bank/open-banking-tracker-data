@@ -1,45 +1,82 @@
 {
   "id": "tandem-money-limited",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Tandem Money",
   "legalName": "Tandem Money Limited",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296090/radar/icons/Tandem_Money_Limited.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568860482/radar/icons/tandem-money-limited.jpg",
   "websiteUrl": "https://www.tandem.co.uk/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://developer.token.io/"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
-  "webApplication": false,
-  "mobileApps": [
+  "developerPortalUrl": "https://developer.token.io/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.token.io/",
+  "apiAggregators": [],
+  "apiProducts": [
     {
-      "operatingSystem": "ios"
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.token.io/bank-integration/#account-information-services-ais",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     },
     {
-      "operatingSystem": "android"
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.token.io/bank-integration/#payment-initiation-services-pis",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "stockSymbol": null,
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [],
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "TandemMoney",
   "crunchbase": "tandem-5",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000i8ezfAAA",
-  "articles": []
+  "articles": [],
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }

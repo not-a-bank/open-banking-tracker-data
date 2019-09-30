@@ -1,23 +1,31 @@
 {
   "id": "hsbc",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "HSBC",
   "legalName": "HSBC Holdings plc",
   "ipoStatus": "public",
+  "stockSymbol": "LON:HSBA",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552239844/radar/icons/hsbc.svg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568854389/radar/icons/hsbc.svg",
   "websiteUrl": "https://www.hsbc.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["EU"],
+  "countries": [
+    "EU"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "OB",
       "status": "ready"
     },
@@ -28,14 +36,28 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://www.businesswire.com/news/home/20190307005306/en/HSBC-Launches-PSD2-Developer-Portal-Expanded-APIs"
+    "sourceUrl": "https://developer.hsbc.com/"
   },
   "developerPortalUrl": "https://developer.hsbc.com/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.hsbc.com/",
+  "apiAggregators": [
+    "klarna",
+    "salt-edge",
+    "token",
+    "yolt",
+    "openwrks",
+    "plaid"
+  ],
   "apiProducts": [
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Securely retrieve real-time Account Information for HSBC customers in your target market",
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_accountInformation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
@@ -47,7 +69,9 @@
       "label": "Payment Initiation",
       "type": "paymentInitiation",
       "description": "Integrate secure payment Initiation in your application and launch your business potential.",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_paymentInitiation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
@@ -57,7 +81,9 @@
     {
       "label": "Funds Confirmation",
       "type": "fundsConfirmation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Receive a confirmation of available funds to cover a proposed transaction amount.",
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_fundsConfirmation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
@@ -68,7 +94,9 @@
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Securely retrieve real-time Account Information for HSBC customers in your target market",
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_accountInformation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
@@ -80,7 +108,9 @@
       "label": "Payment Initiation",
       "type": "paymentInitiation",
       "description": "Integrate secure payment Initiation in your application and launch your business potential.",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_paymentInitiation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
@@ -90,7 +120,9 @@
     {
       "label": "Funds Confirmation",
       "type": "fundsConfirmation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Receive a confirmation of available funds to cover a proposed transaction amount.",
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_fundsConfirmation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
@@ -101,72 +133,70 @@
     {
       "label": "ATM Locator",
       "type": "atmLocator",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "description": "Get the locations of all our ATMs.",
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/open_atmLocator",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
       "stage": "live",
-      "countries": ["UK"]
+      "countries": [
+        "UK"
+      ]
     },
     {
       "label": "Branch Locator",
       "type": "branchLocator",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "description": "Get the location of and facilities at our branches.",
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/open_branchLocator",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
       "stage": "live",
-      "countries": ["UK"]
+      "countries": [
+        "UK"
+      ]
     },
     {
       "label": "Product Finder",
       "type": "productFinder",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Current accounts, SME lending products and commercial credit cards.",
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/open_productFinder",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
       "stage": "live",
-      "countries": ["UK"]
+      "countries": [
+        "UK"
+      ]
     }
   ],
-  "apiStandards": [
-    "STET",
-    "OBIE"
-  ],
-  "apiAggregators": [
-    "klarna",
-    "salt-edge",
-    "token",
-    "yolt",
-    "openwrks"
-  ],
-  "collections": [
-    "cma9"
-  ],
+  "apiStandards": [],
   "webApplication": true,
-  "mobileApps": [
+  "mobileApps": [],
+  "investorRelationsUrl": "https://www.hsbc.com/investors/",
+  "financialReports": [
     {
-      "operatingSystem": "ios"
-    },
-    {
-      "operatingSystem": "android"
+      "label": "Q4 2018",
+      "date": "2019-02-19",
+      "url": "https://res.cloudinary.com/banq/image/upload/v1552641665/Financial%20Data/HSBC-annual-report-and-accounts-2018.pdf"
     }
   ],
-"stockSymbol": "LON:HSBA",
- "investorRelationsUrl": "https://www.hsbc.com/investors/",
- "financialReports": [
-   {
-     "label": "Q4 2018",
-     "date": "2019-02-19",
-     "url": "https://res.cloudinary.com/banq/image/upload/v1552641665/Financial%20Data/HSBC-annual-report-and-accounts-2018.pdf"
-   }
- ],
- "twitter": "hsbc",
- "crunchbase": "hsbc",
- "github": null,
- "fca": "001b000000MfELyAAN",
- "articles": []
+  "twitter": "hsbc",
+  "crunchbase": "hsbc",
+  "bloomberg": null,
+  "github": null,
+  "fca": "001b000000MfELyAAN",
+  "articles": [],
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }
