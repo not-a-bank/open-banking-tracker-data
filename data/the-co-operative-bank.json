@@ -1,40 +1,91 @@
 {
   "id": "the-co-operative-bank",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "The Co-Operative Bank",
   "legalName": "The Co-operative Bank plc",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296091/radar/icons/The_Co-operative_Bank.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1569861961/radar/icons/the-co-operative-bank.jpg",
   "websiteUrl": "https://www.co-operativebank.co.uk/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Co-operative Banking Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296091/radar/icons/The_Co-operative_Bank.jpg",
       "providerId": "Co-operative Banking Group",
-      "percentage": 100.0,
-      "sourceUrl": "https://www.co-operativebank.co.uk/investorrelations/shareholderinformation"
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "sourceUrl": "https://www.co-operativebank.co.uk/onlinebanking/open-banking/third-party-providers"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://www.co-operativebank.co.uk/onlinebanking/open-banking/third-party-providers",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.co-operativebank.co.uk/onlinebanking/open-banking/third-party-providers",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.co-operativebank.co.uk/assets/pdf/bank/onlinebanking/The-Co-operative-Bank-Open-Banking-Platform-Overview-v3.pdf",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.co-operativebank.co.uk/assets/pdf/bank/onlinebanking/The-Co-operative-Bank-Open-Banking-Platform-Overview-v3.pdf",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.co-operativebank.co.uk/assets/pdf/bank/onlinebanking/The-Co-operative-Bank-Open-Banking-Platform-Overview-v3.pdf",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiAccess": "verifiedTpp",
   "webApplication": true,
   "mobileApps": [
     {
@@ -46,19 +97,27 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.monitise.coop&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": "https://www.co-operativebank.co.uk/investorrelations",
   "financialReports": [
     {
       "label": "2018",
       "date": "2019-02-28",
       "url": "https://www.co-operativebank.co.uk/assets/pdf/bank/investorrelations/2018-annual-report-and-accounts.pdf",
-      "type": ["annualReport"]
+      "type": [
+        "annualReport"
+      ]
     }
   ],
   "twitter": "CooperativeBank",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfFIYAA3",
-  "articles": []
+  "articles": [],
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }
