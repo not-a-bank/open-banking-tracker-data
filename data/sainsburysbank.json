@@ -1,3 +1,104 @@
-{"id": "sb","type": ["account"],"bankType": ["universal"],"name": "Sainsbury's Bank","legalName": "Sainsbury's Bank Plc","ipoStatus": "public","verified": false,"icon": "https://www.sainsburysbank.co.uk/~/media/sb/images/global/logo.png","websiteUrl": "https://www.sainsburysbank.co.uk","ownership": [],"stateOwned": false,"thirdPartyBankingLicense": null,"countryHQ": "GB","countries": ["EU"],"compliance": [{ "regulation": "PSD2","status": "inProgress"},{ "regulation": "OB","status": "ready"},{"regulation": "GDPR","status": "ready"}],"sandbox": {"status": "available","sourceUrl": "https://developer.sainsburysbank.co.uk/overview/"},"developerPortalUrl": "https://developer.sainsburysbank.co.uk/overview/","apiReferenceUrl": "https://developer.sainsburysbank.co.uk/api","apiChangelogUrl": null,"acceleratorProgramUrl": null,"apiAccess": "verifiedTpp","apiProducts": [{"label": "Account Information","type": "accountInformation","categories": ["accounts"],"description": "Securely retrieve real-time Account Information for Sainsbury's Bank personal credit card customers","documentationUrl": "https://developer.sainsburysbank.co.uk/api","apiReferenceUrl": "https://developer.sainsburysbank.co.uk/account-api","premium": false,"stage": "sandbox","specification": "OBIE-AISP"},{"label": "Account Information","type": "accountInformation","categories": ["accounts"],"description": "Securely retrieve real-time Account Information for Sainsbury's Bank personal credit card customers","documentationUrl": "https://developer.sainsburysbank.co.uk/api","apiReferenceUrl": "https://developer.sainsburysbank.co.uk/account-api","premium": false,"stage": "live","specification": "OBIE-AISP"}],"apiStandards": ["OBIE"],"apiAggregators": ["kudos",
-
-"ecospend","qbroot"],"collections": ["cma9"],"webApplication": true,"mobileApps": [{"operatingSystem": "ios"},{"operatingSystem": "android"}],"stockSymbol": "LON:SBRY","investorRelationsUrl": "https://www.about.sainsburys.co.uk/investors","financialReports": [{"label": "Annual 2019","date": "2019-02-28","url": "https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/documents/reports-and-presentations/Sainsburys-Bank-AR19_FINAL4.pdf"}],"twitter": "sainsburys_bank","crunchbase": "sainsbury-s-bank","github": null,"fca": "184514","articles": []}
+{
+  "id": "sainsburys-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Sainsbury's Bank",
+  "legalName": "Sainsbury's Bank Plc",
+  "ipoStatus": "public",
+  "stockSymbol": "LON:SBRY",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1569970122/radar/icons/sainsburys-bank.png",
+  "websiteUrl": "https://www.sainsburysbank.co.uk",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "EU"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    {
+      "regulation": "OB",
+      "status": "ready"
+    },
+    {
+      "regulation": "GDPR",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.sainsburysbank.co.uk/overview/"
+  },
+  "developerPortalUrl": "https://developer.sainsburysbank.co.uk/overview/",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.sainsburysbank.co.uk/api",
+  "apiChangelogUrl": null,
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Securely retrieve real-time Account Information for Sainsbury's Bank personal credit card customers",
+      "documentationUrl": "https://developer.sainsburysbank.co.uk/api",
+      "apiReferenceUrl": "https://developer.sainsburysbank.co.uk/account-api",
+      "premium": false,
+      "stage": "sandbox",
+      "specification": "OBIE-AISP"
+    },
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Securely retrieve real-time Account Information for Sainsbury's Bank personal credit card customers",
+      "documentationUrl": "https://developer.sainsburysbank.co.uk/api",
+      "apiReferenceUrl": "https://developer.sainsburysbank.co.uk/account-api",
+      "premium": false,
+      "stage": "live",
+      "specification": "OBIE-AISP"
+    }
+  ],
+  "apiStandards": [],
+  "apiAccess": "verifiedTpp",
+  "webApplication": true,
+  "mobileApps": [],
+  "investorRelationsUrl": "https://www.about.sainsburys.co.uk/investors",
+  "financialReports": [
+    {
+      "label": "Annual 2019",
+      "date": "2019-02-28",
+      "url": "https://www.about.sainsburys.co.uk/~/media/Files/S/Sainsburys/documents/reports-and-presentations/Sainsburys-Bank-AR19_FINAL4.pdf"
+    }
+  ],
+  "twitter": "sainsburys_bank",
+  "crunchbase": "sainsbury-s-bank",
+  "bloomberg": null,
+  "github": null,
+  "fca": "184514",
+  "articles": [],
+  "stack": [
+    "swagger-ui"
+  ],
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
