@@ -1,33 +1,94 @@
 {
   "id": "ubi-banca",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "UBI Banca",
   "legalName": "Unione di Banche Italiane S.p.A.",
   "ipoStatus": "public",
+  "stockSymbol": "BIT:UBI",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296093/radar/icons/UBI_Banca.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1570082153/radar/icons/ubi-banca.jpg",
   "websiteUrl": "https://www.ubibanca.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "IT",
-  "countries": ["IT"],
+  "countries": [
+    "IT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://www.ubibanca.com/open-banking"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
-  "apiStandards": [],
+  "developerPortalUrl": "https://www.cbiglobe.com/Wiki/?RARequestUrl=Wiki",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.cbiglobe.com/Wiki/?RARequestUrl=Wiki",
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Reads a list of bank accounts, with balances where required. It is assumed that a consent of the PSU to this access is already given and stored on the ASPSP system.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/accountInformationServices/2.3.2/accounts/get",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Enable your customers to make secure payments from their chosen bank account.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInitiationServices/2.3.2/paymentspayment-product/post",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": " https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInstrumentIssuingServices/2.3.2/funds-confirmations/post",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "OAuth2",
+      "type": "auth",
+      "description": null,
+      "categories": [
+        "auth"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/auth/v2/oauth-v2-token/post",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -39,19 +100,28 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=it.nogood.container&hl=en"
     }
   ],
-  "stockSymbol": "BIT:UBI",
   "investorRelationsUrl": "https://www.ubibanca.it/pagine/Investor-relations-EN.aspx",
   "financialReports": [
     {
       "label": "2018",
       "date": "2010-02-08",
       "url": "https://www.ubibanca.it/contenuti/file/UBI%20Banca_Consolidated%20Results_31%20December%2020181.pdf",
-      "type": ["annualReport"]
+      "type": [
+        "annualReport"
+      ]
     }
   ],
   "twitter": null,
   "crunchbase": "ubi-banca",
+  "bloomberg": null,
   "github": null,
   "fca": null,
-  "articles": []
+  "articles": [],
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }
