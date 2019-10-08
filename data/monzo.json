@@ -5,7 +5,7 @@
   "name": "Monzo",
   "legalName": "Monzo Bank Limited",
   "ipoStatus": "private",
-  "verified": false,
+  "verified": true,
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Monzo.jpg",
   "websiteUrl": "https://monzo.com/",
   "ownership": [],
@@ -22,7 +22,7 @@
     "status": "available",
     "sourceUrl": "https://monzo.com/blog/2018/01/12/api-update/"
   },
-  "developerPortalUrl": "https://monzo.com/blog/2018/01/12/api-update/",
+  "developerPortalUrl": "https://docs.monzo.com",
   "developerCommunityUrl": "https://community.monzo.com/c/developers",
   "openBankProjectUrl": null,
   "slackCommunity": false,
