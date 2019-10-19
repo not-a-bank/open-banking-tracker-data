@@ -37,11 +37,11 @@
   },
   "developerPortalUrl": "https://developer.triodos.com/",
   "developerCommunityUrl": null,
-  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.triodos.com/reference",
   "apiChangelogUrl": "https://developer.triodos.com/changelog",
+  "apiAggregators": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -53,7 +53,7 @@
       "documentationUrl": "https://developer.triodos.com/docs/account-information-service",
       "apiReferenceUrl": "https://developer.triodos.com/docs/account-information-service",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
     },
     {
       "label": "Payment Initiation Service",
@@ -65,7 +65,7 @@
       "documentationUrl": "https://developer.triodos.com/docs/payment-initiation-service",
       "apiReferenceUrl": "https://developer.triodos.com/docs/payment-initiation-service",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
     },
     {
       "label": "Confirmation of Funds Service",
@@ -77,24 +77,22 @@
       "documentationUrl": "https://developer.triodos.com/reference/confirmation-of-funds-service",
       "apiReferenceUrl": "https://developer.triodos.com/reference/confirmation-of-funds-service",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
     }
   ],
   "apiStandards": [],
   "webApplication": true,
-  "mobileApps": [
-    {
-      "operatingSystem": "ios"
-    },
-    {
-      "operatingSystem": "android"
-    }
-  ],
+  "mobileApps": [],
   "investorRelationsUrl": "https://www.triodos.com/investing/triodos-bank-depository-receipts",
   "financialReports": [],
   "bloomberg": null,
-  "github": "",
   "keySegments": [
     "teen"
-  ]
+  ],
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }

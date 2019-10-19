@@ -1,0 +1,53 @@
+{
+  "id": "nubank-br",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Nubank",
+  "description": "Finally, you're in control of your money. Total control of your credit card and the 100% digital NuConta account",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571520823/radar/icons/nubank-br.png",
+  "websiteUrl": "https://nubank.com.br/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BR",
+  "countries": [
+    "BR"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/nubank/id814456780?ls=1&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nu.production"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
