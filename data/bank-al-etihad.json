@@ -1,0 +1,53 @@
+{
+  "id": "bank-al-etihad",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Bank al Etihad",
+  "description": "Explore our diverse range of personal and business banking services including bank accounts, credit cards, loans and more. Learn more.",
+  "legalName": "Bank al Etihad",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571585446/radar/icons/bank-al-etihad.png",
+  "websiteUrl": "https://bankaletihad.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "JO",
+  "countries": [
+    "JO"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/bank-al-etihad-%D8%A8%D9%86%D9%83-%D8%A7%D9%84%D8%A5%D8%AA%D8%AD%D8%A7%D8%AF/id1060048474?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ofss.fcdb.mobile.android.phone.BAE.launcher&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
