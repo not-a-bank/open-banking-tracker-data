@@ -30,6 +30,9 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://kbcireland.dev.ca.com/admin/login?to-default-config=true&zone=topnav",
+  "apiAggregators": [
+  "banqup"
+  ],
   "apiProducts": [
      {
       "label": "Account Information Service (AIS)",
