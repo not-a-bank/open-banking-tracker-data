@@ -41,7 +41,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://portal-sandbox.openbanking.otpbank.hu",
-  "apiAggregators": [],
+  "apiAggregators": [
+  "banqup"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",
