@@ -1,0 +1,59 @@
+{
+  "id": "qonto-eu",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Qonto",
+  "description": "The neobank for SMEs and freelancers. Qonto provides a fully featured business account with a simplified accounting flow.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571965117/radar/icons/qonto-eu.jpg",
+  "websiteUrl": "https://qonto.eu",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://api-doc.qonto.eu",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://api-doc.qonto.eu",
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/fr/app/qonto-easy-business-banking/id1214811644?l=en"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=eu.qonto.qonto&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
