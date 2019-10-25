@@ -1,0 +1,67 @@
+{
+  "id": "wellsfargo",
+  "type": [
+    "account"
+  ],
+  "name": "Wells Fargo",
+  "description": "Wells Fargo: Provider of banking, mortgage, investing, credit card, and personal, small business, and commercial financial services. Learn more.",
+  "legalName": "Wells Fargo & Company",
+  "ipoStatus": "public",
+  "stockSymbol": "WFCS",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571965694/radar/icons/wellsfargo.jpg",
+  "websiteUrl": "https://www.wellsfargo.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://developer.wellsfargo.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.wellsfargo.com/",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developer.wellsfargo.com/apis/open-banking-europe/account-and-transaction-information",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": null,
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.wellsfargo.com/apis/open-banking-europe/payment-initiation",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
