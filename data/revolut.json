@@ -73,6 +73,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://www.revolut.com/en-BE/open-api",
   "apiAggregators": [
+    "truelayer",
     "salt-edge",
     "tink"
   ],

@@ -43,6 +43,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.lloydsbanking.com/",
   "apiAggregators": [
+    "truelayer",
     "klarna",
     "plaid",
     "token",
