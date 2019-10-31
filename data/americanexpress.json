@@ -59,6 +59,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.americanexpress.com/documentation",
+  "apiAggregators": [
+    "truelayer"
+  ],
   "apiProducts": [
     {
       "label": "Account Information",

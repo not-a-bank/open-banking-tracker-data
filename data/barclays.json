@@ -36,6 +36,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.barclays.com/open-banking",
   "apiAggregators": [
+    "truelayer",
     "klarna",
     "salt-edge",
     "token",

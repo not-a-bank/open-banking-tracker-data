@@ -48,7 +48,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://api.hsbc.com/",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "truelayer"
+  ],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,

@@ -27,6 +27,9 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": ["OAUTH2", "OPENID-CONNECT"],
+  "apiAggregators": [
+    "truelayer"
+  ],
   "apiProducts": [
     {
       "label": "AISP Access",
