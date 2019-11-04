@@ -25,7 +25,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.wellsfargo.com/",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "apiProducts": [
     {
       "label": "Account Information",
