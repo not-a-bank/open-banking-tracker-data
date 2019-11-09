@@ -23,7 +23,8 @@
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "ready",
+      "fallbackExemption": true
     }
   ],
   "sandbox": {
@@ -38,6 +39,18 @@
   "apiReferenceUrl": "https://www.ibanfirst.com/open-api",
   "apiAggregators": [],
   "apiProducts": [
+    {
+      "label": "Authentication",
+      "type": "auth",
+      "description": "Establish account information consent",
+      "categories": [
+        "auth"
+      ],
+      "documentationUrl": "https://www.ibanfirst.com/open-api/",
+      "apiReferenceUrl": "https://www.ibanfirst.com/open-api/",
+      "premium": false,
+      "stage": "live"
+    },
     {
       "label": "Accounts API",
       "type": "accountInformation",
