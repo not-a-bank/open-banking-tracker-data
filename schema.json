@@ -175,6 +175,10 @@
                 "type": "string",
                 "format": "uri",
                 "pattern": "^(https?|http?)://"
+              },
+              "fallbackExemption": {
+                "type": "boolean",
+                "description": "Marked true if an exemption granted from the fall back mechanism under the RTS is granted."
               }
             }
           }
