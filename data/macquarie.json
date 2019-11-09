@@ -31,6 +31,18 @@
   "apiAggregators": [],
   "apiProducts": [
     {
+      "label": "Authentication",
+      "type": "auth",
+      "description": "Establish account information consen",
+      "categories": [
+        "auth"
+      ],
+      "documentationUrl": "https://developer.macquariebank.io/devportal/#api",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
       "label": "Accounts API",
       "type": "accountInformation",
       "categories": [
@@ -40,7 +52,7 @@
       "documentationUrl": "https://developer.macquariebank.io/devportal/#api",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "production"
+      "stage": "live"
     },
     {
       "label": "DEFT API",
@@ -52,7 +64,7 @@
       "documentationUrl": "https://developer.macquariebank.io/devportal/#api",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "production"
+      "stage": "live"
     }
   ],
   "apiStandards": [],

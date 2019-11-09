@@ -1,0 +1,82 @@
+{
+  "id": "ibanfirst",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "corporate"
+  ],
+  "name": "iBanFirst",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1573263309/radar/icons/ibanfirst.jpg",
+  "websiteUrl": "https://ibanfirst.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": [
+    "BE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.ibanfirst.com/open-api"
+  },
+  "developerPortalUrl": "https://www.ibanfirst.com/open-api",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.ibanfirst.com/open-api",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Access to accounts, balances, transactions",
+      "documentationUrl": "https://www.ibanfirst.com/open-api/",
+      "apiReferenceUrl": "https://www.ibanfirst.com/open-api/",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Payment initiation request",
+      "documentationUrl": "https://www.ibanfirst.com/open-api/",
+      "apiReferenceUrl": "https://www.ibanfirst.com/open-api/",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "https://twitter.com/iBanFirst_EN",
+  "bloomberg": null,
+  "stack": [
+    "swagger-ui"
+  ],
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
