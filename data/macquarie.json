@@ -1,0 +1,82 @@
+{
+  "id": "macquarie",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Macquarie Group",
+  "description": "A global provider of banking, advisory, trading, asset management and retail financial services.",
+  "legalName": "Macquarie Group Limited",
+  "ipoStatus": "public",
+  "stockSymbol": "MIC",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1573258067/radar/icons/macquarie.png",
+  "websiteUrl": "https://www.macquarie.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AU",
+  "countries": [
+    "AU"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://developer.macquariebank.io/devportal",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.macquariebank.io/devportal",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "The Accounts API provides secure access to an authorised user's account data for checking balances and fetching transaction history.",
+      "documentationUrl": "https://developer.macquariebank.io/devportal/#api",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "DEFT API",
+      "type": "paymentInitiation",
+      "description": "The DEFT API provides a secure and fast way to accept payments, allowing businesses to improve their cash flow by getting paid faster.",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.macquariebank.io/devportal/#api",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/au/app/macquarie-securities-research/id456095077?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.carryquote.v3.intellicast.macquarie"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [
+    "apigee"
+  ],
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
