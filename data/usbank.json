@@ -1,0 +1,72 @@
+{
+  "id": "usbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "U.S. Bank",
+  "description": "Bank smarter with U.S. Bank and browse personal and consumer banking services including checking and savings accounts, mortgages, home equity loans, and more.",
+  "legalName": "U.S. Bank National Association",
+  "ipoStatus": "public",
+  "stockSymbol": "USBS",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1573398527/radar/icons/usbank.jpg",
+  "websiteUrl": "https://www.usbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://developer.usbank.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.usbank.com/",
+  "apiAggregators": [
+    "plaid"
+  ],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "The authorized access to consumer account details and create offerings to improve the financial services experience.",
+      "documentationUrl": "https://developer.usbank.com/api-library/accounts/ver-1.0",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Transactions",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": " The Transactions API gives financial technology companies and data intermediaries authorized access to U.S. Bank customer account details.",
+      "documentationUrl": "https://developer.usbank.com/api-library/transactions/ver-1.0",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
