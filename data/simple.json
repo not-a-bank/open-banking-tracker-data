@@ -1,0 +1,55 @@
+{
+  "id": "simple",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Simple",
+  "description": "Simple is online banking with superhuman customer service and tools to help you easily budget and save, right inside your account.",
+  "legalName": "Simple Finance Technology Corp.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1573410304/radar/icons/simple.jpg",
+  "websiteUrl": "https://www.simple.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [
+    "teller-io"
+  ],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/simple-better-banking/id479317486?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.banksimple"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
