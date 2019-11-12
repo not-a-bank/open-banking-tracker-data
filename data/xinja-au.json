@@ -1,0 +1,53 @@
+{
+  "id": "xinja-au",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Xinja",
+  "description": "Xinja will make it quick, easy and fun to track your spending, save for what you want and get a lot more out of your money. All on your mobile. Join us.",
+  "legalName": null,
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1573519378/radar/icons/xinja-au.png",
+  "websiteUrl": "https://xinja.com.au/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AU",
+  "countries": [
+    "AU"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/au/app/xinja/id1477315781"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=au.com.xinja.bank"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
