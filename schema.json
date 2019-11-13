@@ -535,6 +535,51 @@
         }
       ]
     },
+    "sdks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "emum": [
+              "php",
+              "node",
+              "csharp",
+              "java",
+              "python"
+            ],
+            "examples": ["php"]
+          },
+          "official": {
+            "type": "boolean",
+            "examples": [true]
+          },
+          "githubUrl": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^(https?|http?)://",
+            "description": "GitHub url to the SDK",
+            "examples": ["https://github.com/bunq/sdk_php"]
+          }
+        }
+      }
+    },
+    "postmanCollections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "githubUrl": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^(https?|http?)://",
+            "description": "GitHub Url to the Postman collection",
+            "examples": ["https://github.com/bunq/postman"]
+          }
+        }
+      }
+    },
     "twitter": {
       "anyOf": [
         {
