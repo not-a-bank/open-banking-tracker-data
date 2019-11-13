@@ -1,21 +1,30 @@
 {
   "id": "bunq",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "bunq",
-  "legalName": "bunq b.v.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/bunq",
   "description": "Building the bank of tomorrow, today.",
+  "legalName": "bunq b.v.",
   "ipoStatus": "private",
-  "verified": true,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Bunq.jpg",
-  "websiteUrl": "https://www.bunq.com/",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1573615829/radar/icons/bunq.jpg",
+  "websiteUrl": "https://bunq.com",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "NL",
-  "countries": ["EU","NO","IS"],
+  "countries": [
+    "EU",
+    "NO",
+    "IS"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -24,11 +33,22 @@
     "status": "available"
   },
   "developerPortalUrl": "https://doc.bunq.com/#/psd2",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.bunq.com/api",
+  "apiAggregators": [
+    "klarna",
+    "tink"
+  ],
   "apiProducts": [
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Retrieve details of an account such as balance transactions, balance and details and more.",
       "documentationUrl": "https://doc.bunq.com#psd2",
       "apiReferenceUrl": "https://doc.bunq.com#psd2",
@@ -38,7 +58,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Initiate single and scheduled payments. Retrieve information on the status of the transaction.",
       "documentationUrl": "https://doc.bunq.com#psd2",
       "apiReferenceUrl": "https://doc.bunq.com#psd2",
@@ -48,7 +70,9 @@
     {
       "label": "Funds Confirmation",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": "Receive a confirmation of available funds to cover a proposed transaction amount.",
       "documentationUrl": "https://doc.bunq.com",
       "apiReferenceUrl": "https://doc.bunq.com",
@@ -58,7 +82,9 @@
     {
       "label": "Card Management",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "Order and manage bank cards programmatically.",
       "documentationUrl": "https://doc.bunq.com",
       "apiReferenceUrl": "https://doc.bunq.com",
@@ -67,26 +93,49 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [
-    "klarna",
-    "tink"
+  "sdks": [
+    {
+      "official": true,
+      "type": "php",
+      "githubUrl": "https://github.com/bunq/sdk_php"
+    },
+    {
+      "official": true,
+      "type": "python",
+      "githubUrl": "https://github.com/bunq/sdk_python"
+    },
+    {
+      "official": true,
+      "type": "csharp",
+      "githubUrl": "https://github.com/bunq/sdk_csharp"
+    },
+    {
+      "official": true,
+      "type": "java",
+      "githubUrl": "https://github.com/bunq/sdk_java"
+    }
   ],
-  "webApplication": false,
+  "postmanCollections": [
+    {
+      "githubUrl": "https://github.com/bunq/postman"
+    }
+  ],
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/be/app/bunq/id1021178150?mt=8"
+      "storeUrl": "https://itunes.apple.com/nl/app/bunq/id1021178150?l=en&mt=8"
     },
     {
       "operatingSystem": "android",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.bunq.android&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [],
-  "twitter": "bunq",
+  "twitter": "https://twitter.com/bunq",
   "crunchbase": "bunq",
+  "bloomberg": null,
   "github": "bunq",
   "fca": null,
   "articles": [
@@ -94,5 +143,12 @@
       "url": "https://medium.com/bunq-developers-corner/bunq-api-update-psd2-endpoints-impact-on-existing-integrations-8eb88eb58745",
       "date": "2019-06-14"
     }
-  ] 
+  ],
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
 }
