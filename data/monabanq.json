@@ -1,0 +1,103 @@
+{
+  "id": "monabanq",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Monabanq",
+  "description": "Monabanq is a French online bank founded in 2006 and based in Villeneuve-d'Ascq, in the north of France in the Lille metropolis.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1573873033/radar/icons/monabanq.jpg",
+  "websiteUrl": "https://www.monabanq.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://www.monabanq.com/oauth2/fr/devportal/index.html",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.monabanq.com/fr/index.html#ei_tpl_footer",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "AISP - Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://www.monabanq.com/oauth2/fr/devportal/stetpsd2-spec.html#/AISP",
+      "apiReferenceUrl": "https://www.monabanq.com/oauth2/fr/devportal/stetpsd2-spec.html#/AISP",
+      "swaggerSpecUrl": "https://cdnii.e-i.com/SDAR/sd/psd2/0.11.3/monabanq/docs/specs/StetPsd2Api.yaml",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "PISP - Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://www.monabanq.com/oauth2/fr/devportal/stetpsd2-spec.html#/PISP",
+      "apiReferenceUrl": "https://www.monabanq.com/oauth2/fr/devportal/stetpsd2-spec.html#/PISP",
+      "swaggerSpecUrl": "https://cdnii.e-i.com/SDAR/sd/psd2/0.11.3/monabanq/docs/specs/StetPsd2Api.yaml",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "CBPII - Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": null,
+      "documentationUrl": "https://www.monabanq.com/oauth2/fr/devportal/stetpsd2-spec.html#/CBPII",
+      "apiReferenceUrl": "https://www.monabanq.com/oauth2/fr/devportal/stetpsd2-spec.html#/CBPII",
+      "swaggerSpecUrl": "https://cdnii.e-i.com/SDAR/sd/psd2/0.11.3/monabanq/docs/specs/StetPsd2Api.yaml",
+      "stage": "live",
+      "premium": false
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/fr/app/monabanq/id1438530400"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.mona_prod.bad&hl=fr"
+    }
+  ],
+  "financialReports": [],
+  "wikipediaUrl": "https://fr.wikipedia.org/wiki/Monabanq",
+  "bloomberg": null,
+  "bankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
