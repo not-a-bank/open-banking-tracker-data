@@ -22,11 +22,16 @@
     "JP"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://innovation.mufg.jp/api/"
+  },
+  "developerPortalUrl": "https://innovation.mufg.jp/api/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiReferenceUrl": "https://innovation.mufg.jp/api/",
   "apiAggregators": [],
   "apiProducts": [],
   "apiStandards": [],
