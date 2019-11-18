@@ -1,33 +1,89 @@
 {
   "id": "ubs",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "UBS",
+  "description": "UBS Group AG is a Swiss multinational investment bank and financial services company founded and based in Switzerland.",
   "legalName": "UBS Group AG",
   "ipoStatus": "public",
+  "stockSymbol": "SWX:UBSG",
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296094/radar/icons/UBS.jpg",
   "websiteUrl": "https://www.ubs.com/global/en.html",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "CH",
-  "countries": ["CH","DE","IT"],
+  "countries": [
+    "CH",
+    "DE",
+    "IT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "unavailable"
+    "status": "available",
+    "source": "https://nextdigitalbanking.com/ubs-launches-direct-developer-portal?lang=en"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://xs2a-devportal.ubs.com/",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
-  "apiProducts": [],
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
+  "apiChangelogUrl": null,
   "apiAggregators": [
     "klarna"
   ],
+  "apiProducts": [
+    {
+      "label": "AIS - Access user bank accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
+      "apiReferenceUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "PIS - Initialize, release and delete payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
+      "apiReferenceUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "CAF - Check the available liquidity on accounts",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": null,
+      "documentationUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
+      "apiReferenceUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
+      "stage": "live",
+      "premium": false
+    }
+  ],
   "apiStandards": [],
+  "sdks": null,
+  "postmanCollections": null,
   "webApplication": true,
   "mobileApps": [
     {
@@ -39,19 +95,30 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.ubs.swidKXJ.android&hl=en"
     }
   ],
-  "stockSymbol": "SWX:UBSG",
   "investorRelationsUrl": "https://www.ubs.com/global/en/about_ubs/investor_relations",
   "financialReports": [
     {
       "label": "2018",
       "date": "2019-01-22",
       "url": "https://www.ubs.com/content/dam/static/epaper/index.html?id=2f79bb2d",
-      "type": ["annualReport"]
+      "type": [
+        "annualReport"
+      ]
     }
   ],
   "twitter": "UBS",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/UBS",
   "crunchbase": "ubs",
-  "github": null,
+  "bloomberg": null,
+  "github": "https://github.com/UBS-IB",
   "fca": "001b000000MfF5lAAF",
-  "articles": []
+  "articles": [],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "pricingUrl": null,
+  "awards": []
 }
