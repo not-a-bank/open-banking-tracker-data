@@ -1,0 +1,55 @@
+{
+  "id": "bankopen-co",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Open",
+  "description": "Open is a neobanking platform that allows businesses to create GST invoices, send & receive payments, manage cash-flows, & automate payment reconciliations, all in one place.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574140044/radar/icons/bankopen-co.jpg",
+  "websiteUrl": "https://www.bankopen.co/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IN",
+  "countries": [
+    "IN"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developers.bankopen.co"
+  },
+  "developerPortalUrl": "https://developers.bankopen.co",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://documenter.getpostman.com/view/2544367/RW1dExTB",
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "BankWithOpen",
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
