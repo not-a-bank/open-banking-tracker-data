@@ -316,6 +316,34 @@
         }
       ]
     },
+    "acceleratorProgram": {
+      "anyOf": [
+        { "type": "null" },
+        { 
+          "type": "object",
+          "properties": {
+            "url": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^(https?|http?)://",
+              "description": "Url to the accelerator program",
+              "examples": ["https://otpstartup.com/"]
+            },
+            "description": {
+              "type": "string",
+              "examples": ["The OTP Bank Startup Program is a free, non-equity accelerator program. Applicants are welcome from all around the world."]
+            },
+            "sourceUrl": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^(https?|http?)://",
+              "description": "Url to the press release or news article",
+              "examples": ["https://www.finextra.com/pressarticle/75939/otp-bank-invites-applications-for-startup-accelerator"]
+            }
+          }
+        }
+      ]
+    },
     "apiAuth": {
       "anyOf": [
         { "type": "null" },
@@ -591,6 +619,32 @@
         },
         {
           "type": "null"
+        }
+      ]
+    },
+    "partnerships": {
+      "anyof": [
+        { "type": "null" },
+        {
+          "type": "array",
+          "required": [
+            "name"
+          ],
+          "items": {
+            "id": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string",
+              "description": "Partner name"
+            },
+            "sourceUrl": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^(https?|http?)://",
+              "description": "Source url to the press article or news source"
+            }
+          }
         }
       ]
     },
