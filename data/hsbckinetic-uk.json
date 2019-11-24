@@ -1,0 +1,80 @@
+{
+  "id": "hsbckinetic-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "HSBC Kinetic",
+  "description": "Kinetic is our groundbreaking new business banking app. Join the beta community today and enjoy no monthly fees for a year plus benefits from world leading brands.",
+  "legalName": "HSBC Group Management Services Limited",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "beta",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574564767/radar/icons/hsbckinetic-uk.jpg",
+  "websiteUrl": "https://www.hsbckinetic.co.uk/",
+  "ownership": [
+    {
+      "providerId": "hsbc-uk",
+      "shareholderName": "HSBC",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1567667790/catalog/hsbc-uk/icon128x128.png",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    },
+    {
+      "regulation": "OBUK",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "keySegments": [
+    "sme"
+  ],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "id": "mulesoft-anypoint",
+      "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
+    },
+    {
+      "id": "salesforce-service-cloud",
+      "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
+    },
+    {
+      "id": "salesforce-community-cloud",
+      "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
+    }
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "awards": []
+}
