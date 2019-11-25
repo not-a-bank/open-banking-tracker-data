@@ -1,0 +1,64 @@
+{
+  "id": "razorpayx",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "RazorpayX",
+  "description": "RazorpayX helps to simplify, accelerate, and automate every aspect of your banking operations – accept payments, manage cash flows, reconcile transactions and enable flexible payouts.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574646073/radar/icons/razorpayx.jpg",
+  "websiteUrl": "https://razorpay.com/x/",
+  "ownership": [
+    {
+      "providerId": "razorpay",
+      "shareholderName": "Razorpay",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1572573162/catalog/razorpay/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "IN",
+  "countries": [
+    "IN"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://razorpay.com/docs",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://razorpay.com/docs/api",
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Razorpay",
+  "bloomberg": null,
+  "github": "https://github.com/razorpay",
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "id": "rblbank",
+      "description": "The new corporate credit card, issued by RBL Bank, will allow businesses to access credit between Rs 50,000 ($700) and Rs 25,00,000 ($34,800). If they are able to pay it back in within 50 days, they will avoid any interest.",
+      "sourceUrl": "https://techcrunch.com/2019/11/22/razorpay-credit-card-current-account-neo-bank/"
+    }
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "awards": []
+}
