@@ -1,0 +1,122 @@
+{
+  "id": "volkswagen-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "corporate"
+  ],
+  "name": "Volkswagen Bank",
+  "description": "The Volkswagen Bank GmbH is a German financial institution with headquarters in Braunschweig and was established in June 1949 in Wolfsburg founded under the name \"Volkswagen Financial Services\". It is a wholly owned subsidiary of Volkswagen AG.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574652018/radar/icons/volkswagen-bank.png",
+  "websiteUrl": "https://www.vwfs.de/",
+  "ownership": [
+    {
+      "providerId": "volkswagen",
+      "shareholderName": "Volkswagen",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1574651993/catalog/volkswagen/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.vwfs.de/geschaeftskunden/service/api.html"
+  },
+  "developerPortalUrl": "https://www.vwfs.de/geschaeftskunden/service/api.html",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "AISP Accounts - Manage users bank accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "apiReferenceUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "stage": "sandbox",
+      "premium": false
+    },
+    {
+      "label": "AISP Consents Management - Account Information Consent Management API",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "apiReferenceUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "stage": "sandbox",
+      "premium": false
+    },
+    {
+      "label": "PISP - PISP Initialize and manage user payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "apiReferenceUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "stage": "sandbox",
+      "premium": false
+    },
+    {
+      "label": "PIISP - Check if a given amount can be covered by the available liquidity on accounts",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": null,
+      "documentationUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "apiReferenceUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "stage": "sandbox",
+      "premium": false
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://de.wikipedia.org/wiki/Volkswagen_Bank",
+  "bloomberg": null,
+  "stack": [
+    "ndgit",
+    "onespan"
+  ],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "id": "onespan",
+      "description": "Volkswagen Bank Secures Mobile Transactions and Meets PSD2 Requirements with OneSpan’s Mobile Security Suite",
+      "sourceUrl": "https://dailystockdish.com/volkswagen-bank-secures-mobile-transactions-and-meets-psd2-requirements-with-onespans-mobile-security-suite/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
