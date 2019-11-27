@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574652018/radar/icons/volkswagen-bank.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574855820/radar/icons/volkswagen-bank.jpg",
   "websiteUrl": "https://www.vwfs.de/",
   "ownership": [
     {
@@ -112,6 +112,9 @@
   "creditCards": [],
   "partnerships": [
     {
+      "name": "OneSpan",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574651634/catalog/onespan/icon128x128.jpg",
+      "websiteUrl": "https://www.onespan.com/",
       "id": "onespan",
       "description": "Volkswagen Bank Secures Mobile Transactions and Meets PSD2 Requirements with OneSpan’s Mobile Security Suite",
       "sourceUrl": "https://dailystockdish.com/volkswagen-bank-secures-mobile-transactions-and-meets-psd2-requirements-with-onespans-mobile-security-suite/"
