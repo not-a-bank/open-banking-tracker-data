@@ -25,7 +25,9 @@ If you want to be removed from the tracker, send in a pull request with the reas
 
 ## License
 
-MIT License. Please see the [license file](https://github.com/apideck-io/open-banking-tracker-data/blob/master/LICENSE) for more information.
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Please see the [license file](https://github.com/apideck-io/open-banking-tracker-data/blob/master/LICENSE.md) for more information.
+
+Commercial licenses available on request [contact us](mailto:data@banq.ai)
 
 ## About
 
