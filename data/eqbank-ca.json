@@ -1,0 +1,76 @@
+{
+  "id": "eqbank-ca",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "EQ Bank",
+  "description": "Equitable Bank is a Canadian bank founded in 1970. The bank provides residential and commercial real estate lending services. In 2013, it became a Schedule I Bank offering savings products. It is now Canada’s ninth largest independent bank, with more than $25 billion in assets under management. ",
+  "legalName": "Equitable Bank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574826249/radar/icons/eqbank-ca.png",
+  "websiteUrl": "https://www.eqbank.ca/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/ca/app/eq-bank-mobile-banking/id1039432211?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.eqbank.eqbank&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "EQBank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Equitable_Bank",
+  "bloomberg": null,
+  "stack": [
+    "temenos-t24-transact",
+    "microsoft-azure"
+  ],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "id": "temenos-t24-transact",
+      "description": "The challenger brand says the shift of its architecture to Microsoft Azure will reduce overheads and ready the bank for up-an-coming innovations in open Banking. The move is supported by long-term technology partner Temenos and will utilise the Swiss supplier's cloud-native T24 Transact product.",
+      "sourceUrl": "https://www.finextra.com/newsarticle/34823/canadas-eq-bank-moves-core-banking-system-to-the-cloud"
+    },
+    {
+      "id": "microsoft-azure",
+      "description": "The challenger brand says the shift of its architecture to Microsoft Azure will reduce overheads and ready the bank for up-an-coming innovations in open Banking. The move is supported by long-term technology partner Temenos and will utilise the Swiss supplier's cloud-native T24 Transact product.",
+      "sourceUrl": "https://www.finextra.com/newsarticle/34823/canadas-eq-bank-moves-core-banking-system-to-the-cloud"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
