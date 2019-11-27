@@ -1,0 +1,84 @@
+{
+  "id": "ikanobank-se",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Ikano Bank",
+  "description": "Ikano Bank is a consumer finance bank established in 1995 by Ingvar Kamprad (the founder of IKEA).",
+  "legalName": "Ikano Bank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574467196/radar/icons/ikanobank-se.jpg",
+  "websiteUrl": "https://ikanobank.se/",
+  "ownership": [
+    {
+      "shareholderName": "Ikano Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1574473457/catalog/ikano-group/icon128x128.png",
+      "providerId": "ikano-group",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "SE",
+  "countries": [
+    "SE",
+    "DE",
+    "PL",
+    "AT",
+    "FI",
+    "RU"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://open.bank.ikano/"
+  },
+  "developerPortalUrl": "https://open.bank.ikano/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://open.bank.ikano/",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API Sandbox",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://eu1.anypoint.mulesoft.com/exchange/portals/ikano/7e687ba7-3014-4b8c-b748-b440a3578597/account-and-transaction-api-sandbox/",
+      "apiReferenceUrl": "https://eu1.anypoint.mulesoft.com/exchange/portals/ikano/7e687ba7-3014-4b8c-b748-b440a3578597/account-and-transaction-api-sandbox/",
+      "stage": "sandbox",
+      "premium": false
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Ikanobank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ikano_Bank",
+  "bloomberg": null,
+  "stack": [
+    "mulesoft-anypoint"
+  ],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "platforms": [],
+  "awards": []
+}
