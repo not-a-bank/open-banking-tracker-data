@@ -1,0 +1,56 @@
+{
+  "id": "axosbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Axos Bank",
+  "description": "Axos Bank, a digital bank with the highest level of security and privacy, offers a comprehensive range of online banking products and services.",
+  "legalName": "Axos Bank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574966180/radar/icons/axosbank.jpg",
+  "websiteUrl": "https://www.axosbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "AxosBank",
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Glance",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574956589/catalog/glance-net/icon128x128.jpg",
+      "websiteUrl": "https://ww2.glance.net/",
+      "id": "glance-net",
+      "desription": "Glance will help Axos Bank offer its commercial and retail clients real-time visual engagement sessions that deliver a more personalized customer experience. Specifically, Axos will use Glance to navigate the online interface, pay bills, transfer funds, and apply for new banking products.",
+      "sourceUrl": "https://finovate.com/glance-powers-visual-customer-engagement-for-axos-bank/",
+      "sourceDate": "2019-11-26"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
