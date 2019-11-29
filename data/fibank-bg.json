@@ -1,0 +1,118 @@
+{
+  "id": "fibank-bg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "First Investment Bank Първа инвестиционна банка",
+  "description": "First Investment Bank or Fibank, founded on 8 October 1993, is currently the third largest Bulgarian bank. The bank is the mother bank of a financial group on the Balkans - it has a branch in Albania with 10 offices, one in Cyprus, as well as a subsidiary bank in Macedonia. First Investment Bank also controls CaSys International - an international card operator based in Skopje, Republic of Macedonia.",
+  "legalName": "First Investment Bank AD",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1575028056/radar/icons/fibank-bg.jpg",
+  "websiteUrl": "https://www.fibank.bg/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BG",
+  "countries": [
+    "BG"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.fibank.bg/en/psd-2-open-banking/page/4913"
+  },
+  "developerPortalUrl": "https://psd2dev.fibank.bg",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://psd2dev.fibank.bg",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://psd2dev.fibank.bg/fibank/psd2/product/29",
+      "apiReferenceUrl": "https://psd2dev.fibank.bg/fibank/psd2/product/29/api/6",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://psd2dev.fibank.bg/fibank/psd2/product/30",
+      "apiReferenceUrl": "https://psd2dev.fibank.bg/fibank/psd2/product/30/api/8",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://psd2dev.fibank.bg/fibank/psd2/product/28/",
+      "apiReferenceUrl": "https://psd2dev.fibank.bg/fibank/psd2/product/28/api/12",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": null,
+      "documentationUrl": "https://psd2dev.fibank.bg/fibank/psd2/product/27",
+      "apiReferenceUrl": "https://psd2dev.fibank.bg/fibank/psd2/product/27/api/10",
+      "stage": "live",
+      "premium": false
+    }
+  ],
+  "apiStandards": [
+    "BERLIN",
+    "BISTRA"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Fibank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/First_Investment_Bank",
+  "bloomberg": null,
+  "articles": [
+    {
+      "url": "https://www.verdict.co.uk/retail-banker-international/news/fibank-launches-open-banking/",
+      "date": "2019-11-27"
+    }
+  ],
+  "stack": [
+    "ibm-api-connect"
+  ],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "platforms": [],
+  "awards": []
+}
