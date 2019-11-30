@@ -1,26 +1,36 @@
 {
   "id": "op-financial-group",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
-  "legalName": "OP Osuuskunta",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "OP Financial Group",
+  "description": null,
+  "legalName": "OP Osuuskunta",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/OP_Financial_Group.png",
   "websiteUrl": "https://www.op.fi/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Co-Operative of Finnish Banks",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/OP_Financial_Group.png",
       "providerId": null,
-      "percentage": 100.0
+      "percentage": 100
     }
   ],
   "stateOwned": true,
   "countryHQ": "FI",
-  "countries": ["FI"],
+  "countries": [
+    "FI"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -30,11 +40,22 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://op-developer.fi/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://op-developer.fi/",
+  "apiChangelogUrl": null,
+  "apiAggregators": [
+    "klarna"
+  ],
   "apiProducts": [
-     {
+    {
       "label": "Accounts V3.0",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Effortless access to account and transaction information.",
       "documentationUrl": "https://op-developer.fi/docs/#Banking",
       "apiReferenceUrl": "https://op-developer.fi/docs/api/3Oo5zCujXGw2SGEi00skug/Accounts%20V3.0",
@@ -44,7 +65,9 @@
     {
       "label": "Payments",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://op-developer.fi/docs/#Banking",
       "apiReferenceUrl": "https://op-developer.fi/docs/api/3q56PNZ49yiYWOCuAOYU40/Payments",
@@ -54,7 +77,9 @@
     {
       "label": "Transfers",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://op-developer.fi/docs/#Banking",
       "apiReferenceUrl": "https://op-developer.fi/docs/api/3q56PNZ49yiYWOCuAOYU40/Payments#tag/Transfer",
@@ -64,7 +89,9 @@
     {
       "label": "OP-Yrityssiirto",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "The API allows merchants to pay real time transfers directly to consumers’ bank accounts.",
       "documentationUrl": "https://op-developer.fi/docs/#Banking",
       "apiReferenceUrl": "https://maksu.pivo.fi/docs/",
@@ -74,7 +101,9 @@
     {
       "label": "One-off Loan API (v2)",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": null,
       "documentationUrl": "https://op-developer.fi/docs/#Banking",
       "apiReferenceUrl": "https://op-developer.fi/docs/api/6OC4VgQIY8Sg4EsGa8E0OG/One-off%20Loan",
@@ -84,7 +113,9 @@
     {
       "label": "Pivo Payment",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Finland’s largest mobile wallet payment solution is designed to make paying online easy and fast. The API supports online, in-app and Facebook messenger.",
       "documentationUrl": "https://op-developer.fi/docs/#Banking",
       "apiReferenceUrl": "https://maksu.pivo.fi/docs/",
@@ -94,7 +125,9 @@
     {
       "label": "Payment Highway",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Payment Highway offers Finland’s best app payment experience. The APIs enable one-click payments and recurring charging in-app and on the web.",
       "documentationUrl": "https://www.paymenthighway.io/",
       "apiReferenceUrl": null,
@@ -104,7 +137,9 @@
     {
       "label": "Accounts with AI (v2.0.0)",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Accounts with AI 2.0: Accounts with AI APIs provide access points to basic, enriched, and predictive information on accounts and transactions.",
       "documentationUrl": "https://op-developer.fi/docs/#Banking",
       "apiReferenceUrl": "https://op-developer.fi/docs/api/6mU2J4ZntSISWMiOmueYKG/Accounts-2.0",
@@ -113,9 +148,8 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [
-    "klarna"
-  ],
+  "sdks": null,
+  "postmanCollections": null,
   "webApplication": true,
   "mobileApps": [
     {
@@ -127,12 +161,35 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=fi.op.android.opmobiili&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": "https://www.op.fi/common/pohjola-s-insurances-have-been-moved",
   "financialReports": [],
   "twitter": "OP_Ryhma",
+  "wikipediaUrl": null,
   "crunchbase": "op-financial-group",
+  "bloomberg": null,
   "github": null,
-  "fca": null,
-  "articles": []
+  "articles": [],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Nordic API Gateway",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569691786/catalog/nordicapigateway/icon128x128.jpg",
+      "websiteUrl": "https://www.nordicapigateway.com/",
+      "id": "nordicapigateway",
+      "title": "Finland’s OP Financial Group accelerates open banking push",
+      "desription": "The financial services group, which is made up of about 150 banks, is working with fintech Nordic API Gateway to access its open banking platform to add open banking functionality to its customers.",
+      "sourceUrl": "https://www.computerweekly.com/news/252474671/Finlands-OP-Financial-accelerates-open-banking-push",
+      "sourceDate": "2019-11-27",
+      "features": [
+        "account-aggregation"
+      ]
+    }
+  ],
+  "platforms": [],
+  "pricingUrl": null,
+  "awards": []
 }
