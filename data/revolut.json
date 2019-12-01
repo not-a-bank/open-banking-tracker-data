@@ -12,7 +12,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568787548/radar/icons/revolut.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Revolut.jpg",
   "websiteUrl": "https://www.revolut.com",
   "ownership": [],
   "stateOwned": false,
@@ -51,7 +51,8 @@
     "SI",
     "ES",
     "SE",
-    "GB"
+    "GB",
+    "CA"
   ],
   "compliance": [
     {
@@ -65,17 +66,18 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://www.revolut.com/en-BE/open-api"
+    "sourceUrl": "https://blog.revolut.com/introducing-revolut-for-business-open-api/"
   },
   "developerPortalUrl": "https://www.revolut.com/en-BE/open-api",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://www.revolut.com/en-BE/open-api",
   "apiAggregators": [
-    "truelayer",
     "salt-edge",
-    "tink"
+    "tink",
+    "truelayer"
   ],
   "apiProducts": [
     {
@@ -134,5 +136,27 @@
       "url": "https://blog.revolut.com/introducing-revolut-for-business-open-api/",
       "date": "2018-05-17"
     }
-  ]
+  ],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Modulr",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575220013/catalog/modulrfinance/icon128x128.png",
+      "websiteUrl": "https://www.modulrfinance.com/",
+      "id": "modulrfinance",
+      "title": "Revolut supports direct debits in the UK",
+      "desription": "Fintech startup Revolut is adding a key feature for users who want to replace their traditional bank account altogether. You can now pay with GBP direct debits. Revolut  already added EUR direct debits last year.",
+      "sourceUrl": "https://www.businessinsider.com/tandem-partnered-with-truelayer-to-enable-account-aggregation-2019-11?r=US&IR=T",
+      "sourceDate": "2019-11-28",
+      "features": [
+        "direct-debit-payments"
+      ]
+    }
+  ],
+  "platforms": [],
+  "awards": []
 }
