@@ -225,6 +225,19 @@
         }
       ]
     },
+    "developerSuccesStoriesUrl": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://",
+          "description": "Success stories and examples from developers",
+          "examples": ["https://sandbox.yesdeveloper.in/success-stories"]
+        }, {
+          "type": "null"
+        }
+      ]
+    },
     "apiAggregators": {
       "anyOf": [
         {
