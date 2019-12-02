@@ -1,35 +1,44 @@
 {
   "id": "yolt",
-  "type": ["third-party"],
-  "name": "yolt",
+  "type": [
+    "third-party"
+  ],
+  "name": "Yolt",
+  "description": "Know where you're at with your money. Yolt provides an easy and enjoyable way to manage money from your UK bank accounts in one single app.",
   "legalName": "yolt",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1562684423/radar/icons/yolt.jpg",
-  "websiteUrl": "https://www.yolt.com/",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1575254587/radar/icons/yolt.jpg",
+  "websiteUrl": "https://yolt.com",
   "ownership": [
-    { 
+    {
       "shareholderName": "ING",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/ING_Groep.png",
       "providerId": "ing",
-      "percentage": 100.0,
-      "sourceUrl": "https://www.yolt.com/"
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "NL",
-  "countries": ["GB","FR","IT"],
+  "countries": [
+    "GB",
+    "FR",
+    "IT"
+  ],
   "compliance": [],
   "sandbox": {
     "status": "available"
   },
-  "developerPortalUrl": "https://www.yolt.com/business",
+  "developerPortalUrl": "https://developer.yolt.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
-  "apiAuth": null,
-  "apiReferenceUrl": null,
-  "apiProducts": null,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.yolt.com/",
+  "apiAggregators": [],
+  "apiProducts": [],
   "apiStandards": [],
   "webApplication": false,
   "mobileApps": [
@@ -42,14 +51,15 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.yolt.android&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
-  "financialReports": null,
-  "twitter": "getyolt",
+  "financialReports": [],
+  "twitter": "https://twitter.com/getyolt",
   "crunchbase": "yolt-2",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfF4VAAV",
   "articles": null,
+  "thirdPartyBankingLicense": null,
   "customers": {
     "consumer": [
       {
@@ -74,11 +84,13 @@
   "strategies": [
     "cardCoagulator"
   ],
-  "debitCards": null,
-  "applePay": false, 
-  "googlePay": false, 
-  "samsungPay": false, 
-  "fitbitPay": false, 
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "fscsProtected": false,
   "products": {
     "currentAccounts": {
@@ -97,9 +109,78 @@
     "pfm": true,
     "internationalMoneyTransfers": true
   },
-  "partnerships": null, 
-  "platforms": [
-    "mobile"
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "monzo",
+      "name": "Monzo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565589049/catalog/monzo/icon128x128.jpg",
+      "websiteUrl": "https://monzo.com/"
+    },
+    {
+      "id": "starlingbank",
+      "name": "Starling Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565353318/catalog/starlingbank/icon128x128.jpg",
+      "websiteUrl": "https://starlingbank.com"
+    },
+    {
+      "id": "hsbc-uk",
+      "name": "HSBC",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567667790/catalog/hsbc-uk/icon128x128.png",
+      "websiteUrl": "https://hsbc.co.uk"
+    },
+    {
+      "id": "rbs-uk",
+      "name": "RBS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567671201/catalog/rbs-uk/icon128x128.jpg",
+      "websiteUrl": "https://rbs.co.uk"
+    },
+    {
+      "id": "natwest",
+      "name": "NatWest",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567671203/catalog/natwest/icon128x128.jpg",
+      "websiteUrl": "https://www.natwest.com"
+    },
+    {
+      "id": "lloydsbank",
+      "name": "Lloyds Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567671205/catalog/lloydsbank/icon128x128.jpg",
+      "websiteUrl": "https://lloydsbank.com"
+    },
+    {
+      "id": "homelyfe",
+      "name": "Homelyfe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567642853/catalog/homelyfe/icon128x128.png",
+      "websiteUrl": "https://www.homelyfe.com/"
+    },
+    {
+      "id": "wealthify",
+      "name": "Wealthify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565430375/catalog/wealthify/icon128x128.jpg",
+      "websiteUrl": "https://wealthify.com"
+    },
+    {
+      "id": "pensionbee",
+      "name": "PensionBee",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432658/catalog/pensionbee/icon128x128.jpg",
+      "websiteUrl": "https://pensionbee.com"
+    },
+    {
+      "id": "moneysupermarket",
+      "name": "MoneySuperMarket",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567641548/catalog/moneysupermarket/icon128x128.jpg",
+      "websiteUrl": "https://www.moneysupermarket.com/"
+    },
+    {
+      "id": "revolut",
+      "name": "Revolut",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569632033/catalog/revolut/icon128x128.jpg",
+      "websiteUrl": "https://www.revolut.com"
+    }
   ],
-  "awards": null
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "awards": []
 }
