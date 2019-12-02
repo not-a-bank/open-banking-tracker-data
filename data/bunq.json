@@ -102,6 +102,7 @@
     {
       "official": true,
       "type": "python",
+      "packageUrl": "https://pypi.org/project/bunq-sdk/",
       "githubUrl": "https://github.com/bunq/sdk_python"
     },
     {
@@ -113,6 +114,11 @@
       "official": true,
       "type": "java",
       "githubUrl": "https://github.com/bunq/sdk_java"
+    },
+    {
+      "official": false,
+      "type": "node",
+      "packageUrl": "https://www.npmjs.com/package/bunq-api"
     }
   ],
   "postmanCollections": [
@@ -134,6 +140,7 @@
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "https://twitter.com/bunq",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/bunq",
   "crunchbase": "bunq",
   "bloomberg": null,
   "github": "bunq",
@@ -144,11 +151,90 @@
       "date": "2019-06-14"
     }
   ],
-  "bankingLicense": null,
+  "thirdPartyBankingLicense": null,
   "strategies": [],
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "srxp",
+      "name": "SRXP",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569370650/catalog/srxp/icon128x128.png",
+      "websiteUrl": "https://www.srxp.com/"
+    },
+    {
+      "id": "asperion-nl",
+      "name": "Asperion",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569370662/catalog/asperion-nl/icon128x128.png",
+      "websiteUrl": "https://www.asperion.nl/"
+    },
+    {
+      "id": "moneymoney-app",
+      "name": "MoneyMoney",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569370657/catalog/moneymoney-app/icon128x128.jpg",
+      "websiteUrl": "https://moneymoney-app.com/"
+    },
+    {
+      "id": "tellow-nl",
+      "name": "Tellow",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569370648/catalog/tellow-nl/icon128x128.png",
+      "websiteUrl": "https://www.tellow.nl/"
+    },
+    {
+      "id": "jortt",
+      "name": "jortt",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1562339836/catalog/jortt/icon128x128.png",
+      "websiteUrl": "https://jortt.nl"
+    },
+    {
+      "id": "gripp",
+      "name": "Gripp",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531305065/catalog/gripp/icon128x128.png"
+    },
+    {
+      "id": "moneymonk-nl",
+      "name": "MoneyMonk",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1563058035/catalog/moneymonk-nl/icon128x128.png",
+      "websiteUrl": "https://moneymonk.nl"
+    },
+    {
+      "id": "minox",
+      "name": "Minox",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554256948/catalog/minox/icon128x128.png"
+    },
+    {
+      "id": "moneybird",
+      "name": "Moneybird",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531305474/catalog/moneybird/icon128x128.png",
+      "websiteUrl": "https://www.moneybird.com/"
+    },
+    {
+      "id": "informer-nl",
+      "name": "InformerOnline",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565345001/catalog/informer-nl/icon128x128.png",
+      "websiteUrl": "https://informer.nl"
+    },
+    {
+      "id": "getgekko",
+      "name": "Gekko",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565345002/catalog/getgekko/icon128x128.png",
+      "websiteUrl": "https://getgekko.com"
+    },
+    {
+      "id": "bizcuit-nl",
+      "name": "Bizcuit",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565345007/catalog/bizcuit-nl/icon128x128.png",
+      "websiteUrl": "https://bizcuit.nl"
+    },
+    {
+      "id": "proactive-software",
+      "name": "ProActive",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565344996/catalog/proactive-software/icon128x128.png",
+      "websiteUrl": "https://proactive-software.com"
+    }
+  ],
   "platforms": [],
   "awards": []
 }
