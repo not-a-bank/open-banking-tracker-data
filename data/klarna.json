@@ -1,23 +1,32 @@
 {
   "id": "klarna",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Klarna",
-  "legalName": "Klarna Bank AB",
+  "description": "Pay how you like. Klarna lets you Pay now, Pay later or Slice up your payment. You choose what to buy, so you should choose how to pay.",
+  "legalName": null,
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552914866/radar/icons/Klarna.jpg",
-  "websiteUrl": "https://www.klarna.com/uk/",
+  "websiteUrl": "https://klarna.com",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "SE",
-  "countries": ["EU"],
+  "countries": [
+    "EU"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -27,6 +36,14 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://developers.klarna.com/api/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developers.klarna.com/api/",
+  "apiAggregators": [
+    "klarna"
+  ],
   "apiProducts": [
     {
       "label": "Checkout API",
@@ -51,7 +68,9 @@
     {
       "label": "Payments API",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "The payments API is used to create a session to offer Klarna's payment methods as part of your checkout. As soon as the purchase is completed the order should be read and handled using the Order Management API.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#payments-api",
@@ -71,7 +90,9 @@
     {
       "label": "Settlements API",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": "This API gives you access to your payouts and transactions.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#settlements-api",
@@ -81,7 +102,9 @@
     {
       "label": "Payments API",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Hosted Payment Page (HPP) API is a service that lets you integrate Klarna Payments without the need of hosting the web page that manages the client side of Klarna Payments.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#hosted-payment-page-api",
@@ -91,7 +114,9 @@
     {
       "label": "Customer Tokens API",
       "type": "auth",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "description": "The Customer Token API is used to charge customers with a tokenized Klarna payment method and can be used for recurring purchases, subscriptions and for storing a customer's payment method. Tokens are created using the generate a customer token call in the payments API.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#customer-token-api",
@@ -101,7 +126,9 @@
     {
       "label": "Merchant Card Service API",
       "type": "cards",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "The Merchant Card Service (MCS) API is used to settle orders with virtual credit cards.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.klarna.com/api/#merchant-card-service-api",
@@ -130,9 +157,6 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [
-    "klarna"
-  ],
   "webApplication": true,
   "mobileApps": [
     {
@@ -144,12 +168,72 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.myklarnamobile&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [],
-  "twitter": "klarna",
+  "twitter": "https://twitter.com/Klarna",
   "crunchbase": "klarna",
+  "bloomberg": null,
   "github": "klarna",
   "fca": "001b000002zyAwNAAU",
-  "articles": []
+  "articles": [],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Amazon Web Services (AWS)",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547697149/catalog/amazon-web-services/icon128x128.png",
+      "websiteUrl": "https://amazon.com",
+      "id": "amazon-web-services",
+      "title": "Klarna signs with AWS",
+      "desription": "Klarna is leveraging AWS’s global infrastructure to increase redundancy and fault tolerance as it continues to scale its business, growing from a startup into a global company that supports 60 million customers across 170,000 merchants, in 17 countries.",
+      "sourceUrl": "https://www.finextra.com/pressarticle/80804/klarna-signs-with-aws/retail",
+      "sourceDate": "2019-12-02",
+      "features": [
+        "compute"
+      ]
+    }
+  ],
+  "integrations": [
+    {
+      "id": "3dcart",
+      "name": "3dcart",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531304337/catalog/3dcart/icon128x128.png",
+      "websiteUrl": "http://3dcart.com"
+    },
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456131/catalog/shopify/icon128x128.png",
+      "websiteUrl": "https://www.shopify.com/"
+    },
+    {
+      "id": "yotpo",
+      "name": "Yotpo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555946322/catalog/yotpo/icon128x128.png",
+      "websiteUrl": "http://yotpo.com"
+    },
+    {
+      "id": "nosto",
+      "name": "Nosto",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555946777/catalog/nosto/icon128x128.png",
+      "websiteUrl": "http://nosto.com"
+    },
+    {
+      "id": "klaviyo",
+      "name": "Klaviyo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531305247/catalog/klaviyo/icon128x128.png",
+      "websiteUrl": "http://klaviyo.com"
+    },
+    {
+      "id": "aci-pay-on",
+      "name": "ACI PAY.ON",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565457345/catalog/aci-pay-on/icon128x128.png",
+      "websiteUrl": "https://www.aciworldwide.com/products/global-payment-gateway"
+    }
+  ],
+  "platforms": [],
+  "awards": []
 }
