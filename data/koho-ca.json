@@ -1,0 +1,56 @@
+{
+  "id": "koho-ca",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "KOHO",
+  "description": "A no-fee spending account with instant cash back & an app designed to make managing your money easy.",
+  "legalName": "KOHO Financial Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1575595667/radar/icons/koho-ca.png",
+  "websiteUrl": "https://www.koho.ca/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/ca/app/koho-modern-mobile-finance/id1091010942?af_click_lookback=1h&c=website-apple&pid=Website&shortlink=19d1902a"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=ca.koho&hl=en_CA&shortlink=4de1b7bd&pid=Website&c=website-google&af_click_lookback=1h"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "GetKoho",
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
