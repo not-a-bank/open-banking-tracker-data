@@ -13,7 +13,7 @@
   "stockSymbol": "CABK:SM",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568489369/radar/icons/caixabank.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552381252/radar/icons/CaixaBank.jpg",
   "websiteUrl": "https://www.caixabank.es/particular/home/particulares_es.html",
   "ownership": [
     {
@@ -37,10 +37,11 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://apistore.caixabank.com/"
+    "sourceUrl": null
   },
   "developerPortalUrl": "https://apistore.caixabank.com/",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://apistore.caixabank.com/",
@@ -113,5 +114,31 @@
   "articles": [],
   "stack": [
     "redsys-es"
-  ]
+  ],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Tink",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568053071/catalog/tink/icon128x128.jpg",
+      "websiteUrl": "https://tink.com",
+      "id": "tink",
+      "title": "Tink expands open banking in Spain, Portugal and Italy",
+      "desription": "Tink officials said the Portugal launch follows a September agreement with Caixa Geral de Depositos, which launched a consumer banking app called Dabox, which includes aggregation, payment initiation, data enrichment and personal financial management technology from the Tink platform.",
+      "sourceUrl": "https://www.mobilepaymentstoday.com/news/tink-expands-open-banking-in-spain-portugal-and-italy/",
+      "sourceDate": "2019-12-05",
+      "features": [
+        "account-aggregation",
+        "payment-initiation",
+        "data-enrichment",
+        "personal-finance-management"
+      ]
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
