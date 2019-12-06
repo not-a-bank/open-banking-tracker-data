@@ -1,0 +1,81 @@
+{
+  "id": "dabox-pt",
+  "type": [
+    "third-party"
+  ],
+  "name": "DABOX",
+  "description": "A personal financial management app by CaixaBank",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1575595175/radar/icons/dabox-pt.png",
+  "websiteUrl": "https://www.dabox.pt/",
+  "ownership": [
+    {
+      "providerId": "caixabank",
+      "shareholderName": "CaixaBank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568494914/catalog/caixabank/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "PT",
+  "countries": [
+    "PT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/dabox/id1469253512?l=pt&ls=1"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=pt.cgd.dabox&hl=pt_PT"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Tink",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568053071/catalog/tink/icon128x128.jpg",
+      "websiteUrl": "https://tink.com",
+      "id": "tink",
+      "title": "Portugal’s largest bank signs Tink to underpin its new app Dabox",
+      "desription": "CGD’s newly launched app – Dabox – has Tink’s products integrated into it, namely aggregation payment initiation, data enrichments and personal finance management (PFM). Tink’s cloud-based open banking platform will underpin the app, which is now being rolled out to CDG’s domestic customer base of four million people. The vendor says it will help customers “to make smarter financial decisions”.",
+      "sourceUrl": "https://www.fintechfutures.com/2019/09/portugals-largest-bank-signs-tink-to-underpin-its-new-app-dabox/",
+      "sourceDate": "2019-09-24",
+      "features": [
+        "account-aggregation",
+        "payment-initiation",
+        "data-enrichment",
+        "personal-finance-management"
+      ]
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
