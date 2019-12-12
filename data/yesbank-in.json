@@ -1,0 +1,75 @@
+{
+  "id": "yesbank-in",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "YES BANK",
+  "description": "Yes Bank Limited is an Indian private sector bank,founded by Rana Kapoor and Ashok Kapur in 2004. It primarily operates as a corporate bank, with retail banking and also asset management as subsidiary functions.",
+  "legalName": "Yes Bank Limited",
+  "ipoStatus": "public",
+  "stockSymbol": "NSE:YESBANK",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1576119337/radar/icons/yesbank-in.jpg",
+  "websiteUrl": "https://www.yesbank.in/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IN",
+  "countries": [
+    "IN"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://yesdeveloper.in/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.yesbank.in/digital-banking/payment-solutions/api-banking",
+  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account Detail APIs",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Allows you to fetch customer account details , account balances , transaction history and more.",
+      "documentationUrl": "https://sandbox.yesdeveloper.in/all-api-categories/accounts/account-details-api",
+      "apiReferenceUrl": "https://sandbox.yesdeveloper.in/all-api-categories/accounts/account-details-api#operation",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Transfer APIs",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Allows you to transfer funds and get transfer status instantly",
+      "documentationUrl": "https://sandbox.yesdeveloper.in/all-api-categories/payments-api/funds-transfer-api",
+      "apiReferenceUrl": "https://sandbox.yesdeveloper.in/all-api-categories/payments-api/funds-transfer-api#operation",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiMarketplaceUrl": "https://yesscale.com/",
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "YESBANK",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Yes_Bank",
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
