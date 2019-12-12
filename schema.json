@@ -636,6 +636,20 @@
         }
       ]
     },
+    "apiMarketplaceUrl": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://",
+          "description": "API marketplace url",
+          "examples": ["https://yesscale.com/"]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
     "partnerships": {
       "anyof": [
         { "type": "null" },
