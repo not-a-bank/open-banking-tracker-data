@@ -120,7 +120,14 @@
         { "type": "string" },
         { "type": "null" }
       ],
-      "description": "Id of third-party bank license. for challenger banks without their own banking license."
+      "description": "Id of third-party bank license. For challenger banks without their own banking license."
+    },
+    "debitAccountLicense": {
+      "anyOf" : [
+        { "type": "string" },
+        { "type": "null" }
+      ],
+      "description": "Id of third-party debit account bank license. For challenger banks without their own banking license."
     },
     "webApplication": {
       "type": "boolean",
