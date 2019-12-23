@@ -1,0 +1,73 @@
+{
+  "id": "stashinvest",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Stash",
+  "description": "Invest with as little as $5. Get the only debit card that earns Stock-Back rewards. Save for a brighter financial future. Join 4+ million Americans investing, banking, and learning with Stash.",
+  "legalName": "Stash Financial Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1577072122/radar/icons/stashinvest.jpg",
+  "websiteUrl": "https://www.stashinvest.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/stash-invest-learn-save/id1017148055"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.stash.stashinvest&hl=en_US"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "Stash",
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "debitAccountLicense": "greendot",
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "WeAre8",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1577072218/catalog/weare8/icon128x128.png",
+      "websiteUrl": "https://www.weare8.com/",
+      "id": "weare8",
+      "title": "STASH And WeAre8 Launch First-Of-Its-Kind Partnership Transforming Millions Of People Into Investors & Shareholders",
+      "desription": "STASH, one of the fastest-growing investing and banking platforms1 in the U.S., today announced a partnership with WeAre8, a transformational platform that enables everyone to get sponsored and paid by the brands they love for watching, sharing and creating content.",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/stash-and-weare8-launch-first-of-its-kind-partnership-transforming-millions-of-people-into-investors--shareholders-300967728.html?tc=eml_cleartime",
+      "sourceDate": "2019-12-03",
+      "features": [
+        "investing"
+      ]
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
