@@ -1,0 +1,65 @@
+{
+  "id": "webbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "industrial"
+  ],
+  "name": "WebBank",
+  "description": "WebBank is an FDIC insured, state-chartered industrial bank headquartered in Salt Lake City, Utah. It was organized under the laws of the State of Utah in 1997 and operates under federal banking law.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1577066744/radar/icons/webbank.jpg",
+  "websiteUrl": "https://www.webbank.com/",
+  "ownership": [
+    {
+      "providerId": "steelpartners",
+      "shareholderName": "Steel Partners Holdings",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1577066802/catalog/steelpartners/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Klarna",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565457339/catalog/klarna/icon128x128.png",
+      "websiteUrl": "https://klarna.com"
+    },
+    {
+      "name": "Petal",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1577066797/catalog/petalcard/icon128x128.png",
+      "websiteUrl": "https://www.petalcard.com/"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
