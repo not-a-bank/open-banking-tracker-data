@@ -21,12 +21,7 @@
   "countries": [
     "CA"
   ],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "inProgress"
-    }
-  ],
+  "compliance": [],
   "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
@@ -75,8 +70,22 @@
       "id": "microsoft-azure",
       "description": "The challenger brand says the shift of its architecture to Microsoft Azure will reduce overheads and ready the bank for up-an-coming innovations in open Banking. The move is supported by long-term technology partner Temenos and will utilise the Swiss supplier's cloud-native T24 Transact product.",
       "sourceUrl": "https://www.finextra.com/newsarticle/34823/canadas-eq-bank-moves-core-banking-system-to-the-cloud"
+    },
+    {
+      "name": "TransferWise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
+      "websiteUrl": "https://transferwise.com/",
+      "id": "transferwise",
+      "title": "TransferWise Inks International Payments Deal with EQ Bank",
+      "desription": "EQ Bank has integrated TransferWise’s API directly into their infrastructure. EQ Bank customers will be able to send money from their Savings Plus account at “the real exchange rate,” paying a “small, transparent TransferWise charge.”.",
+      "sourceUrl": "https://finovate.com/transferwise-inks-international-payments-deal-with-eq-bank",
+      "sourceDate": "2019-12-17",
+      "features": [
+        "fx-transfers"
+      ]
     }
   ],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }
