@@ -69,16 +69,10 @@
     "sourceUrl": "https://blog.revolut.com/introducing-revolut-for-business-open-api/"
   },
   "developerPortalUrl": "https://www.revolut.com/en-BE/open-api",
-  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://www.revolut.com/en-BE/open-api",
-  "apiAggregators": [
-    "salt-edge",
-    "tink",
-    "truelayer"
-  ],
+  "apiReferenceUrl": "https://revolutdev.github.io/business-api/",
   "apiProducts": [
     {
       "label": "Accounts",
@@ -106,7 +100,12 @@
     }
   ],
   "apiStandards": [],
-  "webApplication": false,
+  "apiAggregators": [
+    "salt-edge",
+    "tink",
+    "truelayer"
+  ],
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
@@ -138,6 +137,8 @@
     }
   ],
   "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
   "debitCards": [],
@@ -157,6 +158,90 @@
       ]
     }
   ],
+  "integrations": [
+    {
+      "id": "expensify",
+      "name": "Expensify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055887/catalog/expensify/icon128x128.png",
+      "websiteUrl": "https://www.expensify.com/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "freeagent",
+      "name": "FreeAgent",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531304984/catalog/freeagent/icon128x128.png"
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1545501346/integration-platforms/zapier/icon.png",
+      "websiteUrl": "https://zapier.com/"
+    },
+    {
+      "id": "clearbooks-uk",
+      "name": "Clear Books",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566774056/catalog/clearbooks-uk/icon128x128.jpg",
+      "websiteUrl": "https://www.clearbooks.co.uk/"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936490/catalog/sage/icon128x128.jpg",
+      "websiteUrl": "https://sagecrm.com"
+    },
+    {
+      "id": "freshbooks",
+      "name": "freshbooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055909/catalog/freshbooks/icon128x128.png",
+      "websiteUrl": "https://www.freshbooks.com/"
+    },
+    {
+      "id": "quaderno",
+      "name": "Quaderno",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531305804/catalog/quaderno/icon128x128.png"
+    },
+    {
+      "id": "zoho-books",
+      "name": "Zoho Books",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531306589/catalog/zoho-books/icon128x128.png"
+    },
+    {
+      "id": "kashflow",
+      "name": "Kashflow",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1548122135/catalog/kashflow/icon128x128.png",
+      "websiteUrl": "https://www.kashflow.com/"
+    },
+    {
+      "id": "sparqa",
+      "name": "Sparqa Legal",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1576014968/catalog/sparqa/icon128x128.jpg",
+      "websiteUrl": "https://www.sparqa.com/"
+    },
+    {
+      "id": "sap-concur",
+      "name": "SAP Concur",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547840561/catalog/sap-concur/icon128x128.jpg",
+      "websiteUrl": "https://www.concur.com/"
+    },
+    {
+      "id": "slack",
+      "name": "Slack",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529455910/catalog/slack/icon128x128.png",
+      "websiteUrl": "https://slack.com/"
+    }
+  ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "marketplaceUrl": "https://www.revolut.com/connect-your-apps-to-simplify-work"
 }
