@@ -1,19 +1,28 @@
 {
   "id": "starling-bank",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Starling Bank",
+  "description": "Better bank accounts for personal(£ or €), joint & business. Instant alerts when you spend & get paid, spending habit insights + no fees overseas. Apply in minutes.",
   "legalName": "Starling Bank Limited",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296089/radar/icons/Starling_Bank.jpg",
-  "websiteUrl": "https://www.starlingbank.com/",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1579217327/radar/icons/starlingbank.jpg",
+  "websiteUrl": "https://starlingbank.com",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
@@ -22,17 +31,21 @@
     "status": "available",
     "sourceUrl": "https://www.starlingbank.com/news/UK-first-banking-as-platform/"
   },
-  "developerPortalUrl": "https://developer.starlingbank.com/",
+  "developerPortalUrl": "https://developer.starlingbank.com",
   "developerCommunityUrl": "https://developer.starlingbank.com/community",
   "openBankProjectUrl": null,
   "slackCommunity": true,
-  "apiAuth": ["OAUTH2"],
+  "apiAuth": [
+    "OAUTH2"
+  ],
   "apiReferenceUrl": "https://developer.starlingbank.com/docs",
   "apiProducts": [
     {
       "label": "Accounts",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": null,
       "apiReferenceUrl": "https://developer.starlingbank.com/docs",
@@ -42,7 +55,9 @@
     {
       "label": "Payments",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": null,
       "apiReferenceUrl": "https://developer.starlingbank.com/docs",
@@ -55,7 +70,7 @@
     "truelayer",
     "salt-edge"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
@@ -66,11 +81,11 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.starlingbank.android"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [],
-  "twitter": "StarlingBank",
+  "twitter": "https://twitter.com/starlingbank",
   "crunchbase": "starling-3",
+  "bloomberg": null,
   "github": "starlingbank",
   "fca": "001b000002sy7IMAAY",
   "articles": [
@@ -79,6 +94,9 @@
       "date": "2018-08-06"
     }
   ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "customers": {
     "consumer": [
       {
@@ -107,7 +125,10 @@
       "amount": "1000000",
       "type": "forecast",
       "date": "2019-12-31",
-      "products": ["currentAccounts", "smeAccounts"],
+      "products": [
+        "currentAccounts",
+        "smeAccounts"
+      ],
       "source": {
         "url": "https://techcrunch.com/2019/02/13/starling-bank-now-with-460k-consumer-accounts-raises-further-75m-for-european-expansion/",
         "date": "2019-02-13",
@@ -123,13 +144,15 @@
   "strategies": [
     "marketplaceBanking"
   ],
+  "prepaidCards": [],
   "debitCards": [
     "mastercard"
   ],
-  "applePay": true, 
-  "googlePay": true, 
-  "samsungPay": true, 
-  "fitbitPay": true, 
+  "creditCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": true,
+  "fitbitPay": true,
   "fscsProtected": true,
   "products": {
     "currentAccounts": {
@@ -150,14 +173,146 @@
   },
   "partnerships": [
     {
-      "partner": "Post Office",
-      "source": {
-        "url": "https://www.telegraph.co.uk/technology/2018/11/14/digital-bank-starling-heads-high-street-following-post-office/"
-      }
+      "name": "Post Office",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579220042/catalog/postoffice-uk/icon128x128.png",
+      "websiteUrl": "https://www.postoffice.co.uk/",
+      "id": "postoffice-uk",
+      "title": "Digital bank Starling heads to the high street following Post Office deal",
+      "desription": "App-based start up Starling Bank has arrived on the high street following a deal to launch in thousands of Post Offices nationwide. Starling describes itself as a \"mobile only bank account\" and has more than 200,000 users in the UK. It is among a new wave of digital-only lenders that claim to be quicker and easier to deal with compared with traditional banks.",
+      "sourceUrl": "https://www.telegraph.co.uk/technology/2018/11/14/digital-bank-starling-heads-high-street-following-post-office/",
+      "sourceDate": "2018-11-24"
     }
-  ], 
+  ],
+  "integrations": [
+    {
+      "id": "freeagent",
+      "name": "FreeAgent",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531304984/catalog/freeagent/icon128x128.png"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "handshake",
+      "name": "Handshake",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1551284531/catalog/handshake/icon128x128.png",
+      "websiteUrl": "http://handshake.com"
+    },
+    {
+      "id": "emma-app",
+      "name": "Emma",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567644246/catalog/emma-app/icon128x128.png",
+      "websiteUrl": "https://emma-app.com/"
+    },
+    {
+      "id": "tail",
+      "name": "Tail",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554722428/catalog/tail/icon128x128.jpg",
+      "websiteUrl": "http://tail.digital"
+    },
+    {
+      "id": "growthstreet-couk",
+      "name": "Growth Street",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565353322/catalog/growthstreet-couk/icon128x128.png",
+      "websiteUrl": "https://growthstreet.co.uk"
+    },
+    {
+      "id": "creditladder-couk",
+      "name": "CreditLadder",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565354928/catalog/creditladder-couk/icon128x128.jpg",
+      "websiteUrl": "https://creditladder.co.uk"
+    },
+    {
+      "id": "wealthify",
+      "name": "Wealthify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565430375/catalog/wealthify/icon128x128.jpg",
+      "websiteUrl": "https://wealthify.com"
+    },
+    {
+      "id": "pensionbee",
+      "name": "PensionBee",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432658/catalog/pensionbee/icon128x128.jpg",
+      "websiteUrl": "https://pensionbee.com"
+    },
+    {
+      "id": "tryflux",
+      "name": "Flux",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432654/catalog/tryflux/icon128x128.png",
+      "websiteUrl": "https://tryflux.com"
+    },
+    {
+      "id": "wealthsimple",
+      "name": "Wealthsimple",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432652/catalog/wealthsimple/icon128x128.jpg",
+      "websiteUrl": "https://wealthsimple.com"
+    },
+    {
+      "id": "yoyowallet",
+      "name": "Yoyo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432648/catalog/yoyowallet/icon128x128.jpg",
+      "websiteUrl": "https://yoyowallet.com"
+    },
+    {
+      "id": "habito",
+      "name": "Habito",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432666/catalog/habito/icon128x128.jpg",
+      "websiteUrl": "https://habito.com"
+    },
+    {
+      "id": "yolt",
+      "name": "Yolt",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432650/catalog/yolt/icon128x128.jpg",
+      "websiteUrl": "https://yolt.com"
+    },
+    {
+      "id": "moneyboxapp",
+      "name": "Moneybox",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432660/catalog/moneyboxapp/icon128x128.png",
+      "websiteUrl": "https://moneyboxapp.com"
+    },
+    {
+      "id": "tail-at",
+      "name": "Tail",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565587672/catalog/tail-at/icon128x128.png",
+      "websiteUrl": "https://tail.at/"
+    },
+    {
+      "id": "moneyhub",
+      "name": "Moneyhub",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567665469/catalog/moneyhub/icon128x128.jpg",
+      "websiteUrl": "https://www.moneyhub.com/home"
+    },
+    {
+      "id": "withplum",
+      "name": "Plum",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567666947/catalog/withplum/icon128x128.jpg",
+      "websiteUrl": "https://withplum.com/"
+    },
+    {
+      "id": "moneydashboard",
+      "name": "Money Dashboard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567666950/catalog/moneydashboard/icon128x128.jpg",
+      "websiteUrl": "https://www.moneydashboard.com/"
+    },
+    {
+      "id": "onedox",
+      "name": "Onedox",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567667788/catalog/onedox/icon128x128.jpg",
+      "websiteUrl": "https://www.onedox.com/"
+    },
+    {
+      "id": "sparqa",
+      "name": "Sparqa Legal",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1576014968/catalog/sparqa/icon128x128.jpg",
+      "websiteUrl": "https://www.sparqa.com/"
+    }
+  ],
   "platforms": [
-    "mobile"
+    "ios",
+    "android"
   ],
   "awards": [
     {
@@ -168,5 +323,6 @@
       "award": "Best Current Account",
       "year": 2019
     }
-  ]
+  ],
+  "marketplaceUrl": "https://www.starlingbank.com/marketplace"
 }
