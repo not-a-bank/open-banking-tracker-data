@@ -1,0 +1,84 @@
+{
+  "id": "getpfc",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "P.F.C.",
+  "description": "P.F.C. is a personal finance app and a free Mastercard that helps you keep tabs on your money. Get instant notifications. Log in with BankID.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1579474348/radar/icons/getpfc.jpg",
+  "websiteUrl": "https://getpfc.com/",
+  "ownership": [
+    {
+      "shareholderName": "Nordea",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1579475218/catalog/nordea/icon128x128.jpg",
+      "providerId": "nordea"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "SE",
+  "countries": [
+    "SE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/se/app/p-f-c-personal-finance-co/id1377641836"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.getpfc.android"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "getpfc",
+  "crunchbase": "https://www.crunchbase.com/organization/personal-finance-co",
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "swish-nu",
+      "name": "Swish",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579473021/catalog/swish-nu/icon128x128.jpg",
+      "websiteUrl": "https://www.swish.nu/"
+    },
+    {
+      "id": "bankid",
+      "name": "BankID Sverige",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579472852/catalog/bankid/icon128x128.jpg",
+      "websiteUrl": "https://www.bankid.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
