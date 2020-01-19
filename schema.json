@@ -822,8 +822,7 @@
         "required": [
           "shareholderName",
           "shareholderIconUrl",
-          "providerId",
-          "percentage"
+          "providerId"
         ],
         "properties": {
           "shareholderName": {
