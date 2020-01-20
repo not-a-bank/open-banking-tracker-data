@@ -64,7 +64,21 @@
     "mastercard"
   ],
   "creditCards": [],
-  "partnerships": [],
+  "partnerships": [
+    {
+      "name": "Mambu",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573437321/catalog/mambu/icon128x128.jpg",
+      "websiteUrl": "https://www.mambu.com/",
+      "id": "mambu",
+      "title": "Swedish challenger bank PFC goes live on Mambu technology",
+      "desription": "The bank plans to launch personalised savings and credit products in the near future and aims to accrue 100,000 users by the end of the year. It operates under a payments institution licence, rather than a full banking licence.",
+      "sourceUrl": "https://www.fintechfutures.com/2019/09/swedish-challenger-bank-pfc-goes-live-on-mambu-technology/",
+      "sourceDate": "2019-09-30",
+      "features": [
+        "banking-as-a-service"
+      ]
+    }
+  ],
   "integrations": [
     {
       "id": "swish-nu",
