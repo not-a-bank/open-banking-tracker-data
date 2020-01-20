@@ -32,14 +32,13 @@
     "status": "available"
   },
   "developerPortalUrl": "https://developer.yolt.com/",
-  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://developer.yolt.com/",
-  "apiAggregators": [],
+  "apiReferenceUrl": "https://developer.yolt.com/reference",
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [],
   "webApplication": false,
   "mobileApps": [
     {
@@ -60,6 +59,8 @@
   "fca": "001b000000MfF4VAAV",
   "articles": null,
   "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "customers": {
     "consumer": [
       {
@@ -182,11 +183,18 @@
       "name": "Raisin",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1567033148/catalog/raisin/icon128x128.jpg",
       "websiteUrl": "https://www.raisin.com/"
+    },
+    {
+      "id": "anorak-life",
+      "name": "Anorak",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579223519/catalog/anorak-life/icon128x128.png",
+      "websiteUrl": "https://www.anorak.life/"
     }
   ],
   "platforms": [
     "android",
     "ios"
   ],
-  "awards": []
+  "awards": [],
+  "marketplaceUrl": "https://www.yolt.com/connect"
 }
