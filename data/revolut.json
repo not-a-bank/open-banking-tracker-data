@@ -180,7 +180,8 @@
     {
       "id": "freeagent",
       "name": "FreeAgent",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531304984/catalog/freeagent/icon128x128.png"
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531304984/catalog/freeagent/icon128x128.png",
+      "websiteUrl": "https://www.freeagent.com/"
     },
     {
       "id": "zapier",
@@ -239,6 +240,18 @@
       "name": "Slack",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1529455910/catalog/slack/icon128x128.png",
       "websiteUrl": "https://slack.com/"
+    },
+    {
+      "id": "moneydashboard",
+      "name": "Money Dashboard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567666950/catalog/moneydashboard/icon128x128.jpg",
+      "websiteUrl": "https://www.moneydashboard.com/"
+    },
+    {
+      "id": "yolt",
+      "name": "Yolt",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432650/catalog/yolt/icon128x128.jpg",
+      "websiteUrl": "https://yolt.com"
     }
   ],
   "platforms": [],
