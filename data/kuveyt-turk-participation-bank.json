@@ -1,9 +1,12 @@
 {
-  "id": "kuveyt-turk-katilim-bankasi",
+  "id": "kuveyt-turk-participation-bank",
   "type": ["account"],
   "bankType": ["corporate","retail"],
-  "name": "Kuveyt Türk Katılım Bankası",
-  "legalName": "Kuveyt Turk Katilim Bankasi A.S.",
+  "name": "Kuveyt Turk Participation Bank",
+  "aliases": [
+    "Kuveyt Türk Participation Bank"
+  ],
+  "legalName": "Kuveyt Turk Participation Bank",
   "ipoStatus": "public",
   "verified": false,
   "icon": "https://www.kuveytturk.com.tr/_assets/files/logo/kt_yesil_logo_slogan.jpg",
@@ -766,8 +769,7 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
-    }
-      
+    }   
   ],
   "apiStandards": [],
   "webApplication": true,
@@ -792,6 +794,6 @@
   ],
   "twitter": "kuveytturk",
   "crunchbase": "kuveyt-turk-bank",
-  "github": null,  
+  "github": "https://github.com/KuveytTurk",  
   "articles": []
 }
