@@ -1,8 +1,11 @@
 {
-  "id": "kuveyt-turk-katilim-bankasi",
+  "id": "kuveyt-turk-participation-bank",
   "type": ["account"],
   "bankType": ["corporate","retail"],
   "name": "Kuveyt Türk Katılım Bankası",
+  "aliases": [
+    "Kuveyt Türk Participation Bank"
+  ],
   "legalName": "Kuveyt Turk Katilim Bankasi A.S.",
   "ipoStatus": "public",
   "verified": false,
@@ -766,8 +769,7 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
-    }
-      
+    }   
   ],
   "apiStandards": [],
   "webApplication": true,
