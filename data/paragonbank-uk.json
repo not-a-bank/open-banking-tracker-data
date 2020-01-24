@@ -1,0 +1,58 @@
+{
+  "id": "paragonbank-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
+  "name": "Paragon Bank",
+  "description": "Paragon is a UK based bank offering competitive rates for savings and cash ISA accounts.",
+  "legalName": "Paragon Banking Group PLC",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1579905613/radar/icons/paragonbank-uk.jpg",
+  "websiteUrl": "https://www.paragonbank.co.uk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable",
+    "sourceUrl": "https://www.paragonbank.co.uk/blog/open-banking-explained"
+  },
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "https://twitter.com/paragonbankuk",
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
