@@ -1,0 +1,81 @@
+{
+  "id": "s-pankki-oy",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "S-Pankki",
+  "legalName": "S-Pankki Oy",
+  "ipoStatus": "private",
+  "verified": false,
+  "icon": "https://lh3.googleusercontent.com/i7pQ6oPQUPg5959ak7oERclgVWWORdwR4nS7tbNDOeWvRV0mTafeddnDNBYnvT0yOQ=s360-rw",
+  "websiteUrl": "https://www.s-pankki.fi/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": ["NO"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://crosskey.io/stores/s-pankki/apis",
+  "apiProducts": [
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "This API allows regulated third party providers to set up or make payments directly from an online payment account, such as a single payment or a recurring payment.",
+      "documentationUrl": "https://crosskey.io/stores/s-pankki/apis/7b01242e-83be-4c42-b986-0d183ab35280",
+      "apiReferenceUrl": "https://crosskey.io/stores/s-pankki/apis/7b01242e-83be-4c42-b986-0d183ab35280",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": "This API allows regulated third party providers to get confirmation on the availability of funds for an online payment account.",
+      "documentationUrl": "https://crosskey.io/stores/s-pankki/apis/a8e003a1-e472-4586-bfdf-a7efa1e53acd",
+      "apiReferenceUrl": "https://crosskey.io/stores/s-pankki/apis/a8e003a1-e472-4586-bfdf-a7efa1e53acd",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "This API allows regulated third party providers to read account information, such as transaction or balance details in an online payment account.",
+      "documentationUrl": "https://crosskey.io/stores/s-pankki/apis/1f1cc137-39a7-462e-88b9-0b63d08cb9aj",
+      "apiReferenceUrl": "https://crosskey.io/stores/s-pankki/apis/1f1cc137-39a7-462e-88b9-0b63d08cb9aj",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": ["OBIE"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/fi/app/s-mobiili/id740514933?l=fi"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=fi.spankki&hl=en_US"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "S_Pankki",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}

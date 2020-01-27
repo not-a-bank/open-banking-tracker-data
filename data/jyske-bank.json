@@ -1,0 +1,87 @@
+{
+  "id": "jyske-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Jyske Bank",
+  "legalName": "Jyske Bank A/S",
+  "ipoStatus": "public",
+  "verified": false,
+  "icon": "https://lh3.googleusercontent.com/k0k3j8SIf4tnEDYVdUEorXUFUbwkgvs6OlUG2g_eqF5cWpb_4awKZ69wYDK9IzwEAKA=s180-rw",
+  "websiteUrl": "https://jyskebank.com/en",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DK",
+  "countries": ["DK", "DE", "GI"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developers.bankdata.dk/products"
+  },
+  "developerPortalUrl": "https://developers.bankdata.dk/products",
+  "apiProducts": [
+    {
+      "label": "Account",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Account allows you to access payment account data and enhance your financial management services.",
+      "documentationUrl": "https://developers.bankdata.dk/products/ais/docs/reference",
+      "apiReferenceUrl": "https://developers.bankdata.dk/products/ais/docs/reference",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Payment allows third party apps to offer money transfer services to pre-authorized users.",
+      "documentationUrl": "https://developers.bankdata.dk/products/pis/docs/reference",
+      "apiReferenceUrl": "https://developers.bankdata.dk/products/pis/docs/reference",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation",
+      "type": "fundsConfirmation",
+      "description": "The Confirmation of Funds service enables a certified Payment Instrument Issuer Service Provider (PIISP) to check if a given account has enough funds to cover a specific amount.",
+      "categories": [
+        "funds"
+      ],
+      "documentationUrl": "https://developers.bankdata.dk/products/cof/docs/reference",
+      "apiReferenceUrl": "https://developers.bankdata.dk/products/cof/docs/reference",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/dk/app/jyske-mobilbank/id418816320?l=da"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=dk.jyskebank.mobilbank&hl=en"
+    }
+  ],
+  "stockSymbol": "CPH:JYSK",
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "jyskebank",
+  "crunchbase": "jyske-bank",
+  "github": "Jyskebank",
+  "fca": "001b000000MfJykAAF",
+  "articles": []
+}

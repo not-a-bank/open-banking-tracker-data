@@ -35,7 +35,7 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/APIs",
-  "apiAggregators": [],
+  "apiAggregators": ["neonomics"],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -43,7 +43,7 @@
       "categories": [
         "accounts"
       ],
-      "description": "",
+      "description": "The AIS API implements the Account Information Service parts of the PSD2 specification, and provides the following services to authorised TPPs: Accounts overview, Account balances, Account transactions, Account details",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/psd2-bg-account-information-service-api-ais",
       "premium": false,
@@ -55,7 +55,7 @@
       "categories": [
         "payments"
       ],
-      "description": "",
+      "description": "The PIS API implements the Payment Initiation Service parts of the PSD2 specification, and provides the following services to authorized TPPs: Initiation and update of a payment request, Status information of a payment",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/psd2-bg-payment-initiation-service-api-pis",
       "premium": false,
@@ -64,7 +64,7 @@
     {
       "label": "Funds Confirmation Service",
       "type": "fundsConfirmation",
-      "description": "",
+      "description": "The Fund Confirmation Service (FCS) API provides a service to query the availability of a specific amount at the point in time of the call.",
       "categories": [
         "funds"
       ],
@@ -79,9 +79,21 @@
       "categories": [
         "accounts"
       ],
-      "description": "",
+      "description": "Consents and consent management are core concepts of the PSD2 solution, and are defined with dedicated API endpoints in the Berlin Group specification. The general mechanism for validating and authorizing consents is through a Redirect SCA Approach - utilising implicit start of the authentication process.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/psd2-bg-consent-information-service-api-cis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Enrollment API",
+      "type": "auth",
+      "categories": [
+        "auth"
+      ],
+      "description": "API for completing enrollment/onboarding to PSD2 APIs to Member and Service Banks under BEC umbrella.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/tpp-enrollment-api",
       "premium": false,
       "stage": "live"
     }

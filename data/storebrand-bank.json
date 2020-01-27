@@ -1,0 +1,95 @@
+{
+  "id": "storebrand-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Storebrand",
+  "legalName": "Storebrand Bank
+  "ipoStatus": "public",
+  "stockSymbol": "NO:STB",
+  "verified": false,
+  "status": "live",
+  "icon": "https://lh3.googleusercontent.com/xoVEz-whVUMgQpWWYzl4iZMylY5aAF5rLCJuthsTgpHQBWixL4wr-pwagt29pK_2pr8=s180-rw",
+  "websiteUrl": "https://www.storebrand.no/en/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": [
+    "NO"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://sdcinfo.dk/tpp/"
+  },
+  "developerPortalUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/apis",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/apis",
+  "apiAggregators": ["neonomics"],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://sdcinfo.dk/tpp/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+    {
+      "label": "Payment Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+    "documentationUrl": "https://sdcinfo.dk/tpp/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "description": "",
+      "categories": [
+        "funds"
+      ],
+      "documentationUrl": "https://sdcinfo.dk/tpp/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/no/app/storebrand-mobilbank/id510914549"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=dk.sdc.mobilbank.storebrand&hl=en"
+    }
+  ],
+  "twitter": "storebrand_no",
+  "crunchbase": "storebrand",
+  "bloomberg": "STB:NO",
+  "github": "storebrand",
+  "fca": null,
+  "articles": []
+}

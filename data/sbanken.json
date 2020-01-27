@@ -1,0 +1,91 @@
+{
+  "id": "sbanken",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Sbanken",
+  "legalName": "Sbanken",
+  "ipoStatus": "public",
+  "verified": false,
+  "icon": "https://lh3.googleusercontent.com/dx_LL0mLMCAsYd3CjJAFs1_7RXbV2ecejn0jHbzRSWS7V3u_wao3rgQCNhO7Oly-jQ=s180-rw",
+  "websiteUrl": "https://sbanken.no/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": ["NO"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://openbanking.sbanken.no/portal-sandbox/getting-started",
+  "apiProducts": [
+    {
+      "label": "Common",
+      "type": "other",
+      "categories": ["products"],
+      "description": "API used for activating the consent flow",
+      "documentationUrl": "https://openbanking.sbanken.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.sbanken.no/portal-sandbox/node/174",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "API used by a PISP to initiate payments - domestic, sepa, or cross border",
+      "documentationUrl": "https://openbanking.sbanken.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.sbanken.no/portal-sandbox/node/168",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": "API used buy a CBPII to verify if a specified amount is available on the account",
+      "documentationUrl": "https://openbanking.sbanken.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.sbanken.no/portal-sandbox/node/167",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "APIs used by an AISP to get access to account information and transactions",
+      "documentationUrl": "https://openbanking.sbanken.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.sbanken.no/portal-sandbox/node/175",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/no/app/sbanken/id380663360"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=no.skandiabanken&hl=en"
+    }
+  ],
+  "stockSymbol": "OSE:SBANK",
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "sbanken",
+  "crunchbase": "skandiabanken",
+  "github": null,
+  "fca": null,
+  "articles": []
+}

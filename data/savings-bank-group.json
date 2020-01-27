@@ -1,0 +1,82 @@
+{
+  "id": "savings-bank-group",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Savings Bank Group",
+  "legalName": "Savings Bank Group",
+  "ipoStatus": "public",
+  "verified": false,
+  "icon": "https://d34vku6feucdo0.cloudfront.net/-/media/kuvat/etusivujen-kuvat/muut-kuvat/rahapuu_verkkosivut.png?h=403&la=en&mw=700&w=700&hash=5DFA6B1D49EFE5B922EB1B32F81C8CD58171A5C2",
+  "websiteUrl": "https://www.saastopankki.fi/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FI",
+  "countries": ["FI"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.samlink.fi/docs",
+  "apiProducts": [
+    {
+      "label": "Sandbox OAUTH",
+      "type": "other",
+      "categories": ["products"],
+      "description": null,
+      "documentationUrl": "https://developer.samlink.fi/tech-doc",
+      "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://developer.samlink.fi/tech-doc",
+      "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": null,
+      "documentationUrl": "https://developer.samlink.fi/tech-doc",
+      "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Sandbox management",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developer.samlink.fi/tech-doc",
+      "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}

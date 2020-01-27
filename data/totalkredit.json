@@ -1,0 +1,107 @@
+{
+  "id": "totalkredit",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Totalkredit",
+  "legalName": "Totalkredit A/S",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://lh3.googleusercontent.com/ptY8bZHpddDn1bBw9kpRvw3Qmm_KGHebpYz_z53uCnv4Ke4vMtvZSDbfwNGDRTDWSLhn=s180-rw",
+  "websiteUrl": "https://www.totalkredit.dk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DK",
+  "countries": [
+    "DK"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/apis"
+  },
+  "developerPortalUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/apis",
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/apis",
+  "apiAggregators": ["neonomics"],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/psd2-bg-account-information-service-api-ais",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/psd2-bg-payment-initiation-service-api-pis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation Service",
+      "type": "fundsConfirmation",
+      "description": "",
+      "categories": [
+        "funds"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/psd2-bg-fund-confirmation-service-api-fcs",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consent Information Service API",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/psd2-bg-consent-information-service-api-cis",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/dk/app/totalkredit/id465891808?l=da"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.totalkredit&hl=en"
+    }
+  ],
+  "twitter": null,
+  "crunchbase": null,
+  "bloomberg": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}
