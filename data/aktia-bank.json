@@ -1,0 +1,81 @@
+{
+  "id": "aktia-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Aktia Bank",
+  "legalName": "Aktia Bank Abp",
+  "ipoStatus": "public",
+  "verified": false,
+  "icon": "https://lh3.googleusercontent.com/F-mgCbxHzzmFciUjRAz0wSISNoaMThr7FSjXn6vaYOHKYdIXVtzcWTkE1EZy3_sJqw=s180",
+  "websiteUrl": "https://www.aktia.fi/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FI",
+  "countries": ["FI"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.aktia.fi/",
+  "apiProducts": [
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://developer.aktia.fi/node/285",
+      "apiReferenceUrl": "https://developer.aktia.fi/node/285",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of funds API",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": null,
+      "documentationUrl": "https://developer.aktia.fi/node/283",
+      "apiReferenceUrl": "https://developer.aktia.fi/node/283",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developer.aktia.fi/node/287",
+      "apiReferenceUrl": "https://developer.aktia.fi/node/287",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/gb/app/aktia-mobile-bank/id1247457393"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.aktia.mobilebank&hl=en_US"
+    }
+  ],
+  "stockSymbol": "OMXH:AKTIA",
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "aktiabank",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}

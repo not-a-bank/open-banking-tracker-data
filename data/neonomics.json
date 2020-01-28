@@ -1,0 +1,104 @@
+{
+  "id": "neonomics",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Neonomics",
+  "description": "Your Open Banking Navigator. A new movement of payments and data by connecting thousands of banks through one API.",
+  "legalName": "Neonomics AS",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": true,
+  "status": "live",
+  "icon": "https://www.neonomics.io/assets/logo-small.png",
+  "websiteUrl": "https://www.neonomics.io/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": [
+    "EU"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "ready"
+    },
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    },
+    {
+      "regulation": "GDPR",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.neonomics.io/"
+  },
+  "developerPortalUrl": "https://developer.neonomics.io/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.neonomics.io/documentation/",
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Account aggregation that allows real-time and full-range access to account data.",
+      "documentationUrl": "https://developer.neonomics.io/documentation/api-explorer/general#introduction",
+      "apiReferenceUrl": "https://developer.neonomics.io/documentation/api-explorer/accounts#Accounts",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [],
+      "description": "Initiate payments, query payment details and status of payments securely on behalf of the end consumer without friction.",
+      "documentationUrl": "https://developer.neonomics.io/documentation/api-explorer/general#introduction",
+      "apiReferenceUrl": "https://developer.neonomics.io/documentation/api-explorer/payments#Payments",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": ["BERLIN", "OBIE"],
+  "webApplication": true,
+  "mobileApps": [],
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "https://twitter.com/neonomicsas",
+  "crunchbase": "bankbridge",
+  "bloomberg": null,
+  "github": "fintechinnovationas",
+  "fca": null,
+  "articles": [
+    {
+      "date": "2019-12-9",
+      "url": "https://finansavisen.no/nyheter/teknologi/2019/12/08/7480127/fintech-selskap-neonomics-haper-pa-200-millioner-i-ny-egenkapital"
+    },
+    {
+      "date": "2019-9-16",
+      "url": "https://www.finextra.com/pressarticle/79808/horde-hooks-up-to-neonomics-bank-api-network"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

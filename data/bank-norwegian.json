@@ -1,0 +1,71 @@
+{
+  "id": "bank-norwegian",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Bank Norwegian",
+  "legalName": "Bank Norwegian AS",
+  "ipoStatus": "public",
+  "verified": false,
+  "icon": "https://lh3.googleusercontent.com/ov7tDgHqsSPKCdmCU5aGjGSMYQyNMyQPDOt1ZLtuZcJtpBQgMin7ZUHztTf1nyhThnQ=s360-rw",
+  "websiteUrl": "https://www.banknorwegian.no/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": ["NO", "SE", "FI", "DK"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://api-sandbox.banknorwegian.com"
+  },
+  "developerPortalUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html",
+  "apiProducts": [
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#section/Introduction",
+      "apiReferenceUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#tag/Payment",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#section/Introduction",
+      "apiReferenceUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#tag/Account",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/no/app/bank-norwegian/id1194438643"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.banknorwegian&hl=en_US"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "banknorwegian",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}

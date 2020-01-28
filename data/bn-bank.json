@@ -1,0 +1,91 @@
+{
+  "id": "bn-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "BN Bank",
+  "legalName": "BN Bank ASA",
+  "ipoStatus": "public",
+  "verified": false,
+  "icon": "https://openbanking.bnbank.no/portal-sandbox/sites/portal-sandbox.openbanking.bnbank.no/themes/psd2_theme/logo.png",
+  "websiteUrl": "https://www.bnbank.no/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": ["NO"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://openbanking.bnbank.no/portal-sandbox/getting-started",
+  "apiProducts": [
+    {
+      "label": "Common",
+      "type": "other",
+      "categories": ["products"],
+      "description": null,
+      "documentationUrl": "https://openbanking.bnbank.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.bnbank.no/portal-sandbox/node/163",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://openbanking.bnbank.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.bnbank.no/portal-sandbox/node/156",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": null,
+      "documentationUrl": "https://openbanking.bnbank.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.bnbank.no/portal-sandbox/node/158",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://openbanking.bnbank.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.bnbank.no/portal-sandbox/node/153",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/no/app/bn-bank/id1436838020"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.evry.mobile.android.smartbankmobile.bnbank&hl=en_US"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "BN_Bank",
+  "crunchbase": null,
+  "github": "BNBankASA",
+  "fca": null,
+  "articles": []
+}

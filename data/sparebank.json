@@ -1,0 +1,101 @@
+{
+  "id": "sparebank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "SpareBank",
+  "legalName": "SpareBank 1 SR-Bank ASA",
+  "ipoStatus": "public",
+  "verified": false,
+  "icon": "https://www.sparebank1.no/content/dam/SB1/nettsider/logo.svg",
+  "websiteUrl": "https://www.sparebank1.no/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": ["NO"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
+  "apiProducts": [
+    {
+      "label": "Mock Data",
+      "type": "other",
+      "categories": ["products"],
+      "description": "API used for managing mock data in the sandbox environment",
+      "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/149",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Common",
+      "type": "other",
+      "categories": ["products"],
+      "description": "API used for activating the consent flow",
+      "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/143",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "API used by a PISP to initiate payments - domestic, sepa, or cross border",
+      "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/138",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": "API used buy a CBPII to verify if a specified amount is available on the account",
+      "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/137",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "APIs used by an AISP to get access to account information and transactions",
+      "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/133",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/no/app/mobilbank/id463742159"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=no.sparebank1.mobilbank&hl=en_US"
+    }
+  ],
+  "stockSymbol": "OSE:SRBANK",
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "srbank",
+  "crunchbase": "sparebank-1-sr-bank",
+  "github": "SpareBank1",
+  "fca": "001b000000Mg6CdAAJ",
+  "articles": []
+}

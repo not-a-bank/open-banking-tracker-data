@@ -1,0 +1,91 @@
+{
+  "id": "gjensidige-bank",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "Gjensidige Bank",
+  "legalName": "Gjensidige Bank ASA",
+  "ipoStatus": "private",
+  "verified": false,
+  "icon": "https://www.gjensidige.no/_public/gjensidigewww/gfx/logo/gjensidige_logo.svg?_ts=16049c57b50",
+  "websiteUrl": "https://www.gjensidige.no/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": ["NO"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://openbanking.gjensidige.no/portal-sandbox/getting-started",
+  "apiProducts": [
+    {
+      "label": "Common",
+      "type": "other",
+      "categories": ["products"],
+      "description": null,
+      "documentationUrl": "https://openbanking.gjensidige.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.gjensidige.no/portal-sandbox/node/165",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://openbanking.gjensidige.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.gjensidige.no/portal-sandbox/node/159",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": null,
+      "documentationUrl": "https://openbanking.gjensidige.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.gjensidige.no/portal-sandbox/node/160",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://openbanking.gjensidige.no/portal-sandbox/documentation",
+      "apiReferenceUrl": "https://openbanking.gjensidige.no/portal-sandbox/node/155",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/no/app/gjensidige/id374040427"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.evry.mobile.android.smartbankmobile.gjensidige&hl=en_US"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "Gjensidige",
+  "crunchbase": "gjensidige-bank",
+  "github": null,
+  "fca": null,
+  "articles": []
+}

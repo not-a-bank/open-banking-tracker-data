@@ -1,0 +1,91 @@
+{
+  "id": "pop-bank-group",
+  "type": ["account"],
+  "bankType": ["universal"],
+  "name": "POP Bank Group",
+  "legalName": "POP Bank Group",
+  "ipoStatus": "private",
+  "verified": false,
+  "icon": "https://lh3.googleusercontent.com/97RBaRwTkIEy2D0HNZvGGJC72KA5gg73rY_hKRBlvCFAi-ouGLpFXQzbQFwUJQOZYbM=s360-rw",
+  "websiteUrl": "https://www.poppankki.fi/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FI",
+  "countries": ["FI"],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.samlink.fi/docs",
+  "apiProducts": [
+    {
+      "label": "Sandbox OAUTH",
+      "type": "other",
+      "categories": ["products"],
+      "description": null,
+      "documentationUrl": "https://developer.samlink.fi/tech-doc",
+      "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": null,
+      "documentationUrl": "https://developer.samlink.fi/tech-doc",
+      "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": null,
+      "documentationUrl": "https://developer.samlink.fi/tech-doc",
+      "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Sandbox management",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": null,
+      "documentationUrl": "https://developer.samlink.fi/tech-doc",
+      "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiStandards": ["BERLIN"],
+  "apiAggregators": [
+    "neonomics"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/id1424999562"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=fi.poppankki.popmobile&hl=en_US"
+    }
+  ],
+  "stockSymbol": null,
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "POPPankki",
+  "crunchbase": null,
+  "github": null,
+  "fca": null,
+  "articles": []
+}
