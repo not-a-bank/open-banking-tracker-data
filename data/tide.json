@@ -1,19 +1,27 @@
 {
   "id": "tide",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "tide.",
   "legalName": "Tide Platform Limited",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1553854943/radar/icons/Tide.jpg",
   "websiteUrl": "https://www.tide.co/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
@@ -22,11 +30,18 @@
     "status": "available"
   },
   "developerPortalUrl": "https://tideapi.github.io/docs/#introduction",
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://tideapi.github.io/docs/#introduction",
+  "apiChangelogUrl": null,
   "apiProducts": [
     {
       "label": "Accounts",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "This endpoint retrieves a collection of company accounts associated with the user.",
       "documentationUrl": "https://tideapi.github.io/docs/#accounts",
       "apiReferenceUrl": "https://tideapi.github.io/docs/#accounts",
@@ -36,7 +51,9 @@
     {
       "label": "Transactions",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "This endpoint retrieves a collection of an account’s transactions.",
       "documentationUrl": "https://tideapi.github.io/docs/#transactions",
       "apiReferenceUrl": "https://tideapi.github.io/docs/#transactions",
@@ -46,7 +63,9 @@
     {
       "label": "Companies",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "This endpoint retrieves a collection of companies with the user.",
       "documentationUrl": "https://tideapi.github.io/docs/#companies",
       "apiReferenceUrl": "https://tideapi.github.io/docs/#companies",
@@ -56,7 +75,9 @@
     {
       "label": "Authentication",
       "type": "auth",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "description": "Tide implements OAuth 2 to authenticate requests.",
       "documentationUrl": "https://tideapi.github.io/docs/#authentication",
       "apiReferenceUrl": "https://tideapi.github.io/docs/#authentication",
@@ -65,6 +86,9 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [],
+  "sdks": null,
+  "postmanCollections": null,
   "webApplication": true,
   "mobileApps": [
     {
@@ -76,7 +100,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.tideplatform.banking&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [
     {
@@ -86,8 +109,66 @@
     }
   ],
   "twitter": "TideBanking",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tide_(financial_service)",
   "crunchbase": "tide-2",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000001SHTjVAAX",
-  "articles": []
+  "articles": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "applePay": null,
+  "googlePay": null,
+  "samsungPay": null,
+  "fitbitPay": null,
+  "fscsProtected": null,
+  "products": null,
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936490/catalog/sage/icon128x128.jpg",
+      "websiteUrl": "https://sagecrm.com"
+    },
+    {
+      "id": "freeagent",
+      "name": "FreeAgent",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531304984/catalog/freeagent/icon128x128.png",
+      "websiteUrl": "https://www.freeagent.com/"
+    },
+    {
+      "id": "kashflow",
+      "name": "Kashflow",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1548122135/catalog/kashflow/icon128x128.png",
+      "websiteUrl": "https://www.kashflow.com/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "reckon-one",
+      "name": "Reckon One",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531056137/catalog/reckon-one/icon128x128.png",
+      "websiteUrl": "https://www.reckon.com/"
+    }
+  ],
+  "platforms": [],
+  "pricingUrl": null,
+  "awards": [],
+  "marketplaceUrl": "https://www.tide.co/features/accounting-integrations/"
 }
