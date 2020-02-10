@@ -1,53 +1,86 @@
 {
   "id": "banco-santander",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Santander",
+  "description": null,
   "legalName": "Banco Santander, S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "BME:SAN",
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Banco_Santander.jpg",
   "websiteUrl": "https://www.santander.com/csgs/Satellite/CFWCSancomQP01/es_ES/Corporativo.html?leng=en_GB",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "ES",
-  "countries": ["GB","ES","PT","DE","PL"],
+  "countries": [
+    "GB",
+    "ES",
+    "PT",
+    "DE",
+    "PL"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl":null
+    "sourceUrl": null
   },
   "developerPortalUrl": "https://developer.santander.co.uk/sanuk/external",
   "openBankProjectUrl": "https://santander.openbankproject.com",
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.santander.co.uk/sanuk/external",
+  "apiChangelogUrl": null,
   "apiProducts": [
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Give customers secure access to transaction data and balance data via our BNP Paribas Fortis Account Information API.",
-      "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/7",
-      "apiReferenceUrl": null,
+      "documentationUrl": "https://developer.santander.co.uk/sanuk/external/account-and-transactions-v3",
+      "apiReferenceUrl": "null",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
     },
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Give customers the option to initiate payments via our BNP Paribas Fortis Payment Initiation API.",
-      "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/4",
-      "apiReferenceUrl": null,
+      "documentationUrl": "https://developer.santander.co.uk/sanuk/external/product/open-banking-payment-initiation",
+      "apiReferenceUrl": "https://developer.santander.co.uk/sanuk/external/payment-initiation-v3",
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.santander.co.uk/sanuk/external/product/confirmation-funds",
+      "apiReferenceUrl": "https://developer.santander.co.uk/sanuk/external/confirmation-funds-v3",
+      "premium": false,
+      "stage": "live"
     }
   ],
   "apiStandards": [],
@@ -63,6 +96,8 @@
   "collections": [
     "cma9"
   ],
+  "sdks": null,
+  "postmanCollections": null,
   "webApplication": true,
   "mobileApps": [
     {
@@ -74,7 +109,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=uk.co.santander.santanderUK&hl=en"
     }
   ],
-  "stockSymbol": "BME:SAN",
   "investorRelationsUrl": "https://www.santander.com/csgs/Satellite/CFWCSancomQP01/en_GB/Corporate/Investor-Relations.html",
   "financialReports": [
     {
@@ -84,8 +118,31 @@
     }
   ],
   "twitter": "bancosantander",
+  "wikipediaUrl": null,
   "crunchbase": "banco-santander",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfGAiAAN",
-  "articles": []
+  "articles": [],
+  "stack": [
+    "ibm-api-connect"
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "applePay": null,
+  "googlePay": null,
+  "samsungPay": null,
+  "fitbitPay": null,
+  "fscsProtected": null,
+  "products": null,
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "pricingUrl": null,
+  "awards": []
 }
