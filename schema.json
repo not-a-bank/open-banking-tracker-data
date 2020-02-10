@@ -246,6 +246,22 @@
         }
       ]
     },
+    "apiAccessTypes": {
+      "anyOf": [
+        {
+          "type": "array",
+          "uniqueItems": true,
+          "x-data-partner": "yapily",
+          "items": {
+            "enum": [
+              "screen-scraping",
+              "mci",
+              "api"
+            ]
+          }
+        }
+      ]
+    },
     "apiAggregators": {
       "anyOf": [
         {
