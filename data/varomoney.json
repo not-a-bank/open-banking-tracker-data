@@ -6,7 +6,7 @@
   "bankType": [
     "challenger"
   ],
-  "name": "Varo",
+  "name": "Varo Money",
   "description": "Get a Bank Account and a high-yield Savings Account with no fees. Get paid up to 2 days early and use 55,000+ free Allpoint ATMs. Try Varo online banking today!",
   "legalName": "Varo Money Inc.",
   "ipoStatus": "private",
@@ -23,13 +23,13 @@
   ],
   "compliance": [],
   "developerPortalUrl": null,
-  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiAggregators": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -38,12 +38,17 @@
     }
   ],
   "financialReports": [],
+  "twitter": "varomoney",
   "bloomberg": null,
-  "bankingLicense": null,
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }

@@ -105,6 +105,7 @@
     "tink",
     "truelayer"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -155,6 +156,20 @@
       "sourceDate": "2019-11-28",
       "features": [
         "direct-debit-payments"
+      ]
+    },
+    {
+      "name": "TrueLayer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568569722/catalog/truelayer/icon128x128.png",
+      "websiteUrl": "https://truelayer.com/",
+      "id": "truelayer",
+      "title": "Revolut's Open Banking Service For UK Customers",
+      "desription": "Revolut launches an Open Banking feature, allowing customers to access all their bank accounts on one app to make managing finances easier and more efficient.",
+      "sourceUrl": "https://www.pymnts.com/news/banking/2020/revolut-starts-open-banking-service-for-uk-customers/",
+      "sourceDate": "2020-02-11",
+      "features": [
+        "account-aggregation",
+        "personal-finance-management"
       ]
     }
   ],
