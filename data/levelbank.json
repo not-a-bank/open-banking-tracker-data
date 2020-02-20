@@ -1,0 +1,59 @@
+{
+  "id": "levelbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Level",
+  "description": "Level - a high-APY deposit account that gives you the rewards you actually want.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1582175265/radar/icons/levelbank.jpg",
+  "websiteUrl": "https://levelbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/id1150056128"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=inc.zerofinancial.level&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "thirdPartyBankingLicense": "evolve-bank-and-trust",
+  "debitCardLicense": "evolve-bank-and-trust",
+  "debitAccountLicense": "evolve-bank-and-trust",
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
