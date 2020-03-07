@@ -1,0 +1,91 @@
+{
+  "id": "brucbond",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "corporate"
+  ],
+  "name": "Brüc + Bond",
+  "description": "At Brüc + Bond our mission is simple. We continually source new and innovative ways to bridge the gaps between our clients and banking partners.",
+  "legalName": "Bruc Bond Pte Ltd",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1583619653/radar/icons/brucbond.jpg",
+  "websiteUrl": "https://www.brucbond.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.brucbond.com/#account-information-ais",
+      "apiReferenceUrl": "https://developer.brucbond.com/#account-information-ais",
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.brucbond.com/#payment-initiation-pis",
+      "apiReferenceUrl": "https://developer.brucbond.com/#payment-initiation-pis",
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.brucbond.com/#confirmation-availability-of-funds-cbpii",
+      "apiReferenceUrl": "https://developer.brucbond.com/#confirmation-availability-of-funds-cbpii",
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "BrucBond",
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
