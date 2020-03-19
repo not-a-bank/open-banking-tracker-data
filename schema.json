@@ -455,6 +455,17 @@
         {"type": "null"}
       ]
     },
+    "apiAccessRequestUrl": {
+      "description": "Url/email where you can request API access",
+      "anyOf": [
+        {
+          "enum": [
+            "verifiedTpp"
+          ]
+        }, 
+        { "type": "null" }
+      ]
+    },
     "apiProducts": {
       "anyOf": [
         { "type": "null" },
