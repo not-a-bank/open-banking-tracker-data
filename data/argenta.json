@@ -1,21 +1,30 @@
 {
   "id": "argenta",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "Argenta",
-  "legalName": "Argenta Spaarbank N.V.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Argenta_(bank)",
   "description": "Argenta is a bank based in Belgium that also operates in the Netherlands and Luxembourg. The Argenta headquarters are in Antwerp.",
+  "legalName": "Argenta Spaarbank N.V.",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1553172240/radar/icons/argenta.png",
-  "websiteUrl": "https://www.argenta.be/",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1585231965/radar/icons/argenta-be.png",
+  "websiteUrl": "https://argenta.be",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "BE",
-  "countries": ["BE","NL","LU"],
+  "countries": [
+    "BE",
+    "NL",
+    "LU"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -24,12 +33,16 @@
     "status": "available"
   },
   "developerPortalUrl": "https://portal.test-payments.argenta.be/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
   "apiProducts": [],
   "apiStandards": [],
   "apiAggregators": [
-    "klarna",
-    "banqup"
+    "klarna"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -41,8 +54,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=be.argenta.bankieren&hl=en"
     }
   ],
-  "stockSymbol": null,
-  "investorRelationsUrl": "http://www.argenta.eu/investor-relations/",
   "financialReports": [
     {
       "label": "H1 2018",
@@ -50,9 +61,19 @@
       "url": "http://www.argenta.eu/wp-content/uploads/2016/05/447211-ARGENTA-REPORT-2018-WEB.pdf"
     }
   ],
-  "twitter": "argenta",
-  "crunchbase": null,
-  "github": null,
-  "fca": null,
-  "articles": []
+  "twitter": "https://twitter.com/argenta",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Argenta_(bank)",
+  "bloomberg": null,
+  "articles": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
