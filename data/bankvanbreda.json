@@ -86,7 +86,12 @@
   "financialReports": [],
   "bloomberg": null,
   "stack": [
-    "equensworldline"
+    {
+      "id": "equensworldline",
+      "name": "equensWorldline",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1585230089/catalog/equensworldline/icon128x128.png",
+      "websiteUrl": "https://equensworldline.com/"
+    }
   ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
