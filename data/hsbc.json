@@ -12,7 +12,7 @@
   "stockSymbol": "LON:HSBA",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568854389/radar/icons/hsbc.svg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552239844/radar/icons/hsbc.svg",
   "websiteUrl": "https://www.hsbc.com/",
   "ownership": [],
   "stateOwned": false,
@@ -36,22 +36,14 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://developer.hsbc.com/"
+    "sourceUrl": "https://www.businesswire.com/news/home/20190307005306/en/HSBC-Launches-PSD2-Developer-Portal-Expanded-APIs"
   },
   "developerPortalUrl": "https://developer.hsbc.com/",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.hsbc.com/",
-  "apiAggregators": [
-    "truelayer",
-    "klarna",
-    "salt-edge",
-    "token",
-    "yolt",
-    "openwrks",
-    "plaid"
-  ],
   "apiProducts": [
     {
       "label": "Account Information",
@@ -177,7 +169,22 @@
       ]
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "STET",
+    "OBIE"
+  ],
+  "apiAggregators": [
+    "truelayer",
+    "klarna",
+    "salt-edge",
+    "token",
+    "yolt",
+    "openwrks",
+    "plaid"
+  ],
+  "collections": [
+    "cma9"
+  ],
   "webApplication": true,
   "mobileApps": [],
   "investorRelationsUrl": "https://www.hsbc.com/investors/",
@@ -194,10 +201,36 @@
   "github": null,
   "fca": "001b000000MfELyAAN",
   "articles": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Mulesoft Anypoint Platform",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574464879/catalog/mulesoft-anypoint/icon128x128.png",
+      "websiteUrl": "https://www.mulesoft.com/platform/enterprise-integration",
+      "id": "mulesoft-anypoint",
+      "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
+    },
+    {
+      "name": "Salesforce Service Cloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1572362983/catalog/salesforce-service-cloud/icon128x128.png",
+      "websiteUrl": "https://www.salesforce.com/eu/products/service-cloud/overview/",
+      "id": "salesforce-service-cloud",
+      "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
+    },
+    {
+      "name": "Salesforce Community Cloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1563067308/catalog/salesforce-community-cloud/icon128x128.jpg",
+      "id": "salesforce-community-cloud",
+      "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
+    }
+  ],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }
