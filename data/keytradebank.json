@@ -1,0 +1,68 @@
+{
+  "id": "keytradebank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Keytrade Bank",
+  "description": "Keytrade Bank is a financial services company based in Belgium with a subsidiary in Luxembourg.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1585233646/radar/icons/keytradebank-be.jpg",
+  "websiteUrl": "https://keytradebank.be",
+  "ownership": [
+    {
+      "providerId": "credit-mutuel",
+      "shareholderName": "Crédit Mutuel",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568569725/catalog/credit-mutuel/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": [
+    "BE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.keytradebank.be"
+  },
+  "developerPortalUrl": "https://developer.keytradebank.be",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.keytradebank.be",
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "https://twitter.com/Keytradebank",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
