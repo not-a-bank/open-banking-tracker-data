@@ -1,0 +1,99 @@
+{
+  "id": "bankvanbreda",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "unviversal"
+  ],
+  "name": "Bank van Breda",
+  "description": "Bank J.Van Breda & C° helpt u bij de systematische opbouw, het beheer en bescherming van uw vermogen.\n\nBij ons kan u rekenen op een persoonlijke, proactieve begeleiding. Zowel privé als professioneel. Uw leven lang.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1585228825/radar/icons/bankvanbreda-be.png",
+  "websiteUrl": "https://bankvanbreda.be",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": [
+    "BE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://xs2a-devportal.bankvanbreda.be/news"
+  },
+  "developerPortalUrl": "https://xs2a-devportal.bankvanbreda.be/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.bankvanbreda.be/successie",
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a-devportal.bankvanbreda.be/psd2-ais-v5/apis",
+      "apiReferenceUrl": "https://xs2a-devportal.bankvanbreda.be/psd2-ais-v5/apis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a-devportal.bankvanbreda.be/psd2-pis-v5/apis",
+      "apiReferenceUrl": "https://xs2a-devportal.bankvanbreda.be/psd2-pis-v5/apis",
+      "standars": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Receive a confirmation of available funds to cover a proposed transaction amount.",
+      "documentationUrl": "https://xs2a-devportal.bankvanbreda.be/psd2-fcs-v5/apis",
+      "apiReferenceUrl": "https://xs2a-devportal.bankvanbreda.be/psd2-fcs-v5/apis",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
