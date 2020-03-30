@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568488197/radar/icons/brd.png",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1553596162/radar/icons/BRD.png",
   "websiteUrl": "https://www.brd.ro/en",
   "ownership": [
     {
@@ -36,14 +36,13 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://www.devbrd.ro/brd/apisandbox/"
+    "sourceUrl": "https://www.devbrd.ro/brd/apicatalog/"
   },
-  "developerPortalUrl": "https://www.devbrd.ro/brd/apisandbox/",
+  "developerPortalUrl": "https://www.devbrd.ro/brd/apicatalog/",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://www.devbrd.ro/brd/apisandbox/",
-  "apiAggregators": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -53,7 +52,7 @@
       ],
       "description": "Provides information and transactions, about customer's accounts",
       "documentationUrl": null,
-      "apiReferenceUrl": "https://www.devbrd.ro/brd/apisandbox/product/36/api/6",
+      "apiReferenceUrl": "https://www.devbrd.ro/brd/apicatalog/product/357/api/324",
       "premium": false,
       "stage": "live"
     },
@@ -65,12 +64,14 @@
       ],
       "description": "Provides money transfer services",
       "documentationUrl": null,
-      "apiReferenceUrl": "https://www.devbrd.ro/brd/apisandbox/product/36/api/23",
+      "apiReferenceUrl": "https://www.devbrd.ro/brd/apicatalog/product/357/api/354",
       "premium": false,
       "stage": "live"
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -91,10 +92,18 @@
       "url": "https://www.brd.ro/_files/pdf/BRD-Preliminary%20financial%20statement%20%2031.12.2018.pdf"
     }
   ],
-  "twitter": null,
-  "crunchbase": null,
   "bloomberg": null,
-  "github": null,
-  "fca": null,
-  "articles": []
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
