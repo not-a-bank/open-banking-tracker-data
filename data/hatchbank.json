@@ -1,0 +1,57 @@
+{
+  "id": "hatchbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Hatch Bank",
+  "description": "Hatch is a digital-first bank improving how people save, spend, borrow, and send money by creating strategic relationships with fintech businesses.",
+  "legalName": "Hatch Bank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1585655609/radar/icons/hatchbank.png",
+  "websiteUrl": "https://www.hatchbank.com/",
+  "ownership": [
+    {
+      "providerId": "firstrust",
+      "shareholderName": "Firstrust Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1585655827/catalog/firstrust/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
