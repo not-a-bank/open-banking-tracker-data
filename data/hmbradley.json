@@ -1,0 +1,64 @@
+{
+  "id": "hmbradley",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "HMBradley",
+  "description": "Banking is old. Building is new. HMBradley develops a digital banking platform that automates the process of physical banking.",
+  "legalName": "HM Bradley, Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1585814805/radar/icons/hmbradley.png",
+  "websiteUrl": "https://www.hmbradley.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "_hmbradley",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": "hatchbank",
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "name": "Hatch Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1585655824/catalog/hatchbank/icon128x128.png",
+      "websiteUrl": "https://www.hatchbank.com/"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
