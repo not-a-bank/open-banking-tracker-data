@@ -1,0 +1,113 @@
+{
+  "id": "mettle-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Mettle",
+  "description": "Mettle (by NatWest) is a digital bank account for small and medium-sized businesses.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1586373938/radar/icons/mettle-uk.png",
+  "websiteUrl": "https://www.mettle.co.uk/",
+  "ownership": [
+    {
+      "providerId": "natwest",
+      "shareholderName": "NatWest",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1567671203/catalog/natwest/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.bankofapis.com",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.bankofapis.com",
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "joinmettle",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "csv",
+      "name": "CSV",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583934822/catalog/csv/icon128x128.svg"
+    },
+    {
+      "id": "excel",
+      "name": "Excel",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456646/catalog/excel/icon128x128.png",
+      "websiteUrl": "https://office.live.com/start/Excel.aspx"
+    },
+    {
+      "id": "freeagent",
+      "name": "FreeAgent",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531304984/catalog/freeagent/icon128x128.png",
+      "websiteUrl": "https://www.freeagent.com/"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936490/catalog/sage/icon128x128.jpg",
+      "websiteUrl": "https://sagecrm.com"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "wave",
+      "name": "Wave",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586373256/catalog/wave/icon128x128.png",
+      "websiteUrl": "https://www.waveapps.com/"
+    },
+    {
+      "id": "crunch-uk",
+      "name": "Crunch",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586373273/catalog/crunch-uk/icon128x128.png",
+      "websiteUrl": "https://www.crunch.co.uk/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.mettle.co.uk/features/accounting-integrations"
+}
