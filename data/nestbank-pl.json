@@ -1,0 +1,109 @@
+{
+  "id": "nestbank-pl",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Nest Bank",
+  "description": "Nest Bank is a Polish retail and SME lender.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1586384820/radar/icons/nestbank-pl.png",
+  "websiteUrl": "https://nestbank.pl/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "PL",
+  "countries": [
+    "PL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://psd2api.nestbank.pl/"
+  },
+  "developerPortalUrl": "https://psd2api.nestbank.pl/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://psd2api.nestbank.pl/",
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2api.nestbank.pl/#/services/2/2",
+      "apiReferenceUrl": "https://psd2api.nestbank.pl/#/services/2/2",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2api.nestbank.pl/#/services/1/1",
+      "apiReferenceUrl": "https://psd2api.nestbank.pl/#/services/1/1",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2api.nestbank.pl/#/services/3/3",
+      "apiReferenceUrl": "https://psd2api.nestbank.pl/#/services/3/3",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "POLISHAPI"
+  ],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/nest-bank-nowy/id1386204117?l=pl&ls=1&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=pl.nestbank.nestbank&hl=pl"
+    }
+  ],
+  "financialReports": [],
+  "crunchbase": "nest-bank",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
