@@ -1,0 +1,102 @@
+{
+  "id": "solarisbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "solarisBank",
+  "description": "Banking platform for finance pioneers ➜ solarisBank empowers your business to build world-beating products - Fast, scalable, secure – solarisBank",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1586381948/radar/icons/solarisbank.jpg",
+  "websiteUrl": "https://www.solarisbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a-portal.solaris-sandbox.de/#/apis/25/136",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a-portal.solaris-sandbox.de/#/apis/25/133",
+      "apiReferenceUrl": "https://xs2a-portal.solaris-sandbox.de/#/apis/25/133",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a-portal.solaris-sandbox.de/#/apis/25/133",
+      "apiReferenceUrl": "https://xs2a-portal.solaris-sandbox.de/#/apis/25/133",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a-portal.solaris-sandbox.de/#/apis/25/133",
+      "apiReferenceUrl": "https://xs2a-portal.solaris-sandbox.de/#/apis/25/133",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "solarisBank",
+  "bloomberg": null,
+  "stack": [
+    {
+      "id": "ndgit",
+      "name": "ndgit",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586383027/catalog/ndgit/icon128x128.png",
+      "websiteUrl": "https://nextdigitalbanking.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
