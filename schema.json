@@ -250,12 +250,11 @@
         }
       ]
     },
-    "apiAccessTypes": {
+    "tppAccessInterface": {
       "anyOf": [
         {
           "type": "array",
           "uniqueItems": true,
-          "x-data-partner": "yapily",
           "items": {
             "enum": [
               "screen-scraping",
