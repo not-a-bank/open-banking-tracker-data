@@ -1,0 +1,85 @@
+{
+  "id": "pumb-ua",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "First Ukrainian International Bank (FUIB)",
+  "description": "The First Ukrainian International Bank is one of the leading Ukrainian banks, largely owned by SCM Holdings.",
+  "legalName": "PUBLIC JOINT STOCK COMPANY \"FIRST UKRAINIAN INTERNATIONAL BANK\"",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1586779802/radar/icons/pumb-ua.jpg",
+  "websiteUrl": "https://www.pumb.ua/",
+  "ownership": [
+    {
+      "shareholderName": "SCM Holdings",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1586783827/catalog/scmholdings-cy/icon128x128.jpg",
+      "providerId": "scmholdings-cy"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "UA",
+  "countries": [
+    "UA"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/ua/app/%D0%BF%D1%83%D0%BC%D0%B1-online/id1373626840?l=ru&mt=8&utm_source=website&utm_medium=pumbonline_ios&utm_campaign=website&fbclid=IwAR0He9fO7j6pVRdeX5ea5PI_jqj8laWTYxSb4BDPwhHGg6lMqT-fFKZyCQQ"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fuib.android.spot.online&fbclid=IwAR2MZoPO1q2fkO9MrHDndXFjOqAmigTFbXA3xIID3vTwqYZM5AT1rWizdWw"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "pumbua",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/First_Ukrainian_International_Bank",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "visa",
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "maestro",
+      "name": "Maestro",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151309/catalog/maestro/icon128x128.png",
+      "websiteUrl": "https://stage.maestrocard.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
