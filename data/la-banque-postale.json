@@ -1,41 +1,52 @@
 {
   "id": "la-banque-postale",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "La Banque Postale",
   "legalName": "La Banque Postale S.A.",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/La_Banque_Postale.jpg",
   "websiteUrl": "https://www.labanquepostale.fr/",
   "ownership": [
-    { 
+    {
       "shareholderName": "La Poste",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552469076/radar/icons/Le-Groupe-La-Poste.jpg",
       "providerId": null,
-      "percentage": 100.0
+      "percentage": 100
     }
   ],
   "stateOwned": true,
   "countryHQ": "FR",
-  "countries": ["FR"],
+  "countries": [
+    "FR"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
-    "status": "available",
-    "sourceUrl": null
+    "status": "available"
   },
-  "developerPortalUrl": "https://kbcireland.dev.ca.com/admin/login?to-default-config=true&zone=topnav",
+  "developerPortalUrl": "https://developer.labanquepostale.com/",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": "https://labanquepostale.openbankproject.com/",
+  "slackCommunity": false,
+  "apiAuth": [],
   "apiProducts": [],
   "apiStandards": [],
   "apiAggregators": [
     "klarna"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -47,12 +58,24 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.fullsix.android.labanquepostale.accountaccess&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "LaBanquePostale",
   "crunchbase": "la-banque-postale",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000003YBGgtAAH",
-  "articles": []
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
