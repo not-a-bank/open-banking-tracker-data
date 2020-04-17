@@ -28,7 +28,8 @@
   "slackCommunity": false,
   "apiAuth": ["OAUTH2", "OPENID-CONNECT"],
   "apiAggregators": [
-    "truelayer"
+    "truelayer",
+    "banked"
   ],
   "apiProducts": [
     {
