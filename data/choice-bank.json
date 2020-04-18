@@ -1,0 +1,59 @@
+{
+  "id": "choice-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
+  "name": "Choice Bank",
+  "description": "As a PeopleFirst community bank, Choice Bank provides a wide array of banking solutions. Member FDIC. Equal Housing Lender. Choice Bank is a division of CFG.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1587227558/radar/icons/bankwithchoice.jpg",
+  "websiteUrl": "https://bankwithchoice.com/",
+  "ownership": [
+    {
+      "providerId": "citizensbank",
+      "shareholderName": "Citizens Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1587227999/catalog/citizensbank/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "BankWithChoice",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
