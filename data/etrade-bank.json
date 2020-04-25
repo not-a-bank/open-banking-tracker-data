@@ -1,0 +1,58 @@
+{
+  "id": "etrade-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "E*TRADE Bank",
+  "description": "Bank with more benefits with E*TRADE Bank. Explore our online banking services & experience a higher yield and lower cost of our Max-Rate Checking Account.",
+  "legalName": "E*TRADE Financial Corp.",
+  "ipoStatus": "public",
+  "stockSymbol": "ETFC",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1587834432/radar/icons/etrade-bank.jpg",
+  "websiteUrl": "https://us.etrade.com/bank",
+  "ownership": [
+    {
+      "providerId": "etrade",
+      "shareholderName": "E*TRADE",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1587833017/catalog/etrade/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "etrade",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
