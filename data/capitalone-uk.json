@@ -1,0 +1,77 @@
+{
+  "id": "capitalone-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Capital One UK",
+  "description": "Capital One is one of the UK’s top ten largest card providers starting back in 1996 and has based its ethos around a fair and holistic approach to providing credit.",
+  "legalName": "Capital One Financial Corporation",
+  "ipoStatus": "public",
+  "stockSymbol": "COF",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588038612/radar/icons/capitalone-uk.jpg",
+  "websiteUrl": "https://www.capitalone.co.uk/",
+  "ownership": [
+    {
+      "providerId": "capitalone",
+      "shareholderName": "Capital One",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1588039295/catalog/capitalone/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.twitter.com/CapitalOneUK",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.twitter.com/CapitalOneUK",
+  "apiProducts": [
+    {
+      "label": "Account Information Services API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.capitalone.co.uk/api/open-banking-sandbox/index.html#account-information-services-api",
+      "apiReferenceUrl": "https://developer.capitalone.co.uk/api/open-banking-sandbox/index.html#account-information-services-api",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "CapitalOneUK",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
