@@ -1,0 +1,66 @@
+{
+  "id": "lsb-dk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Lån & Spar Bank",
+  "legalName": "Lån & Spar Bank A/S",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588106661/radar/icons/lsb-dk.png",
+  "websiteUrl": "https://www.lsb.dk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DK",
+  "countries": [
+    "DK"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "sourceUrl": "https://www.lsb.dk/erhverv/tpp"
+  },
+  "developerPortalUrl": "https://sdcinfo.dk/tpp/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [
+    "nordic-api-gateway"
+  ],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "mastercard",
+      "name": "mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
