@@ -1,0 +1,72 @@
+{
+  "id": "cibc",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "CIBC",
+  "description": "The Canadian Imperial Bank of Commerce, commonly referred to as CIBC, is one of the \"Big Five\" banks in Canada. The bank is headquartered at Commerce Court in Toronto, Ontario.",
+  "legalName": "Canadian Imperial Bank of Commerce",
+  "ipoStatus": "public",
+  "stockSymbol": "CM",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588197337/radar/icons/cibc.png",
+  "websiteUrl": "https://www.cibc.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CA",
+  "countries": [
+    "CA",
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "cibc",
+  "bloomberg": null,
+  "swiftCode": "CIBCCATT",
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "ceridian",
+      "name": "Ceridian",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567369114/catalog/ceridian/icon128x128.jpg",
+      "websiteUrl": "https://www.ceridian.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
