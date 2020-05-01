@@ -1,0 +1,64 @@
+{
+  "id": "wise-us",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Wise",
+  "description": "Wise is on a mission is to be alongside ambitious businesses, every step of the way. Wise envisions a world where modern businesses can bank, pay, and get paid — effortlessly!",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588375815/radar/icons/wise-us.jpg",
+  "websiteUrl": "https://www.wise.us/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": "bbva",
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "name": "BBVA",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1563407702/catalog/bbva/icon128x128.png",
+      "websiteUrl": "https://bbva.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.wise.us/product/apps"
+}
