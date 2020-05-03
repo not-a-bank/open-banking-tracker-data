@@ -67,7 +67,9 @@
   "apiStandards": [
     "POLISHAPI"
   ],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "enablebanking"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [
