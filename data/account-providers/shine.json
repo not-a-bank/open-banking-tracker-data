@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568814430/radar/icons/shine.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1562278922/radar/icons/shine.jpg",
   "websiteUrl": "https://www.shine.fr/",
   "ownership": [],
   "stateOwned": false,
@@ -24,19 +24,18 @@
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "unknown"
     }
   ],
   "sandbox": {
-    "status": "available",
-    "sourceUrl": "https://developers.shine.fr/reference"
+    "status": "available"
   },
-  "developerPortalUrl": "https://developers.shine.fr/reference",
+  "developerPortalUrl": null,
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developers.shine.fr/reference",
-  "apiAggregators": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -76,6 +75,8 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
   "apiAccess": "verifiedTpp",
   "webApplication": false,
   "mobileApps": [
@@ -96,12 +97,12 @@
   "github": null,
   "fca": null,
   "articles": [],
-  "keySegments": [
-    "freelancer"
-  ],
   "stack": [
     "treezor"
   ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "customers": null,
   "fundingTotal": null,
   "foundedYear": 2016,
@@ -120,10 +121,8 @@
   "fscsProtected": false,
   "products": {},
   "partnerships": [],
-  "platforms": [
-    "mobile",
-    "web"
-  ],
+  "integrations": [],
+  "platforms": [],
   "pricingUrl": "https://www.shine.fr/tarifs/",
   "awards": []
 }

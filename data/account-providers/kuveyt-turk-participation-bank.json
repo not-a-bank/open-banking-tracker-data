@@ -1,0 +1,79 @@
+{
+  "id": "kuveyt-turk-participation-bank",
+  "type": ["account"],
+  "bankType": ["corporate","retail"],
+  "name": "Kuveyt Turk Participation Bank",
+  "aliases": [
+    "Kuveyt Türk Participation Bank"
+  ],
+  "legalName": "Kuveyt Turk Participation Bank",
+  "ipoStatus": "public",
+  "verified": false,
+  "icon": "https://www.kuveytturk.com.tr/_assets/files/logo/kt_yesil_logo_slogan.jpg",
+  "websiteUrl": "https://www.kuveytturk.com.tr/",
+  "ownership": [
+    { 
+      "shareholderName": "Kuwait Finance House",
+      "shareholderIconUrl": "https://www.kuveytturk.com.tr/_assets/files/logo/kt_yesil_logo_slogan.jpg",
+      "providerId": "kuveyt-turk-participation-bank",
+      "percentage": 100.0,
+      "sourceUrl": "https://www.kuveytturk.com.tr/en/investor-relations"
+    }
+  ],
+  "stateOwned": true,
+  "countryHQ": "TR",
+  "countries": ["TR"],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developer.kuveytturk.com.tr/#/",
+  "apiProducts": [    
+    {
+      "label": "Account List",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Retrievs all accounts based on account number (sent via token), including current accounts, deposit accounts, investment accounts and joint accounts. There are filtering parameters like, account suffix number, show only open account, show only accounts with available balance, show only accounts with no available balance, show only current accounts and show only joint accounts with multi-signature.",
+      "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Account%20List",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Account Transactions",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Gets a list that contains all transactions for current accounts that are performed by the customer. If filtering parameters are not entered, last 7 days' history will be retrieved. If date range is longer than a year, last 7 days' history will be retrieved.",
+      "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Account%20Transactions",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/tr/app/kuveyt-t%C3%BCrk/id840914223?l=tr"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.kuveytturk.mobil&hl=en"
+    }
+  ],
+  "stockSymbol": null, 
+  "investorRelationsUrl": "https://www.kuveytturk.com.tr/en/investor-relations",
+  "financialReports": [
+    {
+      "label": "2018 Annual Reports",
+      "date": null,
+      "url": "https://www.kuveytturk.com.tr/medium/document-file-2546.vsf"
+    }
+  ],
+  "twitter": "kuveytturk",
+  "crunchbase": "kuveyt-turk-bank",
+  "github": "https://github.com/KuveytTurk",  
+  "articles": []
+}
