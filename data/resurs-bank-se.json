@@ -1,0 +1,67 @@
+{
+  "id": "resurs-bank-se",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Resurs Bank",
+  "legalName": "Resurs Bank Aktiebolag",
+  "verified": false,
+  "icon": "logos/SE5164010208.png",
+  "websiteUrl": "https://ucarecdn.com/a1572907-861b-4f4d-8d85-64ab424363e1/-/preview/170x170/-/crop/180x180/center/SE5164010208.png",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SE",
+  "countries": [
+    "SE",
+    "FI"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://crosskey.io/stores/resursbank/apis",
+  "apiStandards": [
+    "OBIE"
+  ],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}

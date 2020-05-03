@@ -1,0 +1,39 @@
+{
+  "id": "sbab-bank-se",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "SBAB Bank",
+  "legalName": "SBAB Bank AB (publ)",
+  "verified": false,
+  "icon": "https://ucarecdn.com/39947081-8ede-48bd-ac9b-60889bcab706/-/preview/170x170/-/crop/180x180/center/SE5562537513.png",
+  "websiteUrl": "https://www.sbab.se/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SE",
+  "countries": [
+    "SE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": null,
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}
