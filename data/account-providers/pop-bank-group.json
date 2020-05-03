@@ -1,9 +1,13 @@
 {
   "id": "pop-bank-group",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "POP Bank Group",
-  "legalName": "POP Bank Group",
+  "legalName": "Bonum Pankki Oy",
   "ipoStatus": "private",
   "verified": false,
   "icon": "https://lh3.googleusercontent.com/97RBaRwTkIEy2D0HNZvGGJC72KA5gg73rY_hKRBlvCFAi-ouGLpFXQzbQFwUJQOZYbM=s360-rw",
@@ -11,7 +15,9 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "FI",
-  "countries": ["FI"],
+  "countries": [
+    "FI"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -27,7 +33,9 @@
     {
       "label": "Sandbox OAUTH",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": null,
       "documentationUrl": "https://developer.samlink.fi/tech-doc",
       "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
@@ -37,7 +45,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://developer.samlink.fi/tech-doc",
       "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
@@ -47,7 +57,9 @@
     {
       "label": "Confirmation of Funds",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": null,
       "documentationUrl": "https://developer.samlink.fi/tech-doc",
       "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
@@ -57,7 +69,9 @@
     {
       "label": "Sandbox management",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developer.samlink.fi/tech-doc",
       "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
@@ -65,9 +79,12 @@
       "stage": "sandbox"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
-    "neonomics"
+    "neonomics",
+    "enablebanking"
   ],
   "webApplication": true,
   "mobileApps": [

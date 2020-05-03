@@ -1,7 +1,11 @@
 {
   "id": "alandsbanken-abp",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Ålandsbanken",
   "legalName": "Ålandsbanken Abp",
   "ipoStatus": "public",
@@ -11,7 +15,11 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "AX",
-  "countries": ["AX", "SE", "FI"],
+  "countries": [
+    "AX",
+    "SE",
+    "FI"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -27,7 +35,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "This API allows regulated third party providers to initiate and confirm payments from Ålandsbanken accounts, such as SEPA Credit Transfer and Foreign payments.",
       "documentationUrl": "https://crosskey.io/stores/alandsbanken-fi/apis/89fcd7ad-6a51-4288-9ce1-017a1dd521f2",
       "apiReferenceUrl": "https://crosskey.io/stores/alandsbanken-fi/apis/89fcd7ad-6a51-4288-9ce1-017a1dd521f2",
@@ -37,7 +47,9 @@
     {
       "label": "Confirmation of Funds",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": "This API allows regulated third party providers to get confirmation on the availability of funds for an online payment account.",
       "documentationUrl": "https://crosskey.io/stores/alandsbanken-fi/apis/00f37a97-edf2-4efh-9c56-645cf931ea0b",
       "apiReferenceUrl": "https://crosskey.io/stores/alandsbanken-fi/apis/00f37a97-edf2-4efh-9c56-645cf931ea0b",
@@ -47,7 +59,9 @@
     {
       "label": "Account and Transaction API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "This API allows regulated third party providers to read account information, such as account balance, transaction information and basic account information.",
       "documentationUrl": "https://crosskey.io/stores/alandsbanken-fi/apis/08676acc-8ab3-4af2-afd7-8a15607854e7",
       "apiReferenceUrl": "https://crosskey.io/stores/alandsbanken-fi/apis/08676acc-8ab3-4af2-afd7-8a15607854e7",
@@ -55,9 +69,12 @@
       "stage": "live"
     }
   ],
-  "apiStandards": ["OBIE"],
+  "apiStandards": [
+    "OBIE"
+  ],
   "apiAggregators": [
-    "neonomics"
+    "neonomics",
+    "enablebanking"
   ],
   "webApplication": true,
   "mobileApps": [
