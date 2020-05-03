@@ -1,0 +1,81 @@
+{
+  "id": "mastercard",
+  "type": "account",
+  "name": "mastercard",
+  "description": "Mastercard is a leading global payments & technology company that connects consumers, businesses, merchants, issuers & governments around the world.",
+  "legalName": "Mastercard Incorporated",
+  "ipoStatus": "public",
+  "stockSymbol": "MA",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588542972/radar/icons/mastercard.jpg",
+  "websiteUrl": "https://mastercard.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://developer.mastercard.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.mastercard.com/",
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [
+    "fidel-uk"
+  ],
+  "collections": [],
+  "sdks": [
+    {
+      "official": true,
+      "type": "php"
+    },
+    {
+      "official": true,
+      "type": "python"
+    },
+    {
+      "official": true,
+      "type": "csharp"
+    },
+    {
+      "official": true,
+      "type": "java"
+    },
+    {
+      "official": false,
+      "type": "node"
+    },
+    {
+      "official": false,
+      "type": "ruby"
+    }
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "MastercardNews",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Extend",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1588537652/catalog/paywithextend/icon128x128.jpg",
+      "websiteUrl": "https://paywithextend.com/"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

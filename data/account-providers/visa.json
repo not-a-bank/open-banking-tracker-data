@@ -1,0 +1,81 @@
+{
+  "id": "visa",
+  "type": "account",
+  "name": "visa",
+  "description": "Visa is a global payments technology company that connects consumers, businesses, financial institutions, and governments to fast, secure and reliable electronic payments.",
+  "legalName": "Visa Inc.",
+  "ipoStatus": "public",
+  "stockSymbol": "VC",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588541535/radar/icons/visa.jpg",
+  "websiteUrl": "https://www.visa.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://usa.visa.com/partner-with-us/developer.html",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://usa.visa.com/partner-with-us/developer.html",
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [
+    "fidel-uk"
+  ],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Visa",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    },
+    {
+      "name": "Samsung",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
+      "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/"
+    },
+    {
+      "name": "Finix",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1581062134/catalog/finixpayments/icon128x128.png",
+      "websiteUrl": "https://finixpayments.com/"
+    },
+    {
+      "name": "Flutterwave",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567469722/catalog/flutterwave/icon128x128.jpg",
+      "websiteUrl": "https://flutterwave.com/"
+    },
+    {
+      "name": "Groupe BPCE",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568662661/catalog/groupe-bpce/icon128x128.jpg",
+      "websiteUrl": "https://www.groupebpce.fr/en"
+    },
+    {
+      "name": "U.S. Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573360755/catalog/usbank/icon128x128.jpg",
+      "websiteUrl": "https://www.usbank.com/"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://usa.visa.com/partner-with-us/payment-technology/visa-b2b-connect.html"
+}
