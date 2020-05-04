@@ -1,22 +1,20 @@
 {
-  "id": "resurs-bank-se",
+  "id": "alm-brand-dk",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "Resurs Bank",
-  "legalName": "Resurs Bank Aktiebolag",
+  "name": "Alm. Brand",
+  "legalName": "ALM. BRAND BANK A/S",
   "verified": false,
-  "icon": "https://ucarecdn.com/a1572907-861b-4f4d-8d85-64ab424363e1/-/preview/170x170/-/crop/180x180/center/SE5164010208.png",
-  "websiteUrl": "https://www.resursbank.se/",
+  "icon": "https://ucarecdn.com/938a4093-0c3d-41da-a4e2-82002ff24f62/-/preview/170x170/-/crop/180x180/center/DK81753512.png",
+  "websiteUrl": "https://www.almbrand.dk/",
   "ownership": [],
   "stateOwned": false,
-  "countryHQ": "SE",
+  "countryHQ": "DK",
   "countries": [
-    "SE",
-    "FI",
     "DK"
   ],
   "compliance": [
@@ -29,10 +27,8 @@
     "status": "available",
     "sourceUrl": null
   },
-  "developerPortalUrl": "https://crosskey.io/stores/resursbank/apis",
-  "apiStandards": [
-    "OBIE"
-  ],
+  "developerPortalUrl": "https://developers.bankdata.dk/",
+  "apiStandards": [],
   "apiProducts": [
     {
       "label": "Accounts API",

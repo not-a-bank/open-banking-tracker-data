@@ -1,22 +1,20 @@
 {
-  "id": "resurs-bank-se",
+  "id": "nordfyns-bank-dk",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "Resurs Bank",
-  "legalName": "Resurs Bank Aktiebolag",
+  "name": "Nordfyns Bank",
+  "legalName": "AKTIESELSKABET NORDFYNS BANK",
   "verified": false,
-  "icon": "https://ucarecdn.com/a1572907-861b-4f4d-8d85-64ab424363e1/-/preview/170x170/-/crop/180x180/center/SE5164010208.png",
-  "websiteUrl": "https://www.resursbank.se/",
+  "icon": "https://ucarecdn.com/f25d3797-f7a2-4b80-a478-a2e93a421e71/-/preview/170x170/-/crop/180x180/center/DK64865218.png",
+  "websiteUrl": "https://www.nordfynsbank.dk/",
   "ownership": [],
   "stateOwned": false,
-  "countryHQ": "SE",
+  "countryHQ": "DK",
   "countries": [
-    "SE",
-    "FI",
     "DK"
   ],
   "compliance": [
@@ -29,10 +27,8 @@
     "status": "available",
     "sourceUrl": null
   },
-  "developerPortalUrl": "https://crosskey.io/stores/resursbank/apis",
-  "apiStandards": [
-    "OBIE"
-  ],
+  "developerPortalUrl": "https://developers.bankdata.dk/",
+  "apiStandards": [],
   "apiProducts": [
     {
       "label": "Accounts API",

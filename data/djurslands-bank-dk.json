@@ -1,22 +1,20 @@
 {
-  "id": "resurs-bank-se",
+  "id": "djurslands-bank-dk",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "Resurs Bank",
-  "legalName": "Resurs Bank Aktiebolag",
+  "name": "Djurslands Bank",
+  "legalName": "DJURSLANDS BANK A/S",
   "verified": false,
-  "icon": "https://ucarecdn.com/a1572907-861b-4f4d-8d85-64ab424363e1/-/preview/170x170/-/crop/180x180/center/SE5164010208.png",
-  "websiteUrl": "https://www.resursbank.se/",
+  "icon": "https://ucarecdn.com/49abd7a4-74f2-419e-b4b0-a082e7894565/-/preview/170x170/-/crop/180x180/center/DK40713816.png",
+  "websiteUrl": "https://www.djurslandsbank.dk/",
   "ownership": [],
   "stateOwned": false,
-  "countryHQ": "SE",
+  "countryHQ": "DK",
   "countries": [
-    "SE",
-    "FI",
     "DK"
   ],
   "compliance": [
@@ -29,10 +27,8 @@
     "status": "available",
     "sourceUrl": null
   },
-  "developerPortalUrl": "https://crosskey.io/stores/resursbank/apis",
-  "apiStandards": [
-    "OBIE"
-  ],
+  "developerPortalUrl": "https://developers.bankdata.dk/",
+  "apiStandards": [],
   "apiProducts": [
     {
       "label": "Accounts API",
