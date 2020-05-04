@@ -1,8 +1,6 @@
 {
   "id": "americanexpress",
-  "type": [
-    "account"
-  ],
+  "type": "account",
   "name": "American Express",
   "description": "American Express offers world-class Charge and Credit Cards, Gift Cards, Rewards, Travel, Personal Savings, Business Services, Insurance and more.",
   "legalName": "American Express Company",
@@ -52,16 +50,19 @@
     "SE",
     "GB"
   ],
-  "compliance": [],
+  "compliance": [
+    "psd2"
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
   "developerPortalUrl": "https://developer.americanexpress.com/products",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.americanexpress.com/documentation",
-  "apiAggregators": [
-    "truelayer"
-  ],
   "apiProducts": [
     {
       "label": "Account Information",
@@ -77,11 +78,37 @@
     }
   ],
   "apiStandards": [],
+  "apiAggregators": [
+    "tink",
+    "fidel-uk",
+    "truelayer"
+  ],
+  "collections": [],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/id362348516"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.americanexpress.android.acctsvcs.us"
+    }
+  ],
   "investorRelationsUrl": "https://ir.americanexpress.com/?inav=footer_about_investor_relations",
   "financialReports": [],
   "twitter": "https://twitter.com/askamex",
   "bloomberg": null,
-  "github": ""
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
