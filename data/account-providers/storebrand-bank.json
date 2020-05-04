@@ -35,7 +35,10 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/apis",
-  "apiAggregators": ["neonomics"],
+  "apiAggregators": [
+    "neonomics",
+    "enablebanking"
+  ],
   "apiProducts": [
     {
       "label": "Accounts",
@@ -56,7 +59,7 @@
         "payments"
       ],
       "description": "",
-    "documentationUrl": "https://sdcinfo.dk/tpp/",
+      "documentationUrl": "https://sdcinfo.dk/tpp/",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
