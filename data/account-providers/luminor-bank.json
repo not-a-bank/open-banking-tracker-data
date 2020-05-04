@@ -57,7 +57,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.luminoropenbanking.com/",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "enablebanking"
+  ],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,
