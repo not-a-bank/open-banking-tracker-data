@@ -1,0 +1,76 @@
+{
+  "id": "privatbank-lv",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "PrivatBank",
+  "legalName": "AS \"PrivatBank\"",
+  "verified": false,
+  "icon": "https://ucarecdn.com/e36d10c1-4fff-4cb0-ad25-c2cddeef386e/-/preview/170x170/-/crop/180x180/center/LV50003086271.png",
+  "websiteUrl": "https://www.privatbank.lv/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "LV",
+  "countries": [
+    "LV"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://open.privatbank.lv/",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Funds Confirmation API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}

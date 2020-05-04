@@ -51,7 +51,8 @@
   "apiReferenceUrl": "https://developer.pekao.com.pl/api/",
   "apiAggregators": [
     "klarna",
-    "banqup"
+    "banqup",
+    "enablebanking"
   ],
   "apiProducts": [
     {
@@ -103,7 +104,9 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "POLISHAPI"
+  ],
   "webApplication": true,
   "mobileApps": [],
   "investorRelationsUrl": "https://www.pekao.com.pl/en/investors-relations/financial-results.html",

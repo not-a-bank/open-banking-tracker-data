@@ -99,12 +99,15 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "OBIE"
+  ],
   "apiAggregators": [
     "salt-edge",
     "tink",
     "truelayer",
-    "banked"
+    "banked",
+    "enablebanking"
   ],
   "collections": [],
   "webApplication": true,

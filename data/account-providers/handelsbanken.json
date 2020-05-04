@@ -1,7 +1,11 @@
 {
   "id": "handelsbanken",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Handelsbanken",
   "legalName": "Svenska Handelsbanken AB",
   "ipoStatus": "public",
@@ -11,13 +15,20 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "SE",
-  "countries": ["SE","GB","NO","DK","FI","NL"],
+  "countries": [
+    "SE",
+    "GB",
+    "NO",
+    "DK",
+    "FI",
+    "NL"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
@@ -25,13 +36,15 @@
   "sandbox": {
     "status": "available",
     "sourceUrl": null
-    },
+  },
   "developerPortalUrl": "https://developer.handelsbanken.com/",
   "apiProducts": [
     {
       "label": "Accounts Information API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Use this API to enable our mutual customers to access their account information and transaction history.",
       "documentationUrl": "https://developer.handelsbanken.com/psd2/accounts",
       "apiReferenceUrl": null,
@@ -41,18 +54,21 @@
     {
       "label": "Payments Initiation API",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Use this API to enable our mutual customers to initiate payments and transfers between accounts.",
       "documentationUrl": "https://developer.handelsbanken.com/psd2/payments",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "sandbox"
     }
-    ],
+  ],
   "apiStandards": [],
   "apiAggregators": [
     "neonomics",
-    "klarna"
+    "klarna",
+    "enablebanking"
   ],
   "webApplication": true,
   "mobileApps": [

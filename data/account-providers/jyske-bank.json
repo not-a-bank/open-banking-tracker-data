@@ -1,7 +1,11 @@
 {
   "id": "jyske-bank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Jyske Bank",
   "legalName": "Jyske Bank A/S",
   "ipoStatus": "public",
@@ -11,7 +15,11 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "DK",
-  "countries": ["DK", "DE", "GI"],
+  "countries": [
+    "DK",
+    "DE",
+    "GI"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -61,9 +69,12 @@
       "stage": "sandbox"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
-    "neonomics"
+    "neonomics",
+    "enablebanking"
   ],
   "webApplication": true,
   "mobileApps": [

@@ -1,7 +1,11 @@
 {
   "id": "aktia-bank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Aktia Bank",
   "legalName": "Aktia Bank Abp",
   "ipoStatus": "public",
@@ -11,7 +15,9 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "FI",
-  "countries": ["FI"],
+  "countries": [
+    "FI"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -27,7 +33,9 @@
     {
       "label": "Payments API",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://developer.aktia.fi/node/285",
       "apiReferenceUrl": "https://developer.aktia.fi/node/285",
@@ -37,7 +45,9 @@
     {
       "label": "Confirmation of funds API",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": null,
       "documentationUrl": "https://developer.aktia.fi/node/283",
       "apiReferenceUrl": "https://developer.aktia.fi/node/283",
@@ -47,7 +57,9 @@
     {
       "label": "Accounts API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developer.aktia.fi/node/287",
       "apiReferenceUrl": "https://developer.aktia.fi/node/287",
@@ -55,9 +67,12 @@
       "stage": "sandbox"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
-    "neonomics"
+    "neonomics",
+    "enablebanking"
   ],
   "webApplication": true,
   "mobileApps": [

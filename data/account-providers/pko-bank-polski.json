@@ -45,7 +45,8 @@
   "apiReferenceUrl": "https://developers.pkobp.pl/pl/",
   "apiAggregators": [
     "klarna",
-    "banqup"
+    "banqup",
+    "enablebanking"
   ],
   "apiProducts": [
     {
@@ -85,7 +86,9 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "POLISHAPI"
+  ],
   "apiAccess": "verifiedTpp",
   "webApplication": true,
   "mobileApps": [

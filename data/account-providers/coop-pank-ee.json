@@ -1,0 +1,76 @@
+{
+  "id": "coop-pank-ee",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Coop Pank",
+  "legalName": "Coop Pank aktsiaselts",
+  "verified": false,
+  "icon": "https://ucarecdn.com/0ddf3b7a-44b7-4257-acbb-0f1754182404/-/preview/170x170/-/crop/180x180/center/EE10237832.png",
+  "websiteUrl": "https://www.cooppank.ee/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "EE",
+  "countries": [
+    "EE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://openbanking.cooppank.ee/",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Funds Confirmation API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}

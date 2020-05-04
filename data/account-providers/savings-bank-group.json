@@ -1,9 +1,13 @@
 {
   "id": "savings-bank-group",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Savings Bank Group",
-  "legalName": "Savings Bank Group",
+  "legalName": "Säästöpankkien Keskuspankki Suomi Oyj",
   "ipoStatus": "public",
   "verified": false,
   "icon": "https://d34vku6feucdo0.cloudfront.net/-/media/kuvat/etusivujen-kuvat/muut-kuvat/rahapuu_verkkosivut.png?h=403&la=en&mw=700&w=700&hash=5DFA6B1D49EFE5B922EB1B32F81C8CD58171A5C2",
@@ -11,7 +15,9 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "FI",
-  "countries": ["FI"],
+  "countries": [
+    "FI"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -27,7 +33,9 @@
     {
       "label": "Sandbox OAUTH",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": null,
       "documentationUrl": "https://developer.samlink.fi/tech-doc",
       "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
@@ -37,7 +45,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://developer.samlink.fi/tech-doc",
       "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
@@ -47,7 +57,9 @@
     {
       "label": "Confirmation of Funds",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": null,
       "documentationUrl": "https://developer.samlink.fi/tech-doc",
       "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
@@ -57,7 +69,9 @@
     {
       "label": "Sandbox management",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developer.samlink.fi/tech-doc",
       "apiReferenceUrl": "https://developer.samlink.fi/tech-doc",
@@ -65,9 +79,12 @@
       "stage": "sandbox"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
-    "neonomics"
+    "neonomics",
+    "enablebanking"
   ],
   "webApplication": true,
   "mobileApps": [],

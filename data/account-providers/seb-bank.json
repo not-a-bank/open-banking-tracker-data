@@ -1,7 +1,11 @@
 {
   "id": "seb-bank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "SEB",
   "legalName": "Skandinaviska Enskilda Banken AB",
   "ipoStatus": "public",
@@ -9,7 +13,7 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/SEB_Bank.png",
   "websiteUrl": "https://sebgroup.com/",
   "ownership": [
-    { 
+    {
       "shareholderName": "AB Investor",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552469995/radar/icons/Investor_AB.png",
       "providerId": null,
@@ -19,9 +23,14 @@
   ],
   "stateOwned": false,
   "countryHQ": "SE",
-  "countries": ["SE","EE","LV","LT"],
+  "countries": [
+    "SE",
+    "EE",
+    "LV",
+    "LT"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -32,10 +41,12 @@
   },
   "developerPortalUrl": "https://developer.sebgroup.com/",
   "apiProducts": [
-     {
+    {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "The Account Information Product provides easy integration with Swedish customers' Transaction and Card accounts at SEB.",
       "documentationUrl": "https://developer.sebgroup.com/products",
       "apiReferenceUrl": "https://developer.sebgroup.com/node/1283",
@@ -45,19 +56,22 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "The Payment Initiation Product provides seamless and efficient payment functionalities to enhance your payment services.",
       "documentationUrl": "https://developer.sebgroup.com/products",
       "apiReferenceUrl": "https://developer.sebgroup.com/node/1277",
       "premium": false,
       "stage": "sandbox"
     }
-    ],
+  ],
   "apiStandards": [],
   "apiAggregators": [
     "neonomics",
     "klarna",
-    "salt-edge"
+    "salt-edge",
+    "enablebanking"
   ],
   "webApplication": true,
   "mobileApps": [

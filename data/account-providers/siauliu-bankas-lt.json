@@ -1,0 +1,76 @@
+{
+  "id": "siauliu-bankas-lt",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Šiaulių Bankas",
+  "legalName": "Akcinė bendrovė Šiaulių bankas",
+  "verified": false,
+  "icon": "https://ucarecdn.com/1e129d04-20b7-42a1-bc8f-b7beea5e2516/-/preview/170x170/-/crop/180x180/center/LT112025254.png",
+  "websiteUrl": "https://sb.lt/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "LT",
+  "countries": [
+    "LT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://openbanking.siauliubankas.lt/",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Funds Confirmation API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}
