@@ -1,0 +1,64 @@
+{
+  "id": "signet-bank-lv",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Signet Bank",
+  "legalName": "Signet Bank AS",
+  "verified": false,
+  "icon": "https://ucarecdn.com/b849d64d-7009-429c-8c98-92143a04908e/-/preview/170x170/-/crop/180x180/center/LV40003076407.png",
+  "websiteUrl": "https://www.signetbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "LV",
+  "countries": [
+    "LV"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://developers.signetbank.com/",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}

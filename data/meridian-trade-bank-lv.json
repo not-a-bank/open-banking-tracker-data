@@ -1,0 +1,76 @@
+{
+  "id": "meridian-trade-bank-lv",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Meridian Trade Bank",
+  "legalName": "AS \"Meridian Trade Bank\"",
+  "verified": false,
+  "icon": "https://ucarecdn.com/3f1e89d7-1c43-4c50-9b52-1e270cd41e85/-/preview/170x170/-/crop/180x180/center/LV40003194988.png",
+  "websiteUrl": "https://www.mtbank.eu/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "LV",
+  "countries": [
+    "LV"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://api.industra.finance/",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Funds Confirmation API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}
