@@ -1,0 +1,64 @@
+{
+  "id": "mybank-no",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "MyBank",
+  "legalName": "MYBANK ASA",
+  "verified": false,
+  "icon": "https://ucarecdn.com/02d53b96-ec62-4914-b25d-627e030c5da8/-/preview/170x170/-/crop/180x180/center/NO916012683.png",
+  "websiteUrl": "https://mybank.no/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": [
+    "NO"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://api-portal.sdc.dk/",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}

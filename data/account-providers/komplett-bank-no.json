@@ -1,0 +1,64 @@
+{
+  "id": "komplett-bank-no",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Komplett Bank",
+  "legalName": "KOMPLETT BANK ASA",
+  "verified": false,
+  "icon": "https://ucarecdn.com/0357c470-d97f-4912-a765-d90f0055cd81/-/preview/170x170/-/crop/180x180/center/NO998997801.png",
+  "websiteUrl": "https://www.komplettbank.no/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": [
+    "NO"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://crosskey.io/stores/komplettbank/apis",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}

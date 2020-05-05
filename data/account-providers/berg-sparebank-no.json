@@ -1,0 +1,64 @@
+{
+  "id": "berg-sparebank-no",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Berg Sparebank",
+  "legalName": "BERG SPAREBANK",
+  "verified": false,
+  "icon": "https://ucarecdn.com/01c82537-50c4-4f21-8d8e-d7370eac3faa/-/preview/170x170/-/crop/180x180/center/NO937885288.png",
+  "websiteUrl": "https://berg-sparebank.no/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NO",
+  "countries": [
+    "NO"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": null
+  },
+  "developerPortalUrl": "https://api-portal.sdc.dk/",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "stockSymbol": null
+}
