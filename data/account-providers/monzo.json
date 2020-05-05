@@ -29,7 +29,8 @@
   "apiAuth": ["OAUTH2", "OPENID-CONNECT"],
   "apiAggregators": [
     "truelayer",
-    "banked"
+    "banked",
+    "openwrks"
   ],
   "apiProducts": [
     {
