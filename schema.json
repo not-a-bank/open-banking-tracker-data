@@ -56,6 +56,17 @@
         ]
       }
     },
+    "status": {
+      "description": "Availability Status",
+      "enum": [
+        "live",
+        "discontinued",
+        "upcoming",
+        "public-beta",
+        "private-beta"
+      ],
+      "examples": ["live"]
+    },
     "name": {
       "type": "string",
       "description": "Name of the provider",
