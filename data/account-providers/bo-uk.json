@@ -1,0 +1,76 @@
+{
+  "id": "bo-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Bó",
+  "description": "Bó, was the digital bank developed by RBS-owned Natwest. The news to discontinue Bó and focus on Mettle was announced in May 2020.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "discontinued",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588663725/radar/icons/wearebo-uk.png",
+  "websiteUrl": "https://wearebo.co.uk/",
+  "ownership": [
+    {
+      "providerId": "natwest",
+      "shareholderName": "NatWest",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1567671203/catalog/natwest/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "customers": {
+    "consumer": [
+      {
+        "amount": "11000",
+        "type": "fact",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2020/05/01/bo-shutter/",
+          "date": "2020-05-01",
+          "verified": true
+        }
+      }
+    ]
+  },
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
