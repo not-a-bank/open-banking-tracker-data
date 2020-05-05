@@ -35,7 +35,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://apisandbox.mycashplus.co.uk/swagger/ui/index#!/Root32Infrastructure",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "openwrks"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",
