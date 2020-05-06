@@ -25,15 +25,52 @@
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "ready"
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://sandboxapi.lhv.eu/psd2/v1"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
+  "developerPortalUrl": "https://partners.lhv.ee/en/open-banking/",
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://partners.lhv.ee/en/open-banking/#account-information-ais",
+      "apiReferenceUrl": "https://sandboxapi.lhv.eu/psd2/swagger-ui.html",
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Funds Confirmation API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://partners.lhv.ee/en/open-banking/#confirmation-of-funds-piis",
+      "apiReferenceUrl": "https://sandboxapi.lhv.eu/psd2/swagger-ui.html",
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://partners.lhv.ee/en/open-banking/#payments-pis",
+      "apiReferenceUrl": "https://sandboxapi.lhv.eu/psd2/swagger-ui.html",
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiStandards": [
     "BERLIN"
   ],
