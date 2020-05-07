@@ -29,12 +29,19 @@
       "description": "Unique indentifier",
       "examples": ["abn-amro"]
     },
+    "parentId": { 
+      "type": "string", 
+      "pattern": "[a-z0-9-]*$",
+      "description": "Unique indentifier of the parent entity. Can be used to group banks of the same group.",
+      "examples": ["abn-amro-parent"]
+    },
     "type": { 
       "type": "array",
       "items": {
         "enum": [
           "account",
-          "third-party"
+          "third-party",
+          "other"
         ]
       },
       "description": "Provider type(s)",
@@ -774,6 +781,18 @@
           "type": "string",
           "description": "FCA firm id",
           "examples": ["001b000000MfnaPAAR"]
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "legalEntityIdentifier": {
+      "anyOf": [
+        {
+          "type": "string",
+          "description": "Legal Entity Identifier - The LEI is a worldwide unique code that identifies a business undertaking or legal entity. More info https://en.wikipedia.org/wiki/Legal_Entity_Identifier",
+          "examples": ["G8ZTNESVNKW4NN761W05"]
         },
         {
           "type": "null"
