@@ -1,0 +1,79 @@
+{
+  "id": "capitalone",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Capital One",
+  "description": "Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States.",
+  "legalName": "Capital One Financial Corporation",
+  "ipoStatus": "public",
+  "stockSymbol": "NYSE:COF",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588944657/radar/icons/capitalone.jpg",
+  "websiteUrl": "https://www.capitalone.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://developer.capitalone.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.capitalone.com/",
+  "apiProducts": [
+    {
+      "label": "Customer Transactions",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developer.capitalone.com/products/customer-transactions",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Money Movement",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.capitalone.com/products/money-movement",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "CapitalOne",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Capital_One",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
