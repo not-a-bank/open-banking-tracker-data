@@ -1,0 +1,57 @@
+{
+  "id": "uob-bank-sg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "UOB (United Overseas Bank)",
+  "description": "United Overseas Bank Limited is a Singaporean multinational banking organisation headquartered in Singapore, with branches mostly found in most Southeast Asian countries.",
+  "legalName": "United Overseas Bank Limited",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "websiteUrl": "https://www.uob.com.sg/business/index.page",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SG",
+  "countries": [
+    "SG"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/United_Overseas_Bank",
+  "bloomberg": null,
+  "stack": [
+    {
+      "id": "v-key",
+      "name": "V-Key",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589112308/catalog/v-key/icon128x128.jpg",
+      "websiteUrl": "https://www.v-key.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
