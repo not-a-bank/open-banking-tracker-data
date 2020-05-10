@@ -151,6 +151,18 @@
       ],
       "description": "Id of third-party debit account bank license. For challenger banks without their own banking license."
     },
+    "debitCards": {
+      "type": "array",
+      "description": "Debit card partners"
+    },
+    "creditCards": {
+      "type": "array",
+      "description": "Credit card partners"
+    },
+    "virtualCards": {
+      "type": "array",
+      "description": "Virtual credit card partners"
+    },
     "webApplication": {
       "type": "boolean",
       "description": "Does this provider have a desktop application?",
