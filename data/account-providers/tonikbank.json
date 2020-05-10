@@ -1,0 +1,62 @@
+{
+  "id": "tonikbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "TONIK",
+  "description": "TONIK is a customer obsessed fintech company",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "upcoming",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589132043/radar/icons/tonikbank.jpg",
+  "websiteUrl": "https://www.tonikbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "PH",
+  "countries": [
+    "PH"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "name": "Finastra",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589112314/catalog/finastra/icon128x128.png",
+      "websiteUrl": "https://www.finastra.com/",
+      "id": "finastra",
+      "title": "Philippines Digital Bank TONIK Picks Finastra to Power Its Core Banking - Fintech Singapore",
+      "desription": "Finastra announced today that TONIK, the first licensed digital-only bank in Southeast Asia, has selected Fusion Essence in the cloud to power its end-to-end core banking capabilities.",
+      "sourceUrl": "https://fintechnews.sg/36114/fintechphilippines/finastra-tonik-digital-bank/",
+      "sourceDate": "2020-01-21T03:19:56+00:00",
+      "addedAt": "2020-05-10T17:27:52.366Z"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
