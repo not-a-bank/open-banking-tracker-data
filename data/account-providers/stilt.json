@@ -47,7 +47,16 @@
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
-  "partnerships": [],
+  "virtualCards": [
+    "mastercard"
+  ],
+  "partnerships": [
+    {
+      "name": "mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
   "integrations": [],
   "platforms": [],
   "awards": []
