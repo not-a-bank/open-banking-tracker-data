@@ -1,0 +1,68 @@
+{
+  "id": "sofi",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "SoFi",
+  "description": "SoFi helps members take control of their finances. From getting out of high-interest debt to managing your wealth, we are here to help you get your money right.",
+  "legalName": "Social Finance, Inc.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589235348/radar/icons/sofi.jpg",
+  "websiteUrl": "https://www.sofi.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "SoFi",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Samsung",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
+      "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/",
+      "id": "samsung-pay",
+      "title": "Samsung Pay is launching a debit card and cash management account in partnership with SoFi",
+      "desription": "Samsung Pay is partnering with student loan-based fintech SoFi on an innovative debit card accompanied by a cash management account.",
+      "sourceUrl": "https://www.businessinsider.com/samsung-sofi-announce-forthcoming-debit-card-2020-5",
+      "features": [
+        "debit-card",
+        "cash-management-account"
+      ],
+      "addedAt": "2020-05-11"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
