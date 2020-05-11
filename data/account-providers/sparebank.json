@@ -1,17 +1,25 @@
 {
   "id": "sparebank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "SpareBank",
   "legalName": "SpareBank 1 SR-Bank ASA",
   "ipoStatus": "public",
+  "stockSymbol": "OSE:SRBANK",
   "verified": false,
-  "icon": "https://www.sparebank1.no/content/dam/SB1/nettsider/logo.svg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589177409/radar/icons/sparebank.svg",
   "websiteUrl": "https://www.sparebank1.no/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "NO",
-  "countries": ["NO"],
+  "countries": [
+    "NO"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -23,11 +31,17 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
   "apiProducts": [
     {
       "label": "Mock Data",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "API used for managing mock data in the sandbox environment",
       "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/149",
@@ -37,7 +51,9 @@
     {
       "label": "Common",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "API used for activating the consent flow",
       "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/143",
@@ -47,7 +63,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "API used by a PISP to initiate payments - domestic, sepa, or cross border",
       "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/138",
@@ -57,7 +75,9 @@
     {
       "label": "Confirmation of Funds",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": "API used buy a CBPII to verify if a specified amount is available on the account",
       "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/137",
@@ -67,7 +87,9 @@
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "APIs used by an AISP to get access to account information and transactions",
       "documentationUrl": "https://psd2.sr-bank.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://psd2.sr-bank.no/portal-sandbox/node/133",
@@ -75,10 +97,13 @@
       "stage": "sandbox"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
     "neonomics"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -90,12 +115,40 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=no.sparebank1.mobilbank&hl=en_US"
     }
   ],
-  "stockSymbol": "OSE:SRBANK",
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "srbank",
   "crunchbase": "sparebank-1-sr-bank",
+  "bloomberg": null,
   "github": "SpareBank1",
   "fca": "001b000000Mg6CdAAJ",
-  "articles": []
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Nets Group",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589177243/catalog/nets-eu/icon128x128.jpg",
+      "websiteUrl": "https://www.nets.eu/",
+      "id": "nets-eu",
+      "title": "Norway's SpareBank 1 selects Nets for open banking",
+      "desription": "Norwegian bank group SpareBank 1 announces it has selected Nets to provide its open banking infrastructure.",
+      "sourceUrl": "https://www.finextra.com/pressarticle/79083/norways-sparebank-1-selects-nets-for-open-banking",
+      "sourceDate": "2019-07-08",
+      "features": [
+        "open-banking"
+      ],
+      "addedAt": "2020-05-11T06:08:08.928Z"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
