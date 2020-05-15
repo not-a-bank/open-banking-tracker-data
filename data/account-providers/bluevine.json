@@ -1,0 +1,70 @@
+{
+  "id": "bluevine",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "BlueVine",
+  "description": "Need fast funding for your business? BlueVine offers flexible business line of credit, invoice factoring, and term loan options tailored to your needs.",
+  "legalName": "Bluevine Capital Inc.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589510633/radar/icons/bluevine.jpg",
+  "websiteUrl": "https://www.bluevine.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "bluevinecapital",
+  "bloomberg": null,
+  "keySegments": [
+    "sme"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "The Bancorp",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589508667/catalog/thebancorp/icon128x128.jpg",
+      "websiteUrl": "https://www.thebancorp.com/",
+      "id": "thebancorp",
+      "title": "BlueVine Adds Checking Accounts, Cards For SMBs | PYMNTS.com",
+      "desription": "BlueVine expands its financial services with small business (SMB) banking, connecting SMBs to a checking account and debit card to manage finances and payments.",
+      "sourceUrl": "https://www.pymnts.com/news/b2b-payments/2019/bluevine-adds-checking-accounts-cards-for-small-firms/",
+      "sourceDate": "2019-10-28",
+      "features": [
+        "checking-account"
+      ],
+      "addedAt": "2020-05-15T02:42:16.700Z"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
