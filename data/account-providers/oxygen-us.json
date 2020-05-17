@@ -1,0 +1,89 @@
+{
+  "id": "oxygen-us",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Oxygen",
+  "description": "Banking for free thinkers, rebels and entrepreneurs. Awarded Best Digital Banking Account in the US",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589737264/radar/icons/oxygen-us.png",
+  "websiteUrl": "https://oxygen.us/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/oxygen-banking-modern-finance/id1486762009"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.oxygenbank"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [
+    {
+      "id": "thebancorp",
+      "name": "The Bancorp",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589508667/catalog/thebancorp/icon128x128.jpg",
+      "websiteUrl": "https://www.thebancorp.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Visa Direct",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589737985/catalog/visa-direct/icon128x128.jpg",
+      "websiteUrl": "https://usa.visa.com/run-your-business/visa-direct.html",
+      "id": "visa-direct",
+      "title": "Oxygen Launches Digital Banking Platform for Freelancers and Small Businesses, Joins Visa’s Fast Track Program",
+      "desription": "Oxygen will also be leveraging Visa Direct, Visa’s real-time push payment solution, to ensure its freelancer customers can be paid fast.",
+      "sourceUrl": "https://www.businesswire.com/news/home/20200514005188/en/Oxygen-Launches-Digital-Banking-Platform-Freelancers-Small",
+      "features": [
+        "real-time-push-payments"
+      ],
+      "publishedAt": "2020-05-14",
+      "addedAt": "2020-05-17"
+    },
+    {
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
