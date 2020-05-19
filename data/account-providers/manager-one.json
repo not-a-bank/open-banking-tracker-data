@@ -1,0 +1,67 @@
+{
+  "id": "manager-one",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "manager.one",
+  "description": "manager.one is a bank for professionals, offering you a fixed monthly rate with no strings attached. It includes an online business account and unlimited Visa Corporate cards.",
+  "legalName": "MANAGER.ONE",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589916785/radar/icons/manager-one.png",
+  "websiteUrl": "https://www.manager.one/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "keySegments": [
+    "entrepreneur"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
