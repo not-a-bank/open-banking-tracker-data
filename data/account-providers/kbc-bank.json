@@ -1,19 +1,32 @@
 {
   "id": "kbc-bank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "KBC",
+  "description": "KBC Group N.V. is a Belgian universal multi-channel bank-insurer, focusing on private clients and small and medium-sized enterprises in Belgium, Ireland, Central Europe and South-East Asia.",
   "legalName": "KBC Group N.V.",
   "ipoStatus": "public",
+  "stockSymbol": "EBR:KBC",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/KBC.jpg",
-  "websiteUrl": "https://www.kbc.com/en",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589998014/radar/icons/kbc.jpg",
+  "websiteUrl": "https://www.kbc.com",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "BE",
-  "countries": ["BE","BG","HU","CZ","SK"],
+  "countries": [
+    "BE",
+    "BG",
+    "HU",
+    "CZ",
+    "SK"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -23,50 +36,76 @@
     "sourceUrl": "https://www.kbc.com/system/files/doc/newsroom/pressreleases/2019/20190311_PR_DeveloperPortal_EN.pdf"
   },
   "developerPortalUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en.html",
-  "apiAuth": ["OAUTH2"],
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [
+    "OAUTH2"
+  ],
   "apiProducts": [
-     {
+    {
       "label": "Account Information Service (AIS)",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Access current account or credit card information (with your customer's explicit consent).",
       "documentationUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en/apis/ais.html",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specification": "BERLIN1.1"
     },
     {
       "label": "Payment Initiation Services (PIS)",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Initiate an immediate payment to a SEPA-zone beneficiary (with your customer's explicit consent)",
       "documentationUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en/apis/pis.html",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specification": "BERLIN1.1"
     },
     {
       "label": "Confirmation of Funds (COF)",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": "Check availability of a KBC customer's current account or credit card funds (with their explicit consent).",
       "documentationUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en/apis/cof.html",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specification": "BERLIN1.1"
     },
     {
       "label": "Authorization API",
       "type": "auth",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "description": "Compose & trigger authorization request. Get & refresh tokens. Security endpoints.",
       "documentationUrl": "https://developer.kbc-group.com/content/developer/kbc-be/en/apis/authorization.html",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
+    },
+    {
+      "label": "On-Demand Financing API",
+      "type": "invoiceFinancing",
+      "categories": [
+        "loans",
+        "payments"
+      ],
+      "description": "Cashflow is essential to any business. Providers of invoicing or ERP software packages can now offer their clients On-Demand Financing, an innovative KBC service that allows businesses to receive immediate payment for selected sales invoices.",
+      "documentationUrl": "https://developer.kbc.be/business-solution/kbc-demand-financing",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
     }
   ],
   "apiStandards": [],
@@ -75,6 +114,7 @@
     "ibanity",
     "banqup"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -86,7 +126,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.kbc.mobile.android.phone.kbc&hl=en"
     }
   ],
-  "stockSymbol": "EBR:KBC",
   "investorRelationsUrl": "https://www.kbc.com/en/investor-relations",
   "financialReports": [
     {
@@ -96,13 +135,40 @@
     }
   ],
   "twitter": "KBC_Group",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/KBC_Bank",
   "crunchbase": "kbc-bank",
-  "github": null,
+  "bloomberg": null,
   "fca": "001b000000MfHWzAAN",
   "articles": [
     {
       "url": "https://newsroom.kbc.com/belgians-positive-towards-integrated-banking-app-kbc-mobile-gives-direct-access-to-current-accounts-held-with-other-banks",
       "date": "2018-03-05"
     }
-  ]
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "teamleader",
+      "name": "Teamleader",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1536884849/catalog/teamleader/icon128x128.jpg",
+      "websiteUrl": "https://www.teamleader.eu/"
+    },
+    {
+      "id": "icontroller-org",
+      "name": "iController",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589999122/catalog/icontroller-org/icon128x128.png",
+      "websiteUrl": "https://icontroller.org/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
 }
