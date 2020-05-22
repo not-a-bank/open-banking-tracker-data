@@ -79,7 +79,9 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "friendlyscore"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],
