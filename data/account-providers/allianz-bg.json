@@ -1,0 +1,120 @@
+{
+  "id": "allianz-bg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Allianz Bank Bulgaria",
+  "description": "Allianz Bank Bulgaria AD is a universal bank, offering retail and corporate banking products and services to its customers.",
+  "legalName": "Allianz Bank Bulgaria AD",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590359068/radar/icons/allianz-bg.jpg",
+  "websiteUrl": "https://www.allianz.bg/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BG",
+  "countries": [
+    "BG"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://dev.bank.allianz.bg/allianz-sb/psd2"
+  },
+  "developerPortalUrl": "https://dev.bank.allianz.bg/allianz-sb/psd2",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [
+    "OAUTH2"
+  ],
+  "apiReferenceUrl": "https://dev.bank.allianz.bg/allianz-sb/psd2",
+  "apiProducts": [
+    {
+      "label": "Account Information Service (AIS)",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://dev.bank.allianz.bg/allianz-sb/psd2/product/83",
+      "apiReferenceUrl": "https://dev.bank.allianz.bg/allianz-sb/psd2/product/83/api/5",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Services (PIS)",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://dev.bank.allianz.bg/allianz/psd2/product/14",
+      "apiReferenceUrl": "https://dev.bank.allianz.bg/allianz/psd2/product/14/api/13",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds (COF)",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://dev.bank.allianz.bg/allianz-sb/psd2/product/66",
+      "apiReferenceUrl": "https://dev.bank.allianz.bg/allianz-sb/psd2/product/66/api/7",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consents API",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Manage consents",
+      "documentationUrl": "https://dev.bank.allianz.bg/allianz/psd2/product/12",
+      "apiReferenceUrl": "https://dev.bank.allianz.bg/allianz/psd2/product/12/api/11",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "AzBG",
+  "bloomberg": null,
+  "stack": [
+    {
+      "id": "ibm-api-connect",
+      "name": "IBM API Connect",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568494917/catalog/ibm-api-connect/icon128x128.jpg",
+      "websiteUrl": "https://www.ibm.com/cloud/api-connect"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
