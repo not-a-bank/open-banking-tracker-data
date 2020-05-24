@@ -1,0 +1,62 @@
+{
+  "id": "frostbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Frost Bank",
+  "description": "Frost Bank is a Texas-chartered bank based in San Antonio with 134 branches and 1,300 automated teller machines, all in Texas. It is the primary subsidiary of Cullen/Frost Bankers, Inc., a bank holding company. It is on the list of largest banks in the United States.",
+  "legalName": "Frost Bank",
+  "ipoStatus": "public",
+  "stockSymbol": "NYSE:CFR",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590280744/radar/icons/frostbank.jpg",
+  "websiteUrl": "https://www.frostbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/frost-bank/id605494138"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.frostbank.android&hl=en_US"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "FrostBank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Frost_Bank",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
