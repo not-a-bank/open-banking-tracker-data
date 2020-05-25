@@ -1,0 +1,79 @@
+{
+  "id": "stripe-capital",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Stripe Capital",
+  "description": "Access the funds you need to grow your business. Stripe Capital provides access to fast financing with one flat fee and flexible payments.",
+  "legalName": "Stripe, Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590360286/radar/icons/stripe-capital.svg",
+  "websiteUrl": "https://stripe.com/capital",
+  "ownership": [
+    {
+      "providerId": "stripe",
+      "shareholderName": "Stripe",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://stripe.com/docs",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://stripe.com/docs/stripe-js/reference",
+  "apiChangelogUrl": "https://stripe.com/docs/upgrades#api-changelog",
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "stripe",
+  "bloomberg": null,
+  "github": "https://github.com/stripe-samples",
+  "keySegments": [
+    "merchant"
+  ],
+  "stack": [
+    {
+      "id": "celticbank",
+      "name": "Celtic Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590335089/catalog/celticbank/icon128x128.jpg",
+      "websiteUrl": "https://www.celticbank.com/"
+    },
+    {
+      "id": "crossriver",
+      "name": "Cross River",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1581062133/catalog/crossriver/icon128x128.jpg",
+      "websiteUrl": "https://www.crossriver.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
