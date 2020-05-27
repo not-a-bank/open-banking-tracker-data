@@ -1,0 +1,58 @@
+{
+  "id": "goldmansachs",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "investment"
+  ],
+  "name": "Goldman Sachs",
+  "description": "The Goldman Sachs Group, Inc. is a leading global investment banking, securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base.",
+  "legalName": "Goldman Sachs Group, Inc.",
+  "ipoStatus": "public",
+  "stockSymbol": "NYSE:GS",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590612142/radar/icons/goldmansachs.jpg",
+  "websiteUrl": "https://www.goldmansachs.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "GoldmanSachs",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Apple Card",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590612407/catalog/apple-card/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-card/"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
