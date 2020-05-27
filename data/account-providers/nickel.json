@@ -1,0 +1,81 @@
+{
+  "id": "nickel",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Nickel (Compte Nickel)",
+  "description": "Formerly known as Compte Nickel, Nickel is an alternative French banking service. Founded in 2014, the company sells debit cards and current accounts at more than 5,000 tobacconists in France. Customers manage their accounts through a mobile app. Nickel counts some 1.2 million clients in France and now plans to launch in Spain, Portugal, Belgium, Italy and Austria. The company was acquired by French bank BNP Paribas in 2017.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590565795/radar/icons/compte-nickel-fr.jpg",
+  "websiteUrl": "https://compte-nickel.fr/",
+  "ownership": [
+    {
+      "providerId": "bnp-paribas",
+      "shareholderName": "BNP Paribas",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568494915/catalog/bnp-paribas/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/fr/app/mon-compte-nickel/id1119225763?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fpe.comptenickel"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "CompteNickel",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
