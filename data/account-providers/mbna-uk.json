@@ -1,0 +1,158 @@
+{
+  "id": "mbna-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "MBNA",
+  "description": "",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590699783/radar/icons/mbna-uk.png",
+  "websiteUrl": "https://www.mbna.co.uk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://developer.lloydsbanking.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.lloydsbanking.com/accounts-product-mbna-v3",
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/1781",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.lloydsbanking.com/payments-product-mbna-v3",
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/1583",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.lloydsbanking.com/cof-product-confirmation-mbna-v3",
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/1795",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "/branches",
+      "type": "branchLocator",
+      "categories": [
+        "locators"
+      ],
+      "description": "Gets a list of all Branch objects.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-branches-2.1",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "/atms",
+      "type": "atmLocator",
+      "description": "Gets a list of all ATM objects.",
+      "categories": [
+        "locators"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-atms-2.1",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "/unsecured-sme-loans",
+      "type": "productFinder",
+      "description": "Gets a list of all Unsercured SME Lending objects.",
+      "categories": [
+        "loans"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-unsecured-sme-loans-2.1",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "/commercial-credit-cards",
+      "type": "productFinder",
+      "description": "Gets a list of all Commerical Credit Card objects.",
+      "categories": [
+        "accounts"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-commercial-credit-cards-2.1",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "mbna",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "apple-pay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    },
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840298/catalog/google-pay/icon128x128.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
