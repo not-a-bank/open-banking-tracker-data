@@ -1,0 +1,77 @@
+{
+  "id": "zelf-co",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Zelf",
+  "description": "No apps. No banks. No fees.⚡️Send and receive money easily by text or voice. ⏱️First cards will be distributed soon 📱Start in any messenger👨‍👩‍👧‍👦 Invite friends and get💰unlimited cash bonuses",
+  "legalName": null,
+  "ipoStatus": "personal",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590697047/radar/icons/zelf-co.jpg",
+  "websiteUrl": "https://zelf.co/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "",
+  "countries": [
+    null
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Treezor",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583910841/catalog/treezor/icon128x128.jpg",
+      "websiteUrl": "https://www.treezor.com/",
+      "id": "treezor",
+      "title": "ZELF is partnering with Treezor to bring payments services &amp; virtual cards to Gen Z&#39;s preferred platforms ",
+      "desription": "ZELF and Treezor have signed a partnership to roll-out a new payment service in France and Spain.",
+      "sourceUrl": "https://thepaypers.com/payments-general/zelf-is-partnering-with-treezor-to-bring-payments-services-and-virtual-cards-to-gen-zs-preferred-platforms--1241927",
+      "features": [
+        "virtual-cards"
+      ],
+      "addedAt": "2020-05-28T20:15:59.502Z"
+    },
+    {
+      "name": "mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
