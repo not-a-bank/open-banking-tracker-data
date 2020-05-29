@@ -1,226 +1,239 @@
 {
-    "id": "vakifbank",
-    "type": [
-        "account"
-    ],
-    "bankType": [
-        "universal"
-    ],
-    "name": "Vakıfbank",
-    "legalName": "Türkiye Vakıflar Bankası T.A.O.",
-    "ipoStatus": "public",
-    "verified": false,
-    "icon": "https://www.vakifbank.com.tr/img/footer-logo.png",
-    "websiteUrl": "https://www.vakifbank.com.tr/",
-    "ownership": [],
-    "stateOwned": false,
-    "thirdPartyBankingLicense": null,
-    "countryHQ": "TR",
-    "countries": [
-        "TR"
-    ],
-    "compliance": [],
-    "sandbox": {
-        "status": "available",
-        "sourceUrl": "https://apiportal.vakifbank.com.tr"
+  "id": "vakifbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Vakıfbank",
+  "legalName": "Türkiye Vakıflar Bankası T.A.O.",
+  "ipoStatus": "public",
+  "stockSymbol": "IST:VAKBN",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590721470/radar/icons/vakifbank.png",
+  "websiteUrl": "https://www.vakifbank.com.tr/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "TR",
+  "countries": [
+    "TR"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://apiportal.vakifbank.com.tr"
+  },
+  "developerPortalUrl": "https://apiportal.vakifbank.com.tr",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://apiportal.vakifbank.com.tr/documentation",
+  "apiProducts": [
+    {
+      "label": "IBAN Validate",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "This API checks the validity of the customer IBAN number.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/ibanValidate",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
     },
-    "developerPortalUrl": "https://apiportal.vakifbank.com.tr",
-    "apiReferenceUrl": "https://apiportal.vakifbank.com.tr/documentation",
-    "apiChangelogUrl": null,
-    "acceleratorProgramUrl": null,
-    "apiAccess": null,
-    "apiProducts": [
-        {
-            "label": "IBAN Validate",
-            "type": "other",
-            "categories": [
-                "accounts"
-            ],
-            "description": "This API checks the validity of the customer IBAN number.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/ibanValidate",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live"
-        },
-        {
-            "label": "Investment Products Interest Rates",
-            "type": "productFinder",
-            "categories": [
-                "products"
-            ],
-            "description": "This API returns interest rate information for the requested date and type of investment product.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getInvestmentProductsInterestRates",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live"
-        },
-        {
-            "label": "Product & Service Prices",
-            "type": "productFinder",
-            "categories": [
-                "products"
-            ],
-            "description": "This API returns the product and service prices of our bank.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getProductServicePrices",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live"
-        },
-        {
-            "label": "Gold Prices",
-            "type": "fx",
-            "categories": [
-                "fx"
-            ],
-            "description": "This API returns gold prices for the requested date.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getGoldPrices",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live"
-        },
-        {
-            "label": "Currency Rates",
-            "type": "fx",
-            "description": "This API returns currency rates for the requested date.",
-            "categories": [
-                "fx"
-            ],
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getCurrencyRates",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live"
-        },
-        {
-            "label": "Fund Prices",
-            "type": "fundsConfirmation",
-            "categories": [
-                "funds"
-            ],
-            "description": "This API returns the mutual fund prices for the requested date.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getFundPrices",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live"
-        },
-        {
-            "label": "Vakıfbank Branch List",
-            "type": "branchLocator",
-            "categories": [
-                "locators"
-            ],
-            "description": "This API returns the information of the branches of our bank. Branches are filtered by region.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/vakifbankBranchList",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live",
-            "countries": [
-                "TR"
-            ]
-        },
-        {
-            "label": "Bank List",
-            "type": "other",
-            "categories": [
-                "locators"
-            ],
-            "description": "This API returns a list of banks operating in Turkey.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/bankList",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live",
-            "countries": [
-                "TR"
-            ]
-        },
-        {
-            "label": "City List",
-            "type": "other",
-            "categories": [
-                "locators"
-            ],
-            "description": "This API returns a list of cities in Turkey.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/cityList",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live",
-            "countries": [
-                "TR"
-            ]
-        },
-        {
-            "label": "District List",
-            "type": "other",
-            "categories": [
-                "locators"
-            ],
-            "description": "This API returns a list of districts according to the cities in Turkey.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/districtList",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live",
-            "countries": [
-                "TR"
-            ]
-        },
-        {
-            "label": "Account Detail",
-            "type": "accountInformation",
-            "categories": [
-                "accounts"
-            ],
-            "description": "This API returns account detail of the customer.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/accountDetail",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live"
-        },
-        {
-            "label": "Account Transactions",
-            "type": "accountInformation",
-            "categories": [
-                "accounts"
-            ],
-            "description": "This API returns account transactions of the customer. Transactions are filtered by date range.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/accountTransactions",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live"
-        },
-        {
-            "label": "Account List",
-            "type": "accountInformation",
-            "categories": [
-                "accounts"
-            ],
-            "description": "This API returns account list of the customer.",
-            "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/accountList",
-            "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-            "premium": false,
-            "stage": "live"
-        }
-    ],
-    "apiStandards": [],
-    "apiAggregators": [],
-    "collections": [
-        "cma9"
-    ],
-    "webApplication": true,
-    "mobileApps": [
-        {
-            "operatingSystem": "ios",
-            "storeUrl": "https://apps.apple.com/us/app/apple-store/id853569450"
-        },
-        {
-            "operatingSystem": "android",
-            "storeUrl": "https://play.google.com/store/apps/details?id=com.vakifbank.mobile"
-        }
-    ],
-    "stockSymbol": "IST:VAKBN",
-    "investorRelationsUrl": "https://www.vakifbank.com.tr/investor-relations.aspx?pageID=625",
-    "financialReports": [],
-    "twitter": "VakifBank",
-    "crunchbase": null,
-    "github": null,
-    "fca": null,
-    "articles": []
+    {
+      "label": "Investment Products Interest Rates",
+      "type": "productFinder",
+      "categories": [
+        "products"
+      ],
+      "description": "This API returns interest rate information for the requested date and type of investment product.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getInvestmentProductsInterestRates",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Product & Service Prices",
+      "type": "productFinder",
+      "categories": [
+        "products"
+      ],
+      "description": "This API returns the product and service prices of our bank.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getProductServicePrices",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Gold Prices",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "This API returns gold prices for the requested date.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getGoldPrices",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Currency Rates",
+      "type": "fx",
+      "description": "This API returns currency rates for the requested date.",
+      "categories": [
+        "fx"
+      ],
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getCurrencyRates",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Fund Prices",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "This API returns the mutual fund prices for the requested date.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getFundPrices",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Vakıfbank Branch List",
+      "type": "branchLocator",
+      "categories": [
+        "locators"
+      ],
+      "description": "This API returns the information of the branches of our bank. Branches are filtered by region.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/vakifbankBranchList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "label": "Bank List",
+      "type": "other",
+      "categories": [
+        "locators"
+      ],
+      "description": "This API returns a list of banks operating in Turkey.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/bankList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "label": "City List",
+      "type": "other",
+      "categories": [
+        "locators"
+      ],
+      "description": "This API returns a list of cities in Turkey.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/cityList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "label": "District List",
+      "type": "other",
+      "categories": [
+        "locators"
+      ],
+      "description": "This API returns a list of districts according to the cities in Turkey.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/districtList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live",
+      "countries": [
+        "TR"
+      ]
+    },
+    {
+      "label": "Account Detail",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "This API returns account detail of the customer.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/accountDetail",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Account Transactions",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "This API returns account transactions of the customer. Transactions are filtered by date range.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/accountTransactions",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Account List",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "This API returns account list of the customer.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/accountList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [
+    "cma9"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/apple-store/id853569450"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.vakifbank.mobile"
+    }
+  ],
+  "investorRelationsUrl": "https://www.vakifbank.com.tr/investor-relations.aspx?pageID=625",
+  "financialReports": [],
+  "twitter": "VakifBank",
+  "bloomberg": null,
+  "github": null,
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
