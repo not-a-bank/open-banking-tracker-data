@@ -101,6 +101,16 @@
   "customers": {
     "consumer": [
       {
+        "amount": "1245000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2020/05/28/starling-banks-more-cash/",
+          "date": "2020-05-28",
+          "verified": true
+        }
+      },
+      {
         "amount": "460000",
         "type": "claim",
         "product": "currentAccounts",
@@ -112,6 +122,15 @@
       }
     ],
     "sme": [
+      {
+        "amount": "155000",
+        "product": "smeAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2020/05/28/starling-banks-more-cash/",
+          "date": "2020-05-28",
+          "verified": true
+        }
+      },
       {
         "amount": "30000",
         "product": "smeAccounts",
