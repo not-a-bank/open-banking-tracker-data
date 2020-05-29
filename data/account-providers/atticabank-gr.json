@@ -1,0 +1,104 @@
+{
+  "id": "atticabank-gr",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Attica Bank",
+  "description": "Ενημερωθείτε για τα προϊόντα και τις υπηρεσίες της Attica Bank. Πραγματοποιήσετε εύκολα και γρήγορα όλες τις Τραπεζικές σας συναλλαγές.",
+  "legalName": "Attica Bank SA",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590732491/radar/icons/atticabank-gr.jpg",
+  "websiteUrl": "https://www.atticabank.gr/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GR",
+  "countries": [
+    "GR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.atticabank.gr/el/attica-bank-api-portal",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.atticabank.gr/el/attica-bank-api-portal",
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.atticabank.gr/node/233",
+      "apiReferenceUrl": "https://developer.atticabank.gr/node/164",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.atticabank.gr/node/214",
+      "apiReferenceUrl": "https://developer.atticabank.gr/node/213",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.atticabank.gr/node/211",
+      "apiReferenceUrl": "https://developer.atticabank.gr/node/210",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "attica_bank",
+  "bloomberg": null,
+  "stack": [
+    {
+      "id": "ibm-api-connect",
+      "name": "IBM API Connect",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568494917/catalog/ibm-api-connect/icon128x128.jpg",
+      "websiteUrl": "https://www.ibm.com/cloud/api-connect"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
