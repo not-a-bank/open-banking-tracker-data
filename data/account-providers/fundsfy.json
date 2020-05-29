@@ -1,0 +1,104 @@
+{
+  "id": "fundsfy",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Fundsfy",
+  "description": "Fundsfy is on a mission to be the first neobank for investors.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590770358/radar/icons/fundsfy.jpg",
+  "websiteUrl": "https://www.fundsfy.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "fundsfy",
+  "bloomberg": null,
+  "keySegments": [
+    "investor"
+  ],
+  "stack": [
+    {
+      "id": "raisin",
+      "name": "Raisin",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567033148/catalog/raisin/icon128x128.jpg",
+      "websiteUrl": "https://www.raisin.com/"
+    },
+    {
+      "id": "eurobits-es",
+      "name": "Eurobits",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590770692/catalog/eurobits-es/icon128x128.jpg",
+      "websiteUrl": "https://eurobits.es/"
+    },
+    {
+      "id": "prepaidfinancialservices",
+      "name": "Prepaid Financial Services",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590770303/catalog/prepaidfinancialservices/icon128x128.jpg",
+      "websiteUrl": "https://prepaidfinancialservices.com/"
+    },
+    {
+      "id": "marketpay-io",
+      "name": "SocialPay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590770308/catalog/marketpay-io/icon128x128.jpg",
+      "websiteUrl": "https://marketpay.io/"
+    },
+    {
+      "id": "iconomi",
+      "name": "ICONOMI",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590770312/catalog/iconomi/icon128x128.jpg",
+      "websiteUrl": "https://www.iconomi.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Caser Seguros",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590770321/catalog/caser-es/icon128x128.jpg",
+      "websiteUrl": "https://www.caser.es/"
+    }
+  ],
+  "integrations": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
