@@ -1,0 +1,71 @@
+{
+  "id": "bbva-co",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "BBVA Colombia",
+  "description": "BBVA Colombia (Banco Bilbao Vizcaya Argentaria) is a Colombian banking company, a subsidiary of the Spanish banking company BBVA.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590829851/radar/icons/bbva-co.png",
+  "websiteUrl": "https://www.bbva.com.co/",
+  "ownership": [
+    {
+      "providerId": "bbva",
+      "shareholderName": "BBVA",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1563407702/catalog/bbva/icon128x128.png",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "CO",
+  "countries": [
+    "CO"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [
+    "belvo"
+  ],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/co/app/bbva-m%C3%B3vil-en-colombia/id823508982?tms-tagging-cta=decarga_itunes_bbvamovil"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=co.com.bbva.mb&hl=es&tms-tagging-cta=home_googleplay_botton"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "BBVA_Colombia",
+  "wikipediaUrl": "https://es.wikipedia.org/wiki/BBVA_Colombia",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
