@@ -1,0 +1,78 @@
+{
+  "id": "kard-eu",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Kard",
+  "description": "Kard is a mobile banking alternative for the new generation, offering a never-seen-before customer experience that is cool, social & free.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590827069/radar/icons/kard-eu.png",
+  "websiteUrl": "https://www.kard.eu/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/FR/app/id1456392154?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=eu.kard.android"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "Kard_App",
+  "crunchbase": "https://www.crunchbase.com/organization/kard-67ed",
+  "bloomberg": null,
+  "keySegments": [
+    "teen"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
