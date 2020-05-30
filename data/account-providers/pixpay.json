@@ -1,0 +1,77 @@
+{
+  "id": "pixpay",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Pixpay",
+  "description": "Pixpay is a payment card for teens, with an application to learn how to manage your budget on a daily basis.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590826205/radar/icons/pixpay-fr.jpg",
+  "websiteUrl": "https://www.pixpay.fr/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/fr/app/pixpay/id1468767126"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=fr.pixpay&hl=fr"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "pixpay_app",
+  "bloomberg": null,
+  "keySegments": [
+    "teen"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
