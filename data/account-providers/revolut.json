@@ -146,11 +146,64 @@
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "debitAccountLicense": null,
+  "customers": {
+    "consumer": [
+      {
+        "amount": "12000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.ft.com/content/7fa2a8ea-8e66-11ea-a8ec-961a33ba80aa",
+          "date": "2020-05-06",
+          "verified": true
+        }
+      },
+      {
+        "amount": "4000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.google.com/search?q=revolut+2019+consumers&oq=revolut+2019&aqs=chrome.0.69i59j69i57j0l4j69i60l2.2649j0j4&sourceid=chrome&ie=UTF-8",
+          "date": "2019-02-22",
+          "verified": true
+        }
+      },
+      {
+        "amount": "1000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2017/11/23/revolut-now-has-a-million-customers-for-its-banking-alternative/",
+          "date": "2017-11-24",
+          "verified": true
+        }
+      }
+    ],
+  "fundingTotal": {
+    "amount": "836000000",
+    "currency": "USD"
+  },
+  "foundedYear": 2015,
   "strategies": [],
-  "prepaidCards": [],
-  "debitCards": [],
-  "creditCards": [],
+  "prepaidCards": true,
+  "debitCards": [
+    "mastercard", "visa"
+    ],
+  "creditCards": true,
   "partnerships": [
+    {
+      "name": "Adzooma",
+      "icon": "data:image/png;base64,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",
+      "websiteUrl": "https://www.adzooma.com/",
+      "id": "adzooma",
+      "title": "Revolut Partners with Adzooma to provide marketing assistance to its Business Clients",
+      "desription": "The London based Digital Bank, Revolut has partnered with a digital advertising platform, Adzooma to ensure the provision of assistance with regards to marketing to its business clients. The Adzooma platform has established effective online strategies for marketing that help the SMEs through this proprietary software.",
+      "sourceUrl": "https://www.martechcube.com/revolut-partners-with-adzooma-to-provide-marketing/",
+      "sourceDate": "2020-05-06",
+      "features": [
+        "digital-advertising"
+      ]
+    },
     {
       "name": "Modulr",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1575220013/catalog/modulrfinance/icon128x128.png",
