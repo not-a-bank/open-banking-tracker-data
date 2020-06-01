@@ -146,11 +146,64 @@
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "debitAccountLicense": null,
+  "customers": {
+    "consumer": [
+      {
+        "amount": "12000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.ft.com/content/7fa2a8ea-8e66-11ea-a8ec-961a33ba80aa",
+          "date": "2020-05-06",
+          "verified": true
+        }
+      },
+      {
+        "amount": "4000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.google.com/search?q=revolut+2019+consumers&oq=revolut+2019&aqs=chrome.0.69i59j69i57j0l4j69i60l2.2649j0j4&sourceid=chrome&ie=UTF-8",
+          "date": "2019-02-22",
+          "verified": true
+        }
+      },
+      {
+        "amount": "1000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2017/11/23/revolut-now-has-a-million-customers-for-its-banking-alternative/",
+          "date": "2017-11-24",
+          "verified": true
+        }
+      }
+    ],
+  "fundingTotal": {
+    "amount": "836000000",
+    "currency": "USD"
+  },
+  "foundedYear": 2015,
   "strategies": [],
-  "prepaidCards": [],
-  "debitCards": [],
-  "creditCards": [],
+  "prepaidCards": true,
+  "debitCards": [
+    "mastercard", "visa"
+    ],
+  "creditCards": true,
   "partnerships": [
+    {
+      "name": "Adzooma",
+      "icon": "https://res.cloudinary.com/apideck/icons/adzooma",
+      "websiteUrl": "https://www.adzooma.com/",
+      "id": "adzooma",
+      "title": "Revolut Partners with Adzooma to provide marketing assistance to its Business Clients",
+      "desription": "The London based Digital Bank, Revolut has partnered with a digital advertising platform, Adzooma to ensure the provision of assistance with regards to marketing to its business clients. The Adzooma platform has established effective online strategies for marketing that help the SMEs through this proprietary software.",
+      "sourceUrl": "https://www.martechcube.com/revolut-partners-with-adzooma-to-provide-marketing/",
+      "sourceDate": "2020-05-06",
+      "features": [
+        "digital-advertising"
+      ]
+    },
     {
       "name": "Modulr",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1575220013/catalog/modulrfinance/icon128x128.png",
