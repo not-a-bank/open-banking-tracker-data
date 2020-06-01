@@ -87,4 +87,64 @@
       "date": "2018-01-12"
     }
   ]
+  "customers": {
+    "consumer": [
+      {
+        "amount": "4000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.altfi.com/article/6256_breaking-monzo-sails-past-4m-customers-but-growth-rate-slows",
+          "date": "2020-03-04",
+          "verified": true
+        }
+      }
+    ],
+  "fundingTotal": {
+    "amount": "324700000",
+    "currency": "GBP"
+  },
+  "foundedYear": 2015,
+  "strategies": [
+    "marketplaceBanking"
+  ],
+  "prepaidCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "fscsProtected": true,
+  "products": {
+    "currentAccounts": {
+      "personalAccount": true,
+      "jointAccount": true,
+      "euroAccount": false,
+      "teenAccount": true,
+      "freeFeeTravel": true
+    },
+    "businessCurrentAccount": true,
+    "loans": {
+      "personalOverdraft": true,
+      "personalLoans": true,
+      "bussinesOverdraft": true
+    },
+    "pfm": true,
+    "internationalMoneyTransfers": true
+  },
+  "partnerships": [
+    {
+      "name": "RDC",
+      "icon": "https://mms.businesswire.com/media/20191218005050/en/763599/4/RDC_logo.jpg",
+      "websiteUrl": "https://rdc.com/",
+      "id": "rdc-US",
+      "title": "RDC and Monzo Expand Anti-money Laundering Partnership for Bank’s US Launch",
+      "desription": "RDC (Regulatory DataCorp) has renewed its agreement with Monzo in a deal that will see the company’s next-generation customer screening technology extended to cover the bank’s US launch. The arrangement will build on the success of the past two years in the UK where RDC’s data and technology was used to screen for financial crime risk as 55,000 new customers sign up for a Monzo account every week.",
+      "sourceUrl": "https://www.businesswire.com/news/home/20191218005050/en/RDC-Monzo-Expand-Anti-money-Laundering-Partnership-Bank%E2%80%99s",
+      "sourceDate": "2019-12-18"
+    }
+  ]
 }
