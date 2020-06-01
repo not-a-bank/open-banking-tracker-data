@@ -122,6 +122,16 @@
   "customers": {
     "consumer": [
       {
+        "amount": "6000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://transferwise.com/gb/blog/annualreport2019",
+          "date": "2019-09-19",
+          "verified": true
+        }
+      },
+      {
         "amount": "4000000",
         "type": "claim",
         "product": "currentAccounts",
@@ -161,7 +171,32 @@
     "pfm": false,
     "internationalMoneyTransfers": true
   },
-  "partnerships": [], 
+  "partnerships": [
+     {
+      "name": "Alipay",
+      "icon": "https://res.cloudinary.com/apideck/icons/alipay",
+      "websiteUrl": "https://intl.alipay.com/",
+      "id": "alipay-china",
+      "title": "TransferWise partners with Alipay for international money transfers",
+      "desription": "TransferWise has partnered with China’s Aliplay for international transfers. The launch enables TransferWise’s 7 million-plus users to be able to send Chinese yuan from 17 currencies to users of Alipay, which serves more than 1.2 billion people worldwide including via its local e-wallet partners.",
+      "sourceUrl": "https://techcrunch.com/2020/03/16/transferwise-partners-with-alipay/",
+      "sourceDate": "2020-03-17"
+    }
+  ], 
+  "integrations": [
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "icon": "https://res.cloudinary.com/apideck/icons/zapier",
+      "websiteUrl": "https://zapier.com/"
+    }
+  ],
   "platforms": [
     "mobile",
     "web"
