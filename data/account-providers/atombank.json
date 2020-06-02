@@ -60,5 +60,29 @@
       "url": "https://www.bbva.com/en/atom-bank-ceo-lead-challenger-banks-uk-open-banking-initiative/",
       "date": "2017-07-05"
     }
+  ],
+  "fundingTotal": {
+    "amount": "429000000",
+    "currency": "GBP"
+  },
+  "foundedYear": 2014,
+  "thirdPartyBankingLicense": false,
+  "products": {
+    "loans": {
+      "businessLoans": true,
+      "businessOverdraft": true
+    }
+  },
+  "partnerships": [
+    {
+      "name": "Thought Machine",
+      "icon": "https://d1nzzttg89jj6.cloudfront.net/assets/companies/1558349764/thoughtmachine-1558349764.png",
+      "websiteUrl": "https://www.thoughtmachine.net/",
+      "id": "thought-machine-uk",
+      "title": "Digital disruptor Atom bank partners with Thought Machine",
+      "desription": "Atom bank has agreed a multi-year partnership with leading fintech Thought Machine to put its next generation of personal and business banking products onto Thought Machine’s Vault platform.",
+      "sourceUrl": "https://www.atombank.co.uk/newsroom/digital-disruptor-atom-bank-partners-with-thought-machine/#:~:text=Atom%20bank,Thought%20Machine&text=Atom%20bank%2C%20the%20UK's%20first,products%20onto%20Thought%20Machine's%20Vault",
+      "sourceDate": "2018-11-27"
+    }
   ]
 }
