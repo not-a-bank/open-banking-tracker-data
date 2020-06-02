@@ -1,0 +1,75 @@
+{
+  "id": "gohenry",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "GoHenry",
+  "description": "GoHenry is an online app and debit card that lets parents monitor their children's spending by issuing them prepaid Visa debit cards.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591117884/radar/icons/gohenry.jpg",
+  "websiteUrl": "https://www.gohenry.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "gohenry",
+  "crunchbase": "https://www.crunchbase.com/organization/gohenry",
+  "bloomberg": null,
+  "keySegments": [
+    "teen"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [
+    "visa"
+  ],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "name": "IDT Financial Services Limited",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591117839/icons/idtfinance.png",
+      "websiteUrl": "https://idtfinance.com/"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
