@@ -22,7 +22,6 @@
   "stateOwned": false,
   "countryHQ": "GB",
   "countries": ["EU"],
-  "compliance": [],
   "sandbox": {
     "status": "unavailable",
     "sourceUrl": null
@@ -55,5 +54,69 @@
   "crunchbase": "monese",
   "github": null,
   "fca": "001b000000m4IXjAAM",
-  "articles": []
+  "articles": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "customers": {
+    "consumer": [
+      {
+        "amount": "2000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.finextra.com/pressarticle/81209/monese-signs-up-two-million-customers#:~:text=Monese%2C%20the%20banking%20service%20that,now%20joining%20Monese%20every%20day.",
+          "date": "2020-01-22",
+          "verified": true
+        }
+      },
+      {
+        "amount": "1000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://monese.com/eu/blog/2019/05/1-million-signups",
+          "date": "2019-05-03",
+          "verified": true
+        }
+      },
+      {
+        "amount": "500000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.businessinsider.com/monese-subscriber-base-growing-2018-7?r=US&IR=T",
+          "date": "2018-07-25",
+          "verified": true
+        }
+      }
+    ]
+  },
+  "fundingTotal": {
+    "amount": "80400000",
+    "currency": "USD"
+  },
+  "foundedYear": 2013,
+  "partnerships": [
+    {
+      "name": "Raisin",
+      "icon": "https://res.cloudinary.com/apideck/icons/raisin",
+      "websiteUrl": "https://www.raisin.com/",
+      "id": "raisin-germany",
+      "title": "European banking app Monese partners with deposits marketplace Raisin",
+      "desription": "The new feature sees Monese customers gain access to Raisin’s cross-border deposits marketplace so that they can shop around for a competitive interest rate via the various European banks signed up to Raisin.",
+      "sourceUrl": "https://techcrunch.com/2019/09/03/monese-raisin/",
+      "sourceDate": "2019-09-03"
+    },
+    {
+      "name": "Paypoint",
+      "icon": "https://res.cloudinary.com/apideck/icons/paypoint",
+      "websiteUrl": "https://paypoint.com/",
+      "id": "paypoint-uk",
+      "title": "PayPoint extends Monese partnership",
+      "desription": "The partnership means that Monese users can continue to make cash deposits of up to £500 directly into their accounts at a time and place of their choosing. All deposits processed via PayPoint are completed in real time, enabling customers to access their funds via the Monese app almost instantly.",
+      "sourceUrl": "https://www.talkingretail.com/news/industry-news/paypoint-extends-monese-partnership-19-02-2020/",
+      "sourceDate": "2020-02-19"
+    }
+  ]
 }
