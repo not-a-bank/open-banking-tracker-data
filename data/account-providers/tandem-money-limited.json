@@ -65,7 +65,7 @@
   ],
   "apiStandards": [],
   "webApplication": false,
-  "mobileApps": [],
+  "mobileApps":true,
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "TandemMoney",
@@ -74,11 +74,11 @@
   "github": null,
   "fca": "001b000000i8ezfAAA",
   "articles": [],
-  "thirdPartyBankingLicense": null,
+  "thirdPartyBankingLicense": false,
   "strategies": [],
-  "prepaidCards": [],
-  "debitCards": [],
-  "creditCards": [],
+  "prepaidCards": false,
+  "debitCards": false,
+  "creditCards": true,
   "partnerships": [
     {
       "name": "TrueLayer",
@@ -95,5 +95,45 @@
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "customers": {
+    "consumer": [
+      {
+        "amount": "500000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.finextra.com/pressarticle/76995/tandem-reaches-half-a-million-customers",
+          "date": "2019-01-18",
+          "verified": true
+        }
+      }, 
+    ],
+  "fundingTotal": {
+    "amount": "134300000",
+    "currency": "GBP"
+  },
+  "foundedYear": 2013,
+  "partnerships": [
+    {
+      "name": "Truelayer",
+      "icon": "https://pbs.twimg.com/profile_images/1224754362477613057/krEOXZSf_400x400.jpg",
+      "websiteUrl": "https://truelayer.com/",
+      "id": "truelayer-uk",
+      "title": "UK challenger bank Tandem partners with financial API provider for account aggregation",
+      "desription": "Tandem and European financial API provider TrueLayer have announced a partnership that will enable Tandem customers to connect and synchronize accounts they hold with other financial institutions directly to their Tandem app.",
+      "sourceUrl": "https://www.businessinsider.com/tandem-partnered-with-truelayer-to-enable-account-aggregation-2019-11?r=US&IR=T",
+      "sourceDate": "2019-11-27"
+    },
+    {
+      "name": "Stripe",
+      "icon": "data:image/png;base64,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",
+      "websiteUrl": "https://stripe.com/en-be",
+      "id": "stripe-usa",
+      "title": "Challenger bank Tandem partners with Stripe for upcoming ‘Auto Savings’ feature",
+      "desription": "Tandem is gearing up to launch a new “Auto Savings” feature — to lower the barriers for Tandem  app users who want to save for a rainy day — and to power the feature the company is partnering with Stripe.",
+      "sourceUrl": "https://techcrunch.com/2018/11/14/a-spender-can-change-its-stripes/",
+      "sourceDate": "2018-11-14"
+    } 
+  ],
 }
