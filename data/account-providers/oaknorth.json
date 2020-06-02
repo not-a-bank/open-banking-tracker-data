@@ -52,9 +52,41 @@
   "fca": "001b000000aQtn8AAC",
   "articles": [],
   "strategies": [],
+  "fundingTotal": {
+    "amount": "2800000000",
+    "currency": "USD"
+    },
+  "foundedYear": 2013,
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "loans": {
+      "personalOverdraft": true,
+      "personalLoans": true,
+      "bussinesOverdraft": true
+  },
+   "partnerships": [
+    {
+      "name": "Shieldpay",
+      "icon": "https://financialit.net/sites/default/files/shiledpay.png",
+      "websiteUrl": "https://www.shieldpay.com/",
+      "id": "shieldpay-uk",
+      "title": "Oaknorth Bank and Shieldpay announce strategic partnership",
+      "desription": "OakNorth Bank and Shieldpay, jointly developed this industry-first offering which enables OakNorth to hold borrowers’ funds securely in Shieldpay’s digital escrow facility – the vault – and only release funds when all parties are in agreement.",
+      "sourceUrl": "https://www.businessleader.co.uk/oaknorth-bank-and-shieldpay-announce-strategic-partnership/73573/",
+      "sourceDate": "2019-09-23"
+    },
+    {
+      "name": "NIBC",
+      "icon": "https://www.nibcdirect.be/img/logo/nibc-logo.png?width=220&height=220&bgcolor=fff&mode=boxpad",
+      "websiteUrl": "https://www.nibc.com/",
+      "id": "nibc-bank-netherlands",
+      "title": "OakNorth is continuing to grow at a dizzying rate",
+      "desription": "OakNorth, one of the UK's most valuable fintechs, has inked a five-year deal with Dutch incumbent bank NIBC to provide its credit analysis and monitoring platform to the lender",
+      "sourceUrl": "https://www.businessinsider.com/oaknorth-nibc-sign-deal-credit-analysis-monitoring-2019-7?r=US&IR=T",
+      "sourceDate": "2019-07-03"
+    }
+  ]
 }
