@@ -66,7 +66,7 @@
     "currency": "GBP"
   },
   "foundedYear": 2014,
-  "thirdPartyBankingLicense": false,
+  "thirdPartyBankingLicense": null,
   "products": {
     "loans": {
       "businessLoans": true,
@@ -76,9 +76,9 @@
   "partnerships": [
     {
       "name": "Thought Machine",
-      "icon": "https://d1nzzttg89jj6.cloudfront.net/assets/companies/1558349764/thoughtmachine-1558349764.png",
+      "icon": "https://res.cloudinary.com/apideck/icons/thoughtmachine-net.jpg",
       "websiteUrl": "https://www.thoughtmachine.net/",
-      "id": "thought-machine-uk",
+      "id": "thoughtmachine-net",
       "title": "Digital disruptor Atom bank partners with Thought Machine",
       "desription": "Atom bank has agreed a multi-year partnership with leading fintech Thought Machine to put its next generation of personal and business banking products onto Thought Machine’s Vault platform.",
       "sourceUrl": "https://www.atombank.co.uk/newsroom/digital-disruptor-atom-bank-partners-with-thought-machine/#:~:text=Atom%20bank,Thought%20Machine&text=Atom%20bank%2C%20the%20UK's%20first,products%20onto%20Thought%20Machine's%20Vault",
