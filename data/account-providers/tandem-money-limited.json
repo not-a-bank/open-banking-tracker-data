@@ -65,7 +65,7 @@
   ],
   "apiStandards": [],
   "webApplication": false,
-  "mobileApps": [],
+  "mobileApps":[],
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "TandemMoney",
@@ -79,21 +79,47 @@
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
+  "platforms": [],
+  "awards": [],
+  "customers": {
+    "consumer": [
+      {
+        "amount": "500000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.finextra.com/pressarticle/76995/tandem-reaches-half-a-million-customers",
+          "date": "2019-01-18",
+          "verified": true
+        }
+      } 
+    ]
+  },
+  "fundingTotal": {
+    "amount": "134300000",
+    "currency": "GBP"
+  },
+  "foundedYear": 2013,
   "partnerships": [
     {
-      "name": "TrueLayer",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568569722/catalog/truelayer/icon128x128.png",
+      "name": "Truelayer",
+      "icon": "https://res.cloudinary.com/apideck/icons/truelayer.jpg",
       "websiteUrl": "https://truelayer.com/",
       "id": "truelayer",
       "title": "UK challenger bank Tandem partners with financial API provider for account aggregation",
-      "desription": "UK challenger bank Tandem and European financial API provider TrueLayer have announced a partnership that will enable Tandem customers to connect and synchronize accounts they hold with other financial institutions directly to their Tandem app, Finextra reports.",
+      "desription": "Tandem and European financial API provider TrueLayer have announced a partnership that will enable Tandem customers to connect and synchronize accounts they hold with other financial institutions directly to their Tandem app.",
       "sourceUrl": "https://www.businessinsider.com/tandem-partnered-with-truelayer-to-enable-account-aggregation-2019-11?r=US&IR=T",
-      "sourceDate": "2019-11-27",
-      "features": [
-        "account-aggregation"
-      ]
-    }
-  ],
-  "platforms": [],
-  "awards": []
+      "sourceDate": "2019-11-27"
+    },
+    {
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/icons/stripe",
+      "websiteUrl": "https://stripe.com/en-be",
+      "id": "stripe",
+      "title": "Challenger bank Tandem partners with Stripe for upcoming ‘Auto Savings’ feature",
+      "desription": "Tandem is gearing up to launch a new “Auto Savings” feature — to lower the barriers for Tandem  app users who want to save for a rainy day — and to power the feature the company is partnering with Stripe.",
+      "sourceUrl": "https://techcrunch.com/2018/11/14/a-spender-can-change-its-stripes/",
+      "sourceDate": "2018-11-14"
+    } 
+  ]
 }
