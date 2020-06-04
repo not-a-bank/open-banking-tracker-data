@@ -1,0 +1,102 @@
+{
+  "id": "credit-suisse",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "investment"
+  ],
+  "name": "Credit Suisse",
+  "description": "Credit Suisse Group AG is a global wealth manager, investment bank and financial services company founded and based in Switzerland. Headquartered in Zürich.",
+  "legalName": null,
+  "ipoStatus": "public",
+  "stockSymbol": "CS",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591279316/radar/icons/credit-suisse.png",
+  "websiteUrl": "https://www.credit-suisse.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://api-portal-psd2.credit-suisse.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://api-portal-psd2.credit-suisse.com/",
+  "apiProducts": [
+    {
+      "label": "Access Account Information (AIS)",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#access-account-information-ais",
+      "apiReferenceUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#access-account-information-ais",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Initiate a Payment (PIS)",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#initiate-a-payment-pis",
+      "apiReferenceUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#initiate-a-payment-pis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#get-confirmation-of-funds-availability-fcs",
+      "apiReferenceUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#get-confirmation-of-funds-availability-fcs",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "CreditSuisse",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Credit_Suisse",
+  "bloomberg": null,
+  "stack": [
+    {
+      "id": "ndgit",
+      "name": "ndgit",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586383027/catalog/ndgit/icon128x128.png",
+      "websiteUrl": "https://nextdigitalbanking.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
