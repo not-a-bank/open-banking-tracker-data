@@ -62,10 +62,13 @@
   "creditCards": [],
   "platforms": [],
   "awards": [],
-  "loans": {
+  "products": {
+    "businessCurrentAccount": true,
+    "loans": {
       "personalOverdraft": true,
       "personalLoans": true,
       "bussinesOverdraft": true
+    }
   },
    "partnerships": [
     {
