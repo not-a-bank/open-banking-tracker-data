@@ -1,0 +1,71 @@
+{
+  "id": "nextbank-taiwan",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Next Bank",
+  "description": "Taiwan's first virtual bank",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "upcoming",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591347741/radar/icons/nextbank-tw.png",
+  "websiteUrl": "https://www.nextbank.com.tw/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "TW",
+  "countries": [
+    "TW"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [
+    {
+      "id": "temenos",
+      "name": "Temenos",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828759/catalog/temenos/icon128x128.jpg",
+      "websiteUrl": "https://www.temenos.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Temenos",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828759/catalog/temenos/icon128x128.jpg",
+      "websiteUrl": "https://www.temenos.com/",
+      "id": "temenos",
+      "title": "Taiwanese challenger Next Bank to launch this year on Temenos",
+      "desription": "Chunghwa Telecom owns a 41.9% stake in Next Bank.",
+      "sourceUrl": "https://www.fintechfutures.com/2020/06/taiwanese-challenger-next-bank-to-launch-this-year-on-temenos/",
+      "features": [],
+      "addedAt": "2020-06-05"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
