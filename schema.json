@@ -500,6 +500,29 @@
         { "type": "null" }
       ]
     },
+    "apiStatusUrls": {
+      "anyOf": [
+        {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "countries": {
+                "type": "array",
+                "examples": ["AT"]
+              },
+              "url": {
+                "type": "string",
+                "examples": ["https://psd2.ndgit-status.com/Credit-Suisse-Digital-AT"]
+              }
+            }
+          },
+          "description": "Status urls with uptime and statistics",
+          "examples": ["https://api.novobanco.es/HTML/statistics.html"]
+        }, 
+        { "type": "null" }
+      ]
+    },
     "apiProducts": {
       "anyOf": [
         { "type": "null" },
@@ -597,6 +620,16 @@
                   { "type": "null" }
                 ],
                 "examples": ["https://developer.abnamro.com/api/payment-initiation-v1/payment-initiation-documentation"]
+              },
+              "statusUrl": {
+                "anyOf": [
+                  {
+                    "type": "string",
+                    "description": "Status url with uptime and statistics",
+                    "examples": ["https://api.novobanco.es/HTML/statistics.html"]
+                  }, 
+                  {"type": "null"}
+                ]
               },
               "premium": {
                 "type": "boolean",
