@@ -37,10 +37,10 @@
   "bloomberg": null,
   "stack": [
     {
-      "id": "temenos",
-      "name": "Temenos",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828759/catalog/temenos/icon128x128.jpg",
-      "websiteUrl": "https://www.temenos.com/"
+      "id": "temenos-t24-transact",
+      "name": "Temenos T24 Transact",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828757/catalog/temenos-t24-transact/icon128x128.jpg",
+      "websiteUrl": "https://www.temenos.com/products/t24-transact/"
     }
   ],
   "thirdPartyBankingLicense": null,
@@ -61,7 +61,9 @@
       "title": "Taiwanese challenger Next Bank to launch this year on Temenos",
       "desription": "Chunghwa Telecom owns a 41.9% stake in Next Bank.",
       "sourceUrl": "https://www.fintechfutures.com/2020/06/taiwanese-challenger-next-bank-to-launch-this-year-on-temenos/",
-      "features": [],
+      "features": [
+        "core-banking"
+      ],
       "addedAt": "2020-06-05"
     }
   ],
