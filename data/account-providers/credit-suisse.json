@@ -69,6 +69,16 @@
   "apiStandards": [
     "BERLIN"
   ],
+  "apiStatusUrls": [
+    {
+      "country": "AT",
+      "url": "https://psd2.ndgit-status.com/Credit-Suisse-Digital-AT"
+    },
+    {
+      "country": "ES",
+      "url": "https://psd2.ndgit-status.com/Credit-Suisse-Digital-ES"
+    }
+  ],
   "apiAggregators": [],
   "collections": [],
   "webApplication": true,

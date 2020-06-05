@@ -1,0 +1,118 @@
+{
+  "id": "novobanco-es",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "investment"
+  ],
+  "name": "Novo Banco",
+  "description": "Novo Banco is a Portuguese bank introduced on 4 August 2014 by the Bank of Portugal to rescue assets and liabilities of Banco Espírito Santo.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591371176/radar/icons/novobanco-es.jpg",
+  "websiteUrl": "https://www.novobanco.es/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": [
+    "ES"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://api.novobanco.es/"
+  },
+  "developerPortalUrl": "https://api.novobanco.es/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://api.novobanco.es/psd2-doc/",
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://api.novobanco.es/HTML/AIS.html",
+      "apiReferenceUrl": "https://api.novobanco.es/HTML/AIS.html",
+      "statusUrl": "https://api.novobanco.es/HTML/statistics.html",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "Consent",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://api.novobanco.es/HTML/consents.html",
+      "apiReferenceUrl": "https://api.novobanco.es/HTML/consents.html",
+      "statusUrl": "https://api.novobanco.es/HTML/statistics.html",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://api.novobanco.es/HTML/PIS.html",
+      "apiReferenceUrl": "https://api.novobanco.es/HTML/PIS.html",
+      "statusUrl": "https://api.novobanco.es/HTML/statistics.html",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": null,
+      "documentationUrl": "https://api.novobanco.es/HTML/FCS.html",
+      "apiReferenceUrl": "https://api.novobanco.es/HTML/FCS.html",
+      "statusUrl": "https://api.novobanco.es/HTML/statistics.html",
+      "stage": "live",
+      "premium": false
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Novo_Banco",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
