@@ -1,0 +1,61 @@
+{
+  "id": "welab-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "WeLab Bank",
+  "description": "WeLab Bank Limited is a wholly-owned subsidiary of WeLab and virtual bank with a license to operate in Hong Kong.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "private-beta",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591440088/radar/icons/welab-bank.png",
+  "websiteUrl": "https://www.welab.bank",
+  "ownership": [
+    {
+      "providerId": "welab-co",
+      "shareholderName": "WeLab",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591439758/icons/welab-co.png",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "HK",
+  "countries": [
+    "HK"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/WeLab_Bank",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
