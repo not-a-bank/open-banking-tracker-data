@@ -66,11 +66,13 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "truelayer",
     "salt-edge",
     "banked"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -95,6 +97,7 @@
       "date": "2018-08-06"
     }
   ],
+  "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "debitAccountLicense": null,
@@ -165,10 +168,12 @@
     "marketplaceBanking"
   ],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [
     "mastercard"
   ],
   "creditCards": [],
+  "virtualCards": [],
   "applePay": true,
   "googlePay": true,
   "samsungPay": true,
@@ -201,6 +206,25 @@
       "desription": "App-based start up Starling Bank has arrived on the high street following a deal to launch in thousands of Post Offices nationwide. Starling describes itself as a \"mobile only bank account\" and has more than 200,000 users in the UK. It is among a new wave of digital-only lenders that claim to be quicker and easier to deal with compared with traditional banks.",
       "sourceUrl": "https://www.telegraph.co.uk/technology/2018/11/14/digital-bank-starling-heads-high-street-following-post-office/",
       "sourceDate": "2018-11-24"
+    },
+    {
+      "name": "Trusona",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591442572/icons/trusona.jpg",
+      "websiteUrl": "https://www.trusona.com/",
+      "id": "trusona",
+      "title": "Tandem Bank Deploys Trusona To Offer Passwordless Strong Customer Authentication",
+      "desription": "Trusona, the pioneering leader in passwordless multi-factor authentication technology, today announced that Tandem Bank has selected and deployed Trusona to provide PSD2-compliant, passwordless strong customer authentication (SCA) that enhances the user experience while securing users and their financial",
+      "sourceUrl": "https://finance.yahoo.com/news/tandem-bank-deploys-trusona-offer-180300354.html",
+      "features": [
+        "authentication",
+        "passwordless-mfa"
+      ],
+      "addedAt": "2020-06-06"
+    },
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
     }
   ],
   "integrations": [
@@ -220,7 +244,7 @@
       "id": "handshake",
       "name": "Handshake",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1551284531/catalog/handshake/icon128x128.png",
-      "websiteUrl": "http://handshake.com"
+      "websiteUrl": "https://handshake.com"
     },
     {
       "id": "emma-app",
@@ -232,7 +256,7 @@
       "id": "tail",
       "name": "Tail",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1554722428/catalog/tail/icon128x128.jpg",
-      "websiteUrl": "http://tail.digital"
+      "websiteUrl": "https://tail.digital"
     },
     {
       "id": "growthstreet-couk",
