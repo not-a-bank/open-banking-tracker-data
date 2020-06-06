@@ -1,32 +1,34 @@
 {
-  "id": "mox",
+  "id": "mox-bank",
   "type": [
     "account"
   ],
   "bankType": [
     "challenger"
   ],
-  "name": "MOX by Standard Chartered",
+  "name": "MOX Bank",
   "description": "Mox is the new virtual bank backed by Standard Chartered in partnership with HKT, PCCW and Trip.com; created to deliver a new banking experience in Hong Kong.",
   "legalName": "MOX Group Limited",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
-  "status": "live",
+  "status": "private-beta",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1586444441/radar/icons/mox.png",
   "websiteUrl": "https://mox.com/",
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "standard-chartered",
+      "shareholderName": "Standard Chartered",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1586447030/catalog/standard-chartered/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "HK",
   "countries": [
     "HK"
   ],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
+  "compliance": [],
   "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
@@ -34,6 +36,7 @@
   "apiAuth": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],
   "webApplication": false,
@@ -46,8 +49,10 @@
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
   "partnerships": [],
   "integrations": [],
   "platforms": [],
