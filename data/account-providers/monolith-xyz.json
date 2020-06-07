@@ -61,7 +61,14 @@
       "websiteUrl": "https://visa.com"
     }
   ],
-  "integrations": [],
+  "integrations": [
+    {
+      "id": "ethereum-org",
+      "name": "Ethereum",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591545171/icons/ethereum-org.jpg",
+      "websiteUrl": "https://ethereum.org/"
+    }
+  ],
   "platforms": [],
   "awards": []
 }
