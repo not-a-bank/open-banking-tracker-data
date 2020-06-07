@@ -1,0 +1,100 @@
+{
+  "id": "dbs-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "DBS Bank",
+  "description": "DBS, a leading financial services group headquartered in Singapore, operates across 18 markets. A frontrunner in digital transformation, we seek to deliver a new kind of banking that is so simple, seamless and invisible, that customers have more time to spend on the things they care about. ",
+  "legalName": "DBS Bank Ltd",
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591506868/radar/icons/dbs.jpg",
+  "websiteUrl": "https://www.dbs.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SG",
+  "countries": [
+    "SG",
+    "IN",
+    "HK",
+    "CN",
+    "ID",
+    "TW"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://www.dbs.com/dbsdevelopers/index.html",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.dbs.com/dbsdevelopers/index.html",
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://www.dbs.com/dbsdevelopers/discover/deposit.html",
+      "apiReferenceUrl": "https://www.dbs.com/dbsdevelopers/discover/deposit.html",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://www.dbs.com/dbsdevelopers/discover/fundtransfer.html",
+      "apiReferenceUrl": "https://www.dbs.com/dbsdevelopers/discover/fundtransfer.html",
+      "statusUrl": "https://api.novobanco.es/HTML/statistics.html",
+      "stage": "live",
+      "premium": false
+    },
+    {
+      "label": "Real-Time Payments",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Connect your customers directly to DBS from your platform or system to make real-time payments, creating a seamless experience for your customers to receive funds any time, any day.",
+      "documentationUrl": "https://www.dbs.com/dbsdevelopers/discover/realtime.html",
+      "apiReferenceUrl": "",
+      "statusUrl": "",
+      "stage": "live",
+      "premium": false
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "dbsbank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/DBS_Bank",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
