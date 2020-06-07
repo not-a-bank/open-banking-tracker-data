@@ -45,6 +45,25 @@
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
+  "customers": {
+    "consumer": [
+      {
+        "amount": "200000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2019/12/11/albo-raises-19m-series-a-to-scale-mexicos-largest-neobank/",
+          "date": "2019-12-11",
+          "verified": true
+        }
+      }
+    ]
+  },
+  "fundingTotal": {
+    "amount": "26400000",
+    "currency": "USD"
+  },
+  "foundedYear": 2016,
   "partnerships": [],
   "integrations": [],
   "platforms": [],
