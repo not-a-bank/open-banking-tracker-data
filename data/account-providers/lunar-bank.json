@@ -1,0 +1,100 @@
+{
+  "id": "lunar-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Lunar",
+  "description": "Lunar’s banking app makes managing your spending, budget and savings easy with its sublime user experience for both personal and business finance.",
+  "legalName": "Lunar Bank A/S",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591559743/radar/icons/lunar-app.jpg",
+  "websiteUrl": "https://lunar.app/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DK",
+  "countries": [
+    "DK"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/dk/app/lunar-way-bank-app/id1068850213?pid=website_untracked"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.lunarway.app&pid=website_untracked"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "lunarbank",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Astralis",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591559016/icons/astralis-gg.jpg",
+      "websiteUrl": "https://www.astralis.gg/",
+      "id": "astralis-gg",
+      "title": "Lunar teams up with Astralis",
+      "desription": "Denmark-based esports organisation Astralis has teamed up with challenger bank Lunar launch an exclusive Astralis-branded Visa payment card.",
+      "sourceUrl": "https://thepaypers.com/online-mobile-banking/lunar-teams-up-with-astralis--1242633",
+      "features": [],
+      "addedAt": "2020-06-07T19:51:06.882Z"
+    },
+    {
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "integrations": [
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840298/catalog/google-pay/icon128x128.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    },
+    {
+      "id": "apple-pay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
