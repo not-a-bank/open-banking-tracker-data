@@ -6,7 +6,7 @@
   "bankType": [
     "challenger"
   ],
-  "name": "Tandem Money",
+  "name": "Tandem Bank",
   "legalName": "Tandem Money Limited",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -36,7 +36,6 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.token.io/",
-  "apiAggregators": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -64,8 +63,11 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": false,
-  "mobileApps":[],
+  "mobileApps": [],
   "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "TandemMoney",
@@ -74,13 +76,10 @@
   "github": null,
   "fca": "001b000000i8ezfAAA",
   "articles": [],
+  "stack": [],
   "thirdPartyBankingLicense": null,
-  "strategies": [],
-  "prepaidCards": [],
-  "debitCards": [],
-  "creditCards": [],
-  "platforms": [],
-  "awards": [],
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "customers": {
     "consumer": [
       {
@@ -92,7 +91,7 @@
           "date": "2019-01-18",
           "verified": true
         }
-      } 
+      }
     ]
   },
   "fundingTotal": {
@@ -100,6 +99,12 @@
     "currency": "GBP"
   },
   "foundedYear": 2013,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
   "partnerships": [
     {
       "name": "Truelayer",
@@ -120,6 +125,23 @@
       "desription": "Tandem is gearing up to launch a new “Auto Savings” feature — to lower the barriers for Tandem  app users who want to save for a rainy day — and to power the feature the company is partnering with Stripe.",
       "sourceUrl": "https://techcrunch.com/2018/11/14/a-spender-can-change-its-stripes/",
       "sourceDate": "2018-11-14"
-    } 
-  ]
+    },
+    {
+      "name": "Trusona",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591442572/icons/trusona.jpg",
+      "websiteUrl": "https://www.trusona.com/",
+      "id": "trusona",
+      "title": "Tandem Bank Deploys Trusona To Offer Passwordless Strong Customer Authentication",
+      "desription": "Trusona, the pioneering leader in passwordless multi-factor authentication technology, today announced that Tandem Bank has selected and deployed Trusona to provide PSD2-compliant, passwordless strong customer authentication (SCA) that enhances the user experience while securing users and their financial",
+      "sourceUrl": "https://finance.yahoo.com/news/tandem-bank-deploys-trusona-offer-180300354.html",
+      "features": [
+        "authentication",
+        "passwordless-mfa"
+      ],
+      "addedAt": "2020-06-06"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
