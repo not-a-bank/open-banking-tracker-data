@@ -57,6 +57,16 @@
   "customers": {
     "consumer": [
       {
+        "amount": "500000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2019/07/15/over-the-top-banking/#:~:text=To%20date%2C%20the%20company%20claims,the%20end%20of%20the%20year.",
+          "date": "2019-07-16",
+          "verified": true
+        }
+      },
+      {
         "amount": "300000",
         "type": "claim",
         "product": "currentAccounts",
@@ -68,10 +78,22 @@
       }
     ],
     "sme": null,
-    "targets": null
+    "targets": {
+      "amount": "1000000",
+      "type": "forecast",
+      "date": "2019-12-31",
+      "products": [
+        "currentAccounts"
+      ],
+      "source": {
+        "url": "https://techcrunch.com/2019/07/15/over-the-top-banking/#:~:text=To%20date%2C%20the%20company%20claims,the%20end%20of%20the%20year.",
+        "date": "2019-07-16",
+        "verified": true
+      }
+    }
   },
   "fundingTotal": {
-    "amount": "12000000",
+    "amount": "60000000",
     "currency": "USD"
   },
   "foundedYear": 2015,
@@ -103,7 +125,42 @@
     "pfm": true,
     "internationalMoneyTransfers": true
   },
-  "partnerships": null, 
+  "partnerships": [
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://www.mastercard.com/global.html",
+      "id": "mastercard",
+      "title": "Curve and Mastercard extend their partnership",
+      "desription": "Curve announced a new expanded partnership with Mastercard that sees Curve become a principal member of the payments technology company.",
+      "sourceUrl": "https://newsroom.mastercard.com/eu/news-briefs/curve-and-mastercard-extend-their-partnership/",
+      "sourceDate": "2020-04-30"
+    },
+    {
+      "name": "Fitbit",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565004495/catalog/fitbit/icon128x128.jpg",
+      "websiteUrl": "https://www.fitbit.com/home",
+      "id": "fitbit",
+      "title": "Curve forms partnerships to expand wearables offering",
+      "desription": "Curve has partnered with Garmin, Fitbit and Sony’s Wena pay to enable its customers to make payments using wearables.",
+      "sourceUrl": "https://www.verdict.co.uk/cards-international/news/curve-wearables-offering/",
+      "sourceDate": "2019-12-13"
+    }
+  ],
+  "integrations": [
+    {
+      "id": "googlepay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840298/catalog/google-pay/icon128x128.png",
+      "websiteUrl": "https://pay.google.com/"
+    },
+    {
+      "id": "applepay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    }
+  ],
   "platforms": [
     "mobile"
   ],
