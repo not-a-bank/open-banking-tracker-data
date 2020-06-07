@@ -1,0 +1,74 @@
+{
+  "id": "new10",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "New10",
+  "description": "New10 sets the new norm in SME lending by offering a fully digital lending process. Fast, simple, and clear.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591550275/radar/icons/new10.jpg",
+  "websiteUrl": "https://new10.com/",
+  "ownership": [
+    {
+      "providerId": "abnamro",
+      "shareholderName": "ABN Amro",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1563405294/catalog/abnamro/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "NL",
+  "countries": [
+    "NL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://new10.com/landing/werkkapitaal-leendoel",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://new10.com/landing/werkkapitaal-leendoel",
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "New10NL",
+  "bloomberg": null,
+  "stack": [
+    {
+      "id": "temenos",
+      "name": "Temenos",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828759/catalog/temenos/icon128x128.jpg",
+      "websiteUrl": "https://www.temenos.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
