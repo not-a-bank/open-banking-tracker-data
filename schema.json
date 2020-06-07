@@ -523,6 +523,14 @@
         { "type": "null" }
       ]
     },
+    "totalApiProducts": {
+      "title": "Total API Products",
+      "description": "A manual count of listed API products. Used as an indicator of to be added API producrs",
+      "anyOf": [
+        { "type": "string" },
+        { "type": "null" }
+      ]
+    },
     "apiProducts": {
       "anyOf": [
         { "type": "null" },
@@ -550,6 +558,7 @@
                   "accountInformation",
                   "paymentInitiation",
                   "paymentRequest",
+                  "realTimePayments",
                   "fundsConfirmation",
                   "atmLocator",
                   "branchLocator",
