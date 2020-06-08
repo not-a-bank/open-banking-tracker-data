@@ -52,11 +52,50 @@
   ],
   "creditCards": [],
   "virtualCards": [],
+  "customers": {
+    "consumer": [
+      {
+        "amount": "1500000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.latimes.com/business/la-fi-himi-andrei-cherny-20190630-story.html",
+          "date": "2019-06-21",
+          "verified": true
+        }
+      },      
+      {
+        "amount": "1000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.reuters.com/article/us-aspiration-fundraising/digital-banking-startup-aspiration-seeks-new-funding-round-idUSKCN1RT1SY",
+          "date": "2019-04-17",
+          "verified": true
+        }
+      }
+    ]
+  },
+  "fundingTotal": {
+    "amount": "110000000",
+    "currency": "USD"
+  },
+  "foundedYear": 2013,
   "partnerships": [
     {
       "name": "mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "name": "radiusbank",
+      "icon": "",
+      "websiteUrl": "https://radiusbank.com/",
+      "id": "radiusbank",
+      "title": "Radius Bank Partners With Aspiration to Launch New Best-In-Class Personal Checking Account",
+      "desription": "Radius Bank recently announced its partnership with Aspiration to introduce a new high-yield personal checking account to Aspiration customers.",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2015/07/14/1302467/0/en/Radius-Bank-Partners-With-Aspiration-to-Launch-New-Best-In-Class-Personal-Checking-Account.html",
+      "sourceDate": "2015-07-14"
     }
   ],
   "integrations": [],
