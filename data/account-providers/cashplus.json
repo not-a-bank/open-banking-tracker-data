@@ -74,5 +74,63 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000k3SAHAA2",
+  "customers": {
+    "consumer": [
+      {
+        "amount": "175000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.growthbusiness.co.uk/cashplus-plans-to-lend-400m-to-small-business-from-next-year-2556932/",
+          "date": "2019-10-09",
+          "verified": true
+        }
+      }
+    ],
+    "sme": [
+      {
+        "amount": "75000",
+        "product": "smeAccounts",
+        "source": {
+          "url": "https://www.growthbusiness.co.uk/cashplus-plans-to-lend-400m-to-small-business-from-next-year-2556932/",
+          "date": "2019-10-09",
+          "verified": true
+        }
+      }
+    ]
+  },
+  "foundedYear": 2005,
+  "partnerships": [
+    {
+      "name": "Post Office",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579220042/catalog/postoffice-uk/icon128x128.png",
+      "websiteUrl": "https://www.postoffice.co.uk/",
+      "id": "postoffice-uk",
+      "title": "CashPlus card holders gain access to banking services via the Post Office network",
+      "desription": "CashPlus cardholders will now be able to use banking services at over 11,000 UK Post Offices.",
+      "sourceUrl": "https://moneysavinganswers.com/business/banking/cashplus-cardholders-gain-access-banking-services-via-post-office-network/",
+      "sourceDate": "2017-05-31"
+    },
+    {
+      "name": "Currencycloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569892398/catalog/currencycloud/icon128x128.jpg",
+      "websiteUrl": "https://www.currencycloud.com/",
+      "id": "currencycloud",
+      "title": "Cashplus Launches International Payments Service to Help put Britain's SMEs on the World Stage",
+      "desription": "Cashplus has teamed up with Currencycloud, one of the best established global payments operators on the market to launch direct, secure, international payments to business customers later this summer.",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/cashplus-launches-international-payments-service-to-help-put-britains-smes-on-the-world-stage-682631711.html",
+      "sourceDate": "2018-05-15"
+    },
+    {
+      "name": "Sage",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936490/catalog/sage/icon128x128.jpg",
+      "websiteUrl": "https://www.sage.com/",
+      "id": "sage",
+      "title": "Cashplus and Sage Join Forces to Help Small Businesses Get Ahead",
+      "desription": "Cashplus and Sage have joined forces to help small businesses get ahead of the Making Tax Digital legislation, by integrating their bank account information and transactions into a new service from Sage called Bank Feeds",
+      "sourceUrl": "https://www.fintechf.com/01-news/cashplus-and-sage-join-forces-to-help-small-businesses-get-ahead/",
+      "sourceDate": "2017-05-22"
+    }
+  ],
   "articles": []
 }
