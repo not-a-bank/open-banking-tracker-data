@@ -1,0 +1,68 @@
+{
+  "id": "denizbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "DenizBank",
+  "description": "DenizBank A.Ş. is a large private bank in Turkey. It is currently owned by Emirates NBD. It was owned and controlled by leading Russian bank Sberbank from 2012 to 2019. European financial services institution Dexia was the owner prior to this.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591634712/radar/icons/denizbank.jpg",
+  "websiteUrl": "https://www.denizbank.com/",
+  "ownership": [
+    {
+      "shareholderName": "Emirates NBD Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591640865/icons/emiratesnbd.jpg",
+      "providerId": "emiratesnbd",
+      "percentage": 99.85
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "TR",
+  "countries": [
+    "TR"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/tr/app/denizkart%C4%B1m/id1303437248?l=tr&mt=8&c=denizkarti"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "DenizBank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/DenizBank",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
