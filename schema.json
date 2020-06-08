@@ -531,6 +531,34 @@
         { "type": "null" }
       ]
     },
+    "apiSpecs": {
+      "title": "API specs",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "enum": [
+              "openapi",
+              "swagger",
+              "wadl",
+              "blueprint"
+            ]
+          },
+          "format": {
+            "enum": [
+              "yaml",
+              "json",
+              "xml"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "examples": ["https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/export?DocumentFormat=OpenApi  "]
+          }
+        }
+      }
+    },
     "apiProducts": {
       "anyOf": [
         { "type": "null" },
