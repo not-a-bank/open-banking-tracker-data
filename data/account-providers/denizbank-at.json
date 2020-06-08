@@ -1,0 +1,122 @@
+{
+  "id": "denizbank-at",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "DenizBank AG (Austria)",
+  "description": "DenizBank AG was founded in 1996. As a universal bank, it is subject to the Austrian banking law and a member of a statutory deposit guarantee scheme.",
+  "legalName": "Denizbank AG",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591633753/radar/icons/denizbank-at.png",
+  "websiteUrl": "https://www.denizbank.at/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://api.denizbank.at/"
+  },
+  "developerPortalUrl": "https://api.denizbank.at/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/",
+  "apiSpecs": [
+    {
+      "type": "openapi",
+      "format": "yaml",
+      "url": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/export?DocumentFormat=OpenApi"
+    },
+    {
+      "type": "openapi",
+      "format": "json",
+      "url": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/export?DocumentFormat=OpenApiJson"
+    },
+    {
+      "type": "swagger",
+      "format": "json",
+      "url": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/export?DocumentFormat=Swagger"
+    },
+    {
+      "type": "wadl",
+      "format": "xml",
+      "url": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/export?DocumentFormat=Wadl"
+    }
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Information Services (AIS)",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/operations/Accounts_GetAccount?&groupBy=tag#collapse-Authentication",
+      "apiReferenceUrl": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/operations/Accounts_GetAccount?&groupBy=tag#collapse-Authentication",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service (PIS)",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/operations/Payments_GetPayment?&groupBy=tag",
+      "apiReferenceUrl": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/operations/Payments_GetPayment?&groupBy=tag",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consent API",
+      "type": "consent",
+      "categories": [
+        "auth"
+      ],
+      "description": "",
+      "documentationUrl": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/operations/Consents_CreateConsent?&groupBy=tag",
+      "apiReferenceUrl": "https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/operations/Consents_CreateConsent?&groupBy=tag",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
