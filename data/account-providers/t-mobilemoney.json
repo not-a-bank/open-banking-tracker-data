@@ -1,0 +1,91 @@
+{
+  "id": "t-mobilemoney",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "T-Mobile MONEY",
+  "description": "The T-Mobile MONEY checking account pays everyone the best interest rate in the industry. Open a checking account to experience fee-free digital banking. Accounts held at BankMobile, a division of Customers Bank.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591692876/radar/icons/t-mobilemoney.jpg",
+  "websiteUrl": "https://www.t-mobilemoney.com/",
+  "ownership": [
+    {
+      "providerId": "t-mobile",
+      "shareholderName": "T-Mobile",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591653396/icons/t-mobile.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/t-mobile-money/id1436218794"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.tmobile.money"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Bankmobile",
+      "icon": "https://bankmobilevibe.com/",
+      "websiteUrl": "https://www.bankmobile.com",
+      "id": "bankmobile",
+      "title": "T-Mobile starts marketing its no-fee checking account with BankMobile",
+      "desription": "T-Mobile has officially begun to market its no-fee, interest-earning, mobile checking account created last fall with BankMobile.",
+      "sourceUrl": "https://www.bizjournals.com/philadelphia/news/2019/04/18/t-mobile-starts-marketing-its-no-fee-checking.html",
+      "sourceDate": "2019-04-18",
+      "features": [
+        "baas"
+      ]
+    },
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
