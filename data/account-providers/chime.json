@@ -43,8 +43,19 @@
   "github": null,
   "fca": null,
   "articles": [],
+  "thirdPartyBankingLicense": ["stridebank", "thebancorp"],
   "customers": {
     "consumer": [
+      {
+        "amount": "8000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://bankinnovation.net/allposts/biz-lines/retail/banking-startup-chime-reports-it-has-8-million-customers/",
+          "date": "2020-02-19",
+          "verified": false
+        }
+      },
       {
         "amount": "3000000",
         "type": "claim",
@@ -70,7 +81,7 @@
     "targets": null
   },
   "fundingTotal": {
-    "amount": "308800000",
+    "amount": "1100000000",
     "currency": "USD"
   },
   "foundedYear": 2013,
@@ -100,5 +111,25 @@
     "mobile",
     "web"
   ],
-  "awards": []
+  "awards": [],
+  "integrations": [
+    {
+      "id": "mint",
+      "name": "intuitmint",
+      "icon": "",
+      "websiteUrl": "https://www.mint.com/"
+    },
+    {
+      "id": "samsungpay",
+      "name": "Samsung Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
+      "websiteUrl": ""
+    },
+    {
+      "id": "applepay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    }
+  ]
 }
