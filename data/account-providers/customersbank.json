@@ -1,0 +1,79 @@
+{
+  "id": "customersbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Customers Bank",
+  "description": "Customers Bank provides personal & business banking solutions, including checking, money markets, savings, mortgages, loans, and cash management.",
+  "legalName": "Customers Bank incorporated",
+  "ipoStatus": "public",
+  "stockSymbol": "CUBI",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591697444/radar/icons/customersbank.jpg",
+  "websiteUrl": "https://www.customersbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/cb-mobile-access/id1326280127?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.mfoundry.mb.android.mb_036&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "CustomersBank",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "android",
+      "name": "Android",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055773/catalog/android/icon128x128.png"
+    },
+    {
+      "id": "ios",
+      "name": "IOS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1561568396/catalog/ios/icon128x128.png",
+      "websiteUrl": "https://developer.apple.com/ios/"
+    }
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "awards": []
+}
