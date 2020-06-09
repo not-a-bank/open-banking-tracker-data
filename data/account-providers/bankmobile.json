@@ -1,24 +1,32 @@
 {
   "id": "bankmobile",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "BankMobile",
-  "legalName": "",
+  "legalName": null,
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1562597605/radar/icons/BankMobile.png",
-  "websiteUrl": "https://www.bankmobile.com/bankmobile-team",
+  "websiteUrl": "https://www.bankmobile.com",
   "ownership": [
-    { 
+    {
+      "providerId": "customersbank",
       "shareholderName": "Customers Bank",
-      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1562597698/radar/icons/Customers_Bank.jpg",
-      "providerId": null,
-      "percentage": 100.0
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591696092/icons/customersbank.jpg",
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "US",
-  "countries": ["US"],
+  "countries": [
+    "US"
+  ],
   "compliance": [],
   "sandbox": {
     "status": "unavailable"
@@ -27,10 +35,13 @@
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
-  "apiAuth": null,
-  "apiReferenceUrl": null,
-  "apiProducts": null,
+  "apiAuth": [],
+  "apiSpecs": [],
+  "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": false,
   "mobileApps": [
     {
@@ -42,14 +53,14 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.higherone.mobile.android&hl=en"
     }
   ],
-  "stockSymbol": null,
-  "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "BankMobile",
   "crunchbase": "bankmobile",
-  "github": null,
-  "fca": null,
-  "articles": null,
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "customers": {
     "consumer": [
       {
@@ -84,13 +95,19 @@
   "strategies": [
     "marketplaceBanking"
   ],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [
     "mastercard"
   ],
-  "applePay": false, 
-  "googlePay": false, 
-  "samsungPay": false, 
-  "fitbitPay": false, 
+  "creditCards": [
+    "mastercard"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "fscsProtected": false,
   "products": {
     "currentAccounts": {
@@ -109,10 +126,6 @@
     "pfm": false,
     "internationalMoneyTransfers": true
   },
-  "platforms": [
-    "mobile",
-    "web"
-  ],
   "partnerships": [
     {
       "name": "T-Mobile Money",
@@ -133,7 +146,17 @@
       "desription": "BankMobile, a digital bank, announced on Thursday it has formed two new partnerships with Billshark and bartleby for its BankMobile Vibe platform.",
       "sourceUrl": "https://www.crowdfundinsider.com/2020/02/158086-bankmobile-announces-new-partnerships-with-billshark-bartleby/",
       "sourceDate": "2020-02-28"
+    },
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
     }
+  ],
+  "integrations": [],
+  "platforms": [
+    "mobile",
+    "web"
   ],
   "awards": []
 }
