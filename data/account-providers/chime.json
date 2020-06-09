@@ -115,15 +115,15 @@
   "integrations": [
     {
       "id": "mint",
-      "name": "intuitmint",
-      "icon": "",
+      "name": "Mint",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591734127/icons/mint.jpg",
       "websiteUrl": "https://www.mint.com/"
     },
     {
       "id": "samsungpay",
       "name": "Samsung Pay",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
-      "websiteUrl": ""
+      "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/"
     },
     {
       "id": "applepay",
