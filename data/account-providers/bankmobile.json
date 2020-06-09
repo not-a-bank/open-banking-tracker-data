@@ -3,7 +3,7 @@
   "type": ["account"],
   "bankType": ["challenger"],
   "name": "BankMobile",
-  "legalName": "Starling Bank Limited",
+  "legalName": "",
   "ipoStatus": "private",
   "verified": false,
   "icon": "https://res.cloudinary.com/banq/image/upload/v1562597605/radar/icons/BankMobile.png",
@@ -53,6 +53,16 @@
   "customers": {
     "consumer": [
       {
+        "amount": "2000000",
+        "type": "claim",
+        "product": "currentAccounts",
+        "source": {
+          "url": "https://www.accesswire.com/541579/BankMobile-a-Division-of-Customers-Bank-Named-2019-Most-Innovative-Bank-of-the-Year-at-LendIt-Fintech-Annual-Awards",
+          "date": "2019-04-10",
+          "verified": true
+        }
+      },
+      {
         "amount": "1800000",
         "type": "claim",
         "product": "currentAccounts",
@@ -99,10 +109,31 @@
     "pfm": false,
     "internationalMoneyTransfers": true
   },
-  "partnerships": [], 
   "platforms": [
     "mobile",
     "web"
+  ],
+  "partnerships": [
+    {
+      "name": "T-Mobile Money",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591695202/icons/t-mobilemoney.jpg",
+      "websiteUrl": "https://www.t-mobilemoney.com/",
+      "id": "t-mobilemoney",
+      "title": "T-Mobile starts marketing its no-fee checking account with BankMobile",
+      "desription": "T-Mobile has officially begun to market its no-fee, interest-earning, mobile checking account created last fall with BankMobile.",
+      "sourceUrl": "https://www.bizjournals.com/philadelphia/news/2019/04/18/t-mobile-starts-marketing-its-no-fee-checking.html",
+      "sourceDate": "2019-04-18"
+    },
+    {
+      "name": "Billshark",
+      "icon": "https://res.cloudinary.com/apideck/icons/billshark",
+      "websiteUrl": "hhttps://www.billshark.com/",
+      "id": "billshark",
+      "title": "BankMobile Announces New Partnerships With Billshark",
+      "desription": "BankMobile, a digital bank, announced on Thursday it has formed two new partnerships with Billshark and bartleby for its BankMobile Vibe platform.",
+      "sourceUrl": "https://www.crowdfundinsider.com/2020/02/158086-bankmobile-announces-new-partnerships-with-billshark-bartleby/",
+      "sourceDate": "2020-02-28"
+    }
   ],
   "awards": []
 }
