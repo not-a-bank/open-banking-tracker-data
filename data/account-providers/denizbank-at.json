@@ -15,11 +15,19 @@
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1591633753/radar/icons/denizbank-at.png",
   "websiteUrl": "https://www.denizbank.at/",
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "denizbank",
+      "shareholderName": "DenizBank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591640869/icons/denizbank.jpg",
+      "percentage": 100
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "AT",
   "countries": [
-    "AT"
+    "AT",
+    "DE"
   ],
   "compliance": [
     {
