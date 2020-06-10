@@ -1,0 +1,77 @@
+{
+  "id": "aspireapp",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Aspire",
+  "description": "Apply for a business account in minutes. One account to serve all financing needs for small businesses",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591783014/radar/icons/aspireapp.png",
+  "websiteUrl": "https://aspireapp.com/sg",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SG",
+  "countries": [
+    "SG"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "keySegments": [
+    "sme"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Railsbank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1570999812/catalog/railsbank/icon128x128.jpg",
+      "websiteUrl": "https://www.railsbank.com/",
+      "id": "railsbank",
+      "title": "SME-focused neobank Aspire to use Railsbank Singapore Dollar bank accounts",
+      "desription": "Railsbank, the leading global open banking platform, announces that Singapore-based Aspire, a digital platform providing financial solutions for small and medium businesses, is the first SME-focused Neobank in Southeast Asia to use its Singapore Dollar (SGD) bank accounts.",
+      "sourceUrl": "https://www.finextra.com/pressarticle/82802/sme-focused-neobank-aspire-to-use-railsbank-singapore-dollar-bank-accounts",
+      "sourceDate": "2020-06-08",
+      "features": [],
+      "addedAt": "2020-06-10T09:59:15.976Z"
+    },
+    {
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
