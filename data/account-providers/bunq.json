@@ -152,13 +152,49 @@
       "date": "2019-06-14"
     }
   ],
+  "fundingTotal": {
+    "amount": "44900000",
+    "currency": "EUR"
+  },
+  "foundedYear": 2012,
   "thirdPartyBankingLicense": null,
   "strategies": [],
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
   "fitbitPay": true,
-  "partnerships": [],
+  "partnerships": [
+    {
+      "name": "TransferWise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
+      "websiteUrl": "https://transferwise.com/",
+      "id": "transferwise",
+      "title": "TransferWise partners with Dutch challenger bank Bunq",
+      "desription": "The latest bank to offer TransferWise  functionality is Dutch challenger Bunq, which is enabling customers to make “fast, low-cost international payments” powered by TransferWise.",
+      "sourceUrl": "https://techcrunch.com/2018/11/06/transferwise-bunq/",
+      "sourceDate": "2018-11-06"
+    },
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "hhttps://www.mastercard.com/global.html",
+      "id": "mastercard",
+      "title": "Mastercard expands partnership with bunq to accelerate bunq’s European growth",
+      "desription": "Mastercard is leveraging its international network, helping to expand the bunq Metal Card into 30 European countries.",
+      "sourceUrl": "https://newsroom.mastercard.com/eu/press-releases/mastercard-expands-partnership-with-bunq-to-accelerate-bunqs-european-growth/",
+      "sourceDate": "2020-03-19"
+    },
+    {
+      "name": "Veridium",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591782530/icons/veridiumid.jpg",
+      "websiteUrl": "https://veridiumid.com/",
+      "id": "veridium",
+      "title": "bunq and Veridium Provide Biometric Authentication for Customers Using Hand Recognition",
+      "desription": "bunq's banking app will now use VeridiumID and its groundbreaking hand recognition software, 4 Fingers TouchlessID (4 Fingers).",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/bunq-and-veridium-provide-biometric-authentication-for-customers-using-hand-recognition-300363575.html",
+      "sourceDate": "2016-11-16"
+    }
+  ],
   "integrations": [
     {
       "id": "srxp",
@@ -235,6 +271,30 @@
       "name": "ProActive",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1565344996/catalog/proactive-software/icon128x128.png",
       "websiteUrl": "https://proactive-software.com"
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1545501346/integration-platforms/zapier/icon.png",
+      "websiteUrl": "https://zapier.com/"
+    },
+    {
+      "id": "spendcloud",
+      "name": "Spend Cloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565344996/catalog/proactive-software/icon128x128.png",
+      "websiteUrl": "https://proactive-software.com/en/spend-cloud/"
+    },
+    {
+      "id": "dyme-app",
+      "name": "Dyme",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567037730/catalog/dyme-app/icon128x128.png",
+      "websiteUrl": "https://dyme.app/en"
+    },
+    {
+      "id": "exactonline",
+      "name": "Exact Online",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1548122132/catalog/exact-online/icon128x128.png",
+      "websiteUrl": "https://www.exact.com/"
     }
   ],
   "platforms": [],
