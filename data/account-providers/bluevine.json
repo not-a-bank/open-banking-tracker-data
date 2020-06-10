@@ -48,6 +48,10 @@
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
+  "fundingTotal": {
+    "amount": "250000000",
+    "currency": "USD"
+  },
   "partnerships": [
     {
       "name": "The Bancorp",
@@ -62,9 +66,46 @@
         "checking-account"
       ],
       "addedAt": "2020-05-15T02:42:16.700Z"
+    },
+    {
+      "name": "GovQuote",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591803957/icons/govquote-us.png",
+      "websiteUrl": "https://govquote.us/",
+      "id": "govquote-us",
+      "title": "GovQuote partners with BlueVine to offer working capital financing to government vendors",
+      "desription": "Bluevine and GovQuote partner to provide working capital financing to SMBs that provide goods and services to state, local, and education (SLED) government agencies.",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2019/04/23/1807966/0/en/GovQuote-partners-with-BlueVine-to-offer-working-capital-financing-to-government-vendors.html",
+      "sourceDate": "2019-04-23"
+    },
+    {
+      "name": "Nationwide",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591803954/icons/nationwide.png",
+      "websiteUrl": "https://www.nationwide.com/",
+      "id": "nationwide",
+      "title": "Nationwide partners with BlueVine to help business owners get online growth financing",
+      "desription": "Nationwide expanding its relationship by offering BlueVine's fast and flexible financing to small businesses through Nationwide's Business Solutions Center.",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/nationwide-partners-with-bluevine-to-help-business-owners-get-online-growth-financing-300808453.html",
+      "sourceDate": "2019-03-07"
+    },
+    {
+      "name": "Ocrolus",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591803952/icons/ocrolus.jpg",
+      "websiteUrl": "https://www.ocrolus.com/",
+      "id": "ocrolus",
+      "title": "BlueVine Partners With Ocrolus for Faster Processing of Financing Applications",
+      "desription": "Ocrolus is a scalable fintech infrastructure platform that analyzes financial documents with speed and precision. BlueVine leverages Ocrolus technology to accelerate growth and scale operations efficiently",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/bluevine-partners-with-ocrolus-for-faster-processing-of-financing-applications-300832717.html",
+      "sourceDate": "2019-04-16"
     }
   ],
-  "integrations": [],
+  "integrations": [
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    }
+  ],
   "platforms": [],
   "awards": []
 }
