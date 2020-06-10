@@ -59,7 +59,8 @@
           "challenger",
           "holding",
           "privatebank",
-          "industrial"
+          "industrial",
+          "community"
         ]
       }
     },
@@ -140,6 +141,7 @@
     "thirdPartyBankingLicense": {
       "anyOf" : [
         { "type": "string" },
+        { "type": "array" },
         { "type": "null" }
       ],
       "description": "Id of third-party bank license. For challenger banks without their own banking license."
