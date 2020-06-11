@@ -1,0 +1,96 @@
+{
+  "id": "rebellionpay",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Rebellion",
+  "description": "Like no bank 🔥 #BeRebel",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591901939/radar/icons/rebellionpay.jpg",
+  "websiteUrl": "https://rebellionpay.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": [
+    "ES"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/ES/app/id1413270710?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.rebellionpay.rebellion&referrer=af_tranid%3D_eb1ss_DrBKBb6lPqyWyCA%26shortlink%3DHomeGPHeader%26pid%3DWeb%26af_web_id%3D420ea269-0e1b-4d5c-b5e6-e84a697f6afe-o"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "rebellionpay",
+  "bloomberg": null,
+  "keySegments": [
+    "teen"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [
+    "mastercard"
+  ],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "google-wallet",
+      "name": "Google Wallet",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566765008/catalog/google-wallet/icon128x128.jpg"
+    },
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840298/catalog/google-pay/icon128x128.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    },
+    {
+      "id": "apple-pay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
