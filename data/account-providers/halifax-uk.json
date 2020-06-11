@@ -1,0 +1,160 @@
+{
+  "id": "halifax-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Halifax",
+  "description": "Halifax is a British banking brand operating as a trading division of Bank of Scotland, itself a wholly owned subsidiary of Lloyds Banking Group.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591900586/radar/icons/halifax-uk.jpg",
+  "websiteUrl": "https://www.halifax.co.uk/",
+  "ownership": [
+    {
+      "providerId": "bank-of-scotland",
+      "shareholderName": "Bank of Scotland",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591898035/icons/bank-of-scotland.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.halifax.co.uk/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.lloydsbanking.com/accounts-product-hfx-v3",
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/1779",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.lloydsbanking.com/payments-product-hfx-v3",
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/1289",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.lloydsbanking.com/cof-product-confirmation-hfx-v3",
+      "apiReferenceUrl": "https://developer.lloydsbanking.com/node/1793",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Branch Locator",
+      "type": "branchLocator",
+      "categories": [
+        "locators"
+      ],
+      "description": "Gets a list of all Branch objects.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.halifax.co.uk/opendata-v2.2#get-branches-2.2",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "ATM Locator",
+      "type": "atmLocator",
+      "description": "Gets a list of all ATM objects.",
+      "categories": [
+        "locators"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.halifax.co.uk/opendata-v2.2#get-atms-2.2",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "/unsecured-sme-loans",
+      "type": "productFinder",
+      "description": "Gets a list of all Unsercured SME Lending objects.",
+      "categories": [
+        "loans"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-unsecured-sme-loans-2.1",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "/commercial-credit-cards",
+      "type": "productFinder",
+      "description": "Gets a list of all Commerical Credit Card objects.",
+      "categories": [
+        "accounts"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.lloydsbank.com/opendata-v2#get-commercial-credit-cards-2.1",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "HalifaxBank",
+  "bloomberg": null,
+  "stack": [
+    {
+      "id": "ibm-api-connect",
+      "name": "IBM API Connect",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568494917/catalog/ibm-api-connect/icon128x128.jpg",
+      "websiteUrl": "https://www.ibm.com/cloud/api-connect"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
