@@ -60,14 +60,83 @@
     "mastercard"
   ],
   "creditCards": [],
+  "customers": {
+    "sme": [
+      {
+        "amount": "20000",
+        "product": "smeAccounts",
+        "source": {
+          "url": "https://techcrunch.com/2020/05/07/countingup-bridge/",
+          "date": "2020-05-07",
+          "verified": true
+        }
+      },
+      {
+        "amount": "13000",
+        "product": "smeAccounts",
+        "source": {
+          "url": "https://www.altfi.com/article/5280_countingup-13000-business-banking-customers-rbs-competition-fund-cash",
+          "date": "2019-04-26",
+          "verified": true
+        }
+      },
+      {
+        "amount": "4000",
+        "product": "smeAccounts",
+        "source": {
+          "url": "https://tamebay.com/2018/09/countingup-business-banking-app-gets-4000-customers.html",
+          "date": "2018-09-05",
+          "verified": true
+        }
+      },
+      {
+        "amount": "500",
+        "product": "smeAccounts",
+        "source": {
+          "url": "https://countingup.com/resources/countingup-to-500-customers/",
+          "date": "2018-05-31",
+          "verified": true
+        }
+      }
+    ]
+  },
+  "fundingTotal": {
+    "amount": "6800000",
+    "currency": "GBP"
+  },
+  "foundedYear": 2017,
   "partnerships": [
     {
       "name": "mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "name": "SumUp",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573959827/catalog/sumup/icon128x128.jpg",
+      "websiteUrl": "https://sumup.com/",
+      "id": "sumup",
+      "title": "Countingup and SumUp partnership",
+      "desription": "Countingup teamed up with leading mobile point-of-sale provider, SumUp. They provide a simple, smart way to accept card payments anywhere.",
+      "sourceUrl": "https://countingup.com/resources/countingup-partners-with-sumup-for-card-payments/"
+    },
+    {
+      "name": "Hokodo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1587489807/catalog/hokodo-co/icon128x128.jpg",
+      "websiteUrl": "https://www.hokodo.co/",
+      "id": "hokodo",
+      "title": "Countingup and Hokodo partner to cover SME risk from late payments",
+      "desription": "Countingup has signed a partnership agreement with fintech start-up and insurance solutions provider Hokodo, in a move designed to lessen the risk faced by SMEs from late payments and unpaid invoices.",
+      "sourceUrl": "https://www.finextra.com/pressarticle/78298/countingup-and-hokodo-partner-to-cover-sme-risk-from-late-payments",
+      "sourceDate": "2019-05-08"
     }
   ],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [
+    {
+      "award": "Best Business Banking App",
+      "year": 2019
+    }
+  ]
 }
