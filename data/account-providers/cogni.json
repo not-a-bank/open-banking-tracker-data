@@ -49,6 +49,11 @@
   "applePay": true,
   "googlePay": true,
   "samsungPay": true,
+  "fundingTotal": {
+    "amount": "6600000",
+    "currency": "USD"
+  },
+  "foundedYear": 2018,
   "partnerships": [
     {
       "name": "visa",
