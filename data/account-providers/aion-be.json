@@ -33,11 +33,40 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": null,
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://devportal.psd2.aion.be/content/howto/sandbox"
+  },
+  "developerPortalUrl": "https://devportal.psd2.aion.be/",
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://devportal.psd2.aion.be/psd2-ais-v5/apis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://devportal.psd2.aion.be/psd2-pis-v5/apis",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "apiAggregators": [],
   "collections": [],
@@ -55,11 +84,14 @@
   "financialReports": [],
   "bloomberg": null,
   "thirdPartyBankingLicense": null,
+  "foundedYear": 2020,
   "debitCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
-  "debitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
   "creditCards": [],
   "partnerships": [],
   "integrations": [],
