@@ -1,0 +1,71 @@
+{
+  "id": "bancobcr",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Banco de Costa Rica",
+  "description": "Banco de Costa Rica is a state-owned commercial bank that operates in Costa Rica. With an equity of $806,606,710 and assets of $7,607,483,881, the bank has established itself as one of the strongest banking companies in both Costa Rica and Central America",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592262716/radar/icons/bancobcr.jpg",
+  "websiteUrl": "https://www.bancobcr.com/",
+  "ownership": [],
+  "stateOwned": true,
+  "countryHQ": "CR",
+  "countries": [
+    "CR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/cr/app/bcr-movil/id58364626"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=bcr.movil&hl=es_CR"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "BancoBCR",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Banco_de_Costa_Rica",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
