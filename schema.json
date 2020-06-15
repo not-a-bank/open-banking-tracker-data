@@ -561,6 +561,28 @@
         }
       }
     },
+    "apiPerformanceReports": {
+      "title": "API performance and availability reports",
+      "anyOf": [
+        { "type": "null" },
+        { 
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "period": {
+                "type": "string",
+                "examples": ["Q419"]
+              },
+              "url": {
+                "type": "string",
+                "examples": ["https://clear.bank/pdfs/CTBB-Performance-Statistics-Q4-2019-V1.0%20Final.pdf"]
+              }
+            }
+          }
+        }
+      ]
+    },
     "apiProducts": {
       "anyOf": [
         { "type": "null" },
