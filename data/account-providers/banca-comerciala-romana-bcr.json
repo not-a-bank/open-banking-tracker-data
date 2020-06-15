@@ -1,0 +1,214 @@
+{
+  "id": "banca-comerciala-romana-bcr",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "BCR (Banca Comercială Română)",
+  "description": "Banca Comercială Română, a member of Erste Group, is the most important financial group in Romania, including operations of universal bank, as well as specialized companies on the leasing market, assets management, private pensions, housing banks and banking services through mobile phone.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592260997/radar/icons/bcr-ro.png",
+  "websiteUrl": "https://www.bcr.ro/",
+  "ownership": [
+    {
+      "providerId": "erste-group",
+      "shareholderName": "Erste Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592261142/icons/erste-group.jpg",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "RO",
+  "countries": [
+    "RO"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developers.erstegroup.com"
+  },
+  "developerPortalUrl": "https://developers.erstegroup.com/docs/apis",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "PSD2 accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Faccount-information",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "PSD2 payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Fpayment-initiation",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Transparent Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2FtransparentAccounts",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Places API",
+      "type": "atmLocator",
+      "categories": [
+        "locators"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fplaces",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Places API",
+      "type": "branchLocator",
+      "categories": [
+        "locators"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fplaces",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Personal Products API",
+      "type": "productFinder",
+      "categories": [
+        "products"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fnetbanking",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Personal accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Faccounts",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Mortgage calculator API",
+      "type": "other",
+      "description": null,
+      "categories": [
+        "products"
+      ],
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Fhypocalc",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Know your customer API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Fkyc",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Corporate accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Fcorporate",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Exchange rates API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Frates",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=ro.bcr.georgego"
+    }
+  ],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Banca_Comercial%C4%83_Rom%C3%A2n%C4%83",
+  "bloomberg": null,
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
