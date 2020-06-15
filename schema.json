@@ -49,7 +49,7 @@
     },
     "bankType": { 
       "type": "array",
-      "description": "Bank type",
+      "description": "Bank type. Find the full list at https://en.wikipedia.org/wiki/Bank#Types_of_banking",
       "examples": ["universal"],
       "items": {
         "enum": [
@@ -60,7 +60,8 @@
           "holding",
           "privatebank",
           "industrial",
-          "community"
+          "community",
+          "commercial"
         ]
       }
     },
