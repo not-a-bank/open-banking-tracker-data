@@ -12,7 +12,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568502195/radar/icons/clearbank.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552648690/radar/icons/clearbank.jpg",
   "websiteUrl": "https://www.clear.bank/",
   "ownership": [],
   "stateOwned": false,
@@ -28,14 +28,14 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://developer-sandbox.clearbank.co.uk/open-banking#/"
+    "sourceUrl": null
   },
   "developerPortalUrl": "https://developer-sandbox.clearbank.co.uk/open-banking#/",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://developer-sandbox.clearbank.co.uk/open-banking#/",
-  "apiAggregators": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -75,6 +75,9 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [],
   "investorRelationsUrl": null,
@@ -84,5 +87,31 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000003TEU71AAH",
-  "articles": []
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Mambu",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573437321/catalog/mambu/icon128x128.jpg",
+      "websiteUrl": "https://www.mambu.com/",
+      "id": "mambu",
+      "title": "ClearBank and Mambu provide customers with integrated clearance solution",
+      "desription": "ClearBank, the Banking-as-a-Service provider and Mambu, the cloud banking platform, have announced a partnership that allows Mambu’s customers real-time connectivity into all UK payment.",
+      "sourceUrl": "https://thepaypers.com/payments-general/clearbank-and-mambu-provide-customers-with-integrated-clearance-solution--1242811",
+      "features": [],
+      "addedAt": "2020-06-15T16:28:23.456Z"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
