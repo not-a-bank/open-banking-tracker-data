@@ -48,5 +48,24 @@
   "debitCards": [],
   "creditCards": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "customers": {
+    "consumer": [
+      {
+        "amount": "4000000",
+        "type": "claim",
+        "product": "moneyManagement",
+        "source": {
+          "url": "https://techcrunch.com/2019/09/30/upstart-banking-company-dave-is-now-worth-1-billion-as-norwest-puts-in-50-million/#:~:text=Dave%20now%20counts%20over%204,its%20banking%20services%2C%20Wilk%20says.",
+          "date": "2019-10-01",
+          "verified": true
+        }
+      }
+    ]
+  },
+  "fundingTotal": {
+    "amount": "183000000",
+    "currency": "USD"
+  },
+  "foundedYear": 2016
 }
