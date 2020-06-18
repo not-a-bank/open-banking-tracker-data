@@ -557,7 +557,7 @@
           },
           "url": {
             "type": "string",
-            "examples": ["https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/export?DocumentFormat=OpenApi  "]
+            "examples": ["https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/export?DocumentFormat=OpenApi"]
           }
         }
       }
@@ -682,6 +682,34 @@
                   { "type": "null" }
                 ],
                 "examples": ["https://developer.abnamro.com/api/payment-initiation-v1/payment-initiation-documentation"]
+              },
+              "apiSpecs": {
+                "title": "API specs",
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "type": {
+                      "enum": [
+                        "openapi",
+                        "swagger",
+                        "wadl",
+                        "blueprint"
+                      ]
+                    },
+                    "format": {
+                      "enum": [
+                        "yaml",
+                        "json",
+                        "xml"
+                      ]
+                    },
+                    "url": {
+                      "type": "string",
+                      "examples": ["https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/export?DocumentFormat=OpenApi"]
+                    }
+                  }
+                }
               },
               "statusUrl": {
                 "anyOf": [
