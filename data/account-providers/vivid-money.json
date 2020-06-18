@@ -1,0 +1,94 @@
+{
+  "id": "vivid-money",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Vivid Europe",
+  "description": "Open a free bank account in just a few minutes. Get all the benefits of mobile banking and generous rewards right now - Vivid Europe",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592495240/radar/icons/vivid-money.png",
+  "websiteUrl": "https://vivid.money/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/de/app/id1504417378"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=vivid.money"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [
+    {
+      "id": "tinkoff-bank",
+      "name": "Tinkoff Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574290446/catalog/tinkoff-bank/icon128x128.png",
+      "websiteUrl": "https://www.tinkoff.ru/eng/"
+    }
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": "solarisbank",
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "name": "solarisBank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586382060/catalog/solarisbank/icon128x128.jpg",
+      "websiteUrl": "https://www.solarisbank.com/"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
