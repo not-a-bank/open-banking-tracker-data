@@ -7,9 +7,12 @@
     "universal"
   ],
   "name": "Swedbank",
+  "description": "Swedbank AB is a Nordic-Baltic banking group based in Stockholm, Sweden, offering retail banking, asset management, financial, and other services.",
   "legalName": "Swedbank AB",
   "ipoStatus": "public",
-  "verified": true,
+  "stockSymbol": "STO:SWED-A",
+  "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296089/radar/icons/Swedbank.jpg",
   "websiteUrl": "https://www.swedbank.com/",
   "ownership": [],
@@ -32,7 +35,12 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://developer.swedbank.com/admin/app/home",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "accounts",
@@ -44,7 +52,7 @@
       "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
     },
     {
       "label": "payments",
@@ -56,7 +64,7 @@
       "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
     },
     {
       "label": "invalidateToken",
@@ -80,7 +88,7 @@
       "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
     },
     {
       "label": "funds-confirmation",
@@ -92,16 +100,42 @@
       "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live"
+    },
+    {
+      "label": "RestFX Indicative Rates",
+      "type": "fx",
+      "description": "A simple, user friendly way to retrieve up-to date, indicative FX rates. This service is a free of charge API, open for all users and not limited to customers of Swedbank AB.",
+      "categories": [
+        "fx"
+      ],
+      "documentationUrl": "https://www.swedbank.com/openbanking/restfx/indiciative-rates",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "RestFX Market Orders",
+      "type": "fx",
+      "description": "A simple, user friendly way to place FX orders with Swedbank. No additional costs for the API, but the service is strictly limited to customers of Swedbank AB in Sweden and Norway that have FX trade activated.",
+      "categories": [
+        "fx"
+      ],
+      "documentationUrl": "https://www.swedbank.com/openbanking/restfx/market-orders",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live"
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
-    "neonomics",
     "klarna",
     "salt-edge",
-    "enablebanking"
+    "enablebanking",
+    "neonomics"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -113,7 +147,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=se.swedbank.mobil&hl=en"
     }
   ],
-  "stockSymbol": "Stockholm:SWEDA",
   "investorRelationsUrl": "https://www.swedbank.com/investor-relations.html",
   "financialReports": [
     {
@@ -126,8 +159,40 @@
     }
   ],
   "twitter": "swedbank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Swedbank",
   "crunchbase": "swedbank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfF4XAAV",
-  "articles": []
+  "alumni": null,
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Minna Technologies",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432662/catalog/minnatechnologies/icon128x128.jpg",
+      "websiteUrl": "https://minnatechnologies.com",
+      "id": "minnatechnologies",
+      "title": "Sweden’s largest bank Swedbank integrates FinTech company Minna Technologies to its app",
+      "desription": "​The FinTech company Minna Technologies, helping customers manage their subscriptions, is now integrated in Swedbank’s app. Swedbank is the largest bank in...",
+      "sourceUrl": "https://www.mynewsdesk.com/se/pressreleases/swedens-largest-bank-swedbank-integrates-fintech-company-minna-technologies-to-its-app-2210266",
+      "features": [
+        "subscription-management"
+      ],
+      "caseStudyUrl": "https://minnatechnologies.com/swedbank-case-study/",
+      "addedAt": "2020-06-19"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }

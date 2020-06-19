@@ -534,6 +534,13 @@
         { "type": "null" }
       ]
     },
+    "developerContactEmail": {
+      "title": "Developer contact email",
+      "anyOf": [
+        { "type": "string" },
+        { "type": "null" }
+      ]
+    },
     "apiSpecs": {
       "title": "API specs",
       "type": "array",
@@ -865,6 +872,12 @@
             "name": {
               "type": "string",
               "description": "Partner name"
+            },
+            "caseStudyUrl": {
+              "type": "string",
+              "format": "uri",
+              "pattern": "^(https?|http?)://",
+              "description": "Case study url for the case study"
             },
             "sourceUrl": {
               "type": "string",
