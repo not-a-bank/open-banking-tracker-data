@@ -35,7 +35,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://www.api.89c3.com",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",

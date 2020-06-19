@@ -13,7 +13,7 @@
   "countryHQ": "ES",
   "countries": ["ES","PT"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -118,6 +118,7 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
+    "budget-insight",
     "klarna",
     "salt-edge"
   ],

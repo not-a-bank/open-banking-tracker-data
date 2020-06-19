@@ -75,7 +75,9 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
   "collections": [],
   "apiAccess": "verifiedTpp",
   "webApplication": false,

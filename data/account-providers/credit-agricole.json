@@ -13,7 +13,7 @@
   "countryHQ": "FR",
   "countries": ["EU"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -26,6 +26,7 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiAggregators": [
+    "budget-insight",
     "klarna",
     "salt-edge"
   ],

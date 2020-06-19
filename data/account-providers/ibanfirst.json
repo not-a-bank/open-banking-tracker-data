@@ -38,7 +38,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://www.ibanfirst.com/open-api",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
   "apiProducts": [
     {
       "label": "Authentication",

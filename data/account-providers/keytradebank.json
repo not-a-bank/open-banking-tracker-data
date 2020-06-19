@@ -46,7 +46,9 @@
   "apiReferenceUrl": "https://developer.keytradebank.be",
   "apiProducts": [],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
