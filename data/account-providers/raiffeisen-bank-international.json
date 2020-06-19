@@ -9,7 +9,7 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Raiffaisen.jpg",
   "websiteUrl": "https://www.rbinternational.com/eBusiness/01_template1/826124957350877869-NA-1225998027559583066-NA-1-NA.html",
   "ownership": [
-    { 
+    {
       "shareholderName": "Regional Raiffeisen Banks",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Raiffaisen.jpg",
       "providerId": null,
@@ -21,7 +21,7 @@
   "countryHQ": "AT",
   "countries": ["AT","UA","SI","RS","RU","RO","PL","HU","CZ","HR","BG","BA","BY","AL"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -119,6 +119,7 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
+    "budget-insight",
     "klarna",
     "salt-edge"
   ],

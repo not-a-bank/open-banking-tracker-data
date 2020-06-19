@@ -36,7 +36,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://www.monabanq.com/fr/index.html#ei_tpl_footer",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
   "apiProducts": [
     {
       "label": "AISP - Account Information",

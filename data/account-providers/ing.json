@@ -13,7 +13,7 @@
   "countryHQ": "NL",
   "countries": ["NL","BE","LU","PL","DE","AT","CZ","ES","IT","FR","RO","TY"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -78,6 +78,7 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
+    "budget-insight",
     "salt-edge",
     "klarna",
     "banqup",

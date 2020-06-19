@@ -41,7 +41,9 @@
   "apiAuth": [],
   "apiProducts": [],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [

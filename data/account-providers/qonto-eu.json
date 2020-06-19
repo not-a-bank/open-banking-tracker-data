@@ -33,7 +33,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://api-doc.qonto.eu",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,

@@ -9,14 +9,14 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Millennium_BCP.png",
   "websiteUrl": "https://ind.millenniumbcp.pt/en/particulares/Pages/Welcome.aspx",
   "ownership": [
-    { 
+    {
       "shareholderName": "Fosun Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552558934/radar/icons/Fosun.jpg",
       "providerId": null,
       "percentage": 27.1,
       "sourceUrl": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/EstruturaAcionista.aspx"
     },
-    { 
+    {
       "shareholderName": "Sonangol Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552558934/radar/icons/Sonangol_Group.jpg",
       "providerId": null,
@@ -28,7 +28,7 @@
   "countryHQ": "PT",
   "countries": ["PT"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -40,6 +40,9 @@
   "developerPortalUrl": null,
   "apiProducts": [],
   "apiStandards": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
   "webApplication": true,
   "mobileApps": [
     {

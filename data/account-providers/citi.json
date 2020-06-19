@@ -13,11 +13,11 @@
   "countryHQ": "US",
   "countries": ["GB","PL","RU"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "OB",
       "status": "ready"
     }
@@ -92,7 +92,7 @@
       "apiReferenceUrl": "https://sandbox.developerhub.citi.com/api/poland/onboarding/documentation",
       "premium": false,
       "stage": "sandbox",
-      "countries": ["PL","RU"] 
+      "countries": ["PL","RU"]
     },
     {
       "label": "Pay With Points",
@@ -103,11 +103,12 @@
       "apiReferenceUrl": "https://sandbox.developerhub.citi.com/api/russia/pay-with-points/documentation",
       "premium": false,
       "stage": "sandbox",
-      "countries": ["PL","RU"] 
+      "countries": ["PL","RU"]
     }
   ],
   "apiStandards": [],
   "apiAggregators": [
+    "budget-insight",
     "klarna",
     "salt-edge"
   ],
