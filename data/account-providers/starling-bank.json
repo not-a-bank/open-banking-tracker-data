@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1579217327/radar/icons/starlingbank.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592795538/radar/icons/starlingbank.jpg",
   "websiteUrl": "https://starlingbank.com",
   "ownership": [],
   "stateOwned": false,
@@ -39,6 +39,8 @@
     "OAUTH2"
   ],
   "apiReferenceUrl": "https://developer.starlingbank.com/docs",
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts",
@@ -86,11 +88,12 @@
   ],
   "investorRelationsUrl": null,
   "financialReports": [],
-  "twitter": "https://twitter.com/starlingbank",
+  "twitter": "StarlingBank",
   "crunchbase": "starling-3",
   "bloomberg": null,
   "github": "starlingbank",
   "fca": "001b000002sy7IMAAY",
+  "alumni": [],
   "articles": [
     {
       "url": "https://www.starlingbank.com/news/UK-first-banking-as-platform/",
@@ -387,6 +390,30 @@
       "name": "UnderPinned",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1581066512/catalog/underpinned-co/icon128x128.jpg",
       "websiteUrl": "https://underpinned.co/"
+    },
+    {
+      "id": "slack",
+      "name": "Slack",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529455910/catalog/slack/icon128x128.png",
+      "websiteUrl": "https://slack.com/"
+    },
+    {
+      "id": "equipsme",
+      "name": "Equipsme",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1592321644/icons/equipsme.jpg",
+      "websiteUrl": "https://www.equipsme.com/"
+    },
+    {
+      "id": "bionic-uk",
+      "name": "Bionic",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1592321649/icons/bionic-uk.jpg",
+      "websiteUrl": "https://bionic.co.uk/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
     }
   ],
   "platforms": [
