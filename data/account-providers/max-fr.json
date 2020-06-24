@@ -1,0 +1,194 @@
+{
+  "id": "max-fr",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "max",
+  "description": "Max is the trade name of the company Nouvelle Vague, a young Breton FinTech company and subsidiary of the Arkéa group.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592998109/radar/icons/max-fr.jpg",
+  "websiteUrl": "https://www.max.fr/",
+  "ownership": [
+    {
+      "providerId": "arkea",
+      "shareholderName": "Crédit Mutuel Arkéa",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.arkea.com/content/sandbox"
+  },
+  "developerPortalUrl": "https://developer.arkea.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/account-information",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/account-information",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/account.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.arkea.com/apis/payment-initialisation",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/payment-initialisation",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/payment_swagger.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/fund-confirmation",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/fund-confirmation",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/coverage.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Beneficiaries",
+      "type": "paymentBeneficiaries",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/beneficiaries",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/beneficiaries",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/beneficiaries.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment End User Identity",
+      "type": "paymentServiceUserIdentity",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/end-user-identity",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/end-user-identity",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/enduseridentity.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "stet"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/app/id1244440402"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=fr.max.android"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "aumaxpourmoi",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
