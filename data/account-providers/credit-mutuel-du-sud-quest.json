@@ -1,24 +1,24 @@
 {
-  "id": "credit-mutuel-de-bretagne",
+  "id": "credit-mutuel-du-sud-quest",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "Crédit Mutuel de Bretagne (CMB)",
-  "description": "Crédit Mutuel is a French cooperative bank, with headquarters in Strasbourg, Alsace.",
+  "name": "Crédit Mutuel du Sud-Ouest (CMSO)",
+  "description": "Crédit Mutuel du Sud-Ouest (CMSO) is present in Gironde, Dordogne and Charente via a network of 84 points of sale. Its 945 employees serve 450,000 members and customers.",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "aliases": [
-    "CMB",
-    "Crédit Mutuel de Bretagne"
+    "CMSO",
+    "Crédit Mutuel du Sud-Ouest"
   ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592996463/radar/icons/cmb-fr.png",
-  "websiteUrl": "https://www.cmb.fr/",
+  "icon": "https://www.cmso.com/banque/assurance/credit-mutuel/plugins/CreditMutuelPlugin/img/logo_cmso.png",
+  "websiteUrl": "https://www.cmso.com/",
   "ownership": [
     {
       "providerId": "arkea",
@@ -42,12 +42,12 @@
     "status": "available",
     "sourceUrl": "https://developer.arkea.com/content/sandbox"
   },
-  "developerPortalUrl": "https://www.cmb.fr/banque/assurance/credit-mutuel/pro/upload/docs/application/pdf/2019-01/politique-de-gestion-des-conflits-d-interets-cma.pdf",
+  "developerPortalUrl": "https://developer.arkea.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://www.cmb.fr/banque/assurance/credit-mutuel/pro/upload/docs/application/pdf/2019-01/politique-de-gestion-des-conflits-d-interets-cma.pdf",
+  "apiReferenceUrl": "https://developer.arkea.com/",
   "apiPerformanceReports": [],
   "apiSpecs": [],
   "apiProducts": [
@@ -158,7 +158,6 @@
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cr%C3%A9dit_Mutuel",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
