@@ -1,0 +1,185 @@
+{
+  "id": "credit-mutuel-de-bretagne",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Crédit Mutuel de Bretagne",
+  "description": "Crédit Mutuel is a French cooperative bank, with headquarters in Strasbourg, Alsace.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592996463/radar/icons/cmb-fr.png",
+  "websiteUrl": "https://www.cmb.fr/",
+  "ownership": [
+    {
+      "providerId": "arkea",
+      "shareholderName": "Crédit Mutuel Arkéa",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.arkea.com/content/sandbox"
+  },
+  "developerPortalUrl": "https://www.cmb.fr/banque/assurance/credit-mutuel/pro/upload/docs/application/pdf/2019-01/politique-de-gestion-des-conflits-d-interets-cma.pdf",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.cmb.fr/banque/assurance/credit-mutuel/pro/upload/docs/application/pdf/2019-01/politique-de-gestion-des-conflits-d-interets-cma.pdf",
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/account-information",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/account-information",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/account.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.arkea.com/apis/payment-initialisation",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/payment-initialisation",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/payment_swagger.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/fund-confirmation",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/fund-confirmation",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/coverage.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Beneficiaries",
+      "type": "paymentBeneficiaries",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/beneficiaries",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/beneficiaries",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/beneficiaries.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment End User Identity",
+      "type": "paymentServiceUserIdentity",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/end-user-identity",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/end-user-identity",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/enduseridentity.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "stet"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cr%C3%A9dit_Mutuel",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "arkea",
+      "name": "Crédit Mutuel Arkéa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
+      "websiteUrl": "https://www.arkea.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
