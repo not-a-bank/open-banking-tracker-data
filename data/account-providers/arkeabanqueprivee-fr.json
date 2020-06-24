@@ -1,0 +1,176 @@
+{
+  "id": "arkeabanqueprivee-fr",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "investment"
+  ],
+  "name": "Arkéa Banque Privée (ABP)",
+  "description": "Arkéa Banque Privée is an entity dedicated to wealth management. It draws on the strenght of Crédit Mutuel Arkéa.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "ABP",
+    "Arkéa Banque Privée"
+  ],
+  "status": "live",
+  "icon": "https://www.arkeabanqueprivee.fr/banque/assurance/plugins/ABPPlugin/img/logo_abp.png",
+  "websiteUrl": "https://www.arkeabanqueprivee.fr/",
+  "ownership": [
+    {
+      "providerId": "arkea",
+      "shareholderName": "Crédit Mutuel Arkéa",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
+      "percentage": 100
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.arkea.com/content/sandbox"
+  },
+  "developerPortalUrl": "https://developer.arkea.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/account-information",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/account-information",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/account.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.arkea.com/apis/payment-initialisation",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/payment-initialisation",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/payment_swagger.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/fund-confirmation",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/fund-confirmation",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/coverage.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Beneficiaries",
+      "type": "paymentBeneficiaries",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/beneficiaries",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/beneficiaries",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/beneficiaries.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment End User Identity",
+      "type": "paymentServiceUserIdentity",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/end-user-identity",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/end-user-identity",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/enduseridentity.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "stet"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "budget-insight"
+  ],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
