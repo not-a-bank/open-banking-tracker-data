@@ -1,19 +1,29 @@
 {
   "id": "curve",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "curve",
   "legalName": "Curve 1 LTD",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1562672026/radar/icons/CKHJSoiw_400x400.jpg",
   "websiteUrl": "https://www.curve.app/en/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB","EU","US"],
+  "countries": [
+    "GB",
+    "EU",
+    "US"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
@@ -25,10 +35,14 @@
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
-  "apiAuth": null,
-  "apiReferenceUrl": null,
-  "apiProducts": null,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": false,
   "mobileApps": [
     {
@@ -40,8 +54,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.imaginecurve.curve.prd&hl=en"
     }
   ],
-  "stockSymbol": null,
-  "investorRelationsUrl": null,
   "financialReports": [
     {
       "label": "AR 2018",
@@ -51,9 +63,13 @@
   ],
   "twitter": "imagineCurve",
   "crunchbase": "curve",
-  "github": null,
+  "bloomberg": null,
   "fca": "0010X00004IN5FnQAL",
-  "articles": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "customers": {
     "consumer": [
       {
@@ -100,13 +116,17 @@
   "strategies": [
     "cardCoagulator"
   ],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [
     "mastercard"
   ],
-  "applePay": true, 
-  "googlePay": true, 
-  "samsungPay": true, 
-  "fitbitPay": false, 
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": true,
+  "fitbitPay": false,
   "fscsProtected": true,
   "products": {
     "currentAccounts": {
@@ -129,7 +149,7 @@
     {
       "name": "Mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
-      "websiteUrl": "https://www.mastercard.com/global.html",
+      "websiteUrl": "https://www.mastercard.com/",
       "id": "mastercard",
       "title": "Curve and Mastercard extend their partnership",
       "desription": "Curve announced a new expanded partnership with Mastercard that sees Curve become a principal member of the payments technology company.",
@@ -145,17 +165,33 @@
       "desription": "Curve has partnered with Garmin, Fitbit and Sony’s Wena pay to enable its customers to make payments using wearables.",
       "sourceUrl": "https://www.verdict.co.uk/cards-international/news/curve-wearables-offering/",
       "sourceDate": "2019-12-13"
+    },
+    {
+      "name": "Samsung Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
+      "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/",
+      "id": "samsung-pay",
+      "title": "Curve inks deal with Samsung to launch new digital payment solution Samsung Pay Card",
+      "desription": "Samsung Pay has signed a partnership with the digital banking platform Curve and Mastercard to launch the Samsung Pay Card.",
+      "sourceUrl": "https://member.fintech.global/2020/06/24/curve-inks-deal-with-samsung-to-launch-new-digital-payment-solution-samsung-pay/",
+      "features": [],
+      "addedAt": "2020-06-25T16:36:23.114Z"
+    },
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
     }
   ],
   "integrations": [
     {
-      "id": "googlepay",
+      "id": "google-pay",
       "name": "Google Pay",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840298/catalog/google-pay/icon128x128.png",
-      "websiteUrl": "https://pay.google.com/"
+      "websiteUrl": "https://pay.google.com/about/"
     },
     {
-      "id": "applepay",
+      "id": "apple-pay",
       "name": "Apple Pay",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
       "websiteUrl": "https://www.apple.com/apple-pay/"
@@ -164,5 +200,5 @@
   "platforms": [
     "mobile"
   ],
-  "awards": null
+  "awards": []
 }
