@@ -49,7 +49,7 @@
     "women"
   ],
   "stack": [],
-  "thirdPartyBankingLicense": null,
+  "thirdPartyBankingLicense": "coastalbank",
   "debitCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
@@ -69,6 +69,11 @@
       "name": "Mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "name": "Coastal Community Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1584648266/catalog/coastalbank/icon128x128.png",
+      "websiteUrl": "https://www.coastalbank.com/"
     }
   ],
   "integrations": [],
