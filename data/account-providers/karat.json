@@ -1,0 +1,86 @@
+{
+  "id": "karat",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "KARAT",
+  "legalName": null,
+  "ipoStatus": "personal",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1593188579/radar/icons/trykarat.svg",
+  "websiteUrl": "https://www.trykarat.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "creator"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "integrations": [
+    {
+      "id": "twitch",
+      "name": "Twitch",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1551284645/catalog/twitch/icon128x128.png"
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583614328/catalog/tiktok/icon128x128.jpg",
+      "websiteUrl": "https://www.tiktok.com/"
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529455959/catalog/instagram/icon128x128.png",
+      "websiteUrl": "https://www.instagram.com/"
+    },
+    {
+      "id": "youtube",
+      "name": "Youtube",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456062/catalog/youtube/icon128x128.png",
+      "websiteUrl": "https://www.youtube.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
