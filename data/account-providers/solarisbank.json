@@ -32,6 +32,8 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account and Transaction API",
@@ -73,6 +75,7 @@
   "apiStandards": [
     "BERLIN"
   ],
+  "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],
   "webApplication": false,
@@ -80,6 +83,7 @@
   "financialReports": [],
   "twitter": "solarisBank",
   "bloomberg": null,
+  "alumni": [],
   "stack": [
     {
       "id": "ndgit",
@@ -93,9 +97,26 @@
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
-  "partnerships": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "American Express",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568048320/catalog/americanexpress/icon128x128.jpg",
+      "websiteUrl": "https://americanexpress.com",
+      "id": "americanexpress",
+      "title": "solarisBank & American Express to launch instalment product in Germany - IBS Intelligence",
+      "desription": "solarisBank has cooperated with American Express in Germany, thus enabling personal AMEX cardholders to use an instalment option for card payments of  €300 or more. solarisBank's new instalment product, Splitpay is expected to go live in a pilot phase in July and will be made available to all person AMEX members throughout 2020. The product combines solarisBank's lending services and",
+      "sourceUrl": "https://ibsintelligence.com/ibs-journal/ibs-news/solarisbank-american-express-to-launch-instalment-product-in-germany/",
+      "sourceDate": "2020-06-30",
+      "features": [
+        "instalments"
+      ],
+      "addedAt": "2020-06-30T12:05:21.619Z"
+    }
+  ],
   "integrations": [],
   "platforms": [],
   "awards": []
