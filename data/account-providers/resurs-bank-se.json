@@ -8,8 +8,11 @@
   ],
   "name": "Resurs Bank",
   "legalName": "Resurs Bank Aktiebolag",
+  "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://ucarecdn.com/a1572907-861b-4f4d-8d85-64ab424363e1/-/preview/170x170/-/crop/180x180/center/SE5164010208.png",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1593552752/radar/icons/resurs-bank-se.png",
   "websiteUrl": "https://www.resursbank.se/",
   "ownership": [],
   "stateOwned": false,
@@ -31,9 +34,12 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://crosskey.io/stores/resursbank/apis",
-  "apiStandards": [
-    "OBIE"
-  ],
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts API",
@@ -60,12 +66,48 @@
       "stage": "production"
     }
   ],
+  "apiStandards": [
+    "OBIE"
+  ],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "enablebanking",
     "enfuce",
     "neonomics"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [],
-  "stockSymbol": null
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Nordic API Gateway",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569691786/catalog/nordicapigateway/icon128x128.jpg",
+      "websiteUrl": "https://www.nordicapigateway.com/",
+      "id": "nordicapigateway",
+      "title": "Resurs Bank partners with Nordic API Gateway for open banking services",
+      "desription": "With access to financial data and account-to-account payments from Nordic API Gateway, Resurs Bank will be able to optimise and improve the customer experience across the Nordics.",
+      "sourceUrl": "https://blog.nordicapigateway.com/resurs-bank-partners-with-nordic-api-gateway-for-open-banking-services",
+      "features": [
+        "account-aggregation",
+        "account-to-account payments"
+      ],
+      "addedAt": "2020-06-30T21:31:03.976Z"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
