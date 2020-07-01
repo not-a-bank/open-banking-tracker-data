@@ -1,0 +1,86 @@
+{
+  "id": "hypothekarbank-lenzburg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Hypothekarbank Lenzburg (HBL)",
+  "description": "Hypothekarbank Lenzburg is a Swiss mortgage bank. The Bank provides lending and other general banking services.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "Hypothekarbank Lenzburg"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1593641835/radar/icons/hypothekarbank-lenzburg.jpg",
+  "websiteUrl": "https://www.hbl.ch/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CH",
+  "countries": [
+    "CH"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/ch/app/hypibanking/id1297906778"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=ch.hbl.mobilebanking"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "HypiLenzburg",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "finstar-ch",
+      "name": "Finstar",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593641953/icons/finstar-ch.jpg",
+      "websiteUrl": "https://www.finstar.ch/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

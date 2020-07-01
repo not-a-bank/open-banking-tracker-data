@@ -60,9 +60,15 @@
       "name": "FIS",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962510/catalog/fisglobal/icon128x128.jpg",
       "websiteUrl": "https://www.fisglobal.com/"
+    },
+    {
+      "id": "transferwise",
+      "name": "TransferWise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
+      "websiteUrl": "https://transferwise.com/"
     }
   ],
-  "thirdPartyBankingLicense": null,
+  "thirdPartyBankingLicense": "hypothekarbank-lenzburg",
   "debitCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
@@ -73,12 +79,19 @@
   ],
   "creditCards": [],
   "virtualCards": [],
+  "samsungPay": true,
   "partnerships": [
     {
       "id": "mastercard",
       "name": "Mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "hypothekarbank-lenzburg",
+      "name": "HBL",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593641950/icons/hypothekarbank-lenzburg.jpg",
+      "websiteUrl": "https://www.hbl.ch/"
     }
   ],
   "rewardPartners": [],
