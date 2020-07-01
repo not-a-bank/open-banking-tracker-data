@@ -48,7 +48,14 @@
   "keySegments": [
     "freelancer"
   ],
-  "stack": [],
+  "stack": [
+    {
+      "id": "wirecard",
+      "name": "Wirecard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573699472/catalog/wirecard/icon128x128.jpg",
+      "websiteUrl": "https://www.wirecard.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "debitAccountLicense": null,
