@@ -15,7 +15,14 @@
   "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1562278922/radar/icons/shine.jpg",
   "websiteUrl": "https://www.shine.fr/",
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "societegenerale-fr",
+      "shareholderName": "Société Générale",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1563414769/catalog/societegenerale-fr/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "FR",
   "countries": [
@@ -30,12 +37,14 @@
   "sandbox": {
     "status": "available"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developers.shine.fr/reference",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developers.shine.fr/reference",
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -75,6 +84,7 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "budget-insight"
   ],
@@ -98,9 +108,15 @@
   "bloomberg": "https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=133452998",
   "github": null,
   "fca": null,
+  "alumni": [],
   "articles": [],
   "stack": [
-    "treezor"
+    {
+      "id": "treezor",
+      "name": "Treezor",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583910841/catalog/treezor/icon128x128.jpg",
+      "websiteUrl": "https://www.treezor.com/"
+    }
   ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
@@ -112,19 +128,28 @@
   "prepaidCards": [
     "mastercard"
   ],
+  "prepaidDebitCards": [],
   "debitCards": [
     "mastercard"
   ],
   "creditCards": [],
-  "applePay": false,
-  "googlePay": false,
-  "samsungPay": false,
-  "fitbitPay": false,
+  "virtualCards": [],
   "fscsProtected": false,
   "products": {},
-  "partnerships": [],
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
   "integrations": [],
-  "platforms": [],
+  "platforms": [
+    "mobile",
+    "web"
+  ],
   "pricingUrl": "https://www.shine.fr/tarifs/",
   "awards": []
 }
