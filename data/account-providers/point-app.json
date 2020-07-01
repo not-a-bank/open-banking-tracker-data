@@ -26,9 +26,13 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiAggregators": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": false,
   "mobileApps": [
     {
@@ -41,12 +45,84 @@
     }
   ],
   "financialReports": [],
+  "twitter": "pointbankingapp",
   "bloomberg": null,
-  "bankingLicense": "evolve-bank-and-trust",
+  "alumni": [],
+  "stack": [
+    {
+      "id": "plaid",
+      "name": "Plaid",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559337184/catalog/plaid/icon128x128.jpg",
+      "websiteUrl": "https://plaid.com"
+    }
+  ],
+  "thirdPartyBankingLicense": "evolve-bank-and-trust",
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
-  "debitCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
   "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Uber",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1564688862/catalog/uber/icon128x128.jpg",
+      "websiteUrl": "https://uber.com"
+    },
+    {
+      "name": "Lyft",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531305330/catalog/lyft/icon128x128.png"
+    },
+    {
+      "name": "Uber Eats",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1570801235/catalog/ubereats/icon128x128.png",
+      "websiteUrl": "https://www.ubereats.com"
+    },
+    {
+      "name": "Caviar",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566602427/catalog/trycaviar/icon128x128.jpg",
+      "websiteUrl": "https://www.trycaviar.com/"
+    },
+    {
+      "name": "DoorDash",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1564923784/catalog/doordash/icon128x128.png",
+      "websiteUrl": "https://doordash.com"
+    },
+    {
+      "name": "Grubhub",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566602444/catalog/grubhub/icon128x128.jpg",
+      "websiteUrl": "https://www.grubhub.com/"
+    },
+    {
+      "name": "Postmates",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573171237/catalog/postmates/icon128x128.png",
+      "websiteUrl": "https://postmates.com/"
+    },
+    {
+      "name": "Airbnb",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531054135/catalog/airbnb/icon128x128.png"
+    },
+    {
+      "name": "Spotify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531306166/catalog/spotify/icon128x128.png",
+      "websiteUrl": "https://www.spotify.com/be-nl/"
+    },
+    {
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "name": "Evolve Bank and Trust",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593623623/icons/evolve-bank-and-trust.jpg",
+      "websiteUrl": "https://getevolved.com"
+    }
+  ],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }
