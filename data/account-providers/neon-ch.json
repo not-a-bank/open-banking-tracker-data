@@ -1,0 +1,88 @@
+{
+  "id": "neon-ch",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "neon",
+  "description": "Your account for your everyday life. No base fees for account and Mastercard. Super simple. All on your smartphone.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1593640747/radar/icons/neon-free-ch.jpg",
+  "websiteUrl": "https://www.neon-free.ch/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CH",
+  "countries": [
+    "CH"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/ch/app/neon-deine-konto-app/id1387883068"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.neonbanking.app"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "neon_accountapp",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "fisglobal",
+      "name": "FIS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962510/catalog/fisglobal/icon128x128.jpg",
+      "websiteUrl": "https://www.fisglobal.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
