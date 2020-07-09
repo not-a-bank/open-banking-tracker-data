@@ -1,0 +1,126 @@
+{
+  "id": "comdirect",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Comdirect",
+  "description": "Comdirect bank AG is the third-largest German direct bank and is based in Quickborn, Schleswig-Holstein. Founded by the Commerzbank in 1994, the company went public in 2000. The Commerzbank is still the majority shareholder.",
+  "legalName": "comdirect bank AG",
+  "ipoStatus": "public",
+  "stockSymbol": "COM",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594330637/radar/icons/comdirect-de.jpg",
+  "websiteUrl": "https://www.comdirect.de/",
+  "ownership": [
+    {
+      "providerId": "commerzbank",
+      "shareholderName": "Commerzbank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1566876696/catalog/commerzbank/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.comdirect.de/wertpapierhandel/wertpapierhandel.html",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.comdirect.de/wertpapierhandel/wertpapierhandel.html",
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a-developer.comdirect.de/psd2-ais-v5/apis",
+      "apiReferenceUrl": "https://xs2a-developer.comdirect.de/psd2-ais-v5/apis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a-developer.comdirect.de/psd2-pis-v5/apis",
+      "apiReferenceUrl": "https://xs2a-developer.comdirect.de/psd2-pis-v5/apis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a-developer.comdirect.de/psd2-fcs-v5/apis",
+      "apiReferenceUrl": "https://xs2a-developer.comdirect.de/psd2-fcs-v5/apis/post/berlingroup/v1/funds-confirmations",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "comdirect",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Comdirect",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "apigee",
+      "name": "Google",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1594331716/icons/apigee.jpg",
+      "websiteUrl": "https://cloud.google.com/apigee"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
