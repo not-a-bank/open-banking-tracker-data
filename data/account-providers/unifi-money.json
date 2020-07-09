@@ -1,0 +1,90 @@
+{
+  "id": "unifi-money",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Unifimoney",
+  "description": "Unifimoney is high-performance banking for high performance people - a credit card, high yield checking account and investing in one mobile account.",
+  "legalName": "Unifimoney, Inc.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594314700/radar/icons/unifi-money.jpg",
+  "websiteUrl": "https://www.unifi.money/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Unifimoney",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "railsbank",
+      "name": "Railsbank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1570999812/catalog/railsbank/icon128x128.jpg",
+      "websiteUrl": "https://www.railsbank.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "id": "railsbank",
+      "name": "Railsbank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1570999812/catalog/railsbank/icon128x128.jpg",
+      "websiteUrl": "https://www.railsbank.com/",
+      "title": "Fintech and Open Banking Firm Railsbank Expands into US with First Customer Unifimoney",
+      "desription": "Railsbank, a UK based Fintech and open banking service provider, has crossed the Atlantic to open up operations in the US with the acquisition of its first cust",
+      "sourceUrl": "https://www.crowdfundinsider.com/2020/07/163842-fintech-and-open-banking-firm-railsbank-expands-into-us-with-first-customer-unifimoney/",
+      "sourceDate": "2020-07-09",
+      "features": [
+        "banking-as-a-service",
+        "cards-as-a-service",
+        "credit-card-as-a-service"
+      ],
+      "addedAt": "2020-07-09T17:08:18.022Z"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
