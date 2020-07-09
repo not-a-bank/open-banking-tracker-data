@@ -33,6 +33,10 @@
       "status": "unknown"
     }
   ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://xs2a-developer.comdirect.de/"
+  },
   "developerPortalUrl": "https://www.comdirect.de/wertpapierhandel/wertpapierhandel.html",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
@@ -95,8 +99,8 @@
   "stack": [
     {
       "id": "apigee",
-      "name": "Google",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1594331716/icons/apigee.jpg",
+      "name": "Apigee",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1594332222/icons/apigee.png",
       "websiteUrl": "https://cloud.google.com/apigee"
     }
   ],
