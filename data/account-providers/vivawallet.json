@@ -1,0 +1,85 @@
+{
+  "id": "vivawallet",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Viva Wallet",
+  "description": "Viva Wallet: Open to All Payments. 0% commission, Android Card Terminals, Business Account and Free Business Debit Cards.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "upcoming",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594667250/radar/icons/vivawallet.jpg",
+  "websiteUrl": "https://www.vivawallet.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GR",
+  "countries": [
+    "GR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "merchants"
+  ],
+  "stack": [
+    {
+      "id": "microsoft-azure",
+      "name": "Microsoft Azure",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1548081100/catalog/microsoft-azure/icon128x128.png",
+      "websiteUrl": "https://azure.microsoft.com"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
