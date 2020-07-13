@@ -971,6 +971,25 @@
         }
       ]
     },
+    "ux": {
+      "type": "object",
+      "properties": {
+        "openAccountViaApp": {
+          "type": "boolean",
+          "title": "Open account via the app",
+          "description": "It shouldn’t come as a surprise to you that all the banks have IOS apps. But what may surprise you is that not all of the banks let you actually open an account through their apps.",
+          "x-data-partner": "built-for-mars",
+          "examples": [true]
+        },
+        "instantAccessToApplePay": {
+          "type": "boolean",
+          "title": "Instant access to Apple Pay",
+          "description": "Allows you to add your card to Apple Pay as soon as your account has been approved",
+          "x-data-partner": "built-for-mars",
+          "examples": [true]
+        }
+      }
+    },
     "twitter": {
       "anyOf": [
         {
