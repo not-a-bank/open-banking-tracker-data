@@ -24,18 +24,21 @@
   ],
   "properties": { 
     "id": { 
+      "title": "ID",
       "type": "string", 
       "pattern": "[a-z0-9-]*$",
       "description": "Unique indentifier",
       "examples": ["abn-amro"]
     },
     "parentId": { 
+      "title": "Parent ID",
       "type": "string", 
       "pattern": "[a-z0-9-]*$",
       "description": "Unique indentifier of the parent entity. Can be used to group banks of the same group.",
       "examples": ["abn-amro-parent"]
     },
     "type": { 
+      "title": "Provider type",
       "type": "array",
       "items": {
         "enum": [
@@ -48,6 +51,7 @@
       "examples": ["account"]
     },
     "bankType": { 
+      "title": "Bank type",
       "type": "array",
       "description": "Bank type. Find the full list at https://en.wikipedia.org/wiki/Bank#Types_of_banking",
       "examples": ["universal"],
@@ -66,7 +70,8 @@
       }
     },
     "status": {
-      "description": "Availability Status",
+      "title": "Availability Status",
+      "description": "Shows the provider status",
       "enum": [
         "live",
         "discontinued",
@@ -77,11 +82,13 @@
       "examples": ["live"]
     },
     "name": {
+      "title": "Name",
       "type": "string",
       "description": "Name of the provider",
       "examples": ["ABN Amro"]
     },
     "desription": {
+      "title": "Description",
       "type": "string",
       "description": "Description of the provider",
       "examples": ["ABN AMRO Bank N.V. is a Dutch bank with headquarters in Amsterdam. ABN AMRO Bank is the third-largest bank in the Netherlands. It was re-established in its current form in 2009, following the acquisition and break-up of the original ABN AMRO by a banking consortium consisting of Royal Bank of Scotland Group, Santander Group and Fortis."]
@@ -91,7 +98,7 @@
         { "type": "string",
           "format": "uri",
           "pattern": "^(https?|http?)://",
-          "description": "Wikipedia URL",
+          "title": "Wikipedia URL",
           "examples": ["https://en.wikipedia.org/wiki/ABN_AMRO"]
         },
         { "type": "null" }
@@ -101,8 +108,8 @@
       "anyOf": [
         {
           "type": "string",
-          "description": "ABN AMRO Group N.V.",
-          "examples": ["ABN Amro"]
+          "title": "Legal company name",
+          "examples": ["ABN AMRO Group N.V."]
         },
         {
           "type": "null"
@@ -111,6 +118,7 @@
     },
     "verified": {
       "type": "boolean",
+      "title": "Verified",
       "description": "Verified by company representative",
       "examples": [true]
     },
@@ -118,6 +126,7 @@
       "type": "string",
       "format": "uri",
       "pattern": "^(https?|http?)://",
+      "title": "Icon URL",
       "description": "URL to the icon of the provider (recommended size 400x400)",
       "examples": ["https://res.cloudinary.com/banq/image/upload/v1552240551/radar/icons/abn-amro.jpg"]
     },
@@ -125,54 +134,67 @@
       "type": "string",
       "format": "uri",
       "pattern": "^(https?|http?)://",
-      "description": "Website of the cloud service",
+      "title": "Website",
       "examples": ["https://www.abnamro.com/"]
     },
     "countryHQ": {
       "type": "string",
-      "description": "Country (ISO ALPHA-2 code) of HQ",
+      "title": "Country HQ",
+      "description": "ISO ALPHA-2 code",
       "examples": ["NL"]
     },
     "countries": {
       "type": "array",
+      "title": "Countries",
       "description": "In what countries is the provider active",
       "examples": ["NL", "BE"],
       "uniqueItems": true
     },
     "thirdPartyBankingLicense": {
       "anyOf" : [
-        { "type": "string" },
+        { 
+          "type": "string",
+          "title": "Third-party bank license",
+          "description": "Id of third-party bank license. For challenger banks without their own banking license."
+        },
         { "type": "array" },
         { "type": "null" }
-      ],
-      "description": "Id of third-party bank license. For challenger banks without their own banking license."
+      ]
     },
     "debitAccountLicense": {
       "anyOf" : [
-        { "type": "string" },
+        { 
+          "type": "string",
+          "name": "third-party debit account bank license",
+          "description": "Id of third-party debit account bank license. For challenger banks without their own banking license."
+        },
         { "type": "null" }
-      ],
-      "description": "Id of third-party debit account bank license. For challenger banks without their own banking license."
+      ]
     },
     "debitCards": {
       "type": "array",
-      "description": "Debit card partners"
+      "title": "Debit card partners",
+      "examples": ["mastercard"]
     },
     "creditCards": {
       "type": "array",
-      "description": "Credit card partners"
+      "description": "Credit card partners",
+      "examples": ["visa"]
     },
     "virtualCards": {
       "type": "array",
-      "description": "Virtual credit card partners"
+      "description": "Virtual credit card partners",
+      "examples": ["mastercard"]
     },
     "webApplication": {
       "type": "boolean",
+      "title": "Web Application",
       "description": "Does this provider have a desktop application?",
       "examples": [true]
     },
     "mobileApps": {
       "type": "array",
+      "title": "Mobile App links",
       "items": {
         "type": "object",
         "properties": {
@@ -191,6 +213,7 @@
       }
     },
     "compliance": {
+      "title": "Compliance",
       "description": "Applicable regulations and compliance status",
       "anyOf": [
         {
@@ -235,6 +258,7 @@
     },
     "sandbox": {
       "type": "object",
+      "title": "API sandbox",
       "properties": {
         "status": {
           "enum": [
@@ -262,7 +286,8 @@
           "type": "string",
           "format": "uri",
           "pattern": "^(https?|http?)://",
-          "description": "Aplication url of the provider",
+          "title": "Developer portal",
+          "description": "Developer portal url of the provider",
           "examples": ["https://developer.abnamro.com/"]
         },
         {
@@ -276,6 +301,7 @@
           "type": "string",
           "format": "uri",
           "pattern": "^(https?|http?)://",
+          "title": "Partner and developer success stories",
           "description": "Success stories and examples from developers",
           "examples": ["https://sandbox.yesdeveloper.in/success-stories"]
         }, {
@@ -288,6 +314,7 @@
         {
           "type": "array",
           "uniqueItems": true,
+          "title": "TPP access interface",
           "items": {
             "enum": [
               "screen-scraping",
@@ -303,6 +330,7 @@
         {
           "type": "array",
           "uniqueItems": true,
+          "title": "API Aggregators",
           "items": {
             "enum": [
               "klarna",
@@ -340,6 +368,7 @@
       "anyOf": [
         {
           "type": "array",
+          "title": "Collections",
           "uniqueItems": true,
           "items": {
             "enum": [
@@ -356,8 +385,9 @@
         {
           "type": "string",
           "format": "uri",
+          "title": "Open Bank Project",
           "pattern": "^(https?|http?)://",
-          "description": "Aplication url of the provider",
+          "description": "URL to the Open Bank Project page",
           "examples": ["https://developer.abnamro.com/"]
         }, 
         {
@@ -370,8 +400,9 @@
         {
           "type": "string",
           "format": "uri",
+          "title": "Developer community",
           "pattern": "^(https?|http?)://",
-          "description": "Aplication url of the provider",
+          "description": "URL to the developer community",
           "examples": ["https://developer.starlingbank.com/community"]
         }, 
         {
@@ -381,6 +412,7 @@
     },
     "slackCommunity": {
       "type": "boolean",
+      "title": "Slack community",
       "examples": [true]
     },
     "acceleratorProgramUrl": {
