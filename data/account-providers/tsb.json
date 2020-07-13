@@ -13,8 +13,8 @@
   "stockSymbol": "BME:SAB",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1569887489/radar/icons/tsb.jpg",
-  "websiteUrl": "https://www.tsb.co.uk/personal/",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296092/radar/icons/TSB.jpg",
+  "websiteUrl": "https://www.tsb.co.uk/",
   "ownership": [
     {
       "shareholderName": "Banco De Sabadell",
@@ -40,14 +40,12 @@
   },
   "developerPortalUrl": "https://apis.developer.tsb.co.uk/",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://apis.developer.tsb.co.uk/",
-  "apiAggregators": [
-    "truelayer",
-    "salt-edge",
-    "openwrks"
-  ],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -105,7 +103,13 @@
     }
   ],
   "apiStandards": [],
-  "apiAccess": null,
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "truelayer",
+    "salt-edge",
+    "openwrks"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [],
   "investorRelationsUrl": "https://www.grupbancsabadell.com/en/",
@@ -121,15 +125,39 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfI5JAAV",
+  "alumni": [],
   "articles": [],
   "stack": [
-    "redoc",
-    "swagger2"
+    {
+      "id": "redoc",
+      "name": "ReDoc",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569892359/catalog/redoc/icon128x128.png",
+      "websiteUrl": "https://redocly.github.io/redoc/"
+    },
+    {
+      "id": "swagger2",
+      "name": "Swagger",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569892348/catalog/swagger2/icon128x128.png"
+    },
+    {
+      "id": "aptapapp-uk",
+      "name": "ApTap",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1594660807/icons/aptapapp-uk.png",
+      "websiteUrl": "https://www.aptapapp.co.uk/"
+    }
   ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }
