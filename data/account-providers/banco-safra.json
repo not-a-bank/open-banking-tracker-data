@@ -1,0 +1,117 @@
+{
+  "id": "banco-safra",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "name": "Banco Safra",
+  "description": "Banco Safra is a Brazilian local private bank, ranking sixth among the country’s largest sector financial institutions in terms of total assets. The bank is part of the larger Safra Group of banks and financial institutions.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594860008/radar/icons/safra-br.png",
+  "websiteUrl": "https://www.safra.com.br/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BR",
+  "countries": [
+    "LU"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=a382ab71-0904-463d-b090-297ddf405f7d&menuId=152&managerId=1&from=provider"
+  },
+  "developerPortalUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/apple-store/id422705275?pt=497245&ct=footer-site-institucional-botao-apple-store&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=br.livetouch.safra.net&referrer=utm_source%3dfooter-site-institucional%26utm_medium%3dbotao%26utm_campaign%3dfooter-site-institucional-botao-google-play"
+    }
+  ],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Banco_Safra",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "luxhub",
+      "name": "LUXHUB",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575292629/catalog/luxhub/icon128x128.jpg",
+      "websiteUrl": "https://www.luxhub.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
