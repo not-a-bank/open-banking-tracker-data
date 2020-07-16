@@ -1,0 +1,73 @@
+{
+  "id": "fjordbank-lt",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Fjord Bank",
+  "description": "A new generation fully digital challenger bank with Nordic roots and startup mindset",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594860336/radar/icons/fjordbank-lt.jpg",
+  "websiteUrl": "https://www.fjordbank.lt/",
+  "ownership": [
+    {
+      "providerId": "opera",
+      "shareholderName": "Opera",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1571592911/catalog/opera/icon128x128.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "LT",
+  "countries": [
+    "LT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fjordbank.lt/apie-mus",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.fjordbank.lt/apie-mus",
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
