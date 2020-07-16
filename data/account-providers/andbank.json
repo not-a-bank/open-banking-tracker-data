@@ -1,0 +1,121 @@
+{
+  "id": "andbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "name": "Andbank",
+  "description": "Andbank is the oldest firm of private bankers in Andorra. Independent private bank with presence in 11 countries and one of the highest solvency ratios. Our goal is to create value for our clients.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594857379/radar/icons/andbank.jpg",
+  "websiteUrl": "https://www.andbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AD",
+  "countries": [
+    "AD"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
+      "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
+      "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
+      "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "AndbankAND",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Andbank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "luxhub",
+      "name": "LUXHUB",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575292629/catalog/luxhub/icon128x128.jpg",
+      "websiteUrl": "https://www.luxhub.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "ca-technologies",
+      "name": "CA Technologies",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555947224/catalog/ca-technologies/icon128x128.jpg",
+      "websiteUrl": "https://ca.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
