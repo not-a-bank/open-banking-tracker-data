@@ -69,10 +69,13 @@
     "sourceUrl": "https://blog.revolut.com/introducing-revolut-for-business-open-api/"
   },
   "developerPortalUrl": "https://www.revolut.com/en-BE/open-api",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://revolutdev.github.io/business-api/",
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts",
@@ -102,6 +105,7 @@
   "apiStandards": [
     "OBIE"
   ],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "budget-insight",
     "salt-edge",
@@ -139,12 +143,14 @@
   "bloomberg": null,
   "github": "revolut",
   "fca": "001b000002zyAwNAAU",
+  "alumni": [],
   "articles": [
     {
       "url": "https://blog.revolut.com/introducing-revolut-for-business-open-api/",
       "date": "2018-05-17"
     }
   ],
+  "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "debitAccountLicense": null,
@@ -188,17 +194,30 @@
   },
   "foundedYear": 2015,
   "strategies": [],
-  "prepaidCards": true,
+  "prepaidCards": [
+    "mastercard",
+    "visa"
+  ],
+  "prepaidDebitCards": [],
   "debitCards": [
-    "mastercard", "visa"
-    ],
-  "creditCards": true,
+    "mastercard",
+    "visa"
+  ],
+  "creditCards": [
+    "mastercard",
+    "visa"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [
     {
+      "id": "adzooma",
       "name": "Adzooma",
       "icon": "https://res.cloudinary.com/apideck/icons/adzooma",
       "websiteUrl": "https://www.adzooma.com/",
-      "id": "adzooma",
       "title": "Revolut Partners with Adzooma to provide marketing assistance to its Business Clients",
       "desription": "The London based Digital Bank, Revolut has partnered with a digital advertising platform, Adzooma to ensure the provision of assistance with regards to marketing to its business clients. The Adzooma platform has established effective online strategies for marketing that help the SMEs through this proprietary software.",
       "sourceUrl": "https://www.martechcube.com/revolut-partners-with-adzooma-to-provide-marketing/",
@@ -208,10 +227,10 @@
       ]
     },
     {
+      "id": "modulrfinance",
       "name": "Modulr",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1575220013/catalog/modulrfinance/icon128x128.png",
       "websiteUrl": "https://www.modulrfinance.com/",
-      "id": "modulrfinance",
       "title": "Revolut supports direct debits in the UK",
       "desription": "Fintech startup Revolut is adding a key feature for users who want to replace their traditional bank account altogether. You can now pay with GBP direct debits. Revolut  already added EUR direct debits last year.",
       "sourceUrl": "https://www.businessinsider.com/tandem-partnered-with-truelayer-to-enable-account-aggregation-2019-11?r=US&IR=T",
@@ -221,10 +240,10 @@
       ]
     },
     {
-      "name": "TrueLayer",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568569722/catalog/truelayer/icon128x128.png",
-      "websiteUrl": "https://truelayer.com/",
       "id": "truelayer",
+      "name": "TrueLayer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591169579/icons/truelayer.jpg",
+      "websiteUrl": "https://truelayer.com/",
       "title": "Revolut's Open Banking Service For UK Customers",
       "desription": "Revolut launches an Open Banking feature, allowing customers to access all their bank accounts on one app to make managing finances easier and more efficient.",
       "sourceUrl": "https://www.pymnts.com/news/banking/2020/revolut-starts-open-banking-service-for-uk-customers/",
@@ -233,8 +252,34 @@
         "account-aggregation",
         "personal-finance-management"
       ]
+    },
+    {
+      "id": "paxos",
+      "name": "Paxos",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1594901058/icons/paxos.jpg",
+      "websiteUrl": "https://www.paxos.com/",
+      "title": "Revolut partners with Paxos to bring cryptocurrency trading to the US – TechCrunch",
+      "desription": "Neobank Revolut launched in the U.S. a couple of months ago. The startup is slowly catching up with features that are available in the U.K. and Europe. This time, Revolut is adding cryptocurrency trading through a partnership with Paxos. Users in the U.S. can now buy, hold and sell Bitcoin and Ethe…",
+      "sourceUrl": "https://techcrunch.com/2020/07/15/revolut-partners-with-paxos-to-bring-cryptocurrency-trading-to-the-us/",
+      "features": [
+        "cryptocurrency-trading"
+      ],
+      "addedAt": "2020-07-16T12:02:40.843Z"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
     }
   ],
+  "rewardPartners": [],
   "integrations": [
     {
       "id": "expensify",
