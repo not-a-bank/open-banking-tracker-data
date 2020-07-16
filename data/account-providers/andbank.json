@@ -27,7 +27,11 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": null,
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1"
+  },
+  "developerPortalUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -45,7 +49,7 @@
       "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
       "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     },
     {
       "label": "Payment Initiation API",
@@ -57,7 +61,7 @@
       "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
       "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     },
     {
       "label": "Confirmation of Funds API",
@@ -69,7 +73,7 @@
       "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
       "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=df98183d-d4ff-485a-84a4-5ed06a35597f&menuId=152&managerId=1",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     }
   ],
   "apiStandards": [

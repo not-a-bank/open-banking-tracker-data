@@ -10,9 +10,10 @@
   "description": "Numbrs - Mobile Banking App. Numbrs aggregates bank account and credit card information and facilitates mobile banking and personal financial planning.",
   "legalName": "Numbrs Personal Finance AG",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1565587678/catalog/numbrs/icon128x128.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594864172/radar/icons/numbrs.png",
   "websiteUrl": "https://numbrs.com",
   "ownership": [],
   "stateOwned": false,
@@ -36,12 +37,14 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
-  "webApplication": false,
-   "platforms": [
-    "mobile"
-  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
@@ -52,12 +55,44 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.centralway.numbrs&hl=en_gb"
     }
   ],
-  "stockSymbol": null,
-  "investorRelationsUrl": null,
   "financialReports": [],
+  "twitter": "https://twitter.com/numbrs",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Numbrs_Personal_Finance_AG",
-  "twitter": "numbrs",
   "crunchbase": "centralway-holding-ag",
   "bloomberg": null,
-  "github": ""
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "truelayer",
+      "name": "TrueLayer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591169579/icons/truelayer.jpg",
+      "websiteUrl": "https://truelayer.com/",
+      "title": "Numbrs to offer account aggregation with TrueLayer",
+      "desription": "TrueLayer, a leading provider of financial APIs, has partnered with the Multi Banking App Numbrs, to offer Open Banking services to Numbrs users in the UK.",
+      "sourceUrl": "https://www.finextra.com/pressarticle/83306/numbrs-to-offer-account-aggregation-with-truelayer",
+      "sourceDate": "2020-07-15T09:19:00",
+      "features": [],
+      "addedAt": "2020-07-16T01:42:43.455Z"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [
+    "mobile"
+  ],
+  "awards": []
 }
