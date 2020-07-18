@@ -457,6 +457,20 @@
         }
       ]
     },
+    "apiGateway": {
+      "anyOf": [
+        {
+          "type": "string",
+          "title": "API Gateway",
+          "enum": [
+            "CBIGLOBE",
+            "SIBS"
+          ],
+          "examples": ["CBIGLOBE"]
+        },
+        { "type": "null" }
+      ]
+    },
     "apiAuth": {
       "anyOf": [
         { "type": "null" },
