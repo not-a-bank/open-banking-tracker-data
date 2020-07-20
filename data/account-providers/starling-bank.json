@@ -12,8 +12,11 @@
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
+  "aliases": [
+    "Starling"
+  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1579217327/radar/icons/starlingbank.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592795538/radar/icons/starlingbank.jpg",
   "websiteUrl": "https://starlingbank.com",
   "ownership": [],
   "stateOwned": false,
@@ -201,21 +204,34 @@
   },
   "partnerships": [
     {
+      "id": "postoffice-uk",
       "name": "Post Office",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1579220042/catalog/postoffice-uk/icon128x128.png",
       "websiteUrl": "https://www.postoffice.co.uk/",
-      "id": "postoffice-uk",
       "title": "Digital bank Starling heads to the high street following Post Office deal",
       "desription": "App-based start up Starling Bank has arrived on the high street following a deal to launch in thousands of Post Offices nationwide. Starling describes itself as a \"mobile only bank account\" and has more than 200,000 users in the UK. It is among a new wave of digital-only lenders that claim to be quicker and easier to deal with compared with traditional banks.",
       "sourceUrl": "https://www.telegraph.co.uk/technology/2018/11/14/digital-bank-starling-heads-high-street-following-post-office/",
       "sourceDate": "2018-11-24"
     },
     {
+      "id": "getpenfold",
+      "name": "Penfold",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1595242430/icons/getpenfold.png",
+      "websiteUrl": "https://getpenfold.com/",
+      "title": "Introducing: Penfold pensions for business owners - Starling Bank",
+      "desription": "Penfold is a pension provider for the self-employed and the latest addition to the Starling Marketplace.",
+      "sourceUrl": "https://www.starlingbank.com/blog/penfold-integration-for-business-customers/",
+      "features": [],
+      "addedAt": "2020-07-20"
+    },
+    {
+      "id": "mastercard",
       "name": "Mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://mastercard.com"
     }
   ],
+  "rewardPartners": [],
   "integrations": [
     {
       "id": "freeagent",
@@ -414,6 +430,12 @@
       "name": "QuickBooks",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
       "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "getpenfold",
+      "name": "Penfold",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1595242430/icons/getpenfold.png",
+      "websiteUrl": "https://getpenfold.com/"
     }
   ],
   "platforms": [
