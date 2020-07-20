@@ -1,33 +1,58 @@
 {
   "id": "intesa-sanpaolo",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Intesa Sanpaolo",
+  "description": "Intesa Sanpaolo S.p.A. is an Italian banking group resulting from the merger of Banca Intesa and Sanpaolo IMI based in Torre Intesa Sanpaolo, Turin, Italy.",
   "legalName": "Intesa Sanpaolo S.p.A.",
   "ipoStatus": "public",
+  "stockSymbol": "BIT:ISP",
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552321067/radar/icons/Intesa-Sanpaolo.jpg",
   "websiteUrl": "https://www.intesasanpaolo.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "IT",
-  "countries": ["IT","SI","HR","RO","RS","AL","HU","CZ","UA"],
+  "countries": [
+    "IT",
+    "SI",
+    "HR",
+    "RO",
+    "RS",
+    "AL",
+    "HU",
+    "CZ",
+    "UA"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
     "status": "available"
- },
-  "developerPortalUrl": "https://openbanking.intesasanpaolo.com/#/",
+  },
+  "developerPortalUrl": "https://openbanking.intesasanpaolo.com/",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiGateway": "CBIGLOBE",
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Access balances and transaction history in real-time and retrieve details.",
       "documentationUrl": "https://openbanking.intesasanpaolo.com/#/account-information",
       "apiReferenceUrl": "https://openbanking.intesasanpaolo.com/#/api_documentation",
@@ -37,7 +62,9 @@
     {
       "label": "Payments",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Dispose payments directly from your systems.",
       "documentationUrl": "https://openbanking.intesasanpaolo.com/#/payments",
       "apiReferenceUrl": "https://openbanking.intesasanpaolo.com/#/api_documentation",
@@ -47,18 +74,82 @@
     {
       "label": "Tools",
       "type": "atmLocator",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "description": "Exploit bank utilities to empower additional services such as IBAN verification or ATM availability.",
       "documentationUrl": "https://openbanking.intesasanpaolo.com/#/tools",
       "apiReferenceUrl": "https://openbanking.intesasanpaolo.com/#/api_documentation",
       "premium": false,
       "stage": "sandbox"
+    },
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Reads a list of bank accounts, with balances where required. It is assumed that a consent of the PSU to this access is already given and stored on the ASPSP system.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/accountInformationServices/2.3.2/accounts/get",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Enable your customers to make secure payments from their chosen bank account.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInitiationServices/2.3.2/paymentspayment-product/post",
+      "premium": false,
+      "countries": [
+        "it"
+      ],
+      "apiGateway": "cbiglobe",
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": " https://cbiglobeopenbankingapiportal.nexi.it/en/api/paymentInstrumentIssuingServices/2.3.2/funds-confirmations/post",
+      "countries": [
+        "it"
+      ],
+      "apiGateway": "cbiglobe",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "OAuth2",
+      "type": "auth",
+      "description": null,
+      "categories": [
+        "auth"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it/en/api/auth/v2/oauth-v2-token/post",
+      "countries": [
+        "it"
+      ],
+      "apiGateway": "cbiglobe",
+      "premium": false,
+      "stage": "live"
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "klarna"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -70,7 +161,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.latuabancaperandroid&hl=en"
     }
   ],
-  "stockSymbol": "BIT:ISP",
   "investorRelationsUrl": "https://www.group.intesasanpaolo.com/scriptIsir0/si09/investor_relations/eng_wp_investor_relations.jsp",
   "financialReports": [
     {
@@ -80,8 +170,26 @@
     }
   ],
   "twitter": "intesasanpaolo",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Intesa_Sanpaolo",
   "crunchbase": "intesa-sanpaolo",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfISQAA3",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }

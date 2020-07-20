@@ -457,16 +457,19 @@
         }
       ]
     },
-    "apiGateway": {
+    "apiGateways": {
       "anyOf": [
         {
-          "type": "string",
-          "title": "API Gateway",
-          "enum": [
-            "CBIGLOBE",
-            "SIBS"
-          ],
-          "examples": ["CBIGLOBE"]
+          "title": "API Gateway(s)",
+          "type": "array",
+          "items": {
+            "enum": [
+              "cbiglobe",
+              "sibsapimarket",
+              "token"
+            ]
+          },
+          "examples": ["cbiglobe"]
         },
         { "type": "null" }
       ]
@@ -811,6 +814,22 @@
                 "description": "In what countries is the API available",
                 "examples": ["NL", "BE"],
                 "uniqueItems": true
+              },
+              "apiGateway": {
+                "anyOf": [
+                  {
+                    "title": "API Gateway",
+                    "description": "The specific API Gateway for this API product",
+                    "type": "string",
+                    "enum": [
+                      "cbiglobe",
+                      "sibsapimarket",
+                      "token"
+                    ],
+                    "examples": ["cbiglobe"]
+                  },
+                  { "type": "null" }
+                ]
               },
               "rateLimits": {
                 "type": "array",
