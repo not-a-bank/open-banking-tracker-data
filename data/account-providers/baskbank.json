@@ -16,9 +16,9 @@
   "websiteUrl": "https://www.baskbank.com/",
   "ownership": [],
   "stateOwned": false,
-  "countryHQ": "",
+  "countryHQ": "ES",
   "countries": [
-    null
+    "ES"
   ],
   "compliance": [
     {
@@ -27,11 +27,15 @@
     }
   ],
   "developerPortalUrl": null,
+  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],
   "webApplication": true,
@@ -39,14 +43,23 @@
   "financialReports": [],
   "twitter": "BaskBank",
   "bloomberg": null,
+  "alumni": [],
+  "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []
