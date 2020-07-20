@@ -43,7 +43,9 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiGateway": "CBIGLOBE",
+  "apiGateways": [
+    "cbiglobe"
+  ],
   "apiPerformanceReports": [],
   "apiSpecs": [],
   "apiProducts": [
@@ -144,7 +146,9 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiStatusUrls": [],
   "apiAggregators": [
     "klarna"
