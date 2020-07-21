@@ -1,0 +1,85 @@
+{
+  "id": "wirexapp",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Wirex",
+  "description": "A borderless payment platform giving you control over your money. Buy, store, exchange and spend your crypto and fiat currencies using Wirex App and Visa card",
+  "legalName": "Wirex Pte Ltd",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595367437/radar/icons/wirexapp.png",
+  "websiteUrl": "https://wirexapp.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/wirex-btc-debit-card-bitcoin-wallet/id1090004654"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.wirex"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "wirexapp",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
