@@ -1,0 +1,133 @@
+{
+  "id": "bankaustria",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "UniCredit Bank Austria",
+  "description": "UniCredit Bank Austria AG, better known as Bank Austria, is an Austrian bank, 96.35% owned by UniCredit Group based in Milan, Italy. The bank maintains an extensive network in Austria, with about 7,700 employees serving customers in some 300 branches.",
+  "legalName": "UniCredit Bank Austria AG",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595380307/radar/icons/bankaustria-at.jpg",
+  "websiteUrl": "https://www.bankaustria.at/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.unicredit.eu/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "PIS Consents",
+      "type": "consent",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "AIS Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "apiAccess": "verifiedTpp",
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bankaustria.android.olb&hl=de"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "Bank_Austria",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bank_Austria",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
