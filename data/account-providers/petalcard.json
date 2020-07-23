@@ -1,0 +1,88 @@
+{
+  "id": "petalcard",
+  "type": "account",
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Petal",
+  "description": "Responsible credit for the modern world. Petal doesn’t charge fees, helps you spend within a budget, and rewards you when you pay on time.",
+  "legalName": "Petal Card Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595537040/radar/icons/petalcard.png",
+  "websiteUrl": "https://www.petalcard.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/petal-safe-simple-credit/id1400353064?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.petalcard.petal&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "petal",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "unbanked"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": "webbank",
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "webbank",
+      "name": "WebBank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1577066795/catalog/webbank/icon128x128.jpg",
+      "websiteUrl": "https://www.webbank.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
