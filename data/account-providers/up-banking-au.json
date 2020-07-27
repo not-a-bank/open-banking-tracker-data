@@ -22,25 +22,39 @@
     "AU"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.up.com.au",
   "developerCommunityUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiAggregators": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Accounts represent the underlying store used to track balances and the transactions that have occurred to modify those balances over time.",
+      "documentationUrl": "https://developer.up.com.au/#get_accounts",
+      "apiReferenceUrl": "https://api.up.com.au/api/v1/accounts",
+      "premium": false,
+      "stage": "sandbox",
+      "statusUrl": "https://api.up.com.au/api/v1/util/ping"
+    }
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/us/app/up-money/id1350717115?mt=8"
+      "storeUrl": "https://apps.apple.com/us/app/up-money/id1350717115"
     },
     {
       "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=au.com.up.money&hl=en"
+      "storeUrl": "https://play.google.com/store/apps/details?id=au.com.up.money"
     }
   ],
   "financialReports": [],
+  "twitter": "up_banking",
+  "github": "up-banking",
   "bloomberg": null,
   "bankingLicense": null,
   "strategies": [],
