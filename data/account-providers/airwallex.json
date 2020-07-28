@@ -1,0 +1,88 @@
+{
+  "id": "airwallex",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Airwallex",
+  "description": "Give your business the power to make fast, transparent and cost-effective international payments in multiple currencies. Sign up for a free account today.",
+  "legalName": "Airwallex Pty Ltd",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595919591/radar/icons/airwallex.png",
+  "websiteUrl": "https://www.airwallex.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AU",
+  "countries": [
+    "AU"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://www.airwallex.com/developers",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.airwallex.com/docs/api",
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "airwallex",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [
+    "visa"
+  ],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "deutsche-bank",
+      "name": "Deutsche Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1595919842/icons/deutsche-bank.jpg",
+      "websiteUrl": "https://www.db.com/company/index.htm",
+      "title": "Deutsche Bank Partners with Airwallex, Enables API FX Services in HK",
+      "desription": "Deutsche Bank has partnered with global fintech unicorn Airwallex so that the latter can provide API-enabled foreign exchange (forex) services in Hong Kong. ",
+      "sourceUrl": "https://www.financemagnates.com/fintech/payments/deutsche-bank-partners-with-airwallex-enables-api-fx-services-in-hk/",
+      "sourceDate": "2020-07-27T06:39:33+00:00",
+      "features": [
+        "virtual-account-collection",
+        "foreign-exchange-api"
+      ],
+      "addedAt": "2020-07-28"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
