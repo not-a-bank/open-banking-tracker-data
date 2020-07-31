@@ -86,7 +86,9 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "truelayer"
+  ],
   "sdks": null,
   "postmanCollections": null,
   "webApplication": true,
