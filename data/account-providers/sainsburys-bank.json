@@ -44,7 +44,9 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.sainsburysbank.co.uk/api",
   "apiChangelogUrl": null,
-  "apiAggregators": [],
+  "apiAggregators": [
+    "truelayer"
+  ],
   "apiProducts": [
     {
       "label": "Account Information",
