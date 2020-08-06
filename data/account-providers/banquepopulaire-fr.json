@@ -1,0 +1,175 @@
+{
+  "id": "banquepopulaire-fr",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Banque Populaire",
+  "description": "Groupe Banque Populaire is a French group of cooperative banks. The federal union is controlled by 15 independent regional banks and also operates under the CASDEN and the Crédit Coopératif subsidiaries.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1596751133/radar/icons/banquepopulaire-fr.jpg",
+  "websiteUrl": "https://www.banquepopulaire.fr/",
+  "ownership": [
+    {
+      "providerId": "groupe-bpce",
+      "shareholderName": "Groupe BPCE",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568662661/catalog/groupe-bpce/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://newsroom-en.groupebpce.fr/news/groupe-bpce-makes-its-psd2-regulatory-apis-available-to-authorized-payment-services-providers-15b0-53927.html"
+  },
+  "developerPortalUrl": "https://www.api.89c3.com",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.api.89c3.com/en/component/bpceportal/products/148/usecases/180",
+      "apiReferenceUrl": "https://www.api.89c3.com/en/component/bpceportal/products/148/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620/methods/63bd9331-5365-46cf-8416-0108795070ec",
+      "premium": false,
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://www.api.89c3.com/en/component/bpceportal/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620?version=1.4.0&format=json"
+        }
+      ],
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.api.89c3.com/en/component/bpceportal/products/201/usecases/242",
+      "apiReferenceUrl": "https://www.api.89c3.com/en/component/bpceportal/products/201/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620/methods/c5adab62-d394-4b43-885b-df472a417719",
+      "premium": false,
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://www.api.89c3.com/en/component/bpceportal/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620?version=1.4.0&format=json"
+        }
+      ],
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.api.89c3.com/en/component/bpceportal/products/149/usecases/181",
+      "apiReferenceUrl": "https://www.api.89c3.com/en/component/bpceportal/products/149/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620/methods/63bd9331-5365-46cf-8416-0108795070ec",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://www.api.89c3.com/en/component/bpceportal/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620?version=1.4.0&format=json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "ATM Locator",
+      "type": "atmLocator",
+      "categories": [
+        "locators"
+      ],
+      "description": "List of ATMs",
+      "documentationUrl": "https://www.api.89c3.com/en/our-products/item/200-list-of-atm",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Branch Locator",
+      "type": "branchLocator",
+      "categories": [
+        "locators"
+      ],
+      "description": "List of Banque Populaire bank branches",
+      "documentationUrl": "https://www.api.89c3.com/en/our-products/item/199-list-of-banque-populaire-bank-branches",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Observatory of the territory's datas",
+      "type": "other",
+      "categories": [
+        "openData"
+      ],
+      "description": "Groupe BPCE's OpenData is made up of digital data whose access and use are open to users.",
+      "documentationUrl": "https://www.api.89c3.com/en/our-products/item/217-observatory-of-the-territory-s-datas",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "STET"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "BanquePopulaire",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Groupe_Banque_Populaire",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
