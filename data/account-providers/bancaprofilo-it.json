@@ -1,0 +1,143 @@
+{
+  "id": "bancaprofilo-it",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "investment"
+  ],
+  "name": "Banca Profilo",
+  "description": "Banca Profilo S.p.A. is an investment bank which provides financial services for institutional clients and private investors.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1596920589/radar/icons/bancaprofilo-it.png",
+  "websiteUrl": "https://bancaprofilo.it",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/source/redoc.html",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [
+    {
+      "environment": "production",
+      "baseUrl": "https://cse-profilo.api.obp.sia.eu:443"
+    },
+    {
+      "environment": "sandbox",
+      "baseUrl": "https://cse-sandbox.api.obp.sia.eu:443"
+    }
+  ],
+  "apiSpecs": [
+    {
+      "type": "swagger",
+      "format": "json",
+      "url": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/OpenApi",
+      "standard": "BERLIN-1.3"
+    }
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/source/redoc.html#tag/Accounts",
+      "apiReferenceUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/source/redoc.html#tag/Accounts",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/source/redoc.html#tag/Payments",
+      "apiReferenceUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/source/redoc.html#tag/Payments",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/source/redoc.html#tag/Funds-Confirmations",
+      "apiReferenceUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/source/redoc.html#tag/Funds-Confirmations",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consents API",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/source/redoc.html#tag/Consents",
+      "apiReferenceUrl": "https://cse-profilo-psd2.obp.sia.eu/sapr/APP/connector/0/90/source/redoc.html#tag/Consents",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "sia-eu",
+      "name": "SIA S.p.A.",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1596921106/icons/sia-eu.jpg",
+      "websiteUrl": "https://www.sia.eu"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
