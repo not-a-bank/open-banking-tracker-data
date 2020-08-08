@@ -533,6 +533,27 @@
         ]
       }
     },
+    "apiServerEndpoints": {
+      "description": "API server endpoints per environment",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "environment": {
+            "type": "string",
+            "enum": [
+              "sandbox",
+              "production"
+            ]
+          },
+          "baseUrl": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^(https?|http?)://"
+          }
+        }
+      }
+    },
     "apiAccess": {
       "description": "Is the API access limited to verified TPPs only",
       "anyOf": [
@@ -617,6 +638,12 @@
           "url": {
             "type": "string",
             "examples": ["https://api.denizbank.at/docs/services/denizbank-ag-psd2-api/export?DocumentFormat=OpenApi"]
+          },
+          "standard": {
+            "type": "string",
+            "enum": [
+              "berlin-1.3"
+            ]
           }
         }
       }
@@ -826,7 +853,8 @@
                     "enum": [
                       "cbiglobe",
                       "sibsapimarket",
-                      "token"
+                      "token",
+                      "sia-eu"
                     ],
                     "examples": ["cbiglobe"]
                   },
