@@ -128,7 +128,10 @@
   ],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": ["fintecture"],
+  "apiAggregators": [
+    "fintecture",
+    "bridge-bankin"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],
