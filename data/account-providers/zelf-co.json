@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590697047/radar/icons/zelf-co.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597085105/radar/icons/zelf-co.jpg",
   "websiteUrl": "https://zelf.co/",
   "ownership": [],
   "stateOwned": false,
@@ -33,20 +33,27 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
   "bloomberg": null,
+  "alumni": [],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [
     "mastercard"
   ],
@@ -54,10 +61,10 @@
   "virtualCards": [],
   "partnerships": [
     {
+      "id": "treezor",
       "name": "Treezor",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1583910841/catalog/treezor/icon128x128.jpg",
       "websiteUrl": "https://www.treezor.com/",
-      "id": "treezor",
       "title": "ZELF is partnering with Treezor to bring payments services &amp; virtual cards to Gen Z&#39;s preferred platforms ",
       "desription": "ZELF and Treezor have signed a partnership to roll-out a new payment service in France and Spain.",
       "sourceUrl": "https://thepaypers.com/payments-general/zelf-is-partnering-with-treezor-to-bring-payments-services-and-virtual-cards-to-gen-zs-preferred-platforms--1241927",
@@ -67,12 +74,51 @@
       "addedAt": "2020-05-28T20:15:59.502Z"
     },
     {
-      "name": "mastercard",
+      "id": "mastercard",
+      "name": "Mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://mastercard.com"
     }
   ],
-  "integrations": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "facebook-messenger",
+      "name": "Facebook Messenger",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557191698/catalog/facebook-messenger/icon128x128.png",
+      "websiteUrl": "https://www.messenger.com/"
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557247700/catalog/whatsapp/icon128x128.png",
+      "websiteUrl": "https://whatsapp.com"
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1561048362/catalog/telegram/icon128x128.png",
+      "websiteUrl": "https://telegram.org"
+    },
+    {
+      "id": "viber",
+      "name": "Viber",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557191693/catalog/viber/icon128x128.jpg",
+      "websiteUrl": "https://viber.com"
+    },
+    {
+      "id": "line",
+      "name": "LINE",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1561048368/catalog/line/icon128x128.png",
+      "websiteUrl": "https://line.me"
+    },
+    {
+      "id": "wechat",
+      "name": "WeChat",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559218753/catalog/wechat/icon128x128.jpg",
+      "websiteUrl": "https://wechat.com"
+    }
+  ],
   "platforms": [],
   "awards": []
 }
