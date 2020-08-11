@@ -122,7 +122,10 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": ["fintecture"],
+  "apiAggregators": [
+    "fintecture",
+    "bridgeapi-io"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
