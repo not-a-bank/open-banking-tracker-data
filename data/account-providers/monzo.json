@@ -1,19 +1,28 @@
 {
   "id": "monzo",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Monzo",
+  "description": "Monzo is a bank that makes life easier, not harder.",
   "legalName": "Monzo Bank Limited",
   "ipoStatus": "private",
-  "verified": true,
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Monzo.jpg",
   "websiteUrl": "https://monzo.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
@@ -22,22 +31,24 @@
     "status": "available",
     "sourceUrl": "https://monzo.com/blog/2018/01/12/api-update/"
   },
-  "developerPortalUrl": "https://docs.monzo.com",
+  "developerPortalUrl": "https://docs.monzo.com/",
   "developerCommunityUrl": "https://community.monzo.com/c/developers",
   "openBankProjectUrl": null,
   "slackCommunity": false,
-  "apiAuth": ["OAUTH2", "OPENID-CONNECT"],
-  "apiAggregators": [
-    "truelayer",
-    "banked",
-    "openwrks",
-    "friendlyscore"
+  "apiAuth": [
+    "OAUTH2",
+    "OPENID-CONNECT"
   ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "AISP Access",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Access for companies authorised as Account Information Service Providers (AISPs) under PSD2.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://docs.monzo.com/#aisp-access",
@@ -47,7 +58,9 @@
     {
       "label": "PISP Access",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Access for companies authorised as Payment Initiation Service Providers (AISPs) under PSD2.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://docs.monzo.com/#pisp-access",
@@ -56,7 +69,15 @@
     }
   ],
   "apiStandards": [],
-  "webApplication": false,
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "truelayer",
+    "banked",
+    "openwrks",
+    "friendlyscore"
+  ],
+  "collections": [],
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
@@ -67,8 +88,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=co.uk.getmondo&hl=en"
     }
   ],
-  "stockSymbol": null,
-  "investorRelationsUrl": null,
   "financialReports": [
     {
       "label": "2018",
@@ -77,16 +96,23 @@
       "documentType": "annualreport"
     }
   ],
-  "twitter": "monzo",
+  "twitter": "https://twitter.com/monzo",
   "crunchbase": "monzo",
+  "bloomberg": null,
   "github": "monzo",
   "fca": "001b000002syvKiAAI",
+  "alumni": [],
   "articles": [
     {
       "url": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Monzo.jpg",
       "date": "2018-01-12"
     }
   ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "customers": {
     "consumer": [
       {
@@ -110,12 +136,14 @@
     "marketplaceBanking"
   ],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [
     "mastercard"
   ],
   "creditCards": [],
-  "applePay": true,
-  "googlePay": true,
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
   "samsungPay": false,
   "fitbitPay": false,
   "fscsProtected": true,
@@ -138,14 +166,96 @@
   },
   "partnerships": [
     {
+      "id": "rdc",
       "name": "RDC",
       "icon": "https://mms.businesswire.com/media/20191218005050/en/763599/4/RDC_logo.jpg",
       "websiteUrl": "https://rdc.com/",
-      "id": "rdc-US",
       "title": "RDC and Monzo Expand Anti-money Laundering Partnership for Bank’s US Launch",
       "desription": "RDC (Regulatory DataCorp) has renewed its agreement with Monzo in a deal that will see the company’s next-generation customer screening technology extended to cover the bank’s US launch. The arrangement will build on the success of the past two years in the UK where RDC’s data and technology was used to screen for financial crime risk as 55,000 new customers sign up for a Monzo account every week.",
       "sourceUrl": "https://www.businesswire.com/news/home/20191218005050/en/RDC-Monzo-Expand-Anti-money-Laundering-Partnership-Bank%E2%80%99s",
       "sourceDate": "2019-12-18"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
     }
-  ]
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "moneyhub",
+      "name": "Moneyhub",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567665469/catalog/moneyhub/icon128x128.jpg",
+      "websiteUrl": "https://www.moneyhub.com/home"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "freeagent",
+      "name": "FreeAgent",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531304984/catalog/freeagent/icon128x128.png",
+      "websiteUrl": "https://www.freeagent.com/"
+    },
+    {
+      "id": "yolt",
+      "name": "Yolt",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432650/catalog/yolt/icon128x128.jpg",
+      "websiteUrl": "https://yolt.com"
+    },
+    {
+      "id": "ifttt",
+      "name": "IFTTT",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1546980860/catalog/ifttt/icon128x128.png",
+      "websiteUrl": "https://ifttt.com/"
+    },
+    {
+      "id": "creditladder-couk",
+      "name": "CreditLadder",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565354928/catalog/creditladder-couk/icon128x128.jpg",
+      "websiteUrl": "https://creditladder.co.uk"
+    },
+    {
+      "id": "transferwise",
+      "name": "TransferWise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
+      "websiteUrl": "https://transferwise.com/"
+    },
+    {
+      "id": "withplum",
+      "name": "Plum",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567666947/catalog/withplum/icon128x128.jpg",
+      "websiteUrl": "https://withplum.com/"
+    },
+    {
+      "id": "moneydashboard",
+      "name": "Money Dashboard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567666950/catalog/moneydashboard/icon128x128.jpg",
+      "websiteUrl": "https://www.moneydashboard.com/"
+    },
+    {
+      "id": "onedox",
+      "name": "Onedox",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567667788/catalog/onedox/icon128x128.jpg",
+      "websiteUrl": "https://www.onedox.com/"
+    }
+  ],
+  "platforms": [],
+  "ux": {
+    "accountOpening": {
+      "openAccountViaApp": true,
+      "numberOfworkingDaysTillActiveAccount": 2,
+      "numberOfClicksToCreateAccount": 45,
+      "instantAccessToApplePay": true,
+      "digitalIdVerification": true,
+      "asksLimitedAddressHistory": true,
+      "brandedWelcomeLetter": true
+    }
+  },
+  "awards": []
 }
