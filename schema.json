@@ -1035,6 +1035,74 @@
         }
       ]
     },
+    "ux": {
+      "type": "object",
+      "properties": {
+        "openAccountViaApp": {
+          "type": "boolean",
+          "title": "Open account via the app",
+          "description": "It shouldn’t come as a surprise to you that all the banks have IOS apps. But what may surprise you is that not all of the banks let you actually open an account through their apps.",
+          "x-stage": "account-opening",
+          "x-data-partner": "built-for-mars",
+          "x-data-partner-source-url": "https://builtformars.co.uk/banks/opening/",
+          "examples": [true]
+        },
+        "numberOfworkingDaysTillActiveAccount": {
+          "type": "number",
+          "title": "Number of working days to have an active account ",
+          "description": "As you can see, the challenger banks not only required the fewest clicks, but needed significantly fewer than even the best scoring traditional bank.",
+          "x-stage": "account-opening",
+          "x-data-partner": "built-for-mars",
+          "x-data-partner-source-url": "https://builtformars.co.uk/banks/opening/",
+          "examples": [5]
+        },
+        "numberOfClicksToCreateAccount": {
+          "type": "number",
+          "title": "Number of clicks to create an account",
+          "description": "As you’d expect, the challenger banks were considerably faster than the more traditional banks. And remember; these are working days, not calendar days.",
+          "x-stage": "account-opening",
+          "x-data-partner": "built-for-mars",
+          "x-data-partner-source-url": "https://builtformars.co.uk/banks/opening/",
+          "examples": [20]
+        },
+        "instantAccessToApplePay": {
+          "type": "boolean",
+          "title": "Instant access to Apple Pay",
+          "description": "Allows you to add your card to Apple Pay as soon as your account has been approved",
+          "x-stage": "account-opening",
+          "x-data-partner": "built-for-mars",
+          "x-data-partner-source-url": "https://builtformars.co.uk/banks/opening/",
+          "examples": [true]
+        },
+        "digitalIdVerification": {
+          "type": "boolean",
+          "title": "Digital ID verification",
+          "description": "Understandably, you need to prove your identity when opening an account. Traditionally, this would mean walking into a branch with your passport, or sending scanned copies of your ID in the post.",
+          "x-stage": "account-opening",
+          "x-data-partner": "built-for-mars",
+          "x-data-partner-source-url": "https://builtformars.co.uk/banks/opening/",
+          "examples": [true]
+        },
+        "asksLimitedAddressHistory": {
+          "type": "boolean",
+          "title": "Only asks for current address",
+          "description": "The challenger banks also asked fewer questions. Let’s focus on one area: address history. Banks all ask for your address history so they can run a Credit Search. But there’s some discrepancy in how much address history the banks ask for:",
+          "x-stage": "account-opening",
+          "x-data-partner": "built-for-mars",
+          "x-data-partner-source-url": "https://builtformars.co.uk/banks/opening/",
+          "examples": [true]
+        },
+        "brandedWelcomeLetter": {
+          "type": "boolean",
+          "title": "Welcome Letter",
+          "description": "Receiving your card in the post is an experience—or rather, it’s an opportunity for the bank to create an experience that you remember positively.",
+          "x-stage": "account-opening",
+          "x-data-partner": "built-for-mars",
+          "x-data-partner-source-url": "https://builtformars.co.uk/banks/opening/",
+          "examples": [true]
+        }
+      }
+    },
     "twitter": {
       "anyOf": [
         {
