@@ -87,7 +87,9 @@
     "BERLIN"
   ],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "ibanity"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],

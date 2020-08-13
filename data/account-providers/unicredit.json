@@ -13,7 +13,7 @@
   "countryHQ": "IT",
   "countries": ["EU"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -27,7 +27,8 @@
   "apiStandards": [],
   "apiAggregators": [
     "klarna",
-    "salt-edge"
+    "salt-edge",
+    "ibanity"
   ],
   "webApplication": true,
   "mobileApps": [

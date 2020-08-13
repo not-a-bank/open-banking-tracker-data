@@ -41,7 +41,9 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.triodos.com/reference",
   "apiChangelogUrl": "https://developer.triodos.com/changelog",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "ibanity"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",

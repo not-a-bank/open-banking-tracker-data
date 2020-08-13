@@ -100,7 +100,9 @@
     "BERLIN"
   ],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "ibanity"
+  ],
   "collections": [],
   "apiAccess": "verifiedTpp",
   "webApplication": true,

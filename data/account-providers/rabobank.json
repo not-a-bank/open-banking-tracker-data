@@ -9,7 +9,7 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296085/radar/icons/Rabobank.jpg",
   "websiteUrl": "https://www.rabobank.com/en/home/index.html",
   "ownership": [
-    { 
+    {
       "shareholderName": "Co-Operative of Dutch Banks",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296085/radar/icons/Rabobank.jpg",
       "providerId": null,
@@ -21,7 +21,7 @@
   "countryHQ": "NL",
   "countries": ["NL","BE","LU"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -121,7 +121,8 @@
   "apiAggregators": [
     "klarna",
     "salt-edge",
-    "bridgeapi-io"
+    "bridgeapi-io",
+    "ibanity"
   ],
   "webApplication": true,
   "mobileApps": [

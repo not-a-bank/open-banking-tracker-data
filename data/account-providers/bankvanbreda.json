@@ -79,7 +79,9 @@
   "apiStandards": [
     "BERLIN"
   ],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "ibanity"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],

@@ -45,7 +45,8 @@
   "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
   "apiAggregators": [
     "klarna",
-    "bridgeapi-io"
+    "bridgeapi-io",
+    "ibanity"
   ],
   "apiProducts": [
     {
