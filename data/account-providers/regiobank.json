@@ -43,7 +43,8 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
   "apiAggregators": [
-    "klarna"
+    "klarna",
+    "ibanity"
   ],
   "apiProducts": [
     {

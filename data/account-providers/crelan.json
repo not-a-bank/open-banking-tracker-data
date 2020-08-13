@@ -9,7 +9,7 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1553175199/radar/icons/Crelan.jpg",
   "websiteUrl": "https://www.crelan.be/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Crelanco - Cooperative of Bank Members",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553175199/radar/icons/Crelan.jpg",
       "providerId": null,
@@ -21,7 +21,7 @@
   "countryHQ": "BE",
   "countries": ["BE"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -80,7 +80,8 @@
   "apiAggregators": [
     "bankingsdk",
     "klarna",
-    "banqup"
+    "banqup",
+    "ibanity"
   ],
   "webApplication": true,
   "mobileApps": [

@@ -46,7 +46,8 @@
   "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
   "apiAggregators": [
     "salt-edge",
-    "bridgeapi-io"
+    "bridgeapi-io",
+    "ibanity"
   ],
   "apiProducts": [
     {

@@ -11,7 +11,7 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1552240551/radar/icons/abn-amro.jpg",
   "websiteUrl": "https://www.abnamro.com/",
   "ownership": [
-    { 
+    {
       "shareholderName": "NLFI",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552255582/radar/icons/nlfi.png",
       "providerId": "NLFI",
@@ -22,7 +22,7 @@
   "countryHQ": "NL",
   "countries": ["NL"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -97,6 +97,7 @@
   "apiStandards": [],
   "apiAggregators": [
     "klarna",
+    "ibanity",
     "bridgeapi-io"
   ],
   "webApplication": true,

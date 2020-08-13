@@ -68,7 +68,9 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "ibanity"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [

@@ -81,6 +81,9 @@
       "specifications": "BERLIN1.3"
     }
   ],
+  "apiAggregators": [
+    "ibanity"
+  ],
   "apiStandards": ["BERLIN"],
   "webApplication": true,
   "mobileApps": [],

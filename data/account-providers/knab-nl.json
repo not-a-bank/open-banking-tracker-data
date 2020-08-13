@@ -43,7 +43,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.knab.nl/",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "ibanity"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",

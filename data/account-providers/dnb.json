@@ -9,7 +9,7 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/DNB.jpg",
   "websiteUrl": "https://www.dnb.no/en",
   "ownership": [
-    { 
+    {
       "shareholderName": "Norwegian State",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552467237/radar/icons/2000px-Flag_of_Norway.svg.png",
       "providerId": null,
@@ -21,7 +21,7 @@
   "countryHQ": "NO",
   "countries": ["NO"],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -33,7 +33,8 @@
   "developerPortalUrl": "https://developer.dnb.no/Documentation/psd2#tag/PSD2%20for%20PSD2",
   "apiAggregators": [
     "neonomics",
-    "enfuce"
+    "enfuce",
+    "ibanity"
   ],
   "apiProducts": [
      {
