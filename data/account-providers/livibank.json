@@ -1,0 +1,79 @@
+{
+  "id": "livibank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "livi bank",
+  "description": "Livi is a new banking experience that delights and rewards everyday living.",
+  "legalName": "Livi VB Limited",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597400955/radar/icons/livibank.png",
+  "websiteUrl": "https://www.livibank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "HK",
+  "countries": [
+    "HK"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/id1481532757"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.livibank.hk"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "pps-edenred",
+      "name": "PPS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590770305/catalog/pps-edenred/icon128x128.jpg",
+      "websiteUrl": "https://www.pps.edenred.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
