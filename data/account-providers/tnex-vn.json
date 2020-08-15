@@ -1,24 +1,27 @@
 {
-  "id": "msb-maritime-bank",
+  "id": "tnex-vn",
   "type": [
     "account"
   ],
   "bankType": [
-    "universal"
+    "challenger"
   ],
-  "name": "Maritime Bank (MSB)",
-  "description": "Vietnam Maritime Commercial Joint Stock Bank (Maritime Bank) was established in 1991. The current charter capital of Maritime Bank is VND 8,000 billion and total assets reach more than VND110,000 billion.",
+  "name": "TNEX",
+  "description": "TNEX, is a digital bank created by Maritime Bank (MSB)",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
-  "aliases": [
-    "Vietnam Maritime Commercial Joint Stock Bank"
-  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597476334/radar/icons/msb-vn.jpg",
-  "websiteUrl": "https://www.msb.com.vn/",
-  "ownership": [],
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597482020/radar/icons/tnex-vn.jpg",
+  "websiteUrl": "https://tnex.com.vn/",
+  "ownership": [
+    {
+      "providerId": "msb-vn",
+      "shareholderName": "Maritime Bank (MSB)",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1597482071/icons/msb-vn.jpg"
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "VN",
   "countries": [
@@ -41,16 +44,13 @@
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
+  "twitter": "TNEX_Vietnam",
   "bloomberg": null,
   "alumni": [],
-  "stack": [
-    {
-      "id": "mambu",
-      "name": "Mambu",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573437321/catalog/mambu/icon128x128.jpg",
-      "websiteUrl": "https://www.mambu.com/"
-    }
+  "keySegments": [
+    "gen-z"
   ],
+  "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
@@ -61,10 +61,6 @@
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
-  "applePay": false,
-  "googlePay": false,
-  "samsungPay": false,
-  "fitbitPay": false,
   "partnerships": [],
   "rewardPartners": [],
   "integrations": [],
