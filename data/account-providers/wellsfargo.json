@@ -1,7 +1,8 @@
 {
   "id": "wellsfargo",
-  "type": [
-    "account"
+  "type": "account",
+  "bankType": [
+    "universal"
   ],
   "name": "Wells Fargo",
   "description": "Wells Fargo: Provider of banking, mortgage, investing, credit card, and personal, small business, and commercial financial services. Learn more.",
@@ -24,10 +25,9 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://developer.wellsfargo.com/",
-  "apiAggregators": [
-    "plaid"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information",
@@ -55,15 +55,43 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
+  "twitter": "WellsFargo",
   "bloomberg": null,
-  "bankingLicense": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "blend",
+      "name": "Blend",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571958130/catalog/blend/icon128x128.jpg",
+      "websiteUrl": "https://blend.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "marketplaceUrl": ""
 }
