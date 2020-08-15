@@ -13,14 +13,13 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590448256/radar/icons/firstdirect.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597491593/radar/icons/firstdirect.png",
   "websiteUrl": "http://firstdirect.com/",
   "ownership": [
     {
       "providerId": "hsbc",
       "shareholderName": "HSBC",
-      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1569632007/catalog/hsbc/icon128x128.svg",
-      "percentage": 100
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1569632007/catalog/hsbc/icon128x128.svg"
     }
   ],
   "stateOwned": false,
@@ -43,6 +42,9 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information",
@@ -172,6 +174,7 @@
     "STET",
     "OBIE"
   ],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "truelayer",
     "klarna",
@@ -181,8 +184,7 @@
     "openwrks",
     "plaid",
     "banked",
-    "friendlyscore",
-    "bridgeapi-io"
+    "friendlyscore"
   ],
   "collections": [
     "cma9"
@@ -193,16 +195,29 @@
   "twitter": "firstdirect",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/First_Direct",
   "bloomberg": null,
+  "alumni": [],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
-  "debitCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
   "creditCards": [],
   "virtualCards": [],
-  "partnerships": [],
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []
