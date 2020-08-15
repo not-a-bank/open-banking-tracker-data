@@ -1,0 +1,133 @@
+{
+  "id": "banknovo",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Bank Novo",
+  "description": "Bank Novo is a powerfully simple business banking platform with no hidden fees built for small business owners. Simplify your business finances with Novo.",
+  "legalName": "Novo Platform Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597510889/radar/icons/banknovo.jpg",
+  "websiteUrl": "https://banknovo.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/novo-startup-banking/id1375554760?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.novo.android&utm_source=marketing-website&utm_campaign=organic&pcampaignid=pcampaignidmkt-other-global-all-co-prtnr-py-partbadge-mar2515-1"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "smb",
+    "business"
+  ],
+  "stack": [
+    {
+      "id": "moov-io",
+      "name": "Moov",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1597507924/icons/moov-io.jpg",
+      "websiteUrl": "https://moov.io/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "transferwise",
+      "name": "TransferWise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
+      "websiteUrl": "https://transferwise.com/"
+    },
+    {
+      "id": "slack",
+      "name": "Slack",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529455910/catalog/slack/icon128x128.png",
+      "websiteUrl": "https://slack.com/"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/be"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "slack",
+      "name": "Slack",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529455910/catalog/slack/icon128x128.png",
+      "websiteUrl": "https://slack.com/"
+    },
+    {
+      "id": "transferwise",
+      "name": "TransferWise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
+      "websiteUrl": "https://transferwise.com/"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/be"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
