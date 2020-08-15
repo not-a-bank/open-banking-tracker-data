@@ -1,8 +1,6 @@
 {
   "id": "usbank",
-  "type": [
-    "account"
-  ],
+  "type": "account",
   "bankType": [
     "universal"
   ],
@@ -27,10 +25,9 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://developer.usbank.com/",
-  "apiAggregators": [
-    "plaid"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts API",
@@ -58,15 +55,67 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
+  "twitter": "usbank",
   "bloomberg": null,
-  "bankingLicense": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "blend",
+      "name": "Blend",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571958130/catalog/blend/icon128x128.jpg",
+      "websiteUrl": "https://blend.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "finicity",
+      "name": "Finicity",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573360773/catalog/finicity/icon128x128.jpg",
+      "websiteUrl": "https://www.finicity.com/"
+    },
+    {
+      "id": "decisionlogic",
+      "name": "DecisionLogic",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573360778/catalog/decisionlogic/icon128x128.jpg",
+      "websiteUrl": "https://www.decisionlogic.com/"
+    },
+    {
+      "id": "emoneyadvisor",
+      "name": "eMoney Advisor",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573360775/catalog/emoneyadvisor/icon128x128.png",
+      "websiteUrl": "https://emoneyadvisor.com/"
+    },
+    {
+      "id": "filethis",
+      "name": "FileThis",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573360771/catalog/filethis/icon128x128.png",
+      "websiteUrl": "https://filethis.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }
