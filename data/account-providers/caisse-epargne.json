@@ -1,0 +1,141 @@
+{
+  "id": "caisse-epargne",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Caisse d'Epargne",
+  "description": "Groupe Caisse d'épargne is a French semi-cooperative[dubious – discuss] banking group, founded in 1818, with around 4700 branches in the country. The group is active in retail and private banking, as well as holding a significant stake in the publicly traded investment bank Natixis.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597611548/radar/icons/caisse-epargne-fr.png",
+  "websiteUrl": "https://caisse-epargne.fr",
+  "ownership": [
+    {
+      "providerId": "groupe-bpce",
+      "shareholderName": "Groupe BPCE",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568662661/catalog/groupe-bpce/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://newsroom-en.groupebpce.fr/news/groupe-bpce-makes-its-psd2-regulatory-apis-available-to-authorized-payment-services-providers-15b0-53927.html"
+  },
+  "developerPortalUrl": "https://www.caisse-epargne.fr/particuliers/epargner/faire-fructifier-son-capital",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.caisse-epargne.fr/particuliers/epargner/faire-fructifier-son-capital",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.api.89c3.com/en/component/bpceportal/products/256/usecases/150",
+      "apiReferenceUrl": "https://www.api.89c3.com/en/api-reference/apis/52a508e9-c62c-4b0c-95a0-3d0abcac2665/methods/21fbc188-e296-4000-a5e7-82f393a4885d",
+      "premium": false,
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://www.api.89c3.com/en/api-reference/apis/52a508e9-c62c-4b0c-95a0-3d0abcac2665?version=1.4.2&format=json"
+        }
+      ],
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.api.89c3.com/en/component/bpceportal/products/215/usecases/243",
+      "apiReferenceUrl": "https://www.api.89c3.com/en/component/bpceportal/products/215/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620/methods/c5adab62-d394-4b43-885b-df472a417719",
+      "premium": false,
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://www.api.89c3.com/en/component/bpceportal/apis/3e4da85a-4b46-4d50-a6ef-ed6dccdfd620?version=1.4.0&format=json"
+        }
+      ],
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.api.89c3.com/en/component/bpceportal/products/170/usecases/168",
+      "apiReferenceUrl": "https://www.api.89c3.com/en/api-reference/apis/52a508e9-c62c-4b0c-95a0-3d0abcac2665/methods/21fbc188-e296-4000-a5e7-82f393a4885d",
+      "premium": false,
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://www.api.89c3.com/en/api-reference/apis/52a508e9-c62c-4b0c-95a0-3d0abcac2665?version=1.4.2&format=json"
+        }
+      ],
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "STET"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "https://twitter.com/Caisse_Epargne",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Groupe_Caisse_d%27%C3%89pargne",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
