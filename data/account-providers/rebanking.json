@@ -1,0 +1,88 @@
+{
+  "id": "rebanking",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Rebanking",
+  "description": "Rebanking la aplicación de servicios y productos financieros de Transatlántica Compañía Financiera, regulada por el BCRA. Queremos reinventar tu relación con las finanzas.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597877836/radar/icons/rebanking.jpg",
+  "websiteUrl": "https://rebanking.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AR",
+  "countries": [
+    "AR"
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/rebanking/id1447524941"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.rebanking&hl=es_419"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "rebanking_arg",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "americanexpress"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "americanexpress",
+      "name": "American Express",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568048320/catalog/americanexpress/icon128x128.jpg",
+      "websiteUrl": "https://americanexpress.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "americanexpress",
+      "name": "American Express",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568048320/catalog/americanexpress/icon128x128.jpg",
+      "websiteUrl": "https://americanexpress.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
