@@ -1,0 +1,86 @@
+{
+  "id": "cash-app",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Cash App",
+  "description": "The #1 finance app in the App Store. Send money for free. Invest in stocks or bitcoin with as little as $1. Get paid early with faster direct deposits. Free debit card with instant discounts.‬",
+  "legalName": "Square, Inc.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597877358/radar/icons/cash-app.png",
+  "websiteUrl": "https://cash.app/",
+  "ownership": [
+    {
+      "providerId": "square",
+      "shareholderName": "Square",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1531306175/catalog/square/icon128x128.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/square-cash/id711923939?pt=302818&mt=8&ct=cash-web-home"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.squareup.cash&utm_source=cash-web-home&utm_medium=web"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "CashApp",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "bitcoin-org",
+      "name": "Bitcoin",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583231620/catalog/bitcoin-org/icon128x128.jpg",
+      "websiteUrl": "https://bitcoin.org/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
