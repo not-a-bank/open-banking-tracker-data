@@ -1,0 +1,84 @@
+{
+  "id": "venmo",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Venmo",
+  "description": "Venmo is a digital wallet that lets you make and share payments with friends. You can easily split the bill, cab fare, or much more. Download the iOS or Android app or sign up on Venmo.com today.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597876925/radar/icons/venmo.png",
+  "websiteUrl": "https://venmo.com/",
+  "ownership": [
+    {
+      "providerId": "paypal",
+      "shareholderName": "PayPal",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1529456398/catalog/paypal/icon128x128.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.venmo.com"
+  },
+  "developerPortalUrl": "https://developer.venmo.com",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.venmo.com",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/venmo/id351727428?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.venmo"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "https://twitter.com/venmo",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
