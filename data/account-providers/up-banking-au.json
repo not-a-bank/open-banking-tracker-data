@@ -21,17 +21,27 @@
   "countries": [
     "AU"
   ],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "CDR",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": "https://developer.up.com.au",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiAggregators": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Accounts represent the underlying store used to track balances and the transactions that have occurred to modify those balances over time.",
       "documentationUrl": "https://developer.up.com.au/#get_accounts",
       "apiReferenceUrl": "https://api.up.com.au/api/v1/accounts",
@@ -41,26 +51,49 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
-      "storeUrl": "https://apps.apple.com/us/app/up-money/id1350717115"
+      "storeUrl": "https://itunes.apple.com/us/app/up-money/id1350717115?mt=8"
     },
     {
       "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=au.com.up.money"
+      "storeUrl": "https://play.google.com/store/apps/details?id=au.com.up.money&hl=en"
     }
   ],
   "financialReports": [],
   "twitter": "up_banking",
-  "github": "up-banking",
   "bloomberg": null,
-  "bankingLicense": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "transferwise",
+      "name": "TransferWise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
+      "websiteUrl": "https://transferwise.com/"
+    }
+  ],
   "platforms": [],
   "awards": []
 }
