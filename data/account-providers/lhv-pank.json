@@ -10,7 +10,9 @@
   "name": "LHV Pank",
   "legalName": "AS LHV Pank",
   "ipoStatus": "public",
+  "stockSymbol": "ETAL:LHV1T",
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/LHV_Pank.jpg",
   "websiteUrl": "https://www.lhv.ee/en/",
   "ownership": [],
@@ -33,6 +35,13 @@
     "sourceUrl": "https://sandboxapi.lhv.eu/psd2/v1"
   },
   "developerPortalUrl": "https://partners.lhv.ee/en/open-banking/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts API",
@@ -74,6 +83,12 @@
   "apiStandards": [
     "BERLIN"
   ],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "enablebanking"
+  ],
+  "collections": [],
+  "developerContactEmail": "openbanking@lhv.ee",
   "webApplication": true,
   "mobileApps": [
     {
@@ -83,7 +98,6 @@
       "operatingSystem": "android"
     }
   ],
-  "stockSymbol": "ETAL:LHV1T",
   "investorRelationsUrl": "https://investor.lhv.ee/en/",
   "financialReports": [
     {
@@ -93,11 +107,25 @@
     }
   ],
   "twitter": "ellhaavee",
-  "crunchbase": null,
+  "bloomberg": null,
   "github": null,
   "fca": "0010X000044E7wfQAC",
+  "alumni": [],
   "articles": [],
-  "apiAggregators": [
-    "enablebanking"
-  ]
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
