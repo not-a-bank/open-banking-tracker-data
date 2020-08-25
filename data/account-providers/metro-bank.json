@@ -36,6 +36,9 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Identity API version 1.0",
@@ -75,6 +78,7 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "truelayer",
     "klarna"
@@ -108,17 +112,33 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfnC7AAJ",
+  "alumni": [],
   "articles": [],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
-  "integrations": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "clearbooks-uk",
+      "name": "Clear Books",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566774056/catalog/clearbooks-uk/icon128x128.jpg",
+      "websiteUrl": "https://www.clearbooks.co.uk/"
+    }
+  ],
   "platforms": [],
   "awards": []
 }
