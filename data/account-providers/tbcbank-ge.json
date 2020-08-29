@@ -1,0 +1,85 @@
+{
+  "id": "tbcbank-ge",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "TBC Bank (თიბისი ბანკი)",
+  "description": "TBC Bank is a Georgian bank headquartered in Tbilisi, Georgia. The name, TBC Bank, traces its root to its original name, Tbilisi Business Centre, dating back to 1992. Currently, TBC is registered as the official name of the bank, not just an abbreviation of the original name.",
+  "legalName": "TBC Bank Georgian: თიბისი ბანკი",
+  "ipoStatus": "public",
+  "stockSymbol": "TBCG",
+  "verified": false,
+  "aliases": [
+    "TBC Bank",
+    "თიბისი ბანკი"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1598734357/radar/icons/tbcbank-ge.jpg",
+  "websiteUrl": "https://www.tbcbank.ge/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GE",
+  "countries": [
+    "GE"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "JSCTBC",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/TBC_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "capital-banking",
+      "name": "Capital Banking Solutions",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598733966/icons/capital-banking.jpg",
+      "websiteUrl": "http://www.capital-banking.com/",
+      "title": "TBC Bank the first digital bank in Uzbekistan, goes live with Capital Banking Solutions",
+      "desription": "Capital Banking Solutions, the global provider of integrated banking software announced today that TBC Bank 1st digital bank in Uzbekistan and the subsidiary",
+      "sourceUrl": "https://www.globalbankingandfinance.com/tbc-bank-the-first-digital-bank-in-uzbekistan-goes-live-with-capital-banking-solutions/",
+      "features": [
+        "core-banking",
+        "wealth-management"
+      ],
+      "sourceDate": "2020-08-29",
+      "addedAt": "2020-08-29T20:47:41.016Z"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
