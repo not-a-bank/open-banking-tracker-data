@@ -1,34 +1,31 @@
 {
-  "id": "dbs-digibank",
+  "id": "webank",
   "type": [
     "account"
   ],
   "bankType": [
     "challenger"
   ],
-  "name": "digibank by DBS",
-  "description": "Live more, bank less with digibank by DBS India awarded as the Safest Bank in Asia. With digibank, you can check account balance, transfer funds, pay your bills, enjoy shopping and much more.",
-  "legalName": "DBS Bank Ltd",
-  "ipoStatus": "public",
+  "name": "WeBank",
+  "description": "WeBank, China's 1st digital bank initiated by Tencent, offers wealth management and financing services through different online platforms. WeBank App offers its users convenient access to wealth management products, Weilidai is the country's 1st online microloan product, and Weichedai is an online auto loan solution through partnerships with various car dealerships. WeBank is devoted to offering underbanked individuals and SMEs with a variety of convenient & high quality financial services. Stay tuned for more info on our upcoming financial products!",
+  "legalName": "WeBank Co., Ltd.",
+  "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
-  "aliases": [
-    "digibank"
-  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1598767032/radar/icons/dbs-digibank.png",
-  "websiteUrl": "https://www.dbs.com/digibank",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1598767436/radar/icons/webank.jpg",
+  "websiteUrl": "https://www.webank.com/",
   "ownership": [
     {
-      "providerId": "dbs",
-      "shareholderName": "DBS Bank",
-      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591545173/icons/dbs.jpg"
+      "providerId": "tencent",
+      "shareholderName": "Tencent",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1559297338/catalog/tencent/icon128x128.png"
     }
   ],
   "stateOwned": false,
-  "countryHQ": "SG",
+  "countryHQ": "CN",
   "countries": [
-    "SG"
+    "CN"
   ],
   "compliance": [],
   "developerPortalUrl": null,
@@ -47,12 +44,9 @@
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
-  "twitter": "dbsbank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/WeBank_(China)",
   "bloomberg": null,
   "alumni": [],
-  "keySegments": [
-    "unbanked"
-  ],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
