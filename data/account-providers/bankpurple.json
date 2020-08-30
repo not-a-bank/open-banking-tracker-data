@@ -8,7 +8,7 @@
   ],
   "name": "Purple",
   "description": "Open a Purple bank account and get paid early. No fees. No minimums. That's banking built for everyone.",
-  "legalName": null,
+  "legalName": "Purple Financial, LLC",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -70,9 +70,9 @@
   ],
   "creditCards": [],
   "virtualCards": [],
-  "applePay": false,
-  "googlePay": false,
-  "samsungPay": false,
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": true,
   "fitbitPay": false,
   "partnerships": [
     {
