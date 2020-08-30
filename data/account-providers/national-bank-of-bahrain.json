@@ -1,0 +1,87 @@
+{
+  "id": "national-bank-of-bahrain",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "National Bank of Bahrain (NBB)",
+  "description": "National Bank of Bahrain was established in 1957 as the first indigenous bank in Bahrain. They are a nationwide network of 25 branches, 61 ATMs and over 4,000 point of sale terminals in addition to their branches in Abu Dhabi and Riyadh.",
+  "legalName": "National Bank of Bahrain",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "NBB",
+    "National Bank of Bahrain"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1598786982/radar/icons/nbbonline.jpg",
+  "websiteUrl": "https://www.nbbonline.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BH",
+  "countries": [
+    "BH"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "tarabutgateway"
+  ],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/nbb-mobile-banking/id791480926?ls=1&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.mbanking.nbb"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "NBBOnline",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/National_Bank_of_Bahrain",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "tarabutgateway",
+      "name": "Tarabut Gateway",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598784357/icons/tarabutgateway.png",
+      "websiteUrl": "https://tarabutgateway.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
