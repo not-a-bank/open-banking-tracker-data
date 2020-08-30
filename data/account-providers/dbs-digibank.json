@@ -1,0 +1,76 @@
+{
+  "id": "dbs-digibank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "digibank by DBS",
+  "description": "Live more, bank less with digibank by DBS India awarded as the Safest Bank in Asia. With digibank, you can check account balance, transfer funds, pay your bills, enjoy shopping and much more.",
+  "legalName": "DBS Bank Ltd",
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "digibank"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1598766849/radar/icons/dbs-digibank.jpg",
+  "websiteUrl": "https://www.dbs.com/digibank",
+  "ownership": [
+    {
+      "providerId": "dbs",
+      "shareholderName": "DBS Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591545173/icons/dbs.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "SG",
+  "countries": [
+    "SG"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "dbsbank",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "unbanked"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
