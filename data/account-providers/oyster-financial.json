@@ -1,0 +1,86 @@
+{
+  "id": "oyster-financial",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Oyster Financial",
+  "description": "Oyster is a Neo Bank serving the needs of Freelancers and Small to Medium Business.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1599336969/radar/icons/oyster-io.png",
+  "websiteUrl": "https://oyster.io/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "MX",
+  "countries": [
+    "MX"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/oyster/id1462624706"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.oysterfinancial"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "freelancer",
+    "sme"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://amo.oyster.io/appstorehp"
+}
