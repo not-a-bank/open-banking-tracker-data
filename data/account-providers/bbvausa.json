@@ -57,7 +57,20 @@
   "googlePay": false,
   "samsungPay": false,
   "fitbitPay": false,
-  "partnerships": [],
+  "partnerships": [
+    {
+      "id": "google",
+      "name": "Google",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936497/catalog/google/icon128x128.png",
+      "websiteUrl": "https://www.google.com",
+      "title": "BBVA USA announces collaboration with Google to offer digital bank accounts | BBVA",
+      "desription": "BBVA USA today announced that it is collaborating with Google to offer consumers a digital bank account through Google Pay, continuing its focus on innovation in the financial industry.",
+      "sourceUrl": "https://www.bbva.com/en/bbva-usa-announces-collaboration-with-google-to-offer-digital-bank-accounts/",
+      "sourceDate": "2020-08-03T14:57:21+02:00",
+      "features": [],
+      "addedAt": "2020-09-05T20:28:22.056Z"
+    }
+  ],
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
