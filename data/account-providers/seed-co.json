@@ -1,0 +1,94 @@
+{
+  "id": "seed-co",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Seed",
+  "description": "Seed - Mobile small business banking",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "acquired",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1599336519/radar/icons/seed-co.jpg",
+  "websiteUrl": "https://seed.co/",
+  "ownership": [
+    {
+      "providerId": "crossriver",
+      "shareholderName": "Cross River",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1581062133/catalog/crossriver/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/seed-small-business-banking/id1055439210?mt=8"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "seedbiz",
+  "bloomberg": null,
+  "github": "https://github.com/seedco",
+  "alumni": [],
+  "keySegments": [
+    "sme"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": "crossriver",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "crossriver",
+      "name": "Cross River",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1581062133/catalog/crossriver/icon128x128.jpg",
+      "websiteUrl": "https://www.crossriver.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
