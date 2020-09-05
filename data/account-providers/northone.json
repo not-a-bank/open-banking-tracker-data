@@ -1,0 +1,151 @@
+{
+  "id": "northone",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "NorthOne",
+  "description": "NorthOne is a bank account that helps small businesses save time and money. We empower you to take control of your finances.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1584473328/catalog/northone/icon128x128.jpg",
+  "websiteUrl": "https://northone.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/free-invoice/id1368542810?ls=1&mt=8"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "NorthOneBanking",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "sme"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": [
+    "radiusbank"
+  ],
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "cj",
+      "name": "CJ Affiliate",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571415415/catalog/cj/icon128x128.png",
+      "websiteUrl": "https://www.cj.com/"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "radiusbank",
+      "name": "Radius Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591775583/icons/radiusbank.jpg",
+      "websiteUrl": "https://radiusbank.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "expensify",
+      "name": "Expensify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055887/catalog/expensify/icon128x128.png",
+      "websiteUrl": "https://www.expensify.com/"
+    },
+    {
+      "id": "freshbooks",
+      "name": "freshbooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055909/catalog/freshbooks/icon128x128.png",
+      "websiteUrl": "https://www.freshbooks.com/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936484/catalog/amazon/icon128x128.png",
+      "websiteUrl": "https://amazon.com"
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456398/catalog/paypal/icon128x128.png",
+      "websiteUrl": "https://www.paypal.com/"
+    },
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456131/catalog/shopify/icon128x128.png",
+      "websiteUrl": "https://www.shopify.com/"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/be"
+    },
+    {
+      "id": "wave",
+      "name": "Wave",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531306468/catalog/wave/icon128x128.png",
+      "websiteUrl": "https://www.waveapps.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.northone.com/product/integrations"
+}
