@@ -1,0 +1,156 @@
+{
+  "id": "bulgarian-development-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Bulgarian Development Bank",
+  "description": "Bulgarian Development Bank is a leading Bulgarian development and commercial bank with headquarters in Sofia. It is one of the largest development institutions in Southeast Europe that provides financing and professional advising for the purposes of development.",
+  "legalName": "BULGARIAN DEVELOPMENT BANK",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1599478773/icons/bulgarian-development-bank.png",
+  "websiteUrl": "https://bbr.bg/en",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BG",
+  "countries": [
+    "BG"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://developer.bbr.bg/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.bbr.bg/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.bbr.bg/bbr-sb/psd2/product/46",
+      "apiReferenceUrl": "https://developer.bbr.bg/bbr-sb/psd2/product/46/api/6",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "blob:https://developer.bbr.bg/6bd1afe4-20d1-4d62-b6a9-3c9bec18925b"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.bbr.bg/bbr-sb/psd2/product/48",
+      "apiReferenceUrl": "https://developer.bbr.bg/bbr-sb/psd2/product/48/api/12",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "blob:https://developer.bbr.bg/01f9e99b-a4a2-43b8-a528-4e848a650388"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.bbr.bg/bbr-sb/psd2/product/44",
+      "apiReferenceUrl": "https://developer.bbr.bg/bbr-sb/psd2/product/44/api/8",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "blob:https://developer.bbr.bg/3d189259-8526-476e-a270-bbab80088f2d"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "documentationUrl": "https://developer.bbr.bg/bbr-sb/psd2/product/43",
+      "apiReferenceUrl": "https://developer.bbr.bg/bbr-sb/psd2/product/43/api/10",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "blob:https://developer.bbr.bg/940d03f7-13a6-4c52-bb2b-4d94b47a22c0"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bulgarian_Development_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "ibm-api-connect",
+      "name": "IBM API Connect",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568494917/catalog/ibm-api-connect/icon128x128.jpg",
+      "websiteUrl": "https://www.ibm.com/cloud/api-connect"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
