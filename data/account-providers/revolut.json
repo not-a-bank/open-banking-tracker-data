@@ -75,6 +75,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://revolutdev.github.io/business-api/",
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [
     {
@@ -153,9 +154,17 @@
       "date": "2018-05-17"
     }
   ],
-  "stack": [],
+  "stack": [
+    {
+      "id": "lokalise-co",
+      "name": "Lokalise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567601597/catalog/lokalise-co/icon128x128.png",
+      "websiteUrl": "https://lokalise.co"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "customers": {
     "consumer": [
