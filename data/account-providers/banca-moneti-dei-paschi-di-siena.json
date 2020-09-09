@@ -12,12 +12,13 @@
   "stockSymbol": "BIT:BMPS",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568413417/radar/icons/banca-moneti-dei-paschi-di-siena.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Banca_MPS.jpg",
   "websiteUrl": "https://www.mps.it/",
   "ownership": [
     {
       "shareholderName": "Italian State",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552482524/radar/icons/Minsitero_Economia_e_Finanze_logo.png",
+      "sourceUrl": "https://www.gruppomps.it/en/corporate-governance/shareholding-structure.html",
       "providerId": "Italian State",
       "percentage": 68.2
     }
@@ -39,12 +40,12 @@
   },
   "developerPortalUrl": "https://www.mps.it/PSD2/open-banking.html",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://www.mps.it/PSD2/open-banking.html",
-  "apiAggregators": [
-    "klarna"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts",
@@ -96,6 +97,11 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "klarna"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -120,8 +126,29 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfFqBAAV",
+  "alumni": [],
   "articles": [],
   "stack": [
-    "cbiglobe"
-  ]
+    {
+      "id": "cbiglobe",
+      "name": "CBI Globe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1595327389/icons/cbiglobe.jpg",
+      "websiteUrl": "https://www.cbiglobe.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
