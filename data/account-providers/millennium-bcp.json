@@ -1,32 +1,40 @@
 {
   "id": "millennium-bcp",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Millennium BCP",
   "legalName": "Banco Comercial Português (BCP), S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "ELI:BCP",
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Millennium_BCP.png",
   "websiteUrl": "https://ind.millenniumbcp.pt/en/particulares/Pages/Welcome.aspx",
   "ownership": [
     {
       "shareholderName": "Fosun Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552558934/radar/icons/Fosun.jpg",
+      "sourceUrl": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/EstruturaAcionista.aspx",
       "providerId": null,
-      "percentage": 27.1,
-      "sourceUrl": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/EstruturaAcionista.aspx"
+      "percentage": 27.1
     },
     {
       "shareholderName": "Sonangol Group",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552558934/radar/icons/Sonangol_Group.jpg",
+      "sourceUrl": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/EstruturaAcionista.aspx",
       "providerId": null,
-      "percentage": 19.5,
-      "sourceUrl": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/EstruturaAcionista.aspx"
+      "percentage": 19.5
     }
   ],
   "stateOwned": true,
   "countryHQ": "PT",
-  "countries": ["PT"],
+  "countries": [
+    "PT"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -34,15 +42,272 @@
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://developer.sibsapimarket.com/"
   },
-  "developerPortalUrl": null,
-  "apiProducts": [],
+  "developerPortalUrl": "https://developer.sibsapimarket.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3327",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3123",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLWFjY291bnRzLXN0dWItYXBpOjMuMS4w"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3327",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3326",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLWNvbnNlbnRzLXN0dWItYXBpOjMuMS4x"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3327",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3125",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLWZ1bmRzLWNvbmZpcm1hdGlvbi1zdHViLWFwaTozLjEuMA%2C%2C"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3332",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3127",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLXBheW1lbnRzLXN0dWItYXBpOjMuMS4w"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "TSU Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3332",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3331",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLXRzdS1wYXltZW50cy1zdHViLWFwaTozLjEuMQ%2C%2C"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Bulk Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3332",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3328",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLXBlcmlvZGljLXBheW1lbnRzLXN0dWItYXBpOjMuMS4x"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Bulk TSU Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "The Bulk TSU Payment Initiation API enables you to initiate a bulk TSU (Taxa Social Única) payment using the payment product made available by the Bank of the Payment Service User in his internet Banking. With this API it is possible to integrate this type of bulk TSU payments in an online store as well as to provide personal finance services to both private and corporate clients. The API is designed on a REST model using JSON structures.",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3332",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3330",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLWJ1bGstdHN1LXBheW1lbnRzLXN0dWItYXBpOjMuMS4x"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Periodic Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3332",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3329",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLWJ1bGstcGF5bWVudHMtYXBpOjMuMS4x"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Periodic Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3332",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3329",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLWJ1bGstcGF5bWVudHMtYXBpOjMuMS4x"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Multibanco Payments",
+      "type": "multibanco",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3338",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3335",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLW11bHRpYmFuY28tcGF5bWVudHMtc3R1Yi1hcGk6My4xLjE%2C"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Multibanco Payments Catalogue",
+      "type": "multibanco",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3338",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3134",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLW11bHRpYmFuY28tcGF5bWVudHMtY2F0YWxvZ3VlLXN0dWItYXBpOjMuMS4w"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Periodic Multibanco Payments",
+      "type": "multibanco",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3338",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3336",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLXBlcmlvZGljLW11bHRpYmFuY28tcGF5bWVudHMtc3R1Yi1hcGk6My4xLjE%2C"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Bulk Multibanco Payments",
+      "type": "multibanco",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3338",
+      "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3337",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.sibsapimarket.com/sandbox/ibm_apim/swaggerjson/c2licy1wc2QyLWJ1bGstbXVsdGliYW5jby1wYXltZW50cy1zdHViLWFwaTozLjEuMQ%2C%2C"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "budget-insight"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -52,7 +317,6 @@
       "operatingSystem": "android"
     }
   ],
-  "stockSymbol": "ELI:BCP",
   "investorRelationsUrl": "https://ind.millenniumbcp.pt/en/Institucional/investidores/Pages/RelInvestidores.aspx",
   "financialReports": [
     {
@@ -63,7 +327,32 @@
   ],
   "twitter": "Millennium_Comm",
   "crunchbase": "millennium-bank-sa",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfOEfAAN",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [
+    {
+      "id": "sibsapimarket",
+      "name": "SIBS API Market",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591439762/icons/sibsapimarket.png",
+      "websiteUrl": "https://www.sibsapimarket.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
