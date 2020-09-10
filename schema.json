@@ -708,23 +708,12 @@
                   "branchLocator",
                   "productFinder",
                   "invoiceFinancing",
+                  "availability",
                   "cards",
                   "consent",
                   "auth",
                   "fx",
                   "other"
-                ]
-              },
-              "specification": {
-                "enum": [
-                  "OBIE-AISP",
-                  "OBIE-CBPII",
-                  "OBIE-PISP",
-                  "STET-AISP",
-                  "STET-CBPII",
-                  "STET-PISP",
-                  "BERLIN1.1",
-                  "BERLIN1.3"
                 ]
               },
               "categories": {
@@ -740,9 +729,30 @@
                     "products",
                     "fx",
                     "auth",
-                    "openData"
+                    "openData",
+                    "availability"
                   ]
                 }
+              },
+              "regulation": {
+                "type": "string",
+                "enum": [
+                  "CDR",
+                  "OBUK",
+                  "PSD2"
+                ]
+              },
+              "specification": {
+                "enum": [
+                  "OBIE-AISP",
+                  "OBIE-CBPII",
+                  "OBIE-PISP",
+                  "STET-AISP",
+                  "STET-CBPII",
+                  "STET-PISP",
+                  "BERLIN1.1",
+                  "BERLIN1.3"
+                ]
               },
               "description": {
                 "anyOf": [
