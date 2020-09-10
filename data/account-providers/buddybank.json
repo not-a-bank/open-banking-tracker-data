@@ -1,0 +1,158 @@
+{
+  "id": "buddybank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "buddybank",
+  "description": "Buddybank launched in 2018 as a fully conversational bank, engaging with its customers through an iPhone app-based bank, providing a 24/7 concierge-service to assist with customer requests. Buddybank, a subsidiary of UniCredit.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1599720506/radar/icons/buddybank.jpg",
+  "websiteUrl": "https://www.buddybank.com/",
+  "ownership": [
+    {
+      "providerId": "unicredit",
+      "shareholderName": "Unicredit",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1595437720/icons/unicredit.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.unicredit.eu/"
+  },
+  "developerPortalUrl": "https://developer.unicredit.eu/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=buyertos&ldr=it&ldl=und",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "PIS Consents",
+      "type": "consent",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "AIS Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.unicredit.eu/apis-catalog",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "apiAccess": "verifiedTpp",
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=eu.unicredit.internet.buddybank&hl=it&pcampaignid=pcampaignidmkt-other-global-all-co-prtnr-py-partbadge-mar2515-1"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "mybuddybank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
