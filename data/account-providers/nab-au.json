@@ -17,7 +17,7 @@
     "NAB"
   ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597792307/radar/icons/nab-au.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597669485/icons/nab-au.jpg",
   "websiteUrl": "https://www.nab.com.au/",
   "ownership": [],
   "stateOwned": false,
@@ -44,7 +44,163 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.nab.com.au/docs/open-banking#tag/Account-Service",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.nab.com.au/static/oas/open-banking/account-service.yaml"
+        }
+      ],
+      "regulation": "CDR",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Account Balances",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.nab.com.au/docs/open-banking#tag/Account-Balances",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.nab.com.au/static/oas/open-banking/account-balances.yaml"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Transactions",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.nab.com.au/docs/open-banking#tag/Transactions",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.nab.com.au/static/oas/open-banking/transactions.yaml"
+        }
+      ],
+      "regulation": "CDR",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Customer",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.nab.com.au/docs/open-banking#tag/Customer",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.nab.com.au/static/oas/open-banking/customer.yaml"
+        }
+      ],
+      "regulation": "CDR",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Discovery",
+      "type": "availability",
+      "description": "Retrieve scheduled outages and health check status for Open Banking APIs.",
+      "categories": [
+        "availability"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.nab.com.au/docs/open-banking#tag/Discovery",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.nab.com.au/static/oas/open-banking/discovery.yaml"
+        }
+      ],
+      "regulation": "CDR",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Products",
+      "type": "productFinder",
+      "description": "Retrieve a list of products, as well as detailed product information on a single product, which are part of the Open Banking scheme, and are currently openly offered to the market.",
+      "categories": [
+        "products"
+      ],
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.nab.com.au/static/oas/open-banking/products.yaml",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developer.nab.com.au/static/oas/open-banking/products.yaml"
+        }
+      ],
+      "regulation": "CDR",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Locations",
+      "type": "branchLocator",
+      "categories": [
+        "locators"
+      ],
+      "description": "Get the location of ATMs and branches.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.nab.com.au/docs#locations",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "FX",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Provides a list of all known buy and sell rates for available currency pairs.",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.nab.com.au/docs#fx",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Get List of Accounts and Get Selected Account Balance retrieve account information for a specific NAB identification number (nin). To gain access to this information, you’ll need the owner of that nin to give you authorization to view their account details. ",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.nab.com.au/docs#accounts",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [],
@@ -73,7 +229,20 @@
   "fitbitPay": false,
   "partnerships": [],
   "rewardPartners": [],
-  "integrations": [],
+  "integrations": [
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "realestate-au",
+      "name": "REA (realestate.com.au)",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1551227411/catalog/realestate-au/icon128x128.jpg",
+      "websiteUrl": "https://www.realestate.com.au/buy"
+    }
+  ],
   "platforms": [],
   "awards": []
 }
