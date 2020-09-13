@@ -1,0 +1,87 @@
+{
+  "id": "ilabank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "ila Bank",
+  "description": " ila Bank is a digital, mobile only banking entity in Bahrain powered by Bank ABC, MENA's leading international bank.",
+  "legalName": "ila Bank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600016311/icons/ilabank.jpg",
+  "websiteUrl": "https://www.ilabank.com/",
+  "ownership": [
+    {
+      "providerId": "bank-abc",
+      "shareholderName": "Bank ABC (Arab Banking Corporation)",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1600016317/icons/bank-abc.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BH",
+  "countries": [
+    "BH"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.bank-abc.com"
+  },
+  "developerPortalUrl": "https://developer.bank-abc.com",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.bank-abc.com/apis-product",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/bh/app/ila-bank/id1480238512"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bankabc.ilabank"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "ilaBankBHR",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "islamic"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
