@@ -7,8 +7,11 @@
   "ipoStatus": "private",
   "stockSymbol": "NYSE:APX",
   "verified": false,
+  "aliases": [
+    "Amex"
+  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1567984796/radar/icons/americanexpress.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568048320/catalog/americanexpress/icon128x128.jpg",
   "websiteUrl": "https://americanexpress.com",
   "ownership": [],
   "stateOwned": false,
@@ -63,6 +66,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.americanexpress.com/documentation",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information",
@@ -78,6 +84,7 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "budget-insight",
     "tink",
@@ -101,15 +108,38 @@
   "financialReports": [],
   "twitter": "https://twitter.com/askamex",
   "bloomberg": null,
+  "alumni": [],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
-  "partnerships": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "yapily",
+      "name": "Yapily",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574471864/catalog/yapily/icon128x128.jpg",
+      "websiteUrl": "https://www.yapily.com/",
+      "title": "Yapily announces agreement with American Express to enable open banking payments across Europe",
+      "desription": "Leading open banking infrastructure provider Yapily has announced an agreement with American Express to assist in delivering its Pay with Bank Transfer payment initiation service across Europe. The agreement will enable American Express to reach new markets with its open banking payment product, increasing the benefits, support, and innovation offered to its merchant customers. Pay with Bank Transfer will use Yapily’s industry leading open API to gain bank coverage across selected European markets over the coming months.",
+      "sourceUrl": "https://www.yapily.com/blog/yapily-announces-agreement-with-american-express-to-enable-open-banking/",
+      "features": [
+        "open-banking-payments"
+      ],
+      "addedAt": "2020-09-13"
+    }
+  ],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []
