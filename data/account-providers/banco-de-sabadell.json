@@ -42,6 +42,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell",
   "apiAggregators": [
+    "bankingsdk",
     "klarna",
     "bridgeapi-io",
     "ibanity"

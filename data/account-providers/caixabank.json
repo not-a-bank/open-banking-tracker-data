@@ -46,6 +46,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://apistore.caixabank.com/",
   "apiAggregators": [
+    "bankingsdk",
     "klarna",
     "bridgeapi-io",
     "ibanity"
