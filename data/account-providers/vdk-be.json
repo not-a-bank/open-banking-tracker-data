@@ -82,6 +82,7 @@
     }
   ],
   "apiAggregators": [
+    "bankingsdk",
     "ibanity"
   ],
   "apiStandards": ["BERLIN"],
