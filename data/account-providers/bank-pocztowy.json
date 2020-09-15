@@ -1,0 +1,98 @@
+{
+  "id": "bank-pocztowy",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Bank Pocztowy",
+  "description": "Bank Pocztowy SA is a commercial bank in Poland, offering financial services for individual customers with a complementary offering for micro and small enterprises using its network and facilities of the Polish Post. In 1990 was the bank founded in Bydgoszcz.",
+  "legalName": "Bank Pocztowy",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600129044/radar/icons/bank-pocztowy.jpg",
+  "websiteUrl": "https://www.pocztowy.pl/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "PL",
+  "countries": [
+    "PL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.pocztowy.pl",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.pocztowy.pl",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.pocztowy.pl/#default/home",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.pocztowy.pl/#default/home",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "POLISHAPI"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "PocztowyBank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bank_Pocztowy",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
