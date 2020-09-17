@@ -1,39 +1,58 @@
 {
   "id": "kuveyt-turk-participation-bank",
-  "type": ["account"],
-  "bankType": ["corporate","retail"],
-  "name": "Kuveyt Turk Participation Bank",
-  "aliases": [
-    "Kuveyt Türk Participation Bank"
+  "type": [
+    "account"
   ],
+  "bankType": [
+    "corporate",
+    "retail"
+  ],
+  "name": "Kuveyt Türk Bank",
   "legalName": "Kuveyt Turk Participation Bank",
   "ipoStatus": "public",
+  "stockSymbol": null,
   "verified": false,
-  "icon": "https://www.kuveytturk.com.tr/_assets/files/logo/kt_yesil_logo_slogan.jpg",
+  "aliases": [
+    "Kuveyt Türk Participation Bank",
+    "Kuveyt Türk Katılım Bankası"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600384757/radar/icons/kuveyt-turk-participation-bank.png",
   "websiteUrl": "https://www.kuveytturk.com.tr/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Kuwait Finance House",
-      "shareholderIconUrl": "https://www.kuveytturk.com.tr/_assets/files/logo/kt_yesil_logo_slogan.jpg",
+      "shareholderIconUrl": "https://media-exp1.licdn.com/dms/image/C4E0BAQEbOOCEaJRCtw/company-logo_200_200/0?e=2159024400&v=beta&t=5w9aaYpdMJV5BDed8X8jJR5Z7UTTI4RGBn7PrbZQu2c",
+      "sourceUrl": "https://www.kuveytturk.com.tr/en/investor-relations",
       "providerId": "kuveyt-turk-participation-bank",
-      "percentage": 100.0,
-      "sourceUrl": "https://www.kuveytturk.com.tr/en/investor-relations"
+      "percentage": 100
     }
   ],
   "stateOwned": true,
   "countryHQ": "TR",
-  "countries": ["TR"],
+  "countries": [
+    "TR"
+  ],
   "compliance": [],
   "sandbox": {
     "status": "available",
     "sourceUrl": null
   },
   "developerPortalUrl": "https://developer.kuveytturk.com.tr/#/",
-  "apiProducts": [    
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
     {
       "label": "Account List",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Retrievs all accounts based on account number (sent via token), including current accounts, deposit accounts, investment accounts and joint accounts. There are filtering parameters like, account suffix number, show only open account, show only accounts with available balance, show only accounts with no available balance, show only current accounts and show only joint accounts with multi-signature.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Account%20List",
       "apiReferenceUrl": null,
@@ -43,7 +62,9 @@
     {
       "label": "Account Transactions",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Gets a list that contains all transactions for current accounts that are performed by the customer. If filtering parameters are not entered, last 7 days' history will be retrieved. If date range is longer than a year, last 7 days' history will be retrieved.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Account%20Transactions",
       "apiReferenceUrl": null,
@@ -53,7 +74,9 @@
     {
       "label": "Receipt",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Returns the receipt values of the transaction that is given by the businesskey. The API response is divided into four parts in order to help visualize the receipt: 'leftHeader, rightHeader, body, footer'. The entire data in these properties is also available in the slipList property.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Receipt",
       "apiReferenceUrl": null,
@@ -63,7 +86,9 @@
     {
       "label": "Test Customer List",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "A service for querying the test customer info. In test environment, the APIs only work with the customers fetched from this service. You can use '12121212' as a customer password and random 6 characters as an OTP.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Test%20Customer%20List",
       "apiReferenceUrl": null,
@@ -73,7 +98,9 @@
     {
       "label": "Senin Bankan Account Application Documents",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Retrives all documents for Senin Bankan account application.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Senin%20Bankan%20Account%20Application%20Documents",
       "apiReferenceUrl": null,
@@ -83,7 +110,9 @@
     {
       "label": "Senin Bankan Account Application",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Makes application for Senin Bankan account. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Senin%20Bankan%20Account%20Application",
       "apiReferenceUrl": null,
@@ -93,7 +122,9 @@
     {
       "label": "Senin Bankan Account Application SMS Validation",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Completes application for Senin Bankan account. Returns created person id as result. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Senin%20Bankan%20Account%20Application%20SMS%20Validation",
       "apiReferenceUrl": null,
@@ -103,7 +134,9 @@
     {
       "label": "Senin Bankan Account Application Status Query",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Gets current status information for Senin Bankan account applications. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Accounts/Senin%20Bankan%20Account%20Application%20Status%20Query",
       "apiReferenceUrl": null,
@@ -113,7 +146,9 @@
     {
       "label": "Card Detail",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "To get the customer''s card list. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Card%20Detail",
       "apiReferenceUrl": null,
@@ -123,7 +158,9 @@
     {
       "label": "Card Statements",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "To get statement list of the card. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Card%20Statements",
       "apiReferenceUrl": null,
@@ -133,7 +170,9 @@
     {
       "label": "Card Future Statement",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "To get information about card''s waiting installment.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Card%20Future%20Statement",
       "apiReferenceUrl": null,
@@ -143,7 +182,9 @@
     {
       "label": "Card Last Statement",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "To get last satement information of the card. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Card%20Last%20Statement",
       "apiReferenceUrl": null,
@@ -153,7 +194,9 @@
     {
       "label": "Card Installment Count",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "To get installment list about card. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Card%20Installement%20Count",
       "apiReferenceUrl": null,
@@ -163,7 +206,9 @@
     {
       "label": "Card Installment Count Update",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "Credit card to update Installment count. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Card%20Installment%20Count%20Update",
       "apiReferenceUrl": null,
@@ -173,7 +218,9 @@
     {
       "label": "Pending Provisions",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "To get information about card’s pending provisions. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Pending%20Provisions",
       "apiReferenceUrl": null,
@@ -183,7 +230,9 @@
     {
       "label": "Virtual Card List",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "Returns the list of virtual cards.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Virtual%20Card%20List",
       "apiReferenceUrl": null,
@@ -193,7 +242,9 @@
     {
       "label": "Virtual Card Info",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "To get virtual card information. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Virtual%20Card%20Info",
       "apiReferenceUrl": null,
@@ -203,7 +254,9 @@
     {
       "label": "Create Virtual Card",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "Creates a new virtual card for the given card. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Create%20Virtual%20Card",
       "apiReferenceUrl": null,
@@ -213,7 +266,9 @@
     {
       "label": "Close Virtual Card",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "To close virtual card. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Close%20Virtual%20Card",
       "apiReferenceUrl": null,
@@ -223,7 +278,9 @@
     {
       "label": "Virtual Card Limit Update",
       "type": "cards",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "description": "To update the virtual card limit. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Credit%20Cards%20(Beta)/Virtual%20Card%20Limit%20Update",
       "apiReferenceUrl": null,
@@ -233,7 +290,9 @@
     {
       "label": "Loan/Finance List",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": "Returns list of loans belonging to the given account number.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Loans%2FFinancing/Loan%2FFinance%20List",
       "apiReferenceUrl": null,
@@ -243,7 +302,9 @@
     {
       "label": "Loan/Finance Info",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": "Returns a loan belong to given account and project number.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Loans%2FFinancing/Loan%2FFinance%20Info",
       "apiReferenceUrl": null,
@@ -253,7 +314,9 @@
     {
       "label": "Loan/Finance Installments",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": "Returns list of installments belonging to the given project (each loan is considered as a project) number.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Loans%2FFinancing/Loan%2FFinance%20Installments",
       "apiReferenceUrl": null,
@@ -263,7 +326,9 @@
     {
       "label": "Collection List",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": "Returns the list of Collection records associated with the account number provided in the parameters. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Loans%2FFinancing/Collection%20List",
       "apiReferenceUrl": null,
@@ -273,7 +338,9 @@
     {
       "label": "Collect Installment",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": "Collects the installment from the customer's account provided in the parameters. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Loans%2FFinancing/Collect%20Installment",
       "apiReferenceUrl": null,
@@ -283,7 +350,9 @@
     {
       "label": "Credit Limit Request",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": "You can request customer''s (sent via token) credit limits in the bank. You can learn top limits, product limits and product collateral limits.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Loans%2FFinancing/Credit%20Limit%20Request",
       "apiReferenceUrl": null,
@@ -293,7 +362,9 @@
     {
       "label": "Invoice Company List",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Retrieves all companies where bill payment can be made. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Payments%20(Beta)/Invoice%20Company%20List",
       "apiReferenceUrl": null,
@@ -303,7 +374,9 @@
     {
       "label": "Money Transfer Execute",
       "type": "paymentRequest",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "If the SMS OTP code is true, the transfer will proceed. The SMS OTP code needs to be validated only on the production environment. In the test environment, you can validate the SMS OTP code with a random string.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Money%20Transfers/Money%20Transfer%20Execute",
       "apiReferenceUrl": null,
@@ -313,7 +386,9 @@
     {
       "label": "Money Transfer to IBAN",
       "type": "paymentRequest",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Sends money from an authorized user’s current or stock account (sent via token) to an IBAN. In order to proceed the transfer, Kuveyt Turk sends a one-time-password via SMS to the customer and gives a transaction id to the developer, the customer enters the code to the third party app, and the third party app sends the id and the SMS code to Kuveyt Turk via “Execute Money Transfer” API. If the id and the sms codes match, then Kuveyt Turk authenticates the transacion. The parameters sent include amount, comment, receiver’s IBAN, receiver’s name, sending account’s suffix and payment type id.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Money%20Transfers/Money%20Transfer%20to%20IBAN",
       "apiReferenceUrl": null,
@@ -323,7 +398,9 @@
     {
       "label": "Money Transfer to Account",
       "type": "paymentRequest",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Sends money from an authorized user’s current or deposit account (sent via token) to any account within Turkish Banking System. In order to proceed the transfer, Kuveyt Turk sends a one-time-password via SMS to the customer and gives a transaction id to the developer, the customer enters the code to the third party app, and the third party app sends the id and the SMS code to Kuveyt Turk via “Execute Money Transfer” API. If the id and the sms codes match, then Kuveyt Turk authenticates the transaction. The parameters sent include, amount, comment, payment type id, receives’s account number, receiver’s bank id, receiver’ branch id, receiver’s name and sender’s account suffix.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Money%20Transfers/Money%20Transfer%20to%20Account",
       "apiReferenceUrl": null,
@@ -333,7 +410,9 @@
     {
       "label": "Money Transfer to Name",
       "type": "paymentRequest",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Sends money from an authorized user’s current or deposit account (sent via token) to any customer’s name within Turkish Banking System. In order to proceed the transfer, Kuveyt Turk sends a one-time-password via SMS to the customer and gives a transaction id to the developer, the customer enters the code to the third party app, and the third party app sends the id and the SMS code to Kuveyt Turk via “Execute Money Transfer” API. If the id and the sms codes match, then Kuveyt Turk authenticates the transaction. The parameters sent include, amount, comment, payment type id, receives’s bank id, receiver’s bank id, receiver’ branch id, sender’s account suffix and receiver’s name.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Money%20Transfers/Money%20Transfer%20to%20Name",
       "apiReferenceUrl": null,
@@ -343,7 +422,9 @@
     {
       "label": "Money Transfer to GSM",
       "type": "paymentRequest",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Sends money from an authorized user’s current or deposit account (sent via token) to any phone number. In order to proceed the transfer, Kuveyt Turk sends a one-time-password via SMS to the customer and gives a transaction id to the developer, the customer enters the code to the third party app, and the third party app sends the id and the SMS code to Kuveyt Turk via “Execute Money Transfer” API. If the id and the sms codes match, then Kuveyt Turk authenticates the transaction. The parameters sent include, amount, comment, sender’s branch id, receiver’s phone number and sender’s account suffix.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Money%20Transfers/Money%20Transfer%20to%20GSM",
       "apiReferenceUrl": null,
@@ -353,7 +434,9 @@
     {
       "label": "Money Transfer to GSM Transactions",
       "type": "paymentRequest",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Shows a list of all mobile money transfers based on given account number and account suffix. The transaction can be optionally filtered with parameters, begin date, end date, minimum ammont, maximum amount and the status of the transaction",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Money%20Transfers/Money%20Transfer%20to%20GSM%20Transactions",
       "apiReferenceUrl": null,
@@ -363,7 +446,9 @@
     {
       "label": "Money Transfer to GSM Canceling",
       "type": "paymentRequest",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Cancels the mobile money transfer based on money transfer id.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Money%20Transfers/Money%20Transfer%20to%20GSM%20Canceling",
       "apiReferenceUrl": null,
@@ -373,7 +458,9 @@
     {
       "label": "Cash Withdrawal from ATM via QR Code",
       "type": "paymentRequest",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Enables cash withdrawal from ATM via QR code. Assuming that a bank customer has an Android or iOS smartphone with a built-in camera, the customer approaches an ATM and launches the QR code reader application. The customer presses to 5 on keyboard of the ATM, then the application reads the QR code and sends it to web the service. If the code is correct, the customer withdraws money. In order to proceed the transfer, Kuveyt Turk sends a one-time-password via SMS to the customer and gives a transaction id to the developer, the customer enters the code to the third party app, and the third party app sends the id and the SMS code to Kuveyt Turk via “Execute Money Transfer” API. If the id and the sms codes match, then Kuveyt Turk authenticates the transacion.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Money%20Transfers/Cash%20Withdrawal%20from%20ATM%20via%20QR%20Code",
       "apiReferenceUrl": null,
@@ -383,7 +470,9 @@
     {
       "label": "IBAN Validation Utility",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "This API endpoint is a utility endpoint that performs validity control for a given IBAN (i.e. Internation Bank Identifier Number). The validity control is performed format-wise only. This implies that the existence/reality of the IBAN or its association with any Bank is not taken into concern during the validity control.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/IBAN%20Validation%20Utility",
       "apiReferenceUrl": null,
@@ -393,7 +482,9 @@
     {
       "label": "Loan/Finance Calculation",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": "Calculates the total loan cost and installment amounts, based on the parameters sent and returns detailed payment plans.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/Loan%2FFinance%20Calculation",
       "apiReferenceUrl": null,
@@ -403,7 +494,9 @@
     {
       "label": "Loan/Finance Calculation Parameter",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": "Returns the list of loan product types. This API is used to determine loan calculation parameters.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/Loan%2FFinance%20Calculation%20Parameter",
       "apiReferenceUrl": null,
@@ -413,7 +506,9 @@
     {
       "label": "FX Currency List",
       "type": "fx",
-      "categories": ["fx"],
+      "categories": [
+        "fx"
+      ],
       "description": "A service for querying the currency info.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/FX%20Currency%20List",
       "apiReferenceUrl": null,
@@ -423,7 +518,9 @@
     {
       "label": "FX Currency Rates",
       "type": "fx",
-      "categories": ["fx"],
+      "categories": [
+        "fx"
+      ],
       "description": "A service for querying the currency exchange rates for many common currencies. The exchange rates represents bank’s exchange rates at the time of the request sent.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/FX%20Currency%20Rates",
       "apiReferenceUrl": null,
@@ -433,7 +530,9 @@
     {
       "label": "Kuveyt Turk Branch List",
       "type": "branchLocator",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of Kuveyt Turk branches.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/Kuveyt%20Turk%20Branch%20List",
       "apiReferenceUrl": null,
@@ -443,7 +542,9 @@
     {
       "label": "Kuveyt Turk ATM List",
       "type": "atmLocator",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of off-site Kuveyt Turk ATMs.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/Kuveyt%20Turk%20ATM%20List",
       "apiReferenceUrl": null,
@@ -453,7 +554,9 @@
     {
       "label": "Kuveyt Turk XTM List",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of Kuveyt Turk XTMs.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/Kuveyt%20Turk%20XTM%20List",
       "apiReferenceUrl": null,
@@ -463,7 +566,9 @@
     {
       "label": "Bank List",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of banks within Turkish Banking System.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/Bank%20List",
       "apiReferenceUrl": null,
@@ -473,7 +578,9 @@
     {
       "label": "Bank Branch List",
       "type": "branchLocator",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of branches of given bank id and city id within Turkish Banking System.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Information%20Services/Bank%20Branch%20List",
       "apiReferenceUrl": null,
@@ -483,7 +590,9 @@
     {
       "label": "Virtual POS General Transaction",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Performs transactions of sale reversal, drawback and partial drawback return from virtual POS. Transactions can be cancelled during the day. For follow-up days, drawback and partial drawback can be made. Transaction Type value should be 4 for drawback transactions, 5 for partial drawback transactions and 6 for sale reversal transactions. In Drawback (for TransactionType 4) the DrawbackOrderAmount field is optional. Required for partial drawback and sale reversal. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Virtual%20POS/Virtual%20POS%20General%20Transaction",
       "apiReferenceUrl": null,
@@ -493,7 +602,9 @@
     {
       "label": "Virtual POS Order Filter",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of virtual POS transactions. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Virtual%20POS/Virtual%20POS%20Order%20Filter",
       "apiReferenceUrl": null,
@@ -503,7 +614,9 @@
     {
       "label": "Virtual POS EndOfDay",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "End of the day closing is done by taking the complete list of sale reversal, drawback and partial drawback transactions made during the virtual post day. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Virtual%20POS/Virtual%20POS%20EndOfDay",
       "apiReferenceUrl": null,
@@ -513,7 +626,9 @@
     {
       "label": "Virtual POS EndDayAll List",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of end of day payment transactions. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Virtual%20POS/Virtual%20POS%20EndDayAll%20List",
       "apiReferenceUrl": null,
@@ -523,7 +638,9 @@
     {
       "label": "MoneyGram Country List",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Returns the list of countries within MoneyGram Payment System. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/MoneyGram/MoneyGram%20Country%20List",
       "apiReferenceUrl": null,
@@ -533,7 +650,9 @@
     {
       "label": "MoneyGram Currency List",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Returns the list of currencies of interested countries within Moneygram Payment System. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/MoneyGram/MoneyGram%20Currency%20List",
       "apiReferenceUrl": null,
@@ -543,7 +662,9 @@
     {
       "label": "MoneyGram Query Fee",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Get fee results. Countries can pay only with allowed currencies. In order to proceed the transfer, sender must select payment type accordibg these results. The parameters sent include receiveCountry, amount, and choiceType. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/MoneyGram/MoneyGram%20Query%20Fee",
       "apiReferenceUrl": null,
@@ -553,7 +674,9 @@
     {
       "label": "MoneyGram Get Fee",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Get fee results. Countries can pay only with allowed currencies. In order to proceed the transfer, sender must select payment type accordibg these results. The parameters sent include receiveCountry, amount, and choiceType. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/MoneyGram/MoneyGram%20Get%20Fee",
       "apiReferenceUrl": null,
@@ -563,7 +686,9 @@
     {
       "label": "MoneyGram Query Reference",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "According the reference number, returns detail informations about the money transfer. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/MoneyGram/MoneyGram%20Query%20Reference",
       "apiReferenceUrl": null,
@@ -573,7 +698,9 @@
     {
       "label": "MoneyGram Send",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "According the customer information, sender person can send money to countries which moneygram payment system allows.In order to proceed the transfer, Kuveyt Turk sends a one-time-password via SMS to the customer and gives a transaction id to the developer, the customer enters the code to the third party app, and the third party app sends the id and the SMS code to Kuveyt Turk via “Moneygram Send” API.If the id and the sms codes match, then Kuveyt Turk authenticates the transaction. Note: This API is in beta stage. Request and response models may change over time.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/MoneyGram/MoneyGram%20Send",
       "apiReferenceUrl": null,
@@ -583,7 +710,9 @@
     {
       "label": "Donation List For Organization",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Returns all the donation details of the selected campaign within the specified date range for the given organization.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Donations/Donation%20List%20For%20Organization",
       "apiReferenceUrl": null,
@@ -593,7 +722,9 @@
     {
       "label": "Account Transactions for the organization",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Returns the list of all transactions between the start and end date made to the organization.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Donations/Account%20Transactions%20for%20the%20organization",
       "apiReferenceUrl": null,
@@ -603,7 +734,9 @@
     {
       "label": "Campaign list for Organization",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the campaign list for the organization. The institution brings together all the campaign list registered with the bank.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Donations/Campaign%20list%20for%20%20Organization",
       "apiReferenceUrl": null,
@@ -613,7 +746,9 @@
     {
       "label": "External Payments List",
       "type": "paymentInitiation",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns all the external payments such as EFT, Money Transfer, Cash Processing, made to the selected campaign within the specified date range for the authenticated organization.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Donations/External%20Payments%20List",
       "apiReferenceUrl": null,
@@ -623,7 +758,9 @@
     {
       "label": "Donation List For Organization TDV",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns all the (Türkiye Diyanet Vakfı) TDV donation details of the selected campaign within the specified date range for the given organization.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Donations/Donation%20List%20For%20Organization%20TDV",
       "apiReferenceUrl": null,
@@ -633,7 +770,9 @@
     {
       "label": "Account Activity List",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Retrieves the account activities within the specified date range for the client making the request.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Account%20Activities/Account%20Activity%20List",
       "apiReferenceUrl": null,
@@ -643,7 +782,9 @@
     {
       "label": "KT Incident Info",
       "type": "productFinder",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns detailed information about the incident specified in the parameters.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Info",
       "apiReferenceUrl": null,
@@ -653,7 +794,9 @@
     {
       "label": "KT Incident Creation",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Creates an incident used in INCPro (KT Mercek) Incident Management System.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Creation",
       "apiReferenceUrl": null,
@@ -663,7 +806,9 @@
     {
       "label": "KT Incident Product List",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of products to be used while creating an incident.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Product%20List",
       "apiReferenceUrl": null,
@@ -673,7 +818,9 @@
     {
       "label": "KT Incident Defined Document List",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of defined documents to be used for attaching documents while creating an incident record.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Defined%20Document%20List",
       "apiReferenceUrl": null,
@@ -683,7 +830,9 @@
     {
       "label": "KT Incident Optional Field List",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of optional field related to the provided product.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Optional%20Field%20List",
       "apiReferenceUrl": null,
@@ -693,7 +842,9 @@
     {
       "label": "KT Incident Insert Activity",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Inserts an activity record for the given incident as the given activity type.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Insert%20Activity",
       "apiReferenceUrl": null,
@@ -703,7 +854,9 @@
     {
       "label": "KT Incident Activity Type List",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Returns the list of activity types to be used while inserting an activity.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Activity%20Type%20List",
       "apiReferenceUrl": null,
@@ -713,7 +866,9 @@
     {
       "label": "KT Incident Insert Document",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Inserts additional documents to the given incident.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Insert%20Document",
       "apiReferenceUrl": null,
@@ -723,7 +878,9 @@
     {
       "label": "KT Incident Reopen",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Reopens the given incident if the status of the incident permits and the user has right to perform the operation.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Reopen",
       "apiReferenceUrl": null,
@@ -733,7 +890,9 @@
     {
       "label": "KT Incident Cancel",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Cancels the given incident if the status of the incident permits and the user has right to perform the operation.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Incident%20Operations/KT%20Incident%20Cancel",
       "apiReferenceUrl": null,
@@ -743,7 +902,9 @@
     {
       "label": "Digital Banking Payment",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Collects the payment information from customer's profile provided in the parameters.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Digital%20Payments/Digital%20Banking%20Payment",
       "apiReferenceUrl": null,
@@ -753,7 +914,9 @@
     {
       "label": "Digital Banking Transaction Status",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Returns the status of the transaction provided in the parameters.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Digital%20Payments/Digital%20Banking%20Transaction%20Status",
       "apiReferenceUrl": null,
@@ -763,7 +926,9 @@
     {
       "label": "Digital Banking Refund",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Does a refund or a partial refund on the transactions made during the previous day.",
       "documentationUrl": "https://developer.kuveytturk.com.tr/#/documentation/Digital%20Payments/Digital%20Banking%20Refund",
       "apiReferenceUrl": null,
@@ -772,6 +937,9 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -783,7 +951,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.kuveytturk.mobil&hl=en"
     }
   ],
-  "stockSymbol": null, 
   "investorRelationsUrl": "https://www.kuveytturk.com.tr/en/investor-relations",
   "financialReports": [
     {
@@ -794,6 +961,24 @@
   ],
   "twitter": "kuveytturk",
   "crunchbase": "kuveyt-turk-bank",
-  "github": "https://github.com/KuveytTurk",  
-  "articles": []
+  "bloomberg": null,
+  "github": "https://github.com/KuveytTurk",
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
