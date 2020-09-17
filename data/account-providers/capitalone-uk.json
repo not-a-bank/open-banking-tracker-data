@@ -13,14 +13,13 @@
   "stockSymbol": "COF",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588038612/radar/icons/capitalone-uk.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588039300/catalog/capitalone-uk/icon128x128.jpg",
   "websiteUrl": "https://www.capitalone.co.uk/",
   "ownership": [
     {
       "providerId": "capitalone",
       "shareholderName": "Capital One",
-      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1588039295/catalog/capitalone/icon128x128.jpg",
-      "percentage": 100
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1588039295/catalog/capitalone/icon128x128.jpg"
     }
   ],
   "stateOwned": false,
@@ -40,6 +39,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://www.twitter.com/CapitalOneUK",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Services API",
@@ -55,22 +57,41 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": ["openwrks"],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "openwrks"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
   "twitter": "CapitalOneUK",
   "bloomberg": null,
-  "stack": [],
+  "alumni": [],
+  "stack": [
+    {
+      "id": "tyk-io",
+      "name": "Tyk",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1563152094/catalog/tyk-io/icon128x128.jpg",
+      "websiteUrl": "https://tyk.io"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []
