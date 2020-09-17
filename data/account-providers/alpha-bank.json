@@ -12,12 +12,13 @@
   "stockSymbol": "Athens:ALPHA",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568408893/radar/icons/alpha-bank.png",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296069/radar/icons/Alpha_Bank.png",
   "websiteUrl": "https://www.alpha.gr/",
   "ownership": [
     {
       "shareholderName": "Hellenic Financial Stability Fund",
-      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568415654/radar/icons/Hellenic%20Financial%20Stability%20Fund.png",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552559924/radar/icons/Greek_State_Fund.png",
+      "sourceUrl": "https://www.alpha.gr/en/group/investor-relations/share-information/shareholder-structure",
       "providerId": "Hellenic Financial Stability Fund",
       "percentage": 11
     }
@@ -45,10 +46,9 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://www.alpha.gr/en/business/myalpha/api-portal",
-  "apiAggregators": [
-    "salt-edge"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts",
@@ -60,7 +60,7 @@
       "documentationUrl": "https://developer.api.alphabank.eu/documentation?id=accounts",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specifications": "BERLIN1.3"
     },
     {
@@ -73,7 +73,7 @@
       "documentationUrl": "https://developer.api.alphabank.eu/documentation?id=payments",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specifications": "BERLIN1.3"
     },
     {
@@ -86,10 +86,16 @@
       "documentationUrl": "https://developer.api.alphabank.eu/documentation?id=fundsconfirmation",
       "apiReferenceUrl": null,
       "premium": false,
-      "stage": "sandbox"
+      "stage": "live",
+      "specifications": "BERLIN1.3"
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [],
   "investorRelationsUrl": "https://www.alpha.gr/en/group/investor-relations",
@@ -105,5 +111,22 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfFTuAAN",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
