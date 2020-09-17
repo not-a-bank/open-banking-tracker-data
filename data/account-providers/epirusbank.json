@@ -1,0 +1,153 @@
+{
+  "id": "epirusbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Bank of Epirus",
+  "description": "The bank for the small and medium-sized enterprises in Epirus.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "Cooperative Bank of Epirus"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600383044/icons/epirusbank.jpg",
+  "websiteUrl": "https://www.epirusbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GR",
+  "countries": [
+    "GR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developers.epirusbank.openbank.gr"
+  },
+  "developerPortalUrl": "https://developers.epirusbank.openbank.gr",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developers.epirusbank.openbank.gr",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.epirusbank.openbank.gr/node/100",
+      "apiReferenceUrl": "https://developers.epirusbank.openbank.gr/node/102",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developers.epirusbank.openbank.gr/ibm_apim/swaggerjson/YWNjb3VudC1pbmZvcm1hdGlvbi1zZXJ2aWNlOjEuMA%2C%2C"
+        }
+      ]
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.epirusbank.openbank.gr/node/106",
+      "apiReferenceUrl": "https://developers.epirusbank.openbank.gr/node/105",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developers.epirusbank.openbank.gr/ibm_apim/swaggerjson/cGF5bWVudC1pbml0aWFsaXNhdGlvbi1zZXJ2aWNlOjEuMA%2C%2C"
+        }
+      ]
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.epirusbank.openbank.gr/node/128",
+      "apiReferenceUrl": "https://developers.epirusbank.openbank.gr/node/127",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developers.epirusbank.openbank.gr/ibm_apim/swaggerjson/Y29uZmlybWF0aW9uLW9mLWZ1bmRzLXNlcnZpY2U6MS4w"
+        }
+      ]
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "_epirusbank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "ibm-api-connect",
+      "name": "IBM API Connect",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568494917/catalog/ibm-api-connect/icon128x128.jpg",
+      "websiteUrl": "https://www.ibm.com/cloud/api-connect"
+    },
+    {
+      "id": "crowdpolicy",
+      "name": "Crowdpolicy",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1600383046/icons/crowdpolicy.jpg",
+      "websiteUrl": "https://www.crowdpolicy.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
