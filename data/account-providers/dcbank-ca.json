@@ -1,0 +1,86 @@
+{
+  "id": "dcbank-ca",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "DC Bank",
+  "description": "Founded in 2007, DCBank is a Schedule 1 Canadian chartered bank.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600802238/icons/dcbank-ca.jpg",
+  "websiteUrl": "https://www.dcbank.ca/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.dcbankapi.com"
+  },
+  "developerPortalUrl": "https://developer.dcbankapi.com",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.dcbankapi.com",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "DCBank2",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "vouched-id",
+      "name": "Vouched",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1600802222/icons/vouched-id.jpg",
+      "websiteUrl": "https://www.vouched.id/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [
+    "visa",
+    "mastercard"
+  ],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
