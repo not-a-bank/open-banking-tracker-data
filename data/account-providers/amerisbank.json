@@ -13,7 +13,7 @@
   "stockSymbol": "ABCB",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600801893/radar/icons/amerisbank.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600802242/icons/amerisbank.jpg",
   "websiteUrl": "https://www.amerisbank.com/",
   "ownership": [],
   "stateOwned": false,
@@ -51,7 +51,14 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Ameris_Bancorp",
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "fisglobal",
+      "name": "FIS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962510/catalog/fisglobal/icon128x128.jpg",
+      "websiteUrl": "https://www.fisglobal.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
