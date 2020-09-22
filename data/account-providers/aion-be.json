@@ -12,14 +12,13 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1583189222/radar/icons/aion-be.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1583189374/catalog/aion-be/icon128x128.png",
   "websiteUrl": "https://www.aion.be/",
   "ownership": [
     {
       "providerId": "warburgpincus",
       "shareholderName": "Warburg Pincus",
-      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1583189290/catalog/warburgpincus/icon128x128.png",
-      "percentage": 100
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1583189290/catalog/warburgpincus/icon128x128.png"
     }
   ],
   "stateOwned": false,
@@ -38,9 +37,13 @@
     "sourceUrl": "https://devportal.psd2.aion.be/content/howto/sandbox"
   },
   "developerPortalUrl": "https://devportal.psd2.aion.be/",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts",
@@ -68,6 +71,7 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "bankingsdk",
     "ibanity"
@@ -86,17 +90,41 @@
   ],
   "financialReports": [],
   "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "onfido",
+      "name": "Onfido",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1572481430/catalog/onfido/icon128x128.jpg",
+      "websiteUrl": "https://onfido.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
-  "foundedYear": 2020,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
+  "foundedYear": 2020,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [
     "mastercard"
   ],
   "creditCards": [],
-  "partnerships": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []
