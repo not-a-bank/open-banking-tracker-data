@@ -1,0 +1,75 @@
+{
+  "id": "amerisbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Ameris Bank",
+  "description": "Ameris Bancorp is a bank holding company headquartered in Atlanta. Through its bank subsidiary, Ameris Bank, the company operates branches in Georgia, Alabama, Florida, and South Carolina.",
+  "legalName": "Ameris Bank",
+  "ipoStatus": "public",
+  "stockSymbol": "ABCB",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600801893/radar/icons/amerisbank.jpg",
+  "websiteUrl": "https://www.amerisbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/ameris-bank-personal-mobile/id704720989"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.mfoundry.mb.android.mb_466&hl=en_us"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "AmerisBank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ameris_Bancorp",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
