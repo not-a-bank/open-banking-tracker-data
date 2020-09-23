@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571567174/radar/icons/voltbank-au.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571567199/catalog/voltbank-au/icon128x128.jpg",
   "websiteUrl": "https://www.voltbank.com.au/",
   "ownership": [],
   "stateOwned": false,
@@ -21,24 +21,109 @@
   "countries": [
     "AU"
   ],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "CDR",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiAggregators": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
+  "twitter": "voltbank",
   "bloomberg": null,
-  "bankingLicense": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "temenos-t24-transact",
+      "name": "Temenos T24 Transact",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828757/catalog/temenos-t24-transact/icon128x128.jpg",
+      "websiteUrl": "https://www.temenos.com/products/t24-transact/"
+    },
+    {
+      "id": "microsoft-azure",
+      "name": "Microsoft Azure",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1548081100/catalog/microsoft-azure/icon128x128.png",
+      "websiteUrl": "https://azure.microsoft.com"
+    },
+    {
+      "id": "fisglobal",
+      "name": "FIS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962510/catalog/fisglobal/icon128x128.jpg",
+      "websiteUrl": "https://www.fisglobal.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "lab3-au",
+      "name": "LAB3",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1600825210/icons/lab3-au.jpg",
+      "websiteUrl": "https://lab3.com.au/",
+      "title": "Neobank Volt turns to Microsoft for new BaaS platform in Oz - Fintech Direct",
+      "desription": "“The neobank will work with Microsoft and LAB3 engineers in Australia and overseas, to develop the platform based on cloud computing service Microsoft Azure.",
+      "sourceUrl": "https://www.fintechdirect.net/2020/09/22/neobank-volt-turns-to-microsoft-for-new-baas-platform-in-oz/",
+      "sourceDate": "2020-09-22T12:15:31+00:00",
+      "features": [],
+      "addedAt": "2020-09-23T03:03:03.495Z"
+    },
+    {
+      "id": "microsoft",
+      "name": "Microsoft",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565203649/catalog/microsoft/icon128x128.png",
+      "websiteUrl": "https://microsoft.com",
+      "title": "Neobank Volt turns to Microsoft for new BaaS platform in Oz - Fintech Direct",
+      "desription": "“The neobank will work with Microsoft and LAB3 engineers in Australia and overseas, to develop the platform based on cloud computing service Microsoft Azure.",
+      "sourceUrl": "https://www.fintechdirect.net/2020/09/22/neobank-volt-turns-to-microsoft-for-new-baas-platform-in-oz/",
+      "sourceDate": "2020-09-22T12:15:31+00:00",
+      "features": [],
+      "addedAt": "2020-09-23T03:03:03.495Z"
+    },
+    {
+      "id": "fisglobal",
+      "name": "FIS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962510/catalog/fisglobal/icon128x128.jpg",
+      "websiteUrl": "https://www.fisglobal.com/",
+      "title": "Volt Bank contracts with FIS",
+      "desription": "Volt Bank, the first of a wave of new digital challengers to be granted a full banking licence in Autralia, is putting the finishing touches to its technology stack, contracting with FIS for a raft of mobile, card processing, risk and treasury management software.",
+      "sourceUrl": "https://www.finextra.com/newsarticle/34155/volt-bank-contracts-with-fis",
+      "sourceDate": "2019-07-24T08:50:00",
+      "features": [
+        "treasury-management",
+        "risk-management",
+        "card-processing"
+      ],
+      "addedAt": "2020-09-23T03:08:10.223Z"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }
