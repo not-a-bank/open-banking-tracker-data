@@ -1,14 +1,19 @@
 {
   "id": "abn-amro",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "ABN Amro",
-  "legalName": "ABN AMRO Group N.V.",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/ABN_AMRO",
   "description": "ABN AMRO Bank N.V. is a Dutch bank with headquarters in Amsterdam. ABN AMRO Bank is the third-largest bank in the Netherlands. It was re-established in its current form in 2009, following the acquisition and break-up of the original ABN AMRO by a banking consortium consisting of Royal Bank of Scotland Group, Santander Group and Fortis.",
+  "legalName": "ABN AMRO Group N.V.",
   "ipoStatus": "public",
+  "stockSymbol": "AMS:ABN",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1552240551/radar/icons/abn-amro.jpg",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600842077/radar/icons/aejy72vbvt3whxv9hipc.jpg",
   "websiteUrl": "https://www.abnamro.com/",
   "ownership": [
     {
@@ -20,7 +25,9 @@
   ],
   "stateOwned": true,
   "countryHQ": "NL",
-  "countries": ["NL"],
+  "countries": [
+    "NL"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -32,11 +39,20 @@
     "sourceUrl": "https://medium.com/abn-amro-developer/psd2-sandbox-available-lets-get-started-5220d7e9418b"
   },
   "developerPortalUrl": "https://developer.abnamro.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Retrieve details of an account such as balance transactions, balance and details.",
       "documentationUrl": "https://developer.abnamro.com/content/account-information",
       "apiReferenceUrl": "https://developer.abnamro.com/api/account-information-v1/account-information-documentation",
@@ -46,7 +62,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Initiate a single payment and retrieve information on the status of the transaction.",
       "documentationUrl": "https://developer.abnamro.com/content/payment-initiation",
       "apiReferenceUrl": "https://developer.abnamro.com/api/payment-initiation-v1/payment-initiation-documentation",
@@ -57,7 +75,9 @@
       "label": "FX Trade",
       "type": "fx",
       "description": "Receive real-time foreign exchange rates and initiate currency conversions.",
-      "categories": ["fx"],
+      "categories": [
+        "fx"
+      ],
       "documentationUrl": "https://developer.abnamro.com/content/fx-trade",
       "apiReferenceUrl": "https://developer.abnamro.com/api/fxtrade-v1/fx-trade-api-documentation",
       "premium": false,
@@ -67,7 +87,9 @@
       "label": "Tikkie Payment Request",
       "type": "other",
       "description": "Get paid faster by creating easy payment requests. Share them via any channel you want.",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "documentationUrl": "https://developer.abnamro.com/content/tikkie-payment-request",
       "apiReferenceUrl": "https://developer.abnamro.com/api/tikkie-v1/tikkie-api-documentation",
       "premium": true,
@@ -77,7 +99,9 @@
       "label": "Tikkie Fast Checkout (for Webshops & E-commerce)",
       "type": "other",
       "description": "Boost the conversion rate of your webshop by enabling customers to checkout in just a few seconds.",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "documentationUrl": "https://developer.abnamro.com/content/tikkie-fast-checkout",
       "apiReferenceUrl": "https://developer.abnamro.com/api/tikkie-fastcheckout-v1/tikkie-fast-checkout-documentation",
       "premium": true,
@@ -87,7 +111,9 @@
       "label": "Notification Kit",
       "type": "other",
       "description": "Receive webhook notifications for a wide range of use cases and automate banking processes when something changes on your account.",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "documentationUrl": "https://developer.abnamro.com/content/notification-kit",
       "apiReferenceUrl": null,
       "premium": false,
@@ -95,12 +121,14 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "bankingsdk",
     "klarna",
     "ibanity",
     "bridgeapi-io"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -112,7 +140,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.abnamro.nl.mobile.payments&hl=en"
     }
   ],
-  "stockSymbol": "AMS:ABN",
   "investorRelationsUrl": "https://www.abnamro.com/en/investor-relations/index.html",
   "financialReports": [
     {
@@ -122,13 +149,43 @@
     }
   ],
   "twitter": "ABNAMRO",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/ABN_AMRO",
   "crunchbase": "abn-amro-bank",
+  "bloomberg": null,
   "github": "ABNAMRO",
   "fca": "001b000000MfnaPAAR",
+  "alumni": [],
   "articles": [
     {
       "url": "https://medium.com/abn-amro-developer/psd2-sandbox-available-lets-get-started-5220d7e9418b",
       "date": "2019-03-05"
     }
-  ]
+  ],
+  "stack": [
+    {
+      "id": "subaio",
+      "name": "Subaio",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589831416/catalog/subaio/icon128x128.png",
+      "websiteUrl": "https://subaio.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
