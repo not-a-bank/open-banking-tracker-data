@@ -12,7 +12,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591748326/radar/icons/bnext-es.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591745737/icons/bnext-es.jpg",
   "websiteUrl": "https://bnext.es/",
   "ownership": [],
   "stateOwned": false,
@@ -32,6 +32,8 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
@@ -44,9 +46,11 @@
   "twitter": "yourbnext",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Bnext",
   "bloomberg": null,
+  "alumni": [],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
@@ -56,31 +60,53 @@
   ],
   "creditCards": [],
   "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "products": {
     "cashbackProgram": "true"
   },
   "partnerships": [
     {
+      "id": "rapyd-net",
+      "name": "Rapyd",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591167548/icons/rapyd-net.jpg",
+      "websiteUrl": "https://www.rapyd.net/",
+      "title": "Rapyd Selected by Spanish Neo-bank Bnext for Latin America Expansion with Mexico as the First Market - Rapyd",
+      "desription": "Fintech platform will expand payment options across Latin America with cash collection to be rolled out as first service.",
+      "sourceUrl": "https://www.rapyd.net/company/news/press-releases/rapyd-selected-by-spanish-neo-bank-bnext-for-latin-america-expansion-with-mexico-as-the-first-market/",
+      "features": [
+        "cash-collection"
+      ],
+      "addedAt": "2020-10-03T20:45:59.408Z"
+    },
+    {
+      "id": "booking-com",
       "name": "Booking.com",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962514/catalog/booking-com/icon128x128.jpg",
       "websiteUrl": "https://www.booking.com"
     },
     {
+      "id": "aliexpress",
       "name": "AliExpress",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1591745740/icons/aliexpress.jpg",
       "websiteUrl": "https://www.aliexpress.com/"
     },
     {
+      "id": "just-eat",
       "name": "JUST EAT",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1576168115/catalog/just-eat/icon128x128.png",
       "websiteUrl": "https://www.just-eat.com/"
     },
     {
+      "id": "visa",
       "name": "Visa",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
       "websiteUrl": "https://visa.com"
     }
   ],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": [],
