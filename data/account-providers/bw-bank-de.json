@@ -1,0 +1,94 @@
+{
+  "id": "bw-bank-de",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "BW-Bank",
+  "description": "Baden Württembergische Bank (BW-Bank) was incorporated into LBBW as a legally dependent institution under public law. ",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601755965/icons/bw-bank-de.jpg",
+  "websiteUrl": "https://www.bw-bank.de/",
+  "ownership": [
+    {
+      "providerId": "lbbw-de",
+      "shareholderName": "LBBW",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1601756240/icons/lbbw-de.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": true,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593103732/icons/google-pay.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    },
+    {
+      "id": "fitbit-pay",
+      "name": "Fitbit Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1592261139/icons/fitbit-pay.png",
+      "websiteUrl": "https://www.fitbit.com/us/technology/fitbit-pay"
+    },
+    {
+      "id": "apple-pay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.bw-bank.de/de/home/services/apps-digitale-services.html?n=true&stref=hnav"
+}
