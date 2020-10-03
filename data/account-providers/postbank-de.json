@@ -1,0 +1,75 @@
+{
+  "id": "postbank-de",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Postbank",
+  "description": "Postbank is the retail banking division of Deutsche Bank, which was formed from the demerger of the postal savings division of Deutsche Bundespost in 1990. Since May 2018, it operates as a brand of Deutsche Bank's retail arm. It serves 13 million customers in around 1,000 branches and 700 advisory centers.",
+  "legalName": "Deutsche Bank AG",
+  "ipoStatus": "public",
+  "stockSymbol": "DPB",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601755087/radar/icons/postbank-de.jpg",
+  "websiteUrl": "https://www.postbank.de/",
+  "ownership": [
+    {
+      "providerId": "deutsche-bank",
+      "shareholderName": "Deutsche Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1595919842/icons/deutsche-bank.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Deutsche_Postbank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
