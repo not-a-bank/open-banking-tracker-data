@@ -1,0 +1,94 @@
+{
+  "id": "lbbw-de",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "LBBW",
+  "description": "Landesbank Baden-Württemberg (LBBW) is a universal bank and the Landesbank for some Federal States of Germany (Baden-Württemberg, Rheinland-Pfalz, Sachsen). As of 2018, it is Germany's biggest state-backed landesbank lenders",
+  "legalName": null,
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "Landesbank Baden-Württemberg"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601756240/icons/lbbw-de.jpg",
+  "websiteUrl": "https://www.lbbw.de/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "LBBW",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Landesbank_Baden-W%C3%BCrttemberg",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "macos",
+      "name": "macOS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569010513/catalog/macos/icon128x128.jpg"
+    },
+    {
+      "id": "microsoft-edge",
+      "name": "Microsoft Edge",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571599167/catalog/microsoft-edge/icon128x128.png",
+      "websiteUrl": "https://www.microsoft.com/en-us/windows/microsoft-edge"
+    },
+    {
+      "id": "teamviewer",
+      "name": "TeamViewer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579550547/catalog/teamviewer/icon128x128.png",
+      "websiteUrl": "https://www.teamviewer.com/"
+    }
+  ],
+  "platforms": [
+    "macos"
+  ],
+  "awards": [],
+  "marketplaceUrl": "https://www.lbbw.de/artikelseite/tools-und-apps/lbbw-corporates-portal_9g1n943xr_d.html"
+}
