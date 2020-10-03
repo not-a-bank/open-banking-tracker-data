@@ -1,0 +1,131 @@
+{
+  "id": "vistabank-ro",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "VISTA Bank Romania",
+  "description": "Vista Bank (Romania) SA is a Romanian commercial bank, part of the Greek Vardinogiannis Group.",
+  "legalName": "MARFIN BANK",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "Marfin Bank"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601689084/radar/icons/vistabank-ro.webp",
+  "websiteUrl": "https://www.vistabank.ro/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "RO",
+  "countries": [
+    "RO"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.vistabank.ro/public/docs/PSD2_API_Documentation_Vista_Bank.pdf"
+  },
+  "developerPortalUrl": "https://www.vistabank.ro/public/docs/PSD2_API_Documentation_Vista_Bank.pdf",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.vistabank.ro/public/docs/PSD2_API_Documentation_Vista_Bank.pdf",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.vistabank.ro/public/docs/PSD2_API_Documentation_Vista_Bank.pdf",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live",
+      "specifications": "",
+      "apiSpecs": []
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.vistabank.ro/public/docs/PSD2_API_Documentation_Vista_Bank.pdf",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.vistabank.ro/public/docs/PSD2_API_Documentation_Vista_Bank.pdf",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live",
+      "specifications": "",
+      "apiSpecs": []
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.vistabank.ro/public/docs/PSD2_API_Documentation_Vista_Bank.pdf",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live",
+      "specifications": "",
+      "apiSpecs": []
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
