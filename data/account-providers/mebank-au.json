@@ -1,0 +1,90 @@
+{
+  "id": "mebank-au",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "ME Bank",
+  "description": "ME Bank, also known as ME, is an Australian direct bank based in Melbourne, Victoria. ME Bank also has offices in Sydney, Brisbane, Adelaide, Perth, Hobart, Canberra and Darwin",
+  "legalName": "Members Equity Bank Ltd",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601842365/radar/icons/mebank-au.png",
+  "websiteUrl": "https://www.mebank.com.au/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AU",
+  "countries": [
+    "AU"
+  ],
+  "compliance": [
+    {
+      "regulation": "CDR",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.mebank.com.au/"
+  },
+  "developerPortalUrl": "https://developer.mebank.com.au/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.mebank.com.au/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Products",
+      "type": "productFinder",
+      "description": "The Products API provides public information for UBank products that are currently on offer in the market.",
+      "categories": [
+        "products"
+      ],
+      "documentationUrl": "https://developer.mebank.com.au/docs/open-banking-products/1/overview",
+      "apiReferenceUrl": "https://developer.mebank.com.au/docs/open-banking-products/1/overview",
+      "apiSpecs": [],
+      "regulation": "CDR",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "mebank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/ME_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
