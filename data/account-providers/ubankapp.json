@@ -1,0 +1,78 @@
+{
+  "id": "ubankapp",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Übank",
+  "description": "Übank is an automatic savings solution that helps people save automatically based on their lifestyle and everyday activities.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601842868/radar/icons/ubankapp.jpg",
+  "websiteUrl": "https://ubankapp.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "MX",
+  "countries": [
+    "MX"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "ubankapp",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "multibanco-pt",
+      "name": "MULTIBANCO",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574824667/catalog/multibanco-pt/icon128x128.jpg",
+      "websiteUrl": "https://www.multibanco.pt/"
+    },
+    {
+      "id": "android",
+      "name": "Android",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055773/catalog/android/icon128x128.png"
+    }
+  ],
+  "platforms": [
+    "android"
+  ],
+  "awards": []
+}
