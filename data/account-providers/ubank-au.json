@@ -1,0 +1,121 @@
+{
+  "id": "ubank-au",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "UBank",
+  "description": "UBank is an Australian direct bank, that operates as a division of National Australia Bank. It was established in 2008, and provides savings products and home loans over the Internet and telephone. UBank operates under NAB's banking license and uses its balance sheet, risk management and technology infrastructure.",
+  "legalName": "Ubank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601782283/radar/icons/ubank-au.jpg",
+  "websiteUrl": "https://www.ubank.com.au/",
+  "ownership": [
+    {
+      "providerId": "nab-au",
+      "shareholderName": "National Australia Bank (NAB)",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1597669485/icons/nab-au.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "AU",
+  "countries": [
+    "AU"
+  ],
+  "compliance": [
+    {
+      "regulation": "CDR",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.ubank.com.au/content/ubank/en/developer/products"
+  },
+  "developerPortalUrl": "https://www.ubank.com.au/content/ubank/en/developer/products",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.ubank.com.au/content/ubank/en/developer/products",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Products",
+      "type": "productFinder",
+      "description": "The Products API provides public information for UBank products that are currently on offer in the market.",
+      "categories": [
+        "products"
+      ],
+      "documentationUrl": "https://www.ubank.com.au/developer/products",
+      "apiReferenceUrl": "",
+      "apiSpecs": [],
+      "regulation": "CDR",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/au/app/ubank-mobile-banking/id1313119623?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=au.com.ubank.internetbanking"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "UBank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/UBank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "ibm-watson",
+      "name": "IBM Watson",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557191696/catalog/ibm-watson/icon128x128.jpg",
+      "websiteUrl": "https://www.ibm.com/watson",
+      "title": "UBank - Bringing digital banking capabilities to market faster with an IBM Cloud solution",
+      "description": "After consulting with an IBM Watson and Cloud Adoption Leadership team, UBank launched new initiatives in an IBM Cloud Platform development environment, including RoboChat, a virtual agent that incorporates IBM Watson® Conversation technology to help customers apply for home loans.",
+      "sourceUrl": "https://www.ibm.com/case-studies/ubank",
+      "sourceDate": "2016-05-21",
+      "features": [
+        "chat-bot"
+      ],
+      "addedAt": "2020-10-04T03:23:24.097Z"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
