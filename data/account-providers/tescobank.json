@@ -1,0 +1,144 @@
+{
+  "id": "tescobank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Tesco Bank",
+  "description": "Tesco Bank is a British retail bank which was formed in July 1997, and which has been wholly owned by Tesco plc since 2008. The bank was formed as part of a 50:50 joint venture between The Royal Bank of Scotland and Tesco, the largest supermarket in the United Kingdom.",
+  "legalName": "Tesco Personal Finance plc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601897715/radar/icons/tescobank.jpg",
+  "websiteUrl": "https://www.tescobank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.tescobank.com/developer"
+  },
+  "developerPortalUrl": "https://www.tescobank.com/developer",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.tescobank.com/developer",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.tescobank.com/developer/account-information-service-provider/",
+      "apiReferenceUrl": "https://www.tescobank.com/developer/account-information-service-provider/",
+      "premium": false,
+      "stage": "live",
+      "specifications": "",
+      "apiSpecs": []
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.tescobank.com/developer/payment-initiation-service-provider/",
+      "apiReferenceUrl": "https://www.tescobank.com/developer/payment-initiation-service-provider/",
+      "premium": false,
+      "stage": "live",
+      "specifications": "",
+      "apiSpecs": []
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.tescobank.com/developer/payment-initiation-service-provider/",
+      "apiReferenceUrl": "https://www.tescobank.com/developer/payment-initiation-service-provider/",
+      "premium": false,
+      "stage": "live",
+      "specifications": "",
+      "apiSpecs": []
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/app/apple-store/id857834425?pt=1911193&ct=homepage2020&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.tescobank.mobile&hl=en_gb"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "tescobankhelp",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tesco_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "mastercard",
+    "visa"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
