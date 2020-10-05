@@ -1,0 +1,134 @@
+{
+  "id": "imb-au",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "IMB Bank",
+  "description": "IMB is the longest standing building society in New South Wales and the third largest building society in Australia in terms of assets under management. IMB was established in 1880 as Illawarra Mutual Building Society and is headquartered in Wollongong, New South Wales.",
+  "legalName": "IMB Bank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601860077/icons/imb-au.jpg",
+  "websiteUrl": "https://www.imb.com.au/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AU",
+  "countries": [
+    "AU"
+  ],
+  "compliance": [
+    {
+      "regulation": "CDR",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.openbanking.imb.com.au/"
+  },
+  "developerPortalUrl": "https://developer.openbanking.imb.com.au/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.openbanking.imb.com.au/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Products",
+      "type": "productFinder",
+      "description": "IMB Products - Consumer Data Standards Products",
+      "categories": [
+        "products"
+      ],
+      "documentationUrl": "https://developer.openbanking.imb.com.au/public/apis/api-console?api-id=16&scope=Published",
+      "apiReferenceUrl": "https://developer.openbanking.imb.com.au/public/apis/api-console?api-id=16&scope=Published",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://services.openbanking.imb.com.au/public/swagger?api-id=16&version-id=13"
+        }
+      ],
+      "regulation": "CDR",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "IMB_Bank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/IMB_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "redocly",
+      "name": "Redoc.ly",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568569720/catalog/redocly/icon128x128.jpg",
+      "websiteUrl": "https://redoc.ly/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": true,
+  "samsungPay": true,
+  "fitbitPay": true,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "eftpos",
+      "name": "EFTPOS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589147442/catalog/eftpos/icon128x128.png",
+      "websiteUrl": "https://www.eftposaustralia.com.au/"
+    },
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593103732/icons/google-pay.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    },
+    {
+      "id": "samsung-pay",
+      "name": "Samsung Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
+      "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/"
+    },
+    {
+      "id": "fitbit-pay",
+      "name": "Fitbit Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1592261139/icons/fitbit-pay.png",
+      "websiteUrl": "https://www.fitbit.com/us/technology/fitbit-pay"
+    },
+    {
+      "id": "osko-au",
+      "name": "Osko by BPAY",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1601862527/icons/osko-au.png",
+      "websiteUrl": "https://osko.com.au/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
