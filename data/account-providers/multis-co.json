@@ -1,0 +1,117 @@
+{
+  "id": "multis-co",
+  "type": "account",
+  "bankType": "crypto",
+  "name": "Multis",
+  "description": "A simple and powerful interface designed for your team to access, manage, and use your company's crypto. Set up your company account and manage your crypto, like a pro.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1566774045/catalog/multis-co/icon128x128.png",
+  "websiteUrl": "https://multis.co/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "multisHQ",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "compound-finance",
+      "name": "Compound",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009504/icons/compound-finance.png",
+      "websiteUrl": "https://compound.finance/"
+    },
+    {
+      "id": "ens-domains",
+      "name": "Ethereum Name Service",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009502/icons/ens-domains.jpg",
+      "websiteUrl": "https://ens.domains/"
+    },
+    {
+      "id": "gnosis-io",
+      "name": "Gnosis",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009499/icons/gnosis-io.jpg",
+      "websiteUrl": "https://gnosis.io/"
+    },
+    {
+      "id": "moonpay-io",
+      "name": "MoonPay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009494/icons/moonpay-io.png",
+      "websiteUrl": "https://www.moonpay.io/"
+    },
+    {
+      "id": "portis-io",
+      "name": "Portis",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009489/icons/portis-io.jpg",
+      "websiteUrl": "https://www.portis.io/"
+    },
+    {
+      "id": "request-network",
+      "name": "Request",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009486/icons/request-network.png",
+      "websiteUrl": "https://request.network/"
+    },
+    {
+      "id": "tokensets",
+      "name": "Set ⚖️",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009480/icons/tokensets.png",
+      "websiteUrl": "https://www.tokensets.com/"
+    },
+    {
+      "id": "thegraph",
+      "name": "The Graph",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009481/icons/thegraph.jpg",
+      "websiteUrl": "https://thegraph.com/"
+    },
+    {
+      "id": "instant-ramp-network",
+      "name": "Ramp Network",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1572362550/catalog/instant-ramp-network/icon128x128.jpg",
+      "websiteUrl": "https://instant.ramp.network/"
+    },
+    {
+      "id": "wyre",
+      "name": "Wyre",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559755109/catalog/wyre/icon128x128.jpg",
+      "websiteUrl": "https://sendwyre.com"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
