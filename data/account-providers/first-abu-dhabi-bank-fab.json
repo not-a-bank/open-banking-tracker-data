@@ -1,0 +1,93 @@
+{
+  "id": "first-abu-dhabi-bank-fab",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "First Abu Dhabi Bank (FAB)",
+  "description": "First Abu Dhabi Bank is the largest bank in the United Arab Emirates. It was formed following a merger between First Gulf Bank and National Bank of Abu Dhabi. FAB offers financial solutions, products and services through its Corporate and Investment Banking and Personal Banking franchises.",
+  "legalName": "First Abu Dhabi Bank PJSC",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "First Abu Dhabi Bank"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009508/icons/bankfab.jpg",
+  "websiteUrl": "https://www.bankfab.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "FABConnects",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/First_Abu_Dhabi_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": true,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "samsung-pay",
+      "name": "Samsung Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
+      "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/"
+    },
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593103732/icons/google-pay.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    },
+    {
+      "id": "payit-ae",
+      "name": "payit",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602009490/icons/payit-ae.jpg",
+      "websiteUrl": "https://payit.ae/"
+    },
+    {
+      "id": "apple-pay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
