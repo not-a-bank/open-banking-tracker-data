@@ -1,7 +1,7 @@
 {
   "id": "multis-co",
   "type": "account",
-  "bankType": "crypto",
+  "bankType": ["crypto"],
   "name": "Multis",
   "description": "A simple and powerful interface designed for your team to access, manage, and use your company's crypto. Set up your company account and manage your crypto, like a pro.",
   "legalName": null,
