@@ -59,6 +59,12 @@
       "name": "Tink",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1568053071/catalog/tink/icon128x128.jpg",
       "websiteUrl": "https://tink.com"
+    },
+    {
+      "id": "budget-insight",
+      "name": "Budget Insight",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1592565267/icons/budget-insight.jpg",
+      "websiteUrl": "https://www.budget-insight.com/"
     }
   ],
   "thirdPartyBankingLicense": null,
@@ -75,7 +81,19 @@
   "googlePay": true,
   "samsungPay": true,
   "fitbitPay": false,
-  "partnerships": [],
+  "partnerships": [
+    {
+      "id": "bankin",
+      "name": "Bankin'",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583796505/catalog/bankin/icon128x128.png",
+      "websiteUrl": "https://bankin.com/",
+      "title": "Lydia partners with Tink to improve open banking features – TechCrunch",
+      "description": "French fintech startup Lydia is going to work with financial API startup Tink for its open banking features in its app. Lydia started as a peer-to-peer payment app and now has 4 million users in Europe. Lydia’s vision has evolved to become a financial super app that lets you control your bank…",
+      "sourceUrl": "https://techcrunch.com/2020/10/07/lydia-partners-with-tink-to-improve-open-banking-features/",
+      "features": [],
+      "addedAt": "2020-10-08T12:35:32.886Z"
+    }
+  ],
   "rewardPartners": [],
   "integrations": [
     {
