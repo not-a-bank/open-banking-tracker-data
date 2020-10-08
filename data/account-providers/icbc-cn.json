@@ -1,0 +1,74 @@
+{
+  "id": "icbc-cn",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "ICBC China",
+  "description": "Industrial and Commercial Bank of China Limited is a multinational Chinese banking company. Founded as a limited company on January 1, 1984, ICBC is a state-owned commercial bank.",
+  "legalName": "Industrial and Commercial Bank of China Limited",
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "Industrial and Commercial Bank of China"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1602198687/icons/icbc-cn.jpg",
+  "websiteUrl": "https://www.icbc.com.cn/",
+  "ownership": [],
+  "stateOwned": true,
+  "countryHQ": "CN",
+  "countries": [
+    "CN"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Industrial_and_Commercial_Bank_of_China",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "rootant",
+      "name": "RootAnt",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602198685/icons/rootant.jpg",
+      "websiteUrl": "https://www.rootant.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
