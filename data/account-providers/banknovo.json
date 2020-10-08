@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597510889/radar/icons/banknovo.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597507927/icons/banknovo.jpg",
   "websiteUrl": "https://banknovo.com/",
   "ownership": [],
   "stateOwned": false,
@@ -61,14 +61,16 @@
       "websiteUrl": "https://moov.io/"
     }
   ],
-  "thirdPartyBankingLicense": null,
+  "thirdPartyBankingLicense": "middlesexfederal",
   "debitCardLicense": null,
   "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
   "prepaidDebitCards": [],
-  "debitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
   "creditCards": [],
   "virtualCards": [],
   "applePay": false,
@@ -98,10 +100,107 @@
       "id": "stripe",
       "name": "Stripe",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
-      "websiteUrl": "https://stripe.com/be"
+      "websiteUrl": "https://stripe.com/"
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1545501346/integration-platforms/zapier/icon.png",
+      "websiteUrl": "https://zapier.com/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "middlesexfederal",
+      "name": "Middlesex Federal Savings",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602115143/icons/middlesexfederal.jpg",
+      "websiteUrl": "https://www.middlesexfederal.com/"
     }
   ],
-  "rewardPartners": [],
+  "rewardPartners": [
+    {
+      "id": "booking-com",
+      "name": "Booking.com",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962514/catalog/booking-com/icon128x128.jpg",
+      "websiteUrl": "https://www.booking.com"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/"
+    },
+    {
+      "id": "gusto",
+      "name": "Gusto",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554403247/catalog/gusto/icon128x128.jpg",
+      "websiteUrl": "https://gusto.com/"
+    },
+    {
+      "id": "google-cloud",
+      "name": "Google Cloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554327567/catalog/google-cloud/icon128x128.jpg",
+      "websiteUrl": "https://cloud.google.com/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "zendesk",
+      "name": "Zendesk",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456178/catalog/zendesk/icon128x128.png",
+      "websiteUrl": "https://www.zendesk.com/"
+    },
+    {
+      "id": "segment",
+      "name": "Segment",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1545501346/integration-platforms/segment/icon.png",
+      "websiteUrl": "https://segment.com/"
+    },
+    {
+      "id": "google-ads",
+      "name": "Google Ads",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554434835/catalog/google-ads/icon128x128.png",
+      "websiteUrl": "https://ads.google.com"
+    },
+    {
+      "id": "salesforce-essentials",
+      "name": "Salesforce Essentials",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1581630018/catalog/salesforce-essentials/icon128x128.png",
+      "websiteUrl": "https://www.salesforce.com/solutions/essentials/"
+    },
+    {
+      "id": "godaddy",
+      "name": "GoDaddy",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555946958/catalog/godaddy/icon128x128.png",
+      "websiteUrl": "https://godaddy.com"
+    },
+    {
+      "id": "hubspot",
+      "name": "HubSpot",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529455982/catalog/hubspot/icon128x128.png",
+      "websiteUrl": "https://www.hubspot.com/"
+    },
+    {
+      "id": "homebase",
+      "name": "Homebase",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554403249/catalog/homebase/icon128x128.jpg",
+      "websiteUrl": "https://joinhomebase.com"
+    }
+  ],
   "integrations": [
     {
       "id": "slack",
@@ -125,9 +224,10 @@
       "id": "stripe",
       "name": "Stripe",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
-      "websiteUrl": "https://stripe.com/be"
+      "websiteUrl": "https://stripe.com/"
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "marketplaceUrl": ""
 }
