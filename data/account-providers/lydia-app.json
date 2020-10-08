@@ -1,7 +1,9 @@
 {
   "id": "lydia-app",
   "type": "account",
-  "bankType": "challenger",
+  "bankType": [
+    "challenger"
+  ],
   "name": "Lydia",
   "description": "Instantly send money to friends and pay contactless anywhere with your phone. Shared accounts, money pots, card with no fees abroad, and more...",
   "legalName": null,
