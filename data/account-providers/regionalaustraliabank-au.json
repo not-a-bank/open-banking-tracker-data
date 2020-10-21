@@ -1,0 +1,92 @@
+{
+  "id": "regionalaustraliabank-au",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Regional Australia Bank",
+  "description": "Regional Australia Bank is a customer owned bank offering a range of personal & business banking products, home loans & credit cards to suit your needs.\n",
+  "legalName": "Regional Australia Bank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1603144348/icons/regionalaustraliabank-au.jpg",
+  "websiteUrl": "https://www.regionalaustraliabank.com.au/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AU",
+  "countries": [
+    "AU"
+  ],
+  "compliance": [
+    {
+      "regulation": "CDR",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/au/app/cmg-banking/id1033652930?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=au.com.communitymutual.android&utm_source=global_co&utm_medium=prtnr&utm_content=mar2515&utm_campaign=partbadge&pcampaignid=mkt-other-global-all-co-prtnr-py-partbadge-mar2515-1"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "RegionalAusBank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "basiq-io",
+      "name": "Basiq",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1597878313/icons/basiq-io.jpg",
+      "websiteUrl": "https://basiq.io/"
+    },
+    {
+      "id": "microsoft-azure",
+      "name": "Microsoft Azure",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1548081100/catalog/microsoft-azure/icon128x128.png",
+      "websiteUrl": "https://azure.microsoft.com"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
