@@ -1,0 +1,86 @@
+{
+  "id": "sony-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Sony Bank",
+  "description": "Sony Bank is a Japanese commercial bank established in April 2001. It operates as a direct bank and has no physical branches or ATMs. It is one of the largest online banks in Japan and a subsidiary of Sony Financial Holdings, the financial business unit of the Japanese electronics company Sony.",
+  "legalName": "Sony Bank Incorporated",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1603335774/icons/sony-bank.png",
+  "websiteUrl": "https://moneykit.net/",
+  "ownership": [
+    {
+      "providerId": "sony-financial-group",
+      "shareholderName": "Sony Financial Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1603335986/icons/sony-financial-group.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "JP",
+  "countries": [
+    "JP"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Sony_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "alexa",
+      "name": "Alexa.com",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1537439082/catalog/alexa/icon128x128.svg",
+      "websiteUrl": "http://alexa.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
