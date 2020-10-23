@@ -1,0 +1,84 @@
+{
+  "id": "treecard",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "TreeCard",
+  "description": "TreeCard is the free top-up debit card that reforests the planet with your everyday payments. 80% of profits go straight to reforestation. World’s first wooden debit card. No greenwashing, no fees.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1603438672/radar/icons/treecard-org.jpg",
+  "websiteUrl": "https://www.treecard.org/",
+  "ownership": [
+    {
+      "providerId": "ecosia-org",
+      "shareholderName": "Ecosia",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1589738000/catalog/ecosia-org/icon128x128.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "TreeCardApp",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [
+    "mastercard"
+  ],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "ecosia-org",
+      "name": "Ecosia",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589738000/catalog/ecosia-org/icon128x128.png",
+      "websiteUrl": "https://www.ecosia.org/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
