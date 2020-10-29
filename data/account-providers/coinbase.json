@@ -1,0 +1,189 @@
+{
+  "id": "coinbase",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Coinbase",
+  "description": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency like Bitcoin, Ethereum, and more. Based in the USA, Coinbase is available in over 30 countries worldwide.",
+  "legalName": "Coinbase, Inc.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1572574657/catalog/coinbase/icon128x128.png",
+  "websiteUrl": "https://www.coinbase.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developers.coinbase.com"
+  },
+  "developerPortalUrl": "https://developers.coinbase.com",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developers.coinbase.com/api/v2",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "type": "ruby",
+      "official": true,
+      "websiteUrl": "https://developers.coinbase.com/api/v2#"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "type": "python",
+      "official": true,
+      "websiteUrl": "https://developers.coinbase.com/api/v2#"
+    },
+    {
+      "id": "node",
+      "name": "Node",
+      "type": "node",
+      "official": true,
+      "websiteUrl": "https://developers.coinbase.com/api/v2#"
+    },
+    {
+      "id": "php",
+      "name": "PHP",
+      "type": "php",
+      "official": true,
+      "websiteUrl": "https://github.com/coinbase/coinbase-php"
+    },
+    {
+      "id": "go",
+      "name": "coinbase-go",
+      "type": "go",
+      "official": true,
+      "websiteUrl": "https://github.com/fabioberger/coinbase-go"
+    },
+    {
+      "id": "net",
+      "name": "Coinbase.NET",
+      "type": "net",
+      "official": true,
+      "websiteUrl": "https://github.com/chrisgwilliams/coinbase.net"
+    }
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/coinbase-buy-sell-bitcoin/id886427730"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.coinbase.android"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "coinbase",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "crypto"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "bitcoin-org",
+      "name": "Bitcoin",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583231620/catalog/bitcoin-org/icon128x128.jpg",
+      "websiteUrl": "https://bitcoin.org/"
+    },
+    {
+      "id": "ethereum-org",
+      "name": "Ethereum",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591545171/icons/ethereum-org.jpg",
+      "websiteUrl": "https://ethereum.org/"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557115477/catalog/python/icon128x128.png",
+      "websiteUrl": "https://www.python.org/"
+    },
+    {
+      "id": "node-js",
+      "name": "Node.js",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557631599/catalog/node-js/icon128x128.jpg",
+      "websiteUrl": "https://nodejs.org/"
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557631589/catalog/ruby/icon128x128.png",
+      "websiteUrl": "https://www.ruby-lang.org/"
+    },
+    {
+      "id": "php",
+      "name": "PHP",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557631590/catalog/php/icon128x128.png",
+      "websiteUrl": "https://www.php.net/"
+    },
+    {
+      "id": "webhooks",
+      "name": "Webhooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1537439398/catalog/webhooks/icon128x128.svg"
+    },
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456131/catalog/shopify/icon128x128.png",
+      "websiteUrl": "https://www.shopify.com/"
+    },
+    {
+      "id": "woocommerce",
+      "name": "WooCommerce",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456157/catalog/woocommerce/icon128x128.png",
+      "websiteUrl": "https://woocommerce.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://commerce.coinbase.com/docs/#integrations"
+}
