@@ -1,24 +1,27 @@
 {
-  "id": "kasikornbank",
+  "id": "linebk",
   "type": [
     "account"
   ],
   "bankType": [
-    "universal"
+    "challenger"
   ],
-  "name": "KBank (kasikornbank)",
-  "description": "Kasikornbank, Chinese: 开泰银行; pinyin: Kāi Tài Yínháng, stylised in all caps, often stylised as KBank and formerly known as the Thai Farmers Bank is a banking group in Thailand. KBank was established on 8 June 1945 by Choti Lamsam, with registered capital of five million baht.",
-  "legalName": "Kasikornbank Public Company Limited",
+  "name": "Line BK",
+  "description": "Line BK is a social banking platform in Thailand formed by a collaboration between Kasikornbank (KBank) and Line Corporation.",
+  "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
-  "aliases": [
-    "KBank"
-  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1604116681/radar/icons/kasikornbank.jpg",
-  "websiteUrl": "https://kasikornbank.com",
-  "ownership": [],
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1604118328/radar/icons/linebk.jpg",
+  "websiteUrl": "https://linebk.com/",
+  "ownership": [
+    {
+      "providerId": "line",
+      "shareholderName": "LINE",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1561048368/catalog/line/icon128x128.png"
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "TH",
   "countries": [
@@ -41,29 +44,35 @@
   "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
-  "twitter": "KBank_Live",
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kasikornbank",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
-  "thirdPartyBankingLicense": null,
+  "thirdPartyBankingLicense": "kasikornbank",
   "debitCardLicense": null,
   "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
   "prepaidDebitCards": [],
-  "debitCards": [],
+  "debitCards": [
+    "visa"
+  ],
   "creditCards": [],
   "virtualCards": [],
   "applePay": false,
   "googlePay": false,
   "samsungPay": false,
   "fitbitPay": false,
-  "partnerships": [],
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": [],
-  "marketplaceUrl": ""
+  "awards": []
 }
