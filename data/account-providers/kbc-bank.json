@@ -12,8 +12,11 @@
   "ipoStatus": "public",
   "stockSymbol": "EBR:KBC",
   "verified": false,
+  "aliases": [
+    "KBC Bank"
+  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589998014/radar/icons/kbc.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589999119/catalog/kbc/icon128x128.jpg",
   "websiteUrl": "https://www.kbc.com",
   "ownership": [],
   "stateOwned": false,
@@ -42,6 +45,9 @@
   "apiAuth": [
     "OAUTH2"
   ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service (AIS)",
@@ -109,9 +115,8 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
-    "bankingsdk",
-    "budget-insight",
     "klarna",
     "ibanity",
     "banqup"
@@ -140,7 +145,9 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/KBC_Bank",
   "crunchbase": "kbc-bank",
   "bloomberg": null,
+  "github": null,
   "fca": "001b000000MfHWzAAN",
+  "alumni": [],
   "articles": [
     {
       "url": "https://newsroom.kbc.com/belgians-positive-towards-integrated-banking-app-kbc-mobile-gives-direct-access-to-current-accounts-held-with-other-banks",
@@ -150,13 +157,20 @@
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
+  "applePay": "true",
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
+  "rewardPartners": [],
   "integrations": [
     {
       "id": "teamleader",
@@ -169,6 +183,12 @@
       "name": "iController",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1589999122/catalog/icontroller-org/icon128x128.png",
       "websiteUrl": "https://icontroller.org/"
+    },
+    {
+      "id": "apple-pay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
     }
   ],
   "platforms": [],
