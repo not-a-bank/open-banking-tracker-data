@@ -1,0 +1,143 @@
+{
+  "id": "volksbank-at",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Volksbank",
+  "description": "As a regional universal bank, Volksbank focuses on customer partnerships. Customer loyalty and quality of advice.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1604388549/radar/icons/volksbank-at.jpg",
+  "websiteUrl": "https://www.volksbank.at/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.volksbank.at/volksbanken-verbund/psd2-fuer-zahlungsdienstleister"
+  },
+  "developerPortalUrl": "https://www.volksbank.at/volksbanken-verbund/psd2-fuer-zahlungsdienstleister",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://xs2a.banking.co.at/psd2/m044/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a.banking.co.at/psd2/m044/",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live",
+      "specifications": "",
+      "apiSpecs": []
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a.banking.co.at/psd2/m044/",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a.banking.co.at/psd2/m044/",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live",
+      "specifications": "",
+      "apiSpecs": []
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://xs2a.banking.co.at/psd2/m044/",
+      "apiReferenceUrl": "",
+      "premium": false,
+      "stage": "live",
+      "specifications": "",
+      "apiSpecs": []
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "sumup",
+      "name": "Credit Card Readers - Accept Card Payments including EMV and NFC | SumUp",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573959827/catalog/sumup/icon128x128.jpg",
+      "websiteUrl": "https://sumup.com/"
+    },
+    {
+      "id": "sepa",
+      "name": "SEPA",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1599720012/icons/sepa.png",
+      "websiteUrl": "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
