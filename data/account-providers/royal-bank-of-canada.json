@@ -1,0 +1,84 @@
+{
+  "id": "royal-bank-of-canada",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Royal Bank of Canada (RBC)",
+  "description": "The Royal Bank of Canada is a Canadian multinational financial services company and the largest bank in Canada by market capitalization. The bank serves over 16 million clients and has 86,000+ employees worldwide.",
+  "legalName": "Royal Bank of Canada",
+  "ipoStatus": "public",
+  "stockSymbol": "TSX:RY",
+  "verified": false,
+  "aliases": [
+    "RBC"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1604370636/radar/icons/royal-bank-of-canada.jpg",
+  "websiteUrl": "https://www.rbcroyalbank.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/ca/app/rbc-mobile/id407597290?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.rbc.mobile.android&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Royal_Bank_of_Canada",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [
+    {
+      "id": "americanairlines",
+      "name": "American Airlines",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1581062142/catalog/americanairlines/icon128x128.png",
+      "websiteUrl": "https://www.aa.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
