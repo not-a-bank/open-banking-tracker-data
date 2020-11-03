@@ -12,8 +12,11 @@
   "ipoStatus": "public",
   "stockSymbol": null,
   "verified": false,
+  "aliases": [
+    "Emirates NBD"
+  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591641165/radar/icons/emiratesnbd.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591640865/icons/emiratesnbd.jpg",
   "websiteUrl": "https://www.emiratesnbd.com/",
   "ownership": [],
   "stateOwned": true,
@@ -27,6 +30,8 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
@@ -39,17 +44,33 @@
   "twitter": "EmiratesNBD_AE",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Emirates_NBD",
   "bloomberg": null,
+  "alumni": [],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
   "prepaidDebitCards": [],
   "debitCards": [],
-  "creditCards": [],
+  "creditCards": [
+    "visa"
+  ],
   "virtualCards": [],
-  "partnerships": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": [],
