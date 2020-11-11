@@ -1,0 +1,77 @@
+{
+  "id": "teximbank-bg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Texim Bank",
+  "description": "Teximbank is the oldest operating private bank in Bulgaria. It was created by Georgi Naydenov, a famous Bulgarian businessman, who created the state-owned economic group Texim in the 1960s and 1970s.",
+  "legalName": "Texim Bank AD",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1605054613/radar/icons/teximbank-bg.jpg",
+  "websiteUrl": "https://www.teximbank.bg/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BG",
+  "countries": [
+    "BG"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "teximbank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Texim_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "sepa",
+      "name": "SEPA",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1599720012/icons/sepa.png",
+      "websiteUrl": "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
