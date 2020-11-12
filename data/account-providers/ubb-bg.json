@@ -1,0 +1,178 @@
+{
+  "id": "ubb-bg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "United Bulgarian Bank (UBB)",
+  "description": "United Bulgarian Bank (UBB) was established in 1992 and has been a member of the KBC group since 2017.",
+  "legalName": "United Bulgarian Bank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "UBB"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1605151449/radar/icons/ubb-bg.svg",
+  "websiteUrl": "https://www.ubb.bg/",
+  "ownership": [
+    {
+      "providerId": "kbc",
+      "shareholderName": "KBC",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1589999119/catalog/kbc/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BG",
+  "countries": [
+    "BG"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.ubb.bg/ubb-sb/psd2"
+  },
+  "developerPortalUrl": "https://developer.ubb.bg/ubb-sb/psd2",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.ubb.bg/en/reference-interest-rates",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.ubb.bg/ubb-sb/psd2/product/35",
+      "apiReferenceUrl": "https://developer.ubb.bg/ubb-sb/psd2/product/35/api/6",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "blob:https://developer.ubb.bg/eac20bcd-f059-4c3a-a54a-af42e2532461"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.ubb.bg/ubb-sb/psd2/product/36",
+      "apiReferenceUrl": "https://developer.ubb.bg/ubb-sb/psd2/product/36/api/12",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "blob:https://developer.ubb.bg/201a4fd8-e433-4862-a78e-d3a48adc4e0d"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.ubb.bg/ubb-sb/psd2/product/11",
+      "apiReferenceUrl": "https://developer.ubb.bg/ubb-sb/psd2/product/11/api/10",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "blob:https://developer.ubb.bg/15b2c901-55bd-4e79-bfc8-6c8c4c616684"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.ubb.bg/ubb-sb/psd2/product/9",
+      "apiReferenceUrl": "https://developer.ubb.bg/ubb-sb/psd2/product/9/api/8",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "blob:https://developer.ubb.bg/a4900249-b522-4f78-a792-15cda4d402bb"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/bg/app/ubb-mobile/id1372810706?l=en"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=bg.ubb.mobile"
+    }
+  ],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/United_Bulgarian_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "ibm-api-connect",
+      "name": "IBM API Connect",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568494917/catalog/ibm-api-connect/icon128x128.jpg",
+      "websiteUrl": "https://www.ibm.com/cloud/api-connect"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
