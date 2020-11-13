@@ -63,9 +63,20 @@
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
   "rewardPartners": [],
-  "integrations": [],
+  "integrations": [
+    {
+      "id": "finicity",
+      "name": "Finicity",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573360773/catalog/finicity/icon128x128.jpg",
+      "websiteUrl": "https://www.finicity.com/"
+    }
+  ],
   "platforms": [],
   "awards": [],
   "marketplaceUrl": ""
