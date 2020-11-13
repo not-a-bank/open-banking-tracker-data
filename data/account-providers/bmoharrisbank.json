@@ -1,0 +1,72 @@
+{
+  "id": "bmoharrisbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "BMO Harris Bank",
+  "description": "BMO Harris Bank, N.A. is a United States bank based in Chicago, Illinois. It is a member of the Federal Reserve System and operates branches in the states of Illinois, Indiana, Arizona, Missouri, Minnesota, Kansas, Florida, Wisconsin, and California.",
+  "legalName": "BMO Harris Bank, N.A.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1605296727/radar/icons/bmoharrisbank.jpg",
+  "websiteUrl": "https://www.bmoharris.com/main/personal",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://www.bmocm.com",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.bmocm.com",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/bmo-harris-mobile-banking/id538891526?ls=1&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bmoharris.digital&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "BMOHarrisBank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BMO_Harris_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
