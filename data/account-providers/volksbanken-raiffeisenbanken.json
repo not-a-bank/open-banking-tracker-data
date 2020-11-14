@@ -1,0 +1,106 @@
+{
+  "id": "volksbanken-raiffeisenbanken",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Volksbanken Raiffeisenbanken",
+  "description": "Volksbanken und Raiffeisenbanken is a brand of cooperative banks in Germany.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1605383954/radar/icons/volksbanken-raiffeisenbanken.jpg",
+  "websiteUrl": "https://www.vr.de",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/de/app/vr-de/id375341021"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.fiducia.smartphone.android.banking.vr"
+    }
+  ],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Volksbanken_und_Raiffeisenbanken",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "dz-bank",
+      "name": "DZ Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569631997/catalog/dz-bank/icon128x128.jpg",
+      "websiteUrl": "https://www.dzbank.com/"
+    },
+    {
+      "id": "ios",
+      "name": "IOS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1561568396/catalog/ios/icon128x128.png",
+      "websiteUrl": "https://developer.apple.com/ios/"
+    },
+    {
+      "id": "android",
+      "name": "Android",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055773/catalog/android/icon128x128.png"
+    },
+    {
+      "id": "sepa",
+      "name": "SEPA",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1599720012/icons/sepa.png",
+      "websiteUrl": "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en"
+    }
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "awards": [],
+  "marketplaceUrl": ""
+}
