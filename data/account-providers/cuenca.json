@@ -1,0 +1,84 @@
+{
+  "id": "cuenca",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Cuenca",
+  "description": "Cuenca calls to the unbanked in Mexico. Cuenca, the business-to-consumer (B2C) fintech was founded in early 2018.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1605648092/radar/icons/cuenca.jpg",
+  "websiteUrl": "https://cuenca.com/",
+  "ownership": [
+    {
+      "shareholderName": "Stripe",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "providerId": "stripe"
+    },
+    {
+      "shareholderName": "Andreessen Horowitz",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1603144424/icons/a16z.png",
+      "providerId": "a16z"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "MX",
+  "countries": [
+    "MX"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "github": "https://www.github.com/cuenca-mx",
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
