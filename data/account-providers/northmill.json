@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594111318/radar/icons/northmill.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594129812/icons/northmill.jpg",
   "websiteUrl": "https://www.northmill.com/",
   "ownership": [],
   "stateOwned": false,
@@ -33,6 +33,7 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
@@ -54,9 +55,17 @@
   "twitter": "Northmill_Int",
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "tink",
+      "name": "Tink",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568053071/catalog/tink/icon128x128.jpg",
+      "websiteUrl": "https://tink.com"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
