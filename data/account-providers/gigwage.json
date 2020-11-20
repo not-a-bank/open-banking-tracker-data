@@ -1,0 +1,78 @@
+{
+  "id": "gigwage",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Gig Wage",
+  "description": "Instant payouts for 1099 contractors. Easy contractor payroll. 1099 Payments & Payroll APIs. Stay compliant with Gig Wage.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1605866605/icons/gigwage.jpg",
+  "websiteUrl": "https://gigwage.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://gigwage.com/pages/products/developer-api",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://gigwage.com/pages/products/developer-api",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "GigWage",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "contractor",
+    "freelancer",
+    "gig-worker"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "when-i-work",
+      "name": "When I Work",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566830046/catalog/when-i-work/icon128x128.png",
+      "websiteUrl": "https://wheniwork.com"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://gigwage.com/pages/integrations/wheniwork"
+}
