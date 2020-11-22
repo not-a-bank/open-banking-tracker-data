@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571965117/radar/icons/qonto-eu.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571995818/catalog/qonto-eu/icon128x128.jpg",
   "websiteUrl": "https://qonto.eu",
   "ownership": [],
   "stateOwned": false,
@@ -24,7 +24,7 @@
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "unknown"
     }
   ],
   "developerPortalUrl": "https://api-doc.qonto.eu",
@@ -33,12 +33,14 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://api-doc.qonto.eu",
-  "apiAggregators": [
-    "budget-insight",
-    "bridgeapi-io"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -51,12 +53,104 @@
     }
   ],
   "financialReports": [],
+  "twitter": "getqonto",
   "bloomberg": null,
-  "bankingLicense": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
-  "creditCards": [],
+  "creditCards": [
+    "mastercard"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "acasi-io",
+      "name": "Acasi",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583796514/catalog/acasi-io/icon128x128.jpg",
+      "websiteUrl": "https://www.acasi.io/"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/"
+    },
+    {
+      "id": "agicap-fr",
+      "name": "Agicap",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583796510/catalog/agicap-fr/icon128x128.jpg",
+      "websiteUrl": "https://agicap.fr/"
+    },
+    {
+      "id": "azopio",
+      "name": "Azopio",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583796507/catalog/azopio/icon128x128.jpg",
+      "websiteUrl": "https://www.azopio.com/"
+    },
+    {
+      "id": "bankin",
+      "name": "Bankin'",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583796505/catalog/bankin/icon128x128.png",
+      "websiteUrl": "https://bankin.com/"
+    },
+    {
+      "id": "cacomptepourmoi-fr",
+      "name": "Ça Compte Pour Moi",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583796503/catalog/cacomptepourmoi-fr/icon128x128.jpg",
+      "websiteUrl": "https://www.cacomptepourmoi.fr/"
+    },
+    {
+      "id": "compta-clementine-fr",
+      "name": "Compta Clementine",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583796498/catalog/compta-clementine-fr/icon128x128.jpg",
+      "websiteUrl": "https://www.compta-clementine.fr/"
+    },
+    {
+      "id": "comptastart",
+      "name": "Comptastart",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598560864/icons/comptastart.png",
+      "websiteUrl": "https://www.legalstart.fr/comptastart/"
+    },
+    {
+      "id": "dougs-fr",
+      "name": "Dougs",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583796492/catalog/dougs-fr/icon128x128.jpg",
+      "websiteUrl": "https://www.dougs.fr/"
+    },
+    {
+      "id": "compta",
+      "name": "ComptaCom",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583910858/catalog/compta/icon128x128.png",
+      "websiteUrl": "http://www.compta.com/"
+    },
+    {
+      "id": "satispay",
+      "name": "Satispay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593450157/icons/satispay.jpg",
+      "websiteUrl": "https://www.satispay.com/"
+    }
+  ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "marketplaceUrl": "https://support.qonto.eu/hc/en-us/articles/360000310489-What-apps-can-automatically-pull-Qonto-transactions-"
 }
