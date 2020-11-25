@@ -21,12 +21,21 @@
   "countries": [
     "CH",
     "DE",
+    "FR",
+    "UK",
+    "LU",
+    "ES",
+    "AT",
     "IT"
   ],
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "active"
+    },
+    {
+      "standard": "SIX bLink",
+      "status": "active"
     }
   ],
   "sandbox": {
@@ -81,7 +90,7 @@
       "premium": false
     }
   ],
-  "apiStandards": [],
+  "apiStandards": ["SIX bLink", "Berlin Group"],
   "sdks": null,
   "postmanCollections": null,
   "webApplication": true,
@@ -118,7 +127,7 @@
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
-  "platforms": [],
+  "platforms": ["SIX bLink"],
   "pricingUrl": null,
   "awards": []
 }
