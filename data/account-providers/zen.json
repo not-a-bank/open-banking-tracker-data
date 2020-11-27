@@ -1,0 +1,116 @@
+{
+  "id": "zen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "ZEN.COM",
+  "description": "ZEN.COM is a licensed financial institution under the supervision of the Central Bank of Lithuania approved by European Banking Authority for 31 countries.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1606438620/radar/icons/zen.webp",
+  "websiteUrl": "https://www.zen.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": [
+    "BE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {},
+  "developerPortalUrl": "https://developer.zen.com/payments",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.zen.com/api",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.zen.application"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "mastercard"
+  ],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [
+    {
+      "id": "zenefits",
+      "name": "Zenefits",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554428048/catalog/zenefits/icon128x128.jpg"
+    },
+    {
+      "id": "booking-com",
+      "name": "Booking.com",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962514/catalog/booking-com/icon128x128.jpg",
+      "websiteUrl": "https://www.booking.com"
+    },
+    {
+      "id": "aliexpress",
+      "name": "AliExpress",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591745740/icons/aliexpress.jpg",
+      "websiteUrl": "https://www.aliexpress.com/"
+    }
+  ],
+  "integrations": [
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593103732/icons/google-pay.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    },
+    {
+      "id": "apple-pay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
