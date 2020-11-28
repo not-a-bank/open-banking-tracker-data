@@ -27,7 +27,10 @@
       "status": "unknown"
     }
   ],
-  "sandbox": {},
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.zen.com/payments/"
+  },
   "developerPortalUrl": "https://developer.zen.com/payments",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
@@ -37,7 +40,19 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+  {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "ZEN allows you to start accepting more than 150 global and local payment options (including credit cards, instant bank transfers, and many more). The following document will guide you through integration process and introduce to main features of the Public API",
+      "documentationUrl": "https://developer.zen.com/payments/api/",
+      "apiReferenceUrl": "https://developer.zen.com/payments/api/",
+      "premium": false,
+      "stage": "live"
+    }],
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [],
