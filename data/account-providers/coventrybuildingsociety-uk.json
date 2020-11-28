@@ -1,0 +1,116 @@
+{
+  "id": "coventrybuildingsociety-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Coventry Building Society",
+  "description": "The Coventry Building Society is a building society based in Coventry, England. It is the second largest in the United Kingdom with total assets of more than £49 billion at 31 December 2019. It is a member of the Building Societies Association. The society has 1.5m saver-members and a further 350,000 borrower-members.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1606481118/icons/coventrybuildingsociety-uk.jpg",
+  "websiteUrl": "https://www.coventrybuildingsociety.co.uk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.coventrybuildingsociety.co.uk/content/dam/cbs/consumer/pdf/get-in-touch/media-centre/2019/january-2019/Coventry-Building-Society-API-Testing-050419.pdf"
+  },
+  "developerPortalUrl": "https://developer.coventrybuildingsociety.co.uk/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/march-2019/CBS%20Account%20and%20Transaction%20API%20Specification%20v2.0.pdf",
+      "apiReferenceUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/march-2019/CBS%20Account%20and%20Transaction%20API%20Specification%20v2.0.pdf",
+      "premium": false,
+      "stage": "live",
+      "specification": ""
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/march-2019/CBS%20Payment%20API%20Specification%20v2.0.pdf",
+      "apiReferenceUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/march-2019/CBS%20Payment%20API%20Specification%20v2.0.pdf",
+      "premium": false,
+      "stage": "live",
+      "specification": ""
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/may-2020/CBS%20confirmation%20of%20funds%20API%20specification.pdf",
+      "apiReferenceUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/may-2020/CBS%20confirmation%20of%20funds%20API%20specification.pdf",
+      "premium": false,
+      "stage": "live",
+      "specification": ""
+    }
+  ],
+  "apiStandards": [
+    "OBIE"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "CoventryBS",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Coventry_Building_Society",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
