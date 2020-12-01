@@ -1,0 +1,127 @@
+{ 
+  "id": "equensWorldline",
+  "type": ["third-party"],
+  "name": "equensWorldline",
+  "icon": "",
+  "verified": false,
+  "websiteUrl": "https://www.equensworldline.com/",
+  "countryHQ": "NL",
+  "countries": [ "DE", "NL", "FR", "UK", "AT", "ES", "IT", "BE", "HR", "SI", "SK", "CZ", "HU", "BG", "RO" ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance" : [
+    { 
+      "regulation": "PSD2",
+      "status": "ready"
+    },
+    {
+      "regulation": "GDPR",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl" : "https://developer.equensworldline.com/home.html",
+  "apiStandards": [],
+  "apiProducts": [],    
+  "ownership": [ {
+      "shareholderName": "Worldline",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1585395193/catalog/worldline/icon128x128.png",
+      "providerId": "Worldline"
+      }
+  ],
+  "stateOwned": false,
+  "stockSymbol" : "WLN",
+  "parentId" : "",
+  "status": "live",
+  "desription": "TPP Services provider",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/EquensWorldline",
+  "legalName": "equensWorldline SE",
+  "thirdPartyBankingLicense" : null,
+  "debitAccountLicense" : null,
+  "sandbox" : {
+    "status" : "unavailable",
+    "sourceUrl" : null
+  },
+  "developerSuccesStoriesUrl" : null,
+  "tppAccessInterface" : ["api"],
+  "apiAggregators" : [],
+  "collections": [],
+  "openBankProjectUrl" : null,
+  "developerCommunityUrl": null,
+  "slackCommunity": false,
+  "acceleratorProgramUrl": null,
+  "acceleratorProgram": null,
+  "apiGateways": [ 
+    "cbiglobe"
+  ],
+  "apiAuth": [],
+  "apiChangelogUrl" : null,
+  "apiReferenceUrl": "https://developer.equensworldline.com/home/api-services/access2account-apis.html",
+  "apiStandards": [
+      "OBIE",
+      "STET",
+      "BERLIN",
+      "BISTRA"
+  ],
+  "apiServerEndpoints" :  [],
+  "apiAccess" : "verifiedTpp",
+  "apiAccessRequestUrl" : null,
+  "apiStatusUrls" : [],
+  "totalApiProducts" : null,
+  "developerContactEmail" : null,
+  "apiSpecs" : [],
+  "apiPerformanceReports" : null,
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Securely retrieve real-time Account Information from over 150 banks across Europe.",
+      "documentationUrl": "https://developer.equensworldline.com/home/api-services/access2account-apis/xs2a-ais-v2.html",
+      "apiReferenceUrl": "https://developer.equensworldline.com/home/api-services/access2account-apis/xs2a-ais-v2/documentation.html",
+      "premium": true,
+      "stage": "live",
+      "customerTypes" : [ "retail", "business", "corporate", "private"]
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "Integrate secure Payment Initiation in your application from over 150 banks across Europe",
+      "categories": ["payments"],
+      "documentationUrl": "https://developer.equensworldline.com/home/api-services/access2account-apis/xs2a-pis-v2.html",
+      "apiReferenceUrl": "https://developer.equensworldline.com/home/api-services/access2account-apis/xs2a-pis-v2/documentation.html",
+      "premium": true,
+      "stage": "live",
+      "customerTypes" : [ "retail", "business", "corporate", "private"]
+    },
+    {
+      "label": "Reach Directory",
+      "type": "other",
+      "description": "Get the list of our connected account providers (ASPSPs)",
+      "categories": ["products"],
+      "documentationUrl": "https://developer.equensworldline.com/home/api-services/access2account-apis/xs2a-reachdirectory-v2.html",
+      "apiReferenceUrl": "https://developer.equensworldline.com/home/api-services/access2account-apis/xs2a-reachdirectory-v2/xs2a-directory-documentation.html",
+      "premium": true,
+      "stage": "live",
+      "customerTypes" : [ "retail", "business", "corporate", "private"]
+    }
+  ],
+  "sdks": null,
+  "postmanCollections": null,
+  "apiMarketPlaceUrl": null,
+  "partnerships": [],
+  "rewardPartners" : null,
+  "twitter" : null,
+  "github" : null,
+  "crunchbase" : null,
+  "fca" : null,
+  "legalEntityIdentifier" : null,
+  "swiftCode" : null,
+  "ipoStatus": "public",
+  "investorRelationsUrl": null,
+  "financialReports" : null,   
+  "ownership" : [],
+  "dataBreaches": [],
+  "articles": null,
+  "integrations": [],
+  "platforms": []  
+}

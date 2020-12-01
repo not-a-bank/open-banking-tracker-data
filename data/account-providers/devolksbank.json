@@ -53,7 +53,10 @@
       "stage": "upcoming"
     }
   ],
-   "apiStandards": [],
+  "apiStandards": [],
+  "apiAggregators": [
+    "equensWorldline"
+  ],
   "webApplication": false,
   "mobileApps": [],
   "stockSymbol": null,

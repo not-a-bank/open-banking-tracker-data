@@ -37,7 +37,7 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://psd2dev.fibank.bg",
-  "apiAggregators": [],
+  "apiAggregators": ["equensWorldline"],
   "apiProducts": [
     {
       "label": "Account Information",
