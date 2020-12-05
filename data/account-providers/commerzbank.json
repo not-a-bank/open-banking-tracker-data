@@ -1,0 +1,137 @@
+{
+  "id": "commerzbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "bankingGroup": true,
+  "name": "Commerzbank",
+  "description": "Commerzbank Aktiengesellschaft is a major German bank operating as a universal bank, headquartered in Frankfurt am Main. In the 2019 financial year, the bank was the second largest in Germany by the total value of its balance sheet.",
+  "legalName": null,
+  "ipoStatus": "public",
+  "stockSymbol": "CZB",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1566876696/catalog/commerzbank/icon128x128.jpg",
+  "websiteUrl": "https://commerzbank.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.commerzbank.com/"
+  },
+  "developerPortalUrl": "https://developer.commerzbank.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.commerzbank.com/en/hauptnavigation/aktionaere/informationen_f_r_fremdkapitalgeber/more.html",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2.developer.commerzbank.com/psd2-ais-prod/apis",
+      "apiReferenceUrl": "https://psd2.developer.commerzbank.com/psd2-ais-prod/apis",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2.developer.commerzbank.com/psd2-pis-prod/apis",
+      "apiReferenceUrl": "https://psd2.developer.commerzbank.com/psd2-pis-prod/apis",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2.developer.commerzbank.com/psd2-fcs-prod/apis",
+      "apiReferenceUrl": "https://psd2.developer.commerzbank.com/psd2-fcs-prod/apis",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2.developer.commerzbank.com/psd2-oauth2-prod/apis",
+      "apiReferenceUrl": "https://psd2.developer.commerzbank.com/psd2-oauth2-prod/apis",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "https://twitter.com/commerzbank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Commerzbank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "sepa",
+      "name": "SEPA",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1599720012/icons/sepa.png",
+      "websiteUrl": "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
