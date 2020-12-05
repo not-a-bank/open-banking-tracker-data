@@ -1,0 +1,104 @@
+{
+  "id": "86400-au",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "86 400",
+  "description": "Launched in September 2019, 86 400 is one of Australia’s pioneering neobanks, and it's all about giving Aussie customers easy access to their money and real time information about their finances - every second of the day.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607145570/radar/icons/86400-au.png",
+  "websiteUrl": "https://www.86400.com.au/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AU",
+  "countries": [
+    "AU"
+  ],
+  "compliance": [
+    {
+      "regulation": "CDR",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.86400.com.au/cdr-api",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.86400.com.au/cdr-api",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Products",
+      "type": "productFinder",
+      "description": "Retrieve a list of products, as well as detailed product information on a single product, which are part of the Open Banking scheme, and are currently openly offered to the market.",
+      "categories": [
+        "products"
+      ],
+      "documentationUrl": "https://www.86400.com.au/cdr-api/",
+      "apiReferenceUrl": null,
+      "apiSpecs": [],
+      "regulation": "CDR",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/au/app/86-400-smart-bank/id1449543099"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=au.com.bank86400&hl=en_au"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "86400smartbank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
