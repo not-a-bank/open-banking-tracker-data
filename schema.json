@@ -49,6 +49,12 @@
       "description": "The banking group ID this bank is part of",
       "examples": ["erste-group"]
     },
+    "numberOfBanks": { 
+      "title": "Number of banks",
+      "type": "number", 
+      "description": "The number of banks linked to this banking group",
+      "examples": [15]
+    },
     "type": { 
       "title": "Provider type",
       "type": "array",
