@@ -118,6 +118,10 @@
   "webApplication": false,
   "mobileApps": [
     {
+      "operatingSystem": "iOS",
+      "storeUrl": "https://apps.apple.com/app/id1254438272"
+    },
+    {
       "operatingSystem": "android",
       "storeUrl": "https://play.google.com/store/apps/details?id=eu.unicredit.internet.buddybank&hl=it&pcampaignid=pcampaignidmkt-other-global-all-co-prtnr-py-partbadge-mar2515-1"
     }
