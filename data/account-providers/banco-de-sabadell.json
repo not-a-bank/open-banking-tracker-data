@@ -6,14 +6,17 @@
   "bankType": [
     "universal"
   ],
-  "name": "Sabadell",
+  "bankingGroup": true,
+  "numberOfBanks": 9,
+  "name": "Banco Sabadell",
+  "description": "Banco de Sabadell, S.A. is a Spanish multinational financial services company headquartered in Alicante, Spain. It is the fifth-largest Spanish banking group. It includes several banks, brands, subsidiaries and associated banks",
   "legalName": "Banco de Sabadell, S.A.",
   "ipoStatus": "public",
   "stockSymbol": "BME:SAB",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568788239/radar/icons/banco-de-sabadell.jpg",
-  "websiteUrl": "https://www.bancsabadell.com/cs/Satellite/SabAtl/",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Banco_Sabadell.jpg",
+  "websiteUrl": "https://www.bancsabadell.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "ES",
@@ -34,20 +37,17 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell"
+    "sourceUrl": "https://newsletters.bancsabadell.com/psd2-es"
   },
   "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell",
-  "apiAggregators": [
-    "bankingsdk",
-    "klarna",
-    "bridgeapi-io",
-    "ibanity",
-    "equensworldline"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -87,6 +87,15 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "bankingsdk",
+    "klarna",
+    "bridgeapi-io",
+    "ibanity",
+    "equensworldline"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -107,12 +116,34 @@
     }
   ],
   "twitter": "BancoSabadell",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Banco_Sabadell",
   "crunchbase": "banco-sabadell",
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfJLoAAN",
+  "alumni": [],
   "articles": [],
   "stack": [
-    "redsys-es"
-  ]
+    {
+      "id": "redsys-es",
+      "name": "Redsys",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1607659998/icons/redsys-es.jpg",
+      "websiteUrl": "http://www.redsys.es/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
