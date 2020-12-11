@@ -6,6 +6,8 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 5,
   "name": "Alpha Bank",
   "legalName": "Alpha Bank S.A.",
   "ipoStatus": "public",
@@ -90,7 +92,9 @@
       "specifications": "BERLIN1.3"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiStatusUrls": [],
   "apiAggregators": [
     "salt-edge"
