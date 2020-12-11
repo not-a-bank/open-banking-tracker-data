@@ -32,10 +32,6 @@
     {
       "regulation": "PSD2",
       "status": "active"
-    },
-    {
-      "standard": "SIX bLink",
-      "status": "active"
     }
   ],
   "sandbox": {
@@ -50,7 +46,8 @@
   "apiReferenceUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
   "apiChangelogUrl": null,
   "apiAggregators": [
-    "klarna"
+    "klarna",
+    "six-group-b-link"
   ],
   "apiProducts": [
     {
@@ -90,7 +87,7 @@
       "premium": false
     }
   ],
-  "apiStandards": ["SIX bLink", "Berlin Group"],
+  "apiStandards": ["SIX-B-LINK", "BERLIN"],
   "sdks": null,
   "postmanCollections": null,
   "webApplication": true,
@@ -127,7 +124,7 @@
   "prepaidCards": [],
   "debitCards": [],
   "creditCards": [],
-  "platforms": ["SIX bLink"],
+  "platforms": [],
   "pricingUrl": null,
   "awards": []
 }
