@@ -1,25 +1,35 @@
 {
   "id": "dnb",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "bankingGroup": true,
+  "numberOfBanks": 9,
   "name": "DNB",
   "legalName": "DNB ASA",
   "ipoStatus": "public",
+  "stockSymbol": null,
   "verified": true,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/DNB.jpg",
   "websiteUrl": "https://www.dnb.no/en",
   "ownership": [
     {
       "shareholderName": "Norwegian State",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552467237/radar/icons/2000px-Flag_of_Norway.svg.png",
+      "sourceUrl": "https://www.ir.dnb.no/share/largest-shareholders",
       "providerId": null,
-      "percentage": 34.0,
-      "sourceUrl": "https://www.ir.dnb.no/share/largest-shareholders"
+      "percentage": 34
     }
   ],
   "stateOwned": true,
   "countryHQ": "NO",
-  "countries": ["NO"],
+  "countries": [
+    "NO"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -31,17 +41,20 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://developer.dnb.no/Documentation/psd2#tag/PSD2%20for%20PSD2",
-  "apiAggregators": [
-    "bankingsdk",
-    "neonomics",
-    "enfuce",
-    "ibanity"
-  ],
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
-     {
+    {
       "label": "Accounts",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/Documentation/psd2#tag/Account-Information-Service-(AIS)",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Accounts",
@@ -51,7 +64,9 @@
     {
       "label": "Payments",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/Documentation/psd2#tag/Payment-Initiation-Service-(PIS)",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Payments",
@@ -61,7 +76,9 @@
     {
       "label": "API",
       "type": "auth",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/documentation#tag/API",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/API",
@@ -71,7 +88,9 @@
     {
       "label": "Cards",
       "type": "paymentInitiation",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/documentation#tag/Cards",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Cards",
@@ -81,7 +100,9 @@
     {
       "label": "Currencies",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/documentation#tag/Currencies",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Currencies",
@@ -91,7 +112,9 @@
     {
       "label": "Customers",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/documentation#tag/Customers",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Customers",
@@ -101,7 +124,9 @@
     {
       "label": "Location",
       "type": "branchLocator",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/documentation#tag/Location",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Location",
@@ -111,7 +136,9 @@
     {
       "label": "Location",
       "type": "branchLocator",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/documentation#tag/Location",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Location",
@@ -121,7 +148,9 @@
     {
       "label": "Location",
       "type": "atmLocator",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/documentation#tag/Location",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Location",
@@ -131,7 +160,9 @@
     {
       "label": "Test_Customers",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "There are ten fictitious test customers available in our sandbox.",
       "documentationUrl": "https://developer.dnb.no/documentation#tag/Test_Customers",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Test_Customers",
@@ -141,7 +172,9 @@
     {
       "label": "Transacations",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developer.dnb.no/documentation#tag/Transactions",
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Transactions",
@@ -150,6 +183,14 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "bankingsdk",
+    "neonomics",
+    "enfuce",
+    "ibanity"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -161,7 +202,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=no.apps.dnbnor&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": "https://www.ir.dnb.no/",
   "financialReports": [
     {
@@ -172,7 +212,25 @@
   ],
   "twitter": "DNB_Bank",
   "crunchbase": "dnb-nor",
+  "bloomberg": null,
   "github": "DNBbank",
   "fca": "001b000000MfJO3AAN",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
