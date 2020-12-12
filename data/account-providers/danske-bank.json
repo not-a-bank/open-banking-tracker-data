@@ -6,7 +6,10 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 13,
   "name": "Danske Bank",
+  "description": "Danske Bank A/S is a Danish bank. It was founded 5 October 1871 as Den Danske Landmandsbank, Hypothek- og Vexelbank i Kjøbenhavn. Headquartered in Copenhagen, it is the largest bank in Denmark and a major retail bank in the northern European region with over 5 million retail customers.",
   "legalName": "Danske Bank A/S",
   "ipoStatus": "public",
   "stockSymbol": "CPH:DANSKE",
@@ -52,6 +55,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://danskebank.com/openbanking",
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [
     {
@@ -129,6 +133,7 @@
     }
   ],
   "twitter": "DanskeBank_DK",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Danske_Bank",
   "crunchbase": "danske-bank",
   "bloomberg": null,
   "github": "DanskeBank",
@@ -156,6 +161,7 @@
   ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
