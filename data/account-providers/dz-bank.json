@@ -7,13 +7,16 @@
     "retail",
     "corporate"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 900,
   "name": "DZ Bank",
+  "description": "DZ Bank AG is the second largest bank in Germany by asset size and the central institution for more than 900 cooperative banks and their 12,000 branch offices.",
   "legalName": "DZ Bank AG",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568505127/radar/icons/dz-bank.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296070/radar/icons/DZ_Bank.jpg",
   "websiteUrl": "https://www.dzbank.com/",
   "ownership": [
     {
@@ -38,14 +41,59 @@
     "status": "available",
     "sourceUrl": "https://www.dzbank.de/content/dzbank_de/de/home/unsere_kunden/firmenkunden/produkte_und_leistungen/transaction_banking/konto/psd2-schnittstelle.html"
   },
-  "developerPortalUrl": "https://www.dzbank.de/content/dzbank_de/de/home/unsere_kunden/firmenkunden/produkte_und_leistungen/transaction_banking/konto/psd2-schnittstelle.html",
+  "developerPortalUrl": "https://int.psd2-xs2a.dzbank.de",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://www.dzbank.de/content/dzbank_de/de/home/unsere_kunden/firmenkunden/produkte_und_leistungen/transaction_banking/konto/psd2-schnittstelle.html",
-  "apiAggregators": [],
-  "apiProducts": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://int.psd2-xs2a.dzbank.de",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://int.psd2-xs2a.dzbank.de",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://int.psd2-xs2a.dzbank.de",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    }
+  ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [],
   "investorRelationsUrl": "https://www.dzbank.de/content/dzbank_com/en/home/DZ_BANK/investor_relations.html",
@@ -57,9 +105,27 @@
     }
   ],
   "twitter": "DZBank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/DZ_Bank",
   "crunchbase": "dz-bank",
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfELbAAN",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
