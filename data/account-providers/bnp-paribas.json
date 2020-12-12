@@ -6,13 +6,16 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 86,
   "name": "BNP Paribas",
+  "description": "BNP Paribas Fortis is an international bank based in Belgium and is a subsidiary of BNP Paribas. It was formerly, together with Fortis Bank Nederland, the banking arm of the financial institution Fortis.",
   "legalName": "BNP Paribas S.A.",
   "ipoStatus": "public",
   "stockSymbol": "EPA:BNP",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568419135/radar/icons/bnp-paribas.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
   "websiteUrl": "https://group.bnpparibas/",
   "ownership": [],
   "stateOwned": false,
@@ -36,18 +39,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://apistore.bnpparibas/home",
-  "apiAggregators": [
-    "bankingsdk",
-    "budget-insight",
-    "klarna",
-    "salt-edge",
-    "banqup",
-    "enablebanking",
-    "fintecture",
-    "bridgeapi-io",
-    "ibanity",
-    "equensworldline"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -86,7 +80,23 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "STET"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "bankingsdk",
+    "budget-insight",
+    "klarna",
+    "salt-edge",
+    "banqup",
+    "enablebanking",
+    "fintecture",
+    "bridgeapi-io",
+    "ibanity",
+    "equensworldline"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [],
   "investorRelationsUrl": "https://invest.bnpparibas.com/",
@@ -98,14 +108,36 @@
     }
   ],
   "twitter": "BNPParibas",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BNP_Paribas_Fortis",
   "crunchbase": null,
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfFC6AAN",
+  "alumni": [],
   "articles": [
     {
       "url": "https://fr.community.bnpparibasfortis.be/discuzone-23/lancement-du-portail-open-banking-pour-les-fintechs-et-les-innovateurs-2092",
       "date": "2019-03-08"
     }
-  ]
+  ],
+  "stack": [
+    {
+      "id": "swagger"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
