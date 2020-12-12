@@ -6,18 +6,22 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 4,
   "name": "Bankinter",
+  "description": "Bankinter, S.A., is a Spanish financial services company headquartered in Madrid. It has been listed on the Bolsa de Madrid since 1972, and is part of the Ibex35 Index. It was founded in 1965 as an industrial bank through a joint venture between Banco Santander and Bank of America.",
   "legalName": "Bankinter Gestion de Activos SA",
   "ipoStatus": "public",
   "stockSymbol": "BME:BKT",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568473668/radar/icons/bankinter.png",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Bankinter.png",
   "websiteUrl": "https://www.bankinter.pt/",
   "ownership": [
     {
       "shareholderName": "Cartival S.A.",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552491769/radar/icons/Cartival.png",
+      "sourceUrl": "https://webcorporativa.bankinter.com/stf/web_corporativa/accionistas_e_inversores/info_financiera/memoria/2018/informe_anual_integrado_2018.pdf",
       "providerId": null,
       "percentage": 22.9
     }
@@ -43,14 +47,9 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter",
-  "apiAggregators": [
-    "bankingsdk",
-    "salt-edge",
-    "bridgeapi-io",
-    "ibanity",
-    "equensworldline"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -90,6 +89,15 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "bankingsdk",
+    "salt-edge",
+    "bridgeapi-io",
+    "ibanity",
+    "equensworldline"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [],
   "investorRelationsUrl": "https://webcorporativa.bankinter.com/www2/corporativa/en/inf_financiera_cnmv/informacion_financiera/agenda_inversor",
@@ -101,12 +109,34 @@
     }
   ],
   "twitter": "bankinter",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bankinter",
   "crunchbase": "bankinter",
   "bloomberg": null,
   "github": null,
   "fca": "001b000000NMXIGAA5",
+  "alumni": [],
   "articles": [],
   "stack": [
-    "redsys-es"
-  ]
+    {
+      "id": "redsys-es",
+      "name": "Redsys",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1607659998/icons/redsys-es.jpg",
+      "websiteUrl": "http://www.redsys.es/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
