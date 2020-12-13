@@ -1,17 +1,39 @@
 {
   "id": "ing",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "bankingGroup": true,
+  "numberOfBanks": 27,
   "name": "ING",
-  "legalName": "ING Groep",
+  "description": "The ING Group is a Dutch multinational banking and financial services corporation headquartered in Amsterdam. The three letters stand for \"Internationale Nederlanden Groep\"",
+  "legalName": "ING Group",
   "ipoStatus": "public",
+  "stockSymbol": "AMS:INGA",
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/ING_Groep.png",
   "websiteUrl": "https://www.ing.com/Home.htm",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "NL",
-  "countries": ["NL","BE","LU","PL","DE","AT","CZ","ES","IT","FR","RO","TY"],
+  "countries": [
+    "NL",
+    "BE",
+    "LU",
+    "PL",
+    "DE",
+    "AT",
+    "CZ",
+    "ES",
+    "IT",
+    "FR",
+    "RO",
+    "TY"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -23,12 +45,20 @@
     "sourceUrl": "https://www.ing.com/Newsroom/All-news/ING-launches-Developer-Portal.htm"
   },
   "developerPortalUrl": "https://developer.ing.com/openbanking/",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Create Account Information Services consuming applications that offer great added value to your customers and users. Our Account Information Service will enable secure access to all European ING online accessible payment accounts.",
       "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/b6d5093d-626e-41e9-b9e8-ff287bbe2c07/overview",
       "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/b6d5093d-626e-41e9-b9e8-ff287bbe2c07/reference",
@@ -38,7 +68,9 @@
     {
       "label": "Payment Initiation API",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Create payment initiation applications that offer great added value to your customers and users. INGs Payment Initiation Service will enable secure access to all European ING online accessible payments accounts.",
       "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/6aa25087-d05d-428e-b7c6-d9131cb46498/overview",
       "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/6aa25087-d05d-428e-b7c6-d9131cb46498/reference",
@@ -48,7 +80,9 @@
     {
       "label": "Payment Request",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "The Payment Request API allows you to generate payment request links that can be shared with your customers. The Payment Request API is based on ING’s successful consumer–to-consumer (C2C) payment request feature, which means your customers will already be familiar with this payment method.",
       "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/01199464-4247-4770-8ab8-c3371052e9e5/overview",
       "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/01199464-4247-4770-8ab8-c3371052e9e5/reference",
@@ -58,7 +92,9 @@
     {
       "label": "Showcase API",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "The Showcase API helps you to make your first API call on ING’s Open Banking platform. By consuming the API endpoint, you will learn about ING’s implementation of the OAuth 2.0 framework and the overall functionalities of our platform.",
       "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/5f5106c4-3413-4b3c-890a-bb4cfa165dba/overview",
       "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/5f5106c4-3413-4b3c-890a-bb4cfa165dba/reference",
@@ -68,7 +104,9 @@
     {
       "label": "Virtual Ledger Accounts API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "The Virtual Ledger Accounts API will offer you a secured access to the Virtual Accounts that are created in the Virtual Ledger Account Application. Consuming the API allows you to fully retrieve, control and make use of Virtual Account Information and/or create applications that offer value added services to clients using the Virtual Ledger Account Application.",
       "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/fa224f87-b4c4-4c2b-85a4-193c6eb57e35/overview",
       "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/fa224f87-b4c4-4c2b-85a4-193c6eb57e35/reference",
@@ -77,6 +115,7 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "bankingsdk",
     "budget-insight",
@@ -89,6 +128,7 @@
     "ibanity",
     "equensworldline"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -100,7 +140,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=MyING.be&hl=en"
     }
   ],
-  "stockSymbol": "AMS:INGA",
   "investorRelationsUrl": "https://www.ing.com/Investor-relations/Financial-Reports/Quarterly-results.htm",
   "financialReports": [
     {
@@ -110,13 +149,32 @@
     }
   ],
   "twitter": "ING_news",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/ING_Group",
   "crunchbase": "ing-group",
+  "bloomberg": null,
   "github": "ing-bank",
   "fca": "001b000000MfF4VAAV",
+  "alumni": [],
   "articles": [
     {
       "url": "https://www.ing.com/Newsroom/All-news/ING-launches-Developer-Portal.htm",
       "date": "2018-05-24"
     }
-  ]
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
