@@ -6,18 +6,22 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 6,
   "name": "Eurobank Ergasias",
+  "description": "The Eurobank Group is a financial organisation that operates in Greece, Cyprus, Luxembourg, Serbia, Bulgaria and UK. As of December 2018, the Eurobank Group counts, €58 billion in assets, 653 customer service locations in Greece and abroad, and 13,162 employees.",
   "legalName": "Eurobank Ergasias S.A.",
   "ipoStatus": "public",
   "stockSymbol": "OTCMKTS: EGFEF",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568505801/radar/icons/eurobank-ergasias.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Eurobank_Ergasias.jpg",
   "websiteUrl": "https://www.eurobank.gr/en/group/grafeio-tupou/159-news-page",
   "ownership": [
     {
       "shareholderName": "Fairfax Financial Holding",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552560688/radar/icons/Fairfax.jpg",
+      "sourceUrl": "https://www.eurobank.gr/en/group/investor-relations/shareholders/shareholding-structure",
       "providerId": null,
       "percentage": 18.4
     }
@@ -40,16 +44,15 @@
     "status": "available",
     "sourceUrl": "https://developer.eurobank.gr/eurobank/apis/product"
   },
-  "developerPortalUrl": "https://developer.eurobank.gr/eurobank/apis/product",
+  "developerPortalUrl": "https://developer.eurobank.gr",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.eurobank.gr/eurobank/apis/product",
-  "apiAggregators": [
-    "klarna",
-    "salt-edge",
-    "equensworldline"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -89,6 +92,13 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "klarna",
+    "salt-edge",
+    "equensworldline"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -109,9 +119,27 @@
     }
   ],
   "twitter": "Eurobank_Group",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurobank_Ergasias",
   "crunchbase": "eurobank#section-overview",
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfHUSAA3",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
