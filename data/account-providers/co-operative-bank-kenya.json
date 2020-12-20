@@ -1,0 +1,85 @@
+{
+  "id": "co-operative-bank-kenya",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Co-operative Bank of Kenya",
+  "description": "Co-operative Bank of Kenya is a commercial bank in Kenya, the largest economy in the East African Community. It is licensed by the Central Bank of Kenya, the central bank and national banking regulator.",
+  "legalName": "Co-operative Bank of Kenya",
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1608462676/radar/icons/co-operative-bank-kenya.jpg",
+  "websiteUrl": "https://www.co-opbank.co.ke/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "KE",
+  "countries": [
+    "KE"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.co-opbank.co.ke:9443/store/apis/documentation"
+  },
+  "developerPortalUrl": "https://developer.co-opbank.co.ke:9443/store/apis/documentation",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.co-opbank.co.ke:9443/store/apis/home",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account balance & transactions",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://xs2a.sparkassen-hub.com/home",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Coopbankenya",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Co-operative_Bank_of_Kenya",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
