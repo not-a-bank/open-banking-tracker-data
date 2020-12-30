@@ -1,0 +1,79 @@
+{
+  "id": "bankofbaroda-in",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Bank of Baroda",
+  "description": "Bank of Baroda is an Indian multinational, public sector banking and financial services company. It is the third largest public sector bank in India, with 131 million customers, a total business of US$218 billion, and a global presence of 100 overseas offices.",
+  "legalName": "Bank of Baroda",
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1609135887/icons/bankofbaroda-in.jpg",
+  "websiteUrl": "https://www.bankofbaroda.in/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IN",
+  "countries": [
+    "IN"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "bankofbaroda",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Bank_of_Baroda",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "validity",
+      "name": "Validity",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555962023/catalog/validity/icon128x128.png",
+      "websiteUrl": "https://validity.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
