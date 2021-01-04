@@ -6,10 +6,15 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 15,
   "name": "Nordea",
+  "description": null,
   "legalName": "Nordea Bank Abp",
   "ipoStatus": "public",
+  "stockSymbol": "HEL:NDA-FI",
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nordea.jpg",
   "websiteUrl": "https://www.abnamro.com/",
   "ownership": [
@@ -39,6 +44,15 @@
     "sourceUrl": "https://www.nordea.com/en/press-and-news/news-and-press-releases/press-releases/2018/09-14-09h00-open-banking-goes-live-in-sweden.html"
   },
   "developerPortalUrl": "https://developer.nordeaopenbanking.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.nordeaopenbanking.com/",
+  "apiChangelogUrl": null,
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts API",
@@ -108,6 +122,7 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "budget-insight",
     "neonomics",
@@ -116,6 +131,9 @@
     "enfuce",
     "fintecture"
   ],
+  "collections": [],
+  "sdks": null,
+  "postmanCollections": null,
   "webApplication": true,
   "mobileApps": [
     {
@@ -127,7 +145,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=no.nordea.mobilebank&hl=en"
     }
   ],
-  "stockSymbol": "HEL:NDA-FI",
   "investorRelationsUrl": "https://www.nordea.com/en/investor-relations/",
   "financialReports": [
     {
@@ -140,13 +157,35 @@
     }
   ],
   "twitter": "Nordea",
+  "wikipediaUrl": null,
   "crunchbase": "nordea-bank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfPpNAAV",
+  "alumni": [],
   "articles": [
     {
       "url": "https://www.nordea.com/en/press-and-news/news-and-press-releases/press-releases/2018/09-14-09h00-open-banking-goes-live-in-sweden.html",
       "date": "2018-09-18"
     }
-  ]
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "fscsProtected": null,
+  "products": null,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "pricingUrl": null,
+  "awards": []
 }
