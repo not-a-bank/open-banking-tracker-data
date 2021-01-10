@@ -1,0 +1,182 @@
+{
+  "id": "onjuno",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "OnJuno",
+  "description": "OnJuno is a neo banking platform that aims to give millions of users access to a high yield checking account to grow their savings. OnJuno embraces an open banking system for everyone, regardless of their age, location, or income.",
+  "legalName": "CapitalJ, Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1610315553/icons/onjuno.png",
+  "websiteUrl": "https://onjuno.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "OnJunoHQ",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "evolve-bank-and-trust",
+      "name": "Evolve Bank and Trust",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593623623/icons/evolve-bank-and-trust.jpg",
+      "websiteUrl": "https://getevolved.com"
+    }
+  ],
+  "thirdPartyBankingLicense": "evolve-bank-and-trust",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": true,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936484/catalog/amazon/icon128x128.png",
+      "websiteUrl": "https://amazon.com"
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589569998/catalog/walmart/icon128x128.jpg",
+      "websiteUrl": "https://www.walmart.com/"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1578862546/catalog/netflix/icon128x128.jpg",
+      "websiteUrl": "https://www.netflix.com/"
+    },
+    {
+      "id": "doordash",
+      "name": "DoorDash",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1564923784/catalog/doordash/icon128x128.png",
+      "websiteUrl": "https://doordash.com"
+    },
+    {
+      "id": "wealthfront",
+      "name": "Wealthfront",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566940659/catalog/wealthfront/icon128x128.jpg",
+      "websiteUrl": "https://www.wealthfront.com/"
+    },
+    {
+      "id": "bankofamerica",
+      "name": "Bank of America",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569446920/catalog/bankofamerica/icon128x128.jpg",
+      "websiteUrl": "https://bankofamerica.com"
+    },
+    {
+      "id": "chase",
+      "name": "Chase",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571960544/catalog/chase/icon128x128.jpg",
+      "websiteUrl": "https://www.chase.com/"
+    },
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531054135/catalog/airbnb/icon128x128.png"
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1564688862/catalog/uber/icon128x128.jpg",
+      "websiteUrl": "https://uber.com"
+    }
+  ],
+  "integrations": [
+    {
+      "id": "venmo",
+      "name": "Venmo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566511738/catalog/venmo/icon128x128.png",
+      "websiteUrl": "https://venmo.com/"
+    },
+    {
+      "id": "cash-app",
+      "name": "Cash App",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1597878312/icons/cash-app.png",
+      "websiteUrl": "https://cash.app/"
+    },
+    {
+      "id": "robinhood",
+      "name": "Robinhood",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565364958/catalog/robinhood/icon128x128.jpg",
+      "websiteUrl": "https://robinhood.com"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1572574657/catalog/coinbase/icon128x128.png",
+      "websiteUrl": "https://www.coinbase.com/"
+    },
+    {
+      "id": "acorns",
+      "name": "Acorns",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1610315556/icons/acorns.jpg",
+      "websiteUrl": "https://www.acorns.com/"
+    },
+    {
+      "id": "plaid",
+      "name": "Plaid",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559337184/catalog/plaid/icon128x128.jpg",
+      "websiteUrl": "https://plaid.com"
+    },
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593103732/icons/google-pay.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    },
+    {
+      "id": "samsung-pay",
+      "name": "Samsung Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
+      "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/"
+    },
+    {
+      "id": "apple-pay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
