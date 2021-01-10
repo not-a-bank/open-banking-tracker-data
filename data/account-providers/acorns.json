@@ -1,0 +1,99 @@
+{
+  "id": "acorns",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Acorns",
+  "description": "Acorns is an American financial technology and financial services company based in Irvine, California that specializes in micro-investing and robo-investing.",
+  "legalName": "Acorns Gift LLC",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1610315338/radar/icons/acorns.jpg",
+  "websiteUrl": "https://www.acorns.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/acorns-invest-spare-change/id883324671?mt=8"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "acorns",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Acorns_(company)",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [
+    "mastercard"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [
+    {
+      "id": "apple",
+      "name": "Apple",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555964301/catalog/apple/icon128x128.png",
+      "websiteUrl": "https://apple.com"
+    },
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531054135/catalog/airbnb/icon128x128.png"
+    },
+    {
+      "id": "expedia",
+      "name": "Expedia",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557154083/catalog/expedia/icon128x128.jpg",
+      "websiteUrl": "https://expedia.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
