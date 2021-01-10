@@ -1,17 +1,27 @@
 {
   "id": "citi",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Citi",
   "legalName": "Citibank, N. A.",
   "ipoStatus": "public",
+  "stockSymbol": "NYSE:C",
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552641830/radar/icons/Citi.jpg",
   "websiteUrl": "https://online.citi.com/US/login.do",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "US",
-  "countries": ["GB","PL","RU"],
+  "countries": [
+    "GB",
+    "PL",
+    "RU"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -21,97 +31,141 @@
       "regulation": "OB",
       "status": "ready"
     }
-    ],
+  ],
   "sandbox": {
     "status": "available",
     "sourceUrl": null
   },
   "developerPortalUrl": "https://sandbox.developerhub.citi.com/api-catalog-list",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Verify Citi customer accounts and grant your apps access to account data.",
       "documentationUrl": "https://sandbox.developerhub.citi.com/api/united-kingdom/accounts/overview",
       "apiReferenceUrl": "https://sandbox.developerhub.citi.com/api/united-kingdom/accounts/documentation",
       "premium": false,
       "stage": "sandbox",
-      "countries": ["GB","PL"]
+      "countries": [
+        "GB",
+        "PL"
+      ]
     },
     {
       "label": "Authorize",
       "type": "auth",
       "description": "Verify Citi customer accounts and grant your apps access to account data.",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "documentationUrl": null,
       "apiReferenceUrl": "https://sandbox.developerhub.citi.com/api/united-kingdom/authorize/documentation",
       "premium": false,
       "stage": "sandbox",
-      "countries": ["GB","PL"]
+      "countries": [
+        "GB",
+        "PL"
+      ]
     },
     {
       "label": "Customers",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Get approved access to shared Citi customer profile data for deeper engagement.",
       "documentationUrl": "https://sandbox.developerhub.citi.com/api/united-kingdom/customers/overview",
       "apiReferenceUrl": "https://sandbox.developerhub.citi.com/api/united-kingdom/customers/documentation",
       "premium": false,
       "stage": "sandbox",
-      "countries": ["GB","PL"]
+      "countries": [
+        "GB",
+        "PL"
+      ]
     },
     {
       "label": "Money Movement",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Give Citi customers the ability to move money across accounts and institutions.",
       "documentationUrl": "https://sandbox.developerhub.citi.com/api/united-kingdom/money-movement/overview",
       "apiReferenceUrl": "https://sandbox.developerhub.citi.com/api/united-kingdom/money-movement/documentation",
       "premium": false,
       "stage": "sandbox",
-      "countries": ["GB","PL"]
+      "countries": [
+        "GB",
+        "PL"
+      ]
     },
     {
       "label": "Utilities",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "Allow developers to get country specific variations.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://sandbox.developerhub.citi.com/api/united-kingdom/utilities/documentation",
       "premium": false,
       "stage": "sandbox",
-      "countries": ["GB","PL","RU"]
+      "countries": [
+        "GB",
+        "PL",
+        "RU"
+      ]
     },
     {
       "label": "Onboarding",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Tap into the power of Citi acquisitions partner services.",
       "documentationUrl": "https://sandbox.developerhub.citi.com/api/poland/onboarding/overview",
       "apiReferenceUrl": "https://sandbox.developerhub.citi.com/api/poland/onboarding/documentation",
       "premium": false,
       "stage": "sandbox",
-      "countries": ["PL","RU"]
+      "countries": [
+        "PL",
+        "RU"
+      ]
     },
     {
       "label": "Pay With Points",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Enable your app to accept Citi customers’ Citi rewards points to pay for their purchases.",
       "documentationUrl": "https://sandbox.developerhub.citi.com/api/russia/pay-with-points/overview",
       "apiReferenceUrl": "https://sandbox.developerhub.citi.com/api/russia/pay-with-points/documentation",
       "premium": false,
       "stage": "sandbox",
-      "countries": ["PL","RU"]
+      "countries": [
+        "PL",
+        "RU"
+      ]
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
-    "budget-insight",
     "klarna",
     "salt-edge"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -123,7 +177,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.citi.citimobile&hl=en"
     }
   ],
-  "stockSymbol": "NYSE:C",
   "investorRelationsUrl": "https://www.citigroup.com/citi/investor/pres.htm",
   "financialReports": [
     {
@@ -134,7 +187,32 @@
   ],
   "twitter": "citi",
   "crunchbase": "citigroup",
+  "bloomberg": null,
   "github": "citi",
   "fca": "001b000000MfF27AAF",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "id": "getgrab",
+      "name": "Grab",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1576754474/catalog/getgrab/icon128x128.png",
+      "websiteUrl": "https://getgrab.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
