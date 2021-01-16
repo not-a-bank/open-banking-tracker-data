@@ -1,0 +1,87 @@
+{
+  "id": "marcus",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Marcus by Goldman Sachs",
+  "description": "Marcus by Goldman Sachs® provides no-fee personal loans & high-yield online savings for individuals. Committed to helping customers reach their financial goals.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1610814972/radar/icons/marcus.png",
+  "websiteUrl": "https://www.marcus.com/",
+  "ownership": [
+    {
+      "providerId": "goldmansachs",
+      "shareholderName": "Goldman Sachs",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1590612399/catalog/goldmansachs/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/marcus-savings-loans/id1489511701?shortlink=ff2a6804&pid=web&af_channel=sitefooter&c=applebadge"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.marcus.android&hl=en_US&shortlink=fbe0e5b9&pid=web&af_channel=sitefooter&c=androidbadge"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "marqeta",
+      "name": "Marqeta",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962502/catalog/marqeta/icon128x128.png",
+      "websiteUrl": "https://www.marqeta.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
