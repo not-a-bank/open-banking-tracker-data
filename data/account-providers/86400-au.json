@@ -13,9 +13,15 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607145570/radar/icons/86400-au.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607364595/icons/86400-au.png",
   "websiteUrl": "https://www.86400.com.au/",
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "nab-au",
+      "shareholderName": "National Australia Bank (NAB)",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1597669485/icons/nab-au.jpg"
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "AU",
   "countries": [
@@ -92,7 +98,7 @@
   "partnerships": [
     {
       "id": "visa",
-      "name": "visa",
+      "name": "Visa",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
       "websiteUrl": "https://visa.com"
     }
