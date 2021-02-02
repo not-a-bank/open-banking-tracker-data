@@ -1,0 +1,75 @@
+{
+  "id": "bankaudi-lb",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Bank Audi",
+  "description": "Bank Audi S.A.L. is Lebanon's largest bank in terms of both customer deposits and total assets. Bank Audi currently operates 84 branches in Lebanon and a network of 470 ATMs.",
+  "legalName": "Bank Audi SAL",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "Bank Audi sal"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1612288408/icons/bankaudi-lb.png",
+  "websiteUrl": "https://www.bankaudi.com.lb/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "LB",
+  "countries": [
+    "LB"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/lb/app/audimobile-powered-by-pinpay/id846028926?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=audimobile.android&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
