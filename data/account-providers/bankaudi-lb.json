@@ -52,7 +52,14 @@
   "financialReports": [],
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "nymcard",
+      "name": "NymCard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1612187947/icons/nymcard.jpg",
+      "websiteUrl": "https://nymcard.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
