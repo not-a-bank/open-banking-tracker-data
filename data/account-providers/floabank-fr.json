@@ -1,0 +1,103 @@
+{
+  "id": "floabank-fr",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "FLOA Bank",
+  "description": "French leader in omnichannel install payment solutions, FLOA (new name of Banque Casino) simplifies consumers' lives through payment facilities, instant loans, consumer loans, credit cards and insurance.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1612488692/icons/floabank-fr.png",
+  "websiteUrl": "https://www.floabank.fr/",
+  "ownership": [
+    {
+      "providerId": "credit-mutuel",
+      "shareholderName": "Crédit Mutuel",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568569725/catalog/credit-mutuel/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.floabank.fr/credits/gamme-credits",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.floabank.fr/credits/gamme-credits",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/fr/app/mes-comptes-banque-casino/id901908849?mt=8&uo=4"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.prod.bca"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "FLOABank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "mastercard"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "lydia-app",
+      "name": "Lydia",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591042193/catalog/lydia-app/icon128x128.jpg",
+      "websiteUrl": "https://lydia-app.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
