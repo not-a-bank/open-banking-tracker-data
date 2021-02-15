@@ -1,0 +1,118 @@
+{
+  "id": "berenberg-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "merchant"
+  ],
+  "name": "Berenberg Bank",
+  "description": "Joh. Berenberg, Gossler & Co. KG, commonly known as Berenberg Bank and also branded as simply Berenberg, is a Hamburg-based multinational full-service investment bank. It was founded by the Flemish-origined Berenberg family in 1590 and is the world's oldest merchant bank.",
+  "legalName": "Joh. Berenberg, Gossler & Co. KG",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1610365789/icons/berenberg-bank.png",
+  "websiteUrl": "https://www.berenberg.de/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer-portal.berenberg.de"
+  },
+  "developerPortalUrl": "https://developer-portal.berenberg.de",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer-portal.berenberg.de/#/apis/17/47",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "specification": "BERLIN1.3",
+      "description": "",
+      "documentationUrl": "https://developer-portal.berenberg.de/#/apis/17/47#access-account-information-ais",
+      "apiReferenceUrl": "https://developer-portal.berenberg.de/#/apis/17/47#access-account-information-ais",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "specification": "BERLIN1.3",
+      "description": "",
+      "documentationUrl": "https://developer-portal.berenberg.de/#/apis/17/47#initiate-a-payment-pis",
+      "apiReferenceUrl": "https://developer-portal.berenberg.de/#/apis/17/47#initiate-a-payment-pis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation Service",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "specification": "BERLIN1.3",
+      "description": "",
+      "documentationUrl": "https://developer-portal.berenberg.de/#/apis/17/47#get-confirmation-of-funds-availability-fcs",
+      "apiReferenceUrl": "https://developer-portal.berenberg.de/#/apis/17/47#get-confirmation-of-funds-availability-fcs",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "berenberg1590",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
