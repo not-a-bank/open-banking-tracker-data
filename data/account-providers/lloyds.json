@@ -7,7 +7,7 @@
     "universal"
   ],
   "bankingGroup": true,
-  "numberOfBanks": 12,
+  "numberOfBanks": 17,
   "name": "Lloyds Bank",
   "legalName": "Lloyds Bank plc",
   "ipoStatus": "private",
@@ -204,7 +204,14 @@
   "fca": "001b000000MfFNkAAN",
   "alumni": [],
   "articles": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "mastercard-open-banking-connect",
+      "name": "Open Banking Connect",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614175156/icons/mastercard-open-banking-connect.png",
+      "websiteUrl": "https://openbanking.mastercard.com/connect/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
