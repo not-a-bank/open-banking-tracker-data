@@ -15,7 +15,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1608459962/radar/icons/kfw-bank-de.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1608488623/icons/kfw-bank-de.jpg",
   "websiteUrl": "https://www.kfw.de/kfw.de-2.html",
   "ownership": [],
   "stateOwned": false,
@@ -49,7 +49,14 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/KfW",
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "dracoon",
+      "name": "DRACOON",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1615327848/icons/dracoon.png",
+      "websiteUrl": "https://www.dracoon.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
