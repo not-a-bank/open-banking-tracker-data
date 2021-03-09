@@ -201,7 +201,14 @@
       "date": "2018-09-12"
     }
   ],
-  "stack": [],
+  "stack": [
+    {
+      "id": "24sessions",
+      "name": "24sessions",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531304322/catalog/24sessions/icon128x128.png",
+      "websiteUrl": "https://www.24sessions.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
