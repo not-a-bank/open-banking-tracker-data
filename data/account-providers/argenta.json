@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1585231965/radar/icons/argenta-be.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1563405292/catalog/argenta-be/icon128x128.png",
   "websiteUrl": "https://argenta.be",
   "ownership": [],
   "stateOwned": false,
@@ -37,11 +37,16 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
-    "bankingsdk",
     "klarna",
+    "bankingsdk",
+    "banqup",
     "ibanity"
   ],
   "collections": [],
@@ -56,6 +61,7 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=be.argenta.bankieren&hl=en"
     }
   ],
+  "investorRelationsUrl": "http://www.argenta.eu/investor-relations/",
   "financialReports": [
     {
       "label": "H1 2018",
@@ -66,15 +72,40 @@
   "twitter": "https://twitter.com/argenta",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Argenta_(bank)",
   "bloomberg": null,
+  "alumni": [],
   "articles": [],
+  "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
-  "partnerships": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "cake-app",
+      "name": "Cake",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573382/catalog/cake-app/icon128x128.png",
+      "websiteUrl": "https://cake.app/",
+      "title": "Argenta partners with Cake to make accounts profitable",
+      "description": "Argenta is partnering with Cake to allow Argenta customers to enjoy the Cake cashback Rewards without having to install the Cake banking app.",
+      "sourceUrl": "https://cake.app/announcements/cake-and-argenta-announce-partnership/",
+      "sourceDate": "2021-03-10T08:05:00+00:00",
+      "features": [
+        "cashback"
+      ],
+      "addedAt": "2021-03-10T22:07:33.495Z"
+    }
+  ],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []
