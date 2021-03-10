@@ -1,0 +1,70 @@
+{
+  "id": "goldenpacificbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "community"
+  ],
+  "name": "Golden Pacific Bank",
+  "description": "Golden Pacific Bancorp, Inc. is a bank holding company with consolidated assets of approximately $150 million.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1615342061/radar/icons/goldenpacificbank.png",
+  "websiteUrl": "https://www.goldenpacificbank.com/",
+  "ownership": [
+    {
+      "providerId": "sofi",
+      "shareholderName": "SoFi",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1586382062/catalog/sofi/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "bank_pacific",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
