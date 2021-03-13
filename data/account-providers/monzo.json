@@ -11,7 +11,7 @@
   "legalName": "Monzo Bank Limited",
   "ipoStatus": "private",
   "stockSymbol": null,
-  "verified": false,
+  "verified": true,
   "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Monzo.jpg",
   "websiteUrl": "https://monzo.com/",
@@ -108,7 +108,14 @@
       "date": "2018-01-12"
     }
   ],
-  "stack": [],
+  "stack": [
+    {
+      "id": "huggingface-co",
+      "name": "Hugging Face",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1608292995/icons/huggingface-co.jpg",
+      "websiteUrl": "https://huggingface.co/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
@@ -171,7 +178,7 @@
       "icon": "https://mms.businesswire.com/media/20191218005050/en/763599/4/RDC_logo.jpg",
       "websiteUrl": "https://rdc.com/",
       "title": "RDC and Monzo Expand Anti-money Laundering Partnership for Bank’s US Launch",
-      "desription": "RDC (Regulatory DataCorp) has renewed its agreement with Monzo in a deal that will see the company’s next-generation customer screening technology extended to cover the bank’s US launch. The arrangement will build on the success of the past two years in the UK where RDC’s data and technology was used to screen for financial crime risk as 55,000 new customers sign up for a Monzo account every week.",
+      "description": "RDC (Regulatory DataCorp) has renewed its agreement with Monzo in a deal that will see the company’s next-generation customer screening technology extended to cover the bank’s US launch. The arrangement will build on the success of the past two years in the UK where RDC’s data and technology was used to screen for financial crime risk as 55,000 new customers sign up for a Monzo account every week.",
       "sourceUrl": "https://www.businesswire.com/news/home/20191218005050/en/RDC-Monzo-Expand-Anti-money-Laundering-Partnership-Bank%E2%80%99s",
       "sourceDate": "2019-12-18"
     },
@@ -243,6 +250,12 @@
       "name": "Onedox",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1567667788/catalog/onedox/icon128x128.jpg",
       "websiteUrl": "https://www.onedox.com/"
+    },
+    {
+      "id": "experian",
+      "name": "Experian",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555963919/catalog/experian/icon128x128.png",
+      "websiteUrl": "https://experian.com"
     }
   ],
   "platforms": [],
