@@ -1,0 +1,174 @@
+{
+  "id": "silicon-valley-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Silicon Valley Bank",
+  "description": "Silicon Valley Bank, a subsidiary of SVB Financial Group, is a U.S.-based high-tech commercial bank. The bank has helped fund more than 30,000 start-ups. SVB is on the list of largest banks in the United States.",
+  "legalName": "SILICON VALLEY BANK",
+  "ipoStatus": "public",
+  "stockSymbol": "SIVB",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616003484/icons/silicon-valley-bank.jpg",
+  "websiteUrl": "https://www.svb.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.svb.com/developers"
+  },
+  "developerPortalUrl": "https://www.svb.com/developers",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.svb.com/developers",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/24",
+      "apiReferenceUrl": "https://developer.svb.com/node/24",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/21",
+      "apiReferenceUrl": "https://developer.svb.com/node/21",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/22",
+      "apiReferenceUrl": "https://developer.svb.com/node/22",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/23",
+      "apiReferenceUrl": "https://developer.svb.com/node/23",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "label": "Client Registration",
+      "type": "clientRegistration",
+      "categories": [
+        "developer"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/25",
+      "apiReferenceUrl": "https://developer.svb.com/node/25",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "SVB_Financial",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.svb.com/svb-capital"
+}
