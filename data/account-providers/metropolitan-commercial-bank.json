@@ -1,20 +1,20 @@
 {
-  "id": "metabank",
+  "id": "metropolitan-commercial-bank",
   "type": [
     "account"
   ],
   "bankType": [
-    "retail"
+    "commercial"
   ],
-  "name": "MetaBank",
-  "description": "MetaBank, N.A. is a United States bank with retail branches in Iowa and South Dakota. It offers traditional banking services designed to serve the needs of individual, agricultural, and business depositors and borrowers.",
-  "legalName": "Meta Financial Group, Inc",
-  "ipoStatus": "public",
-  "stockSymbol": "CASH",
+  "name": "Metropolitan Commercial Bank",
+  "description": "Metropolitan Commercial Bank, headquartered in New York City, is a full-service commercial bank with banking centers in Manhattan, Boro Park Brooklyn and Great Neck, Long Island.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616012465/radar/icons/metabank.png",
-  "websiteUrl": "https://www.metabank.com/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616012728/radar/icons/metropolitan-commercial-bank.png",
+  "websiteUrl": "https://www.mcbankny.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "US",
@@ -22,11 +22,16 @@
     "US"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://docs-api.mcbankny.com"
+  },
+  "developerPortalUrl": "https://docs-api.mcbankny.com",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiReferenceUrl": "https://docs-api.mcbankny.com/reference",
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
@@ -59,5 +64,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "marketplaceUrl": "https://www.mcbankny.com/digital-currency-digital-assets-e-wallets-and-apps"
 }
