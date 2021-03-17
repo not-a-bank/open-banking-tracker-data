@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616004636/radar/icons/bankofthewest.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616008253/icons/bankofthewest.png",
   "websiteUrl": "https://www.bankofthewest.com/",
   "ownership": [
     {
@@ -71,7 +71,14 @@
   "fitbitPay": false,
   "partnerships": [],
   "rewardPartners": [],
-  "integrations": [],
+  "integrations": [
+    {
+      "id": "theclearinghouse-rtp-network",
+      "name": "RTP Network",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1616008251/icons/theclearinghouse-rtp-network.png",
+      "websiteUrl": "https://www.theclearinghouse.org/payment-systems/rtp"
+    }
+  ],
   "platforms": [],
   "awards": []
 }
