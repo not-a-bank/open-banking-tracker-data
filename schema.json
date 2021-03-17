@@ -732,6 +732,7 @@
                   "productFinder",
                   "invoiceFinancing",
                   "availability",
+                  "clientRegistration",
                   "cards",
                   "consent",
                   "auth",
@@ -753,7 +754,8 @@
                     "fx",
                     "auth",
                     "openData",
-                    "availability"
+                    "availability",
+                    "developer"
                   ]
                 }
               },
