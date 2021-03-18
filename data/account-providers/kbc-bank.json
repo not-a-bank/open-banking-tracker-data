@@ -6,6 +6,8 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 14,
   "name": "KBC",
   "description": "KBC Group N.V. is a Belgian universal multi-channel bank-insurer, focusing on private clients and small and medium-sized enterprises in Belgium, Ireland, Central Europe and South-East Asia.",
   "legalName": "KBC Group N.V.",
@@ -120,7 +122,7 @@
     "klarna",
     "ibanity",
     "banqup",
-    "equensWorldline"
+    "equensworldline"
   ],
   "collections": [],
   "webApplication": true,

@@ -1,15 +1,23 @@
 {
   "id": "erste-group",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "bankingGroup": true,
+  "numberOfBanks": 61,
   "name": "Erste Group",
   "legalName": "Erste Group Bank AG.",
   "ipoStatus": "public",
+  "stockSymbol": "VIE:EBS",
   "verified": true,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Erste_Group.jpg",
   "websiteUrl": "https://www.erstegroup.com/en/home",
   "ownership": [
-    { 
+    {
       "shareholderName": "Erste Foundation",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552472794/radar/icons/Erste-Foundation.jpg",
       "providerId": null,
@@ -18,27 +26,40 @@
   ],
   "stateOwned": false,
   "countryHQ": "AT",
-  "countries": ["AT","CZ","HU","SK","HR","RS","RO"],
+  "countries": [
+    "AT",
+    "CZ",
+    "HU",
+    "SK",
+    "HR",
+    "RS",
+    "RO"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": null
+    "sourceUrl": "https://developers.erstegroup.com"
   },
   "developerPortalUrl": "https://developers.erstegroup.com/docs/apis",
-    "apiAggregators": [
-    "banqup",
-    "equensWorldline"
-  ],
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "PSD2 accounts API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Faccount-information",
@@ -48,7 +69,9 @@
     {
       "label": "PSD2 payments API",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Fpayment-initiation",
@@ -58,7 +81,9 @@
     {
       "label": "Transparent Accounts API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2FtransparentAccounts",
@@ -68,7 +93,9 @@
     {
       "label": "Places API",
       "type": "atmLocator",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fplaces",
@@ -78,7 +105,9 @@
     {
       "label": "Places API",
       "type": "branchLocator",
-      "categories": ["locators"],
+      "categories": [
+        "locators"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fplaces",
@@ -88,7 +117,9 @@
     {
       "label": "Personal Products API",
       "type": "productFinder",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fnetbanking",
@@ -98,7 +129,9 @@
     {
       "label": "Personal accounts API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Faccounts",
@@ -109,7 +142,9 @@
       "label": "Mortgage calculator API",
       "type": "other",
       "description": null,
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Fhypocalc",
       "premium": false,
@@ -118,7 +153,9 @@
     {
       "label": "Know your customer API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Fkyc",
@@ -128,7 +165,9 @@
     {
       "label": "Corporate accounts API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Fcorporate",
@@ -138,7 +177,9 @@
     {
       "label": "Exchange rates API",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Frates",
@@ -147,6 +188,9 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -156,7 +200,6 @@
       "operatingSystem": "android"
     }
   ],
-  "stockSymbol": "VIE:EBS",
   "investorRelationsUrl": "https://www.erstegroup.com/en/investors",
   "financialReports": [
     {
@@ -167,7 +210,25 @@
   ],
   "twitter": "ErsteGroup",
   "crunchbase": "erste-group",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfFC8AAN",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }

@@ -6,6 +6,8 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 2,
   "name": "Banca Transilvania",
   "description": "Banca Transilvania S.A. is a banking institution with headquarters in Cluj-Napoca, Romania.",
   "legalName": null,
@@ -13,7 +15,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592505625/radar/icons/bancatransilvania-ro.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592519788/icons/bancatransilvania-ro.png",
   "websiteUrl": "https://www.bancatransilvania.ro/",
   "ownership": [],
   "stateOwned": false,
@@ -37,6 +39,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://apistorebt.ro/bt/sb/",
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [
     {
@@ -112,7 +115,7 @@
   "twitter": "B_Transilvania",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Banca_Transilvania",
   "bloomberg": null,
-  "alumni": null,
+  "alumni": [],
   "stack": [
     {
       "id": "ibm-api-connect",
@@ -123,6 +126,7 @@
   ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
@@ -135,6 +139,7 @@
   "samsungPay": false,
   "fitbitPay": false,
   "partnerships": [],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []

@@ -1,0 +1,84 @@
+{
+  "id": "bankofthewest",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Bank of the West",
+  "description": "Bank of the West offers a variety of financial services; including checking and savings accounts, credit cards, auto, home and personal loans. Visit us online or at any of our more than 500 branch locations.",
+  "legalName": "Bank of the West",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616008253/icons/bankofthewest.png",
+  "websiteUrl": "https://www.bankofthewest.com/",
+  "ownership": [
+    {
+      "providerId": "bnp-paribas",
+      "shareholderName": "BNP Paribas",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568494915/catalog/bnp-paribas/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "BankoftheWest",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "axway",
+      "name": "Axway",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593623628/icons/axway.jpg",
+      "websiteUrl": "https://www.axway.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "theclearinghouse-rtp-network",
+      "name": "RTP Network",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1616008251/icons/theclearinghouse-rtp-network.png",
+      "websiteUrl": "https://www.theclearinghouse.org/payment-systems/rtp"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}

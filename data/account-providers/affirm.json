@@ -1,0 +1,86 @@
+{
+  "id": "affirm",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Affirm",
+  "description": "With Affirm, you can pay over time at your favorite brands. No late fees or compounding interest—just a more responsible way to say yes to the things you love.",
+  "legalName": "Affirm Inc.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591444973/icons/affirm.jpg",
+  "websiteUrl": "https://www.affirm.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Affirm",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "celticbank",
+      "name": "Celtic Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590335089/catalog/celticbank/icon128x128.jpg",
+      "websiteUrl": "https://www.celticbank.com/"
+    },
+    {
+      "id": "crossriver",
+      "name": "Cross River",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1581062133/catalog/crossriver/icon128x128.jpg",
+      "websiteUrl": "https://www.crossriver.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "affirm"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "affirm",
+      "name": "Affirm",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591444973/icons/affirm.jpg",
+      "websiteUrl": "https://www.affirm.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

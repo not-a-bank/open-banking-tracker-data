@@ -1,0 +1,120 @@
+{
+  "id": "mediobanca",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "investment"
+  ],
+  "bankingGroup": true,
+  "numberOfBanks": 9,
+  "name": "Mediobanca",
+  "description": "Mediobanca is an Italian investment bank founded in 1946 at the initiative of Raffaele Mattioli and Enrico Cuccia to facilitate the post-World War II reconstruction of Italian industry. Cuccia led Mediobanca from 1946 to 1982.",
+  "legalName": null,
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1609589710/icons/mediobanca.jpg",
+  "websiteUrl": "https://www.mediobanca.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.cedacri.it/en/"
+  },
+  "developerPortalUrl": "https://developer.cedacri.it/en/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiGateways": [
+    "cedacri-it"
+  ],
+  "apiReferenceUrl": "https://developer.cedacri.it/en/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.cedacri.it/en/help-center/documentation",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.cedacri.it/en/help-center/documentation",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.cedacri.it/en/help-center/documentation",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "MediobancaOltre",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Mediobanca",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "cedacri-it",
+      "name": "Cedacri",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1609597662/icons/cedacri-it.png",
+      "websiteUrl": "http://www.cedacri.it/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

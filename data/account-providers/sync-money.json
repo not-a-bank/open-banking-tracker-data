@@ -1,0 +1,106 @@
+{
+  "id": "sync-money",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "sync.",
+  "description": "sync. is an all-in-one money management app that lets you take control of all your entire financial life in one app, as one experience.",
+  "legalName": "Sync.Money UK Ltd",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597405218/icons/sync-money.jpg",
+  "websiteUrl": "https://sync.money/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/id1492314136"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=money.sync.app"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "Sync_Money",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "truelayer",
+      "name": "TrueLayer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591169579/icons/truelayer.jpg",
+      "websiteUrl": "https://truelayer.com/"
+    },
+    {
+      "id": "openpayd",
+      "name": "OpenPayd",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1585396720/catalog/openpayd/icon128x128.jpg",
+      "websiteUrl": "https://www.openpayd.com/"
+    },
+    {
+      "id": "transactpaymentsltd",
+      "name": "Transact Payments",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602235642/icons/transactpaymentsltd.jpg",
+      "websiteUrl": "https://www.transactpaymentsltd.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

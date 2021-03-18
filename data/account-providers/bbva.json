@@ -1,17 +1,32 @@
 {
   "id": "bbva",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "bankingGroup": true,
+  "numberOfBanks": 15,
   "name": "BBVA",
+  "description": "Banco Bilbao Vizcaya Argentaria, S.A., better known by its initialism BBVA, is a Spanish multinational financial services company based in Madrid and Bilbao, Spain. It is one of the largest financial institutions in the world, and is present mainly in Spain, South America, North America, Turkey and Romania.",
   "legalName": "Banco Bilbao Vizcaya Argentaria, S.A.",
   "ipoStatus": "public",
+  "stockSymbol": "BME:BBVA",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/BBVA.jpg",
-  "websiteUrl": "https://www.bbva.es/eng/particulares/index.jsp",
+  "aliases": [
+    "Banco Bilbao Vizcaya Argentaria"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1563407702/catalog/bbva/icon128x128.png",
+  "websiteUrl": "https://bbva.com",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "ES",
-  "countries": ["ES","PT"],
+  "countries": [
+    "ES",
+    "PT"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -20,15 +35,23 @@
   ],
   "sandbox": {
     "status": "available",
-     "sourceUrl": "https://www.bbva.com/en/bbva-launches-open-banking-business/"
+    "sourceUrl": "https://www.bbva.com/en/bbva-launches-open-banking-business/"
   },
   "developerPortalUrl": "https://bbvaopenplatform.com/content/home",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Accounts allows you to access key account data and enhance your financial management services.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/accounts",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/accounts",
@@ -38,7 +61,9 @@
     {
       "label": "Payments",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Payments allows third party apps to offer money transfer services to pre-authorized users.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/payments",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/payments",
@@ -48,7 +73,9 @@
     {
       "label": "Customers",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Customers allow authenticated users to recover key profile data to enhance engagement levels.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/customers",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/customers",
@@ -58,7 +85,9 @@
     {
       "label": "Cards",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Cards allows you to integrate pre-authorized bank card data and improve your business potential.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/cards",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/cards",
@@ -68,7 +97,9 @@
     {
       "label": "Loans",
       "type": "other",
-      "categories": ["loans"],
+      "categories": [
+        "loans"
+      ],
       "description": "Payments allows third party apps to offer money transfer services to pre-authorized users.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/loans",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/loans",
@@ -78,7 +109,9 @@
     {
       "label": "Alipay",
       "type": "other",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Alipay connects your business with the online payments leader in China.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/alipay",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/alipay",
@@ -88,7 +121,9 @@
     {
       "label": "Notifications",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Notifications provides real time notifications of operations performed in BBVA by pre-authorized users.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/notifications",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/notifications",
@@ -98,7 +133,9 @@
     {
       "label": "Business Notifications",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Receive in real time the most relevant information about your banking operations.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/business-notifications",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/business-notifications",
@@ -108,7 +145,9 @@
     {
       "label": "Business Accounts",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Download the account statements of your business customers in the standard format AEB43.",
       "documentationUrl": "https://www.bbvaapimarket.com/products/business-accounts",
       "apiReferenceUrl": "https://www.bbvaapimarket.com/documentation/bbva/business-accounts",
@@ -117,6 +156,7 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "bankingsdk",
     "budget-insight",
@@ -124,8 +164,9 @@
     "salt-edge",
     "bridgeapi-io",
     "ibanity",
-    "equensWorldline"
+    "equensworldline"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -137,7 +178,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.bbva.bbvacontigo&hl=en"
     }
   ],
-  "stockSymbol": "BME:BBVA",
   "investorRelationsUrl": "https://shareholdersandinvestors.bbva.com/financials/financial-reports/#2018",
   "financialReports": [
     {
@@ -146,10 +186,13 @@
       "url": "https://shareholdersandinvestors.bbva.com/wp-content/uploads/2019/01/4Q18-Results-Presentation.pdf"
     }
   ],
-  "twitter": "bbva",
+  "twitter": "@bbva",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Banco_Bilbao_Vizcaya_Argentaria",
   "crunchbase": null,
+  "bloomberg": null,
   "github": "BBVA",
   "fca": "001b000000MfFpUAAV",
+  "alumni": [],
   "articles": [
     {
       "url": "https://www.bbva.com/en/bbva-launches-first-baas-platform-in-the-u-s/",
@@ -159,5 +202,33 @@
       "url": "https://www.bbva.com/en/bbva-launches-open-banking-business/",
       "date": "2017-05-24"
     }
-  ]
+  ],
+  "stack": [
+    {
+      "id": "typingdna",
+      "name": "TypingDNA",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1572016224/catalog/typingdna/icon128x128.jpg",
+      "websiteUrl": "https://www.typingdna.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
 }

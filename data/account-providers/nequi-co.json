@@ -1,0 +1,90 @@
+{
+  "id": "nequi-co",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Nequi",
+  "description": "Nequi is a Colombia-based Fintech that was first created by Bancolombia, one of the biggest bank in the country, to provide a fully digital banking experience to customers.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1611533830/icons/nequi-co.jpg",
+  "websiteUrl": "https://www.nequi.com.co/",
+  "ownership": [
+    {
+      "providerId": "bancolombia",
+      "shareholderName": "Bancolombia",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1611533836/icons/bancolombia.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "CO",
+  "countries": [
+    "CO"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://conecta.nequi.com.co",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://conecta.nequi.com.co",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/co/app/nequi/id1075378688?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nequi.mobileapp&hl=es"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "Nequi",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

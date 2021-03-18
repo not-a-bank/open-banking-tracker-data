@@ -6,13 +6,18 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 17,
   "name": "Lloyds Bank",
   "legalName": "Lloyds Bank plc",
   "ipoStatus": "private",
   "stockSymbol": "LON:LLOY",
   "verified": false,
+  "aliases": [
+    "Lloyds"
+  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568856945/radar/icons/lloyds.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Lloyds_Banking_Group.jpg",
   "websiteUrl": "https://www.lloydsbank.com/",
   "ownership": [
     {
@@ -34,28 +39,16 @@
     }
   ],
   "sandbox": {
-    "status": "available",
-    "sourceUrl": "https://developer.lloydsbanking.com/"
+    "status": "available"
   },
   "developerPortalUrl": "https://developer.lloydsbanking.com/",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://developer.lloydsbanking.com/",
-  "apiAggregators": [
-    "truelayer",
-    "klarna",
-    "plaid",
-    "token",
-    "openwrks",
-    "salt-edge",
-    "yolt",
-    "banked",
-    "friendlyscore",
-    "fintecture",
-    "bridgeapi-io",
-    "equensWorldline"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "/branches",
@@ -167,6 +160,24 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "truelayer",
+    "klarna",
+    "plaid",
+    "token",
+    "openwrks",
+    "salt-edge",
+    "yolt",
+    "banked",
+    "friendlyscore",
+    "fintecture",
+    "bridgeapi-io",
+    "equensworldline"
+  ],
+  "collections": [
+    "cma9"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
@@ -191,11 +202,29 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfFNkAAN",
+  "alumni": [],
   "articles": [],
+  "stack": [
+    {
+      "id": "mastercard-open-banking-connect",
+      "name": "Open Banking Connect",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614175156/icons/mastercard-open-banking-connect.png",
+      "websiteUrl": "https://openbanking.mastercard.com/connect/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }

@@ -1,0 +1,114 @@
+{
+  "id": "branchapp",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Branch",
+  "description": "Branch help businesses modernize their payment methods to empower working Americans. Digital tips and reimbursements, no-fee banking, and earned wage access are just some of the tools in our fast, free, and flexible platform.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1612041866/radar/icons/branchapp.png",
+  "websiteUrl": "https://www.branchapp.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/branch-messenger-work-app/id1047978697"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.branchmessenger"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "branch",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "plaid",
+      "name": "Plaid",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559337184/catalog/plaid/icon128x128.jpg",
+      "websiteUrl": "https://plaid.com"
+    },
+    {
+      "id": "evolve-bank-and-trust",
+      "name": "Evolve Bank and Trust",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593623623/icons/evolve-bank-and-trust.jpg",
+      "websiteUrl": "https://getevolved.com"
+    }
+  ],
+  "thirdPartyBankingLicense": "evolve-bank-and-trust",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "rippling",
+      "name": "Rippling",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554423006/catalog/rippling/icon128x128.jpg",
+      "websiteUrl": "https://www.rippling.com/"
+    },
+    {
+      "id": "mercer",
+      "name": "Mercer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1597050010/icons/mercer.jpg",
+      "websiteUrl": "https://www.mercer.com/"
+    },
+    {
+      "id": "mastercard",
+      "name": "mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "evolve-bank-and-trust",
+      "name": "Evolve Bank and Trust",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593623623/icons/evolve-bank-and-trust.jpg",
+      "websiteUrl": "https://getevolved.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://support.branchapp.com"
+}

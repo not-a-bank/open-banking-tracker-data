@@ -1,0 +1,129 @@
+{
+  "id": "dozens",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Dozens",
+  "description": "A current account with saving tools and an investments, all built on a socially responsible business model.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1612119293/icons/dozens.jpg",
+  "websiteUrl": "https://www.dozens.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.dozens.com/dozens-api-documentation"
+  },
+  "developerPortalUrl": "https://www.dozens.com/dozens-api-documentation",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.dozens.com/dozens-api-documentation",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/id1403364204"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.dozens"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "wearedozens",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "thisisbud",
+      "name": "Bud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593641940/icons/thisisbud.png",
+      "websiteUrl": "https://thisisbud.com/"
+    },
+    {
+      "id": "clearbank",
+      "name": "ClearBank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568569726/catalog/clearbank/icon128x128.jpg",
+      "websiteUrl": "https://www.clear.bank/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "clearbank",
+      "name": "ClearBank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568569726/catalog/clearbank/icon128x128.jpg",
+      "websiteUrl": "https://www.clear.bank/",
+      "title": "ClearBank to enhance current account offering for challenger bank Dozens",
+      "description": "ClearBank today announced that it will be supporting the challenger digital banking app Dozens to upgrade its current account offering.",
+      "sourceUrl": "https://ibsintelligence.com/ibsi-news/clearbank-to-enhance-current-account-offering-for-challenger-bank-dozens/",
+      "sourceDate": "2021-01-28T10:27:08+00:00",
+      "features": [
+        "current-account"
+      ],
+      "addedAt": "2021-01-31T19:17:44.228Z"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "apple-pay",
+      "name": "Apple Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+      "websiteUrl": "https://www.apple.com/apple-pay/"
+    }
+  ],
+  "platforms": [
+    "ios"
+  ],
+  "awards": []
+}

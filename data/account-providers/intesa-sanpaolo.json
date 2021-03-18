@@ -6,6 +6,8 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 29,
   "name": "Intesa Sanpaolo",
   "description": "Intesa Sanpaolo S.p.A. is an Italian banking group resulting from the merger of Banca Intesa and Sanpaolo IMI based in Torre Intesa Sanpaolo, Turin, Italy.",
   "legalName": "Intesa Sanpaolo S.p.A.",
@@ -47,6 +49,7 @@
     "cbiglobe"
   ],
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [
     {
@@ -152,7 +155,7 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "klarna",
-    "equensWorldline"
+    "equensworldline"
   ],
   "collections": [],
   "webApplication": true,
@@ -185,6 +188,7 @@
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],

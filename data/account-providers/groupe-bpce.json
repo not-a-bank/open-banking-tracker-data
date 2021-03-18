@@ -6,14 +6,17 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 71,
   "name": "Groupe BPCE",
+  "description": "Groupe BPCE is a French banking group, formed by the 2009 merger of CNCE and BFBP, has more than 8,200 branches nationwide under their respective brand names serving nearly 40 million customers.",
   "legalName": "Groupe BPCE",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568603030/radar/icons/groupe-bpce.jpg",
-  "websiteUrl": "https://www.groupebpce.fr/en",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Groupe_BPCE.jpg",
+  "websiteUrl": "https://www.groupebpce.fr/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "FR",
@@ -28,19 +31,17 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://www.api.89c3.com"
+    "sourceUrl": "https://newsroom-en.groupebpce.fr/news/groupe-bpce-makes-its-psd2-regulatory-apis-available-to-authorized-payment-services-providers-15b0-53927.html"
   },
   "developerPortalUrl": "https://www.api.89c3.com",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://www.api.89c3.com",
-  "apiAggregators": [
-    "budget-insight",
-    "fintecture",
-    "bridgeapi-io",
-    "equensWorldline"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -68,6 +69,14 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "budget-insight",
+    "fintecture",
+    "bridgeapi-io",
+    "equensworldline"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -88,9 +97,27 @@
     }
   ],
   "twitter": "GroupeBPCE",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Groupe_BPCE",
   "crunchbase": "groupe-bpce",
   "bloomberg": null,
   "github": null,
   "fca": "001b000000Mfre4AAB",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }

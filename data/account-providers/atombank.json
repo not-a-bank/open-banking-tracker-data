@@ -1,27 +1,35 @@
 {
   "id": "atombank",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Atom Bank",
   "legalName": "Atom bank plc.",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296070/radar/icons/Atom_Bank.jpg",
   "websiteUrl": "https://www.atombank.co.uk/",
   "ownership": [
-    { 
+    {
       "shareholderName": "BBVA",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/BBVA.jpg",
+      "sourceUrl": "https://www.bbva.com/en/bbva-completes-85-4m-investment-uk-digital-bank-atom-increasing-stake-39/",
       "providerId": "BBVA",
-      "percentage": 39.0,
-      "sourceUrl": "https://www.bbva.com/en/bbva-completes-85-4m-investment-uk-digital-bank-atom-increasing-stake-39/"
+      "percentage": 39
     }
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
@@ -31,8 +39,18 @@
     "sourceUrl": null
   },
   "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": false,
   "mobileApps": [
     {
@@ -42,7 +60,6 @@
       "operatingSystem": "android"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": "https://www.atombank.co.uk/investor-information",
   "financialReports": [
     {
@@ -53,20 +70,39 @@
   ],
   "twitter": "atom_bank",
   "crunchbase": "atom-bank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000i8ezfAAA",
+  "alumni": [],
   "articles": [
     {
       "url": "https://www.bbva.com/en/atom-bank-ceo-lead-challenger-banks-uk-open-banking-initiative/",
       "date": "2017-07-05"
     }
   ],
+  "stack": [
+    {
+      "id": "plaid",
+      "name": "Plaid",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559337184/catalog/plaid/icon128x128.jpg",
+      "websiteUrl": "https://plaid.com"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "fundingTotal": {
     "amount": "429000000",
     "currency": "GBP"
   },
   "foundedYear": 2014,
-  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
   "products": {
     "loans": {
       "businessLoans": true,
@@ -75,14 +111,18 @@
   },
   "partnerships": [
     {
+      "id": "thoughtmachine-net",
       "name": "Thought Machine",
       "icon": "https://res.cloudinary.com/apideck/icons/thoughtmachine-net.jpg",
       "websiteUrl": "https://www.thoughtmachine.net/",
-      "id": "thoughtmachine-net",
       "title": "Digital disruptor Atom bank partners with Thought Machine",
       "desription": "Atom bank has agreed a multi-year partnership with leading fintech Thought Machine to put its next generation of personal and business banking products onto Thought Machine’s Vault platform.",
       "sourceUrl": "https://www.atombank.co.uk/newsroom/digital-disruptor-atom-bank-partners-with-thought-machine",
       "sourceDate": "2018-11-27"
     }
-  ]
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }

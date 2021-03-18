@@ -6,13 +6,16 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 24,
   "name": "Barclays",
+  "description": "Barclays plc is a British multinational investment bank and financial services company, headquartered in London, England. Apart from investment banking, Barclays is organised into four core businesses: personal banking, corporate banking, wealth management, and investment management.",
   "legalName": "Barclays plc",
   "ipoStatus": "public",
   "stockSymbol": "LON:BARC",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568855030/radar/icons/barclays.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Barclays.jpg",
   "websiteUrl": "https://www.barclays.co.uk/",
   "ownership": [],
   "stateOwned": false,
@@ -32,9 +35,125 @@
   },
   "developerPortalUrl": "https://developer.barclays.com/open-banking",
   "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.barclays.com/open-banking",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Accounts and Transactions",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "To retrieve account information for Barclays customers.",
+      "documentationUrl": "https://developer.barclays.com/catalogue/dc72e132-2951-4378-bc52-38e35b1e3564.bdn/overview",
+      "apiReferenceUrl": "https://developer.barclays.com/catalogue/dc72e132-2951-4378-bc52-38e35b1e3564.bdn/documentation/eb4e14b9-48f3-4d5a-a7d5-8a2d7efbdeb0.bdn",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate a single and immediate non-mandated funds transfer.",
+      "documentationUrl": "https://developer.barclays.com/catalogue/36324e85-05dc-4ffd-9301-0d0cf161e382.bdn/overview",
+      "apiReferenceUrl": "https://developer.barclays.com/catalogue/36324e85-05dc-4ffd-9301-0d0cf161e382.bdn/documentation/a480c5a7-289b-4189-b066-e73c7c06ec05.bdn",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consent",
+      "type": "consent",
+      "description": "Manage the authorisation given to Third Party Providers (TPPs) to receive payments or access transaction history from Barclays customer accounts.",
+      "categories": [
+        "accounts"
+      ],
+      "documentationUrl": "https://developer.barclays.com/catalogue/ab189044-2903-4e53-84b4-c2a7374655bb.bdn/overview",
+      "apiReferenceUrl": "https://developer.barclays.com/catalogue/ab189044-2903-4e53-84b4-c2a7374655bb.bdn/documentation/28427e15-c7af-4a0e-9c91-95e46e166da5.bdn",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Product Details",
+      "type": "productFinder",
+      "description": "The Barclays Product Details API allows users to discover various financial products Barclays offers. From personal accounts to SME lending products, business current accounts to commercial credit cards, users can view current product details.",
+      "categories": [
+        "products"
+      ],
+      "documentationUrl": "https://developer.barclays.com/catalogue/a9e56a0b-c995-4091-bd54-c95557333538.bdn/overview",
+      "apiReferenceUrl": "https://developer.barclays.com/catalogue/a9e56a0b-c995-4091-bd54-c95557333538.bdn/documentation/9ef245a3-df87-4c01-ab1c-26cd88c98887.bdn",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Branch Locator",
+      "type": "branchLocator",
+      "description": "The Barclays Branch Locator API enables users to locate all Barclays branches throughout the UK. Using longitudinal and latitudinal data, users can find the location of the branch, the opening hours and the facilities available at each individual branch.",
+      "categories": [
+        "locators"
+      ],
+      "documentationUrl": "https://developer.barclays.com/catalogue/d2464c5e-93ca-4dc5-924c-8fb18724ee51.bdn/overview",
+      "apiReferenceUrl": "https://developer.barclays.com/catalogue/d2464c5e-93ca-4dc5-924c-8fb18724ee51.bdn/documentation/d9b83b29-42e2-4cb3-ad8f-100d2c9a6314.bdn",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "ATM Locator",
+      "type": "atmLocator",
+      "description": "The Barclays ATM Finder API allows users to locate all Barclays Automated Teller Machines across the UK. Users will be able to view the town, street name and postcode the ATM is located on and the …",
+      "categories": [
+        "locators"
+      ],
+      "documentationUrl": "https://developer.barclays.com/catalogue/088f4ffc-6e25-404d-8b19-61bebb16bee4.bdn/overview",
+      "apiReferenceUrl": "https://developer.barclays.com/catalogue/088f4ffc-6e25-404d-8b19-61bebb16bee4.bdn/documentation/c9e28aaa-51a1-4c9b-b8d4-f2b7ac090aa7.bdn",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "FCA Service Metrics",
+      "type": "other",
+      "description": "FCA Service Metric API.",
+      "categories": [
+        "products"
+      ],
+      "documentationUrl": "https://developer.barclays.com/catalogue/ef23fd99-24a7-4758-855c-08173094e70e.bdn/overview",
+      "apiReferenceUrl": "https://developer.barclays.com/catalogue/ef23fd99-24a7-4758-855c-08173094e70e.bdn/documentation/59f96026-03d6-4c4e-9567-c3db4dd83e3a.bdn",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Card Details",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve and renew payment card information of Barclays customers after they have given consent.",
+      "documentationUrl": "https://developer.barclays.com/catalogue/f82f238e-2998-46ae-91c7-97bf703fbff3.bdn/overview",
+      "apiReferenceUrl": "https://developer.barclays.com/catalogue/f82f238e-2998-46ae-91c7-97bf703fbff3.bdn/documentation/8fbd78b5-e9e9-4b1b-a73f-446bb66e595e.bdn",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Check Balance",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Check funds availability before payment for a Barclays customer.",
+      "documentationUrl": "https://developer.barclays.com/catalogue/ce94b3d3-f441-42df-aa46-ac8db8a479b2.bdn/overview",
+      "apiReferenceUrl": "https://developer.barclays.com/catalogue/ce94b3d3-f441-42df-aa46-ac8db8a479b2.bdn/documentation/5be94f98-0295-4a3d-8a91-078b633f7e09.bdn",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "budget-insight",
     "truelayer",
@@ -47,119 +166,11 @@
     "banked",
     "friendlyscore",
     "bridgeapi-io",
-    "equensWorldline"
+    "equensworldline"
   ],
-  "apiProducts": [
-    {
-      "label": "Accounts and Transactions",
-      "type": "accountInformation",
-      "categories": [
-        "accounts"
-      ],
-      "description": "To retrieve account information for Barclays customers.",
-      "documentationUrl": "https://developer.barclays.com/catalogue/dc72e132-2951-4378-bc52-38e35b1e3564.bdn/overview",
-      "apiReferenceUrl": "https://developer.barclays.com/catalogue/dc72e132-2951-4378-bc52-38e35b1e3564.bdn/documentation/eb4e14b9-48f3-4d5a-a7d5-8a2d7efbdeb0.bdn",
-      "premium": false,
-      "stage": "upcoming"
-    },
-    {
-      "label": "Payment Initiation",
-      "type": "paymentInitiation",
-      "categories": [
-        "payments"
-      ],
-      "description": "Initiate a single and immediate non-mandated funds transfer.",
-      "documentationUrl": "https://developer.barclays.com/catalogue/36324e85-05dc-4ffd-9301-0d0cf161e382.bdn/overview",
-      "apiReferenceUrl": "https://developer.barclays.com/catalogue/36324e85-05dc-4ffd-9301-0d0cf161e382.bdn/documentation/a480c5a7-289b-4189-b066-e73c7c06ec05.bdn",
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Consent",
-      "type": "consent",
-      "description": "Manage the authorisation given to Third Party Providers (TPPs) to receive payments or access transaction history from Barclays customer accounts.",
-      "categories": [
-        "accounts"
-      ],
-      "documentationUrl": "https://developer.barclays.com/catalogue/ab189044-2903-4e53-84b4-c2a7374655bb.bdn/overview",
-      "apiReferenceUrl": "https://developer.barclays.com/catalogue/ab189044-2903-4e53-84b4-c2a7374655bb.bdn/documentation/28427e15-c7af-4a0e-9c91-95e46e166da5.bdn",
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Product Details",
-      "type": "productFinder",
-      "description": "The Barclays Product Details API allows users to discover various financial products Barclays offers. From personal accounts to SME lending products, business current accounts to commercial credit cards, users can view current product details.",
-      "categories": [
-        "products"
-      ],
-      "documentationUrl": "https://developer.barclays.com/catalogue/a9e56a0b-c995-4091-bd54-c95557333538.bdn/overview",
-      "apiReferenceUrl": "https://developer.barclays.com/catalogue/a9e56a0b-c995-4091-bd54-c95557333538.bdn/documentation/9ef245a3-df87-4c01-ab1c-26cd88c98887.bdn",
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Branch Locator",
-      "type": "branchLocator",
-      "description": "The Barclays Branch Locator API enables users to locate all Barclays branches throughout the UK. Using longitudinal and latitudinal data, users can find the location of the branch, the opening hours and the facilities available at each individual branch.",
-      "categories": [
-        "locators"
-      ],
-      "documentationUrl": "https://developer.barclays.com/catalogue/d2464c5e-93ca-4dc5-924c-8fb18724ee51.bdn/overview",
-      "apiReferenceUrl": "https://developer.barclays.com/catalogue/d2464c5e-93ca-4dc5-924c-8fb18724ee51.bdn/documentation/d9b83b29-42e2-4cb3-ad8f-100d2c9a6314.bdn",
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "ATM Locator",
-      "type": "atmLocator",
-      "description": "The Barclays ATM Finder API allows users to locate all Barclays Automated Teller Machines across the UK. Users will be able to view the town, street name and postcode the ATM is located on and the …",
-      "categories": [
-        "locators"
-      ],
-      "documentationUrl": "https://developer.barclays.com/catalogue/088f4ffc-6e25-404d-8b19-61bebb16bee4.bdn/overview",
-      "apiReferenceUrl": "https://developer.barclays.com/catalogue/088f4ffc-6e25-404d-8b19-61bebb16bee4.bdn/documentation/c9e28aaa-51a1-4c9b-b8d4-f2b7ac090aa7.bdn",
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "FCA Service Metrics",
-      "type": "other",
-      "description": "FCA Service Metric API.",
-      "categories": [
-        "products"
-      ],
-      "documentationUrl": "https://developer.barclays.com/catalogue/ef23fd99-24a7-4758-855c-08173094e70e.bdn/overview",
-      "apiReferenceUrl": "https://developer.barclays.com/catalogue/ef23fd99-24a7-4758-855c-08173094e70e.bdn/documentation/59f96026-03d6-4c4e-9567-c3db4dd83e3a.bdn",
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Card Details",
-      "type": "accountInformation",
-      "categories": [
-        "accounts"
-      ],
-      "description": "Retrieve and renew payment card information of Barclays customers after they have given consent.",
-      "documentationUrl": "https://developer.barclays.com/catalogue/f82f238e-2998-46ae-91c7-97bf703fbff3.bdn/overview",
-      "apiReferenceUrl": "https://developer.barclays.com/catalogue/f82f238e-2998-46ae-91c7-97bf703fbff3.bdn/documentation/8fbd78b5-e9e9-4b1b-a73f-446bb66e595e.bdn",
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Check Balance",
-      "type": "accountInformation",
-      "categories": [
-        "accounts"
-      ],
-      "description": "Check funds availability before payment for a Barclays customer.",
-      "documentationUrl": "https://developer.barclays.com/catalogue/ce94b3d3-f441-42df-aa46-ac8db8a479b2.bdn/overview",
-      "apiReferenceUrl": "https://developer.barclays.com/catalogue/ce94b3d3-f441-42df-aa46-ac8db8a479b2.bdn/documentation/5be94f98-0295-4a3d-8a91-078b633f7e09.bdn",
-      "premium": false,
-      "stage": "sandbox"
-    }
+  "collections": [
+    "cma9"
   ],
-  "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -180,15 +191,41 @@
     }
   ],
   "twitter": "Barclays",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Barclays",
   "crunchbase": "barclays-plc",
   "bloomberg": null,
   "github": "Barclays",
   "fca": "001b000000MfF1EAAV",
+  "alumni": [],
   "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "id": "tryflux",
+      "name": "Flux",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432654/catalog/tryflux/icon128x128.png",
+      "websiteUrl": "https://tryflux.com",
+      "title": "Barclays adds itemised digital receipts to its banking app in partnership with fintech Flux",
+      "description": "Flux, the London fintech that has built a technology platform for banks and merchants to power itemised digital receipts and more, has seen its lengthy pilot with Barclays bear fruit. Announced formally today — but actually quietly rolled out a few months ago — Flux-powered digital rece…",
+      "sourceUrl": "https://techcrunch.com/2021/02/04/barclays-flux/",
+      "features": [
+        "itemised-digital-receipts"
+      ],
+      "addedAt": "2021-02-05T09:01:41.677Z"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }

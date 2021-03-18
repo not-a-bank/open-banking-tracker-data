@@ -1,25 +1,47 @@
 {
   "id": "raiffeisen-bank-international",
-  "type": ["account"],
-  "bankType": ["universal"],
-  "name": "Raiffeisen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "bankingGroup": true,
+  "numberOfBanks": 375,
+  "name": "Raiffeisen Bank",
   "legalName": "Raiffeisen Zentralbank Österreich A.G.",
   "ipoStatus": "public",
+  "stockSymbol": "VIE:RBI",
   "verified": false,
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Raiffaisen.jpg",
-  "websiteUrl": "https://www.rbinternational.com/eBusiness/01_template1/826124957350877869-NA-1225998027559583066-NA-1-NA.html",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594081808/icons/raiffeisen-bank-international.png",
+  "websiteUrl": "https://www.rbinternational.com/",
   "ownership": [
     {
       "shareholderName": "Regional Raiffeisen Banks",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296086/radar/icons/Raiffaisen.jpg",
       "providerId": null,
-      "percentage": 58.8,
-      "soureUrl": "https://www.rbinternational.com/eBusiness/01_template1/829189266947841370-829188968716049154-829188968716049154-NA-2-EN.html"
+      "percentage": 58.8
     }
   ],
   "stateOwned": false,
   "countryHQ": "AT",
-  "countries": ["AT","UA","SI","RS","RU","RO","PL","HU","CZ","HR","BG","BA","BY","AL"],
+  "countries": [
+    "AT",
+    "UA",
+    "SI",
+    "RS",
+    "RU",
+    "RO",
+    "PL",
+    "HU",
+    "CZ",
+    "HR",
+    "BG",
+    "BA",
+    "BY",
+    "AL"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -30,102 +52,132 @@
     "status": "available",
     "sourceUrl": "https://developer.rb.cz/psd2"
   },
-  "developerPortalUrl": "https://developer.rb.cz/accounts_cz_api_sandbox",
+  "developerPortalUrl": "https://api.rbinternational.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://files.rbinternational.com/rbi_referencerates.xlsx",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts CZ API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "The Accounts API allows third party applications to interact with the current and credit card accounts of a bank user on his behalf, allowing the following operations:List of accounts, Account balances, and Account transactions. Since Account API provides only information about the current and credit card account(s) and transaction(s), it is read-only, and therefore this API supports only GET requests.",
       "documentationUrl": "https://developer.rb.cz/accounts_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/251",
       "premium": false,
       "stage": "sandbox",
-      "rateLimits": [{
-        "plan": "Default",
-        "limit": "100 per hour"
-      }]
+      "rateLimits": [
+        {
+          "plan": "Default",
+          "limit": "100 per hour"
+        }
+      ]
     },
     {
       "label": "Payments CZ API",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "The Payments API allows third party applications to perform money transfers from a bank client's account on his behalf, including the following operations: single Domestic (CZK) transfer, single SEPA Credit Transfer, and single Foreign Payment",
       "documentationUrl": "https://developer.rb.cz/payments_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/388",
       "premium": false,
       "stage": "sandbox",
-      "rateLimits": [{
-        "plan": "Default",
-        "limit": "100 per hour"
-      }]
+      "rateLimits": [
+        {
+          "plan": "Default",
+          "limit": "100 per hour"
+        }
+      ]
     },
     {
       "label": "BalanceCheck CZ API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "The BalanceCheck CZ API allows third party applications to confirm sufficient funds on the accounts of a bank user. Similarly to Accounts CZ API you need to obtain consent from the bank user through Authorization CZ API prior using this API.",
       "documentationUrl": "https://developer.rb.cz/balancecheck_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/383",
       "premium": false,
       "stage": "sandbox",
-      "rateLimits": [{
-        "plan": "Default",
-        "limit": "100 per hour"
-      }]
+      "rateLimits": [
+        {
+          "plan": "Default",
+          "limit": "100 per hour"
+        }
+      ]
     },
     {
       "label": "Accounts Authorization API CZ Sandbox 1.0.1",
       "type": "auth",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developer.rb.cz/authorization_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/386",
       "premium": false,
       "stage": "sandbox",
-      "rateLimits": [{
-        "plan": "Default",
-        "limit": "100 per hour"
-      }]
+      "rateLimits": [
+        {
+          "plan": "Default",
+          "limit": "100 per hour"
+        }
+      ]
     },
     {
       "label": "Payments Authorization API CZ Sandbox 1.0.0",
       "type": "auth",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://developer.rb.cz/authorization_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/386",
       "premium": false,
       "stage": "sandbox",
-      "rateLimits": [{
-        "plan": "Default",
-        "limit": "100 per hour"
-      }]
-    },
+      "rateLimits": [
         {
+          "plan": "Default",
+          "limit": "100 per hour"
+        }
+      ]
+    },
+    {
       "label": "BalanceCheck Authorization API CZ Sandbox 1.0.0",
       "type": "auth",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developer.rb.cz/authorization_cz_api",
       "apiReferenceUrl": "https://developer.rb.cz/node/386",
       "premium": false,
       "stage": "sandbox",
-      "rateLimits": [{
-        "plan": "Default",
-        "limit": "100 per hour"
-      }]
+      "rateLimits": [
+        {
+          "plan": "Default",
+          "limit": "100 per hour"
+        }
+      ]
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
-    "bankingsdk",
-    "budget-insight",
     "klarna",
-    "salt-edge",
-    "ibanity",
-    "equensWorldline"
+    "salt-edge"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -137,19 +189,43 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.advantage.RaiffeisenBank&hl=en"
     }
   ],
-  "stockSymbol": "VIE:RBI",
   "investorRelationsUrl": "http://investor.rbinternational.com/index.php?id=498&L=1&type=1",
   "financialReports": [
     {
       "label": "Q4 2018",
       "date": "2019-03-19",
       "url": "http://investor.rbinternational.com/fileadmin/ir/2018_FY/2019-03-13_FY_IR_release_RBI.pdf",
-      "type": ["annualPressRelease"]
+      "type": [
+        "annualPressRelease"
+      ]
     }
   ],
-  "twitter": "RBI_presse",
+  "twitter": "RBI_Presse",
   "crunchbase": "raiffeisen-bank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfGMvAAN",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.rbinternational.com/de/ueber-uns/innovation/api-marketplace.html"
 }

@@ -9,8 +9,10 @@
   "name": "Aktia Bank",
   "legalName": "Aktia Bank Abp",
   "ipoStatus": "public",
+  "stockSymbol": "OMXH:AKTIA",
   "verified": false,
-  "icon": "https://lh3.googleusercontent.com/F-mgCbxHzzmFciUjRAz0wSISNoaMThr7FSjXn6vaYOHKYdIXVtzcWTkE1EZy3_sJqw=s180",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1613248560/radar/icons/aktia-bank.jpg",
   "websiteUrl": "https://www.aktia.fi/",
   "ownership": [],
   "stateOwned": false,
@@ -29,6 +31,13 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://developer.aktia.fi/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Payments API",
@@ -70,11 +79,13 @@
   "apiStandards": [
     "BERLIN"
   ],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "neonomics",
     "enablebanking",
     "enfuce"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -86,12 +97,27 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=com.aktia.mobilebank&hl=en_US"
     }
   ],
-  "stockSymbol": "OMXH:AKTIA",
-  "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "aktiabank",
   "crunchbase": null,
+  "bloomberg": null,
   "github": null,
-  "fca": null,
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }

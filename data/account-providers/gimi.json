@@ -1,0 +1,112 @@
+{
+  "id": "gimi",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Gimi",
+  "description": "Gimi is a pocket money management app that teaches children about money.",
+  "legalName": null,
+  "ipoStatus": "education",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1610817462/radar/icons/gimitheapp.jpg",
+  "websiteUrl": "https://www.gimitheapp.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/app/gimi-a-piggy-bank/id935778197"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=se.veckopengen.app"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "@gimitheapp",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "teenager"
+  ],
+  "stack": [
+    {
+      "id": "prepaidfinancialservices",
+      "name": "Prepaid Financial Services",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590770303/catalog/prepaidfinancialservices/icon128x128.jpg",
+      "websiteUrl": "https://prepaidfinancialservices.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [
+    "mastercard"
+  ],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "ios",
+      "name": "IOS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1561568396/catalog/ios/icon128x128.png",
+      "websiteUrl": "https://developer.apple.com/ios/"
+    },
+    {
+      "id": "android",
+      "name": "Android",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055773/catalog/android/icon128x128.png"
+    }
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "awards": []
+}

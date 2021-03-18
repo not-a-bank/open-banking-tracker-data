@@ -1,0 +1,76 @@
+{
+  "id": "bankniza",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Bank Nizwa",
+  "description": "Bank Nizwa is Oman’s first dedicated Islamic bank, with fully Shari’a compliant products and services.",
+  "legalName": "Bank Nizwa",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1609706406/radar/icons/banknizwa-om.jpg",
+  "websiteUrl": "https://www.banknizwa.om/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "OM",
+  "countries": [
+    "OM"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/au/app/bank-nizwa/id1025665780?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.netvariant.banknizwa&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "Bank_Nizwa",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "awards": []
+}

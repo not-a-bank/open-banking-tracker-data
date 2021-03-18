@@ -1,0 +1,86 @@
+{
+  "id": "shopify-balance",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Shopify Balance",
+  "description": "Financial products built for independent businesses and entrepreneurs. Get faster access to your funds with a Shopify Balance account and earn rewards while you spend with a Shopify card.",
+  "legalName": "Shopify Inc.",
+  "ipoStatus": "public",
+  "stockSymbol": "SHOP",
+  "verified": false,
+  "status": "upcoming",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607045534/icons/shopify-balance.jpg",
+  "websiteUrl": "https://www.shopify.com/balance",
+  "ownership": [
+    {
+      "providerId": "shopify",
+      "shareholderName": "Shopify",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1529456131/catalog/shopify/icon128x128.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "compliance": [],
+  "sandbox": {},
+  "developerPortalUrl": "https://shopify.dev",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://shopify.dev",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Shopify",
+  "wikipediaUrl": "",
+  "bloomberg": null,
+  "github": "https://github.com/shopify/shopify-app-cli",
+  "alumni": [],
+  "keySegments": [
+    "merchant"
+  ],
+  "stack": [
+    {
+      "id": "stripe-treasury",
+      "name": "Stripe Treasury",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1607045543/icons/stripe-treasury.png",
+      "websiteUrl": "https://stripe.com/treasury"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}

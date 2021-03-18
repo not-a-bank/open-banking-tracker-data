@@ -1,5 +1,5 @@
 { 
-  "id": "equensWorldline",
+  "id": "equensworldline",
   "type": ["third-party"],
   "name": "equensWorldline",
   "icon": "",
@@ -19,14 +19,13 @@
       "status": "ready"
     }
   ],
-  "developerPortalUrl" : "https://developer.equensworldline.com/home.html",
-  "apiStandards": [],
-  "apiProducts": [],    
-  "ownership": [ {
+  "developerPortalUrl" : "https://developer.equensworldline.com/home.html",  
+  "ownership": [ 
+    {
       "shareholderName": "Worldline",
       "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1585395193/catalog/worldline/icon128x128.png",
       "providerId": "Worldline"
-      }
+    }
   ],
   "stateOwned": false,
   "stockSymbol" : "WLN",
@@ -119,7 +118,6 @@
   "ipoStatus": "public",
   "investorRelationsUrl": null,
   "financialReports" : null,   
-  "ownership" : [],
   "dataBreaches": [],
   "articles": null,
   "integrations": [],

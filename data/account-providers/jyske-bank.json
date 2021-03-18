@@ -6,12 +6,16 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 2,
   "name": "Jyske Bank",
   "legalName": "Jyske Bank A/S",
   "ipoStatus": "public",
+  "stockSymbol": "CPH:JYSK",
   "verified": false,
-  "icon": "https://lh3.googleusercontent.com/k0k3j8SIf4tnEDYVdUEorXUFUbwkgvs6OlUG2g_eqF5cWpb_4awKZ69wYDK9IzwEAKA=s180-rw",
-  "websiteUrl": "https://jyskebank.com/en",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1608015604/radar/icons/jyske-bank.webp",
+  "websiteUrl": "https://jyskebank.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "DK",
@@ -31,6 +35,13 @@
     "sourceUrl": "https://developers.bankdata.dk/products"
   },
   "developerPortalUrl": "https://developers.bankdata.dk/products",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account",
@@ -72,10 +83,12 @@
   "apiStandards": [
     "BERLIN"
   ],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "neonomics",
     "enablebanking"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -87,12 +100,28 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=dk.jyskebank.mobilbank&hl=en"
     }
   ],
-  "stockSymbol": "CPH:JYSK",
-  "investorRelationsUrl": null,
   "financialReports": [],
   "twitter": "jyskebank",
   "crunchbase": "jyske-bank",
+  "bloomberg": null,
   "github": "Jyskebank",
   "fca": "001b000000MfJykAAF",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }

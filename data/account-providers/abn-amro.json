@@ -6,6 +6,8 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 15,
   "name": "ABN Amro",
   "description": "ABN AMRO Bank N.V. is a Dutch bank with headquarters in Amsterdam. ABN AMRO Bank is the third-largest bank in the Netherlands. It was re-established in its current form in 2009, following the acquisition and break-up of the original ABN AMRO by a banking consortium consisting of Royal Bank of Scotland Group, Santander Group and Fortis.",
   "legalName": "ABN AMRO Group N.V.",
@@ -13,7 +15,7 @@
   "stockSymbol": "AMS:ABN",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600842077/radar/icons/aejy72vbvt3whxv9hipc.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607655575/radar/icons/ldv5ua2wvkhlvx2fd5t4.jpg",
   "websiteUrl": "https://www.abnamro.com/",
   "ownership": [
     {
@@ -127,7 +129,7 @@
     "klarna",
     "ibanity",
     "bridgeapi-io",
-    "equensWorldline"
+    "equensworldline"
   ],
   "collections": [],
   "webApplication": true,

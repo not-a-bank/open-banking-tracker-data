@@ -1,0 +1,93 @@
+{
+  "id": "fampay-in",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "FamPay",
+  "description": "Sign up now to get the numberless card and your UPI ID without a bank account! Get one joint account for parents and teens to spend together securely.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1611530599/icons/fampay-in.jpg",
+  "websiteUrl": "https://fampay.in/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IN",
+  "countries": [
+    "IN"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/in/app/fampay-card-for-teenagers/id1499806454"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fampay.in"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "fampayindia",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "teen",
+    "parent"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [
+    "rupay-in"
+  ],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "rupay-in",
+      "name": "RuPay Festive Carnival",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1611530592/icons/rupay-in.jpg",
+      "websiteUrl": "https://www.rupay.co.in/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "honestly",
+      "name": "Honestly",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1611375661/icons/honestly.png",
+      "websiteUrl": "https://www.honestly.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}

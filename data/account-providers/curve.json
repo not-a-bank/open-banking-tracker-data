@@ -7,6 +7,7 @@
     "challenger"
   ],
   "name": "curve",
+  "description": "Curve is a payment card that aggregates multiple payment cards through its accompanying mobile app, allowing a user to make payments and withdrawals from a single card. It lets you switch the bank card you paid with after each transaction is complete.",
   "legalName": "Curve 1 LTD",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -37,6 +38,7 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
@@ -61,14 +63,24 @@
       "url": "https://s3.eu-west-2.amazonaws.com/document-api-images-live.ch.gov.uk/docs/q14LIsouK7-8P2eObKHdeA6TK_rg8QmOmi-sBVW56wM/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAWRGBDBV3J2O5CLP4%2F20190709%2Feu-west-2%2Fs3%2Faws4_request&X-Amz-Date=20190709T113645Z&X-Amz-Expires=60&X-Amz-Security-Token=AgoJb3JpZ2luX2VjEBkaCWV1LXdlc3QtMiJGMEQCIDxWem5rIZwHl8BeSwk4Mc6Na5tcpVbLqDl40ez%2B9qHxAiBCWs%2FuQjOtKnYsqHfM41ju8UCgJH4NOp45vZtn%2F4tjZiraAwhyEAEaDDQ0OTIyOTAzMjgyMiIMdJcialAVFqFQ4BXXKrcDPTvXQXAV3emxrvExYE6sjlsUQYL4i%2BU1u5Y%2F3R2PepVH7L4Dqh4kQ4zgtOIa2RzehJCIYI4KZUo7WQm%2BRShoUiro%2Bni4CJ6Nv3DrmOIxfvDkcC1Idx9aS2VyA5myuavLerKUUeS1965zXSuEJB2tfk9dkic2Ntt4XvuzgqapRm0BsGIEYNjBLA8TSxVhUewBOHPaT71gw2E8d5aQfnDo4JZTRn4LE%2FhP1CnIC%2BVL0IDmYK54%2BAkbwprnPGJaTFK6hUbU1%2BZQduFV6tx6miplVVrHIqDD155HewUp%2Fkm%2FjxTalSiUIvF3yRaRPRPgQKphymKvhSgcCcsdqmWw%2Bm0whufYwavhllWj7aJF3VoEQD%2FOiqiDTPCm5GgYM9t%2FvETdijDtpuEO8qPWtwss%2BZWCYXdPx5ZQ1G9HlBMA%2Bi93hHRMvBlMpsg4%2FHzafC9rhgmFYq4lkHUY02adB7P3dLp0NPchgPJkNOKD%2FGfNnMk4WSeP9EYs1O8f9eruczyEt9q6kgkXFbdebB5yI9W9hyQioRGHDKsba620KK0t6XE6zoy9AATU%2FCPLRpGV8qcBN8J0%2FL7Mih3TujC%2Fq5HpBTq1AZtTDlxVyKnkpYP9VNfCrc0rqiknYWXoc0vSNY4bMAdFusMItFk3Zj4SPPlu042uKHpPEjPCPlwcAobv5ruvu5mqTAPGnlQV4VQQ7ZyV8shqD0wLoDmOAb6RvvYBrVT2ka%2FJBZpqjplaBvJNHmJEUReB4ohhcZtM2MqyYTT4r%2B8%2BRRrx%2FAHWfFutJd2Mj%2BKiyJ7rEu7FoaizpkqjpD8Aduc2R91zbmlEUOQrvuDYh4VGU5pLA9I%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=fb6ac1bd86afdcc0e4aaffc26ea35410052a702b8566ff8adf1829f90f478c8d"
     }
   ],
-  "twitter": "imagineCurve",
+  "twitter": "AskCurve",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Curve_(payment_card)",
   "crunchbase": "curve",
   "bloomberg": null,
+  "github": null,
   "fca": "0010X00004IN5FnQAL",
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "plaid",
+      "name": "Plaid",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559337184/catalog/plaid/icon128x128.jpg",
+      "websiteUrl": "https://plaid.com"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "customers": {
     "consumer": [
@@ -147,30 +159,30 @@
   },
   "partnerships": [
     {
+      "id": "mastercard",
       "name": "Mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://www.mastercard.com/",
-      "id": "mastercard",
       "title": "Curve and Mastercard extend their partnership",
       "desription": "Curve announced a new expanded partnership with Mastercard that sees Curve become a principal member of the payments technology company.",
       "sourceUrl": "https://newsroom.mastercard.com/eu/news-briefs/curve-and-mastercard-extend-their-partnership/",
       "sourceDate": "2020-04-30"
     },
     {
+      "id": "fitbit",
       "name": "Fitbit",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1565004495/catalog/fitbit/icon128x128.jpg",
       "websiteUrl": "https://www.fitbit.com/home",
-      "id": "fitbit",
       "title": "Curve forms partnerships to expand wearables offering",
       "desription": "Curve has partnered with Garmin, Fitbit and Sony’s Wena pay to enable its customers to make payments using wearables.",
       "sourceUrl": "https://www.verdict.co.uk/cards-international/news/curve-wearables-offering/",
       "sourceDate": "2019-12-13"
     },
     {
+      "id": "samsung-pay",
       "name": "Samsung Pay",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
       "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/",
-      "id": "samsung-pay",
       "title": "Curve inks deal with Samsung to launch new digital payment solution Samsung Pay Card",
       "desription": "Samsung Pay has signed a partnership with the digital banking platform Curve and Mastercard to launch the Samsung Pay Card.",
       "sourceUrl": "https://member.fintech.global/2020/06/24/curve-inks-deal-with-samsung-to-launch-new-digital-payment-solution-samsung-pay/",
@@ -178,16 +190,31 @@
       "addedAt": "2020-06-25T16:36:23.114Z"
     },
     {
+      "id": "plaid",
+      "name": "Plaid",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559337184/catalog/plaid/icon128x128.jpg",
+      "websiteUrl": "https://plaid.com",
+      "title": "Curve and Plaid team up to make money easier",
+      "description": "Plaid is joining forces with Curve to help give people a holistic view of their money, make the most of their spending, and improve their financial wellbeing.",
+      "sourceUrl": "https://plaid.com/blog/curve-and-plaid-team-up-to-make-money-easier/",
+      "features": [
+        "account-aggregation"
+      ],
+      "addedAt": "2020-12-16T16:42:32.845Z"
+    },
+    {
+      "id": "mastercard",
       "name": "Mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://mastercard.com"
     }
   ],
+  "rewardPartners": [],
   "integrations": [
     {
       "id": "google-pay",
       "name": "Google Pay",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840298/catalog/google-pay/icon128x128.png",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593103732/icons/google-pay.png",
       "websiteUrl": "https://pay.google.com/about/"
     },
     {
@@ -195,6 +222,12 @@
       "name": "Apple Pay",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
       "websiteUrl": "https://www.apple.com/apple-pay/"
+    },
+    {
+      "id": "samsung-pay",
+      "name": "Samsung Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
+      "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/"
     }
   ],
   "platforms": [

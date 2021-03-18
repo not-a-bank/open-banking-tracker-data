@@ -16,7 +16,7 @@
     "Starling"
   ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592795538/radar/icons/starlingbank.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1565353318/catalog/starlingbank/icon128x128.jpg",
   "websiteUrl": "https://starlingbank.com",
   "ownership": [],
   "stateOwned": false,
@@ -43,6 +43,7 @@
   ],
   "apiReferenceUrl": "https://developer.starlingbank.com/docs",
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [
     {
@@ -103,9 +104,29 @@
       "date": "2018-08-06"
     }
   ],
-  "stack": [],
+  "stack": [
+    {
+      "id": "bnkbl",
+      "name": "Bankable",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565351439/catalog/bnkbl/icon128x128.png",
+      "websiteUrl": "https://bnkbl.com"
+    },
+    {
+      "id": "transactpaymentsltd",
+      "name": "Transact Payments",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602235642/icons/transactpaymentsltd.jpg",
+      "websiteUrl": "https://www.transactpaymentsltd.com/"
+    },
+    {
+      "id": "polyai",
+      "name": "PolyAI",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1612725331/icons/polyai.jpg",
+      "websiteUrl": "https://www.polyai.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "customers": {
     "consumer": [
@@ -209,7 +230,7 @@
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1579220042/catalog/postoffice-uk/icon128x128.png",
       "websiteUrl": "https://www.postoffice.co.uk/",
       "title": "Digital bank Starling heads to the high street following Post Office deal",
-      "desription": "App-based start up Starling Bank has arrived on the high street following a deal to launch in thousands of Post Offices nationwide. Starling describes itself as a \"mobile only bank account\" and has more than 200,000 users in the UK. It is among a new wave of digital-only lenders that claim to be quicker and easier to deal with compared with traditional banks.",
+      "description": "App-based start up Starling Bank has arrived on the high street following a deal to launch in thousands of Post Offices nationwide. Starling describes itself as a \"mobile only bank account\" and has more than 200,000 users in the UK. It is among a new wave of digital-only lenders that claim to be quicker and easier to deal with compared with traditional banks.",
       "sourceUrl": "https://www.telegraph.co.uk/technology/2018/11/14/digital-bank-starling-heads-high-street-following-post-office/",
       "sourceDate": "2018-11-24"
     },
@@ -219,7 +240,7 @@
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1595242430/icons/getpenfold.png",
       "websiteUrl": "https://getpenfold.com/",
       "title": "Introducing: Penfold pensions for business owners - Starling Bank",
-      "desription": "Penfold is a pension provider for the self-employed and the latest addition to the Starling Marketplace.",
+      "description": "Penfold is a pension provider for the self-employed and the latest addition to the Starling Marketplace.",
       "sourceUrl": "https://www.starlingbank.com/blog/penfold-integration-for-business-customers/",
       "features": [],
       "addedAt": "2020-07-20"
@@ -436,6 +457,18 @@
       "name": "Penfold",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1595242430/icons/getpenfold.png",
       "websiteUrl": "https://getpenfold.com/"
+    },
+    {
+      "id": "nutmeg",
+      "name": "Nutmeg",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1587738453/catalog/nutmeg/icon128x128.jpg",
+      "websiteUrl": "https://www.nutmeg.com/"
+    },
+    {
+      "id": "izettle",
+      "name": "iZettle",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579894507/catalog/izettle/icon128x128.jpg",
+      "websiteUrl": "https://www.izettle.com/"
     }
   ],
   "platforms": [

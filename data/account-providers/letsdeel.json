@@ -1,0 +1,135 @@
+{
+  "id": "letsdeel",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Deel",
+  "description": "Deel is the first payroll platform for remote teams that connects localized compliance and payments in one system of record and automates everything.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1590119412/catalog/letsdeel/icon128x128.jpg",
+  "websiteUrl": "https://www.letsdeel.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "deel",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "jpmorganchase-treasury-payments",
+      "name": "J.P. Morgan Treasury Payments",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1615835012/icons/jpmorganchase-treasury-payments.png",
+      "websiteUrl": "https://www.jpmorgan.com/solutions/treasury-payments"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [
+    "visa"
+  ],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "okta",
+      "name": "Okta",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547833779/catalog/okta/icon128x128.png",
+      "websiteUrl": "https://www.okta.com/"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "netsuite",
+      "name": "NetSuite",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531056077/catalog/netsuite/icon128x128.png",
+      "websiteUrl": "https://netsuite.com"
+    },
+    {
+      "id": "mercury-co",
+      "name": "Mercury",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569892376/catalog/mercury-co/icon128x128.jpg",
+      "websiteUrl": "https://mercury.co/"
+    },
+    {
+      "id": "transferwise",
+      "name": "Wise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
+      "websiteUrl": "https://transferwise.com/"
+    },
+    {
+      "id": "sepa-bank-transfer",
+      "name": "SEPA Bank Transfer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1608287810/icons/sepa-bank-transfer.png",
+      "websiteUrl": "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "americanexpress",
+      "name": "American Express",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568048320/catalog/americanexpress/icon128x128.jpg",
+      "websiteUrl": "https://americanexpress.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}

@@ -37,6 +37,24 @@
       "description": "Unique indentifier of the parent entity. Can be used to group banks of the same group.",
       "examples": ["abn-amro-parent"]
     },
+    "bankingGroup": { 
+      "title": "Banking group",
+      "type": "boolean", 
+      "description": "Is this provider a banking group",
+      "examples": ["false"]
+    },
+    "bankingGroupId": { 
+      "title": "Banking group ID",
+      "type": "boolean", 
+      "description": "The banking group ID this bank is part of",
+      "examples": ["erste-group"]
+    },
+    "numberOfBanks": { 
+      "title": "Number of banks",
+      "type": "number", 
+      "description": "The number of banks linked to this banking group",
+      "examples": [15]
+    },
     "type": { 
       "title": "Provider type",
       "type": "array",
@@ -65,7 +83,8 @@
           "private",
           "industrial",
           "community",
-          "commercial"
+          "commercial",
+          "development"
         ]
       }
     },
@@ -359,7 +378,9 @@
               "budget-insight",
               "bankingsdk",
               "fintecture",
-              "bridgeapi-io"
+              "bridgeapi-io",
+              "equensworldline",
+              "six-group-b-link"
             ]
           }
       },
@@ -469,7 +490,8 @@
             "enum": [
               "cbiglobe",
               "sibsapimarket",
-              "token"
+              "token",
+              "cedacri-it"
             ]
           },
           "examples": ["cbiglobe"]
@@ -531,7 +553,8 @@
           "STET",
           "BERLIN",
           "BISTRA",
-          "POLISHAPI"
+          "POLISHAPI",
+          "SIX-B-LINK"
         ]
       }
     },
@@ -709,6 +732,7 @@
                   "productFinder",
                   "invoiceFinancing",
                   "availability",
+                  "clientRegistration",
                   "cards",
                   "consent",
                   "auth",
@@ -730,7 +754,8 @@
                     "fx",
                     "auth",
                     "openData",
-                    "availability"
+                    "availability",
+                    "developer"
                   ]
                 }
               },

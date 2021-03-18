@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595367437/radar/icons/wirexapp.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595437724/icons/wirexapp.png",
   "websiteUrl": "https://wirexapp.com/",
   "ownership": [],
   "stateOwned": false,
@@ -33,6 +33,7 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
@@ -54,14 +55,30 @@
   "twitter": "wirexapp",
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "lhv-pank",
+      "name": "LHV Pank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598287578/icons/lhv-pank.jpg",
+      "websiteUrl": "https://www.lhv.ee/en/"
+    },
+    {
+      "id": "railsbank",
+      "name": "Railsbank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1570999812/catalog/railsbank/icon128x128.jpg",
+      "websiteUrl": "https://www.railsbank.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
   "prepaidDebitCards": [],
-  "debitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
   "creditCards": [
     "visa"
   ],
@@ -76,6 +93,12 @@
       "name": "Visa",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
       "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
     }
   ],
   "rewardPartners": [],

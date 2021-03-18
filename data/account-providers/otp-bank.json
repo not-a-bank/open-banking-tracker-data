@@ -6,6 +6,8 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 12,
   "name": "OTP Bank",
   "legalName": "OTP Bank Nyrt.",
   "ipoStatus": "public",
@@ -42,9 +44,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://portal-sandbox.openbanking.otpbank.hu",
-  "apiAggregators": [
-    "banqup"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -72,6 +74,11 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "banqup"
+  ],
+  "collections": [],
   "apiAccess": "verifiedTpp",
   "webApplication": true,
   "mobileApps": [],
@@ -93,12 +100,22 @@
   "bloomberg": null,
   "github": null,
   "fca": "0010X00004D9ObJQAV",
+  "alumni": [],
   "articles": [],
+  "stack": [],
   "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
   "platforms": [],
   "awards": []
 }

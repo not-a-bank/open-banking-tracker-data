@@ -6,6 +6,8 @@
   "bankType": [
     "universal"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 38,
   "name": "HSBC",
   "legalName": "HSBC Holdings plc",
   "ipoStatus": "public",
@@ -44,6 +46,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.hsbc.com/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information",
@@ -55,7 +60,7 @@
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_accountInformation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specification": "OBIE-AISP"
     },
     {
@@ -68,7 +73,7 @@
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_paymentInitiation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specification": "OBIE-PISP"
     },
     {
@@ -81,7 +86,7 @@
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_fundsConfirmation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specification": "OBIE-CBPII"
     },
     {
@@ -94,7 +99,7 @@
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_accountInformation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specification": "STET-AISP"
     },
     {
@@ -107,7 +112,7 @@
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_paymentInitiation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specification": "STET-PISP"
     },
     {
@@ -120,7 +125,7 @@
       "documentationUrl": "https://developer.hsbc.com/#/apiCatalogue/obie_fundsConfirmation",
       "apiReferenceUrl": "https://developer.hsbc.com/#/login",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "specification": "STET-CBPII"
     },
     {
@@ -173,8 +178,8 @@
     "STET",
     "OBIE"
   ],
+  "apiStatusUrls": [],
   "apiAggregators": [
-    "budget-insight",
     "truelayer",
     "klarna",
     "salt-edge",
@@ -185,7 +190,8 @@
     "banked",
     "friendlyscore",
     "bridgeapi-io",
-    "equensworldline"
+    "equensworldline",
+    "budget-insight"
   ],
   "collections": [
     "cma9"
@@ -205,36 +211,56 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfELyAAN",
+  "alumni": [],
   "articles": [],
+  "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
   "partnerships": [
     {
+      "id": "mulesoft-anypoint",
       "name": "Mulesoft Anypoint Platform",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1574464879/catalog/mulesoft-anypoint/icon128x128.png",
       "websiteUrl": "https://www.mulesoft.com/platform/enterprise-integration",
-      "id": "mulesoft-anypoint",
       "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
     },
     {
+      "id": "salesforce-service-cloud",
       "name": "Salesforce Service Cloud",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1572362983/catalog/salesforce-service-cloud/icon128x128.png",
       "websiteUrl": "https://www.salesforce.com/eu/products/service-cloud/overview/",
-      "id": "salesforce-service-cloud",
       "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
     },
     {
+      "id": "salesforce-community-cloud",
       "name": "Salesforce Community Cloud",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1563067308/catalog/salesforce-community-cloud/icon128x128.jpg",
-      "id": "salesforce-community-cloud",
       "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
+    },
+    {
+      "id": "token-io",
+      "name": "Token",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573418086/catalog/token-io/icon128x128.jpg",
+      "websiteUrl": "https://token.io/",
+      "title": "HSBC Debuts Open Payments Platform For eCommerce | PYMNTS.com",
+      "description": "HSBC's new Open Payments feature allows companies to offer customers an alternative to credit and debit payments.",
+      "sourceUrl": "https://www.pymnts.com/news/payment-methods/2020/hbsc-debuts-open-payments-platform-for-ecommerce-as-alternative-to-debit-credit/",
+      "sourceDate": "2020-11-26T19:06:19Z",
+      "features": [
+        "open-banking-payments"
+      ],
+      "addedAt": "2020-12-13T06:18:19.452Z"
     }
   ],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []

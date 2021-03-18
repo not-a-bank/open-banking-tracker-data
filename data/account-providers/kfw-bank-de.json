@@ -1,0 +1,79 @@
+{
+  "id": "kfw-bank-de",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "development"
+  ],
+  "bankingGroup": true,
+  "numberOfBanks": 3,
+  "name": "KfW",
+  "description": "The KfW, formerly KfW Bankengruppe, is a German state-owned development bank, based in Frankfurt. Its name originally comes from Kreditanstalt für Wiederaufbau. It was formed in 1948 after World War II as part of the Marshall Plan. As of 2018, it is Germany’s third largest bank by balance sheet.",
+  "legalName": null,
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1608488623/icons/kfw-bank-de.jpg",
+  "websiteUrl": "https://www.kfw.de/kfw.de-2.html",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "KfW",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/KfW",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "dracoon",
+      "name": "DRACOON",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1615327848/icons/dracoon.png",
+      "websiteUrl": "https://www.dracoon.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

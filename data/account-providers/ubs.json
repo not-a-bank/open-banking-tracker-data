@@ -21,12 +21,17 @@
   "countries": [
     "CH",
     "DE",
+    "FR",
+    "UK",
+    "LU",
+    "ES",
+    "AT",
     "IT"
   ],
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "active"
     }
   ],
   "sandbox": {
@@ -41,7 +46,8 @@
   "apiReferenceUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
   "apiChangelogUrl": null,
   "apiAggregators": [
-    "klarna"
+  "klarna",
+  "six-group-b-link"
   ],
   "apiProducts": [
     {
@@ -81,7 +87,7 @@
       "premium": false
     }
   ],
-  "apiStandards": [],
+  "apiStandards": ["SIX-B-LINK", "BERLIN"],
   "sdks": null,
   "postmanCollections": null,
   "webApplication": true,

@@ -7,6 +7,8 @@
     "retail",
     "corporate"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 183,
   "name": "OP Financial Group",
   "description": null,
   "legalName": "OP Osuuskunta",
@@ -46,11 +48,9 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://op-developer.fi/",
   "apiChangelogUrl": null,
-  "apiAggregators": [
-    "neonomics",
-    "klarna",
-    "enablebanking"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Accounts V3.0",
@@ -150,6 +150,13 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "neonomics",
+    "klarna",
+    "enablebanking"
+  ],
+  "collections": [],
   "sdks": null,
   "postmanCollections": null,
   "webApplication": true,
@@ -170,26 +177,29 @@
   "crunchbase": "op-financial-group",
   "bloomberg": null,
   "github": null,
+  "alumni": [],
   "articles": [],
+  "stack": [],
   "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
-  "applePay": null,
-  "googlePay": null,
-  "samsungPay": null,
-  "fitbitPay": null,
+  "virtualCards": [],
   "fscsProtected": null,
   "products": null,
   "partnerships": [
     {
+      "id": "nordicapigateway",
       "name": "Nordic API Gateway",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1569691786/catalog/nordicapigateway/icon128x128.jpg",
       "websiteUrl": "https://www.nordicapigateway.com/",
-      "id": "nordicapigateway",
       "title": "Finland’s OP Financial Group accelerates open banking push",
-      "desription": "The financial services group, which is made up of about 150 banks, is working with fintech Nordic API Gateway to access its open banking platform to add open banking functionality to its customers.",
+      "description": "The financial services group, which is made up of about 150 banks, is working with fintech Nordic API Gateway to access its open banking platform to add open banking functionality to its customers.",
       "sourceUrl": "https://www.computerweekly.com/news/252474671/Finlands-OP-Financial-accelerates-open-banking-push",
       "sourceDate": "2019-11-27",
       "features": [
@@ -197,6 +207,7 @@
       ]
     }
   ],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "pricingUrl": null,

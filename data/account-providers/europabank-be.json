@@ -1,0 +1,141 @@
+{
+  "id": "europabank-be",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Europabank",
+  "description": "Within the Crelan Group, Europabank is a Belgian commercial bank specializing in lending to individuals and companies.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1612733243/icons/europabank-be.png",
+  "websiteUrl": "https://www.europabank.be/",
+  "ownership": [
+    {
+      "providerId": "crelan-be",
+      "shareholderName": "Crelan",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1563414785/catalog/crelan-be/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": [
+    "BE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": "https://devportal.tpp.europabank.be/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://devportal.tpp.europabank.be/psd2-oauth2-v5/apis",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "specification": "BERLIN1.3",
+      "description": "All XS2A AIS APIs as specified by BerlinGroup",
+      "documentationUrl": "https://devportal.tpp.europabank.be/psd2-ais-v5/apis",
+      "apiReferenceUrl": "https://devportal.tpp.europabank.be/psd2-ais-v5/apis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "specification": "BERLIN1.3",
+      "description": "All XS2A PIS APIs as specified by the BerlinGroup in its 1.3",
+      "documentationUrl": "https://devportal.tpp.europabank.be/psd2-pis-v5/apis",
+      "apiReferenceUrl": "https://devportal.tpp.europabank.be/psd2-pis-v5/apis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "OAuth2",
+      "type": "auth",
+      "description": "All OAuth2 APIs for authorisation process",
+      "categories": [
+        "auth"
+      ],
+      "specification": "BERLIN1.3",
+      "documentationUrl": "https://devportal.tpp.europabank.be/psd2-oauth2-v5/apis",
+      "apiReferenceUrl": "https://devportal.tpp.europabank.be/psd2-oauth2-v5/apis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation Service",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "specification": "BERLIN1.3",
+      "description": "All XS2A PIIS APIs as specified by BerlinGroup",
+      "documentationUrl": "https://devportal.tpp.europabank.be/psd2-fcs-v5/apis",
+      "apiReferenceUrl": "https://devportal.tpp.europabank.be/psd2-fcs-v5/apis",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "itsme-be",
+      "name": "itsme",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1597088232/icons/itsme-be.jpg",
+      "websiteUrl": "https://www.itsme.be"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}

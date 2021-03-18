@@ -1,0 +1,95 @@
+{
+  "id": "rocker",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Rocker",
+  "description": "Bynk, the Swedish mobile loan app, has announced its is re-branding to ‘Rocker’ to become one of the latest challenger banks on the block.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607623561/radar/icons/rocker.jpg",
+  "websiteUrl": "https://rocker.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SE",
+  "countries": [
+    "SE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.enfuce.openbanking.enfuce.com"
+  },
+  "developerPortalUrl": "https://developer.enfuce.openbanking.enfuce.com",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.enfuce.openbanking.enfuce.com",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/app/apple-store/id1229786550?pt=118580898&ct=web%20page%20link&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=se.bynk.app"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "idemia",
+      "name": "IDEMIA",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1599521408/icons/idemia.jpg",
+      "websiteUrl": "https://www.idemia.com/"
+    },
+    {
+      "id": "enfuce",
+      "name": "Enfuce",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583142261/catalog/enfuce/icon128x128.jpg",
+      "websiteUrl": "https://enfuce.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

@@ -6,6 +6,8 @@
   "bankType": [
     "investment"
   ],
+  "bankingGroup": true,
+  "numberOfBanks": 22,
   "name": "Credit Suisse",
   "description": "Credit Suisse Group AG is a global wealth manager, investment bank and financial services company founded and based in Switzerland. Headquartered in Zürich.",
   "legalName": null,
@@ -13,7 +15,7 @@
   "stockSymbol": "CS",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591279316/radar/icons/credit-suisse.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591344996/icons/credit-suisse.png",
   "websiteUrl": "https://www.credit-suisse.com/",
   "ownership": [],
   "stateOwned": false,
@@ -22,12 +24,19 @@
     "US"
   ],
   "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://api-portal-psd2.credit-suisse.com/"
+  },
   "developerPortalUrl": "https://api-portal-psd2.credit-suisse.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://api-portal-psd2.credit-suisse.com/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Access Account Information (AIS)",
@@ -71,11 +80,15 @@
   ],
   "apiStatusUrls": [
     {
-      "country": "AT",
+      "countries": [
+        "AT"
+      ],
       "url": "https://psd2.ndgit-status.com/Credit-Suisse-Digital-AT"
     },
     {
-      "country": "ES",
+      "countries": [
+        "ES"
+      ],
       "url": "https://psd2.ndgit-status.com/Credit-Suisse-Digital-ES"
     }
   ],
@@ -87,6 +100,7 @@
   "twitter": "CreditSuisse",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Credit_Suisse",
   "bloomberg": null,
+  "alumni": [],
   "stack": [
     {
       "id": "ndgit",
@@ -97,6 +111,7 @@
   ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
@@ -104,7 +119,12 @@
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": [],

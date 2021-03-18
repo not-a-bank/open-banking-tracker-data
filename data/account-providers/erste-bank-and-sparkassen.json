@@ -1,0 +1,143 @@
+{
+  "id": "erste-bank-and-sparkassen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Erste Bank and Sparkassen",
+  "description": "Erste Bank der oesterreichischen Sparkassen AG provides banking services. The Bank offers checking accounts, credit and debit cards, loans, insurance, payment protection, phone banking, bill pay, and merchant services. Erste Bank Der Oesterreichischen Sparkassen serves clients in Austria.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "Erste Bank",
+    "Erste Bank der oesterreichischen Sparkassen",
+    "Erste Bank der oesterreichischen Sparkassen AG"
+  ],
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607187356/radar/icons/erste-bank-and-sparkassen.jpg",
+  "websiteUrl": "https://www.sparkasse.at/",
+  "ownership": [
+    {
+      "providerId": "erste-group",
+      "shareholderName": "Erste Group",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592261142/icons/erste-group.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe"
+  },
+  "developerPortalUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe/bank.eboe.v1%2Fpsd2-accounts-api",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe/bank.eboe.v1%2Fpsd2-payments-api",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe/bank.eboe",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe/bank.eboe.v1%2Fpsd2-funds-confirmation-api",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe/bank.eboe",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.eboe/bank.eboe.v1%2Fpsd2-consent-api",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": []
+    }
+  ],
+  "apiStandards": ["BERLIN1.3"],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
