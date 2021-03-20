@@ -1,0 +1,91 @@
+{
+  "id": "tomocredit",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": " TomoCredit",
+  "description": "Tomo is the next generation of credit card catered to young adults, students and immigrants looking to build a better financial future in the U.S. Apply today with no credit score required!",
+  "legalName": "TomoCredit Inc ",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616209243/radar/icons/tomocredit.jpg",
+  "websiteUrl": "https://www.tomocredit.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "TomoCredit",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "finicity",
+      "name": "Finicity",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573360773/catalog/finicity/icon128x128.jpg",
+      "websiteUrl": "https://www.finicity.com/"
+    },
+    {
+      "id": "cfsb",
+      "name": "CFSB - Community Federal Savings Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1596753115/icons/cfsb.png",
+      "websiteUrl": "https://www.cfsb.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": "cfsb",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [
+    {
+      "id": "americanexpress",
+      "name": "American Express",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568048320/catalog/americanexpress/icon128x128.jpg",
+      "websiteUrl": "https://americanexpress.com"
+    }
+  ],
+  "integrations": [
+    {
+      "id": "venmo",
+      "name": "Venmo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566511738/catalog/venmo/icon128x128.png",
+      "websiteUrl": "https://venmo.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
