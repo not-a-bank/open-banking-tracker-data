@@ -1,0 +1,87 @@
+{
+  "id": "crypto-com",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Crypto.com",
+  "description": "Crypto.com is on a mission to accelerate the world’s transition to cryptocurrency. Through the Crypto.com Mobile App and Exchange, you can buy 80+ cryptocurrencies and stablecoins, such as Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC). Purchase with a credit card, debit card, crypto, or fiat bank transfer. Our ecosystem consists of financial services, payment solutions, a world-class trading platform, and decentralised finance offerings.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616255821/radar/icons/crypto-com.jpg",
+  "websiteUrl": "https://crypto.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "HK",
+  "countries": [
+    "HK"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "cryptocom",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "bitcoin-org",
+      "name": "Bitcoin",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583231620/catalog/bitcoin-org/icon128x128.jpg",
+      "websiteUrl": "https://bitcoin.org/"
+    },
+    {
+      "id": "ethereum-org",
+      "name": "Ethereum",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591545171/icons/ethereum-org.jpg",
+      "websiteUrl": "https://ethereum.org/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
