@@ -1,0 +1,108 @@
+{
+  "id": "rakbank-ae",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "RAKBANK",
+  "legalName": "NATIONAL BANK OF RAS AL KHAIMA P.S.C",
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1615388540/icons/rakbank-ae.jpg",
+  "websiteUrl": "https://rakbank.ae/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AE",
+  "countries": [
+    "AE"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "RAKBANKlive",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": true,
+  "samsungPay": true,
+  "fitbitPay": true,
+  "partnerships": [
+    {
+      "id": "primevideo",
+      "name": "Prime Video",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1604933967/icons/primevideo.png",
+      "websiteUrl": "https://www.primevideo.com/"
+    },
+    {
+      "id": "deliveroo",
+      "name": "Deliveroo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1576167514/catalog/deliveroo/icon128x128.jpg",
+      "websiteUrl": "https://deliveroo.com"
+    },
+    {
+      "id": "agoda",
+      "name": "Agoda",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1612576565/icons/agoda.png",
+      "websiteUrl": "https://www.agoda.com/"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936484/catalog/amazon/icon128x128.png",
+      "websiteUrl": "https://amazon.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593103732/icons/google-pay.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    },
+    {
+      "id": "fitbit-pay",
+      "name": "Fitbit Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1592261139/icons/fitbit-pay.png",
+      "websiteUrl": "https://www.fitbit.com/us/technology/fitbit-pay"
+    },
+    {
+      "id": "samsung-pay",
+      "name": "Samsung Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586822028/catalog/samsung-pay/icon128x128.svg",
+      "websiteUrl": "https://www.samsung.com/global/galaxy/samsung-pay/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
