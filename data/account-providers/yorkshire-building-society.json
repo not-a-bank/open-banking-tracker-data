@@ -73,6 +73,9 @@
       "stage": "sandbox"
     }
   ],
+   "apiAggregators": [
+    "moneyhub-enterprise"
+  ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [],
