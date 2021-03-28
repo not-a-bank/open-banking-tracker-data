@@ -1,8 +1,6 @@
 {
   "id": "hsbckinetic-uk",
-  "type": [
-    "account"
-  ],
+  "type": "account",
   "bankType": [
     "challenger"
   ],
@@ -12,15 +10,17 @@
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
+  "aliases": [
+    "Kinetic"
+  ],
   "status": "beta",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574564767/radar/icons/hsbckinetic-uk.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574570920/catalog/hsbckinetic-uk/icon128x128.jpg",
   "websiteUrl": "https://www.hsbckinetic.co.uk/",
   "ownership": [
     {
       "providerId": "hsbc-uk",
       "shareholderName": "HSBC",
-      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1567667790/catalog/hsbc-uk/icon128x128.png",
-      "percentage": 100
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1567667790/catalog/hsbc-uk/icon128x128.png"
     }
   ],
   "stateOwned": false,
@@ -43,33 +43,86 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiAggregators": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
   "bloomberg": null,
+  "alumni": [],
   "keySegments": [
     "sme"
   ],
+  "stack": [],
   "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
-  "debitCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [
     {
       "id": "mulesoft-anypoint",
+      "name": "Mulesoft Anypoint Platform",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574464879/catalog/mulesoft-anypoint/icon128x128.png",
+      "websiteUrl": "https://www.mulesoft.com/platform/enterprise-integration",
       "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
     },
     {
       "id": "salesforce-service-cloud",
+      "name": "Salesforce Service Cloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1572362983/catalog/salesforce-service-cloud/icon128x128.png",
+      "websiteUrl": "https://www.salesforce.com/eu/products/service-cloud/overview/",
       "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
     },
     {
       "id": "salesforce-community-cloud",
+      "name": "Salesforce Community Cloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1563067308/catalog/salesforce-community-cloud/icon128x128.jpg",
       "sourceUrl": "https://www.finextra.com/pressarticle/80717/hsbc-taps-mulesoft-for-kinetic-build-out"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936490/catalog/sage/icon128x128.jpg",
+      "websiteUrl": "https://sagecrm.com"
     }
   ],
   "platforms": [
