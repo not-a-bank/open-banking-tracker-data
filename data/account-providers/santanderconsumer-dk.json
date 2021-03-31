@@ -1,0 +1,76 @@
+{
+  "id": "santanderconsumer-dk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Santander Consumer Bank Denmark",
+  "description": "",
+  "legalName": "Santander Consumer Bank AS",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1617205131/radar/icons/santanderconsumer-dk.png",
+  "websiteUrl": "https://santanderconsumer.dk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DK",
+  "countries": [
+    "DK"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Santander.dk",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "nordicapigateway",
+      "name": "Nordic API Gateway",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569691786/catalog/nordicapigateway/icon128x128.jpg",
+      "websiteUrl": "https://www.nordicapigateway.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
