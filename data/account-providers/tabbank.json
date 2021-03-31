@@ -1,0 +1,71 @@
+{
+  "id": "tabbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "TAB Bank",
+  "description": "Based in Ogden, Utah, TAB Bank is a full-service digital bank that services customers in all 50 states.",
+  "legalName": "Transportation Alliance Bank Inc.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1617192457/icons/tabbank.jpg",
+  "websiteUrl": "https://www.tabbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "TABBank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "mulesoft-anypoint",
+      "name": "Mulesoft Anypoint Platform",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574464879/catalog/mulesoft-anypoint/icon128x128.png",
+      "websiteUrl": "https://www.mulesoft.com/platform/enterprise-integration"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
