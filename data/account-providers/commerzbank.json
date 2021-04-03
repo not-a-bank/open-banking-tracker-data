@@ -110,7 +110,14 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Commerzbank",
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "google-cloud",
+      "name": "Google Cloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554327567/catalog/google-cloud/icon128x128.jpg",
+      "websiteUrl": "https://cloud.google.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
