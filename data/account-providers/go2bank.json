@@ -1,0 +1,105 @@
+{
+  "id": "go2bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "GO2bank",
+  "description": "GO2bank is Green Dot Bank's digital banking initiative. GO2bank is a division of Green Dot Bank.",
+  "legalName": "Green Dot Corporation",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1617662127/radar/icons/go2bank.png",
+  "websiteUrl": "https://www.go2bank.com/",
+  "ownership": [
+    {
+      "providerId": "greendot",
+      "shareholderName": "Green Dot",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1577072219/catalog/greendot/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [
+    {
+      "id": "go",
+      "name": "GO2bank Deposit Account Agreement (PDF)",
+      "type": "go",
+      "official": true,
+      "websiteUrl": "https://www.go2bank.com/content/dam/go2bank/legal/about/docs/go2bankdaa.pdf",
+      "url": "https://www.go2bank.com/content/dam/go2bank/legal/about/docs/technology-privacy-statement.pdf"
+    }
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/go2bank/id1534345772"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.greendotcorp.go2bank"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936484/catalog/amazon/icon128x128.png",
+      "websiteUrl": "https://amazon.com"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
