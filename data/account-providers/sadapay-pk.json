@@ -1,0 +1,115 @@
+{
+  "id": "sadapay-pk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "SadaPay",
+  "legalName": "SadaTech Pakistan Pvt Ltd",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1617660882/radar/icons/sadapay-pk.jpg",
+  "websiteUrl": "https://sadapay.pk/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "PK",
+  "countries": [
+    "PK"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "sadapaypk",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "azimo",
+      "name": "Azimo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567008693/catalog/azimo/icon128x128.jpg",
+      "websiteUrl": "https://azimo.com/"
+    },
+    {
+      "id": "payoneer",
+      "name": "Payoneer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589570005/catalog/payoneer/icon128x128.jpg",
+      "websiteUrl": "https://www.payoneer.com/"
+    },
+    {
+      "id": "upwork",
+      "name": "UpWork",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531056534/catalog/upwork/icon128x128.png",
+      "websiteUrl": "https://upwork.com"
+    },
+    {
+      "id": "fiverr",
+      "name": "Fiverr",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555963880/catalog/fiverr/icon128x128.png",
+      "websiteUrl": "https://fiverr.com"
+    },
+    {
+      "id": "transferwise",
+      "name": "Wise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
+      "websiteUrl": "https://transferwise.com/"
+    },
+    {
+      "id": "skrill",
+      "name": "Skrill",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1604933951/icons/skrill.jpg",
+      "websiteUrl": "https://www.skrill.com/"
+    },
+    {
+      "id": "remitly",
+      "name": "Remitly",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1580816780/catalog/remitly/icon128x128.jpg",
+      "websiteUrl": "https://www.remitly.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
