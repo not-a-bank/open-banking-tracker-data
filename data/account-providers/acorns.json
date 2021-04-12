@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1610315338/radar/icons/acorns.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1610315556/icons/acorns.jpg",
   "websiteUrl": "https://www.acorns.com/",
   "ownership": [],
   "stateOwned": false,
@@ -56,11 +56,9 @@
   "prepaidCards": [],
   "prepaidDebitCards": [],
   "debitCards": [
-    "mastercard"
+    "visa"
   ],
-  "creditCards": [
-    "mastercard"
-  ],
+  "creditCards": [],
   "virtualCards": [],
   "applePay": false,
   "googlePay": false,
@@ -68,10 +66,10 @@
   "fitbitPay": false,
   "partnerships": [
     {
-      "id": "mastercard",
-      "name": "mastercard",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
-      "websiteUrl": "https://mastercard.com"
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
     }
   ],
   "rewardPartners": [
