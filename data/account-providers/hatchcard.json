@@ -1,0 +1,89 @@
+{
+  "id": "hatchcard",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Hatch",
+  "description": "FDIC-insured business checking account with up to 5% in cashback rewards, perks and discounts, no NSF fees, and a Mastercard Enhanced Debit Card. Get started today!",
+  "legalName": "Hatch Credit Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1618434658/radar/icons/hatchcard.jpg",
+  "websiteUrl": "https://www.hatchcard.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "HatchCard",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "smb"
+  ],
+  "stack": [
+    {
+      "id": "radiusbank",
+      "name": "Lendingclub Bank (formerly Radius Bank)",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591775583/icons/radiusbank.jpg",
+      "websiteUrl": "https://radiusbank.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": "radiusbank",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "mastercard"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "radiusbank",
+      "name": "Lendingclub Bank (formerly Radius Bank)",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591775583/icons/radiusbank.jpg",
+      "websiteUrl": "https://radiusbank.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
