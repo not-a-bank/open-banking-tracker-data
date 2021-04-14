@@ -40,7 +40,32 @@
   "financialReports": [],
   "twitter": "HatchCard",
   "bloomberg": null,
-  "alumni": [],
+  "alumni": [
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/"
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531306175/catalog/square/icon128x128.png",
+      "websiteUrl": "https://squareup.com/"
+    },
+    {
+      "id": "morganstanley",
+      "name": "Morgan Stanley",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579381798/catalog/morganstanley/icon128x128.jpg",
+      "websiteUrl": "https://www.morganstanley.com/"
+    },
+    {
+      "id": "jpmorganchase",
+      "name": "JPMorgan Chase & Co.",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1605602526/icons/jpmorganchase.png",
+      "websiteUrl": "https://www.jpmorganchase.com/"
+    }
+  ],
   "keySegments": [
     "smb"
   ],
