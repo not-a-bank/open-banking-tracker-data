@@ -1,0 +1,74 @@
+{
+  "id": "abu-dhabi-commercial-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "commercial"
+  ],
+  "name": "ADCB",
+  "description": "ADCB is a full-service commercial bank offering a range of products and services such as retail banking, loans, cards, wealth management, and Islamic banking.",
+  "legalName": "Abu Dhabi Commercial Bank",
+  "ipoStatus": "public",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1618529840/radar/icons/adcb.jpg",
+  "websiteUrl": "https://www.adcb.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AE",
+  "countries": [
+    "AE"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/adcb/id547172388?ls=1&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.adcb.bank"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "OfficialADCB",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
