@@ -62,7 +62,14 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Idea_Bank",
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "fintechos",
+      "name": "FintechOS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1576089548/catalog/fintechos/icon128x128.png",
+      "websiteUrl": "https://fintechos.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
