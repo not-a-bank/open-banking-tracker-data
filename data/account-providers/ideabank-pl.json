@@ -1,0 +1,86 @@
+{
+  "id": "ideabank-pl",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Idea Bank",
+  "description": "Idea Bank Spółka Akcyjna was a bank in Poland, which began operations in 1991 and was taken over by Bank Pekao SA on 3 January 2021 as a part of compulsory restructuring engineered by Poland's Bank Guarantee Fund.",
+  "legalName": "Idea Bank S.A.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1618959641/radar/icons/ideabank-pl.jpg",
+  "websiteUrl": "https://www.ideabank.pl/",
+  "ownership": [
+    {
+      "providerId": "bank-pekao",
+      "shareholderName": "Bank Pekao",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1569631974/catalog/bank-pekao/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "PL",
+  "countries": [
+    "PL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.ideabank.pl/bfg-wszczal-przymusowa-restrukturyzacje-idea-bank-s-a-ktory-zostanie-przejety-przez-bank-pekao-s-a",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.ideabank.pl/bfg-wszczal-przymusowa-restrukturyzacje-idea-bank-s-a-ktory-zostanie-przejety-przez-bank-pekao-s-a",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/pl/app/idea-bank-pl/id1089566005?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=pl.ideabank.mobilebanking&hl=pl"
+    }
+  ],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Idea_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
