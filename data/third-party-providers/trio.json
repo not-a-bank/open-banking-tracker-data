@@ -1,0 +1,40 @@
+{
+  "id": "trio",
+  "type": ["third-party"],
+  "name": "Trio",
+  "description": "Trio is an Infrastructure as a Service (IaaS) API that encrypts data safely and provides to our users valuable information about financial and credit records about their clients.",
+  "legalName": "Trio Tecnologia Ltda.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://storage.googleapis.com/trio-public-media/trio-logo-horizontal.svg",
+  "websiteUrl": "https://trio.com.br",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BR",
+  "countries": ["BR"],
+  "compliance": [],
+  "developerPortalUrl": "https://developers.trio.com.br/docs",
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://sandbox.trio.com.br"
+  },
+  "apiReferenceUrl": "https://developers.trio.com.br/reference",
+  "twitter": "triohq",
+  "github": "triohq",
+  "foundedYear": 2020,
+  "integrations": [
+    {
+      "id": "itau",
+      "name": "Itau Unibanco",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602351254/icons/itau.png",
+      "websiteUrl": "https://www.itau.com/"
+    }
+  ],
+  "numberOfBanks": 5
+}
