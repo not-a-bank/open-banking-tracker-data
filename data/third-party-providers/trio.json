@@ -30,10 +30,34 @@
   "foundedYear": 2020,
   "integrations": [
     {
+      "id": "banco-do-brasil",
+      "name": "Banco do Brasil",
+      "icon": "https://logospng.org/download/banco-do-brasil/logo-banco-do-brasil-icon-256.png",
+      "websiteUrl": "https://www.bb.com.br/"
+    },
+    {
+      "id": "bradesco",
+      "name": "Banco Bradesco",
+      "icon": "https://logospng.org/download/bradesco/logo-bradesco-escudo-256.png",
+      "websiteUrl": "https://www.bradesco.com/"
+    },
+    {
+      "id": "caixa-economica-federal",
+      "name": "Caixa Econômica Federal",
+      "icon": "https://logospng.org/download/caixa-economica-federal/logo-caixa-economica-federal-256.png",
+      "websiteUrl": "https://www.caixa.gov.br/"
+    },
+    {
       "id": "itau",
       "name": "Itau Unibanco",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1602351254/icons/itau.png",
       "websiteUrl": "https://www.itau.com/"
+    },
+    {
+      "id": "banco-santander",
+      "name": "Banco Santander",
+      "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Banco_Santander.jpg",
+      "websiteUrl": "https://www.santander.com/"
     }
   ],
   "numberOfBanks": 5
