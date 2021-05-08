@@ -1,19 +1,23 @@
 {
-  "id": "bank-of-brazil",
+  "id": "banco-bradesco",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "Bank of Brazil",
+  "name": "Banco Bradesco",
+  "description": "Banco Bradesco SA is a Brazilian financial services company headquartered in Osasco, in the state of São Paulo, Brazil. It is the third largest banking institution in Brazil, as well as the third largest in Latin America, and the seventy-ninth largest bank in the world.",
   "legalName": null,
-  "ipoStatus": "private",
-  "stockSymbol": null,
+  "ipoStatus": "public",
+  "stockSymbol": "BBD",
   "verified": false,
+  "aliases": [
+    "Bradesco"
+  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1620461964/icons/bank-of-brazil.jpg",
-  "websiteUrl": "https://www.bb.com.br",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1620461963/icons/banco-bradesco.jpg",
+  "websiteUrl": "https://banco.bradesco/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "BR",
@@ -39,7 +43,8 @@
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
-  "twitter": "BancodoBrasil",
+  "twitter": "@Bradesco",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Banco_Bradesco",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
