@@ -23,7 +23,8 @@
     "ES",
     "PT",
     "DE",
-    "PL"
+    "PL",
+    "BR"
   ],
   "compliance": [
     {
@@ -40,11 +41,15 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://developer.santander.co.uk/sanuk/external",
+  "developerCommunityUrl": null,
   "openBankProjectUrl": "https://santander.openbankproject.com",
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.santander.co.uk/sanuk/external",
   "apiChangelogUrl": null,
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information",
@@ -84,8 +89,8 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
-    "bankingsdk",
     "neonomics",
     "truelayer",
     "klarna",
@@ -93,13 +98,7 @@
     "token",
     "yolt",
     "openwrks",
-    "banked",
-    "friendlyscore",
-    "fintecture",
-    "bridgeapi-io",
-    "ibanity",
-    "equensworldline",
-    "moneyhub-enterprise"
+    "trio-br"
   ],
   "collections": [
     "cma9"
@@ -131,24 +130,30 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfGAiAAN",
+  "alumni": [],
   "articles": [],
   "stack": [
-    "ibm-api-connect"
+    {
+      "id": "ibm-api-connect",
+      "name": "IBM API Connect",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568494917/catalog/ibm-api-connect/icon128x128.jpg",
+      "websiteUrl": "https://www.ibm.com/cloud/api-connect"
+    }
   ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
-  "applePay": null,
-  "googlePay": null,
-  "samsungPay": null,
-  "fitbitPay": null,
+  "virtualCards": [],
   "fscsProtected": null,
   "products": null,
   "partnerships": [],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "pricingUrl": null,

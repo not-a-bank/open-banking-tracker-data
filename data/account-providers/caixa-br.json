@@ -1,23 +1,20 @@
 {
-  "id": "itau",
+  "id": "caixa-br",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "Itaú Unibanco",
-  "description": "Itaú Unibanco, the largest private sector bank in Brazil and one of the largest financial institutions in Latin America with millions of clients around the world. ",
+  "name": "Caixa Econômica Federal",
+  "description": "Caixa Econômica Federal, also referred to as Caixa, is a state-owned Brazilian financial services company headquartered in Brasília, Brazil. It is the fourth largest banking institution in Brazil, as well as the fourth largest in Latin America, and the eighty-third largest bank in the world.",
   "legalName": null,
-  "ipoStatus": "private",
+  "ipoStatus": "government",
   "stockSymbol": null,
   "verified": false,
-  "aliases": [
-    "Itaú Unibanco"
-  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1602351254/icons/itau.png",
-  "websiteUrl": "https://www.itau.com/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1620492426/radar/icons/caixa-br.jpg",
+  "websiteUrl": "https://www.caixa.gov.br/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "BR",
@@ -43,6 +40,7 @@
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Caixa_Econ%C3%B4mica_Federal",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
