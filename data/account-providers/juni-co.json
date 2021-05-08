@@ -12,8 +12,8 @@
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
-  "status": "upcoming",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1606083968/radar/icons/juni-co.png",
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1606090617/icons/juni-co.png",
   "websiteUrl": "https://www.juni.co/",
   "ownership": [],
   "stateOwned": false,
@@ -49,7 +49,26 @@
     "ecommerce-company",
     "marketing-company"
   ],
-  "stack": [],
+  "stack": [
+    {
+      "id": "plaid",
+      "name": "Plaid",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559337184/catalog/plaid/icon128x128.jpg",
+      "websiteUrl": "https://plaid.com"
+    },
+    {
+      "id": "saltedge",
+      "name": "Salt Edge",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586382066/catalog/saltedge/icon128x128.jpg",
+      "websiteUrl": "https://www.saltedge.com/"
+    },
+    {
+      "id": "railsbank",
+      "name": "Railsbank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1570999812/catalog/railsbank/icon128x128.jpg",
+      "websiteUrl": "https://www.railsbank.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
@@ -69,13 +88,63 @@
   "partnerships": [
     {
       "id": "visa",
-      "name": "visa",
+      "name": "Visa",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
       "websiteUrl": "https://visa.com"
     }
   ],
   "rewardPartners": [],
-  "integrations": [],
+  "integrations": [
+    {
+      "id": "google-ads",
+      "name": "Google Ads",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554434835/catalog/google-ads/icon128x128.png",
+      "websiteUrl": "https://ads.google.com"
+    },
+    {
+      "id": "bankofamerica",
+      "name": "Bank of America",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569446920/catalog/bankofamerica/icon128x128.jpg",
+      "websiteUrl": "https://bankofamerica.com"
+    },
+    {
+      "id": "revolut",
+      "name": "Revolut",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569632033/catalog/revolut/icon128x128.jpg",
+      "websiteUrl": "https://www.revolut.com"
+    },
+    {
+      "id": "mailchimp",
+      "name": "MailChimp",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529455916/catalog/mailchimp/icon128x128.png",
+      "websiteUrl": "https://mailchimp.com/"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/"
+    },
+    {
+      "id": "facebook-ads",
+      "name": "Facebook Ads",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579870910/catalog/facebook-ads/icon128x128.png",
+      "websiteUrl": "https://www.facebook.com/business/ads"
+    },
+    null,
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456131/catalog/shopify/icon128x128.png",
+      "websiteUrl": "https://www.shopify.com/"
+    },
+    {
+      "id": "clickbank",
+      "name": "ClickBank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554433751/catalog/clickbank/icon128x128.png",
+      "websiteUrl": "https://clickbank.com"
+    }
+  ],
   "platforms": [],
   "awards": [],
   "marketplaceUrl": "https://www.juni.co/integrate"
