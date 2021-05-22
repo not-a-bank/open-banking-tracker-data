@@ -1,0 +1,80 @@
+{
+  "id": "jupiter-money",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Jupiter",
+  "description": "Jupiter is a provider of digital retail banking services to help users track their expenses. Bank in a flash, master your money, and reap rewards on the Jupiter app - partnered with an RBI licensed bank for max trust.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "private-beta",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621695215/icons/jupiter-money.png",
+  "websiteUrl": "https://waitlist.jupiter.money/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IN",
+  "countries": [
+    "IN"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "TheJupiterApp",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "federalbank-in",
+      "name": "Federal Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1621695217/icons/federalbank-in.jpg",
+      "websiteUrl": "https://www.federalbank.co.in/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
