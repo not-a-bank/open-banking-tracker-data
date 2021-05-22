@@ -13,7 +13,7 @@
   "stockSymbol": "FEDS",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621694858/radar/icons/federalbank-in.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621695217/icons/federalbank-in.jpg",
   "websiteUrl": "https://www.federalbank.co.in/",
   "ownership": [],
   "stateOwned": false,
@@ -31,7 +31,7 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://developer.federalbank.co.in/fedbnkdev/dev/",
+  "apiReferenceUrl": "https://www.federalbank.co.in/federal-api-banking",
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
@@ -40,7 +40,8 @@
   "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],
-  "webApplication": false,
+  "sdks": [],
+  "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
   "twitter": "FederalBankLtd",
@@ -63,7 +64,44 @@
   "fitbitPay": false,
   "partnerships": [],
   "rewardPartners": [],
-  "integrations": [],
+  "integrations": [
+    {
+      "id": "google-chrome",
+      "name": "Google Chrome",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565304470/catalog/google-chrome/icon128x128.jpg",
+      "websiteUrl": "https://google.com"
+    },
+    {
+      "id": "mozilla-firefox",
+      "name": "Mozilla Firefox",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571584571/catalog/mozilla-firefox/icon128x128.png",
+      "websiteUrl": "https://www.mozilla.org/en-US/firefox/new/"
+    },
+    {
+      "id": "microsoft-internet-explorer",
+      "name": "Microsoft Internet Explorer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571582186/catalog/microsoft-internet-explorer/icon128x128.png"
+    },
+    {
+      "id": "apple-safari",
+      "name": "Apple Safari",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569446922/catalog/apple-safari/icon128x128.jpg",
+      "websiteUrl": "https://www.apple.com/safari/"
+    },
+    {
+      "id": "mozilla",
+      "name": "Mozilla",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571584550/catalog/mozilla/icon128x128.jpg",
+      "websiteUrl": "https://www.mozilla.org"
+    },
+    {
+      "id": "opera",
+      "name": "Opera",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571592911/catalog/opera/icon128x128.png",
+      "websiteUrl": "https://www.opera.com/"
+    }
+  ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "marketplaceUrl": "https://www.federalbank.co.in/working-capital-demand-loan"
 }
