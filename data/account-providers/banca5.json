@@ -1,0 +1,74 @@
+{
+  "id": "banca5",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Banca 5",
+  "description": "Banca 5 was established in 2008 as Banca ITB SpA and became first Italian online bank. Banca 5 provides retail banking and insurance products and services",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621643396/radar/icons/banca5.png",
+  "websiteUrl": "https://www.banca5.com/",
+  "ownership": [
+    {
+      "providerId": "intesa-sanpaolo",
+      "shareholderName": "Intesa Sanpaolo",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1595194339/icons/intesa-sanpaolo.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
