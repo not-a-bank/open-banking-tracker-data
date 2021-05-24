@@ -1,0 +1,85 @@
+{
+  "id": "vulte-ng",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "VULTe",
+  "description": "The Digital Bank from Polaris Bank. What is VULTe? VULTe is a fully digital bank accessible via your smartphones and other smart devices.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621880273/radar/icons/vulte-ng.webp",
+  "websiteUrl": "https://vulte.ng/",
+  "ownership": [
+    {
+      "providerId": "polarisbanklimited",
+      "shareholderName": "Polaris Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1621880332/icons/polarisbanklimited.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "NG",
+  "countries": [
+    "NG"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/ng/app/vulte/id1541640258"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.vulte.app"
+    }
+  ],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "polarisbanklimited",
+      "name": "Polaris Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1621880332/icons/polarisbanklimited.png",
+      "websiteUrl": "https://www.polarisbanklimited.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": "polarisbanklimited",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
