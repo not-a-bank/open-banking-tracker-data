@@ -1,0 +1,70 @@
+{
+  "id": "grupocajarural",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "bankingGroup": true,
+  "numberOfBanks": 29,
+  "name": "Grupo Caja Rural",
+  "description": "The Rural Savings Bank Group is a union of 29 rural savings and other investees entities (Banco Cooperativo Español S.A, Rural Grupo Asegurador and Rural Servicios Informáticos) which together make up the only cooperative banking group in Spain.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621819630/radar/icons/grupocajarural.jpg",
+  "websiteUrl": "https://www.grupocajarural.es",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": [
+    "ES"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
