@@ -1,0 +1,93 @@
+{
+  "id": "bgl-lu",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "BGL BNP Paribas",
+  "description": "BGL BNP Paribas is a Luxembourg bank founded on 29 September 1919. Since May 2009, the bank has been a member of the BNP Paribas group. It is the fifth-largest bank in the Grand Duchy of Luxembourg and is the country's second-largest employer.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621818975/radar/icons/bgl-lu.jpg",
+  "websiteUrl": "https://www.bgl.lu/en/individuals.html",
+  "ownership": [
+    {
+      "providerId": "bnp-paribas",
+      "shareholderName": "BNP Paribas",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568494915/catalog/bnp-paribas/icon128x128.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "LU",
+  "countries": [
+    "LU"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/lu/app/web-banking/id781456280?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=lu.bgl.spm.retail&hl=fr"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "BGLBNPParibas",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BGL_BNP_Paribas",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "cisco-webex-meetings",
+      "name": "Cisco Webex Meetings",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566829390/catalog/cisco-webex-meetings/icon128x128.png",
+      "websiteUrl": "https://www.webex.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
