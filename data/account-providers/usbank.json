@@ -11,7 +11,7 @@
   "stockSymbol": "NYSE:USB",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1573398527/radar/icons/usbank.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1573360755/catalog/usbank/icon128x128.jpg",
   "websiteUrl": "https://www.usbank.com/",
   "ownership": [],
   "stateOwned": false,
@@ -72,6 +72,12 @@
       "name": "Blend",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1571958130/catalog/blend/icon128x128.jpg",
       "websiteUrl": "https://blend.com/"
+    },
+    {
+      "id": "plaid-exchange",
+      "name": "Plaid Exchange",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1621907419/icons/plaid-exchange.jpg",
+      "websiteUrl": "https://plaid.com/plaid-exchange/"
     }
   ],
   "thirdPartyBankingLicense": null,
