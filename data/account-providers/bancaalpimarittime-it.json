@@ -1,0 +1,77 @@
+{
+  "id": "bancaalpimarittime-it",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Banca Alpi Marittime",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1622166455/icons/bancaalpimarittime-it.jpg",
+  "websiteUrl": "https://www.bancaalpimarittime.it/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "ibanity"
+  ],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "BamCarru",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "ibm-hybrid-cloud",
+      "name": "IBM Hybrid Cloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1622166453/icons/ibm-hybrid-cloud.jpg",
+      "websiteUrl": "https://www.ibm.com/cloud/hybrid"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
