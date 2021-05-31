@@ -1,0 +1,70 @@
+{
+  "id": "hangseng",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Hang Seng Bank",
+  "description": "Hang Seng Bank Limited is a Hong Kong-based banking and financial services company with headquarters in Central, Hong Kong. It is one of Hong Kong's leading public companies in terms of market capitalisation and is part of the HSBC Group, which holds a majority equity interest in the bank.",
+  "legalName": "HANG SENG BANK LTD",
+  "ipoStatus": "public",
+  "stockSymbol": "11",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1622469071/radar/icons/hangseng.jpg",
+  "websiteUrl": "https://www.hangseng.com/",
+  "ownership": [
+    {
+      "providerId": "hsbc",
+      "shareholderName": "HSBC",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1569632007/catalog/hsbc/icon128x128.svg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "HK",
+  "countries": [
+    "HK"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hang_Seng_Bank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
