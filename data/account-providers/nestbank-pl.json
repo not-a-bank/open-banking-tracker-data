@@ -78,7 +78,9 @@
   "apiStandards": [
     "POLISHAPI"
   ],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "nordigen"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [

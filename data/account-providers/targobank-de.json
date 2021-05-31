@@ -43,7 +43,10 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": ["equensworldline"],
+  "apiAggregators": [
+    "nordigen",
+    "equensworldline"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
