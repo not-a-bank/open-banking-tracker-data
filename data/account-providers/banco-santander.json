@@ -91,7 +91,6 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "nordigen",
     "neonomics",
     "truelayer",
     "klarna",
@@ -99,7 +98,8 @@
     "token",
     "yolt",
     "openwrks",
-    "trio-br"
+    "trio-br",
+    "plaid"
   ],
   "collections": [
     "cma9"

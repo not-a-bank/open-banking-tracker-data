@@ -89,12 +89,12 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "nordigen",
     "bankingsdk",
     "klarna",
     "bridgeapi-io",
     "ibanity",
-    "equensworldline"
+    "equensworldline",
+    "plaid"
   ],
   "collections": [],
   "webApplication": true,
