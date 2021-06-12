@@ -1,25 +1,25 @@
 {
-  "id": "virgin-money-uk",
+  "id": "clydesdale-bank",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "Virgin Money UK",
-  "legalName": "Virgin Money plc",
+  "name": "Clydesdale Bank",
+  "description": "Clydesdale Bank is a trading name used by Clydesdale Bank plc for its retail banking operations in Scotland.",
+  "legalName": "Clydesdale Bank",
   "ipoStatus": "private",
-  "stockSymbol": "LON:CYBG",
+  "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296097/radar/icons/Virgin_Money.jpg",
-  "websiteUrl": "https://uk.virginmoney.com/virgin/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1623519089/icons/clydesdale-bank.jpg",
+  "websiteUrl": "https://secure.cbonline.co.uk/",
   "ownership": [
     {
-      "shareholderName": "CYBG",
-      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552491985/radar/icons/CYBG.jpg",
-      "providerId": "cybg",
-      "percentage": 100
+      "providerId": "virgin-money-uk",
+      "shareholderName": "Virgin Money UK",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1623519081/icons/virgin-money-uk.jpg"
     }
   ],
   "stateOwned": false,
@@ -33,12 +33,16 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": null,
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.virginmoney.com/"
+  },
+  "developerPortalUrl": "https://developer.virginmoney.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": null,
+  "apiReferenceUrl": "https://developer.virginmoney.com/",
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
@@ -102,37 +106,15 @@
   ],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [
-    "openwrks",
-    "moneyhub-enterprise"
-  ],
+  "apiAggregators": [],
   "collections": [],
-  "webApplication": true,
-  "mobileApps": [
-    {
-      "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/gb/app/virgin-money-credit-card/id1435763477"
-    },
-    {
-      "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.virginmoney.cards&hl=en_US"
-    }
-  ],
-  "investorRelationsUrl": "https://uk.virginmoney.com/virgin/investor-relations/results-and-presentations/",
-  "financialReports": [
-    {
-      "label": "Q4 2018",
-      "date": "null",
-      "url": "https://uk.virginmoney.com/virgin/investor-relations/results/virgin-money-group-annual-report-and-accounts-2018.pdf"
-    }
-  ],
-  "twitter": "VirginMoney",
-  "crunchbase": "virgin-money",
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "clydesdalebank",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Clydesdale_Bank",
   "bloomberg": null,
-  "github": null,
-  "fca": "001b000000NMUWZAA5",
   "alumni": [],
-  "articles": [],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
@@ -144,6 +126,10 @@
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
   "rewardPartners": [],
   "integrations": [],
