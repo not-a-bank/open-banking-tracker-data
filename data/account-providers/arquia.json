@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621719856/radar/icons/arquia.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621779701/icons/arquia.jpg",
   "websiteUrl": "https://www.arquia.com/",
   "ownership": [],
   "stateOwned": false,
@@ -39,7 +39,8 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "nordigen"
+    "nordigen",
+    "plaid"
   ],
   "collections": [],
   "webApplication": false,

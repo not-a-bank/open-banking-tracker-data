@@ -12,17 +12,18 @@
   "stockSymbol": "BME:BKIA",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568437222/radar/icons/bankia.jpg",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Bankia.jpg",
   "websiteUrl": "https://www.bankia.com/en/",
   "ownership": [
     {
       "shareholderName": "BFA",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552490319/radar/icons/BFA.png",
+      "sourceUrl": "https://www.bankia.com/en/shareholders-and-investors/the-share/shareholder-structure/",
       "providerId": "BFA",
       "percentage": 68.4
     }
   ],
-  "stateOwned": false,
+  "stateOwned": true,
   "countryHQ": "ES",
   "countries": [
     "ES"
@@ -35,7 +36,7 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia"
+    "sourceUrl": null
   },
   "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
   "developerCommunityUrl": null,
@@ -43,15 +44,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
-  "apiAggregators": [
-    "nordigen",
-    "bankingsdk",
-    "klarna",
-    "bridgeapi-io",
-    "ibanity",
-    "truelayer",
-    "equensworldline"
-  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account Information Service",
@@ -91,6 +86,18 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "nordigen",
+    "bankingsdk",
+    "klarna",
+    "bridgeapi-io",
+    "ibanity",
+    "truelayer",
+    "equensworldline",
+    "plaid"
+  ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -115,8 +122,29 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000NMbTbAAL",
+  "alumni": [],
   "articles": [],
   "stack": [
-    "redsys-es"
-  ]
+    {
+      "id": "redsys-es",
+      "name": "Redsys",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1607659998/icons/redsys-es.jpg",
+      "websiteUrl": "http://www.redsys.es/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }

@@ -91,12 +91,13 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "nordigen",
     "bankingsdk",
     "salt-edge",
     "bridgeapi-io",
     "ibanity",
-    "equensworldline"
+    "equensworldline",
+    "nordigen",
+    "plaid"
   ],
   "collections": [],
   "webApplication": true,

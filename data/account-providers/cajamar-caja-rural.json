@@ -1,22 +1,20 @@
 {
-  "id": "grupocajarural",
+  "id": "cajamar-caja-rural",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "bankingGroup": true,
-  "numberOfBanks": 29,
-  "name": "Grupo Caja Rural",
-  "description": "The Rural Savings Bank Group is a union of 29 rural savings and other investees entities (Banco Cooperativo Español S.A, Rural Grupo Asegurador and Rural Servicios Informáticos) which together make up the only cooperative banking group in Spain.",
+  "name": "Cajamar Caja Rural",
+  "description": "Gestiona fácilmente tus cuentas, tarjetas, hipotecas... con nuestra Banca online. ¿Conoces nuestro Club Seguros? Tenemos el mejor para ti y tu familia.",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621864559/icons/grupocajarural.jpg",
-  "websiteUrl": "https://www.grupocajarural.es",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1623527909/radar/icons/cajamar-caja-rural.jpg",
+  "websiteUrl": "https://www.cajamar.es/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "ES",
@@ -41,8 +39,7 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
-    "nordigen"
+    "plaid"
   ],
   "collections": [],
   "webApplication": false,

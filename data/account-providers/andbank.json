@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594857379/radar/icons/andbank.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594863288/icons/andbank.jpg",
   "websiteUrl": "https://www.andbank.com/",
   "ownership": [],
   "stateOwned": false,
@@ -37,6 +37,7 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [
     {
@@ -80,7 +81,9 @@
     "BERLIN"
   ],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],
@@ -99,6 +102,7 @@
   ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
