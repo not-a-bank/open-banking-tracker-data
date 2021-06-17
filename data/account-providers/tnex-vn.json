@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597482020/radar/icons/tnex-vn.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1597482058/icons/tnex-vn.jpg",
   "websiteUrl": "https://tnex.com.vn/",
   "ownership": [
     {
@@ -50,7 +50,14 @@
   "keySegments": [
     "gen-z"
   ],
-  "stack": [],
+  "stack": [
+    {
+      "id": "mambu",
+      "name": "Mambu",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573437321/catalog/mambu/icon128x128.jpg",
+      "websiteUrl": "https://www.mambu.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
