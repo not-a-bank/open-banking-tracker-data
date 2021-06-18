@@ -1,0 +1,101 @@
+{
+  "id": "betterbanking-app",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Better",
+  "description": "Banking that helps you fight unexpected medical debt. A Better Mastercard® Debit Card with no monthly fees, 32,000 ATMs and the Worlds 1st Community Safety Net™",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1623986532/radar/icons/betterbanking-app.png",
+  "websiteUrl": "https://betterbanking.app/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "medical-debt"
+  ],
+  "stack": [
+    {
+      "id": "galileo-ft",
+      "name": "Galileo Financial Technologies",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1581341281/catalog/galileo-ft/icon128x128.png",
+      "websiteUrl": "https://www.galileo-ft.com/"
+    },
+    {
+      "id": "blueridgebank",
+      "name": "Blue Ridge Bank and Trust Co.",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598673639/icons/blueridgebank.jpg",
+      "websiteUrl": "https://www.blueridgebank.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": "blueridgebank",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "blueridgebank",
+      "name": "Blue Ridge Bank and Trust Co.",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598673639/icons/blueridgebank.jpg",
+      "websiteUrl": "https://www.blueridgebank.com/"
+    }
+  ],
+  "rewardPartners": [
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589569998/catalog/walmart/icon128x128.jpg",
+      "websiteUrl": "https://www.walmart.com/"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
