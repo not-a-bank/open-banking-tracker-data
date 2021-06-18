@@ -1,0 +1,96 @@
+{
+  "id": "withpurple",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Purple",
+  "description": "Open a Purple bank account to receive your Social Security Income (SSI) and Social Security Disability Insurance (SSDI) payments up to two days early. No hidden fees. No minimums. Mobile banking for people with disabilities.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1623986293/radar/icons/withpurple.png",
+  "websiteUrl": "https://www.withpurple.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "@bankwithpurple",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "disabled-person"
+  ],
+  "stack": [
+    {
+      "id": "galileo-ft",
+      "name": "Galileo Financial Technologies",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1581341281/catalog/galileo-ft/icon128x128.png",
+      "websiteUrl": "https://www.galileo-ft.com/"
+    },
+    {
+      "id": "thebancorp",
+      "name": "The Bancorp",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1589508667/catalog/thebancorp/icon128x128.jpg",
+      "websiteUrl": "https://www.thebancorp.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "google-pay",
+      "name": "Google Pay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593103732/icons/google-pay.png",
+      "websiteUrl": "https://pay.google.com/about/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
