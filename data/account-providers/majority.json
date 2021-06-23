@@ -1,0 +1,90 @@
+{
+  "id": "majority",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "MAJORITY",
+  "description": "MAJORITY is the first digital financial service dedicated to serving migrants worldwide.",
+  "legalName": "Majority USA LLC",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1624406312/radar/icons/majority.jpg",
+  "websiteUrl": "https://www.majority.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "thisismajority",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "migrant"
+  ],
+  "stack": [
+    {
+      "id": "suttonbank",
+      "name": "Sutton Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1616014218/icons/suttonbank.png",
+      "websiteUrl": "https://www.suttonbank.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": "suttonbank",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "suttonbank",
+      "name": "Sutton Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1616014218/icons/suttonbank.png",
+      "websiteUrl": "https://www.suttonbank.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.majority.com/en/community"
+}
