@@ -1,0 +1,164 @@
+{
+  "id": "brex",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Brex",
+  "description": "Credit card with no personal guarantee, instant approvals, higher limits, and modern payment terms. Powered by the Mastercard network with best-in-class fraud protection.",
+  "legalName": "Brex Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1619719406/icons/brex.jpg",
+  "websiteUrl": "https://brex.com",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.brex.com"
+  },
+  "developerPortalUrl": "https://developer.brex.com",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.brex.com/openapi/accounting_api/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/brex/id1472905508"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.brex.mobile&hl=en"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "@brexhq",
+  "bloomberg": null,
+  "github": "https://github.com/brexhq",
+  "alumni": [],
+  "stack": [
+    {
+      "id": "emigrant-bank",
+      "name": "Emigrant Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1624478041/icons/emigrant-bank.png",
+      "websiteUrl": "https://www.emigrant.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": "emigrant-bank",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [
+    "mastercard"
+  ],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "finicity",
+      "name": "Finicity",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573360773/catalog/finicity/icon128x128.jpg",
+      "websiteUrl": "https://www.finicity.com/"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "emigrant-bank",
+      "name": "Emigrant Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1624478041/icons/emigrant-bank.png",
+      "websiteUrl": "https://www.emigrant.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "netsuite",
+      "name": "NetSuite",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531056077/catalog/netsuite/icon128x128.png",
+      "websiteUrl": "https://netsuite.com"
+    },
+    {
+      "id": "expensify",
+      "name": "Expensify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055887/catalog/expensify/icon128x128.png",
+      "websiteUrl": "https://www.expensify.com/"
+    },
+    {
+      "id": "rippling",
+      "name": "Rippling",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554423006/catalog/rippling/icon128x128.jpg",
+      "websiteUrl": "https://www.rippling.com/"
+    },
+    {
+      "id": "gusto",
+      "name": "Gusto",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554403247/catalog/gusto/icon128x128.jpg",
+      "websiteUrl": "https://gusto.com/"
+    },
+    {
+      "id": "sap-concur",
+      "name": "SAP Concur",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547840561/catalog/sap-concur/icon128x128.jpg",
+      "websiteUrl": "https://www.concur.com/"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.brex.com/solution/erp-accounting-integrations"
+}
