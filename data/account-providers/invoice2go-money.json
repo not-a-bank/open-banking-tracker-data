@@ -1,0 +1,101 @@
+{
+  "id": "invoice2go-money",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Invoice2go Money",
+  "description": "No-fee small business bank account with fast bank transfer payments and a debit card to help you manage your finances.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "beta",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1625086384/radar/icons/invoice2go-money.jpg",
+  "websiteUrl": "https://invoice.2go.com/small-business-banking/",
+  "ownership": [
+    {
+      "providerId": "invoice-2go",
+      "shareholderName": "Invoice2Go",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1625016081/icons/invoice-2go.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/id540236748"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.invoice2go.invoice2goplus"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "@Invoice2go",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "blueridgebank",
+      "name": "Blue Ridge Bank and Trust Co.",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598673639/icons/blueridgebank.jpg",
+      "websiteUrl": "https://www.blueridgebank.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": "blueridgebank",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "blueridgebank",
+      "name": "Blue Ridge Bank and Trust Co.",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598673639/icons/blueridgebank.jpg",
+      "websiteUrl": "https://www.blueridgebank.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
