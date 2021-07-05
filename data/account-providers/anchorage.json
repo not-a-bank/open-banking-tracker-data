@@ -1,0 +1,89 @@
+{
+  "id": "anchorage",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "crypto"
+  ],
+  "name": "Anchorage",
+  "description": "Anchorage is the first federally-chartered digital asset bank in history. It's the most advanced and secure crypto platform that gives institutions easy and efficient access to crypto custody, trading, financing, staking, and governance services.",
+  "legalName": "Anchorage Hold LLC",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1625450259/icons/anchorage.png",
+  "websiteUrl": "https://www.anchorage.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Anchorage",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "augur",
+      "name": "Augur",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554719054/catalog/augur/icon128x128.jpg",
+      "websiteUrl": "https://augur.io"
+    },
+    {
+      "id": "bitcoin-org",
+      "name": "Bitcoin",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583231620/catalog/bitcoin-org/icon128x128.jpg",
+      "websiteUrl": "https://bitcoin.org/"
+    },
+    {
+      "id": "chainlink",
+      "name": "Chainlink",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554719393/catalog/chainlink/icon128x128.png",
+      "websiteUrl": "https://chainlinkmarketing.com"
+    },
+    {
+      "id": "ethereum-org",
+      "name": "Ethereum",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591545171/icons/ethereum-org.jpg",
+      "websiteUrl": "https://ethereum.org/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
