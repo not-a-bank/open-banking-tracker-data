@@ -1,0 +1,111 @@
+{
+  "id": "bankprov",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "BankProv",
+  "description": "The Provident Bank has rebranded to BankProv. As the 10th oldest bank in the country, BankProv has been serving its local communities for nearly 200 years.",
+  "legalName": "The Provident Bank",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1625450255/icons/bankprov.jpg",
+  "websiteUrl": "https://bankprov.com/",
+  "ownership": [
+    {
+      "providerId": "provident-bank",
+      "shareholderName": "Provident Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1625450227/icons/provident-bank.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.bankprov.com/"
+  },
+  "developerPortalUrl": "https://developer.bankprov.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.bankprov.com/api-details#api=bankprov-api-definition",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/the-provident-bank-mobile/id574017667"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.theprovidentbank.mobile"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "BankProv",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "azure-api-management",
+      "name": "Azure API Management",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1603882293/icons/azure-api-management.jpg",
+      "websiteUrl": "https://azure.microsoft.com/en-us/services/api-management/"
+    },
+    {
+      "id": "anchorage",
+      "name": "Anchorage",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1625450259/icons/anchorage.png",
+      "websiteUrl": "https://www.anchorage.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "bitcoin-org",
+      "name": "Bitcoin",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1583231620/catalog/bitcoin-org/icon128x128.jpg",
+      "websiteUrl": "https://bitcoin.org/"
+    },
+    {
+      "id": "ethereum-org",
+      "name": "Ethereum",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591545171/icons/ethereum-org.jpg",
+      "websiteUrl": "https://ethereum.org/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}
