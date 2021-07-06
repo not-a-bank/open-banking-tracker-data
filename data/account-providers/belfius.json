@@ -1,11 +1,18 @@
 {
   "id": "belfius",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "Belfius",
   "legalName": "BELFIUS BANK SA/NV",
   "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/Belfius.jpg",
   "websiteUrl": "https://www.belfius.be/about-us/en/who-we-are",
   "ownership": [
@@ -13,12 +20,14 @@
       "shareholderName": "Belgian State",
       "shareholderIconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Government_Ensign_of_Belgium.svg/797px-Government_Ensign_of_Belgium.svg.png",
       "providerId": null,
-      "percentage": 100.0
+      "percentage": 100
     }
   ],
   "stateOwned": true,
   "countryHQ": "BE",
-  "countries": ["BE"],
+  "countries": [
+    "BE"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -30,11 +39,20 @@
     "sourceUrl": null
   },
   "developerPortalUrl": "https://developer.belfius.be/devportal/en/getstarted/index.aspx",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
-     {
+    {
       "label": "Account Information Services (AIS)",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Use our Account Information Services (AIS) API to access account balances and transaction histories through third-party applications.",
       "documentationUrl": "https://developer.belfius.be/devportal/en/apis/accounts/index.aspx",
       "apiReferenceUrl": null,
@@ -44,7 +62,9 @@
     {
       "label": "Payment Initiation Service (PIS)",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Use our Payment Initiation Service API to initiate payments via third-party applications.",
       "documentationUrl": "https://developer.belfius.be/devportal/en/apis/payments/index.aspx",
       "apiReferenceUrl": null,
@@ -54,7 +74,9 @@
     {
       "label": "Consent API",
       "type": "auth",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "description": "Use our Consent API in order to receive the required authorization code, a mandatory input in all our AIS APIs.",
       "documentationUrl": "https://developer.belfius.be/devportal/en/apis/consent/index.aspx",
       "apiReferenceUrl": null,
@@ -63,6 +85,7 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "bankingsdk",
     "budget-insight",
@@ -71,6 +94,7 @@
     "banqup",
     "equensworldline"
   ],
+  "collections": [],
   "webApplication": true,
   "mobileApps": [
     {
@@ -82,7 +106,6 @@
       "storeUrl": "https://play.google.com/store/apps/details?id=be.belfius.directmobile.android&hl=en"
     }
   ],
-  "stockSymbol": null,
   "investorRelationsUrl": "https://www.belfius.be/about-us/en/investors/reports-presentations",
   "financialReports": [
     {
@@ -93,7 +116,32 @@
   ],
   "twitter": "Belfius",
   "crunchbase": "belfius-bank",
+  "bloomberg": null,
   "github": null,
   "fca": "001b000000MfLc5AAF",
-  "articles": []
+  "alumni": [],
+  "articles": [],
+  "stack": [
+    {
+      "id": "efficy",
+      "name": "Efficy",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1545178313/catalog/efficy/icon128x128.png",
+      "websiteUrl": "https://efficy.com"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
 }
