@@ -1,0 +1,120 @@
+{
+  "id": "faizPay",
+  "type": [
+    "third-party"
+  ],
+  "name": "FaizPay",
+  "legalName": "FaizPay Ltd",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://www.faizpay.com/wp-content/uploads/2020/12/SVG_03.svg",
+  "websiteUrl": "https://www.faizpay.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"    
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available"
+  },
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://documentation.faizpay.com/#support",
+  "apiProducts": [
+    {
+      "label": "Data API",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Securely retrieve real-time Account Information from major UK Banks",
+      "documentationUrl": "https://documentation.faizpay.com/#support",
+      "apiReferenceUrl": "https://documentation.faizpay.com/#support",
+      "premium": true,
+      "stage": "live",
+      "customerTypes" : [ "retail", "business", "corporate"]
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "Integrate secure Payment Initiation in your application from major UK Banks",
+      "categories": ["payments"],
+      "documentationUrl": "https://documentation.faizpay.com/#support",
+      "apiReferenceUrl": "https://documentation.faizpay.com/#support",
+      "premium": true,
+      "stage": "live",
+      "customerTypes" : [ "retail", "business", "corporate"]
+    }
+  ],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/gb/app/faizpay-merchant/id1508916893"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.faizpay.merchant&hl=en_GB&gl=US"
+    }
+  ],
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "https://twitter.com/faizpay_com?lang=en",
+  "crunchbase": "faizpay",
+  "bloomberg": null,
+  "github": null,
+  "fca": "934835",
+  "articles": null,
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "customers": {
+  },
+  "fundingTotal": {
+    "amount": null,
+    "currency": "USD"
+  },
+  "foundedYear": 2019,
+  "strategies": [
+    "cardCoagulator"
+  ],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "fscsProtected": false,
+  "products": {
+    "currentAccounts": {
+      "personalAccount": false,
+      "jointAccount": false,
+      "euroAccount": false,
+      "teenAccount": false,
+      "freeFeeTravel": false
+    },
+    "businessCurrentAccount": false,
+    "loans": {
+      "personalOverdraft": false,
+      "personalLoans": false,
+      "bussinesOverdraft": false
+    },
+    "pfm": true,
+    "internationalMoneyTransfers": true
+  },
+  "partnerships": [],
+  "integrations": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "awards": [],
+  "marketplaceUrl":null
+}
