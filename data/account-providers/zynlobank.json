@@ -1,0 +1,98 @@
+{
+  "id": "zynlobank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "ZYNLO Bank",
+  "description": "ZYNLO Bank is a new kind of banking. This is mobile, high-interest banking with a spare change savings account. Think outside the bank.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1628455948/icons/zynlobank.jpg",
+  "websiteUrl": "https://zynlobank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/zynlo/id1490723885?ls=1"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nymbus.zynlouatolb"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "ZYNLOBank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "peoplesbank",
+      "name": "PeoplesBank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1628455962/icons/peoplesbank.jpg",
+      "websiteUrl": "https://www.bankatpeoples.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": "peoplesbank",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "peoplesbank",
+      "name": "PeoplesBank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1628455962/icons/peoplesbank.jpg",
+      "websiteUrl": "https://www.bankatpeoples.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "awards": []
+}
