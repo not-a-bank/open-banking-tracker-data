@@ -1,0 +1,91 @@
+{
+  "id": "bankmd",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "BankMD",
+  "description": "The Physician-Focused Bank.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1629674010/icons/bankmd.jpg",
+  "websiteUrl": "https://bankmd.com/",
+  "ownership": [
+    {
+      "providerId": "transpecosbanks",
+      "shareholderName": "TransPecos Banks",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1629674648/icons/transpecosbanks.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/bankmd-mobile/id1460364773"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nymbus.bankmd&hl=en_us&gl=us"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "realBankMD",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "physician"
+  ],
+  "stack": [
+    {
+      "id": "nymbus",
+      "name": "Nymbus",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1621699308/icons/nymbus.jpg",
+      "websiteUrl": "https://www.nymbus.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [
+    "android"
+  ],
+  "awards": []
+}
