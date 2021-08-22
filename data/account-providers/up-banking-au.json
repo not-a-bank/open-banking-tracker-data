@@ -13,9 +13,15 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1570083340/radar/icons/up-banking-au.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1570098624/catalog/up-banking-au/icon128x128.jpg",
   "websiteUrl": "https://up.com.au",
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "bendigoadelaide-au",
+      "shareholderName": "Bendigo Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1629634499/icons/bendigoadelaide-au.jpg"
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "AU",
   "countries": [
@@ -89,7 +95,7 @@
   "integrations": [
     {
       "id": "transferwise",
-      "name": "TransferWise",
+      "name": "Wise",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1575573379/catalog/transferwise/icon128x128.jpg",
       "websiteUrl": "https://transferwise.com/"
     }
