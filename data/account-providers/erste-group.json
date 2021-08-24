@@ -62,7 +62,7 @@
       ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
-      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Faccount-information",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Faccounts",
       "premium": false,
       "stage": "sandbox"
     },
@@ -74,7 +74,7 @@
       ],
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
-      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Fpayment-initiation",
+      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Fpayments",
       "premium": false,
       "stage": "sandbox"
     },
@@ -111,30 +111,6 @@
       "description": null,
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fplaces",
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Personal Products API",
-      "type": "productFinder",
-      "categories": [
-        "products"
-      ],
-      "description": null,
-      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
-      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fnetbanking",
-      "premium": false,
-      "stage": "sandbox"
-    },
-    {
-      "label": "Personal accounts API",
-      "type": "accountInformation",
-      "categories": [
-        "accounts"
-      ],
-      "description": null,
-      "documentationUrl": "https://developers.erstegroup.com/docs/apis",
-      "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Faccounts",
       "premium": false,
       "stage": "sandbox"
     },

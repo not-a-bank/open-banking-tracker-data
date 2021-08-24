@@ -18,7 +18,7 @@
     "Erste Bank der oesterreichischen Sparkassen AG"
   ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607187356/radar/icons/erste-bank-and-sparkassen.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607364587/icons/erste-bank-and-sparkassen.jpg",
   "websiteUrl": "https://www.sparkasse.at/",
   "ownership": [
     {
@@ -109,7 +109,9 @@
       "apiSpecs": []
     }
   ],
-  "apiStandards": ["BERLIN1.3"],
+  "apiStandards": [
+    "BERLIN1.3"
+  ],
   "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],

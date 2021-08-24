@@ -1,24 +1,20 @@
 {
-  "id": "banca-comerciala-romana-bcr",
+  "id": "ceska-sporitelna",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "BCR (Banca Comercială Română)",
-  "description": "Banca Comercială Română, a member of Erste Group, is the most important financial group in Romania, including operations of universal bank, as well as specialized companies on the leasing market, assets management, private pensions, housing banks and banking services through mobile phone.",
+  "name": "Česká spořitelna",
+  "description": "Česká spořitelna is the biggest Czech bank measured by the number of clients with headquarters in Prague. It is a part of the Erste Group, Austria.",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
-  "aliases": [
-    "Banca Comercială Română",
-    "BCR"
-  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592261156/icons/bcr-ro.png",
-  "websiteUrl": "https://www.bcr.ro/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1629773852/radar/icons/ceska-sporitelna.png",
+  "websiteUrl": "https://www.csas.cz/en/personal-finance",
   "ownership": [
     {
       "providerId": "erste-group",
@@ -27,14 +23,14 @@
     }
   ],
   "stateOwned": false,
-  "countryHQ": "RO",
+  "countryHQ": "CZ",
   "countries": [
-    "RO"
+    "CZ"
   ],
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "unknown"
+      "status": "inProgress"
     }
   ],
   "sandbox": {
@@ -60,7 +56,7 @@
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Faccounts",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     },
     {
       "label": "PSD2 payments API",
@@ -72,7 +68,7 @@
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v1%2Fpayments",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     },
     {
       "label": "Transparent Accounts API",
@@ -84,7 +80,7 @@
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2FtransparentAccounts",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     },
     {
       "label": "Places API",
@@ -96,7 +92,7 @@
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fplaces",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     },
     {
       "label": "Places API",
@@ -108,7 +104,7 @@
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v3%2Fplaces",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     },
     {
       "label": "Mortgage calculator API",
@@ -120,7 +116,7 @@
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Fhypocalc",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     },
     {
       "label": "Know your customer API",
@@ -132,7 +128,7 @@
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Fkyc",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     },
     {
       "label": "Exchange rates API",
@@ -144,7 +140,7 @@
       "documentationUrl": "https://developers.erstegroup.com/docs/apis",
       "apiReferenceUrl": "https://developers.erstegroup.com/docs/apis/bank.csas/bank.csas.v2%2Frates",
       "premium": false,
-      "stage": "live"
+      "stage": "sandbox"
     }
   ],
   "apiStandards": [],
@@ -152,14 +148,10 @@
   "apiAggregators": [],
   "collections": [],
   "webApplication": false,
-  "mobileApps": [
-    {
-      "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=ro.bcr.georgego"
-    }
-  ],
+  "mobileApps": [],
   "financialReports": [],
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Banca_Comercial%C4%83_Rom%C3%A2n%C4%83",
+  "twitter": "Ceskasporitelna",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A1_spo%C5%99itelna",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
