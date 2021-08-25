@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1629773852/radar/icons/ceska-sporitelna.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1629774626/icons/ceska-sporitelna.png",
   "websiteUrl": "https://www.csas.cz/en/personal-finance",
   "ownership": [
     {
@@ -154,7 +154,14 @@
   "wikipediaUrl": "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A1_spo%C5%99itelna",
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "tatum-io",
+      "name": "Tatum",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1629770112/icons/tatum-io.png",
+      "websiteUrl": "https://tatum.io/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
