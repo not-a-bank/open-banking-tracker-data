@@ -22,11 +22,42 @@
   "countries": ["TR"],
   "compliance": [],
   "sandbox": {
-    "status": "unavailable",
+    "status": "available",
     "sourceUrl": null
   },
   "developerPortalUrl": "https://developers.ziraatbank.com.tr/",
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Exchange Rates",
+      "type": "other",
+      "categories": ["fx"],
+      "description": "Exchange Rates API is used to list exchange rates info.",
+      "documentationUrl": "https://developers.ziraatbank.com.tr/documentation/exchange-rates",
+      "apiReferenceUrl": "https://developers.ziraatbank.com.tr/documentation/exchange-rates",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Atm List",
+      "type": "atmLocator",
+      "categories": ["locators"],
+      "description": "Atms API is used to list atm info.",
+      "documentationUrl": "https://developers.ziraatbank.com.tr/documentation/atms",
+      "apiReferenceUrl": "https://developers.ziraatbank.com.tr/documentation/atms",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Branch List",
+      "type": "branchLocator",
+      "categories": ["locators"],
+      "description": "Branches API is used to list branch info.",
+      "documentationUrl": "https://developers.ziraatbank.com.tr/documentation/branches",
+      "apiReferenceUrl": "https://developers.ziraatbank.com.tr/documentation/branches",
+      "premium": false,
+      "stage": "live"
+    }
+   ],
   "apiStandards": [],
   "webApplication": true,
   "mobileApps": [
