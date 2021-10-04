@@ -32,7 +32,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "pluggy"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [
