@@ -27,7 +27,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.bankofamerica.com",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "truelayer"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",

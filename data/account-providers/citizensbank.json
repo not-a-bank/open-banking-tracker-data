@@ -29,7 +29,9 @@
   "apiAuth": [],
   "apiProducts": [],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "truelayer"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],

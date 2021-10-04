@@ -109,7 +109,10 @@
     "STET"
   ],
   "apiStatusUrls": [],
-  "apiAggregators": ["equensworldline"],
+  "apiAggregators": [
+    "equensworldline",
+    "truelayer"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
