@@ -46,7 +46,20 @@
   "twitter": "vastbank",
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1572574657/catalog/coinbase/icon128x128.png",
+      "websiteUrl": "https://www.coinbase.com/"
+    },
+    {
+      "id": "sap-s4hana-cloud",
+      "name": "SAP S/4HANA Cloud",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1630649584/icons/sap-s4hana-cloud.jpg",
+      "websiteUrl": "https://www.sap.com/products/s4hana-erp.html"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
