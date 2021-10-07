@@ -1,39 +1,43 @@
 {
-  "id": "commbank",
+  "id": "banx-be",
   "type": [
     "account"
   ],
   "bankType": [
-    "universal"
+    "challenger"
   ],
-  "name": "CommBank",
-  "description": "CommBank offers personal banking, business solutions, institutional banking, company information, and more",
-  "legalName": "Commonwealth Bank of Australia",
-  "ipoStatus": "public",
-  "stockSymbol": "ASX: CBA",
+  "name": "Banx",
+  "description": "The next-generation, fully digital and fully Belgian banking experience imagined by Proximus powered by Belfius",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
   "verified": false,
-  "aliases": [
-    "Commonwealth Bank",
-    "The Commonwealth Bank of Australia",
-    "CBA"
-  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1569813052/catalog/commbank/icon128x128.jpg",
-  "websiteUrl": "https://commbank.com.au",
-  "ownership": [],
-  "stateOwned": false,
-  "countryHQ": "AU",
-  "countries": [
-    "AU"
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1633597752/radar/icons/banx-be.png",
+  "websiteUrl": "https://www.banx.be/",
+  "ownership": [
+    {
+      "providerId": "proximus-be",
+      "shareholderName": "Proximus",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1593705305/icons/proximus-be.png"
+    }
   ],
-  "compliance": [],
-  "sandbox": {},
-  "developerPortalUrl": "https://www.commbank.com.au/Developer/",
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": [
+    "BE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://www.commbank.com.au/Developer/",
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
@@ -45,15 +49,14 @@
   "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
-  "twitter": "CommBank",
   "bloomberg": null,
   "alumni": [],
   "stack": [
     {
-      "id": "cogo-co",
-      "name": "CoGo",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1633578163/icons/cogo-co.jpg",
-      "websiteUrl": "https://cogo.co/"
+      "id": "belfius-be",
+      "name": "Belfius",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1563414796/catalog/belfius-be/icon128x128.jpg",
+      "websiteUrl": "https://belfius.be"
     }
   ],
   "thirdPartyBankingLicense": null,

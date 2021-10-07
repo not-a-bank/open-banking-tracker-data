@@ -44,6 +44,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://www.bankofapis.com/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Account and Transaction API",
@@ -83,6 +86,7 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
     "token",
     "yolt",
@@ -121,17 +125,34 @@
   "twitter": "https://twitter.com/NatWest_Help",
   "crunchbase": "natwest-bank1",
   "bloomberg": null,
+  "github": null,
   "fca": "001b000000MfFIWAA3",
+  "alumni": [],
   "articles": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "cogo-co",
+      "name": "CoGo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1633578163/icons/cogo-co.jpg",
+      "websiteUrl": "https://cogo.co/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []
