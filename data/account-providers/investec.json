@@ -1,0 +1,176 @@
+{
+  "id": "investec",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Investec",
+  "description": "Investec is an Anglo-South African international banking and wealth management group. It provides a range of financial products and services to a client base in Europe, Southern Africa, and Asia-Pacific. Investec is dual-listed on the London Stock Exchange and the Johannesburg Stock Exchange.",
+  "legalName": "Investec Europe Ltd",
+  "ipoStatus": "public",
+  "stockSymbol": "INVP",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1633417511/icons/investec.jpg",
+  "websiteUrl": "https://www.investec.com/en_gb.html",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.investec.com/"
+  },
+  "developerPortalUrl": "https://developer.investec.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developer.investec.com/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.investec.com/documentation/account-and-transaction",
+      "apiReferenceUrl": "https://developer.investec.com/documentation/account-and-transaction",
+      "regulation": "OBUK",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.investec.com/sites/default/files/2019-09/SPC_accounts-swagger-aisp_3.1_13-09-19_1.json"
+        }
+      ]
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.investec.com/documentation/payment--initiation/description",
+      "apiReferenceUrl": "https://developer.investec.com/documentation/payment-initiation",
+      "regulation": "OBUK",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.investec.com/sites/default/files/2019-06/payments-swagger-pisp_0.json"
+        }
+      ]
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.investec.com/documentation/confirmation-of-funds/description",
+      "apiReferenceUrl": "https://developer.investec.com/documentation/confirmation-of-funds",
+      "regulation": "OBUK",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.investec.com/sites/default/files/2019-06/confirmation-of-funds-swagger.json"
+        }
+      ]
+    },
+    {
+      "label": "Auth",
+      "type": "auth",
+      "categories": [
+        "auth"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.investec.com/documentation/identity/description",
+      "apiReferenceUrl": "https://developer.investec.com/documentation/identity",
+      "regulation": "OBUK",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.investec.com/sites/default/files/2020-08/openbanking_identity.json"
+        }
+      ]
+    },
+    {
+      "label": "Client Registration",
+      "type": "clientRegistration",
+      "categories": [
+        "developer"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.investec.com/documentation/dynamic-client-registration/description",
+      "apiReferenceUrl": "https://developer.investec.com/documentation/dynamic-client-registration",
+      "regulation": "OBUK",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.investec.com/sites/default/files/2020-11/open-banking-dcr-swagger_0.yaml"
+        }
+      ]
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "Investec",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Investec",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
