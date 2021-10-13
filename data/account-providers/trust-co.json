@@ -1,0 +1,98 @@
+{
+  "id": "trust-co",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Trust",
+  "description": "The corporate card, made social. Trust is the only corporate card that helps startups grow smarter, together.",
+  "legalName": "Trust Software Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1634079286/icons/trust-co.jpg",
+  "websiteUrl": "https://www.trust.co/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "trustdotco",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/"
+    },
+    {
+      "id": "celticbank",
+      "name": "Celtic Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1590335089/catalog/celticbank/icon128x128.jpg",
+      "websiteUrl": "https://www.celticbank.com/"
+    },
+    {
+      "id": "evolve-bank-and-trust",
+      "name": "Evolve Bank and Trust",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593623623/icons/evolve-bank-and-trust.jpg",
+      "websiteUrl": "https://getevolved.com"
+    }
+  ],
+  "thirdPartyBankingLicense": "evolve-bank-and-trust",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "evolve-bank-and-trust",
+      "name": "Evolve Bank and Trust",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593623623/icons/evolve-bank-and-trust.jpg",
+      "websiteUrl": "https://getevolved.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
