@@ -1,25 +1,25 @@
 {
-  "id": "coastalbank",
+  "id": "pashabank-az",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "Coastal Community Bank",
-  "description": "Our community bankers are seasoned, local professionals who know the landscape, the players, and what it takes to do business in North Puget Sound. We don't just provide banking services — we are trusted advisors, providing information and knowledge to help you succeed.",
-  "legalName": null,
+  "name": "PASHA Bank",
+  "description": "PASHA Bank is a Baku-based financial institution operating in Azerbaijan, Georgia and Turkey – providing full range of corporate and investment banking services to large and medium-sized enterprises.",
+  "legalName": "PASHA Bank OJSC",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1584648266/catalog/coastalbank/icon128x128.png",
-  "websiteUrl": "https://www.coastalbank.com/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1635821541/icons/pashabank-az.jpg",
+  "websiteUrl": "https://www.pashabank.az",
   "ownership": [],
   "stateOwned": false,
-  "countryHQ": "US",
+  "countryHQ": "AZ",
   "countries": [
-    "US"
+    "AZ"
   ],
   "compliance": [],
   "developerPortalUrl": null,
@@ -36,27 +36,12 @@
   "apiAggregators": [],
   "collections": [],
   "webApplication": false,
-  "mobileApps": [
-    {
-      "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/us/app/coastal-community-bank-mobile/id871224362?mt=8"
-    },
-    {
-      "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=com.mfoundry.mb.android.mb_125108405"
-    }
-  ],
+  "mobileApps": [],
   "financialReports": [],
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/PASHA_Bank_Georgia",
   "bloomberg": null,
   "alumni": [],
-  "stack": [
-    {
-      "id": "synctera",
-      "name": "Synctera",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1607838418/icons/synctera.jpg",
-      "websiteUrl": "https://www.synctera.com/"
-    }
-  ],
+  "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
