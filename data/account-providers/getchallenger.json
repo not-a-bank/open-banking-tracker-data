@@ -1,0 +1,100 @@
+{
+  "id": "getchallenger",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Challenger Finance",
+  "description": "Challenger powers financial products for a America’s workforce.",
+  "legalName": "Challenger Finance Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1635900784/icons/getchallenger.png",
+  "websiteUrl": "https://www.getchallenger.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "",
+  "countries": [
+    null
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "IncChallenger",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "employee"
+  ],
+  "stack": [
+    {
+      "id": "treasuryprime",
+      "name": "Treasury Prime",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1588809149/catalog/treasuryprime/icon128x128.jpg",
+      "websiteUrl": "https://treasuryprime.com/"
+    },
+    {
+      "id": "lendingclub-bank",
+      "name": "LendingClub Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1635900782/icons/lendingclub-bank.jpg",
+      "websiteUrl": "https://bank.lendingclub.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": "lendingclub-bank",
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "mastercard"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
+      "websiteUrl": "https://mastercard.com"
+    },
+    {
+      "id": "lendingclub-bank",
+      "name": "LendingClub Bank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1635900782/icons/lendingclub-bank.jpg",
+      "websiteUrl": "https://bank.lendingclub.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
