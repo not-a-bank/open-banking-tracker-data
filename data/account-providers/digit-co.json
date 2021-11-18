@@ -1,0 +1,85 @@
+{
+  "id": "digit-co",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Digit",
+  "description": "Digit gives me peace of mind. Otherwise I'd have to remember to visit my bank account and transfer money to savings.",
+  "legalName": "Hello Digit Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1637251128/icons/digit-co.png",
+  "websiteUrl": "https://digit.co/",
+  "ownership": [
+    {
+      "providerId": "oportun",
+      "shareholderName": "Oportun",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1637251115/icons/oportun.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "hellodigit",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "ios",
+      "name": "IOS",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1561568396/catalog/ios/icon128x128.png",
+      "websiteUrl": "https://developer.apple.com/ios/"
+    },
+    {
+      "id": "android",
+      "name": "Android",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055773/catalog/android/icon128x128.png"
+    }
+  ],
+  "platforms": [
+    "ios",
+    "android"
+  ],
+  "awards": []
+}
