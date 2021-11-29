@@ -207,7 +207,14 @@
   "fca": "001b000000MfGMvAAN",
   "alumni": [],
   "articles": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "imvision-ai",
+      "name": "Imvision",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1627010771/icons/imvision-ai.png",
+      "websiteUrl": "https://www.imvision.ai/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
