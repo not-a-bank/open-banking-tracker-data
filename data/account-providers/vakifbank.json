@@ -33,169 +33,613 @@
   "apiReferenceUrl": "https://apiportal.vakifbank.com.tr/documentation",
   "apiProducts": [
     {
+      "label": "GET Parameter",
+      "type": "other",
+      "description": "This API brings detailed information about VakıfBank parameters.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/GeneralServices/getParameter",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	 {
+      "label": "Verify OTP",
+      "type": "other",
+      "description": "This API authenticates the user who sent the OTP. The OTP timeout is 3 minutes and the trial limit is 3.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/GeneralServices/verifyOTP",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Send OTP",
+      "type": "other",
+      "description": "This API sends OTP to mobile phone for user authentication. If the user is a VakıfBank customer, it is expected to enter the mobile phone number registered in the system.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/GeneralServices/sendOTP",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Execute Transaction",
+      "type": "other",
+      "description": "This API ensures that the transaction is carried out by verifying the OTP code sent to the customer in transactions that require customer approval, such as money transfer.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/GeneralServices/transactionExecute",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },	
+	{
+      "label": "BIST Prices",
+      "type": "other",
+      "description": "This API returns the BIST 30 and BIST 100 prices on the requested date.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/getBISTPrices",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Gold Prices",
+      "type": "other",
+      "description": "This API returns the gold prices for the requested date.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/getGoldPrices",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Fund Prices",
+      "type": "other",
+      "description": "This API returns the fund prices for the requested date.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/getFundPrices",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Precious Metal Prices",
+      "type": "other",
+      "description": "This API returns the prices of precious metals for the requested date.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/preciousMetalPrices",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "F/X Currency Rates",
+      "type": "other",
+      "description": "This API returns the exchange rates for the requested date.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/getCurrencyRates",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Investment Products Interest Rates",
+      "type": "other",
+      "description": "This API returns the interest rate information for the requested date and investment product type.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/getInvestmentProductsInterestRates",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Product and Service Fees",
+      "type": "other",
+      "description": "This API brings the product and service prices of our bank.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/getProductServicePrices",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Time Deposit Rates",
+      "type": "other",
+      "description": "This API returns the interest rate information of the time deposit product specified in the input information.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/timeDepositRates",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
       "label": "IBAN Validate",
       "type": "other",
-      "categories": [
-        "accounts"
-      ],
-      "description": "This API checks the validity of the customer IBAN number.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/ibanValidate",
+      "description": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/ibanValidate",
+      "documentationUrl": "This API provides validity check for IBAN.",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
       "stage": "live"
     },
-    {
-      "label": "Investment Products Interest Rates",
-      "type": "productFinder",
-      "categories": [
-        "products"
-      ],
-      "description": "This API returns interest rate information for the requested date and type of investment product.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getInvestmentProductsInterestRates",
+	{
+      "label": "Loan Product List",
+      "type": "other",
+      "description": "This API brings the list of our bank's personal loan products.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/loanProductList",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
       "stage": "live"
     },
-    {
-      "label": "Product & Service Prices",
-      "type": "productFinder",
-      "categories": [
-        "products"
-      ],
-      "description": "This API returns the product and service prices of our bank.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getProductServicePrices",
+	{
+      "label": "Loan Calculator",
+      "type": "other",
+      "description": "This API calculates the cost rate of the individual loan product specified in the input information. It also creates a detailed payment plan.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/loanCalculator",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
       "stage": "live"
     },
-    {
-      "label": "Gold Prices",
-      "type": "fx",
-      "categories": [
-        "fx"
-      ],
-      "description": "This API returns gold prices for the requested date.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getGoldPrices",
+	{
+      "label": "Bond Bill Eurobond Product List",
+      "type": "other",
+      "description": "This API brings up the list of bonds, bonds and eurobond products.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/bondBillEurobondProductList",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
       "stage": "live"
     },
-    {
-      "label": "Currency Rates",
-      "type": "fx",
-      "description": "This API returns currency rates for the requested date.",
-      "categories": [
-        "fx"
-      ],
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getCurrencyRates",
+	{
+      "label": "Bond Bill Eurobond Calculator",
+      "type": "other",
+      "description": "This API calculates the buying and selling transactions of bonds, bills and eurobond products. It is mandatory to enter one of the nominal number or amount fields.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/bondBillEurobondCalculator",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
       "stage": "live"
     },
-    {
-      "label": "Fund Prices",
-      "type": "fundsConfirmation",
-      "categories": [
-        "funds"
-      ],
-      "description": "This API returns the mutual fund prices for the requested date.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/getFundPrices",
+	{
+      "label": "Cash Installment Calculator",
+      "type": "other",
+      "description": "This API calculates the installment amount of the cash advance withdrawn from the credit card.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/installmentCashCalculator",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
       "stage": "live"
     },
-    {
-      "label": "Vakıfbank Branch List",
-      "type": "branchLocator",
-      "categories": [
-        "locators"
-      ],
-      "description": "This API returns the information of the branches of our bank. Branches are filtered by region.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/vakifbankBranchList",
+	{
+      "label": "F/X Currency Calculator",
+      "type": "other",
+      "description": "This API calculates the target exchange rate equivalent of a certain amount in the source exchange rate specified in the input information.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/currencyCalculator",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
-      "stage": "live",
-      "countries": [
-        "TR"
-      ]
+      "stage": "live"
     },
-    {
+	{
+      "label": "Deposit Product List",
+      "type": "other",
+      "description": "This API brings the list of deposit products of our bank.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/depositProductList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Deposit Calculator",
+      "type": "other",
+      "description": "This API calculates our bank's return on deposits according to the deposit type specified in the input information.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/depositCalculator",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Check Working Day",
+      "type": "other",
+      "description": "This API brings the information of our bank's business and holiday days. The days are filtered by date range.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/getBusinessDay",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Vakifbank Branch List",
+      "type": "other",
+      "description": "This API brings the information of the branches of our bank. Branches are filtered by region.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/vakifbankBranchList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Vakifbank ATM List",
+      "type": "other",
+      "description": "This API brings the information of our bank's ATMs. ATMs are filtered by region.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/vakifbankATMList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "VakıfBank Nearest Branch and ATM",
+      "type": "other",
+      "description": "This API lists the information of the nearest branches and ATMs of our bank according to the location information entered. The first 10 values ​​are shown in the list.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/getNearestBranchATM",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
       "label": "Bank List",
       "type": "other",
-      "categories": [
-        "locators"
-      ],
-      "description": "This API returns a list of banks operating in Turkey.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/bankList",
+      "description": "This API brings up the list of banks operating in Turkey.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/bankList",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
-      "stage": "live",
-      "countries": [
-        "TR"
-      ]
+      "stage": "live"
     },
-    {
+	{
+      "label": "Bank Branch List",
+      "type": "other",
+      "description": "This API brings the list of all bank branches in Turkey. Branches are filtered by bank and city.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/bankBranchList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
       "label": "City List",
       "type": "other",
-      "categories": [
-        "locators"
-      ],
-      "description": "This API returns a list of cities in Turkey.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/cityList",
+      "description": "This API returns the list of cities in Turkey.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/cityList",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
-      "stage": "live",
-      "countries": [
-        "TR"
-      ]
+      "stage": "live"
     },
-    {
+	{
       "label": "District List",
       "type": "other",
-      "categories": [
-        "locators"
-      ],
-      "description": "This API returns a list of districts according to the cities in Turkey.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/districtList",
-      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
-      "premium": false,
-      "stage": "live",
-      "countries": [
-        "TR"
-      ]
-    },
-    {
-      "label": "Account Detail",
-      "type": "accountInformation",
-      "categories": [
-        "accounts"
-      ],
-      "description": "This API returns account detail of the customer.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/accountDetail",
+      "description": "This API brings the list of Districts in Turkey. The list is filtered by the selected city.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/districtList",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
       "stage": "live"
     },
-    {
-      "label": "Account Transactions",
-      "type": "accountInformation",
-      "categories": [
-        "accounts"
-      ],
-      "description": "This API returns account transactions of the customer. Transactions are filtered by date range.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/accountTransactions",
+	{
+      "label": "Neighborhood List",
+      "type": "other",
+      "description": "This API returns the list of neighborhoods in Turkey. The list is filtered by the selected county.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/InformationServices/neighborhoodList",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
       "stage": "live"
     },
-    {
+	{
       "label": "Account List",
-      "type": "accountInformation",
-      "categories": [
-        "accounts"
-      ],
-      "description": "This API returns account list of the customer.",
-      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/InformationServices/accountList",
+      "type": "other",
+      "description": "This API lists the accounts that the customer is authorized.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/AccountInformationServices/accountList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Account Detail",
+      "type": "other",
+      "description": "This API returns the details of the customer's authorized account.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/AccountInformationServices/accountDetail",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Account Transactions",
+      "type": "other",
+      "description": "This API retrieves account activity information of the customer's account. Transactions are filtered by date range.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/AccountInformationServices/accountTransactions",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Inquire Receipt",
+      "type": "other",
+      "description": "This API brings the receipt of the account transaction that the customer is authorized. Receipt can be taken as pdf or txt.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/AccountInformationServices/getReceipt",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Transfer to Another VakıfBank Account",
+      "type": "other",
+      "description": "This API performs account-to-account transfers and transfers. In order to complete the transaction, OTP verification from the Transaction API is required.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/MoneyTransferServices/remittancetoAccountNumber",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Transfer to Another VakıfBank Account (to IBAN)",
+      "type": "other",
+      "description": "This API performs transfer and transfer transactions from account to IBAN. In order to complete the transaction, OTP verification from the Transaction API is required.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/documentation/MoneyTransferServices/remittancetoIBAN",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Transfer to VakıfBank Account with Name",
+      "type": "other",
+      "description": "This API performs account-to-name transfer. In order to complete the transaction, OTP verification from the Transaction API is required. Buyer's T.C. It is mandatory to enter one of the ID number or tax number fields.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/MoneyTransferServices/remittancetoName",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Transfer to Another VakifBank Credit Card",
+      "type": "other",
+      "description": "This API performs account-to-card transfer. In order to complete the transaction, OTP verification from the Transaction API is required.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/MoneyTransferServices/remittancetoCreditCard",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Transfer To Phone Number",
+      "type": "other",
+      "description": "This API performs the money transfer process to the mobile phone. In order to complete the transaction, OTP verification from the Transaction API is required.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/MoneyTransferServices/remittancetoPhoneNumber",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "EFT to Account Number",
+      "type": "other",
+      "description": "This API performs the account-to-account EFT transaction. In order to complete the transaction, OTP verification from the Transaction API is required.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/MoneyTransferServices/EFTtoAccountNumber",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "EFT to IBAN",
+      "type": "other",
+      "description": "This API makes EFT transaction account to IBAN. You have to use “Execute Transaction API” for complete your transaction.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/MoneyTransferServices/EFTtoIBAN",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "EFT to Name",
+      "type": "other",
+      "description": "This API makes EFT transaction account to name. You have to use “Execute Transaction API” for complete your transaction. One of receiver T.R. Identity or Tax Identity number is mandatory.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/MoneyTransferServices/EFTtoName",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "EFT to Credit Card",
+      "type": "other",
+      "description": "This API makes EFT transaction account to credit card. You have to use “Execute Transaction API” for complete your transaction.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/MoneyTransferServices/EFTtoCreditCard",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Card List",
+      "type": "other",
+      "description": "This API lists customer authorized cards.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/CreditCardServices/creditCardList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Card Details",
+      "type": "other",
+      "description": "This API returns details of customer authorized card.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/CreditCardServices/creditCardDetails",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Card Current Term Transactions",
+      "type": "other",
+      "description": "This API returns current term transactions of authorized card.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/CreditCardServices/creditCardCurrentTermTransactions",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Card Balance Information",
+      "type": "other",
+      "description": "This API returns balance information of customer authorized card.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/CreditCardServices/creditCardBalance",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Card Statement List",
+      "type": "other",
+      "description": "This API returns statement list of customer authorized main card.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/CreditCardServices/creditCardStatementList",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Card Statement",
+      "type": "other",
+      "description": "This API returns main card statement of authorized card.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/CreditCardServices/creditCardStatement",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Credit Card Application",
+      "type": "other",
+      "description": "You may apply credit card using this API. Before application customer confirms with Send OTP and Verify OTP API’s",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/CreditCardServices/CreditCardApplication",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Personal Loan Application",
+      "type": "other",
+      "description": "Personal loan is applied using this API.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/LoanServices/personalLoanApplication",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Personal Loan Confirm",
+      "type": "other",
+      "description": "Personal loan application is confirmed with using this API.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/LoanServices/personalLoanConfirm",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Personal Loan Cancellation",
+      "type": "other",
+      "description": "Personal loan application is canceled with using this API.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/LoanServices/personalLoanCancel",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Customs Tax Payment",
+      "type": "other",
+      "description": "",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/CustomsServices/customsTaxPayment",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Customs Tax Inquiry",
+      "type": "other",
+      "description": "",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/CustomsServices/customsTaxInquiry",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Donation Inquiry",
+      "type": "other",
+      "description": "This API lists institution’s donation transactions.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/DonationServices/donationInquiry",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Tax Debt Inquiry",
+      "type": "other",
+      "description": "",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/TaxServices/taxDebtInquiry",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "Tax Debt Payment",
+      "type": "other",
+      "description": "",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/TaxServices/taxDebtPayment",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "HGS Inquire Product",
+      "type": "other",
+      "description": "This API returns customer’s authorized products of passing system. Maximum 2000 recorcd can list each request.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/FPSServices/FPSInquireProduct",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "HGS Inquire Balance and Transaction",
+      "type": "other",
+      "description": "This API returns customer’s authorized HGS product balance and transaction Each page has maxiımum 1000 records. Start and end date must be maximum 1 year.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/FPSServices/FPSInquireBalanceTransaction",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "HGS Inquire Passing",
+      "type": "other",
+      "description": "This API returns customer authorized product passing informations. Each page has maximum 1000 records. Start and end date range must be maximum 1 year.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/FPSServices/FPSInquirePass",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "DDS Main Company Questioning",
+      "type": "other",
+      "description": "This API retursn main company informations on system.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/DDSServices/InquireDDSMainCompany",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "DDS Limit-Risk Questioning",
+      "type": "other",
+      "description": "This API returns dealer limit-risk informations.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/DDSServices/inquireDDSLimitRisk",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "DDS Invoice Questioning",
+      "type": "other",
+      "description": "This API returns invoice informations on system.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/DDSServices/inquireDDSInvoice",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "DDS Invoice Upload",
+      "type": "other",
+      "description": "New invoices save for using this API.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/DDSServices/uploadDDSInvoice",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "DDS Invoice Update",
+      "type": "other",
+      "description": "This api updates invoices which are uploaded before. Only invoice amount and last payment date can update.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/DDSServices/updateDDSInvoice",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "DDS Invoice Cancel",
+      "type": "other",
+      "description": "This api cancels invoices whichs are uploaded by dealer before.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/DDSServices/cancelDDSInvoice",
+      "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
+      "premium": false,
+      "stage": "live"
+    },
+	{
+      "label": "DDS Invoice Offset",
+      "type": "other",
+      "description": "This api offsets invoice which is uploaded by dealer before.",
+      "documentationUrl": "https://apiportal.vakifbank.com.tr/en/documentation/DDSServices/offsetDDSInvoice",
       "apiReferenceUrl": "https://apiportal.vakifbank.com.tr",
       "premium": false,
       "stage": "live"
