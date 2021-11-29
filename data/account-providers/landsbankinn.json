@@ -1,0 +1,131 @@
+{
+  "id": "landsbankinn",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Landsbankinn",
+  "description": "Landsbankinn, originally NBI hf, is an Icelandic bank headquartered in Reykjavík. It was established in 2008 by the Icelandic government out of the domestic operations of its predecessor Landsbanki which failed during the 2008–2011 Icelandic financial crisis.",
+  "legalName": null,
+  "ipoStatus": "government",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1638168279/radar/icons/landsbankinn.jpg",
+  "websiteUrl": "https://www.landsbankinn.is/en",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "IS",
+  "countries": [
+    "IS"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developers.landsbankinn.is/"
+  },
+  "developerPortalUrl": "https://developers.landsbankinn.is/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://developers.landsbankinn.is/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2.landsbanki.is/docs/berlingroup/landsbankinn_sandbox/ais",
+      "apiReferenceUrl": "https://psd2.landsbanki.is/docs/berlingroup/landsbankinn_sandbox/ais",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2.landsbanki.is/docs/berlingroup/landsbankinn_sandbox/pis",
+      "apiReferenceUrl": "https://psd2.landsbanki.is/docs/berlingroup/landsbankinn_sandbox/pis",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://psd2.landsbanki.is/docs/berlingroup/landsbankinn_sandbox/piis",
+      "apiReferenceUrl": "https://psd2.landsbanki.is/docs/berlingroup/landsbankinn_sandbox/piis",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/is/app/landsbankinn/id1235523584"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=is.landsbankinn.personal"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "landsbankinn",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Landsbankinn",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "saltedge",
+      "name": "Salt Edge",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586382066/catalog/saltedge/icon128x128.jpg",
+      "websiteUrl": "https://www.saltedge.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
