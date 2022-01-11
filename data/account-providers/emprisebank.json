@@ -1,32 +1,27 @@
 {
-  "id": "judo-bank",
+  "id": "emprisebank",
   "type": [
     "account"
   ],
   "bankType": [
-    "challenger"
+    "universal"
   ],
-  "name": "Judo Bank",
-  "description": "Judo Bank is a new SME challenger bank built specially to make it easier for Aussie businesses to get the funding they need and the service they deserve.",
-  "legalName": "Judo Bank",
+  "name": "Emprise Bank",
+  "description": "Emprise Bank offers a wide variety of products and specialized services to meet the payment, credit and wealth management needs of personal and commercial customers.",
+  "legalName": "Emprise Financial Corporation",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589177245/catalog/judo-bank/icon128x128.png",
-  "websiteUrl": "https://www.judo.bank/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1637093492/icons/emprisebank.png",
+  "websiteUrl": "https://www.emprisebank.com/",
   "ownership": [],
   "stateOwned": false,
-  "countryHQ": "AU",
+  "countryHQ": "US",
   "countries": [
-    "AU"
+    "US"
   ],
-  "compliance": [
-    {
-      "regulation": "CDR",
-      "status": "unknown"
-    }
-  ],
+  "compliance": [],
   "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
@@ -40,27 +35,17 @@
   "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
-  "twitter": "Judo_Bank",
   "bloomberg": null,
   "alumni": [],
-  "keySegments": [
-    "sme"
-  ],
   "stack": [
     {
-      "id": "temenos-t24-transact",
-      "name": "Temenos T24 Transact",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828757/catalog/temenos-t24-transact/icon128x128.jpg",
-      "websiteUrl": "https://www.temenos.com/products/t24-transact/"
-    },
-    {
-      "id": "codat-io",
-      "name": "Codat",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1625937200/icons/codat-io.png",
-      "websiteUrl": "https://www.codat.io/"
+      "id": "treasuryprime",
+      "name": "Treasury Prime",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1588809149/catalog/treasuryprime/icon128x128.jpg",
+      "websiteUrl": "https://treasuryprime.com/"
     }
   ],
   "thirdPartyBankingLicense": null,

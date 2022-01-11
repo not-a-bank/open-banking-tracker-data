@@ -1,0 +1,79 @@
+{
+  "id": "lendingclub-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "LendingClub Bank",
+  "description": "LendingClub Bank is an online-focused community bank headquartered in Lehi, Utah. LendingClub Bank is a member of the FDIC and an Equal Housing Lender as well as a member of the NYCE SUM ATM. In 2020, Lending Club acquired Radius Bank and announced that it would be shutting down its peer-to-peer lending platform.",
+  "legalName": "LendingClub Corporation",
+  "ipoStatus": "public",
+  "stockSymbol": "LC",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1635900782/icons/lendingclub-bank.jpg",
+  "websiteUrl": "https://bank.lendingclub.com/",
+  "ownership": [
+    {
+      "providerId": "lendingclub",
+      "shareholderName": "LendingClub",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591803955/icons/lendingclub.jpg"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://bank.lendingclub.com/business/api",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://bank.lendingclub.com/business/api",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "sdks": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "LendingClub",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "treasuryprime",
+      "name": "Treasury Prime",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1588809149/catalog/treasuryprime/icon128x128.jpg",
+      "websiteUrl": "https://treasuryprime.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

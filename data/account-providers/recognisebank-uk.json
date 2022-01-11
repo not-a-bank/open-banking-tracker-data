@@ -1,29 +1,29 @@
 {
-  "id": "judo-bank",
+  "id": "recognisebank-uk",
   "type": [
     "account"
   ],
   "bankType": [
     "challenger"
   ],
-  "name": "Judo Bank",
-  "description": "Judo Bank is a new SME challenger bank built specially to make it easier for Aussie businesses to get the funding they need and the service they deserve.",
-  "legalName": "Judo Bank",
+  "name": "Recognise Bank",
+  "description": "Recognise Bank is a provider of Banking services to UK's Small and Medium sized Enterprises (SMEs).",
+  "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589177245/catalog/judo-bank/icon128x128.png",
-  "websiteUrl": "https://www.judo.bank/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1636687649/radar/icons/recognisebank-uk.jpg",
+  "websiteUrl": "https://www.recognisebank.co.uk/",
   "ownership": [],
   "stateOwned": false,
-  "countryHQ": "AU",
+  "countryHQ": "GB",
   "countries": [
-    "AU"
+    "GB"
   ],
   "compliance": [
     {
-      "regulation": "CDR",
+      "regulation": "OB",
       "status": "unknown"
     }
   ],
@@ -43,7 +43,7 @@
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
-  "twitter": "Judo_Bank",
+  "twitter": "RecogniseBank",
   "bloomberg": null,
   "alumni": [],
   "keySegments": [
@@ -51,16 +51,10 @@
   ],
   "stack": [
     {
-      "id": "temenos-t24-transact",
-      "name": "Temenos T24 Transact",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828757/catalog/temenos-t24-transact/icon128x128.jpg",
-      "websiteUrl": "https://www.temenos.com/products/t24-transact/"
-    },
-    {
-      "id": "codat-io",
-      "name": "Codat",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1625937200/icons/codat-io.png",
-      "websiteUrl": "https://www.codat.io/"
+      "id": "clearbank",
+      "name": "ClearBank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1568569726/catalog/clearbank/icon128x128.jpg",
+      "websiteUrl": "https://www.clear.bank/"
     }
   ],
   "thirdPartyBankingLicense": null,
@@ -81,5 +75,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "marketplaceUrl": ""
 }

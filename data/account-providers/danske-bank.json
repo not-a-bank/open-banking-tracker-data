@@ -98,7 +98,6 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "nordigen",
     "neonomics",
     "truelayer",
     "klarna",
@@ -109,8 +108,7 @@
     "enablebanking",
     "enfuce",
     "fintecture",
-    "equensworldline",
-    "moneyhub-enterprise"
+    "equensworldline"
   ],
   "collections": [
     "cma9"
@@ -155,10 +153,10 @@
       "websiteUrl": "https://redoc.ly/"
     },
     {
-      "id": "nordicapigateway",
-      "name": "Nordic API Gateway",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569691786/catalog/nordicapigateway/icon128x128.jpg",
-      "websiteUrl": "https://www.nordicapigateway.com/"
+      "id": "aiia-eu",
+      "name": "Aiia",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1631050688/icons/aiia-eu.jpg",
+      "websiteUrl": "https://www.aiia.eu/"
     }
   ],
   "thirdPartyBankingLicense": null,

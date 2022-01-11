@@ -1,20 +1,20 @@
 {
-  "id": "judo-bank",
+  "id": "westpac-au",
   "type": [
     "account"
   ],
   "bankType": [
-    "challenger"
+    "universal"
   ],
-  "name": "Judo Bank",
-  "description": "Judo Bank is a new SME challenger bank built specially to make it easier for Aussie businesses to get the funding they need and the service they deserve.",
-  "legalName": "Judo Bank",
-  "ipoStatus": "private",
-  "stockSymbol": null,
+  "name": "Westpac",
+  "description": "Westpac Banking Corporation, known simply as Westpac, is an Australian bank and financial services provider headquartered in Sydney, Australia. Established in 1817 as the Bank of New South Wales, it acquired the Commercial Bank of Australia in 1982 before being renamed shortly afterwards.",
+  "legalName": "Westpac Banking Corporation",
+  "ipoStatus": "public",
+  "stockSymbol": "WBK",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589177245/catalog/judo-bank/icon128x128.png",
-  "websiteUrl": "https://www.judo.bank/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1635251781/icons/westpac-au.png",
+  "websiteUrl": "https://www.westpac.com.au/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "AU",
@@ -43,24 +43,16 @@
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
-  "twitter": "Judo_Bank",
+  "twitter": "Westpac",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Westpac",
   "bloomberg": null,
   "alumni": [],
-  "keySegments": [
-    "sme"
-  ],
   "stack": [
     {
-      "id": "temenos-t24-transact",
-      "name": "Temenos T24 Transact",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828757/catalog/temenos-t24-transact/icon128x128.jpg",
-      "websiteUrl": "https://www.temenos.com/products/t24-transact/"
-    },
-    {
-      "id": "codat-io",
-      "name": "Codat",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1625937200/icons/codat-io.png",
-      "websiteUrl": "https://www.codat.io/"
+      "id": "frankieone",
+      "name": "FrankieOne",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1635251816/icons/frankieone.png",
+      "websiteUrl": "https://www.frankieone.com/"
     }
   ],
   "thirdPartyBankingLicense": null,

@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601687860/radar/icons/douugh.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601691190/icons/douugh.png",
   "websiteUrl": "https://douugh.com/",
   "ownership": [],
   "stateOwned": false,
@@ -46,7 +46,14 @@
   "twitter": "mydouugh",
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "railsbank",
+      "name": "Railsbank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1570999812/catalog/railsbank/icon128x128.jpg",
+      "websiteUrl": "https://www.railsbank.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,

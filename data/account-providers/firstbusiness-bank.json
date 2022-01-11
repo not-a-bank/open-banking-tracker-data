@@ -1,32 +1,27 @@
 {
-  "id": "judo-bank",
+  "id": "firstbusiness-bank",
   "type": [
     "account"
   ],
   "bankType": [
-    "challenger"
+    "commercial"
   ],
-  "name": "Judo Bank",
-  "description": "Judo Bank is a new SME challenger bank built specially to make it easier for Aussie businesses to get the funding they need and the service they deserve.",
-  "legalName": "Judo Bank",
+  "name": "First Business Bank",
+  "description": "First Business Financial Services, Inc. is a bank holding company involved in the commercial banking business through offices located in Wisconsin. Through strategic solutions and unmatched service, First Business Bank focuses on your business banking, private wealth, and specialty finance needs.",
+  "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589177245/catalog/judo-bank/icon128x128.png",
-  "websiteUrl": "https://www.judo.bank/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1635972895/radar/icons/firstbusiness-bank.jpg",
+  "websiteUrl": "https://firstbusiness.bank/",
   "ownership": [],
   "stateOwned": false,
-  "countryHQ": "AU",
+  "countryHQ": "US",
   "countries": [
-    "AU"
+    "US"
   ],
-  "compliance": [
-    {
-      "regulation": "CDR",
-      "status": "unknown"
-    }
-  ],
+  "compliance": [],
   "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
@@ -43,26 +38,10 @@
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
-  "twitter": "Judo_Bank",
+  "twitter": "1stBusinessBank",
   "bloomberg": null,
   "alumni": [],
-  "keySegments": [
-    "sme"
-  ],
-  "stack": [
-    {
-      "id": "temenos-t24-transact",
-      "name": "Temenos T24 Transact",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828757/catalog/temenos-t24-transact/icon128x128.jpg",
-      "websiteUrl": "https://www.temenos.com/products/t24-transact/"
-    },
-    {
-      "id": "codat-io",
-      "name": "Codat",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1625937200/icons/codat-io.png",
-      "websiteUrl": "https://www.codat.io/"
-    }
-  ],
+  "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
