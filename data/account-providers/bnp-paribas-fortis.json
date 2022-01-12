@@ -1,7 +1,12 @@
 {
   "id": "bnp-paribas-fortis",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "BNP Paribas Fortis",
   "legalName": "BNP Paribas Fortis NV/SA",
   "ipoStatus": "private",
@@ -18,7 +23,9 @@
   ],
   "stateOwned": false,
   "countryHQ": "BE",
-  "countries": ["BE"],
+  "countries": [
+    "BE"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -35,7 +42,9 @@
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Give customers secure access to transaction data and balance data via our BNP Paribas Fortis Account Information API.",
       "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/7",
       "apiReferenceUrl": null,
@@ -45,7 +54,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Give customers the option to initiate payments via our BNP Paribas Fortis Payment Initiation API.",
       "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/4",
       "apiReferenceUrl": null,
@@ -60,7 +71,8 @@
     "klarna",
     "ibanity",
     "banqup",
-    "equensworldline"
+    "equensworldline",
+    "salt-edge"
   ],
   "webApplication": true,
   "mobileApps": [

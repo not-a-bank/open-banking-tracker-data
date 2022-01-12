@@ -48,7 +48,8 @@
   "apiAggregators": [
     "nordigen",
     "klarna",
-    "six-group-b-link"
+    "six-group-b-link",
+    "salt-edge"
   ],
   "apiProducts": [
     {
@@ -88,7 +89,10 @@
       "premium": false
     }
   ],
-  "apiStandards": ["SIX-B-LINK", "BERLIN"],
+  "apiStandards": [
+    "SIX-B-LINK",
+    "BERLIN"
+  ],
   "sdks": null,
   "postmanCollections": null,
   "webApplication": true,
