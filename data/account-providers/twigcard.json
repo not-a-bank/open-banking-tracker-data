@@ -1,33 +1,32 @@
 {
-  "id": "finin-in",
+  "id": "twigcard",
   "type": [
     "account"
   ],
   "bankType": [
     "challenger"
   ],
-  "name": "Finin",
-  "description": "A modern neobanking platform that helps you manage, save and invest your money simpler, smarter and faster. Join the waitlist now to get early access to the Finin app!",
-  "legalName": "Dinero Innovations Pvt. Ltd.",
+  "name": "Twig",
+  "description": "Twig is your Bank of Things. Use Twig to receive instant payment for your clothes, gadgets and more.",
+  "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595437755/icons/finin-in.jpg",
-  "websiteUrl": "https://www.finin.in/",
-  "ownership": [
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1642311898/radar/icons/twigcard.webp",
+  "websiteUrl": "https://twigcard.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
     {
-      "providerId": "bankopen-co",
-      "shareholderName": "Open",
-      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1574179180/catalog/bankopen-co/icon128x128.jpg"
+      "regulation": "OB",
+      "status": "unknown"
     }
   ],
-  "stateOwned": false,
-  "countryHQ": "IN",
-  "countries": [
-    "IN"
-  ],
-  "compliance": [],
   "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
@@ -42,11 +41,22 @@
   "apiAggregators": [],
   "collections": [],
   "webApplication": false,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/id1537416372"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=org.cartediem.app"
+    }
+  ],
   "financialReports": [],
-  "twitter": "letsfinin",
   "bloomberg": null,
   "alumni": [],
+  "keySegments": [
+    "sustainability"
+  ],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
@@ -67,7 +77,7 @@
   "partnerships": [
     {
       "id": "visa",
-      "name": "Visa",
+      "name": "visa",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
       "websiteUrl": "https://visa.com"
     }
