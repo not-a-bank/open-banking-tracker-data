@@ -1,0 +1,114 @@
+{
+  "id": "winden-co",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Winden",
+  "description": "Winden is a business bank designed to help you make more money. Earn unlimited cash-back, free wire transfers, zero fees, and more.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1644535723/radar/icons/winden-co.png",
+  "websiteUrl": "https://www.winden.co/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": [
+        "blueridgebank"
+      ],
+      "name": "Blue Ridge Bank and Trust Co.",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598673639/icons/blueridgebank.jpg",
+      "websiteUrl": "https://www.blueridgebank.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": [
+    "blueridgebank"
+  ],
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "blueridgebank",
+      "name": "Blue Ridge Bank and Trust Co.",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1598673639/icons/blueridgebank.jpg",
+      "websiteUrl": "https://www.blueridgebank.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/"
+    },
+    {
+      "id": "upwork",
+      "name": "UpWork",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531056534/catalog/upwork/icon128x128.png",
+      "websiteUrl": "https://upwork.com"
+    },
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456131/catalog/shopify/icon128x128.png",
+      "websiteUrl": "https://www.shopify.com/"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936484/catalog/amazon/icon128x128.png",
+      "websiteUrl": "https://amazon.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
