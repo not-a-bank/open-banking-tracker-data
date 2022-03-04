@@ -1,0 +1,63 @@
+{
+  "id": "paypal",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "PayPal",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/xo/paypal_csv_xo.svg",
+  "verified": true,
+  "websiteUrl": "https://www.paypal.com/de/home",
+  "countryHQ": "LU",
+  "countries": [
+    "AT",
+    "BE",
+    "BG",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU"
+    "LV",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.paypal.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ]
+}
