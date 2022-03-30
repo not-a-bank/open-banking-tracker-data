@@ -1,0 +1,34 @@
+{
+  "id": "ing-wb",
+  "type": [
+    "account"
+  ],
+  "bankType": "business",
+  "status": "live",
+  "name": "ING Wholesale Banking (InsideBusiness)",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/ing_diba_at.svg",
+  "verified": true,
+  "websiteUrl": "https://ing.com",
+  "countryHQ": "NL",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.ing.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

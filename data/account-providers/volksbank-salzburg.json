@@ -1,0 +1,34 @@
+{
+  "id": "volksbank-salzburg",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "Volksbank Salzburg",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/volksbank_at.svg",
+  "verified": true,
+  "websiteUrl": "https://www.volksbanksalzburg.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.banking.co.at/psd2/m007/home",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "VBOEATWWSAL"
+}

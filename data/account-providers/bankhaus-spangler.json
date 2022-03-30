@@ -1,0 +1,34 @@
+{
+  "id": "bankhaus-spangler",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "Bankhaus Spangler",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/bankhaus_spangler_oauth_client_at.svg",
+  "verified": true,
+  "websiteUrl": "https://www.spaengler.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.banking.co.at/psd2/m011/home",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "SPAEAT2SXXX"
+}

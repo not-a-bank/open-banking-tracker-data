@@ -1,0 +1,34 @@
+{
+  "id": "osterreichische-arzte-und-apothekerbank",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "Osterreichische Arzte- und Apothekerbank",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/osterreichische_arzte_und_apothekerbank_oauth_client_at.svg",
+  "verified": true,
+  "websiteUrl": "https://www.apobank.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.banking.co.at/psd2/m093/home",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BWFBATW1XXX"
+}
