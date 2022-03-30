@@ -1,0 +1,34 @@
+{
+  "id": "volksbank-niederosterreich",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "Volksbank Niederosterreich",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/volksbank_at.svg",
+  "verified": true,
+  "websiteUrl": "https://www.vbnoe.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.banking.co.at/psd2/m053/home",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "VBOEATWWNOM"
+}

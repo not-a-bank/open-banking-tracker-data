@@ -1,0 +1,34 @@
+{
+  "id": "bankhaus-schelhammer-schattera-aktiengesellschaft",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "Bankhaus Schelhammer & Schattera Aktiengesellschaft",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/bankhaus_schelhammer_schattera_aktiengesellschaft_oauth_client_at.svg",
+  "verified": true,
+  "websiteUrl": "https://schelhammer.at/public",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.banking.co.at/psd2/m045/home",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BSSWATWWXXX"
+}

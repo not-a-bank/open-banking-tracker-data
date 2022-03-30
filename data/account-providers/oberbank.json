@@ -1,0 +1,34 @@
+{
+  "id": "oberbank",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "Oberbank",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/oberbank_at.svg",
+  "verified": true,
+  "websiteUrl": "https://www.oberbank.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://www.oberbank.at/xs2a-schnittstelle",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "OBKLAT2LXXX"
+}

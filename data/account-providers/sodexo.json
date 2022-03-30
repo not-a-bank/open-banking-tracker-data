@@ -1,0 +1,34 @@
+{
+  "id": "sodexo",
+  "type": [
+    "account"
+  ],
+  "bankType": "private",
+  "status": "live",
+  "name": "Sodexo",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/sodexo_at.svg",
+  "verified": true,
+  "websiteUrl": "https://www.sodexo.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://priora.saltedge.com/docs/berlingroup/sodexo_connector_austria",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}
