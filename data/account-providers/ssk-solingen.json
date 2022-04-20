@@ -1,0 +1,34 @@
+{
+  "id": "ssk-solingen",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "SSK Solingen",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/ssk_de.svg",
+  "verified": true,
+  "websiteUrl": "https://www.sparkasse-solingen.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "SOLSDE33XXX"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "volksbank-raiffeisen-vr-bank-freudenberg-niederfischbach",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "VR-Bank Freudenberg-Niederfischbach eG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
+  "verified": true,
+  "websiteUrl": "https://www.vr-bank-freudenberg-niederfischbach.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "GENODEM1FRF"
+}

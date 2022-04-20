@@ -1,0 +1,34 @@
+{
+  "id": "volksbank-raiffeisen-btv-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "BTV Bank für Tirol und Vorarlberg AG Zweigniederlassung Deutschland",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
+  "verified": true,
+  "websiteUrl": "https://servicebank.btv-bank.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BTVADE61XXX"
+}

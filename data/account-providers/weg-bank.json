@@ -1,0 +1,34 @@
+{
+  "id": "weg-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "WEG Bank AG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/weg_bank_de.svg",
+  "verified": true,
+  "websiteUrl": "https://www.weg-banking.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "WEGBDE77XXX"
+}

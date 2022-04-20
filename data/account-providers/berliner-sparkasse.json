@@ -1,0 +1,34 @@
+{
+  "id": "berliner-sparkasse",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "Berliner Sparkasse",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/berliner_sparkasse_csv_de.svg",
+  "verified": true,
+  "websiteUrl": "https://www.berliner-sparkasse.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BELADEBEXXX"
+}

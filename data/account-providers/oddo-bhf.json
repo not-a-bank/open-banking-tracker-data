@@ -1,0 +1,34 @@
+{
+  "id": "oddo-bhf",
+  "type": [
+    "account"
+  ],
+  "bankType": "private",
+  "status": "live",
+  "name": "ODDO BHF-Bank AG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/oddo_bhf_de.svg",
+  "verified": true,
+  "websiteUrl": "https://www.oddo-bhf.com",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.bank-verlag.de/psd2-degussabank",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BHFBDEFF500"
+}

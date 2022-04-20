@@ -44,7 +44,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "collections": [],
   "sdks": [],
   "webApplication": true,

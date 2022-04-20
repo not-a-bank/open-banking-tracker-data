@@ -1,0 +1,34 @@
+{
+  "id": "sparkasse-an-der-lippe",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "Sparkasse an der Lippe",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/sparkasse_de.svg",
+  "verified": true,
+  "websiteUrl": "https://www.sparkasse-adl.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "WELADED1LUN"
+}

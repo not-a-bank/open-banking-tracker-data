@@ -1,0 +1,34 @@
+{
+  "id": "niederrheinische-sparkasse-rheinlippe",
+  "type": [
+    "account"
+  ],
+  "bankType": "universal",
+  "status": "live",
+  "name": "Niederrheinische Sparkasse RheinLippe",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/niederrheinische_sparkasse_rheinlippe_de.svg",
+  "verified": true,
+  "websiteUrl": "https://www.nispa.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "WELADED1WES"
+}
