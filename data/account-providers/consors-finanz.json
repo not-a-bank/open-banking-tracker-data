@@ -3,24 +3,23 @@
   "type": [
     "account"
   ],
-  "bankType": [
-    "private"
-  ],
+  "bankType": ["private"],
   "status": "live",
   "name": "Consors Finanz",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/consors_finanz_de.svg",
-  "verified": false,
-  "websiteUrl": "https://www.consorsfinanz.de",
-  "countryHQ": "DE",
+  "verified": true,
+  "websiteUrl": "https://www.consorsfinanz.at",
+  "countryHQ": "AT",
   "countries": [
+    "AT",
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "unknown"
+      "status": "inProgress"
     }
   ],
   "developerPortalUrl": "https://www.bank-verlag.de/psd2-degussabank",
@@ -32,5 +31,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": ""
+  "swiftCode": "GEBAATWW"
 }

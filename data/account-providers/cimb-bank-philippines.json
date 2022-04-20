@@ -1,0 +1,79 @@
+{
+  "id": "cimb-bank-philippines",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "CIMB Bank Philippines",
+  "description": "Have a secured and easy to manage bank account for your personal savings, investments, and loan applications in just 10 minutes. Open an account today with CIMB.",
+  "legalName": "CIMB Bank Philippines Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1639015151/icons/cimb-bank-philippines.jpg",
+  "websiteUrl": "https://www.cimbbank.com.ph/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "PH",
+  "countries": [
+    "PH"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "CIMBBankPH",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "prulifeuk-ph",
+      "name": "Pru Life UK",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1640007318/icons/prulifeuk-ph.jpg",
+      "websiteUrl": "https://www.prulifeuk.com.ph/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.cimbbank.com.ph/en/help-and-support/customer-advisories/2020-december/life-insurance-coverage-update.html"
+}

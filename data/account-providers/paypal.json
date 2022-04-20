@@ -3,24 +3,52 @@
   "type": [
     "account"
   ],
-  "bankType": [
-    "universal"
-  ],
+  "bankType": ["universal"],
   "status": "live",
   "name": "PayPal",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/xo/paypal_csv_xo.svg",
-  "verified": false,
-  "websiteUrl": "https://www.paypal.com/de/home",
-  "countryHQ": "DE",
+  "verified": true,
+  "websiteUrl": "https://www.paypal.com/",
+  "countryHQ": "LU",
   "countries": [
-    "DE"
+    "AT",
+    "BE",
+    "BG",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "EE",
+    "ES",
+    "FI",
+    "FR",
+    "GB",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SE",
+    "SI",
+    "SK"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "unknown"
+      "status": "inProgress"
     }
   ],
   "developerPortalUrl": "https://developer.paypal.com",
@@ -31,6 +59,5 @@
   "stockSymbol": "",
   "apiAggregators": [
     "salt-edge"
-  ],
-  "swiftCode": ""
+  ]
 }

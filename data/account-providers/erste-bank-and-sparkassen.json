@@ -113,7 +113,9 @@
     "BERLIN1.3"
   ],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "collections": [],
   "sdks": [],
   "webApplication": true,

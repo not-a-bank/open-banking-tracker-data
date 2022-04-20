@@ -1,0 +1,34 @@
+{
+  "id": "western-union",
+  "type": [
+    "account"
+  ],
+  "bankType": ["private"],
+  "status": "live",
+  "name": "Western Union",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/xf/placeholder_global.svg",
+  "verified": true,
+  "websiteUrl": "https://www.westernunion.com",
+  "countryHQ": "US",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://wu-priora.saltedge.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "WUIBATWW"
+}

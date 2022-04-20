@@ -5,7 +5,8 @@
   "name": "Monese",
   "legalName": "Monese Ltd",
   "ipoStatus": "private",
-  "verified": false,
+  "verified": true,
+  "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296073/radar/icons/Monese.jpg",
   "websiteUrl": "https://monese.com/",
   "ownership": [],
@@ -21,14 +22,14 @@
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["EU"],
+  "countries": ["EU","GB"],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://developer.ob.monese.com/perry/developer/documentation?resource=monese-portal&document=docs/40-sandbox.md"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.ob.monese.com/",
   "apiProducts": [],
-  "apiStandards": [],
+  "apiStandards": ["OBIE"],
   "webApplication": false,
   "mobileApps": [
     {
@@ -44,10 +45,10 @@
   "investorRelationsUrl": null,
   "financialReports": [
     {
-      "label": "2017",
-      "date": "2018-10-02",
-      "url": "https://document-api-images-prod.s3.eu-west-1.amazonaws.com/docs/4si311CT7G1VoSrIkTU3hNS6jisSIComZ2-oPLMAnzc/application-pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAWRGBDBV3APLZIU4E%2F20190326%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20190326T140905Z&X-Amz-Expires=60&X-Amz-Security-Token=FQoGZXIvYXdzEFIaDJuGTEmWmGrohByKcyK3Aw2e1vyVkm5Z74br2buL6SEcbWqUAVcc7xxEDlGFUxm4Xg3lwrJl82BCC2fle7GdDQwfh7iSU9Rk6aPm%2FxLsyFNk2wIXWw0iraAcWhd9KAep%2Bf634Qu%2BSGTqRiu9DQL72zvGFFN27F26fv2zazNbOzF6w5aAujhGdjm8HqfBhgwREhusSfj266Qm9UayyBMIYxdyz2g5DpNB8UBirBLhQVTvvgMol9SswWb6yG4LqscY6r40MSMeUpgLphwW9YnAi16BnkSWvwW2h1ReBm7hJhYejuJ2LmzPCW%2Fw4O9iVd8AOzMsMB0n%2F7LrhqImjzTaAsBALcPLwYAfbHwY7lmCeeqv2tsH89yww46AgbjO5o2H%2FdBbC0ADDJV%2FuihVlf7wuDflh1a%2BGJOt47H5O083m9EhgVTN%2FHIRJpXsw%2BfIMx72pwzbGwyFbYGSRaJzTRVii9%2FAaAieFw5q6aW21A6tFh8%2BcThknUVtRqDhoDUQ0ICsk17ARtL3gBUCEFordb%2FRr%2BnjjOeBYrMantE08DeC7G0F8o723emKzZwlO8XQFfeGFesmcq8fciqZrBflludLsZPGNBG%2FQjkopsrn5AU%3D&X-Amz-SignedHeaders=host&X-Amz-Signature=f0a96a8cb88a26696d0f3c32e5a5a6fc204c9e4d2a9e5edb57474ae907af1186",
-      "documentType": "annualreport"
+      "label": null,
+      "date": null,
+      "url": null,
+      "documentType": null
     }
   ],
   "twitter": "monese",
@@ -104,7 +105,7 @@
       "websiteUrl": "https://www.raisin.com/",
       "id": "raisin-germany",
       "title": "European banking app Monese partners with deposits marketplace Raisin",
-      "desription": "The new feature sees Monese customers gain access to Raisin’s cross-border deposits marketplace so that they can shop around for a competitive interest rate via the various European banks signed up to Raisin.",
+      "desription": "The new feature sees Monese customers gain access to Raisin's cross-border deposits marketplace so that they can shop around for a competitive interest rate via the various European banks signed up to Raisin.",
       "sourceUrl": "https://techcrunch.com/2019/09/03/monese-raisin/",
       "sourceDate": "2019-09-03"
     },

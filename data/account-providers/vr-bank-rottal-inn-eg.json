@@ -1,0 +1,34 @@
+{
+  "id": "vr-bank-rottal-inn-eg",
+  "type": [
+    "account"
+  ],
+  "bankType": ["universal"],
+  "status": "live",
+  "name": "VR-Bank Rottal-Inn eG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/vr_at.svg",
+  "verified": true,
+  "websiteUrl": "https://www.vrbk.de/wir-fuer-sie/danke_braunau.html",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.banking.co.at/psd2/m107/home",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "VRBKAT21XXX"
+}

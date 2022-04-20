@@ -13,9 +13,15 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595434385/radar/icons/finin-in.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595437755/icons/finin-in.jpg",
   "websiteUrl": "https://www.finin.in/",
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "bankopen-co",
+      "shareholderName": "Open",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1574179180/catalog/bankopen-co/icon128x128.jpg"
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "IN",
   "countries": [
@@ -28,6 +34,7 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
@@ -43,6 +50,7 @@
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],

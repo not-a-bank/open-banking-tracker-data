@@ -1,0 +1,34 @@
+{
+  "id": "bank-99",
+  "type": [
+    "account"
+  ],
+  "bankType": ["universal"],
+  "status": "live",
+  "name": "Bank 99",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/bank_99_oauth_client_at.svg",
+  "verified": true,
+  "websiteUrl": "https://bank99.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.banking.co.at/psd2/m122/home",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "SPBAATWWXXX"
+}
