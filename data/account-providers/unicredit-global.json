@@ -3,22 +3,25 @@
   "type": [
     "account"
   ],
-  "bankType": ["universal"],
-  "status": "live",
-  "name": "Bank Austria (Unicredit eBanking Global)",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/unicredit_at.svg",
-  "verified": true,
-  "websiteUrl": "https://www.unicreditgroup.eu/en.html",
-  "countryHQ": "AT",
-  "countries": [
-    "AT"
+  "bankType": [
+    "universal"
   ],
-  "webApplication": true,
+  "status": "live",
+  "name": "Hypovereinsbank eBanking Global",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/unicredit_at.svg",
+  "verified": false,
+  "websiteUrl": "https://www.hypovereinsbank.de/hvb/privatkunden",
+  "countryHQ": "DE",
+  "countries": [
+    "AT",
+    "DE"
+  ],
+  "webApplication": false,
   "mobileApps": [],
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "unknown"
     }
   ],
   "developerPortalUrl": "https://developer.unicredit.eu",

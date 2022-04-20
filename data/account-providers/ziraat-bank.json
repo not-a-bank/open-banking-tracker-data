@@ -1,0 +1,36 @@
+{
+  "id": "ziraat-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Ziraat Bank AG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/ziraat_bank_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.ziraatbank.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.bank-verlag.de/psd2-degussabank",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "TCZBDEFFXXX"
+}

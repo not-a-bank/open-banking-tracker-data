@@ -1,0 +1,36 @@
+{
+  "id": "merck-finck",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Merck Finck Privatbankiers AG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/merck_finck_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.merckfinck.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.bank-verlag.de/psd2-degussabank",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "MEFIDEMM100"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "vsk-goch-kevelaer-weeze",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "VSK Goch-Kevelaer-Weeze",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/vsk_goch_kevelaer_weeze_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.sparkasse-goch.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "WELADED1GOC"
+}

@@ -3,25 +3,28 @@
   "type": [
     "account"
   ],
-  "bankType": ["private"],
+  "bankType": [
+    "private"
+  ],
   "status": "live",
   "name": "Sodexo",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/sodexo_at.svg",
-  "verified": true,
-  "websiteUrl": "https://www.sodexo.at",
-  "countryHQ": "AT",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/sodexo_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.sodexo.de",
+  "countryHQ": "DE",
   "countries": [
-    "AT"
+    "AT",
+    "DE"
   ],
-  "webApplication": true,
+  "webApplication": false,
   "mobileApps": [],
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://priora.saltedge.com/docs/berlingroup/sodexo_connector_austria",
+  "developerPortalUrl": "https://priora.saltedge.com/docs/berlingroup/sodexo_connector_germany",
   "apiStandards": [],
   "apiProducts": [],
   "ownership": [],

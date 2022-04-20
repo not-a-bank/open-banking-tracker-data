@@ -1,0 +1,36 @@
+{
+  "id": "sparda-bank-baden-wurttemberg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Sparda-Bank Baden-Württemberg eG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/sparda_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.sparda-bw.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sopra-financial-technology.com/psd2/psd2-english",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "GENODEF1S02"
+}

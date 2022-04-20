@@ -1,7 +1,11 @@
 {
   "id": "kontist",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Kontist",
   "legalName": "Kontist GmbH",
   "description": "Banking for Freelancers & Self-Employed. Kontist saves you taxes, time, and money. The only bank account that calculates and reserves your taxes in real-time. Open your account for free in less than 10 minutes.",
@@ -12,10 +16,12 @@
   "websiteUrl": "https://kontist.com/",
   "stateOwned": false,
   "countryHQ": "DE",
-  "countries": ["DE"],
+  "countries": [
+    "DE"
+  ],
   "ownership": [],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "ready"
     }
@@ -28,7 +34,9 @@
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "GraphQL api to retrieve details of an account such as balance transactions, balance and details.",
       "documentationUrl": "https://kontist.dev/docs/#fetch-transactions",
       "apiReferenceUrl": "https://api.kontist.com/api/graphql",
@@ -38,7 +46,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "GraphQL api to initiate a single or multiple payments and retrieve information on the status of the transaction.",
       "documentationUrl": "https://kontist.dev/docs/#create-a-new-transfer",
       "apiReferenceUrl": "https://api.kontist.com/api/graphql",
@@ -49,7 +59,9 @@
       "label": "Cards",
       "type": "cards",
       "description": "GraphQL api to manage cards e.g. change a PIN, block or unblock cards or request a replacement.",
-      "categories": ["cards"],
+      "categories": [
+        "cards"
+      ],
       "documentationUrl": "https://kontist.dev/docs/",
       "apiReferenceUrl": "https://api.kontist.com/api/graphql",
       "premium": false,
@@ -57,7 +69,9 @@
     }
   ],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "webApplication": true,
   "sdks": [
     {
