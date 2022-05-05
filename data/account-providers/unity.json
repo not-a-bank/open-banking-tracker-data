@@ -1,34 +1,29 @@
 {
-  "id": "barclaycard",
+  "id": "unity",
   "type": [
     "account"
   ],
   "bankType": [
-    "private"
+    "universal"
   ],
   "status": "live",
-  "name": "Barclaycard",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/barclaycard_commercial_payments_gb.svg",
+  "name": "Unity Trust Bank",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/unity_gb.svg",
   "verified": false,
-  "websiteUrl": "https://www.barclays.de",
-  "countryHQ": "DE",
+  "websiteUrl": "https://www.unity.co.uk",
+  "countryHQ": "GB",
   "countries": [
-    "DE",
     "GB"
   ],
   "webApplication": false,
   "mobileApps": [],
   "compliance": [
     {
-      "regulation": "PSD2",
-      "status": "unknown"
-    },
-    {
       "regulation": "OB",
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://developer.barclays.com",
+  "developerPortalUrl": "https://token.io/developer",
   "apiStandards": [],
   "apiProducts": [],
   "ownership": [],
@@ -37,5 +32,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "BARCDEHAXXX"
+  "swiftCode": "UYTBGB21"
 }

@@ -1,34 +1,29 @@
 {
-  "id": "barclaycard",
+  "id": "token-airwallex",
   "type": [
     "account"
   ],
   "bankType": [
-    "private"
+    "universal"
   ],
   "status": "live",
-  "name": "Barclaycard",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/barclaycard_commercial_payments_gb.svg",
+  "name": "Airwallex (Token)",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/token_airwallex_gb.svg",
   "verified": false,
-  "websiteUrl": "https://www.barclays.de",
-  "countryHQ": "DE",
+  "websiteUrl": "https://www.airwallex.com",
+  "countryHQ": "GB",
   "countries": [
-    "DE",
     "GB"
   ],
   "webApplication": false,
   "mobileApps": [],
   "compliance": [
     {
-      "regulation": "PSD2",
-      "status": "unknown"
-    },
-    {
       "regulation": "OB",
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://developer.barclays.com",
+  "developerPortalUrl": "https://airwallex.dashboard.token.io",
   "apiStandards": [],
   "apiProducts": [],
   "ownership": [],
@@ -37,5 +32,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "BARCDEHAXXX"
+  "swiftCode": "AIPTAU32"
 }

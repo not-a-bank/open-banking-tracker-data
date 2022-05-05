@@ -1,5 +1,5 @@
 {
-  "id": "barclaycard",
+  "id": "coutts",
   "type": [
     "account"
   ],
@@ -7,28 +7,23 @@
     "private"
   ],
   "status": "live",
-  "name": "Barclaycard",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/barclaycard_commercial_payments_gb.svg",
+  "name": "Coutts",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/coutts_clearspend_gb.svg",
   "verified": false,
-  "websiteUrl": "https://www.barclays.de",
-  "countryHQ": "DE",
+  "websiteUrl": "https://www.coutts.com",
+  "countryHQ": "GB",
   "countries": [
-    "DE",
     "GB"
   ],
   "webApplication": false,
   "mobileApps": [],
   "compliance": [
     {
-      "regulation": "PSD2",
-      "status": "unknown"
-    },
-    {
       "regulation": "OB",
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://developer.barclays.com",
+  "developerPortalUrl": "https://developer.coutts.useinfinite.io",
   "apiStandards": [],
   "apiProducts": [],
   "ownership": [],
@@ -37,5 +32,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "BARCDEHAXXX"
+  "swiftCode": "COUTGB31XXX"
 }

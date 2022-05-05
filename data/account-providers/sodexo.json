@@ -14,13 +14,18 @@
   "countryHQ": "DE",
   "countries": [
     "AT",
-    "DE"
+    "DE",
+    "GB"
   ],
   "webApplication": false,
   "mobileApps": [],
   "compliance": [
     {
       "regulation": "PSD2",
+      "status": "unknown"
+    },
+    {
+      "regulation": "OB",
       "status": "unknown"
     }
   ],

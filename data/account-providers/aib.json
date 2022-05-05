@@ -1,34 +1,29 @@
 {
-  "id": "barclaycard",
+  "id": "aib",
   "type": [
     "account"
   ],
   "bankType": [
-    "private"
+    "universal"
   ],
   "status": "live",
-  "name": "Barclaycard",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/barclaycard_commercial_payments_gb.svg",
+  "name": "Allied Irish Bank",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/aib_gb.svg",
   "verified": false,
-  "websiteUrl": "https://www.barclays.de",
-  "countryHQ": "DE",
+  "websiteUrl": "https://aib.ie",
+  "countryHQ": "GB",
   "countries": [
-    "DE",
     "GB"
   ],
   "webApplication": false,
   "mobileApps": [],
   "compliance": [
     {
-      "regulation": "PSD2",
-      "status": "unknown"
-    },
-    {
       "regulation": "OB",
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://developer.barclays.com",
+  "developerPortalUrl": "https://developer.firsttrustbank.co.uk",
   "apiStandards": [],
   "apiProducts": [],
   "ownership": [],
@@ -37,5 +32,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "BARCDEHAXXX"
+  "swiftCode": "AIBKGB2LXXX"
 }

@@ -1,7 +1,11 @@
 {
   "id": "b",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "B",
   "legalName": "Clydesdale Bank PLC",
   "ipoStatus": "private",
@@ -10,19 +14,21 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1553855928/radar/icons/b.jpg",
   "websiteUrl": "https://www.youandb.co.uk/",
   "ownership": [
-    { 
+    {
       "shareholderName": "CYBG",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552491985/radar/icons/CYBG.jpg",
       "providerId": "cybg",
-      "percentage": 100.0,
+      "percentage": 100,
       "sourceURL": "https://www.youandb.co.uk/"
     }
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
@@ -35,7 +41,8 @@
   "apiStandards": [],
   "apiAggregators": [
     "openwrks",
-    "friendlyscore"
+    "friendlyscore",
+    "salt-edge"
   ],
   "webApplication": true,
   "mobileApps": [
