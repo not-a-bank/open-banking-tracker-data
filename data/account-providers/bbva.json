@@ -25,12 +25,17 @@
   "countryHQ": "ES",
   "countries": [
     "ES",
-    "PT"
+    "PT",
+    "GB"
   ],
   "compliance": [
     {
       "regulation": "PSD2",
       "status": "inProgress"
+    },
+    {
+      "regulation": "OB",
+      "status": "unknown"
     }
   ],
   "sandbox": {

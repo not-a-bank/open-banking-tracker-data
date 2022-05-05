@@ -34,7 +34,9 @@
   "apiAuth": [],
   "apiProducts": [],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],

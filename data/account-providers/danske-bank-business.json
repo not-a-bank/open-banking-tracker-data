@@ -13,13 +13,18 @@
   "websiteUrl": "https://danskebank.de",
   "countryHQ": "DE",
   "countries": [
-    "DE"
+    "DE",
+    "GB"
   ],
   "webApplication": false,
   "mobileApps": [],
   "compliance": [
     {
       "regulation": "PSD2",
+      "status": "unknown"
+    },
+    {
+      "regulation": "OB",
       "status": "unknown"
     }
   ],

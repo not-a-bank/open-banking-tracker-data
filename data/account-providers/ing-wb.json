@@ -11,14 +11,20 @@
   "websiteUrl": "https://ing.com",
   "countryHQ": "NL",
   "countries": [
-    "AT"
+    "AT",
+    "DE",
+    "GB"
   ],
   "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "unknown"
+    },
+    {
+      "regulation": "OB",
+      "status": "unknown"
     }
   ],
   "developerPortalUrl": "https://developer.ing.com",

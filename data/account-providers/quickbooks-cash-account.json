@@ -1,5 +1,5 @@
 {
-  "id": "barclaycard",
+  "id": "quickbooks-cash-account",
   "type": [
     "account"
   ],
@@ -7,28 +7,23 @@
     "private"
   ],
   "status": "live",
-  "name": "Barclaycard",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/barclaycard_commercial_payments_gb.svg",
+  "name": "Quickbooks Cash Account",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/quickbooks_cash_account_gb.svg",
   "verified": false,
-  "websiteUrl": "https://www.barclays.de",
-  "countryHQ": "DE",
+  "websiteUrl": "https://quickbooks.intuit.com",
+  "countryHQ": "GB",
   "countries": [
-    "DE",
     "GB"
   ],
   "webApplication": false,
   "mobileApps": [],
   "compliance": [
     {
-      "regulation": "PSD2",
-      "status": "unknown"
-    },
-    {
       "regulation": "OB",
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://developer.barclays.com",
+  "developerPortalUrl": "https://priora.saltedge.com/docs/berlingroup/quickbooks_cash_account_(prod)",
   "apiStandards": [],
   "apiProducts": [],
   "ownership": [],
@@ -37,5 +32,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "BARCDEHAXXX"
+  "swiftCode": ""
 }
