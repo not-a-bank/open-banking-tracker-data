@@ -1,0 +1,36 @@
+{
+  "id": "ccamtv",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Caixa de Credito Agrícola Mutuo de Torres Vedras",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/ccamtv_oauth_client_pt.svg",
+  "verified": false,
+  "websiteUrl": "https://ccamtvonline.ccamtv.pt",
+  "countryHQ": "PT",
+  "countries": [
+    "PT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sibsapimarket.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CTIUPTP1XXX"
+}

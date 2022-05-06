@@ -19,7 +19,8 @@
   "stateOwned": false,
   "countryHQ": "ES",
   "countries": [
-    "ES"
+    "ES",
+    "PT"
   ],
   "compliance": [
     {
@@ -39,7 +40,8 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid"
+    "plaid",
+    "salt-edge"
   ],
   "collections": [],
   "webApplication": false,

@@ -1,0 +1,36 @@
+{
+  "id": "cemah",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Caixa Económica da Misericórdia de Angra do Heroísmo",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/cemah_pt.svg",
+  "verified": false,
+  "websiteUrl": "https://www.cemah.pt",
+  "countryHQ": "PT",
+  "countries": [
+    "PT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sibsapimarket.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CEMAPTP2XXX"
+}

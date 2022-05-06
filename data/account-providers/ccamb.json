@@ -1,0 +1,36 @@
+{
+  "id": "ccamb",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Caixa de Crédito Agrícola Mútuo de Bombarral CRL",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/ccamb_oauth_client_pt.svg",
+  "verified": false,
+  "websiteUrl": "http://www.ccambombarral.pt",
+  "countryHQ": "PT",
+  "countries": [
+    "PT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sibsapimarket.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CERTPTP1"
+}

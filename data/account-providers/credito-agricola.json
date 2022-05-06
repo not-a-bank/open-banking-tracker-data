@@ -1,0 +1,36 @@
+{
+  "id": "credito-agricola",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Caixa Central de Crédito Agrícola Mútuo CRL",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/credito_agricola_oauth_client_pt.svg",
+  "verified": false,
+  "websiteUrl": "https://www.creditoagricola.pt",
+  "countryHQ": "PT",
+  "countries": [
+    "PT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sibsapimarket.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CCCMPTPL"
+}

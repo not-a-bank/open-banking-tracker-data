@@ -1,0 +1,36 @@
+{
+  "id": "banco-comercial-portugues",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Banco Comercial Português S.A",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/banco_comercial_portugues_oauth_client_pt.svg",
+  "verified": false,
+  "websiteUrl": "https://ind.millenniumbcp.pt",
+  "countryHQ": "PT",
+  "countries": [
+    "PT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sibsapimarket.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BCOMPTPL"
+}
