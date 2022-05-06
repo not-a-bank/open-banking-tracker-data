@@ -1,0 +1,36 @@
+{
+  "id": "selfbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Self Bank",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/selfbank_es.svg",
+  "verified": false,
+  "websiteUrl": "https://www.selfbank.es",
+  "countryHQ": "ES",
+  "countries": [
+    "ES"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/selfbank",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "SELFESMM"
+}
