@@ -1,0 +1,36 @@
+{
+  "id": "caixa-de-enginyers",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Caixa de Enginyers",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/caixa_enginyers_xls_es.svg",
+  "verified": false,
+  "websiteUrl": "https://www.caixaenginyers.com",
+  "countryHQ": "ES",
+  "countries": [
+    "ES"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://apimarket.caixaenginyers.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CDENESBB"
+}

@@ -22,9 +22,15 @@
   "stateOwned": false,
   "countryHQ": "NG",
   "countries": [
-    "NG"
+    "NG",
+    "GB"
   ],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
@@ -36,7 +42,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],

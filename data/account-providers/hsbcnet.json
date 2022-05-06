@@ -11,8 +11,11 @@
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/xo/hsbcnet_xo.svg",
   "verified": false,
   "websiteUrl": "https://www.hsbcnet.com",
-  "countryHQ": "IT",
+  "countryHQ": "DE",
   "countries": [
+    "DE",
+    "GB",
+    "ES",
     "IT"
   ],
   "webApplication": false,
@@ -20,6 +23,10 @@
   "compliance": [
     {
       "regulation": "PSD2",
+      "status": "unknown"
+    },
+    {
+      "regulation": "OB",
       "status": "unknown"
     }
   ],

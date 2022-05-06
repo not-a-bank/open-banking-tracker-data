@@ -1,0 +1,36 @@
+{
+  "id": "jpmel",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Chase UK",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/jpmel_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.chase.co.uk",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.jpmorgan.com/products/jpmel-accounts-payments",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CHASGB22"
+}

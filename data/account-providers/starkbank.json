@@ -1,0 +1,125 @@
+{
+  "id": "starkbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Stark Bank",
+  "description": "Stark Bank is a smart bank account that aids a technological advancement of a company. It is a financial technology that allows companies to expand their operations by allowing them to make extra transfers, payments, and charges.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1649719210/radar/icons/starkbank.png",
+  "websiteUrl": "https://starkbank.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "BR",
+  "countries": [
+    "BR"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "starkbank",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "python",
+      "name": "Python",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557115477/catalog/python/icon128x128.png",
+      "websiteUrl": "https://www.python.org/"
+    },
+    {
+      "id": "node",
+      "name": "Node",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555963500/catalog/node/icon128x128.png",
+      "websiteUrl": "https://hello.node.io"
+    },
+    {
+      "id": "php",
+      "name": "PHP",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557631590/catalog/php/icon128x128.png",
+      "websiteUrl": "https://www.php.net/"
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151307/catalog/java/icon128x128.png",
+      "websiteUrl": "https://www.java.com/"
+    },
+    {
+      "id": "ruby-com",
+      "name": "Ruby",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1581634301/catalog/ruby-com/icon128x128.jpg",
+      "websiteUrl": "https://www.ruby.com/"
+    },
+    {
+      "id": "ruby",
+      "name": "Ruby",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557631589/catalog/ruby/icon128x128.png",
+      "websiteUrl": "https://www.ruby-lang.org/"
+    },
+    {
+      "id": "elixir",
+      "name": "Elixir",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559924064/catalog/elixir/icon128x128.png",
+      "websiteUrl": "https://elixir-lang.org/"
+    },
+    {
+      "id": "clojure",
+      "name": "Clojure",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557678570/catalog/clojure/icon128x128.png",
+      "websiteUrl": "https://clojure.org/"
+    },
+    {
+      "id": "curl",
+      "name": "cURL",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1559227062/catalog/curl/icon128x128.png",
+      "websiteUrl": "https://curl.haxx.se/"
+    },
+    {
+      "id": "sandbox-in",
+      "name": "Sandbox",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1640656799/icons/sandbox-in.jpg",
+      "websiteUrl": "https://sandbox.co.in/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}

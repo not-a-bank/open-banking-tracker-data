@@ -1,0 +1,36 @@
+{
+  "id": "hyperjar",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "HyperJar",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/hyperjar_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://hyperjar.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://priora.saltedge.com/docs/berlingroup/hyperjar",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

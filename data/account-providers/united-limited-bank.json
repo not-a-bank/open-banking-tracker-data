@@ -1,0 +1,36 @@
+{
+  "id": "united-limited-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "United National Bank Limited (UBL)",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/united_limited_bank_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.ubluk.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://obuk-dev.ubluk.com/",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "NBPAGB2LXXX"
+}

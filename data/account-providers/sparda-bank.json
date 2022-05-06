@@ -1,0 +1,34 @@
+{
+  "id": "sparda-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": ["universal"],
+  "status": "live",
+  "name": "SPARDA Bank (BAWAG P.S.K.)",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/sparda_at.svg",
+  "verified": true,
+  "websiteUrl": "http://www.spardawien.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.bawaggroup.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "SPDAAT21XXX"
+}

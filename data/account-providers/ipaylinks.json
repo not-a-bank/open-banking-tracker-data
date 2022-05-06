@@ -1,0 +1,36 @@
+{
+  "id": "ipaylinks",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "iPayLinks",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/ipaylinks_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.ipaylinks.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://priora.saltedge.com/docs/berlingroup/ipaylinks_uk_live",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

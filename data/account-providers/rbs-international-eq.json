@@ -1,0 +1,36 @@
+{
+  "id": "rbs-international-eq",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Royal Bank of Scotland International Limited EQ",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/rbs_digital_banking_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.rbsinternational.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.bankofapis.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "RBOSLULL"
+}

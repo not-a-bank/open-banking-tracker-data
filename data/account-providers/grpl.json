@@ -1,0 +1,36 @@
+{
+  "id": "grpl",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Global Reach Group",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/grpl_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.globalreachgroup.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://token.io/developer",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "GRPLGB2L"
+}

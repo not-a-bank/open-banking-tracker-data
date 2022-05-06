@@ -1,0 +1,36 @@
+{
+  "id": "newday-opus",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Opus Card",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/newday_opus_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://newday.co.uk",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.newdaycards.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

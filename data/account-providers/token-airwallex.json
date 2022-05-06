@@ -1,0 +1,36 @@
+{
+  "id": "token-airwallex",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Airwallex (Token)",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/token_airwallex_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.airwallex.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://airwallex.dashboard.token.io",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "AIPTAU32"
+}

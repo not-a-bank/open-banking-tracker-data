@@ -1,0 +1,212 @@
+{
+  "id": "nearside",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Nearside",
+  "description": "FDIC-insured business checking account and cashback rewards debit card. Get 2.2% cashback in 2022 on all eligible business purchases. Rewards, discounts, no overdraft fees or monthly minimums, and a Mastercard Enhanced Debit Card. Get started today!",
+  "legalName": "Nearside Business Corp. Inc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1650583336/radar/icons/nearside.png",
+  "websiteUrl": "https://www.nearside.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/nearside-business-checking/id1556919357"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.hatchcard.android&hl=en_us&gl=us"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "getnearside",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [
+    {
+      "id": "constant-contact",
+      "name": "Constant Contact",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456687/catalog/constant-contact/icon128x128.png",
+      "websiteUrl": "https://www.constantcontact.com/"
+    },
+    {
+      "id": "drip",
+      "name": "Drip",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456668/catalog/drip/icon128x128.png",
+      "websiteUrl": "https://www.drip.com/"
+    },
+    {
+      "id": "gusto",
+      "name": "Gusto",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554403247/catalog/gusto/icon128x128.jpg",
+      "websiteUrl": "https://gusto.com/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "pandadoc",
+      "name": "PandaDoc",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1535539014/catalog/pandadoc/icon128x128.png",
+      "websiteUrl": "https://pandadoc.com"
+    },
+    {
+      "id": "semrush",
+      "name": "SEMRush",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555962396/catalog/semrush/icon128x128.png",
+      "websiteUrl": "https://semrush.com"
+    },
+    {
+      "id": "signeasy",
+      "name": "SignEasy",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1591042184/catalog/signeasy/icon128x128.jpg",
+      "websiteUrl": "https://signeasy.com/"
+    },
+    {
+      "id": "unbounce",
+      "name": "Unbounce",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456614/catalog/unbounce/icon128x128.png",
+      "websiteUrl": "https://unbounce.com/"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "yelp",
+      "name": "Yelp",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1555961889/catalog/yelp/icon128x128.png",
+      "websiteUrl": "https://yelp.com"
+    },
+    {
+      "id": "zendesk",
+      "name": "Zendesk",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456178/catalog/zendesk/icon128x128.png",
+      "websiteUrl": "https://www.zendesk.com/"
+    },
+    {
+      "id": "zenefits",
+      "name": "Zenefits",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554428048/catalog/zenefits/icon128x128.jpg",
+      "websiteUrl": "https://www.zenefits.com/"
+    }
+  ],
+  "integrations": [
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531054135/catalog/airbnb/icon128x128.png"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547936484/catalog/amazon/icon128x128.png",
+      "websiteUrl": "https://amazon.com"
+    },
+    {
+      "id": "etsy",
+      "name": "Etsy",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055870/catalog/etsy/icon128x128.png",
+      "websiteUrl": "https://etsy.com"
+    },
+    {
+      "id": "expensify",
+      "name": "Expensify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055887/catalog/expensify/icon128x128.png",
+      "websiteUrl": "https://www.expensify.com/"
+    },
+    {
+      "id": "lyft",
+      "name": "Lyft",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531305330/catalog/lyft/icon128x128.png"
+    },
+    {
+      "id": "gusto",
+      "name": "Gusto",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554403247/catalog/gusto/icon128x128.jpg",
+      "websiteUrl": "https://gusto.com/"
+    },
+    {
+      "id": "paypal",
+      "name": "PayPal",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456398/catalog/paypal/icon128x128.png",
+      "websiteUrl": "https://www.paypal.com/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "shopify",
+      "name": "Shopify",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456131/catalog/shopify/icon128x128.png",
+      "websiteUrl": "https://www.shopify.com/"
+    },
+    {
+      "id": "xero",
+      "name": "Xero",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "id": "venmo",
+      "name": "Venmo",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1566511738/catalog/venmo/icon128x128.png",
+      "websiteUrl": "https://venmo.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": "https://www.nearside.com/integrations"
+}

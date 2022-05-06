@@ -1,0 +1,125 @@
+{
+  "id": "tymebank-za",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "TymeBank",
+  "description": "TymeBank is the first bank in South Africa to receive a full banking license in almost 20 years and has been signing up approximately 100,000 customers a month since its launch in February 2019.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1635629267/icons/tymebank-za.jpg",
+  "websiteUrl": "https://www.tymebank.co.za/",
+  "ownership": [
+    {
+      "providerId": "tyme",
+      "shareholderName": "Tyme",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1635622860/icons/tyme.png"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "ZA",
+  "countries": [
+    "ZA"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "tymebankza",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [
+    {
+      "id": "amazon-web-services",
+      "name": "Amazon Web Services (AWS)",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547697149/catalog/amazon-web-services/icon128x128.png",
+      "websiteUrl": "https://amazon.com"
+    },
+    {
+      "id": "mambu",
+      "name": "Mambu",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1573437321/catalog/mambu/icon128x128.jpg",
+      "websiteUrl": "https://www.mambu.com/"
+    },
+    {
+      "id": "docker",
+      "name": "Docker",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1547699319/catalog/docker/icon128x128.jpg",
+      "websiteUrl": "https://www.docker.com/"
+    },
+    {
+      "id": "wso2",
+      "name": "WSO2",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1578495802/catalog/wso2/icon128x128.jpg",
+      "websiteUrl": "https://wso2.com/"
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151307/catalog/java/icon128x128.png",
+      "websiteUrl": "https://www.java.com/"
+    },
+    {
+      "id": "snowflake",
+      "name": "Snowflake",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1537439350/catalog/snowflake/icon128x128.svg",
+      "websiteUrl": "https://www.snowflake.com/"
+    },
+    {
+      "id": "tableau",
+      "name": "Tableau",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554722417/catalog/tableau/icon128x128.jpg",
+      "websiteUrl": "https://tableau.com"
+    },
+    {
+      "id": "databricks",
+      "name": "Databricks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571955935/catalog/databricks/icon128x128.png",
+      "websiteUrl": "https://databricks.com/"
+    },
+    {
+      "id": "gdslink",
+      "name": "GDS Link",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1635629270/icons/gdslink.jpg",
+      "websiteUrl": "https://www.gdslink.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

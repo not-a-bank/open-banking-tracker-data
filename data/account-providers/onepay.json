@@ -1,0 +1,36 @@
+{
+  "id": "onepay",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Onepay",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/onepay_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://onepay.co.uk",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://priora.saltedge.com/docs/berlingroup/onepay_live",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

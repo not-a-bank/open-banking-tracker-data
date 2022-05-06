@@ -1,0 +1,36 @@
+{
+  "id": "finom",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "FINOM",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/finom_de.svg",
+  "verified": false,
+  "websiteUrl": "https://finom.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a-portal.solaris-sandbox.de/#/apis/25/136",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

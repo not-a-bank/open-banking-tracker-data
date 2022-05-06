@@ -1,0 +1,34 @@
+{
+  "id": "anadi-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": ["universal"],
+  "status": "live",
+  "name": "Austrian Anadi Bank",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/anadi_bank_oauth_client_at.svg",
+  "verified": true,
+  "websiteUrl": "https://anadibank.com",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.banking.co.at/psd2/m015/home",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "HAABAT2KXXX"
+}

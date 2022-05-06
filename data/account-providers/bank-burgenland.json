@@ -1,0 +1,34 @@
+{
+  "id": "bank-burgenland",
+  "type": [
+    "account"
+  ],
+  "bankType": ["universal"],
+  "status": "live",
+  "name": "Bank Burgenland",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/bank_burgenland_oauth_client_at.svg",
+  "verified": true,
+  "websiteUrl": "https://www.bank-bgld.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.banking.co.at/psd2/m120/home",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "EHBBAT2EXXX"
+}

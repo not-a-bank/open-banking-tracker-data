@@ -1,0 +1,36 @@
+{
+  "id": "talkremit",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "TalkRemit",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/talkremit_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.talkremit.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://token.io/developer",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "TALKGB22"
+}

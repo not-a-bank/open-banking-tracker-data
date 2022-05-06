@@ -26,19 +26,24 @@
   "countries": [
     "ES",
     "PT",
+    "GB",
     "IT"
   ],
   "compliance": [
     {
       "regulation": "PSD2",
       "status": "inProgress"
+    },
+    {
+      "regulation": "OB",
+      "status": "unknown"
     }
   ],
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://www.bbva.com/en/bbva-launches-open-banking-business/"
   },
-  "developerPortalUrl": "https://bbvaopenplatform.com/content/home",
+  "developerPortalUrl": "https://www.bbvaapimarket.com/en/banking-apis/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,

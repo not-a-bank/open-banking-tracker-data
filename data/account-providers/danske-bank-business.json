@@ -1,0 +1,41 @@
+{
+  "id": "danske-bank-business",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "business"
+  ],
+  "status": "live",
+  "name": "Danske Bank Business",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/danske_bank_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://danskebank.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE",
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    },
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developers.danskebank.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

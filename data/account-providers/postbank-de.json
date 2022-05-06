@@ -44,7 +44,10 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": ["equensworldline"],
+  "apiAggregators": [
+    "equensworldline",
+    "salt-edge"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
