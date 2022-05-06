@@ -1,20 +1,18 @@
 {
-  "id": "hsbcnet",
+  "id": "cr-villamalea",
   "type": [
     "account"
   ],
   "bankType": [
-    "business"
+    "universal"
   ],
   "status": "live",
-  "name": "HSBCnet",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/xo/hsbcnet_xo.svg",
+  "name": "Caja Rural Villamalea",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/cr_es.svg",
   "verified": false,
-  "websiteUrl": "https://www.hsbcnet.com",
-  "countryHQ": "DE",
+  "websiteUrl": "https://www.bde.es",
+  "countryHQ": "ES",
   "countries": [
-    "DE",
-    "GB",
     "ES"
   ],
   "webApplication": false,
@@ -23,13 +21,9 @@
     {
       "regulation": "PSD2",
       "status": "unknown"
-    },
-    {
-      "regulation": "OB",
-      "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://developer.hsbc.com",
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
   "apiStandards": [],
   "apiProducts": [],
   "ownership": [],
@@ -38,5 +32,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": ""
+  "swiftCode": "BCOEESMM144"
 }

@@ -3,7 +3,9 @@
   "type": [
     "account"
   ],
-  "bankType": ["business"],
+  "bankType": [
+    "business"
+  ],
   "status": "live",
   "name": "ING Wholesale Banking (InsideBusiness)",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/ing_diba_at.svg",
@@ -13,7 +15,8 @@
   "countries": [
     "AT",
     "DE",
-    "GB"
+    "GB",
+    "ES"
   ],
   "webApplication": true,
   "mobileApps": [],
