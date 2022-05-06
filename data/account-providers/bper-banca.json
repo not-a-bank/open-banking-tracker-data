@@ -43,7 +43,10 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
-  "apiAggregators": ["equensworldline"],
+  "apiAggregators": [
+    "equensworldline",
+    "salt-edge"
+  ],
   "apiProducts": [
     {
       "label": "Accounts",

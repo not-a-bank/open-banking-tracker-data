@@ -1,0 +1,36 @@
+{
+  "id": "bcc-s-giorgio-quinto-valle-agno",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "BANCA Di Verona E Vicenza Societa' Cooperativa",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bcc_s_giorgio_quinto_valle_agno_oauth_client_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.inbank.it/go/cms/08807.htm",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "ICRAITRRBSG"
+}

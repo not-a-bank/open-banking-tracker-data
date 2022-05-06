@@ -1,0 +1,36 @@
+{
+  "id": "civibank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Banca Popolare di Cividale",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/civibank_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.civibank.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cse-cividale-psd2.obp.sia.eu/sapr/#!devHome",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CIVIIT2CXXX"
+}

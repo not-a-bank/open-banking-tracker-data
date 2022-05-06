@@ -1,0 +1,36 @@
+{
+  "id": "cassa-centrale-banca",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Cassa Centrale Banca Credito Coop. Italiano",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/cassa_centrale_banca_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.cassacentrale.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CCRTIT2T"
+}

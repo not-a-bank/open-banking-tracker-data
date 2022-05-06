@@ -1,0 +1,36 @@
+{
+  "id": "cassa-rurale-fvg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Cassa Rurale FVG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/cassa_rurale_fvg_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.inbank.it/go/cms/99999.htm",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CCRTIT2T96A"
+}

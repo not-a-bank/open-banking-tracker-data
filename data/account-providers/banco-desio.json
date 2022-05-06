@@ -1,0 +1,36 @@
+{
+  "id": "banco-desio",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Banco Desio e della Brianza Privati e Aziende (Dweb)",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banco_desio_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.bancodesio.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.cedacri.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BDBDIT22"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fineco",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Fineco",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/fineco_it.svg",
+  "verified": false,
+  "websiteUrl": "https://finecobank.com/it/online",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://devportal.finecobank.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "FEBIITM2"
+}

@@ -112,7 +112,9 @@
     "BERLIN"
   ],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "collections": [],
   "apiAccess": "verifiedTpp",
   "webApplication": false,

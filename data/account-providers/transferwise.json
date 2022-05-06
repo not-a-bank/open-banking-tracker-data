@@ -1,7 +1,11 @@
 {
   "id": "transferwise",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Transferwise",
   "legalName": "Transferwise",
   "ipoStatus": "private",
@@ -11,16 +15,46 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["EU","US","AU","BR","CH","CA","NZ","JP","SG","IN","HK","MY","PH","PK","MA","TH","AE","UA","ID","CO","TR","MX","RU","CN","KR","LK","BD","VN","ZA"],
+  "countries": [
+    "EU",
+    "US",
+    "AU",
+    "BR",
+    "CH",
+    "CA",
+    "NZ",
+    "JP",
+    "SG",
+    "IN",
+    "HK",
+    "MY",
+    "PH",
+    "PK",
+    "MA",
+    "TH",
+    "AE",
+    "UA",
+    "ID",
+    "CO",
+    "TR",
+    "MX",
+    "RU",
+    "CN",
+    "KR",
+    "LK",
+    "BD",
+    "VN",
+    "ZA"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
-    }    
+    }
   ],
   "sandbox": {
     "status": "available"
@@ -29,13 +63,17 @@
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": true,
-  "apiAuth": ["OAUTH2"],
+  "apiAuth": [
+    "OAUTH2"
+  ],
   "apiReferenceUrl": "https://www.openbanking.org.uk/customers/regulated-providers/transferwise/",
   "apiProducts": [
     {
       "label": "Payouts and Account Automation",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "This lets you to automate how you use your TransferWise account. You can automate payments, connect your business tools, and create ways to manage your finances.",
       "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-payouts-and-account-automation",
       "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-payouts-and-account-automation",
@@ -45,7 +83,9 @@
     {
       "label": "Third Party Payouts",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Third-Party Payouts allows marketplaces and financial institutions (banks and payment service providers) to use TransferWise as a payout option for their customers. It’s different from Payouts since it doesn’t require your company to be the originator of payments. Instead, TransferWise will act as a third-party to your customers when they initiate a payment through your site.",
       "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-third-party-payouts",
       "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-third-party-payouts",
@@ -55,7 +95,9 @@
     {
       "label": "Banks",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Our bank integration lets banks build TransferWise payments seamlessly into their own desktop and mobile apps. Banks can also build their own native user experience directly onto our API, co-branded with TransferWise.",
       "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-banks",
       "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-banks",
@@ -65,7 +107,9 @@
     {
       "label": "Affiliates",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "When you apply to the TransferWise affiliates program you can get access to our API to help you build your own valuable content for your customers or readers.",
       "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-affiliates",
       "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-affiliates",
@@ -75,7 +119,10 @@
     {
       "label": "Recieve Money",
       "type": "paymentInitiation",
-      "categories": ["payments","fx"],
+      "categories": [
+        "payments",
+        "fx"
+      ],
       "description": "You can receive money to the local bank details that come with your TransferWise account (AUD, EUR, GBP, NZD and USD) and reconcile these incoming payments via the API.",
       "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-receive-money",
       "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-receive-money",
@@ -85,7 +132,9 @@
     {
       "label": "Connected Applications",
       "type": "other",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "With Connected Applications, you can let your customers connect their TransferWise accounts to your product. Say you’re an accounting software – doing this could let your customers automate reconciliation. If you’re a payroll company, you could push customer payments right into TransferWise. Or you could push TransferWise notifications through your app. Whatever you want to build, you likely could!",
       "documentationUrl": "https://api-docs.transferwise.com/#transferwise-api-connected-applications",
       "apiReferenceUrl": "https://api-docs.transferwise.com/#transferwise-api-connected-applications",
@@ -97,7 +146,8 @@
   "apiAggregators": [
     "nordigen",
     "fintecture",
-     "truelayer"
+    "truelayer",
+    "salt-edge"
   ],
   "webApplication": true,
   "mobileApps": [
@@ -159,10 +209,10 @@
   "debitCards": [
     "mastercard"
   ],
-  "applePay": true, 
-  "googlePay": true, 
-  "samsungPay": true, 
-  "fitbitPay": false, 
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": true,
+  "fitbitPay": false,
   "fscsProtected": true,
   "products": {
     "currentAccounts": {
@@ -177,7 +227,7 @@
     "internationalMoneyTransfers": true
   },
   "partnerships": [
-     {
+    {
       "name": "Alipay",
       "icon": "https://res.cloudinary.com/apideck/icons/alipay",
       "websiteUrl": "https://intl.alipay.com/",
@@ -187,7 +237,7 @@
       "sourceUrl": "https://techcrunch.com/2020/03/16/transferwise-partners-with-alipay/",
       "sourceDate": "2020-03-17"
     }
-  ], 
+  ],
   "integrations": [
     {
       "id": "xero",

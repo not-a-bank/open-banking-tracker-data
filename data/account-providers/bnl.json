@@ -1,0 +1,36 @@
+{
+  "id": "bnl",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "BNL - Banca Nazionale del Lavoro BNL Individui e Famiglie",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bnl_business_it.svg",
+  "verified": false,
+  "websiteUrl": "https://bnl.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BNLIITRR"
+}

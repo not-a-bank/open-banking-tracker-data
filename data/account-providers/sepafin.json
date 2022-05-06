@@ -1,0 +1,36 @@
+{
+  "id": "sepafin",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Sepafin",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/sepafin_it.svg",
+  "verified": false,
+  "websiteUrl": "https://sepafin.com",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://easybox-sepafin-psd2.obp.sia.eu/sapr/#!devHome",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "SEPFIT31"
+}

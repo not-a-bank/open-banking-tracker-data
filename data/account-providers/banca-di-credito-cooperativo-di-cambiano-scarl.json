@@ -1,0 +1,36 @@
+{
+  "id": "banca-di-credito-cooperativo-di-cambiano-scarl",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Banca di Credito Cooperativo di Cambiano Scarl",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_di_credito_cooperativo_di_cambiano_scarl_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.bancacambiano.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.cabel.it/attivita/open-banking/?lang=en",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CRACIT33XXX"
+}
