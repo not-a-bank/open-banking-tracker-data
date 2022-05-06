@@ -1,7 +1,11 @@
 {
   "id": "yorkshire-building-society",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "Yorkshire Building Society",
   "legalName": "Yorkshire Building Society",
   "ipoStatus": "private",
@@ -9,7 +13,7 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552654979/radar/icons/Yorkshire_Building_Society.jpg",
   "websiteUrl": "https://www.ybs.co.uk/index.html?cmpid=soc-00071",
   "ownership": [
-    { 
+    {
       "shareholderName": "Yorkshire Building Society Members",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552654979/radar/icons/Yorkshire_Building_Society.jpg",
       "providerId": "yorkshire-building-society",
@@ -19,9 +23,11 @@
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
@@ -32,10 +38,12 @@
   },
   "developerPortalUrl": "https://developers.ybs.co.uk/getting-started",
   "apiProducts": [
-     {
+    {
       "label": "Account",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.ybs.co.uk/account-v3/apis",
@@ -45,7 +53,9 @@
     {
       "label": "Payment",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.ybs.co.uk/payment-v3/apis",
@@ -55,7 +65,9 @@
     {
       "label": "Confirmation of Funds",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": null,
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.ybs.co.uk/confirmation-funds-v3/apis",
@@ -65,7 +77,9 @@
     {
       "label": "Identity",
       "type": "auth",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "description": null,
       "documentationUrl": null,
       "apiReferenceUrl": "https://developers.ybs.co.uk/identity-v3/apis",
@@ -73,9 +87,10 @@
       "stage": "sandbox"
     }
   ],
-   "apiAggregators": [
+  "apiAggregators": [
     "moneyhub-enterprise",
-    "truelayer"
+    "truelayer",
+    "salt-edge"
   ],
   "apiStandards": [],
   "webApplication": true,

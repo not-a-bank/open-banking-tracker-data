@@ -10,8 +10,11 @@
   "ipoStatus": "public",
   "stockSymbol": "WFCS",
   "verified": false,
+  "aliases": [
+    "Wells Fargo Bank"
+  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571965694/radar/icons/wellsfargo.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1571962504/catalog/wellsfargo/icon128x128.jpg",
   "websiteUrl": "https://www.wellsfargo.com/",
   "ownership": [],
   "stateOwned": false,
@@ -20,11 +23,16 @@
     "US"
   ],
   "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.wellsfargo.com/"
+  },
   "developerPortalUrl": "https://developer.wellsfargo.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiReferenceUrl": "https://developer.wellsfargo.com/apis/data-services/account-aggregation",
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
@@ -73,6 +81,12 @@
       "name": "Blend",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1571958130/catalog/blend/icon128x128.jpg",
       "websiteUrl": "https://blend.com/"
+    },
+    {
+      "id": "socure",
+      "name": "Socure",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602032149/icons/socure.jpg",
+      "websiteUrl": "https://www.socure.com/"
     }
   ],
   "thirdPartyBankingLicense": null,

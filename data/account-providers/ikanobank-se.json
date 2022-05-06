@@ -49,7 +49,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://open.bank.ikano/",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "apiProducts": [
     {
       "label": "Account and Transaction API Sandbox",

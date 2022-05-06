@@ -1,0 +1,36 @@
+{
+  "id": "coutts-clearspend",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Coutts ClearSpend",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/coutts_clearspend_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://clearspend.coutts.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.bankofapis.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

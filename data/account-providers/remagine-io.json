@@ -1,0 +1,101 @@
+{
+  "id": "remagine-io",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Remagine",
+  "description": "Get the best in digital business banking, while helping to create a better future. Ready to join the purposeful banking revolution?",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1636329002/radar/icons/remagine-io.jpg",
+  "websiteUrl": "https://remagine.io/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.finapi.io/developer"
+  },
+  "developerPortalUrl": "https://www.finapi.io/developer",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.finapi.io/en/datenschutz",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "LetsRemagine",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "sme",
+    "purpose-driven"
+  ],
+  "stack": [
+    {
+      "id": "solarisbank",
+      "name": "solarisBank",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1586382060/catalog/solarisbank/icon128x128.jpg",
+      "websiteUrl": "https://www.solarisbank.com/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "gdpr",
+      "name": "GDPR",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1613277203/icons/gdpr.png",
+      "websiteUrl": "https://en.wikipedia.org/wiki/General_Data_Protection_Regulation"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}

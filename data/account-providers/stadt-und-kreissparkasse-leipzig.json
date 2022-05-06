@@ -1,0 +1,36 @@
+{
+  "id": "stadt-und-kreissparkasse-leipzig",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Stadt- und Kreissparkasse Leipzig",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/stadt_und_kreissparkasse_leipzig_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.sparkasse-leipzig.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "WELADE8LXXX"
+}

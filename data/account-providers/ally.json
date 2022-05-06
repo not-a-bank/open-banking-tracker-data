@@ -1,0 +1,80 @@
+{
+  "id": "ally",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Ally",
+  "description": "Ally Financial is a bank holding company organized in Delaware and headquartered in Detroit, Michigan. The company provides financial services including car finance, online banking via a direct bank, corporate lending, vehicle insurance, mortgage loans, and an electronic trading platform to trade financial assets.",
+  "legalName": "Ally Financial Inc.",
+  "ipoStatus": "public",
+  "stockSymbol": "ALLY",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1637113078/radar/icons/ally.jpg",
+  "websiteUrl": "https://www.ally.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.ally.com/"
+  },
+  "developerPortalUrl": "https://developer.ally.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiReferenceUrl": "https://www.ally.com/api/invest/documentation",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/ally-mobile-banking/id514374715"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ally.mobilebanking"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "Ally",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ally_Financial",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "marketplaceUrl": ""
+}

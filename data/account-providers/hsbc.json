@@ -9,6 +9,7 @@
   "bankingGroup": true,
   "numberOfBanks": 38,
   "name": "HSBC",
+  "description": "HSBC Bank plc is a British multinational banking and financial services organisation. HSBC's international network comprises around 7,500 offices in over 80 countries and territories in Europe, the Asia-Pacific region, the Americas, the Middle East and Africa.",
   "legalName": "HSBC Holdings plc",
   "ipoStatus": "public",
   "stockSymbol": "LON:HSBA",
@@ -19,6 +20,7 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "GB",
+  "bic": "HBUKGB4BXXX",
   "countries": [
     "EU"
   ],
@@ -180,7 +182,6 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "nordigen",
     "truelayer",
     "klarna",
     "salt-edge",
@@ -192,9 +193,7 @@
     "friendlyscore",
     "bridgeapi-io",
     "equensworldline",
-    "budget-insight",
-    "moneyhub-enterprise",
-    "leantech"
+    "budget-insight"
   ],
   "collections": [
     "cma9"
@@ -210,13 +209,21 @@
     }
   ],
   "twitter": "hsbc",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/HSBC_Bank_(Europe)",
   "crunchbase": "hsbc",
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfELyAAN",
   "alumni": [],
   "articles": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "du-co",
+      "name": "Duco",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1635821105/icons/du-co.jpg",
+      "websiteUrl": "https://du.co/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,

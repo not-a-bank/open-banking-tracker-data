@@ -1,0 +1,36 @@
+{
+  "id": "mizuho-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Mizuho Bank",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/mizuho_bank_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.mizuhogroup.com/bank",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.mhbkemea.co.uk/",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "MHCBJPJTXXX"
+}

@@ -7,16 +7,26 @@
     "universal",
     "community"
   ],
-  "name": "Radius Bank",
+  "name": "Lendingclub Bank (formerly Radius Bank)",
   "description": "We are a full-service virtual bank built around you. We offer the product depth of a national brand and the personalized attention of a community bank.",
   "legalName": "Radius Bank",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
+  "aliases": [
+    "Lendingclub Bank",
+    "Radius Bank"
+  ],
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591775444/radar/icons/radiusbank.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591775583/icons/radiusbank.jpg",
   "websiteUrl": "https://radiusbank.com/",
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "lendingclub",
+      "shareholderName": "LendingClub",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1591803955/icons/lendingclub.jpg"
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "US",
   "countries": [
@@ -29,6 +39,8 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://radiusbank.com/business/api",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
@@ -40,6 +52,7 @@
   "financialReports": [],
   "twitter": "RadiusBank",
   "bloomberg": null,
+  "alumni": [],
   "stack": [
     {
       "id": "mantl",
@@ -52,10 +65,17 @@
       "name": "Treasury Prime",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1588809149/catalog/treasuryprime/icon128x128.jpg",
       "websiteUrl": "https://treasuryprime.com/"
+    },
+    {
+      "id": "venminder",
+      "name": "Venminder",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1637700340/icons/venminder.png",
+      "websiteUrl": "https://www.venminder.com/"
     }
   ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
@@ -65,13 +85,19 @@
   ],
   "creditCards": [],
   "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [
     {
+      "id": "mastercard",
       "name": "Mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://mastercard.com"
     }
   ],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": [],
