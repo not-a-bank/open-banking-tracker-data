@@ -109,7 +109,9 @@
   ],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [
@@ -136,6 +138,12 @@
   "alumni": [],
   "articles": [],
   "stack": [
+    {
+      "id": "starling-as-a-service",
+      "name": "Starling-as-a-Service",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1632954382/icons/starling-as-a-service.jpg",
+      "websiteUrl": "https://international.starlingbank.com/"
+    },
     {
       "id": "amazon-web-services",
       "name": "Amazon Web Services (AWS)",

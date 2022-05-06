@@ -59,6 +59,12 @@
   "alumni": [],
   "stack": [
     {
+      "id": "treasuryprime",
+      "name": "Treasury Prime",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1588809149/catalog/treasuryprime/icon128x128.jpg",
+      "websiteUrl": "https://treasuryprime.com/"
+    },
+    {
       "id": "emigrant-bank",
       "name": "Emigrant Bank",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1624478041/icons/emigrant-bank.png",
@@ -96,7 +102,7 @@
     },
     {
       "id": "mastercard",
-      "name": "Mastercard",
+      "name": "mastercard",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
       "websiteUrl": "https://mastercard.com"
     },
@@ -156,6 +162,12 @@
       "name": "Visa",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
       "websiteUrl": "https://visa.com"
+    },
+    {
+      "id": "zapier",
+      "name": "Zapier",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1545501346/integration-platforms/zapier/icon.png",
+      "websiteUrl": "https://zapier.com/"
     }
   ],
   "platforms": [],

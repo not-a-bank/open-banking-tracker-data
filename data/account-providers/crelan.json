@@ -1,7 +1,12 @@
 {
   "id": "crelan",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "Crelan",
   "legalName": "Crelan",
   "ipoStatus": "private",
@@ -19,7 +24,9 @@
   ],
   "stateOwned": false,
   "countryHQ": "BE",
-  "countries": ["BE"],
+  "countries": [
+    "BE"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -34,7 +41,9 @@
     {
       "label": "Account Information Service",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "specification": "BERLIN1.3",
       "description": "All XS2A AIS APIs as specified by BerlinGroup",
       "documentationUrl": "https://developer.crelan.be/psd2-account-information-service/apis",
@@ -45,7 +54,9 @@
     {
       "label": "Payment Initiation Service",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "specification": "BERLIN1.3",
       "description": "All XS2A PIS APIs as specified by the BerlinGroup in its 1.3",
       "documentationUrl": "https://developer.crelan.be/psd2-payment-initiation-service/apis",
@@ -57,7 +68,9 @@
       "label": "OAuth2",
       "type": "auth",
       "description": "All OAuth2 APIs for authorisation process",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "specification": "BERLIN1.3",
       "documentationUrl": "https://developer.crelan.be/psd2-oauth2-apis/apis",
       "apiReferenceUrl": "https://developer.crelan.be/psd2-oauth2-apis/apis",
@@ -67,7 +80,9 @@
     {
       "label": "Funds Confirmation Service",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "specification": "BERLIN1.3",
       "description": "All XS2A PIIS APIs as specified by BerlinGroup",
       "documentationUrl": "https://developer.crelan.be/psd2-funds-confirmation-service/apis",
@@ -76,13 +91,16 @@
       "stage": "sandbox"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
     "bankingsdk",
     "klarna",
     "banqup",
     "ibanity",
-    "equensworldline"
+    "equensworldline",
+    "salt-edge"
   ],
   "webApplication": true,
   "mobileApps": [

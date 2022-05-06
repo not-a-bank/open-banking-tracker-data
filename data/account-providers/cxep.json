@@ -1,0 +1,36 @@
+{
+  "id": "cxep",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "CAXTON",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/cxep_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.caxtonfx.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://token.io/developer",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CAXTGB2LXXX"
+}

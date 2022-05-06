@@ -1,0 +1,36 @@
+{
+  "id": "virgin-money-cybg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Virgin Money (Clydesdale)",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/virgin_money_credit_card_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://uk.virginmoney.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.cybonline.co.uk",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

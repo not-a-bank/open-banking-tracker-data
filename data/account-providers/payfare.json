@@ -1,0 +1,95 @@
+{
+  "id": "payfare",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Payfare",
+  "description": "Payfare is a global FinTech company offering mobile banking, instant payment and loyalty-reward solutions for today’s workforce. Payfare’s financial technology platform is providing financial inclusion and empowerment to millions of next-generation workers around the globe with a full-service mobile bank account and debit card with instant access to their earnings and relevant cash-back rewards.",
+  "legalName": null,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1638612484/radar/icons/payfare.jpg",
+  "websiteUrl": "https://corp.payfare.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "CA",
+  "countries": [
+    "CA"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "twitter": "payfare",
+  "bloomberg": null,
+  "alumni": [],
+  "keySegments": [
+    "gig-worker"
+  ],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "doordash",
+      "name": "DoorDash",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1564923784/catalog/doordash/icon128x128.png",
+      "websiteUrl": "https://doordash.com"
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1564688862/catalog/uber/icon128x128.jpg",
+      "websiteUrl": "https://uber.com"
+    },
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}

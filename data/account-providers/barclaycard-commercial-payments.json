@@ -1,0 +1,36 @@
+{
+  "id": "barclaycard-commercial-payments",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "business"
+  ],
+  "status": "live",
+  "name": "Barclaycard Commercial Payments",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/barclaycard_commercial_payments_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.barclays.co.uk",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.barclays.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": ""
+}

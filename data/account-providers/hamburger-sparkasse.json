@@ -1,0 +1,36 @@
+{
+  "id": "hamburger-sparkasse",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Hamburger Sparkasse",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/hamburger_sparkasse_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.haspa.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "HASPDEHHXXX"
+}

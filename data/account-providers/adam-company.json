@@ -1,0 +1,36 @@
+{
+  "id": "adam-company",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Adam & Company Bank",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/adam_company_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.adambank.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.bankofapis.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "ADAGGB2S"
+}

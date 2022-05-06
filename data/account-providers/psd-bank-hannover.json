@@ -1,0 +1,36 @@
+{
+  "id": "psd-bank-hannover",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "PSD Bank Hannover eG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/psd_bank_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.psd-hannover.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "GENODEF1P09"
+}

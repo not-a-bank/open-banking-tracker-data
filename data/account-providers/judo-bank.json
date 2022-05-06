@@ -13,7 +13,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589154628/radar/icons/judo-bank.png",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1589177245/catalog/judo-bank/icon128x128.png",
   "websiteUrl": "https://www.judo.bank/",
   "ownership": [],
   "stateOwned": false,
@@ -21,14 +21,23 @@
   "countries": [
     "AU"
   ],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "CDR",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],
   "webApplication": false,
@@ -36,26 +45,40 @@
   "financialReports": [],
   "twitter": "Judo_Bank",
   "bloomberg": null,
+  "alumni": [],
   "keySegments": [
     "sme"
   ],
   "stack": [
     {
-      "id": "temenos",
-      "name": "Temenos",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828759/catalog/temenos/icon128x128.jpg",
-      "websiteUrl": "https://www.temenos.com/"
+      "id": "temenos-t24-transact",
+      "name": "Temenos T24 Transact",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1574828757/catalog/temenos-t24-transact/icon128x128.jpg",
+      "websiteUrl": "https://www.temenos.com/products/t24-transact/"
+    },
+    {
+      "id": "codat-io",
+      "name": "Codat",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1625937200/icons/codat-io.png",
+      "websiteUrl": "https://www.codat.io/"
     }
   ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": []

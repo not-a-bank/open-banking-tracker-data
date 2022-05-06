@@ -1,0 +1,36 @@
+{
+  "id": "aib",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Allied Irish Bank",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/aib_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://aib.ie",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.firsttrustbank.co.uk",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "AIBKGB2LXXX"
+}

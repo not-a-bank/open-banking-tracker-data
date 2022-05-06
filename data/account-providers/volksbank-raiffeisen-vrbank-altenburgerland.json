@@ -1,0 +1,36 @@
+{
+  "id": "volksbank-raiffeisen-vrbank-altenburgerland",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "VR-Bank Altenburger Land eG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.vrbank-altenburgerland.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "GENODEF1SLR"
+}

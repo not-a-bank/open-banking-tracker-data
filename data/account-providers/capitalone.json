@@ -13,7 +13,7 @@
   "stockSymbol": "NYSE:COF",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588944657/radar/icons/capitalone.jpg",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588039295/catalog/capitalone/icon128x128.jpg",
   "websiteUrl": "https://www.capitalone.com/",
   "ownership": [],
   "stateOwned": false,
@@ -22,12 +22,19 @@
     "US"
   ],
   "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.capitalone.com/"
+  },
   "developerPortalUrl": "https://developer.capitalone.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.capitalone.com/",
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
   "apiProducts": [
     {
       "label": "Customer Transactions",
@@ -55,9 +62,12 @@
     }
   ],
   "apiStandards": [],
+  "apiStatusUrls": [],
   "apiAggregators": [
-    "truelayer"
-  ],  
+    "plaid",
+    "truelayer",
+    "salt-edge"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],
@@ -65,15 +75,31 @@
   "twitter": "CapitalOne",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Capital_One",
   "bloomberg": null,
-  "stack": [],
+  "alumni": [],
+  "stack": [
+    {
+      "id": "chime",
+      "name": "chime",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1554719419/catalog/chime/icon128x128.jpg",
+      "websiteUrl": "https://chime.me"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
+  "creditCardLicense": null,
   "debitAccountLicense": null,
   "strategies": [],
   "prepaidCards": [],
+  "prepaidDebitCards": [],
   "debitCards": [],
   "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
   "partnerships": [],
+  "rewardPartners": [],
   "integrations": [],
   "platforms": [],
   "awards": [],

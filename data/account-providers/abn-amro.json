@@ -28,12 +28,18 @@
   "stateOwned": true,
   "countryHQ": "NL",
   "countries": [
-    "NL"
+    "NL",
+    "DE",
+    "GB"
   ],
   "compliance": [
     {
       "regulation": "PSD2",
       "status": "inProgress"
+    },
+    {
+      "regulation": "OB",
+      "status": "unknown"
     }
   ],
   "sandbox": {
@@ -130,7 +136,8 @@
     "klarna",
     "ibanity",
     "bridgeapi-io",
-    "equensworldline"
+    "equensworldline",
+    "salt-edge"
   ],
   "collections": [],
   "webApplication": true,

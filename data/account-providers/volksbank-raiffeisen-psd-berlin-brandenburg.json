@@ -1,0 +1,36 @@
+{
+  "id": "volksbank-raiffeisen-psd-berlin-brandenburg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "PSD Bank Berlin-Brandenburg eG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_raiffeisen_psd_berlin_brandenburg_client_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.psd-berlin-brandenburg.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "GENODEF1P01"
+}

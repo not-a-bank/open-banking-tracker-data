@@ -1,0 +1,36 @@
+{
+  "id": "jp-morgan",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "business"
+  ],
+  "status": "live",
+  "name": "JP Morgan",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/jp_morgan_gb.svg",
+  "verified": false,
+  "websiteUrl": "https://www.jpmorgan.com",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.jpmorgan.com",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CHASGB22PLC"
+}

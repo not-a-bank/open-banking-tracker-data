@@ -1,0 +1,36 @@
+{
+  "id": "volksbank-raiffeisen-bruehlerbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Brühler Bank eG",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
+  "verified": false,
+  "websiteUrl": "https://www.bruehlerbank.de",
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "GENODED1BRL"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "unicaja",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Unicaja Banco",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/unicaja_es.svg",
+  "verified": false,
+  "websiteUrl": "https://www.unicajabanco.es",
+  "countryHQ": "ES",
+  "countries": [
+    "ES"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/unicajabanco",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "UCJAES2M"
+}

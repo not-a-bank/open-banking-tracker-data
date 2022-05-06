@@ -1,0 +1,36 @@
+{
+  "id": "citi-connect",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "CitiConnect Corporate",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/br/citi_connect_br.svg",
+  "verified": false,
+  "websiteUrl": "https://www.citibank.co.uk",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://tts.sandbox.developer.citi.com/citiconnect",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CITTGB2LXXX"
+}
