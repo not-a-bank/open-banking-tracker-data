@@ -1,0 +1,36 @@
+{
+  "id": "bcc-brianza-e-laghi",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "BCC Brianza e Laghi",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bcc_brianza_e_laghi_oauth_client_it.svg",
+  "verified": false,
+  "websiteUrl": "http://www.bccbrianzaelaghi.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "ICRAITRR950"
+}

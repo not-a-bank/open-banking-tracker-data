@@ -1,0 +1,36 @@
+{
+  "id": "imprebanca",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Imprebanca",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/imprebanca_it.svg",
+  "verified": false,
+  "websiteUrl": "http://www.imprebanca.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cse-imprebanca-psd2.obp.sia.eu/sapr/#!devHome",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "IMPAITR1"
+}

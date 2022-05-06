@@ -1,0 +1,36 @@
+{
+  "id": "banca-sviluppo-tuscia",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Blu Banca S.p.a. (Banca Sviluppo Tuscia S.p.a.)",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_sviluppo_tuscia_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.bancasviluppotuscia.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cse-tuscia-psd2.obp.sia.eu/sapr/#!devHome",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "SVTUIT21XXX"
+}

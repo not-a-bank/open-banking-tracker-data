@@ -1,0 +1,36 @@
+{
+  "id": "banco-lucca",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Banco di Lucca",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_monte_di_lucca_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.bancodilucca.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cse-lucca-psd2.obp.sia.eu/sapr/#!devHome",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BLUCIT31"
+}

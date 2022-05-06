@@ -1,0 +1,36 @@
+{
+  "id": "bcc-valpolicella-benaco-banca",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "BCC Valpolicella Benaco Banca",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bcc_valpolicella_benaco_banca_oauth_client_it.svg",
+  "verified": false,
+  "websiteUrl": "http://www.valpolicellabenacobanca.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "ICRAITRR8R0"
+}

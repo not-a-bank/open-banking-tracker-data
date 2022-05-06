@@ -1,0 +1,36 @@
+{
+  "id": "banca-valsabbina",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Banca Valsabbina",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_valsabbina_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.lavalsabbina.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.cedacri.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BCVAIT2VXXX"
+}

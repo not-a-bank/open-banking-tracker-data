@@ -21,9 +21,15 @@
   "stateOwned": false,
   "countryHQ": "US",
   "countries": [
-    "US"
+    "US",
+    "IT"
   ],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://developer.cedacri.it/en/"
@@ -80,7 +86,9 @@
   ],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "collections": [],
   "sdks": [],
   "webApplication": true,

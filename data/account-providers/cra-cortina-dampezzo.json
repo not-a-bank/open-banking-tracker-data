@@ -1,0 +1,36 @@
+{
+  "id": "cra-cortina-dampezzo",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "CRA Cortina d'Ampezzo",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/cra_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.cortinabanca.it/",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CCRTIT2T95A"
+}

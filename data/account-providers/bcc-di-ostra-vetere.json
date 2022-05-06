@@ -1,0 +1,36 @@
+{
+  "id": "bcc-di-ostra-vetere",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "BCC di Ostra Vetere",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bcc_di_ostra_vetere_oauth_client_it.svg",
+  "verified": false,
+  "websiteUrl": "http://www.ostravetere.bcc.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "ICRAITRRJL0"
+}

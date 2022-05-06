@@ -1,0 +1,36 @@
+{
+  "id": "the-bank-of-tokyo-mitsubishi",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "The Bank Of Tokyo - Mitsubishi Ufj, Ltd.",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/the_bank_of_tokyo_mitsubishi_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.bk.mufg.jp/global",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.cabel.it/attivita/open-banking/?lang=en",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BOTKITMCXXX"
+}

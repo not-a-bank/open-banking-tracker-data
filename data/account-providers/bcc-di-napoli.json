@@ -1,0 +1,36 @@
+{
+  "id": "bcc-di-napoli",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "BCC di Napoli",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bcc_di_napoli_oauth_client_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.bccnapoli.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "ICRAITRRUU0"
+}

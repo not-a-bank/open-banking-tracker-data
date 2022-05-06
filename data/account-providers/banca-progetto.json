@@ -1,0 +1,36 @@
+{
+  "id": "banca-progetto",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Banca Progetto",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_progetto_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.bancaprogetto.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.cedacri.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BPTTITMMXXX"
+}

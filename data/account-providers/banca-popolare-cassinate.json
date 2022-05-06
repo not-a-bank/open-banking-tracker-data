@@ -1,0 +1,36 @@
+{
+  "id": "banca-popolare-cassinate",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Banca Popolare Cassinate",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_popolare_cassinate_it.svg",
+  "verified": false,
+  "websiteUrl": "https://bancapopolaredelcassinate.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "POCAIT3CXXX"
+}

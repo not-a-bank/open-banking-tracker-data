@@ -1,0 +1,36 @@
+{
+  "id": "bcpme",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Banca di Credito Peloritano Privati",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bcpme_it.svg",
+  "verified": false,
+  "websiteUrl": "http://www.bcpme.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cse-peloritano-psd2.obp.sia.eu/sapr/#!devHome",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CEEPIT21"
+}

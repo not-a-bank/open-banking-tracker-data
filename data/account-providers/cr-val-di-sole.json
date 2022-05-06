@@ -1,0 +1,36 @@
+{
+  "id": "cr-val-di-sole",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "CR Val di Sole",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/cr_bologna_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.cr-valdisole.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CCRTIT2T43A"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "allianz",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "status": "live",
+  "name": "Allianz Bank Financial Advisors",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/bg/allianz_bg.svg",
+  "verified": false,
+  "websiteUrl": "https://www.allianzbank.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "BKRAITMM"
+}

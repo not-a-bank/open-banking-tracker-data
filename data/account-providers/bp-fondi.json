@@ -1,0 +1,36 @@
+{
+  "id": "bp-fondi",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Banca Popolare di Fondi",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bp_fondi_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.bpfondi.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cse-fondi-psd2.obp.sia.eu/sapr/#!devHome",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "POFOIT3FXXX"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bcc-pianfei-e-rocca-de-baldi",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "BCC Pianfei e Rocca de Baldi",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bcc_pianfei_e_rocca_de_baldi_oauth_client_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.inbank.it/go/cms/08753.htm",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "ICRAITM1KX4"
+}

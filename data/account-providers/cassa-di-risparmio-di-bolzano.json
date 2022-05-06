@@ -1,0 +1,36 @@
+{
+  "id": "cassa-di-risparmio-di-bolzano",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "status": "live",
+  "name": "Cassa di Risparmio di Bolzano",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/cassa_di_risparmio_di_bolzano_it.svg",
+  "verified": false,
+  "websiteUrl": "https://www.sparkasse.it",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.cedacri.it",
+  "apiStandards": [],
+  "apiProducts": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": "",
+  "apiAggregators": [
+    "salt-edge"
+  ],
+  "swiftCode": "CRBZIT2BXXX"
+}
