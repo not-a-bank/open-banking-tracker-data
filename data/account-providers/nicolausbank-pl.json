@@ -1,0 +1,75 @@
+{
+  "id": "nicolausbank-pl",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Nicolaus Bank",
+  "description": "Nicolaus Bank Spółdzielczy w Toruniu is a local cooperative bank,a member of Spółdzielcza Grupa Bankowa (SGB-Bank). Operating as a universal bank,Nicolaus Bank Spółdzielczy w Toruniu offers a wide range of retail, corporate banking andinsurance products and services to private individuals, business entities, farmers and local authorities.",
+  "legalName": "Nicolaus Bank Spółdzielczy w Toruniu",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1652040941/radar/icons/nicolausbank-pl.png",
+  "websiteUrl": "https://nicolausbank.pl/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "PL",
+  "countries": [
+    "PL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "financialReports": [],
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "swift",
+      "name": "SWIFT",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1593705297/icons/swift.png",
+      "websiteUrl": "https://www.swift.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": []
+}
