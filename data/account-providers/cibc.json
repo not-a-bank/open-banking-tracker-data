@@ -30,7 +30,9 @@
   "apiAuth": [],
   "apiProducts": [],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],

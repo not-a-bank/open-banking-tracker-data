@@ -47,8 +47,8 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://www.permanenttsb.ie/developer-portal/api-overview/",
   "apiAggregators": [
-    "klarna",
-    "banqup"
+    "plaid",
+    "truelayer"
   ],
   "apiProducts": [
     {
@@ -90,9 +90,6 @@
   ],
   "apiStandards": [],
   "apiAccess": "verifiedTpp",
-  "apiAggregators": [
-    "truelayer"
-  ],  
   "webApplication": true,
   "mobileApps": [
     {

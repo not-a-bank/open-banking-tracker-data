@@ -35,7 +35,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://openbanking.cynergybank.co.uk/store/",
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",

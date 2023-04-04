@@ -28,6 +28,7 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiAggregators": [
+    "plaid",
     "teller-io"
   ],
   "apiProducts": [],

@@ -35,7 +35,10 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/APIs",
-  "apiAggregators": ["neonomics"],
+  "apiAggregators": [
+    "plaid",
+    "neonomics"
+  ],
   "apiProducts": [
     {
       "label": "Account Information Service",

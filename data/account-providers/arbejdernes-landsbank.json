@@ -1,7 +1,11 @@
 {
   "id": "arbejdernes-landsbank",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "Arbejdernes Landsbank",
   "legalName": "A/S Arbejdernes Landsbank",
   "ipoStatus": "private",
@@ -9,14 +13,14 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1553180025/radar/icons/Arbejdernes_Landsbank.jpg",
   "websiteUrl": "https://www.al-bank.dk/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Danske Metal",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553180208/radar/icons/DanskMetal.png",
       "providerId": "danske-metal",
       "percentage": 12.7,
       "sourceUrl": "https://www.al-bank.dk/media/131314/al_annual_report_2018.pdf"
     },
-    { 
+    {
       "shareholderName": "Fagligt Fælles Forbund",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553180291/radar/icons/Fagligt_F%C3%A6lles_Forbund.jpg",
       "providerId": "fagligt-faelles-Forbund",
@@ -26,9 +30,11 @@
   ],
   "stateOwned": false,
   "countryHQ": "DK",
-  "countries": ["DK"],
+  "countries": [
+    "DK"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -41,7 +47,9 @@
     {
       "label": "BG Account Information Service API (AIS)",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "The AIS API implements the Account Information Service parts of the PSD2 specification, and provides the following services to authorized TPPs: Accounts overview, Account details, Account balances, Account transactions",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/node/265",
@@ -51,7 +59,9 @@
     {
       "label": "BG Payment Initiation API (PIS)",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "The PIS API implements the Payment Initiation Service parts of the PSD2 specification, and provides the following services to authorized TPPs: Initiation and update of a payment request, Status information of a payment",
       "documentationUrl": null,
       "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/node/268",
@@ -59,7 +69,9 @@
       "stage": "sandbox"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "webApplication": true,
   "mobileApps": [
     {
@@ -84,5 +96,8 @@
   "crunchbase": "arbejdernes-landsbank",
   "github": "DanskeBank",
   "fca": null,
-  "articles": []
+  "articles": [],
+  "apiAggregators": [
+    "plaid"
+  ]
 }

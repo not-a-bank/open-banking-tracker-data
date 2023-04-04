@@ -1,7 +1,12 @@
 {
   "id": "nationwide-building-society",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "Nationwide Building Society",
   "legalName": "Nationwide Building Society",
   "ipoStatus": "private",
@@ -9,18 +14,20 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nationwide_Building_Society.jpg",
   "websiteUrl": "https://www.nationwide.co.uk/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Co-Operative of British Building Societies",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296074/radar/icons/Nationwide_Building_Society.jpg",
       "providerId": null,
-      "percentage": 100.0
+      "percentage": 100
     }
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["GB"],
+  "countries": [
+    "GB"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     }
@@ -33,7 +40,9 @@
     {
       "label": "Account and Transaction API",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Detailed Open Banking specifications for the Account and Transaction API that is available to Account Information Service Providers (AISPs) are available on the Open Banking websiteUrl.",
       "documentationUrl": "https://www.nationwide.co.uk/developer/open-banking-api",
       "apiReferenceUrl": null,
@@ -43,7 +52,9 @@
     {
       "label": "Payment API",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Detailed Open Banking specifications for the Payment Initiation API that is available to Payment Initiation Service Providers (PISPs) are available on the Open Banking websiteUrl.",
       "documentationUrl": "https://www.nationwide.co.uk/developer/open-banking-api",
       "apiReferenceUrl": null,
@@ -53,7 +64,9 @@
     {
       "label": "Discovery and Application Registration",
       "type": "auth",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "description": "Give customers the option to initiate payments via our BNP Paribas Fortis Payment Initiation API.",
       "documentationUrl": "https://www.nationwide.co.uk/developer/open-banking-api",
       "apiReferenceUrl": null,
@@ -63,7 +76,9 @@
     {
       "label": "Security",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "The detailed Open Banking specification for the security model (Security Profile) is available on the central Open Banking websiteUrl (This link will open in a new window).",
       "documentationUrl": "https://www.nationwide.co.uk/developer/open-banking-api",
       "apiReferenceUrl": null,
@@ -73,6 +88,7 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
+    "plaid",
     "truelayer",
     "klarna",
     "token",

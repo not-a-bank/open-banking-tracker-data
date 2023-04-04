@@ -92,7 +92,9 @@
       "url": "https://psd2.ndgit-status.com/Credit-Suisse-Digital-ES"
     }
   ],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],

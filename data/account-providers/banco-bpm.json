@@ -37,6 +37,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
   "apiAggregators": [
+    "plaid",
     "klarna",
     "equensworldline",
     "truelayer",
