@@ -24,7 +24,13 @@
   "developerPortalUrl": "https://developer.bawaggroup.com",
   "apiStandards": [],
   "apiProducts": [],
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "bawag-psk",
+      "shareholderName": "BAWAG P.S.K.",
+      "shareholderIconUrl": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/bawag_at.svg"
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
