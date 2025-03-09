@@ -105,6 +105,7 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "plaid",
     "nordigen",
     "truelayer",
     "salt-edge",
@@ -160,7 +161,7 @@
   "partnerships": [],
   "rewardPartners": [],
   "integrations": [
-  "moneyhub-enterprise"
+    "moneyhub-enterprise"
   ],
   "platforms": [],
   "awards": []

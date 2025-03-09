@@ -45,6 +45,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.api.mbank.pl/",
   "apiAggregators": [
+    "plaid",
     "klarna",
     "banqup",
     "fintecture",

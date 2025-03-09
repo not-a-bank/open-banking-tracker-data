@@ -44,6 +44,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.chebanca.it/",
   "apiAggregators": [
+    "plaid",
     "klarna",
     "salt-edge"
   ],

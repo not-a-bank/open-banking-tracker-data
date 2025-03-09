@@ -44,6 +44,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://www.co-operativebank.co.uk/onlinebanking/open-banking/third-party-providers",
   "apiAggregators": [
+    "plaid",
     "klarna",
     "moneyhub-enterprise"
   ],

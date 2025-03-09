@@ -30,7 +30,9 @@
   "apiReferenceUrl": "",
   "apiProducts": [],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
@@ -63,7 +65,7 @@
           "date": "2019-06-21",
           "verified": true
         }
-      },      
+      },
       {
         "amount": "1000000",
         "type": "claim",

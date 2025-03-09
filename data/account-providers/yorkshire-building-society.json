@@ -17,7 +17,7 @@
       "shareholderName": "Yorkshire Building Society Members",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552654979/radar/icons/Yorkshire_Building_Society.jpg",
       "providerId": "yorkshire-building-society",
-      "percentage": 100.0,
+      "percentage": 100,
       "sourceUrl": "https://www.ybs.co.uk/your-society/member-benefits/what-it-means-to-be-a-member/index.html"
     }
   ],
@@ -88,6 +88,7 @@
     }
   ],
   "apiAggregators": [
+    "plaid",
     "moneyhub-enterprise",
     "truelayer",
     "salt-edge"

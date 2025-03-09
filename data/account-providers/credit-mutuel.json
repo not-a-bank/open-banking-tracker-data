@@ -43,6 +43,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://www.creditmutuel.fr/oauth2/en/devportal/stetpsd2-spec.html",
   "apiAggregators": [
+    "plaid",
     "nordigen",
     "bankingsdk",
     "budget-insight",

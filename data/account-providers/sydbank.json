@@ -38,6 +38,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developers.bankdata.dk",
   "apiAggregators": [
+    "plaid",
     "neonomics",
     "klarna",
     "tink",

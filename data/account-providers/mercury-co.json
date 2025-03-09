@@ -25,7 +25,9 @@
   "developerCommunityUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": true,

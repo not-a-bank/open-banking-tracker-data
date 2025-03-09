@@ -35,7 +35,9 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "apiProducts": [],
   "apiStandards": [],
   "webApplication": false,

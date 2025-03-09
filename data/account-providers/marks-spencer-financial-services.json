@@ -49,6 +49,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://api.hsbc.com/",
   "apiAggregators": [
+    "plaid",
     "nordigen",
     "truelayer",
     "banked",

@@ -29,7 +29,9 @@
   "apiAuth": [],
   "apiReferenceUrl": null,
   "apiChangelogUrl": null,
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "apiProducts": [],
   "apiStandards": [],
   "sdks": null,
