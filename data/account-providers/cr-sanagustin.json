@@ -1,16 +1,16 @@
 {
-  "id": "targobank",
+  "id": "cr-sanagustin",
   "type": [
     "account"
   ],
   "bankType": [
-    "private"
+    "universal"
   ],
   "status": "live",
-  "name": "Tomamos Impulso (former TargoBank)",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/targobank_es.svg",
+  "name": "Caja Rural Regional San Agustín",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/cr_es.svg",
   "verified": false,
-  "websiteUrl": "https://www.tomamosimpulso.com",
+  "websiteUrl": "https://www.bde.es",
   "countryHQ": "ES",
   "countries": [
     "ES"
@@ -23,7 +23,7 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://www.tomamosimpulso.com/oauth2/es/devportal/index.html",
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
   "apiStandards": [],
   "apiProducts": [],
   "ownership": [],
@@ -32,5 +32,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "CMCIESMM"
+  "swiftCode": "BCOEESMM018"
 }

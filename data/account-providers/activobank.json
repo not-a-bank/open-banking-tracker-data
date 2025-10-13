@@ -1,0 +1,137 @@
+{
+  "id": "activobank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "digital"
+  ],
+  "bankingGroup": false,
+  "numberOfBanks": 1,
+  "name": "ActivoBank",
+  "description": "ActivoBank is the online banking brand of Banco Sabadell Group, one of Spain's most prestigious banking groups founded in 1881 and part of the IBEX 35. ActivoBank focuses its financial activity on retail customers who operate exclusively through internet or telephone banking channels, combining the innovation of a digital bank with the security and guarantees of Banco Sabadell.",
+  "legalName": "Banco de Sabadell, S.A. (ActivoBank Division)",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": null,
+  "websiteUrl": "https://www.activobank.com/",
+  "ownership": [
+    {
+      "shareholderName": "Banco Sabadell",
+      "shareholderIconUrl": null,
+      "sourceUrl": "https://www.activobank.com/cs/Satellite/BC/Contactar/4000006680415/es/",
+      "providerId": null,
+      "percentage": 100.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": [
+    "ES"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "available"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/activobank"
+  },
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/activobank",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/activobank",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/activobank",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/activobank",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "bankingsdk",
+    "salt-edge",
+    "bridgeapi-io",
+    "ibanity",
+    "equensworldline",
+    "nordigen",
+    "plaid"
+  ],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": null,
+  "wikipediaUrl": null,
+  "crunchbase": null,
+  "bloomberg": null,
+  "github": null,
+  "fca": null,
+  "alumni": [],
+  "articles": [],
+  "stack": [
+    {
+      "id": "redsys-es",
+      "name": "Redsys",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1607659998/icons/redsys-es.jpg",
+      "websiteUrl": "http://www.redsys.es/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

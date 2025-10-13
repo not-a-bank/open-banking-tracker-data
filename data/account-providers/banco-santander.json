@@ -38,9 +38,9 @@
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": null
+    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/santander"
   },
-  "developerPortalUrl": "https://developer.santander.co.uk/sanuk/external",
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/santander",
   "developerCommunityUrl": null,
   "openBankProjectUrl": "https://santander.openbankproject.com",
   "slackCommunity": false,
@@ -52,26 +52,26 @@
   "apiSpecs": [],
   "apiProducts": [
     {
-      "label": "Account Information",
+      "label": "Account Information Service",
       "type": "accountInformation",
       "categories": [
         "accounts"
       ],
-      "description": "Give customers secure access to transaction data and balance data via our BNP Paribas Fortis Account Information API.",
-      "documentationUrl": "https://developer.santander.co.uk/sanuk/external/account-and-transactions-v3",
-      "apiReferenceUrl": "null",
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/santander",
+      "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
     },
     {
-      "label": "Payment Initiation",
+      "label": "Payment Initiation Service",
       "type": "paymentInitiation",
       "categories": [
         "payments"
       ],
-      "description": "Give customers the option to initiate payments via our BNP Paribas Fortis Payment Initiation API.",
-      "documentationUrl": "https://developer.santander.co.uk/sanuk/external/product/open-banking-payment-initiation",
-      "apiReferenceUrl": "https://developer.santander.co.uk/sanuk/external/payment-initiation-v3",
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/santander",
+      "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
     },
@@ -82,8 +82,8 @@
         "funds"
       ],
       "description": "",
-      "documentationUrl": "https://developer.santander.co.uk/sanuk/external/product/confirmation-funds",
-      "apiReferenceUrl": "https://developer.santander.co.uk/sanuk/external/confirmation-funds-v3",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/santander",
+      "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
     }

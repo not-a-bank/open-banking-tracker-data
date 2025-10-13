@@ -1,29 +1,32 @@
 {
-  "id": "bankia",
+  "id": "banco-inversis",
   "type": [
     "account"
   ],
   "bankType": [
-    "universal"
+    "investment"
   ],
-  "name": "Bankia",
-  "legalName": "Bankia S.A.",
+  "bankingGroup": false,
+  "numberOfBanks": 1,
+  "name": "Banco Inversis",
+  "description": "Banco Inversis, S.A., is a Spanish financial services company established in 2001 and headquartered in Madrid. After selling its retail banking division in 2014, Banco Inversis focuses on institutional and capital markets business by providing integrated solutions to investment business entities and financial assets. It ranks as the 31st largest bank in Spain by total assets with €2.8 billion in assets as of 2024.",
+  "legalName": "Banco Inversis, S.A.",
   "ipoStatus": "public",
-  "stockSymbol": "BME:BKIA",
+  "stockSymbol": "BME:9802",
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296071/radar/icons/Bankia.jpg",
-  "websiteUrl": "https://www.bankia.com/en/",
+  "icon": null,
+  "websiteUrl": "https://www.inversis.es/",
   "ownership": [
     {
-      "shareholderName": "BFA",
-      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552490319/radar/icons/BFA.png",
-      "sourceUrl": "https://www.bankia.com/en/shareholders-and-investors/the-share/shareholder-structure/",
-      "providerId": "BFA",
-      "percentage": 68.4
+      "shareholderName": "Institutional Investors",
+      "shareholderIconUrl": null,
+      "sourceUrl": null,
+      "providerId": null,
+      "percentage": 85.0
     }
   ],
-  "stateOwned": true,
+  "stateOwned": false,
   "countryHQ": "ES",
   "countries": [
     "ES"
@@ -31,19 +34,18 @@
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "available"
     }
   ],
   "sandbox": {
     "status": "available",
-    "sourceUrl": null
+    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/inversis"
   },
-  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/inversis",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
@@ -55,7 +57,7 @@
         "accounts"
       ],
       "description": "",
-      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/inversis",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
@@ -67,7 +69,7 @@
         "payments"
       ],
       "description": "",
-      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/inversis",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
@@ -79,7 +81,7 @@
         "funds"
       ],
       "description": "",
-      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/inversis",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
@@ -88,40 +90,31 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "nordigen",
     "bankingsdk",
-    "klarna",
+    "salt-edge",
     "bridgeapi-io",
     "ibanity",
-    "truelayer",
     "equensworldline",
+    "nordigen",
     "plaid"
   ],
   "collections": [],
   "webApplication": true,
-  "mobileApps": [
-    {
-      "operatingSystem": "ios",
-      "storeUrl": "https://itunes.apple.com/gb/app/bankia-m%C3%B3vil/id387153389?mt=8"
-    },
-    {
-      "operatingSystem": "android",
-      "storeUrl": "https://play.google.com/store/apps/details?id=es.cm.android&hl=en"
-    }
-  ],
-  "investorRelationsUrl": "https://www.bankia.com/en/shareholders-and-investors/",
+  "mobileApps": [],
+  "investorRelationsUrl": null,
   "financialReports": [
     {
-      "label": "Q4 2018",
-      "date": "2018-12-31",
-      "url": "https://www.bankia.com/recursos/doc/corporativo/20121001/ingles74659/annual-report-consolidated-financial-statements-2018.pdf"
+      "label": "Annual Report 2024",
+      "date": "2024-12-31",
+      "url": "https://www.inversis.es/en/info_mercados.html"
     }
   ],
-  "twitter": "bankia",
-  "crunchbase": "bankia",
+  "twitter": null,
+  "wikipediaUrl": null,
+  "crunchbase": null,
   "bloomberg": null,
   "github": null,
-  "fca": "001b000000NMbTbAAL",
+  "fca": null,
   "alumni": [],
   "articles": [],
   "stack": [

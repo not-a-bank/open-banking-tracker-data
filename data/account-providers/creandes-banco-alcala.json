@@ -1,0 +1,144 @@
+{
+  "id": "creandes-banco-alcala",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "private"
+  ],
+  "bankingGroup": false,
+  "numberOfBanks": 1,
+  "name": "Creandes (Banco Alcalá)",
+  "description": "Banco Alcalá S.A., now part of the Crèdit Andorrà Group, is a Spanish private banking institution headquartered in Madrid with offices in Barcelona. The Crèdit Andorrà Group acquired 85% of the share capital in 2023 after receiving authorization from Spanish and Andorran regulatory bodies. The bank is geared towards global asset management for private and institutional clients.",
+  "legalName": "Banco Alcalá, S.A.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": null,
+  "websiteUrl": "https://creand.es/",
+  "ownership": [
+    {
+      "shareholderName": "Crèdit Andorrà Group",
+      "shareholderIconUrl": null,
+      "sourceUrl": "https://creandgroup.com/en/press-notes/the-credit-andorra-group-buys-85-of-banco-alcala/",
+      "providerId": null,
+      "percentage": 85.0
+    },
+    {
+      "shareholderName": "Original Shareholders",
+      "shareholderIconUrl": null,
+      "sourceUrl": null,
+      "providerId": null,
+      "percentage": 15.0
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": [
+    "ES"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "available"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/creandes"
+  },
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/creandes",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/creandes",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/creandes",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/creandes",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [
+    "bankingsdk",
+    "salt-edge",
+    "bridgeapi-io",
+    "ibanity",
+    "equensworldline",
+    "nordigen",
+    "plaid"
+  ],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": null,
+  "wikipediaUrl": null,
+  "crunchbase": null,
+  "bloomberg": null,
+  "github": null,
+  "fca": null,
+  "alumni": [],
+  "articles": [],
+  "stack": [
+    {
+      "id": "redsys-es",
+      "name": "Redsys",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1607659998/icons/redsys-es.jpg",
+      "websiteUrl": "http://www.redsys.es/"
+    }
+  ],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
