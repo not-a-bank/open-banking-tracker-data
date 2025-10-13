@@ -23,7 +23,7 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://www.sibsapimarket.com",
+  "developerPortalUrl": "https://developer.sibsapimarket.com/sandbox/product",
   "apiStandards": [],
   "apiProducts": [],
   "ownership": [],
@@ -32,5 +32,9 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "IGSEESMMXXX"
+  "swiftCode": "IGSEESMMXXX",
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://sandbox.sibspayments.com/sibs/spg/v2/"
+  }
 }

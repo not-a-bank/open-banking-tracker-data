@@ -23,14 +23,55 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://apimarket.caixaenginyers.com",
+  "developerPortalUrl": "https://apimarket.caixaenginyers.com/7302/swagger/index.html",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://apimarket.caixaenginyers.com/7302/swagger/index.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://apimarket.caixaenginyers.com/7302/swagger/index.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://apimarket.caixaenginyers.com/7302/swagger/index.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "CDENESBB"
+  "swiftCode": "CDENESBB",
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "No encontrado"
+  }
 }

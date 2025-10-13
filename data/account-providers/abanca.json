@@ -28,7 +28,7 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://openbanking.abanca.com/docs/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -69,5 +69,9 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://openbanking.abanca.com/sandbox/"
+  }
 }
