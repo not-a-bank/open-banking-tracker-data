@@ -25,7 +25,44 @@
   ],
   "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/unicajabanco",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/unicajabanco",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/unicajabanco",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/unicajabanco",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": "",
@@ -33,5 +70,9 @@
     "plaid",
     "salt-edge"
   ],
-  "swiftCode": "UCJAES2M"
+  "swiftCode": "UCJAES2M",
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/unicajabanco"
+  }
 }

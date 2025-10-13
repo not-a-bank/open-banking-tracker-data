@@ -1,5 +1,5 @@
 {
-  "id": "cr-sur",
+  "id": "cbnk",
   "type": [
     "account"
   ],
@@ -7,10 +7,10 @@
     "universal"
   ],
   "status": "live",
-  "name": "Caja Rural del Sur",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/cr_es.svg",
+  "name": "CBNK Banco de Colectivos",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/banco_caminos_es.svg",
   "verified": false,
-  "websiteUrl": "https://www.bde.es",
+  "websiteUrl": "https://cbnk.es",
   "countryHQ": "ES",
   "countries": [
     "ES"
@@ -23,7 +23,7 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/CBNK",
   "apiStandards": [],
   "apiProducts": [
     {
@@ -33,7 +33,7 @@
         "accounts"
       ],
       "description": "",
-      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/CBNK",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
@@ -45,7 +45,7 @@
         "payments"
       ],
       "description": "",
-      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/CBNK",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
@@ -57,7 +57,7 @@
         "funds"
       ],
       "description": "",
-      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/CBNK",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
@@ -67,12 +67,12 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "plaid",
+    "bridgeapi-io",
     "salt-edge"
   ],
-  "swiftCode": "BCOEESMM187",
+  "swiftCode": "CCOCESMM",
   "sandbox": {
     "status": "available",
-    "sourceUrl": "https://apis-i.redsys.es:20443/psd2/xs2a/api-entrada-xs2a/services/BCE/v1.1"
+    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/CBNK"
   }
 }

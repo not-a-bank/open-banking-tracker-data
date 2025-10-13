@@ -1,5 +1,5 @@
 {
-  "id": "cr-sur",
+  "id": "cr-central",
   "type": [
     "account"
   ],
@@ -7,7 +7,7 @@
     "universal"
   ],
   "status": "live",
-  "name": "Caja Rural del Sur",
+  "name": "Caja Rural Central",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/cr_es.svg",
   "verified": false,
   "websiteUrl": "https://www.bde.es",
@@ -67,10 +67,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "plaid",
     "salt-edge"
   ],
-  "swiftCode": "BCOEESMM187",
+  "swiftCode": "BCOEESMM005",
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://apis-i.redsys.es:20443/psd2/xs2a/api-entrada-xs2a/services/BCE/v1.1"

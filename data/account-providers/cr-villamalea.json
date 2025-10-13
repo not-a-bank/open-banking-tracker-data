@@ -25,7 +25,44 @@
   ],
   "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": "",
@@ -33,5 +70,9 @@
     "plaid",
     "salt-edge"
   ],
-  "swiftCode": "BCOEESMM144"
+  "swiftCode": "BCOEESMM144",
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://apis-i.redsys.es:20443/psd2/xs2a/api-entrada-xs2a/services/BCE/v1.1"
+  }
 }

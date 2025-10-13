@@ -23,14 +23,55 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://apimarket.bancapueyo.es",
+  "developerPortalUrl": "https://apimarket.bancapueyo.es/7306/swagger/index.html",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://apimarket.bancapueyo.es/7306/swagger/index.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://apimarket.bancapueyo.es/7306/swagger/index.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://apimarket.bancapueyo.es/7306/swagger/index.html",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "BAPUES22"
+  "swiftCode": "BAPUES22",
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "No encontrado"
+  }
 }
