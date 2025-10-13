@@ -12,7 +12,7 @@
   "ipoStatus": "public",
   "stockSymbol": "ALLY",
   "verified": false,
-  "status": "live",
+  "status": "discontinued",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1637113078/radar/icons/ally.jpg",
   "websiteUrl": "https://www.ally.com/",
   "ownership": [],
@@ -23,15 +23,15 @@
   ],
   "compliance": [],
   "sandbox": {
-    "status": "available",
-    "sourceUrl": "https://developer.ally.com/"
+    "status": "unavailable",
+    "sourceUrl": null
   },
-  "developerPortalUrl": "https://developer.ally.com/",
+  "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://www.ally.com/api/invest/documentation",
+  "apiReferenceUrl": null,
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
@@ -39,7 +39,8 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid"
+    "plaid",
+    "teller-io"
   ],
   "collections": [],
   "webApplication": true,
