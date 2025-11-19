@@ -5,8 +5,9 @@
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "validate-data": "node scripts/validate.js",
-    "upload": "git pull && node scripts/validate.js && node scripts/upload.js"
+    "validate-data": "node scripts/validate-all.js",
+    "validate-providers": "node scripts/validate.js",
+    "validate-aggregators": "node scripts/validate-aggregators.js"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,131 @@
+{
+  "title": "API Aggregator",
+  "type": "object",
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "id": "",
+  "required": [
+    "id",
+    "label",
+    "website",
+    "iconUrl",
+    "countryHQ"
+  ],
+  "properties": {
+    "id": {
+      "title": "ID",
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Unique identifier for the API aggregator (lowercase, alphanumeric and hyphens only)",
+      "examples": ["salt-edge", "ibanity", "plaid"]
+    },
+    "label": {
+      "title": "Label",
+      "type": "string",
+      "description": "Display name of the API aggregator",
+      "examples": ["Salt Edge", "Ibanity", "Plaid"]
+    },
+    "website": {
+      "title": "Website",
+      "type": "string",
+      "format": "uri",
+      "description": "Primary website URL of the API aggregator",
+      "examples": ["https://www.saltedge.com/products/psd2_account_info", "https://ibanity.com/"]
+    },
+    "iconUrl": {
+      "title": "Icon URL",
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the company logo or icon image",
+      "examples": ["https://res.cloudinary.com/banq/image/upload/v1553955664/api_aggregators/salt_edge/icon.jpg"]
+    },
+    "developerPortalUrl": {
+      "title": "Developer Portal URL",
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the developer documentation or API portal",
+      "examples": ["https://documentation.ibanity.com/xs2a/api", "https://docs.belvo.co/"]
+    },
+    "twitter": {
+      "title": "Twitter Handle",
+      "type": ["string", "null"],
+      "pattern": "^[A-Za-z0-9_]*$",
+      "description": "Twitter handle (without the @ symbol), or null if not available",
+      "examples": ["saltedge", "ibanityhq", "plaid", null]
+    },
+    "sourceUrl": {
+      "title": "Source URL",
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "URL to an article or source with information about this aggregator",
+      "examples": ["https://thefintechtimes.com/yolt-open-banking-api/"]
+    },
+    "countryHQ": {
+      "title": "Country HQ",
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO 3166-1 alpha-2 country code of the headquarters location",
+      "examples": ["ES", "BE", "GB", "US", "FR"]
+    },
+    "networkId": {
+      "title": "Network ID",
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Alternative network identifier (if different from id)",
+      "examples": ["neonomics-io"]
+    },
+    "companyId": {
+      "title": "Company ID",
+      "type": "string",
+      "description": "ID of the parent company if applicable",
+      "examples": ["visa", "bankin"]
+    },
+    "apideckNetworkId": {
+      "title": "APIdeck Network ID",
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$",
+      "description": "Network identifier used by APIdeck",
+      "examples": ["budget-insight", "bridgeapi-io", "finicity"]
+    },
+    "verified": {
+      "title": "Verified",
+      "type": "boolean",
+      "description": "Whether the API aggregator has been verified as legitimate and operational",
+      "examples": [true, false]
+    },
+    "marketFocus": {
+      "title": "Market Focus",
+      "type": "string",
+      "description": "Geographic region or market focus of the aggregator",
+      "examples": ["Latin America", "MENA", "Europe"]
+    },
+    "marketCoverage": {
+      "title": "Market Coverage",
+      "type": "object",
+      "description": "Geographic coverage information",
+      "properties": {
+        "live": {
+          "title": "Live Markets",
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}$"
+          },
+          "description": "ISO 3166-1 alpha-2 country codes where the service is live",
+          "examples": [["MX", "CO", "BR"]]
+        },
+        "upcoming": {
+          "title": "Upcoming Markets",
+          "type": "array",
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}$"
+          },
+          "description": "ISO 3166-1 alpha-2 country codes for upcoming launches",
+          "examples": [["BR", "AR"]]
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}
+
