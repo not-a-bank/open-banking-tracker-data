@@ -1,0 +1,145 @@
+name: Validate Data
+
+on:
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'schema.json'
+      - 'api-aggregators-schema.json'
+      - 'scripts/validate*.js'
+      - '.github/workflows/validate-data.yml'
+      - 'package.json'
+  push:
+    branches:
+      - master
+    paths:
+      - 'data/**'
+      - 'schema.json'
+      - 'api-aggregators-schema.json'
+      - 'scripts/validate*.js'
+      - '.github/workflows/validate-data.yml'
+      - 'package.json'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        node-version: [16.x]
+    
+    steps:
+      - name: ⬇️ Checkout code
+        uses: actions/checkout@v3
+      
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+      
+      - name: 📥 Install dependencies
+        run: npm ci
+      
+      - name: 🔍 Validate all data
+        run: npm run validate-data
+      
+      - name: ✅ Validation passed
+        if: success()
+        run: echo "✅ All data validation checks passed!"
+      
+      - name: ❌ Validation failed
+        if: failure()
+        run: |
+          echo "❌ Data validation failed!"
+          echo "Please ensure your data files follow the required schema."
+          exit 1
+
+  validate-providers:
+    runs-on: ubuntu-latest
+    needs: validate
+    
+    strategy:
+      matrix:
+        node-version: [16.x]
+    
+    steps:
+      - name: ⬇️ Checkout code
+        uses: actions/checkout@v3
+      
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+      
+      - name: 📥 Install dependencies
+        run: npm ci
+      
+      - name: 🔍 Validate account providers
+        run: npm run validate-providers
+      
+      - name: ✅ Provider validation passed
+        if: success()
+        run: echo "✅ All provider validation checks passed!"
+
+  validate-aggregators:
+    runs-on: ubuntu-latest
+    needs: validate
+    
+    strategy:
+      matrix:
+        node-version: [16.x]
+    
+    steps:
+      - name: ⬇️ Checkout code
+        uses: actions/checkout@v3
+      
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+      
+      - name: 📥 Install dependencies
+        run: npm ci
+      
+      - name: 🔍 Validate API aggregators
+        run: npm run validate-aggregators
+      
+      - name: ✅ Aggregator validation passed
+        if: success()
+        run: echo "✅ All API aggregator validation checks passed!"
+
+  pr-comment:
+    runs-on: ubuntu-latest
+    needs: [validate, validate-providers, validate-aggregators]
+    if: always()
+    
+    steps:
+      - name: 📝 Add PR comment on success
+        if: success()
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '✅ All data validation checks passed!\n\n- ✅ Account Providers\n- ✅ API Aggregators'
+            })
+      
+      - name: 📝 Add PR comment on failure
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: '❌ Data validation failed!\n\nPlease review the validation errors in the workflow logs and ensure your data follows the required schema.'
+            })
+

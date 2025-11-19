@@ -14,9 +14,46 @@ You can add a service by following the [contribution guidelines](https://github.
 
 ## Format
 
-We use JSON Schema to validate the data and to maintain a high level of data quality. Please find the schema at the [following location](https://github.com/apideck-io/open-banking-tracker-data/blob/master/schema.json).
+We use JSON Schema to validate the data and to maintain a high level of data quality. Please find the schemas at:
+- [Account Provider & Third-Party Schema](https://github.com/apideck-io/open-banking-tracker-data/blob/master/schema.json)
+- [API Aggregator Schema](https://github.com/apideck-io/open-banking-tracker-data/blob/master/api-aggregators-schema.json)
 
-### [Example](https://github.com/apideck-io/open-banking-tracker-data/blob/master/schema.json)
+## Data Validation
+
+All data is automatically validated to ensure quality and consistency. We have comprehensive validation at three levels:
+
+### Local Validation (Before Commit)
+
+Validate all data locally before pushing:
+
+```bash
+npm install
+npm run validate-data
+```
+
+This validates both account providers and API aggregators against their schemas.
+
+### Specific Type Validation
+
+Validate a specific data type:
+
+```bash
+# Validate account and third-party providers only
+npm run validate-providers
+
+# Validate API aggregators only
+npm run validate-aggregators
+```
+
+### Available npm Scripts
+
+```json
+{
+  "validate-data": "Validate all data files (providers + aggregators)",
+  "validate-providers": "Validate account and third-party providers only",
+  "validate-aggregators": "Validate API aggregators only"
+}
+```
 
 ## Removal
 
@@ -27,13 +64,13 @@ If you want to be removed from the tracker, send in a pull request with the reas
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Please see the [license file](https://github.com/apideck-io/open-banking-tracker-data/blob/master/LICENSE.md) for more information.
 
-Commercial licenses available on request [contact us](mailto:data@banq.ai)
+Commercial licenses available on request [contact us](mailto:hello@apideck.com)
 
 ## About
 
 Made in Belgium 🇧🇪 Europe 🇪🇺
 
-The Open Banking Tracker is created by Banq. Banq builds data products and ecosystem solutions for bank and fintech providers.
+The Open Banking Tracker is created by [Apideck](https://www.apideck.com/).
 
 ## Disclaimer 
 
@@ -42,6 +79,4 @@ We do our best to ensure that the data we provide is complete, accurate and usef
 ## Links
 
 * [Open Banking Tracker](https://www.openbankingtracker.com/)
-* [Banq](https://www.banq.ai/)
-* [Twitter - Banq](https://twitter.com/banq_ai)
-* [Twitter - Banq Network](https://twitter.com/banqnetwork)
+* [Apideck](https://www.apideck.com/)
