@@ -44,7 +44,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
@@ -90,5 +92,6 @@
   ],
   "platforms": [],
   "awards": [],
-  "marketplaceUrl": "https://www.bw-bank.de/de/home/services/apps-digitale-services.html?n=true&stref=hnav"
+  "marketplaceUrl": "https://www.bw-bank.de/de/home/services/apps-digitale-services.html?n=true&stref=hnav",
+  "swiftCode": "SOLADEST600"
 }

@@ -37,7 +37,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [
@@ -79,5 +81,6 @@
   "platforms": [
     "android"
   ],
-  "awards": []
+  "awards": [],
+  "swiftCode": "SOBKDEB2XXX"
 }

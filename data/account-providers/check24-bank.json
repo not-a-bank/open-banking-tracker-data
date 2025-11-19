@@ -44,7 +44,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
@@ -117,5 +119,6 @@
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "swiftCode": "DEFFDEFFXXX"
 }

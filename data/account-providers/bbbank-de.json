@@ -38,7 +38,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [
@@ -74,5 +76,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "swiftCode": "GENODE61BBB"
 }
