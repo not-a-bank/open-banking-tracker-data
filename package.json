@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "validate-data": "node scripts/validate-all.js",
     "validate-providers": "node scripts/validate.js",
-    "validate-aggregators": "node scripts/validate-aggregators.js"
+    "validate-aggregators": "node scripts/validate-aggregators.js",
+    "validate-file": "node scripts/validate-file.js"
   },
   "repository": {
     "type": "git",
