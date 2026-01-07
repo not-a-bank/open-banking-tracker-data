@@ -1,25 +1,32 @@
 {
-  "id": "access-bank-ng",
+  "id": "standard-chartered-za",
   "type": [
     "account"
   ],
   "bankType": [
     "universal"
   ],
-  "name": "Access Bank",
-  "description": null,
-  "legalName": "Access Bank Plc",
-  "ipoStatus": "private",
+  "name": "Standard Chartered South Africa",
+  "description": "Standard Chartered Bank South Africa is a commercial bank in South Africa. It is a subsidiary of British Standard Chartered and is registered as a Foreign Bank by the South African Reserve Bank.",
+  "legalName": "Standard Chartered Bank South Africa",
+  "ipoStatus": "subsidiary",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://www.google.com/s2/favicons?domain=www.accessbankplc.com&sz=128",
-  "websiteUrl": "https://www.accessbankplc.com/",
-  "ownership": [],
+  "icon": "https://www.google.com/s2/favicons?domain=www.sc.com&sz=128",
+  "websiteUrl": "https://www.sc.com/za/",
+  "ownership": [
+    {
+      "shareholderName": "Standard Chartered",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552296088/radar/icons/Standard_Chartered.jpg",
+      "providerId": "standard-chartered",
+      "percentage": 100
+    }
+  ],
   "stateOwned": false,
-  "countryHQ": "NG",
+  "countryHQ": "ZA",
   "countries": [
-    "NG"
+    "ZA"
   ],
   "compliance": [
     {
@@ -46,7 +53,7 @@
   "mobileApps": [],
   "financialReports": [],
   "twitter": null,
-  "wikipediaUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Standard_Chartered_South_Africa",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
@@ -70,3 +77,4 @@
   "platforms": [],
   "awards": []
 }
+
