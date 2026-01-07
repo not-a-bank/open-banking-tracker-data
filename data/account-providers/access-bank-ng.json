@@ -1,27 +1,32 @@
 {
-  "id": "brassbank-ng",
+  "id": "access-bank-ng",
   "type": [
     "account"
   ],
   "bankType": [
-    "challenger"
+    "universal"
   ],
-  "name": "Brass",
-  "description": "Current account for fast growing businesses in Nigeria.",
-  "legalName": null,
+  "name": "Access Bank",
+  "description": null,
+  "legalName": "Access Bank Plc",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607538967/radar/icons/trybrass.jpg",
-  "websiteUrl": "https://www.trybrass.com/",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1629200000/radar/icons/access-bank-ng.jpg",
+  "websiteUrl": "https://www.accessbankplc.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "NG",
   "countries": [
     "NG"
   ],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
@@ -40,12 +45,10 @@
   "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
-  "twitter": "brassbanking",
+  "twitter": null,
+  "wikipediaUrl": null,
   "bloomberg": null,
   "alumni": [],
-  "keySegments": [
-    "business"
-  ],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
@@ -54,23 +57,14 @@
   "strategies": [],
   "prepaidCards": [],
   "prepaidDebitCards": [],
-  "debitCards": [
-    "mastercard"
-  ],
+  "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
   "applePay": false,
   "googlePay": false,
   "samsungPay": false,
   "fitbitPay": false,
-  "partnerships": [
-    {
-      "id": "mastercard",
-      "name": "Mastercard",
-      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151305/catalog/mastercard/icon128x128.jpg",
-      "websiteUrl": "https://mastercard.com"
-    }
-  ],
+  "partnerships": [],
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
