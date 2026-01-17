@@ -1,0 +1,146 @@
+{
+  "id": "griffin",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Griffin",
+  "legalName": "Griffin Bank Ltd",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1737080400/radar/icons/griffin.png",
+  "websiteUrl": "https://griffin.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://docs.griffin.com/"
+  },
+  "developerPortalUrl": "https://docs.griffin.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": true,
+  "apiAuth": [
+    "OAUTH2"
+  ],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Securely share financial data from Griffin accounts with other banks and fintechs via Open Banking.",
+      "documentationUrl": "https://docs.griffin.com/docs/guides/open-banking/",
+      "apiReferenceUrl": "https://docs.griffin.com/reference/",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Let payment providers initiate payments on behalf of Griffin account holders.",
+      "documentationUrl": "https://docs.griffin.com/docs/guides/open-banking/",
+      "apiReferenceUrl": "https://docs.griffin.com/reference/",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Verification",
+      "type": "other",
+      "categories": [
+        "auth"
+      ],
+      "description": "Customer onboarding and verification services.",
+      "documentationUrl": "https://docs.griffin.com/docs/guides/",
+      "apiReferenceUrl": "https://docs.griffin.com/reference/",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Bank Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Create and manage bank accounts including operational accounts, platform accounts, and client money accounts.",
+      "documentationUrl": "https://docs.griffin.com/docs/guides/",
+      "apiReferenceUrl": "https://docs.griffin.com/reference/",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send and receive payments via Faster Payments and other payment rails.",
+      "documentationUrl": "https://docs.griffin.com/docs/guides/",
+      "apiReferenceUrl": "https://docs.griffin.com/reference/",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [
+    "OBIE"
+  ],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "griffin_bank",
+  "crunchbase": "griffin-2",
+  "bloomberg": null,
+  "github": null,
+  "fca": null,
+  "articles": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "tell.money",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579894505/catalog/tell-money/icon128x128.jpg",
+      "websiteUrl": "https://tell.money/",
+      "id": "tell-money",
+      "title": "Griffin partners with tell.money for Open Banking APIs",
+      "desription": "Griffin has partnered with tell.money to provide a set of APIs that follow the open banking standard, allowing third party providers to integrate with Griffin so their software can read and interact with the platform.",
+      "sourceUrl": "https://docs.griffin.com/docs/guides/open-banking/",
+      "features": [
+        "open-banking"
+      ]
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
