@@ -1,0 +1,166 @@
+{
+  "id": "grasshopper",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger",
+    "commercial"
+  ],
+  "name": "Grasshopper Bank",
+  "legalName": "Grasshopper Bancorp Inc.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1737080400/radar/icons/grasshopper.png",
+  "websiteUrl": "https://www.grasshopper.bank/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://www.grasshopper.bank/banking-solutions/api-banking/"
+  },
+  "developerPortalUrl": "https://www.grasshopper.bank/banking-solutions/api-banking/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "API Banking",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Access account balance and transaction activity via API.",
+      "documentationUrl": "https://www.grasshopper.bank/banking-solutions/api-banking/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "ACH Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "ACH debits and credits for automated payments.",
+      "documentationUrl": "https://www.grasshopper.bank/banking-solutions/api-banking/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Domestic Wires",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Domestic wire transfers via API.",
+      "documentationUrl": "https://www.grasshopper.bank/banking-solutions/api-banking/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Transfers",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Funds transfers between accounts.",
+      "documentationUrl": "https://www.grasshopper.bank/banking-solutions/api-banking/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Bill Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Bill payment services via API.",
+      "documentationUrl": "https://www.grasshopper.bank/banking-solutions/api-banking/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Banking-as-a-Service",
+      "type": "other",
+      "categories": [
+        "accounts",
+        "payments"
+      ],
+      "description": "Modern APIs and digital solutions to power fintechs with white-label banking services.",
+      "documentationUrl": "https://www.grasshopper.bank/banking-solutions/baas/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": "grasshopperbank",
+  "crunchbase": "grasshopper-bank",
+  "bloomberg": null,
+  "github": null,
+  "fca": null,
+  "articles": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "partnerships": [
+    {
+      "name": "Treasury Prime",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579894505/catalog/treasury-prime/icon128x128.jpg",
+      "websiteUrl": "https://treasuryprime.com/",
+      "id": "treasury-prime"
+    },
+    {
+      "name": "Narmi",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579894505/catalog/narmi/icon128x128.jpg",
+      "websiteUrl": "https://www.narmi.com/",
+      "id": "narmi"
+    },
+    {
+      "name": "Alloy",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579894505/catalog/alloy/icon128x128.jpg",
+      "websiteUrl": "https://www.alloy.com/",
+      "id": "alloy"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
