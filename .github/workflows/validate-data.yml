@@ -21,6 +21,63 @@ on:
       - 'package.json'
 
 jobs:
+  validate-changed-files:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: ⬇️ Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.x
+          cache: 'npm'
+      
+      - name: 📥 Install dependencies
+        run: npm ci
+      
+      - name: 🔍 Get changed JSON files
+        id: changed-files
+        run: |
+          if [ "${{ github.event_name }}" == "pull_request" ]; then
+            CHANGED_FILES=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/**/*.json' | tr '\n' ' ')
+          else
+            CHANGED_FILES=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/**/*.json' | tr '\n' ' ')
+          fi
+          echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
+          echo "Changed files: $CHANGED_FILES"
+      
+      - name: 🔍 Validate changed files (schema)
+        if: steps.changed-files.outputs.files != ''
+        run: |
+          FAILED=0
+          for file in ${{ steps.changed-files.outputs.files }}; do
+            if [ ! -f "$file" ]; then
+              echo "⚠️ Skipping $file (file does not exist)"
+              continue
+            fi
+            echo "Validating schema: $file"
+            if ! node scripts/validate-file.js "$file"; then
+              FAILED=1
+            fi
+          done
+          if [ $FAILED -eq 1 ]; then
+            exit 1
+          fi
+      
+      - name: 🖼️ Validate changed files (icons)
+        if: steps.changed-files.outputs.files != ''
+        continue-on-error: true
+        run: |
+          node scripts/validate-icons.js ${{ steps.changed-files.outputs.files }} || echo "::warning::Some icon URLs are not accessible. Please ensure icons are uploaded."
+      
+      - name: ℹ️ No files to validate
+        if: steps.changed-files.outputs.files == ''
+        run: echo "No JSON files were changed"
+
   validate:
     runs-on: ubuntu-latest
     
@@ -113,8 +170,8 @@ jobs:
 
   pr-comment:
     runs-on: ubuntu-latest
-    needs: [validate, validate-providers, validate-aggregators]
-    if: always()
+    needs: [validate-changed-files, validate, validate-providers, validate-aggregators]
+    if: always() && github.event_name == 'pull_request'
     
     steps:
       - name: 📝 Add PR comment on success
@@ -127,7 +184,7 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '✅ All data validation checks passed!\n\n- ✅ Account Providers\n- ✅ API Aggregators'
+              body: '✅ All data validation checks passed!\n\n- ✅ Changed Files\n- ✅ Account Providers\n- ✅ API Aggregators'
             })
       
       - name: 📝 Add PR comment on failure
