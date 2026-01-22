@@ -3,7 +3,9 @@
   "type": [
     "account"
   ],
-  "bankType": ["universal"],
+  "bankType": [
+    "universal"
+  ],
   "status": "live",
   "name": "Bankhaus Spangler",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/bankhaus_spangler_oauth_client_at.svg",
@@ -30,5 +32,6 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "SPAEAT2SXXX"
+  "swiftCode": "SPAEAT2SXXX",
+  "bic": "SPAEAT2SWIE"
 }
