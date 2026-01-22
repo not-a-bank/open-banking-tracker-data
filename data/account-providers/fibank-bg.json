@@ -37,7 +37,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiReferenceUrl": "https://psd2dev.fibank.bg",
-  "apiAggregators": ["equensworldline"],
+  "apiAggregators": [
+    "equensworldline"
+  ],
   "apiProducts": [
     {
       "label": "Account Information",
@@ -114,5 +116,6 @@
   "creditCards": [],
   "partnerships": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "FINVBGSFXXX"
 }
