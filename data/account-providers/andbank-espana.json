@@ -15,7 +15,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.andbank.com.ico",
   "websiteUrl": "https://www.andbank.com/",
   "ownership": [
     {
@@ -23,7 +23,7 @@
       "shareholderIconUrl": null,
       "sourceUrl": null,
       "providerId": null,
-      "percentage": 100.0
+      "percentage": 100
     }
   ],
   "stateOwned": false,
@@ -133,5 +133,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "DEGRESBBXXX"
 }

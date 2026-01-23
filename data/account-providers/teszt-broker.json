@@ -1,0 +1,30 @@
+{
+  "id": "teszt-broker",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "TESZT BROKER",
+  "legalName": "TESZT BROKER",
+  "bic": "TEBRHUH1XXX",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.tesztbroker.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "HU",
+  "countries": [
+    "HU"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}
