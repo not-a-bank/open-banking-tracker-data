@@ -1,0 +1,32 @@
+{
+  "id": "raiffeisenbank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Raiffeisenbank",
+  "legalName": "Raiffeisenbank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "volt"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RZBAATWWXXX"
+}

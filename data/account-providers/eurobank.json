@@ -1,0 +1,32 @@
+{
+  "id": "eurobank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Eurobank",
+  "legalName": "Eurobank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.eurobank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "GR",
+  "countries": [
+    "GR"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "volt"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "ERBKGRAAXXX"
+}

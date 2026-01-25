@@ -68,15 +68,16 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "plaid",
-    "nordigen",
-    "neonomics",
-    "klarna",
-    "salt-edge",
     "enablebanking",
     "enfuce",
     "fintecture",
-    "truelayer"
+    "klarna",
+    "neonomics",
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "truelayer",
+    "volt"
   ],
   "webApplication": true,
   "mobileApps": [

@@ -95,16 +95,17 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
-    "token",
-    "yolt",
-    "openwrks",
-    "salt-edge",
     "banqup",
-    "truelayer",
     "bridgeapi-io",
     "equensworldline",
-    "moneyhub-enterprise"
+    "moneyhub-enterprise",
+    "openwrks",
+    "plaid",
+    "salt-edge",
+    "token",
+    "truelayer",
+    "volt",
+    "yolt"
   ],
   "collections": [
     "cma9"

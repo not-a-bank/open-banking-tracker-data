@@ -54,7 +54,7 @@
       "categories": [
         "payments"
       ],
-      "description": "This endpoint retrieves a collection of an account’s transactions.",
+      "description": "This endpoint retrieves a collection of an account\u2019s transactions.",
       "documentationUrl": "https://tideapi.github.io/docs/#transactions",
       "apiReferenceUrl": "https://tideapi.github.io/docs/#transactions",
       "premium": false,
@@ -88,8 +88,9 @@
   "apiStandards": [],
   "apiAggregators": [
     "plaid",
+    "salt-edge",
     "truelayer",
-    "salt-edge"
+    "volt"
   ],
   "sdks": null,
   "postmanCollections": null,

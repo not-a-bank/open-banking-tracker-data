@@ -21,7 +21,7 @@
       "sourceUrl": "https://www.al-bank.dk/media/131314/al_annual_report_2018.pdf"
     },
     {
-      "shareholderName": "Fagligt Fælles Forbund",
+      "shareholderName": "Fagligt F\u00e6lles Forbund",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553180291/radar/icons/Fagligt_F%C3%A6lles_Forbund.jpg",
       "providerId": "fagligt-faelles-Forbund",
       "percentage": 31.7,
@@ -98,7 +98,8 @@
   "fca": null,
   "articles": [],
   "apiAggregators": [
-    "plaid"
+    "plaid",
+    "volt"
   ],
   "bic": "ALBADKKK123"
 }

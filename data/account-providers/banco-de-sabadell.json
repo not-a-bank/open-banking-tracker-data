@@ -90,11 +90,12 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "bankingsdk",
-    "klarna",
     "bridgeapi-io",
-    "ibanity",
     "equensworldline",
-    "plaid"
+    "ibanity",
+    "klarna",
+    "plaid",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

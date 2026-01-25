@@ -88,12 +88,13 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "bankingsdk",
-    "budget-insight",
-    "klarna",
-    "ibanity",
     "banqup",
+    "budget-insight",
     "equensworldline",
-    "salt-edge"
+    "ibanity",
+    "klarna",
+    "salt-edge",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

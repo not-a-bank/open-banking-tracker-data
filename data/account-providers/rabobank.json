@@ -9,7 +9,7 @@
   "bankingGroup": true,
   "numberOfBanks": 27,
   "name": "Rabobank",
-  "legalName": "Coöperatieve Rabobank U.A.",
+  "legalName": "Co\u00f6peratieve Rabobank U.A.",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -163,10 +163,11 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
     "klarna",
+    "plaid",
     "salt-edge",
-    "truelayer"
+    "truelayer",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

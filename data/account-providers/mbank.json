@@ -45,12 +45,13 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.api.mbank.pl/",
   "apiAggregators": [
-    "plaid",
-    "klarna",
     "banqup",
     "fintecture",
+    "klarna",
+    "plaid",
+    "salt-edge",
     "truelayer",
-    "salt-edge"
+    "volt"
   ],
   "apiProducts": [
     {

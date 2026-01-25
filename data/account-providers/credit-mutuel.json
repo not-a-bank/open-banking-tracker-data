@@ -6,8 +6,8 @@
   "bankType": [
     "universal"
   ],
-  "name": "Crédit Mutuel",
-  "legalName": "Crédit Mutuel",
+  "name": "Cr\u00e9dit Mutuel",
+  "legalName": "Cr\u00e9dit Mutuel",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -43,16 +43,17 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://www.creditmutuel.fr/oauth2/en/devportal/stetpsd2-spec.html",
   "apiAggregators": [
-    "plaid",
-    "nordigen",
     "bankingsdk",
-    "budget-insight",
-    "klarna",
-    "fintecture",
     "bridgeapi-io",
-    "ibanity",
+    "budget-insight",
     "equensworldline",
-    "truelayer"
+    "fintecture",
+    "ibanity",
+    "klarna",
+    "nordigen",
+    "plaid",
+    "truelayer",
+    "volt"
   ],
   "apiProducts": [
     {

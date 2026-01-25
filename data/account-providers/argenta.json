@@ -44,10 +44,11 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "klarna",
     "bankingsdk",
     "banqup",
-    "ibanity"
+    "ibanity",
+    "klarna",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

@@ -9,7 +9,7 @@
   "bankingGroup": false,
   "numberOfBanks": 1,
   "name": "Banco Inversis",
-  "description": "Banco Inversis, S.A., is a Spanish financial services company established in 2001 and headquartered in Madrid. After selling its retail banking division in 2014, Banco Inversis focuses on institutional and capital markets business by providing integrated solutions to investment business entities and financial assets. It ranks as the 31st largest bank in Spain by total assets with €2.8 billion in assets as of 2024.",
+  "description": "Banco Inversis, S.A., is a Spanish financial services company established in 2001 and headquartered in Madrid. After selling its retail banking division in 2014, Banco Inversis focuses on institutional and capital markets business by providing integrated solutions to investment business entities and financial assets. It ranks as the 31st largest bank in Spain by total assets with \u20ac2.8 billion in assets as of 2024.",
   "legalName": "Banco Inversis, S.A.",
   "ipoStatus": "public",
   "stockSymbol": "BME:9802",
@@ -91,12 +91,13 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "bankingsdk",
-    "salt-edge",
     "bridgeapi-io",
-    "ibanity",
     "equensworldline",
+    "ibanity",
     "nordigen",
-    "plaid"
+    "plaid",
+    "salt-edge",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

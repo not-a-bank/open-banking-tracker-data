@@ -30,9 +30,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "volt",
+    "yaxi"
   ],
   "swiftCode": "BELADEBEXXX"
 }

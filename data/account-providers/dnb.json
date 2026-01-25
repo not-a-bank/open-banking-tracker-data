@@ -185,13 +185,14 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
-    "nordigen",
     "bankingsdk",
-    "neonomics",
     "enfuce",
     "ibanity",
-    "salt-edge"
+    "neonomics",
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

@@ -9,7 +9,7 @@
   "bankingGroup": true,
   "numberOfBanks": 9,
   "name": "Millennium BCP",
-  "legalName": "Banco Comercial Português (BCP), S.A.",
+  "legalName": "Banco Comercial Portugu\u00eas (BCP), S.A.",
   "ipoStatus": "public",
   "stockSymbol": "ELI:BCP",
   "verified": false,
@@ -176,7 +176,7 @@
       "categories": [
         "payments"
       ],
-      "description": "The Bulk TSU Payment Initiation API enables you to initiate a bulk TSU (Taxa Social Única) payment using the payment product made available by the Bank of the Payment Service User in his internet Banking. With this API it is possible to integrate this type of bulk TSU payments in an online store as well as to provide personal finance services to both private and corporate clients. The API is designed on a REST model using JSON structures.",
+      "description": "The Bulk TSU Payment Initiation API enables you to initiate a bulk TSU (Taxa Social \u00danica) payment using the payment product made available by the Bank of the Payment Service User in his internet Banking. With this API it is possible to integrate this type of bulk TSU payments in an online store as well as to provide personal finance services to both private and corporate clients. The API is designed on a REST model using JSON structures.",
       "documentationUrl": "https://developer.sibsapimarket.com/sandbox/node/3332",
       "apiReferenceUrl": "https://developer.sibsapimarket.com/sandbox/node/3330",
       "apiSpecs": [
@@ -307,8 +307,9 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "budget-insight",
     "nordigen",
-    "budget-insight"
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

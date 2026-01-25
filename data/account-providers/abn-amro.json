@@ -131,14 +131,15 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
-    "nordigen",
     "bankingsdk",
-    "klarna",
-    "ibanity",
     "bridgeapi-io",
     "equensworldline",
-    "salt-edge"
+    "ibanity",
+    "klarna",
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

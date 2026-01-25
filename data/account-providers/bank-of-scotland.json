@@ -113,20 +113,21 @@
   ],
   "apiStandards": [],
   "apiAggregators": [
-    "plaid",
-    "nordigen",
-    "truelayer",
-    "klarna",
-    "token",
-    "yolt",
-    "openwrks",
-    "salt-edge",
     "banked",
-    "friendlyscore",
-    "fintecture",
     "bridgeapi-io",
     "equensworldline",
-    "moneyhub-enterprise"
+    "fintecture",
+    "friendlyscore",
+    "klarna",
+    "moneyhub-enterprise",
+    "nordigen",
+    "openwrks",
+    "plaid",
+    "salt-edge",
+    "token",
+    "truelayer",
+    "volt",
+    "yolt"
   ],
   "collections": [
     "cma9"

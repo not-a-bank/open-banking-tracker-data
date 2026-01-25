@@ -6,14 +6,14 @@
   "bankType": [
     "universal"
   ],
-  "name": "Arkéa Banking Services (ABS)",
-  "description": "Arkéa Banking Services is a full-service bank, meeting CRBF 97-02 requirements, a 100% subsidiary of Crédit Mutuel Arkéa.",
+  "name": "Ark\u00e9a Banking Services (ABS)",
+  "description": "Ark\u00e9a Banking Services is a full-service bank, meeting CRBF 97-02 requirements, a 100% subsidiary of Cr\u00e9dit Mutuel Ark\u00e9a.",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "aliases": [
-    "Arkéa Banking Services",
+    "Ark\u00e9a Banking Services",
     "ABS"
   ],
   "status": "live",
@@ -22,7 +22,7 @@
   "ownership": [
     {
       "providerId": "arkea",
-      "shareholderName": "Crédit Mutuel Arkéa",
+      "shareholderName": "Cr\u00e9dit Mutuel Ark\u00e9a",
       "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
       "percentage": 100
     }
@@ -155,9 +155,10 @@
     "bankingsdk",
     "bridgeapi-io",
     "budget-insight",
+    "equensworldline",
     "fintecture",
     "ibanity",
-    "equensworldline"
+    "volt"
   ],
   "collections": [],
   "webApplication": false,

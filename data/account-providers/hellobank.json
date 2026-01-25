@@ -48,13 +48,14 @@
   "apiReferenceUrl": "https://apistore.bnpparibas/",
   "apiAggregators": [
     "bankingsdk",
-    "budget-insight",
-    "ibanity",
-    "fintecture",
     "bridgeapi-io",
+    "budget-insight",
     "equensworldline",
+    "fintecture",
+    "ibanity",
+    "salt-edge",
     "truelayer",
-    "salt-edge"
+    "volt"
   ],
   "apiProducts": [
     {

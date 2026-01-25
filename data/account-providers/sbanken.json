@@ -1,7 +1,11 @@
 {
   "id": "sbanken",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Sbanken",
   "legalName": "Sbanken",
   "ipoStatus": "public",
@@ -11,7 +15,9 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "NO",
-  "countries": ["NO"],
+  "countries": [
+    "NO"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -27,7 +33,9 @@
     {
       "label": "Common",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": "API used for activating the consent flow",
       "documentationUrl": "https://openbanking.sbanken.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://openbanking.sbanken.no/portal-sandbox/node/174",
@@ -37,7 +45,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "API used by a PISP to initiate payments - domestic, sepa, or cross border",
       "documentationUrl": "https://openbanking.sbanken.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://openbanking.sbanken.no/portal-sandbox/node/168",
@@ -47,7 +57,9 @@
     {
       "label": "Confirmation of Funds",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": "API used buy a CBPII to verify if a specified amount is available on the account",
       "documentationUrl": "https://openbanking.sbanken.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://openbanking.sbanken.no/portal-sandbox/node/167",
@@ -57,7 +69,9 @@
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "APIs used by an AISP to get access to account information and transactions",
       "documentationUrl": "https://openbanking.sbanken.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://openbanking.sbanken.no/portal-sandbox/node/175",
@@ -65,9 +79,12 @@
       "stage": "sandbox"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
-    "neonomics"
+    "neonomics",
+    "volt"
   ],
   "webApplication": true,
   "mobileApps": [

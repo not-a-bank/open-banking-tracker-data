@@ -43,11 +43,12 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
   "apiAggregators": [
-    "plaid",
     "bankingsdk",
-    "klarna",
     "ibanity",
-    "salt-edge"
+    "klarna",
+    "plaid",
+    "salt-edge",
+    "volt"
   ],
   "apiProducts": [
     {

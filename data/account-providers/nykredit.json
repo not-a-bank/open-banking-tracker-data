@@ -36,8 +36,9 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/APIs",
   "apiAggregators": [
+    "neonomics",
     "plaid",
-    "neonomics"
+    "volt"
   ],
   "apiProducts": [
     {

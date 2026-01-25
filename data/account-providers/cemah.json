@@ -7,7 +7,7 @@
     "universal"
   ],
   "status": "live",
-  "name": "Caixa Económica da Misericórdia de Angra do Heroísmo",
+  "name": "Caixa Econ\u00f3mica da Miseric\u00f3rdia de Angra do Hero\u00edsmo",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/cemah_pt.svg",
   "verified": false,
   "websiteUrl": "https://www.cemah.pt",
@@ -31,7 +31,8 @@
   "stockSymbol": "",
   "apiAggregators": [
     "bridgeapi-io",
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
   "swiftCode": "CEMAPTP2XXX"
 }

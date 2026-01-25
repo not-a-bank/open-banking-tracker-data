@@ -7,7 +7,7 @@
     "challenger"
   ],
   "name": "Starling Bank",
-  "description": "Better bank accounts for personal(£ or €), joint & business. Instant alerts when you spend & get paid, spending habit insights + no fees overseas. Apply in minutes.",
+  "description": "Better bank accounts for personal(\u00a3 or \u20ac), joint & business. Instant alerts when you spend & get paid, spending habit insights + no fees overseas. Apply in minutes.",
   "legalName": "Starling Bank Limited",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -74,10 +74,11 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "truelayer",
-    "salt-edge",
     "banked",
-    "moneyhub-enterprise"
+    "moneyhub-enterprise",
+    "salt-edge",
+    "truelayer",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

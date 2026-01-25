@@ -182,18 +182,19 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "truelayer",
+    "banked",
+    "bridgeapi-io",
+    "budget-insight",
+    "equensworldline",
+    "friendlyscore",
     "klarna",
-    "salt-edge",
-    "token",
-    "yolt",
     "openwrks",
     "plaid",
-    "banked",
-    "friendlyscore",
-    "bridgeapi-io",
-    "equensworldline",
-    "budget-insight"
+    "salt-edge",
+    "token",
+    "truelayer",
+    "volt",
+    "yolt"
   ],
   "collections": [
     "cma9"
