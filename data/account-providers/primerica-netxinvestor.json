@@ -1,0 +1,31 @@
+{
+  "id": "primerica-netxinvestor",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Primerica NetXInvestor",
+  "legalName": "Primerica NetXInvestor",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.primerica-netxinvestor.com.ico",
+  "websiteUrl": "https://primerica.netxinvestor.com/nxi/welcome",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

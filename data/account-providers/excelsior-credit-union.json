@@ -1,0 +1,31 @@
+{
+  "id": "excelsior-credit-union",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Excelsior Credit Union",
+  "legalName": "Excelsior Credit Union",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.excelsior-credit-union.com.ico",
+  "websiteUrl": "https://www.netit.financial-net.com/excelsiorcu/cgi-bin/ebs?OLB_CMD-SMN-126",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

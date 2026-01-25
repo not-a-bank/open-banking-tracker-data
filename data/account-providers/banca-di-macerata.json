@@ -1,0 +1,31 @@
+{
+  "id": "banca-di-macerata",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Banca di Macerata",
+  "legalName": "Banca di Macerata",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banca-di-macerata.com.ico",
+  "websiteUrl": "https://www.bancamacerata.it/",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

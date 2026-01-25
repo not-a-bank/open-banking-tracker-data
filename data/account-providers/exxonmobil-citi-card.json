@@ -1,0 +1,31 @@
+{
+  "id": "exxonmobil-citi-card",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "ExxonMobil - Citi Card",
+  "legalName": "ExxonMobil - Citi Card",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.exxonmobil-citi-card.com.ico",
+  "websiteUrl": "https://www.accountonline.com/webdepot/pl/PLOC_EXXONMOBIL_enUS/REQUEST_SIGNON",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

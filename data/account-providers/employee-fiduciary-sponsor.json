@@ -1,0 +1,31 @@
+{
+  "id": "employee-fiduciary-sponsor",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Employee Fiduciary (Sponsor)",
+  "legalName": "Employee Fiduciary (Sponsor)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.employee-fiduciary-sponsor.com.ico",
+  "websiteUrl": "https://www.myplanprovider.com/efc",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

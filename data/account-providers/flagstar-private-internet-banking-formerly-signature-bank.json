@@ -1,0 +1,31 @@
+{
+  "id": "flagstar-private-internet-banking-formerly-signature-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Flagstar Private Internet Banking (formerly Signature Bank)",
+  "legalName": "Flagstar Private Internet Banking (formerly Signature Bank)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.flagstar-private-internet-banking-formerly-signature-bank.com.ico",
+  "websiteUrl": "https://www.flagstar.com/private-bank.html",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

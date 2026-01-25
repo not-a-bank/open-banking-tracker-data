@@ -1,0 +1,31 @@
+{
+  "id": "qcard-qvc",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "QCard (QVC)",
+  "legalName": "QCard (QVC)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.qcard-qvc.com.ico",
+  "websiteUrl": "https://www.onlinecreditcenter6.com/consumergen2/login.do?subActionId=1000&clientId=qvc&accountType=plcc&langId=en",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "hello-bank-it",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Hello Bank! (IT)",
+  "legalName": "Hello Bank! (IT)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.hello-bank-it.com.ico",
+  "websiteUrl": "https://hellobank.it/",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

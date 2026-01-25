@@ -1,0 +1,31 @@
+{
+  "id": "alight-sp-global",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Alight - S&P Global",
+  "legalName": "Alight - S&P Global",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.alight-sp-global.com.ico",
+  "websiteUrl": "https://leplb0100.upoint.alight.com/web/spgi/login?forkPage=false#/routing",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

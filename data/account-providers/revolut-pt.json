@@ -1,0 +1,31 @@
+{
+  "id": "revolut-pt",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Revolut (PT)",
+  "legalName": "Revolut (PT)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.revolut-pt.com.ico",
+  "websiteUrl": "https://www.revolut.com/pt-PT/",
+  "countryHQ": "PT",
+  "countries": [
+    "PT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

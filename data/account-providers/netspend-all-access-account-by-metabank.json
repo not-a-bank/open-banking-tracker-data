@@ -1,0 +1,31 @@
+{
+  "id": "netspend-all-access-account-by-metabank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Netspend All-Access Account by MetaBank",
+  "legalName": "Netspend All-Access Account by MetaBank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.netspend-all-access-account-by-metabank.com.ico",
+  "websiteUrl": "https://www.netspend.com/bank-account",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

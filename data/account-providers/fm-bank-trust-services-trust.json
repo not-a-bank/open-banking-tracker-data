@@ -1,0 +1,31 @@
+{
+  "id": "fm-bank-trust-services-trust",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "F&M Bank - Trust Services (Trust)",
+  "legalName": "F&M Bank - Trust Services (Trust)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.fm-bank-trust-services-trust.com.ico",
+  "websiteUrl": "https://pal.infinity.com/Prod/login.aspx?fi_id=0216A",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

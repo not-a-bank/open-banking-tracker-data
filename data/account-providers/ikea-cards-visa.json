@@ -1,0 +1,31 @@
+{
+  "id": "ikea-cards-visa",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "IKEA Cards (VISA)",
+  "legalName": "IKEA Cards (VISA)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.ikea-cards-visa.com.ico",
+  "websiteUrl": "https://d.comenity.net/ac/ikeavisa/public/home",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

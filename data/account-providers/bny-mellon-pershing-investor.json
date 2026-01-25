@@ -1,0 +1,31 @@
+{
+  "id": "bny-mellon-pershing-investor",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "BNY Mellon-Pershing Investor",
+  "legalName": "BNY Mellon-Pershing Investor",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.bny-mellon-pershing-investor.com.ico",
+  "websiteUrl": "https://investor.pershing.com/nxi/login",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

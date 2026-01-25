@@ -1,0 +1,31 @@
+{
+  "id": "mchenry-savings-bank-personal-ebanking",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "McHenry Savings Bank - Personal eBanking",
+  "legalName": "McHenry Savings Bank - Personal eBanking",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.mchenry-savings-bank-personal-ebanking.com.ico",
+  "websiteUrl": "https://www.mchenrysavings.com",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

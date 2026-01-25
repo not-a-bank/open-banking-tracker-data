@@ -1,0 +1,31 @@
+{
+  "id": "servisfirst-bank-personal-credit-card",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "ServisFirst Bank - Personal Credit Card",
+  "legalName": "ServisFirst Bank - Personal Credit Card",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.servisfirst-bank-personal-credit-card.com.ico",
+  "websiteUrl": "https://consumer.cardservices.bank/ecs/auth/?cid=AAAA6059001",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

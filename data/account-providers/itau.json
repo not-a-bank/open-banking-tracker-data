@@ -6,14 +6,14 @@
   "bankType": [
     "universal"
   ],
-  "name": "Itaú Unibanco",
-  "description": "Itaú Unibanco, the largest private sector bank in Brazil and one of the largest financial institutions in Latin America with millions of clients around the world. ",
+  "name": "Ita\u00fa Unibanco",
+  "description": "Ita\u00fa Unibanco, the largest private sector bank in Brazil and one of the largest financial institutions in Latin America with millions of clients around the world. ",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "aliases": [
-    "Itaú Unibanco"
+    "Ita\u00fa Unibanco"
   ],
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1602351254/icons/itau.png",
@@ -37,8 +37,9 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "trio-br",
-    "pluggy"
+    "plaid",
+    "pluggy",
+    "trio-br"
   ],
   "collections": [],
   "webApplication": false,

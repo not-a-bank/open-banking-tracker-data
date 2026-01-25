@@ -3,7 +3,9 @@
   "type": [
     "account"
   ],
-  "bankType": ["universal"],
+  "bankType": [
+    "universal"
+  ],
   "status": "live",
   "name": "Capital Bank",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/capital_bank_oauth_client_at.svg",
@@ -28,6 +30,7 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "plaid",
     "salt-edge"
   ],
   "swiftCode": "RSBUAT2KXXX"

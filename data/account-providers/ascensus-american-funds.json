@@ -1,0 +1,31 @@
+{
+  "id": "ascensus-american-funds",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Ascensus - American Funds",
+  "legalName": "Ascensus - American Funds",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.ascensus-american-funds.com.ico",
+  "websiteUrl": "https://myaccount.ascensus.com/afunds/logon.cfm",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}
