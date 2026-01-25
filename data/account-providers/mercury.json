@@ -4,10 +4,10 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "challenger"
   ],
   "name": "Mercury",
-  "legalName": "Mercury",
+  "legalName": "Mercury Technologies, Inc.",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mercury.com.ico",
@@ -19,9 +19,60 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://docs.mercury.com/reference",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Query account type, routing and account numbers, and balance",
+      "documentationUrl": "https://docs.mercury.com/reference",
+      "apiReferenceUrl": "https://docs.mercury.com/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Transactions",
+      "type": "transactions",
+      "categories": ["accounts"],
+      "description": "Download and search your full transaction history",
+      "documentationUrl": "https://docs.mercury.com/reference",
+      "apiReferenceUrl": "https://docs.mercury.com/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Recipients",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Get a list of your Mercury recipients or filter transactions by their ID",
+      "documentationUrl": "https://docs.mercury.com/reference",
+      "apiReferenceUrl": "https://docs.mercury.com/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "ACH Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Make programmatic ACH payments (100 free per month)",
+      "documentationUrl": "https://docs.mercury.com/reference",
+      "apiReferenceUrl": "https://docs.mercury.com/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Invoicing",
+      "type": "other",
+      "categories": ["accounts"],
+      "description": "Create, send, and track invoices programmatically via the Accounts Receivable API",
+      "documentationUrl": "https://docs.mercury.com/reference/accounts_receivable",
+      "apiReferenceUrl": "https://docs.mercury.com/reference/accounts_receivable",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiAggregators": [
     "plaid"
   ],
