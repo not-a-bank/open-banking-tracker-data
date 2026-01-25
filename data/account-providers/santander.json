@@ -1,0 +1,32 @@
+{
+  "id": "santander",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Santander",
+  "legalName": "Santander",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.santander.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "volt"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "ABBYGB2LXXX"
+}

@@ -1,7 +1,11 @@
 {
   "id": "spar-nord-bank",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "Spar Nord Bank",
   "legalName": "Spar Nord Bank A/S",
   "ipoStatus": "public",
@@ -9,14 +13,14 @@
   "icon": "https://res.cloudinary.com/banq/image/upload/v1553182241/radar/icons/Spar-Nord.jpg",
   "websiteUrl": "https://www.sparnord.dk/",
   "ownership": [
-    { 
+    {
       "shareholderName": "Spar Nord Foundation",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553182241/radar/icons/Spar-Nord.jpg",
       "providerId": "spar-nord-foundation",
       "percentage": 18.9,
       "sourceUrl": "https://media.sparnord.dk/com/investor/financial_communication/reports/2018/annual-report-2018.pdf"
     },
-    { 
+    {
       "shareholderName": "Nykredit Realkredit",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552474290/radar/icons/nykredit.jpg",
       "providerId": "nykredit",
@@ -26,9 +30,11 @@
   ],
   "stateOwned": false,
   "countryHQ": "DK",
-  "countries": ["DK"],
+  "countries": [
+    "DK"
+  ],
   "compliance": [
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
@@ -41,7 +47,9 @@
     {
       "label": "Account",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "Retrieves the list of accounts for the user.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://sparnordopenbanking.com/docs/index.html#account",
@@ -51,7 +59,9 @@
     {
       "label": "Transactions",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Retrieves the transactions that matches the given parameters.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://sparnordopenbanking.com/docs/index.html#transactions",
@@ -61,7 +71,9 @@
     {
       "label": "Authenticsation",
       "type": "auth",
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "description": "Before make requests using the Spar Nord SDK you will need to authenticate the user.",
       "documentationUrl": null,
       "apiReferenceUrl": "https://sparnordopenbanking.com/docs/index.html#authentication",
@@ -94,5 +106,8 @@
   "crunchbase": "spar-nord-bank-a-s",
   "github": null,
   "fca": "001b000000MfSZmAAN",
-  "articles": []
+  "articles": [],
+  "apiAggregators": [
+    "volt"
+  ]
 }

@@ -1,7 +1,11 @@
 {
   "id": "bank-norwegian",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Bank Norwegian",
   "legalName": "Bank Norwegian AS",
   "ipoStatus": "public",
@@ -11,7 +15,12 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "NO",
-  "countries": ["NO", "SE", "FI", "DK"],
+  "countries": [
+    "NO",
+    "SE",
+    "FI",
+    "DK"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -27,7 +36,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#section/Introduction",
       "apiReferenceUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#tag/Payment",
@@ -37,7 +48,9 @@
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#section/Introduction",
       "apiReferenceUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#tag/Account",
@@ -45,10 +58,13 @@
       "stage": "live"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
+    "neonomics",
     "nordigen",
-    "neonomics"
+    "volt"
   ],
   "webApplication": true,
   "mobileApps": [

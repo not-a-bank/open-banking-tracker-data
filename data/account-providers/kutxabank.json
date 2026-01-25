@@ -76,9 +76,10 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
     "bridgeapi-io",
-    "salt-edge"
+    "plaid",
+    "salt-edge",
+    "volt"
   ],
   "collections": [],
   "webApplication": false,

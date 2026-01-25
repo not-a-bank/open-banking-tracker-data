@@ -105,12 +105,13 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
+    "bridgeapi-io",
     "nordigen",
-    "truelayer",
-    "salt-edge",
     "openwrks",
-    "bridgeapi-io"
+    "plaid",
+    "salt-edge",
+    "truelayer",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

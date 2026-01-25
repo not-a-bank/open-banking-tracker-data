@@ -1,0 +1,32 @@
+{
+  "id": "rbs-bankline",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "RBS Bankline",
+  "legalName": "RBS Bankline",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.rbs-bankline.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "volt"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RBSSGBKCXXX"
+}

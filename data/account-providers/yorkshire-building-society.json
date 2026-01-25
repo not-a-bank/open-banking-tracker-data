@@ -88,10 +88,11 @@
     }
   ],
   "apiAggregators": [
-    "plaid",
     "moneyhub-enterprise",
+    "plaid",
+    "salt-edge",
     "truelayer",
-    "salt-edge"
+    "volt"
   ],
   "apiStandards": [],
   "webApplication": true,

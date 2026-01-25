@@ -124,16 +124,17 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
-    "nordigen",
     "budget-insight",
-    "neonomics",
-    "klarna",
     "enablebanking",
     "enfuce",
     "fintecture",
+    "klarna",
+    "neonomics",
+    "nordigen",
+    "plaid",
+    "salt-edge",
     "truelayer",
-    "salt-edge"
+    "volt"
   ],
   "collections": [],
   "sdks": null,

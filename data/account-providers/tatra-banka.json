@@ -1,0 +1,32 @@
+{
+  "id": "tatra-banka",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Tatra Banka",
+  "legalName": "Tatra Banka",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.tatra-banka.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "SK",
+  "countries": [
+    "SK"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "volt"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "TATRSKBXXXX"
+}

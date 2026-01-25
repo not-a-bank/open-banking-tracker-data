@@ -45,9 +45,10 @@
   "apiReferenceUrl": "https://openbankingdevportal.nagelmackers.be/",
   "apiAggregators": [
     "bankingsdk",
-    "klarna",
     "banqup",
-    "ibanity"
+    "ibanity",
+    "klarna",
+    "volt"
   ],
   "apiProducts": [
     {

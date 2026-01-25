@@ -154,10 +154,11 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "klarna",
     "equensworldline",
+    "klarna",
+    "salt-edge",
     "truelayer",
-    "salt-edge"
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

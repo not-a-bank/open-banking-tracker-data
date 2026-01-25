@@ -92,16 +92,17 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "bridgeapi-io",
-    "neonomics",
-    "truelayer",
     "klarna",
+    "neonomics",
+    "openwrks",
+    "plaid",
+    "pluggy",
     "salt-edge",
     "token",
-    "yolt",
-    "openwrks",
     "trio-br",
-    "plaid",
-    "pluggy"
+    "truelayer",
+    "volt",
+    "yolt"
   ],
   "collections": [
     "cma9"

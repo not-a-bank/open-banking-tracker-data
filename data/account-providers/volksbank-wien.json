@@ -3,7 +3,9 @@
   "type": [
     "account"
   ],
-  "bankType": ["universal"],
+  "bankType": [
+    "universal"
+  ],
   "status": "live",
   "name": "Volksbank Wien",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/volksbank_at.svg",
@@ -28,7 +30,8 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
   "swiftCode": "VBOEATWW"
 }

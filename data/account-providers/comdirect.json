@@ -88,14 +88,15 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "yaxi",
-    "plaid",
-    "nordigen",
     "bankingsdk",
-    "ibanity",
     "equensworldline",
+    "ibanity",
+    "nordigen",
+    "plaid",
+    "salt-edge",
     "truelayer",
-    "salt-edge"
+    "volt",
+    "yaxi"
   ],
   "collections": [],
   "webApplication": true,

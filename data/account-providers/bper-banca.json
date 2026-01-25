@@ -44,9 +44,10 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
   "apiAggregators": [
-    "plaid",
     "equensworldline",
-    "salt-edge"
+    "plaid",
+    "salt-edge",
+    "volt"
   ],
   "apiProducts": [
     {

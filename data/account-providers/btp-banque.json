@@ -1,0 +1,32 @@
+{
+  "id": "btp-banque",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "BTP Banque",
+  "legalName": "BTP Banque",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.btp-banque.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "volt"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "BATIFRP1XXX"
+}

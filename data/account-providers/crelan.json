@@ -96,11 +96,12 @@
   ],
   "apiAggregators": [
     "bankingsdk",
-    "klarna",
     "banqup",
-    "ibanity",
     "equensworldline",
-    "salt-edge"
+    "ibanity",
+    "klarna",
+    "salt-edge",
+    "volt"
   ],
   "webApplication": true,
   "mobileApps": [

@@ -46,7 +46,7 @@
       "categories": [
         "accounts"
       ],
-      "description": "AccountInsights lets you see up to 12 months of transaction information from a customer’s account. See what amounts are coming in and out, what currencies are being used, who the customer interacts with, and more.",
+      "description": "AccountInsights lets you see up to 12 months of transaction information from a customer\u2019s account. See what amounts are coming in and out, what currencies are being used, who the customer interacts with, and more.",
       "documentationUrl": "https://developer.db.com/products/accounts",
       "apiReferenceUrl": null,
       "premium": false,
@@ -58,7 +58,7 @@
       "categories": [
         "accounts"
       ],
-      "description": "CustomerInsights lets you access specific personal data that has been checked by Know Your Customer (KYC) processes. Instantly check the customer’s postal addresses, date of birth, nationality and more.",
+      "description": "CustomerInsights lets you access specific personal data that has been checked by Know Your Customer (KYC) processes. Instantly check the customer\u2019s postal addresses, date of birth, nationality and more.",
       "documentationUrl": "https://developer.db.com/products/customers",
       "apiReferenceUrl": null,
       "premium": false,
@@ -70,7 +70,7 @@
       "categories": [
         "accounts"
       ],
-      "description": "AgeCertificate lets you quickly verify that a customer is over the age of 18. Using data checked by Know Your Customer (KYC) processes, it gives you an instant ‘under 18 / over 18’ response without supplying additional private information.",
+      "description": "AgeCertificate lets you quickly verify that a customer is over the age of 18. Using data checked by Know Your Customer (KYC) processes, it gives you an instant \u2018under 18 / over 18\u2019 response without supplying additional private information.",
       "documentationUrl": "https://developer.db.com/products/agecertificate",
       "apiReferenceUrl": null,
       "premium": false,
@@ -92,14 +92,15 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "yaxi",
-    "nordigen",
-    "budget-insight",
-    "klarna",
-    "salt-edge",
     "bridgeapi-io",
+    "budget-insight",
     "equensworldline",
-    "truelayer"
+    "klarna",
+    "nordigen",
+    "salt-edge",
+    "truelayer",
+    "volt",
+    "yaxi"
   ],
   "collections": [],
   "webApplication": true,

@@ -130,14 +130,15 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
-    "nordigen",
-    "klarna",
-    "salt-edge",
     "enablebanking",
-    "neonomics",
     "fintecture",
-    "truelayer"
+    "klarna",
+    "neonomics",
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "truelayer",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,
@@ -186,8 +187,8 @@
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432662/catalog/minnatechnologies/icon128x128.jpg",
       "websiteUrl": "https://minnatechnologies.com",
       "id": "minnatechnologies",
-      "title": "Sweden’s largest bank Swedbank integrates FinTech company Minna Technologies to its app",
-      "desription": "​The FinTech company Minna Technologies, helping customers manage their subscriptions, is now integrated in Swedbank’s app. Swedbank is the largest bank in...",
+      "title": "Sweden\u2019s largest bank Swedbank integrates FinTech company Minna Technologies to its app",
+      "desription": "\u200bThe FinTech company Minna Technologies, helping customers manage their subscriptions, is now integrated in Swedbank\u2019s app. Swedbank is the largest bank in...",
       "sourceUrl": "https://www.mynewsdesk.com/se/pressreleases/swedens-largest-bank-swedbank-integrates-fintech-company-minna-technologies-to-its-app-2210266",
       "features": [
         "subscription-management"

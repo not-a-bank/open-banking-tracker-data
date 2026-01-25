@@ -92,16 +92,17 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "nordigen",
     "bankingsdk",
-    "budget-insight",
-    "klarna",
-    "salt-edge",
     "bridgeapi-io",
-    "ibanity",
+    "budget-insight",
     "equensworldline",
+    "ibanity",
+    "klarna",
+    "nordigen",
     "plaid",
-    "truelayer"
+    "salt-edge",
+    "truelayer",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

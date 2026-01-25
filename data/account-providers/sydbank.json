@@ -38,13 +38,14 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developers.bankdata.dk",
   "apiAggregators": [
-    "yaxi",
-    "plaid",
-    "neonomics",
-    "klarna",
-    "tink",
     "enablebanking",
-    "salt-edge"
+    "klarna",
+    "neonomics",
+    "plaid",
+    "salt-edge",
+    "tink",
+    "volt",
+    "yaxi"
   ],
   "apiProducts": [
     {

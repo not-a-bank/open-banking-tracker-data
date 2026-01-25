@@ -46,13 +46,14 @@
   "apiReferenceUrl": "https://developer.triodos.com/reference",
   "apiChangelogUrl": "https://developer.triodos.com/changelog",
   "apiAggregators": [
-    "yaxi",
-    "plaid",
-    "nordigen",
     "bankingsdk",
-    "ibanity",
     "equensworldline",
-    "salt-edge"
+    "ibanity",
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "volt",
+    "yaxi"
   ],
   "apiProducts": [
     {

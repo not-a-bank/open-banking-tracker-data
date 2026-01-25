@@ -47,9 +47,10 @@
   "apiReferenceUrl": "https://online.beobank.be/oauth2/en/devportal/",
   "apiAggregators": [
     "bankingsdk",
-    "klarna",
     "banqup",
-    "ibanity"
+    "ibanity",
+    "klarna",
+    "volt"
   ],
   "apiProducts": [
     {

@@ -68,7 +68,8 @@
   "stockSymbol": "",
   "apiAggregators": [
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
   "swiftCode": "OPENESMM",
   "sandbox": {

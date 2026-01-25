@@ -1,7 +1,11 @@
 {
   "id": "bn-bank",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "BN Bank",
   "legalName": "BN Bank ASA",
   "ipoStatus": "public",
@@ -11,7 +15,9 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "NO",
-  "countries": ["NO"],
+  "countries": [
+    "NO"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -27,7 +33,9 @@
     {
       "label": "Common",
       "type": "other",
-      "categories": ["products"],
+      "categories": [
+        "products"
+      ],
       "description": null,
       "documentationUrl": "https://openbanking.bnbank.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://openbanking.bnbank.no/portal-sandbox/node/163",
@@ -37,7 +45,9 @@
     {
       "label": "Payment Initiation",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://openbanking.bnbank.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://openbanking.bnbank.no/portal-sandbox/node/156",
@@ -47,7 +57,9 @@
     {
       "label": "Confirmation of Funds",
       "type": "fundsConfirmation",
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "description": null,
       "documentationUrl": "https://openbanking.bnbank.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://openbanking.bnbank.no/portal-sandbox/node/158",
@@ -57,7 +69,9 @@
     {
       "label": "Account Information",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://openbanking.bnbank.no/portal-sandbox/documentation",
       "apiReferenceUrl": "https://openbanking.bnbank.no/portal-sandbox/node/153",
@@ -65,9 +79,12 @@
       "stage": "sandbox"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
-    "neonomics"
+    "neonomics",
+    "volt"
   ],
   "webApplication": true,
   "mobileApps": [

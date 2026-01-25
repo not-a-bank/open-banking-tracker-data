@@ -1,0 +1,32 @@
+{
+  "id": "s-pankki",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "S-Pankki",
+  "legalName": "S-Pankki",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.s-pankki.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "FI",
+  "countries": [
+    "FI"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "volt"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "SBANFIHHXXX"
+}

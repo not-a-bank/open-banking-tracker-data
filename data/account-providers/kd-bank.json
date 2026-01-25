@@ -1,0 +1,32 @@
+{
+  "id": "kd-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "KD Bank",
+  "legalName": "KD Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.kd-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "volt"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODED1DKD"
+}

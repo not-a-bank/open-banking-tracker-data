@@ -101,10 +101,11 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "yaxi",
     "plaid",
+    "salt-edge",
     "truelayer",
-    "salt-edge"
+    "volt",
+    "yaxi"
   ],
   "collections": [],
   "sdks": [],

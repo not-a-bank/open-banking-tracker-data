@@ -1,0 +1,32 @@
+{
+  "id": "erste-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Erste Bank",
+  "legalName": "Erste Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.erste-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "HU",
+  "countries": [
+    "HU"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "volt"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GIBAHUHBXXX"
+}

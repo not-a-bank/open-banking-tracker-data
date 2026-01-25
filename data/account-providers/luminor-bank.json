@@ -58,10 +58,11 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.luminoropenbanking.com/",
   "apiAggregators": [
-    "plaid",
-    "nordigen",
     "enablebanking",
-    "salt-edge"
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "volt"
   ],
   "apiProducts": [],
   "apiStandards": [],

@@ -63,17 +63,18 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developer.token.io/",
   "apiAggregators": [
-    "yaxi",
-    "nordigen",
     "bankingsdk",
+    "bridgeapi-io",
     "budget-insight",
-    "token",
+    "ibanity",
+    "neonomics",
+    "nordigen",
     "salt-edge",
     "tink",
-    "neonomics",
-    "bridgeapi-io",
-    "ibanity",
-    "truelayer"
+    "token",
+    "truelayer",
+    "volt",
+    "yaxi"
   ],
   "apiProducts": [
     {

@@ -119,11 +119,12 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "klarna",
-    "ibanity",
     "banqup",
     "equensworldline",
-    "salt-edge"
+    "ibanity",
+    "klarna",
+    "salt-edge",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

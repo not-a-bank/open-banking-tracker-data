@@ -83,7 +83,7 @@
       "categories": [
         "payments"
       ],
-      "description": "The Payment Request API allows you to generate payment request links that can be shared with your customers. The Payment Request API is based on ING’s successful consumer–to-consumer (C2C) payment request feature, which means your customers will already be familiar with this payment method.",
+      "description": "The Payment Request API allows you to generate payment request links that can be shared with your customers. The Payment Request API is based on ING\u2019s successful consumer\u2013to-consumer (C2C) payment request feature, which means your customers will already be familiar with this payment method.",
       "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/01199464-4247-4770-8ab8-c3371052e9e5/overview",
       "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/01199464-4247-4770-8ab8-c3371052e9e5/reference",
       "premium": false,
@@ -95,7 +95,7 @@
       "categories": [
         "products"
       ],
-      "description": "The Showcase API helps you to make your first API call on ING’s Open Banking platform. By consuming the API endpoint, you will learn about ING’s implementation of the OAuth 2.0 framework and the overall functionalities of our platform.",
+      "description": "The Showcase API helps you to make your first API call on ING\u2019s Open Banking platform. By consuming the API endpoint, you will learn about ING\u2019s implementation of the OAuth 2.0 framework and the overall functionalities of our platform.",
       "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/5f5106c4-3413-4b3c-890a-bb4cfa165dba/overview",
       "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/5f5106c4-3413-4b3c-890a-bb4cfa165dba/reference",
       "premium": false,
@@ -117,19 +117,20 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "yaxi",
-    "nordigen",
     "bankingsdk",
-    "budget-insight",
-    "salt-edge",
-    "klarna",
     "banqup",
-    "enablebanking",
-    "fintecture",
     "bridgeapi-io",
-    "ibanity",
+    "budget-insight",
+    "enablebanking",
     "equensworldline",
-    "truelayer"
+    "fintecture",
+    "ibanity",
+    "klarna",
+    "nordigen",
+    "salt-edge",
+    "truelayer",
+    "volt",
+    "yaxi"
   ],
   "collections": [],
   "webApplication": true,

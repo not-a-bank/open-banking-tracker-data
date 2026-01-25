@@ -56,7 +56,7 @@
       "categories": [
         "accounts"
       ],
-      "description": "Access the user’s list of accounts and transactions.",
+      "description": "Access the user\u2019s list of accounts and transactions.",
       "documentationUrl": "https://developer.nbg.gr/product/account-information",
       "apiReferenceUrl": "https://developer.nbg.gr/documentation/accounts-information-api-oauth2-v1",
       "premium": false,
@@ -198,7 +198,8 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,

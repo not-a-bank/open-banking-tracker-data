@@ -1,7 +1,11 @@
 {
   "id": "unicredit",
-  "type": ["account"],
-  "bankType": ["universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
   "name": "Unicredit",
   "legalName": "UniCredit S.p.A.",
   "ipoStatus": "public",
@@ -11,7 +15,9 @@
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "IT",
-  "countries": ["EU"],
+  "countries": [
+    "EU"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -27,11 +33,12 @@
   "apiStandards": [],
   "apiAggregators": [
     "bankingsdk",
+    "equensworldline",
+    "ibanity",
     "klarna",
     "salt-edge",
-    "ibanity",
-    "equensworldline",
-    "truelayer"
+    "truelayer",
+    "volt"
   ],
   "webApplication": true,
   "mobileApps": [
