@@ -1,0 +1,31 @@
+{
+  "id": "preferred-bank-tx-personal",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Preferred Bank (TX) - Personal",
+  "legalName": "Preferred Bank (TX) - Personal",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.preferred-bank-tx-personal.com.ico",
+  "websiteUrl": "https://www.preferredbanktx.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

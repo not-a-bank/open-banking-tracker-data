@@ -1,0 +1,31 @@
+{
+  "id": "hilliard-lyons-trust-company-client-portal",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Hilliard Lyons Trust Company - Client Portal",
+  "legalName": "Hilliard Lyons Trust Company - Client Portal",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.hilliard-lyons-trust-company-client-portal.com.ico",
+  "websiteUrl": "https://clientpoint.fisglobal.com/tdcb/main/UserLogon?bankNumber=NA",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

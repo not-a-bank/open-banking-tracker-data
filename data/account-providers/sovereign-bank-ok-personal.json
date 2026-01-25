@@ -1,0 +1,31 @@
+{
+  "id": "sovereign-bank-ok-personal",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Sovereign Bank (OK) - Personal",
+  "legalName": "Sovereign Bank (OK) - Personal",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.sovereign-bank-ok-personal.com.ico",
+  "websiteUrl": "https://banksovereign.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

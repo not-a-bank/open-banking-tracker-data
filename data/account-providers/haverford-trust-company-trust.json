@@ -1,0 +1,31 @@
+{
+  "id": "haverford-trust-company-trust",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Haverford Trust Company (Trust)",
+  "legalName": "Haverford Trust Company (Trust)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.haverford-trust-company-trust.com.ico",
+  "websiteUrl": "https://services2.sungard.com/idp/0466A/?ClientID=PALUI&RelayState=https://pal.sungard.com/Client/Default.aspx",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

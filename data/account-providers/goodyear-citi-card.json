@@ -1,0 +1,31 @@
+{
+  "id": "goodyear-citi-card",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Goodyear - Citi Card",
+  "legalName": "Goodyear - Citi Card",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.goodyear-citi-card.com.ico",
+  "websiteUrl": "https://citiretailservices.citibankonline.com/RSnextgen/svc/launch/index.action?siteId=GOODYEAR#signon",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

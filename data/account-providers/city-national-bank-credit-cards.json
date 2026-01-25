@@ -1,0 +1,31 @@
+{
+  "id": "city-national-bank-credit-cards",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "City National Bank - Credit Cards",
+  "legalName": "City National Bank - Credit Cards",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.city-national-bank-credit-cards.com.ico",
+  "websiteUrl": "https://creditcare.cnb.com/CNB_Consumer/Login.do",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

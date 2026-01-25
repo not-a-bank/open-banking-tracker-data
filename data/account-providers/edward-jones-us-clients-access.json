@@ -1,0 +1,31 @@
+{
+  "id": "edward-jones-us-clients-access",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Edward Jones - U.S. Clients Access",
+  "legalName": "Edward Jones - U.S. Clients Access",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.edward-jones-us-clients-access.com.ico",
+  "websiteUrl": "https://www.edwardjones.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

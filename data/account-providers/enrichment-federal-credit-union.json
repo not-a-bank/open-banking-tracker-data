@@ -1,0 +1,31 @@
+{
+  "id": "enrichment-federal-credit-union",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Enrichment Federal Credit Union",
+  "legalName": "Enrichment Federal Credit Union",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.enrichment-federal-credit-union.com.ico",
+  "websiteUrl": "https://www.enrichmentfcu.org",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

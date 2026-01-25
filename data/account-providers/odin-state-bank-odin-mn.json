@@ -1,0 +1,31 @@
+{
+  "id": "odin-state-bank-odin-mn",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Odin State Bank (Odin, MN)",
+  "legalName": "Odin State Bank (Odin, MN)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.odin-state-bank-odin-mn.com.ico",
+  "websiteUrl": "https://onlinebanking.odinstatebank.com/Pages/Default.html",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

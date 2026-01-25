@@ -1,0 +1,31 @@
+{
+  "id": "mutb-shareworks-business",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "MUTB Shareworks - Business",
+  "legalName": "MUTB Shareworks - Business",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.mutb-shareworks-business.com.ico",
+  "websiteUrl": "https://mutb.shareworks.com/solium/servlet/userLogin.do",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "kestra-mywealthscape",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Kestra - MyWealthscape",
+  "legalName": "Kestra - MyWealthscape",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.kestra-mywealthscape.com.ico",
+  "websiteUrl": "https://investor.wealthscape.com/nfp/investor-index.html?login",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

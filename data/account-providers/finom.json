@@ -30,8 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "plaid",
+    "salt-edge",
+    "yaxi"
   ],
   "swiftCode": "SOBKDEB2XXX"
 }

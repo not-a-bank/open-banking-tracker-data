@@ -1,0 +1,31 @@
+{
+  "id": "alma-bank-personal-ebanking",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Alma Bank - Personal eBanking",
+  "legalName": "Alma Bank - Personal eBanking",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.alma-bank-personal-ebanking.com.ico",
+  "websiteUrl": "http://www.almabank.com",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

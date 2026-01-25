@@ -1,0 +1,31 @@
+{
+  "id": "unity-bank-mn-wi-online-banking",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Unity Bank (MN, WI) - Online Banking",
+  "legalName": "Unity Bank (MN, WI) - Online Banking",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.unity-bank-mn-wi-online-banking.com.ico",
+  "websiteUrl": "https://www.unitybanking.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "meijer-citi-card",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Meijer  - Citi Card",
+  "legalName": "Meijer  - Citi Card",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.meijer-citi-card.com.ico",
+  "websiteUrl": "https://citiretailservices.citibankonline.com/RSauth/signon?pageName=signon&siteId=PLCN_MEIJER&langId=en_US",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

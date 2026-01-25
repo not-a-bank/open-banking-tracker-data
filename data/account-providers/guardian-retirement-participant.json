@@ -1,0 +1,31 @@
+{
+  "id": "guardian-retirement-participant",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Guardian Retirement - Participant",
+  "legalName": "Guardian Retirement - Participant",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.guardian-retirement-participant.com.ico",
+  "websiteUrl": "https://401k.guardianlife.com/public/login",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

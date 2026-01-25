@@ -1,0 +1,31 @@
+{
+  "id": "secu-brokerage-services",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "SECU Brokerage Services",
+  "legalName": "SECU Brokerage Services",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.secu-brokerage-services.com.ico",
+  "websiteUrl": "https://secubrokerageservices.netxinvestor.com/nxi/login",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "alta-pacific-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Alta Pacific Bank",
+  "legalName": "Alta Pacific Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.alta-pacific-bank.com.ico",
+  "websiteUrl": "https://server29.cey-ebanking.com/CLKPCB/121144311/login.asp?ID=619640206",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

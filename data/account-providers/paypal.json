@@ -3,7 +3,9 @@
   "type": [
     "account"
   ],
-  "bankType": ["universal"],
+  "bankType": [
+    "universal"
+  ],
   "status": "live",
   "name": "PayPal",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/xo/paypal_csv_xo.svg",
@@ -62,6 +64,7 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "plaid",
     "salt-edge"
   ]
 }

@@ -1,0 +1,31 @@
+{
+  "id": "envestnet-asset-management-client-access",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Envestnet Asset Management - Client Access",
+  "legalName": "Envestnet Asset Management - Client Access",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.envestnet-asset-management-client-access.com.ico",
+  "websiteUrl": "https://advisor.envestnet.com/secure/login/envest.jsp",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "banco-ctt",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Banco CTT",
+  "legalName": "Banco CTT",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banco-ctt.com.ico",
+  "websiteUrl": "https://www.bancoctt.pt/",
+  "countryHQ": "PT",
+  "countries": [
+    "PT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

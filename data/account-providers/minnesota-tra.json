@@ -1,0 +1,31 @@
+{
+  "id": "minnesota-tra",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Minnesota TRA",
+  "legalName": "Minnesota TRA",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.minnesota-tra.com.ico",
+  "websiteUrl": "https://connect.minnesotatra.org/Core/Account/LogOn?ReturnUrl=%2f",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

@@ -1,0 +1,31 @@
+{
+  "id": "first-fidelity-bank-smbcommercial",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "First Fidelity Bank - SMB/Commercial",
+  "legalName": "First Fidelity Bank - SMB/Commercial",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.first-fidelity-bank-smbcommercial.com.ico",
+  "websiteUrl": "https://www.ffb.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

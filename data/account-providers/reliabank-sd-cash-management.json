@@ -1,0 +1,31 @@
+{
+  "id": "reliabank-sd-cash-management",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Reliabank (SD) - Cash Management",
+  "legalName": "Reliabank (SD) - Cash Management",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.reliabank-sd-cash-management.com.ico",
+  "websiteUrl": "https://www.reliabank.com",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

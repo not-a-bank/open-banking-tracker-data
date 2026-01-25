@@ -7,7 +7,7 @@
     "universal"
   ],
   "status": "live",
-  "name": "Banco Comercial Português S.A",
+  "name": "Banco Comercial Portugu\u00eas S.A",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/banco_comercial_portugues_oauth_client_pt.svg",
   "verified": false,
   "websiteUrl": "https://ind.millenniumbcp.pt",
@@ -31,6 +31,7 @@
   "stockSymbol": "",
   "apiAggregators": [
     "bridgeapi-io",
+    "plaid",
     "salt-edge"
   ],
   "swiftCode": "BCOMPTPL",

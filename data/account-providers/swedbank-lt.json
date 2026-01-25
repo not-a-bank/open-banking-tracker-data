@@ -1,0 +1,31 @@
+{
+  "id": "swedbank-lt",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Swedbank (LT)",
+  "legalName": "Swedbank (LT)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.swedbank-lt.com.ico",
+  "websiteUrl": "https://www.swedbank.lt/private",
+  "countryHQ": "LT",
+  "countries": [
+    "LT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

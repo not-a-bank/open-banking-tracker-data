@@ -1,0 +1,31 @@
+{
+  "id": "commercial-bank-of-california-personal-ebanking",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Commercial Bank of California - Personal eBanking",
+  "legalName": "Commercial Bank of California - Personal eBanking",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.commercial-bank-of-california-personal-ebanking.com.ico",
+  "websiteUrl": "https://www.cbcal.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

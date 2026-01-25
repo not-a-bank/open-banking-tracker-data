@@ -1,0 +1,31 @@
+{
+  "id": "rtn-fcu",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "RTN FCU",
+  "legalName": "RTN FCU",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.rtn-fcu.com.ico",
+  "websiteUrl": "https://online.rtn.org/auth/SignIn?wa=wsignin1.0&wtrealm=https://online.rtn.org/banking/&wctx=rm=0&id=passive&ru=/banking/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

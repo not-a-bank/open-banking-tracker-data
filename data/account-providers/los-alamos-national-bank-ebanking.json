@@ -1,0 +1,31 @@
+{
+  "id": "los-alamos-national-bank-ebanking",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Los Alamos National Bank - eBanking",
+  "legalName": "Los Alamos National Bank - eBanking",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.los-alamos-national-bank-ebanking.com.ico",
+  "websiteUrl": "https://cibng.ibanking-services.com/EamWeb/Account/Login.aspx?orgId=489_107001012&FIFID=107001012&brand=489_107001012&appId=CeB&FIORG=489",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

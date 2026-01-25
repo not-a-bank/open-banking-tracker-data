@@ -1,0 +1,31 @@
+{
+  "id": "riverhills-bank-ms-mobile-banking",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "RiverHills Bank (MS) - Mobile Banking",
+  "legalName": "RiverHills Bank (MS) - Mobile Banking",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.riverhills-bank-ms-mobile-banking.com.ico",
+  "websiteUrl": "https://www.riverhillsbank.com",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

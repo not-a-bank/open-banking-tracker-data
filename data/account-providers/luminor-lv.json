@@ -1,0 +1,31 @@
+{
+  "id": "luminor-lv",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Luminor (LV)",
+  "legalName": "Luminor (LV)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.luminor-lv.com.ico",
+  "websiteUrl": "https://www.luminor.lv/",
+  "countryHQ": "LV",
+  "countries": [
+    "LV"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

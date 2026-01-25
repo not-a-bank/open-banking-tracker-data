@@ -1,0 +1,31 @@
+{
+  "id": "swedbank-lv",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Swedbank (LV)",
+  "legalName": "Swedbank (LV)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.swedbank-lv.com.ico",
+  "websiteUrl": "https://www.swedbank.lv/private",
+  "countryHQ": "LV",
+  "countries": [
+    "LV"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

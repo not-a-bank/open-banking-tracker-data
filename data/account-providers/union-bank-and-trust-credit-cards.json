@@ -1,0 +1,31 @@
+{
+  "id": "union-bank-and-trust-credit-cards",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Union Bank and Trust - Credit Cards",
+  "legalName": "Union Bank and Trust - Credit Cards",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.union-bank-and-trust-credit-cards.com.ico",
+  "websiteUrl": "https://www.ezcardinfo.com/login.aspx?bid=880065&b=UBT?b=UBT?unitCode=UBT#/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

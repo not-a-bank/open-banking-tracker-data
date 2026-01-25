@@ -1,0 +1,31 @@
+{
+  "id": "select-employes-cu-ezcardinfo",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Select Employes CU - eZCardInfo",
+  "legalName": "Select Employes CU - eZCardInfo",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.select-employes-cu-ezcardinfo.com.ico",
+  "websiteUrl": "https://www.ezcardinfo.com/login.aspx?",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}
