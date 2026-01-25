@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Capital One",
   "description": "Capital One Financial Corporation is an American bank holding company specializing in credit cards, auto loans, banking, and savings accounts, headquartered in McLean, Virginia with operations primarily in the United States.",
@@ -19,7 +20,8 @@
   "stateOwned": false,
   "countryHQ": "US",
   "countries": [
-    "US"
+    "US",
+    "FR"
   ],
   "compliance": [],
   "sandbox": {
@@ -103,5 +105,6 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "marketplaceUrl": ""
+  "marketplaceUrl": "",
+  "bic": "CAONFR21XXX"
 }

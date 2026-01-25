@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "NorthOne",
   "description": "NorthOne is a bank account that helps small businesses save time and money. We empower you to take control of your finances.",
-  "legalName": null,
+  "legalName": "North One ",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -34,7 +35,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [

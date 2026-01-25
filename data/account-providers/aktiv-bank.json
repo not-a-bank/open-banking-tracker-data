@@ -15,7 +15,8 @@
   "websiteUrl": null,
   "countryHQ": "RU",
   "countries": [
-    "RU"
+    "RU",
+    "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -23,7 +24,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "volt"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

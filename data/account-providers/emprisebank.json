@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Emprise Bank",
   "description": "Emprise Bank offers a wide variety of products and specialized services to meet the payment, credit and wealth management needs of personal and commercial customers.",
@@ -68,5 +69,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "EMPRUS44XXX"
 }

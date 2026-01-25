@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "Orange Bank",
   "description": "Orange Bank is a bank launched by French telecom company Orange.",
@@ -46,7 +47,7 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-  "bridgeapi-io"
+    "bridgeapi-io"
   ],
   "collections": [],
   "sdks": [],
@@ -93,5 +94,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "GPBAFRPPXXX"
 }

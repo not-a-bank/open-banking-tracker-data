@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Warba Bank",
   "description": "Warba Bank strives towards becoming an Islamic Corporate and Investment Banking Champion with a lean digitally enabled Retail Business.",
-  "legalName": null,
+  "legalName": "WARBA BANK",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -60,5 +61,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "WRBAKWKWXXX"
 }

@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Bank al Etihad",
   "description": "Explore our diverse range of personal and business banking services including bank accounts, credit cards, loans and more. Learn more.",
@@ -49,5 +50,6 @@
   "debitCards": [],
   "creditCards": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "UBSIJOAXXXX"
 }

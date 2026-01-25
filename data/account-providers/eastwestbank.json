@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "East West Bank",
   "description": "East West Bank, the primary subsidiary of East West Bancorp, Inc., is the largest independent bank headquartered in Southern California, United States. It was founded in 1973 in Los Angeles to serve the Chinese American community in Southern California.",
@@ -19,7 +20,8 @@
   "stateOwned": false,
   "countryHQ": "US",
   "countries": [
-    "US"
+    "US",
+    "HK"
   ],
   "compliance": [],
   "developerPortalUrl": null,
@@ -62,5 +64,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "EWBKHKHHXXX"
 }

@@ -2,7 +2,8 @@
   "id": "usbank",
   "type": "account",
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "U.S. Bank",
   "description": "Bank smarter with U.S. Bank and browse personal and consumer banking services including checking and savings accounts, mortgages, home equity loans, and more.",
@@ -124,5 +125,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "USBKUS44XXX"
 }

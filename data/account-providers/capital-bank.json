@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Capital Bank",
@@ -13,7 +14,8 @@
   "websiteUrl": "https://www.capitalbank.at",
   "countryHQ": "AT",
   "countries": [
-    "AT"
+    "AT",
+    "AZ"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -33,5 +35,7 @@
     "plaid",
     "salt-edge"
   ],
-  "swiftCode": "RSBUAT2KXXX"
+  "swiftCode": "RSBUAT2KXXX",
+  "legalName": "CAPITALBANK",
+  "bic": "CAPKAZ21XXX"
 }

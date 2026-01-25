@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "private",
+    "retail"
   ],
   "status": "live",
   "name": "Solution Bank S.p.A.",
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "plaid"
   ],
-  "swiftCode": "CRDRIT2FXXX"
+  "swiftCode": "CRDRIT2FXXX",
+  "legalName": "Solution Bank "
 }

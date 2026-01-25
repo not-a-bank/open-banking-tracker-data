@@ -15,7 +15,8 @@
   "websiteUrl": null,
   "countryHQ": "KE",
   "countries": [
-    "KE"
+    "KE",
+    "GR"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -23,7 +24,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "volt"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

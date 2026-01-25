@@ -8,7 +8,7 @@
   ],
   "name": "Keytrade Bank",
   "description": "Keytrade Bank is a financial services company based in Belgium with a subsidiary in Luxembourg.",
-  "legalName": null,
+  "legalName": "KEYTRADE BANK",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -26,7 +26,8 @@
   "stateOwned": false,
   "countryHQ": "BE",
   "countries": [
-    "BE"
+    "BE",
+    "NL"
   ],
   "compliance": [
     {
@@ -49,7 +50,8 @@
   "apiAggregators": [
     "bankingsdk",
     "budget-insight",
-    "ibanity"
+    "ibanity",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,
@@ -68,5 +70,6 @@
   "partnerships": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "KEYTNL21XXX"
 }

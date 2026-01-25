@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "M&T Bank",
   "description": "M&T Bank Corporation is an American bank holding company headquartered in Buffalo, New York. It operates 780 branches in New York, New Jersey, Pennsylvania, Maryland, Delaware, Virginia, West Virginia, Washington, D.C., and Connecticut. M&T is ranked 462nd on the Fortune 500.",
@@ -63,5 +64,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "MANTUS33XXX"
 }

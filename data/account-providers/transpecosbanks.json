@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "community"
+    "community",
+    "retail"
   ],
   "name": "TransPecos Banks",
   "description": "TransPecos Banks is a Texas based community bank.",
-  "legalName": null,
+  "legalName": "TransPecos Banks",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -19,7 +20,8 @@
   "stateOwned": false,
   "countryHQ": "",
   "countries": [
-    null
+    null,
+    "US"
   ],
   "compliance": [
     {
@@ -38,7 +40,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],

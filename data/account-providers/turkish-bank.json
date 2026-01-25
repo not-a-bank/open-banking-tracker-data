@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Turkish Bank",
@@ -30,7 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
-  "swiftCode": "TUBAGB2L"
+  "swiftCode": "TUBAGB2L",
+  "legalName": "TurkishBank",
+  "bic": "TUBAGB2LXXX"
 }

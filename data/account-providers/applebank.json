@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Apple Bank",
   "description": "Apple Bank for Savings is a bank holding company headquartered in Manhasset, New York and operating in the New York metropolitan area.",
@@ -63,5 +64,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "ESABUS31XXX"
 }

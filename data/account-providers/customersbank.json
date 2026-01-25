@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Customers Bank",
   "description": "Customers Bank provides personal & business banking solutions, including checking, money markets, savings, mortgages, loans, and cash management.",
@@ -77,5 +78,6 @@
     "ios",
     "android"
   ],
-  "awards": []
+  "awards": [],
+  "bic": "CUESUS33XXX"
 }

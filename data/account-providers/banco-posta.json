@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Poste Italiane Patrimonio BancoPosta",
@@ -34,5 +35,7 @@
     "salt-edge",
     "volt"
   ],
-  "swiftCode": "BPPIITRRXXX"
+  "swiftCode": "BPPIITRRXXX",
+  "legalName": "BancoPosta",
+  "bic": "BPPIITRRXXX"
 }

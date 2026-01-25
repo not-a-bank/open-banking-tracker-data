@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "commercial"
+    "commercial",
+    "retail"
   ],
   "name": "First Business Bank",
   "description": "First Business Financial Services, Inc. is a bank holding company involved in the commercial banking business through offices located in Wisconsin. Through strategic solutions and unmatched service, First Business Bank focuses on your business banking, private wealth, and specialty finance needs.",
-  "legalName": null,
+  "legalName": "FIRST BUSINESS BANK",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -62,5 +63,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "FBBMUS44XXX"
 }

@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Berkshire Bank",
   "description": "Berkshire Bank is a bank headquartered in Boston, Massachusetts. It is a subsidiary of Berkshire Hills Bancorp, a bank holding company. The bank operates 130 branches in New England, New York and the Mid-Atlantic, and is the largest regional bank headquartered in Massachusetts.",
@@ -63,5 +64,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "BEKHUS31XXX"
 }

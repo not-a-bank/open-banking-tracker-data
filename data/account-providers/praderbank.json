@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "private",
+    "retail"
   ],
   "status": "live",
   "name": "Prader Bank S.p.A.",
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "plaid"
   ],
-  "swiftCode": "PRRDIT21"
+  "swiftCode": "PRRDIT21",
+  "legalName": "Prader Bank"
 }

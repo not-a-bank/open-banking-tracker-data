@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Mashreq Bank",
   "description": "Mashreq Bank offers a range of banking solutions to suit your needs. Mashreqbank PSC is the oldest privately owned bank in the United Arab Emirates. It was founded as the Bank of Oman in 1967",
@@ -19,7 +20,8 @@
   "stateOwned": false,
   "countryHQ": "AE",
   "countries": [
-    "AE"
+    "AE",
+    "EG"
   ],
   "compliance": [],
   "developerPortalUrl": null,
@@ -75,5 +77,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "MSHQEGCAXXX"
 }

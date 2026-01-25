@@ -15,7 +15,8 @@
   "websiteUrl": null,
   "countryHQ": "CH",
   "countries": [
-    "CH"
+    "CH",
+    "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -23,7 +24,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "volt"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

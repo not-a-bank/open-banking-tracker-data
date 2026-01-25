@@ -4,10 +4,11 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "Bask Bank",
-  "legalName": null,
+  "legalName": "Bask Bank",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -36,7 +37,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],

@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Bank of the West",
   "description": "Bank of the West offers a variety of financial services; including checking and savings accounts, credit cards, auto, home and personal loans. Visit us online or at any of our more than 500 branch locations.",
@@ -82,5 +83,6 @@
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "BWSTUS66XXX"
 }
