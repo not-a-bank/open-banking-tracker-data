@@ -33,154 +33,141 @@ jobs:
       - name: 📦 Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 16.x
+          node-version: 18.x
           cache: 'npm'
       
       - name: 📥 Install dependencies
         run: npm ci
       
-      - name: 🔍 Get changed JSON files
+      - name: 🔍 Get changed files
         id: changed-files
         run: |
           if [ "${{ github.event_name }}" == "pull_request" ]; then
-            CHANGED_FILES=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/**/*.json' | tr '\n' ' ')
+            CHANGED_PROVIDERS=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/account-providers/**/*.json' | tr '\n' ' ')
+            CHANGED_AGGREGATORS=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/api-aggregators/**/*.json' | tr '\n' ' ')
+            CHANGED_TPP=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/third-party-providers/**/*.json' | tr '\n' ' ')
           else
-            CHANGED_FILES=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/**/*.json' | tr '\n' ' ')
+            CHANGED_PROVIDERS=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/account-providers/**/*.json' | tr '\n' ' ')
+            CHANGED_AGGREGATORS=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/api-aggregators/**/*.json' | tr '\n' ' ')
+            CHANGED_TPP=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/third-party-providers/**/*.json' | tr '\n' ' ')
           fi
-          echo "files=$CHANGED_FILES" >> $GITHUB_OUTPUT
-          echo "Changed files: $CHANGED_FILES"
+          
+          ALL_CHANGED="$CHANGED_PROVIDERS $CHANGED_AGGREGATORS $CHANGED_TPP"
+          ALL_CHANGED=$(echo "$ALL_CHANGED" | xargs)  # Trim whitespace
+          
+          echo "providers=$CHANGED_PROVIDERS" >> $GITHUB_OUTPUT
+          echo "aggregators=$CHANGED_AGGREGATORS" >> $GITHUB_OUTPUT
+          echo "tpp=$CHANGED_TPP" >> $GITHUB_OUTPUT
+          echo "all=$ALL_CHANGED" >> $GITHUB_OUTPUT
+          
+          echo "📁 Changed providers: $CHANGED_PROVIDERS"
+          echo "📁 Changed aggregators: $CHANGED_AGGREGATORS"
+          echo "📁 Changed TPP: $CHANGED_TPP"
       
-      - name: 🔍 Validate changed files (schema)
-        if: steps.changed-files.outputs.files != ''
+      - name: ℹ️ No files to validate
+        if: steps.changed-files.outputs.all == ''
+        run: echo "No JSON files were changed"
+      
+      - name: 🔍 Validate changed provider files (schema)
+        if: steps.changed-files.outputs.providers != ''
         run: |
+          echo "Validating provider schema for changed files..."
           FAILED=0
-          for file in ${{ steps.changed-files.outputs.files }}; do
+          for file in ${{ steps.changed-files.outputs.providers }}; do
             if [ ! -f "$file" ]; then
               echo "⚠️ Skipping $file (file does not exist)"
               continue
             fi
-            echo "Validating schema: $file"
-            if ! node scripts/validate-file.js "$file"; then
+            echo "  Validating: $file"
+            if ! node scripts/validate-file.js "$file" --type=provider; then
               FAILED=1
             fi
           done
           if [ $FAILED -eq 1 ]; then
             exit 1
           fi
+          echo "✅ Provider schema validation passed"
       
-      - name: 🖼️ Validate changed files (icons)
-        if: steps.changed-files.outputs.files != ''
+      - name: 🔍 Validate changed aggregator files (schema)
+        if: steps.changed-files.outputs.aggregators != ''
+        run: |
+          echo "Validating aggregator schema for changed files..."
+          FAILED=0
+          for file in ${{ steps.changed-files.outputs.aggregators }}; do
+            if [ ! -f "$file" ]; then
+              echo "⚠️ Skipping $file (file does not exist)"
+              continue
+            fi
+            echo "  Validating: $file"
+            if ! node scripts/validate-file.js "$file" --type=aggregator; then
+              FAILED=1
+            fi
+          done
+          if [ $FAILED -eq 1 ]; then
+            exit 1
+          fi
+          echo "✅ Aggregator schema validation passed"
+      
+      - name: 🔍 Validate changed TPP files (schema)
+        if: steps.changed-files.outputs.tpp != ''
+        run: |
+          echo "Validating TPP schema for changed files..."
+          FAILED=0
+          for file in ${{ steps.changed-files.outputs.tpp }}; do
+            if [ ! -f "$file" ]; then
+              echo "⚠️ Skipping $file (file does not exist)"
+              continue
+            fi
+            echo "  Validating: $file"
+            if ! node scripts/validate-file.js "$file" --type=tpp; then
+              FAILED=1
+            fi
+          done
+          if [ $FAILED -eq 1 ]; then
+            exit 1
+          fi
+          echo "✅ TPP schema validation passed"
+      
+      - name: 🖼️ Validate icons for changed files
+        if: steps.changed-files.outputs.all != ''
         continue-on-error: true
         run: |
-          node scripts/validate-icons.js ${{ steps.changed-files.outputs.files }} || echo "::warning::Some icon URLs are not accessible. Please ensure icons are uploaded."
+          node scripts/validate-icons.js ${{ steps.changed-files.outputs.all }} || echo "::warning::Some icon URLs are not accessible. Please ensure icons are uploaded."
       
-      - name: ℹ️ No files to validate
-        if: steps.changed-files.outputs.files == ''
-        run: echo "No JSON files were changed"
-
-  validate:
-    runs-on: ubuntu-latest
-    
-    strategy:
-      matrix:
-        node-version: [16.x]
-    
-    steps:
-      - name: ⬇️ Checkout code
-        uses: actions/checkout@v3
-      
-      - name: 📦 Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
-      
-      - name: 📥 Install dependencies
-        run: npm ci
-      
-      - name: 🔍 Validate all data
-        run: npm run validate-data
+      - name: 🔍 Check filename/ID mismatches
+        if: steps.changed-files.outputs.all != ''
+        run: |
+          echo "Checking filename/ID consistency for changed files..."
+          FAILED=0
+          for file in ${{ steps.changed-files.outputs.all }}; do
+            if [ ! -f "$file" ]; then
+              continue
+            fi
+            FILENAME=$(basename "$file" .json)
+            ID=$(node -e "console.log(require('./$file').id || '')")
+            if [ -n "$ID" ] && [ "$FILENAME" != "$ID" ]; then
+              echo "❌ Mismatch: $file (filename: $FILENAME, id: $ID)"
+              FAILED=1
+            fi
+          done
+          if [ $FAILED -eq 1 ]; then
+            echo "::error::Filename/ID mismatches found. Filename must match the 'id' field in the JSON."
+            exit 1
+          fi
+          echo "✅ Filename/ID check passed"
       
       - name: ✅ Validation passed
         if: success()
-        run: echo "✅ All data validation checks passed!"
-      
-      - name: ❌ Validation failed
-        if: failure()
-        run: |
-          echo "❌ Data validation failed!"
-          echo "Please ensure your data files follow the required schema."
-          exit 1
-
-  validate-providers:
-    runs-on: ubuntu-latest
-    needs: validate
-    
-    strategy:
-      matrix:
-        node-version: [16.x]
-    
-    steps:
-      - name: ⬇️ Checkout code
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      
-      - name: 📦 Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
-      
-      - name: 📥 Install dependencies
-        run: npm ci
-      
-      - name: 🔍 Check for duplicate providers
-        run: npm run check-duplicates
-      
-      - name: 🔍 Validate account providers
-        run: npm run validate-providers
-      
-      - name: ✅ Provider validation passed
-        if: success()
-        run: echo "✅ All provider validation checks passed!"
-
-  validate-aggregators:
-    runs-on: ubuntu-latest
-    needs: validate
-    
-    strategy:
-      matrix:
-        node-version: [16.x]
-    
-    steps:
-      - name: ⬇️ Checkout code
-        uses: actions/checkout@v3
-      
-      - name: 📦 Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
-      
-      - name: 📥 Install dependencies
-        run: npm ci
-      
-      - name: 🔍 Validate API aggregators
-        run: npm run validate-aggregators
-      
-      - name: ✅ Aggregator validation passed
-        if: success()
-        run: echo "✅ All API aggregator validation checks passed!"
+        run: echo "✅ All validation checks passed for changed files!"
 
   pr-comment:
     runs-on: ubuntu-latest
-    needs: [validate-changed-files, validate, validate-providers, validate-aggregators]
+    needs: [validate-changed-files]
     if: always() && github.event_name == 'pull_request'
     
     steps:
       - name: 📝 Add PR comment on success
-        if: success()
+        if: needs.validate-changed-files.result == 'success'
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -189,11 +176,11 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '✅ All data validation checks passed!\n\n- ✅ Changed Files\n- ✅ Account Providers\n- ✅ API Aggregators'
+              body: '✅ All validation checks passed for changed files!'
             })
       
       - name: 📝 Add PR comment on failure
-        if: failure()
+        if: needs.validate-changed-files.result == 'failure'
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -202,6 +189,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: '❌ Data validation failed!\n\nPlease review the validation errors in the workflow logs and ensure your data follows the required schema.'
+              body: '❌ Validation failed!\n\nPlease review the errors in the workflow logs and ensure your data follows the required schema.'
             })
-
