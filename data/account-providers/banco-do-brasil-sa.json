@@ -6,13 +6,13 @@
   "bankType": [
     "retail"
   ],
-  "name": "BANCO DO BRASIL S.A.",
+  "name": "Banco do Brasil",
   "legalName": "BANCO DO BRASIL S.A.",
   "bic": "BRASBRRJXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancodobrasilsa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.bb.com.br.ico",
+  "websiteUrl": "https://www.bb.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -20,11 +20,15 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developers.bb.com.br/",
+  "apiReferenceUrl": "https://apoio.developers.bb.com.br/",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "belvo",
+    "klavi"
+  ],
   "ownership": [],
-  "stateOwned": false,
-  "stockSymbol": null
+  "stateOwned": true,
+  "stockSymbol": "BBAS3"
 }

@@ -22,18 +22,20 @@
     "BR"
   ],
   "compliance": [],
-  "developerPortalUrl": "https://empresas.bancobs2.com.br/apis/",
+  "developerPortalUrl": "https://devs.bs2.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiReferenceUrl": "https://empresas.bancobs2.com.br/apis/",
+  "apiReferenceUrl": "https://devs.bs2.com/manual/banking/",
   "apiPerformanceReports": [],
   "apiSpecs": [],
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "belvo"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [

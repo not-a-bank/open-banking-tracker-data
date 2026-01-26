@@ -4,15 +4,15 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "universal"
   ],
-  "name": "BANCO SANTANDER (BRASIL) S.A.",
+  "name": "Santander Brasil",
   "legalName": "BANCO SANTANDER (BRASIL) S.A.",
   "bic": "BSCHBRSPXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancosantanderbrasilsa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.santander.com.br.ico",
+  "websiteUrl": "https://www.santander.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -20,11 +20,14 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.santander.com/pt/brazil",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "belvo",
+    "klavi"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "SANB11"
 }

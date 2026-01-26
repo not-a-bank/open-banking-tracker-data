@@ -6,13 +6,13 @@
   "bankType": [
     "retail"
   ],
-  "name": "BANCO MERCANTIL DO BRASIL S.A.",
+  "name": "Banco Mercantil",
   "legalName": "BANCO MERCANTIL DO BRASIL S.A.",
   "bic": "BMBRBRRBXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancomercantildobrasilsa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.mercantil.com.br.ico",
+  "websiteUrl": "https://www.mercantil.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -23,8 +23,10 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "klavi"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "BMEB4"
 }

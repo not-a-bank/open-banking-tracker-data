@@ -4,15 +4,15 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "challenger"
   ],
-  "name": "BANCO ORIGINAL S.A.",
+  "name": "Banco Original",
   "legalName": "BANCO ORIGINAL S.A.",
   "bic": "BORIBRSPXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancooriginalsa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.original.com.br.ico",
+  "websiteUrl": "https://www.original.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -20,10 +20,13 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developers.original.com.br/",
+  "apiReferenceUrl": "https://developers.original.com.br/docs",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "belvo"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null
