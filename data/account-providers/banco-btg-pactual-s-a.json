@@ -4,15 +4,16 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
-  "name": "Banco BTG Pactual S.a.",
+  "name": "BTG Pactual",
   "legalName": "BANCO BTG PACTUAL S.A.",
   "bic": "BPABBRRJXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancobtgpactual.com.ico",
-  "websiteUrl": "https://www.bancobtgpactual.com",
+  "icon": "https://icons.duckduckgo.com/ip3/www.btgpactual.com.ico",
+  "websiteUrl": "https://www.btgpactual.com/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -20,11 +21,24 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.btgpactual.com/",
+  "apiReferenceUrl": "https://sandbox.developer.btgpactual.com/admin/sandbox",
+  "apiStatusUrls": [
+    {
+      "url": "https://status.btgpactual.com/"
+    }
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developer.btgpactual.com/"
+  },
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "belvo",
+    "klavi"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "BPAC11"
 }

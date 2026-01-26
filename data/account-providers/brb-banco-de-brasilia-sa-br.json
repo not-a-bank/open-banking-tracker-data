@@ -6,13 +6,13 @@
   "bankType": [
     "retail"
   ],
-  "name": "BRB-BANCO DE BRASILIA S.A.",
+  "name": "Banco BRB",
   "legalName": "BRB-BANCO DE BRASILIA S.A.",
   "bic": "BRBSBRD1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.brbbancodebrasiliasabr.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.brb.com.br.ico",
+  "websiteUrl": "https://www.brb.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -23,8 +23,10 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "klavi"
+  ],
   "ownership": [],
-  "stateOwned": false,
+  "stateOwned": true,
   "stockSymbol": null
 }

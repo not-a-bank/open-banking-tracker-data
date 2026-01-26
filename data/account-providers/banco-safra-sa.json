@@ -4,15 +4,15 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "private"
   ],
-  "name": "BANCO SAFRA S.A.",
+  "name": "Banco Safra",
   "legalName": "BANCO SAFRA S.A.",
   "bic": "SAFRBRSPXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancosafrasa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.safra.com.br.ico",
+  "websiteUrl": "https://www.safra.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -23,7 +23,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "klavi"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

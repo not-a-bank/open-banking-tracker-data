@@ -4,15 +4,15 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "credit-union"
   ],
-  "name": "Banco Cooperativo Sicoob S/A - Banco Sicoob",
+  "name": "Sicoob",
   "legalName": "BANCO COOPERATIVO SICOOB S/A - BANCO SICOOB",
   "bic": "CPBNBRDFXXX",
   "verified": false,
   "status": "live",
-  "icon": null,
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.sicoob.com.br.ico",
+  "websiteUrl": "https://www.sicoob.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -20,10 +20,19 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developers.sicoob.com.br/",
+  "apiReferenceUrl": "https://developers.sicoob.com.br/#!/documentacao",
+  "apiStatusUrls": [
+    {
+      "url": "https://status.sisbr.com.br/"
+    }
+  ],
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "belvo",
+    "klavi"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

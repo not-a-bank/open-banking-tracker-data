@@ -22,7 +22,8 @@
     "BR"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://starkbank.com/sandbox",
+  "apiReferenceUrl": "https://starkbank.com/docs/api",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -33,7 +34,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "belvo"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],

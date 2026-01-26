@@ -4,15 +4,15 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "credit-union"
   ],
-  "name": "Banco Cooperativo Sicredi SA - Bansicredi",
+  "name": "Sicredi",
   "legalName": "BANCO COOPERATIVO SICREDI SA - BANSICREDI",
   "bic": "BCSIBRRSXXX",
   "verified": false,
   "status": "live",
-  "icon": null,
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.sicredi.com.br.ico",
+  "websiteUrl": "https://www.sicredi.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -23,7 +23,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "klavi"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

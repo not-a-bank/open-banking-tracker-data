@@ -25,7 +25,8 @@
     "BR"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.itau.com.br/",
+  "apiReferenceUrl": "https://developer.itau.com.br/api-catalog/openbanking",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -39,7 +40,9 @@
   "apiAggregators": [
     "plaid",
     "pluggy",
-    "trio-br"
+    "trio-br",
+    "belvo",
+    "klavi"
   ],
   "collections": [],
   "webApplication": false,

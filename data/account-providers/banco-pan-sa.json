@@ -6,13 +6,13 @@
   "bankType": [
     "retail"
   ],
-  "name": "BANCO PAN S.A.",
+  "name": "Banco PAN",
   "legalName": "BANCO PAN S.A.",
   "bic": "BPNMBRSPXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancopansa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.bancopan.com.br.ico",
+  "websiteUrl": "https://www.bancopan.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -23,8 +23,10 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "klavi"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "BPAN4"
 }

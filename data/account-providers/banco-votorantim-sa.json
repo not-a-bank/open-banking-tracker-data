@@ -6,13 +6,17 @@
   "bankType": [
     "retail"
   ],
-  "name": "BANCO VOTORANTIM S.A.",
+  "name": "Banco BV",
+  "aliases": [
+    "Banco Votorantim",
+    "BV"
+  ],
   "legalName": "BANCO VOTORANTIM S.A.",
   "bic": "BAVOBRSPXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancovotorantimsa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.bv.com.br.ico",
+  "websiteUrl": "https://www.bv.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -20,10 +24,14 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://www.bvopen.com.br/",
+  "apiReferenceUrl": "https://bvopen.com.br/solucoes",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "belvo",
+    "klavi"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

@@ -4,15 +4,15 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "development"
   ],
-  "name": "BANCO DO NORDESTE DO BRASIL S/A",
+  "name": "Banco do Nordeste do Brasil",
   "legalName": "BANCO DO NORDESTE DO BRASIL S/A",
   "bic": "BNBRBRCFXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancodonordestedobrasilsa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.bnb.gov.br.ico",
+  "websiteUrl": "https://www.bnb.gov.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -23,8 +23,10 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "klavi"
+  ],
   "ownership": [],
-  "stateOwned": false,
-  "stockSymbol": null
+  "stateOwned": true,
+  "stockSymbol": "BNBR3"
 }

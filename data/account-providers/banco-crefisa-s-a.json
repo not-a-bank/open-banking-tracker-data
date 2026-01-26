@@ -6,13 +6,13 @@
   "bankType": [
     "retail"
   ],
-  "name": "Banco Crefisa S.a.",
+  "name": "Crefisa",
   "legalName": "BANCO CREFISA S.A.",
   "bic": "BPBMBRSPXXX",
   "verified": false,
   "status": "live",
-  "icon": null,
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.crefisa.com.br.ico",
+  "websiteUrl": "https://www.crefisa.com.br/",
   "countryHQ": "BR",
   "countries": [
     "BR"
@@ -23,7 +23,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "klavi"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

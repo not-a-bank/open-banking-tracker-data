@@ -25,7 +25,7 @@
     "BR"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developers.bradesco.com.br/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -38,7 +38,9 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "trio-br",
-    "pluggy"
+    "pluggy",
+    "belvo",
+    "klavi"
   ],
   "collections": [],
   "webApplication": false,

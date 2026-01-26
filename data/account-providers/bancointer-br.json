@@ -22,7 +22,7 @@
     "BR"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developers.bancointer.com.br/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -33,7 +33,9 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "pluggy"
+    "pluggy",
+    "belvo",
+    "klavi"
   ],
   "collections": [],
   "webApplication": false,
