@@ -1,0 +1,88 @@
+{
+  "id": "tenpo-cl",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Tenpo",
+  "description": "Tenpo is a Chilean neobank owned by Credicorp that received its banking license from CMF (Comisión para el Mercado Financiero) in January 2026. The digital bank offers checking accounts, consumer loans, and term deposits.",
+  "legalName": "Tenpo S.A.",
+  "ipoStatus": "subsidiary",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1706000000/radar/icons/tenpo-cl.png",
+  "websiteUrl": "https://www.tenpo.cl/",
+  "ownership": [
+    {
+      "shareholderName": "Credicorp",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1600000000/radar/icons/credicorp.png",
+      "providerId": "credicorp-bank-sa",
+      "percentage": null,
+      "sourceUrl": "https://www.credicorp.com/"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "CL",
+  "countries": [
+    "CL"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/cl/app/tenpo/id1473221693"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=cl.tenpo.app"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "tenpo_cl",
+  "wikipediaUrl": null,
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "articles": [
+    {
+      "url": "https://www.cmfchile.cl/",
+      "date": "2026-01-20"
+    }
+  ]
+}

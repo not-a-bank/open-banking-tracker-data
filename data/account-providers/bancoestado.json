@@ -1,0 +1,49 @@
+{
+  "id": "bancoestado",
+  "type": ["account"],
+  "bankType": ["retail", "universal"],
+  "status": "live",
+  "name": "BancoEstado",
+  "legalName": "Banco del Estado de Chile",
+  "ipoStatus": "public",
+  "verified": false,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1614098937/icons/bancoestado.png",
+  "websiteUrl": "https://www.bancoestado.cl/",
+  "ownership": [],
+  "stateOwned": true,
+  "countryHQ": "CL",
+  "countries": ["CL"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "bic": "BABORCLRMXXX",
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/cl/app/bancoestado/id1118414149"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=cl.bancoe.android.b2c"
+    }
+  ],
+  "stockSymbol": null,
+  "stack": [
+    {
+      "id": "mambu",
+      "name": "Mambu",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565434475/catalog/mambu/icon128x128.jpg",
+      "websiteUrl": "https://www.mambu.com/"
+    }
+  ],
+  "twitter": "bancoestado",
+  "crunchbase": null,
+  "github": null,
+  "articles": []
+}

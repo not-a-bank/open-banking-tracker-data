@@ -1,0 +1,48 @@
+{
+  "id": "wio-bank",
+  "type": ["account"],
+  "bankType": ["challenger"],
+  "status": "live",
+  "name": "Wio Bank",
+  "legalName": "Wio Bank PJSC",
+  "ipoStatus": "private",
+  "verified": false,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1614098937/icons/wio-bank.png",
+  "websiteUrl": "https://www.wio.io/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AE",
+  "countries": ["AE"],
+  "compliance": [],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/ae/app/wio/id1594464498"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=io.wio.app"
+    }
+  ],
+  "stockSymbol": null,
+  "stack": [
+    {
+      "id": "mambu",
+      "name": "Mambu",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1565434475/catalog/mambu/icon128x128.jpg",
+      "websiteUrl": "https://www.mambu.com/"
+    }
+  ],
+  "twitter": "waborabank",
+  "crunchbase": "wio-bank",
+  "github": null,
+  "articles": []
+}
