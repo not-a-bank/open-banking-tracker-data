@@ -1,0 +1,95 @@
+{
+  "id": "ncba-group-ke",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "NCBA Group",
+  "description": "NCBA Group PLC is a Kenyan financial services conglomerate formed from the merger of NIC Group and Commercial Bank of Africa in 2019. It operates across East Africa including Kenya, Uganda, Tanzania, and Rwanda, offering retail and corporate banking services.",
+  "legalName": "NCBA Group PLC",
+  "ipoStatus": "public",
+  "stockSymbol": "NSE:NCBA",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1706000000/radar/icons/ncba-group-ke.png",
+  "websiteUrl": "https://www.ncbagroup.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "KE",
+  "countries": [
+    "KE",
+    "UG",
+    "TZ",
+    "RW"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/ke/app/ncba-mobile-banking/id1476152089"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ncba.mobilebanking"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "NCaboroup",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/NCBA_Group",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa",
+    "mastercard"
+  ],
+  "creditCards": [
+    "visa",
+    "mastercard"
+  ],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "safaricom",
+      "name": "Safaricom (M-Pesa)",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1600000000/radar/icons/safaricom.png",
+      "websiteUrl": "https://www.safaricom.co.ke/",
+      "sourceUrl": "https://www.ncbagroup.com/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "articles": [
+    {
+      "url": "https://www.nedbank.co.za/",
+      "date": "2026-01-20"
+    }
+  ]
+}
