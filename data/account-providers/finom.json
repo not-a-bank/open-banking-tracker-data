@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "challenger"
   ],
   "status": "live",
   "name": "FINOM",
@@ -13,11 +14,16 @@
   "websiteUrl": "https://finom.de",
   "countryHQ": "DE",
   "countries": [
-    "DE"
+    "DE",
+    "IT"
   ],
   "webApplication": false,
   "mobileApps": [],
   "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    },
     {
       "regulation": "PSD2",
       "status": "unknown"

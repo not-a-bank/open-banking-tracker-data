@@ -4,26 +4,59 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Skagerrak Sparebank",
   "legalName": "Skagerrak Sparebank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.skagerrak-sparebank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/155dc74b-1c76-49dd-bcc3-f2d147e6e3dc/-/preview/170x170/-/crop/180x180/center/NO937891245.png",
+  "websiteUrl": "https://skagerraksparebank.no/",
   "countryHQ": "NO",
   "countries": [
     "NO"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://api-portal.sdc.dk/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "enablebanking",
+    "neonomics"
   ],
   "ownership": [],
   "stateOwned": false,

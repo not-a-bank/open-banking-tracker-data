@@ -1,8 +1,17 @@
 {
   "id": "petalcard",
-  "type": "account",
+  "type": [
+    "a",
+    "c",
+    "o",
+    "u",
+    "n",
+    "t",
+    "account"
+  ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "Petal",
   "description": "Responsible credit for the modern world. Petal doesn’t charge fees, helps you spend within a budget, and rewards you when you pay on time.",

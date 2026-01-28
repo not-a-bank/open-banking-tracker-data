@@ -4,27 +4,87 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "HANDELSBANKEN",
   "legalName": "HANDELSBANKEN",
   "bic": "HANDDKKKXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.handelsbankendk.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296089/radar/icons/Svenska_Handelsbanken.jpg",
+  "websiteUrl": "https://www.handelsbanken.com/",
   "countryHQ": "DK",
   "countries": [
-    "DK"
+    "DK",
+    "SE",
+    "GB",
+    "NO",
+    "FI",
+    "NL"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/be/app/handelsbanken-uk-individual/id663822858?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.handelsbanken.mobile.android.ukpriv&hl=en_IN"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    {
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.handelsbanken.com/",
   "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Accounts Information API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Use this API to enable our mutual customers to access their account information and transaction history.",
+      "documentationUrl": "https://developer.handelsbanken.com/psd2/accounts",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "Payments Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Use this API to enable our mutual customers to initiate payments and transfers between accounts.",
+      "documentationUrl": "https://developer.handelsbanken.com/psd2/payments",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking",
+    "enfuce",
+    "fintecture",
+    "klarna",
+    "neonomics",
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "truelayer",
+    "volt"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "STO:SHB-A"
 }

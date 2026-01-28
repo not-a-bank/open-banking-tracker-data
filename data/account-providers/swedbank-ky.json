@@ -4,27 +4,141 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "SWEDBANK",
   "legalName": "SWEDBANK",
   "bic": "SWEDKYK1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.swedbankky.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296089/radar/icons/Swedbank.jpg",
+  "websiteUrl": "https://www.swedbank.com/",
   "countryHQ": "KY",
   "countries": [
-    "KY"
+    "KY",
+    "SE",
+    "EE",
+    "LV",
+    "LT"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/swedbank-private/id344161302?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=se.swedbank.mobil&hl=en"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.swedbank.com/admin/app/home",
   "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "invalidateToken",
+      "type": "auth",
+      "categories": [
+        "auth"
+      ],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "sandbox"
+    },
+    {
+      "label": "consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "funds-confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": null,
+      "documentationUrl": "https://developer.swedbank.com/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "RestFX Indicative Rates",
+      "type": "fx",
+      "description": "A simple, user friendly way to retrieve up-to date, indicative FX rates. This service is a free of charge API, open for all users and not limited to customers of Swedbank AB.",
+      "categories": [
+        "fx"
+      ],
+      "documentationUrl": "https://www.swedbank.com/openbanking/restfx/indiciative-rates",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "RestFX Market Orders",
+      "type": "fx",
+      "description": "A simple, user friendly way to place FX orders with Swedbank. No additional costs for the API, but the service is strictly limited to customers of Swedbank AB in Sweden and Norway that have FX trade activated.",
+      "categories": [
+        "fx"
+      ],
+      "documentationUrl": "https://www.swedbank.com/openbanking/restfx/market-orders",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking",
+    "fintecture",
+    "klarna",
+    "neonomics",
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "truelayer",
+    "volt"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "STO:SWED-A"
 }

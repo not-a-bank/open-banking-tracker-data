@@ -4,17 +4,19 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "challenger"
   ],
   "name": "Wise",
   "legalName": "Wise",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.wise.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1588375815/radar/icons/wise-us.jpg",
+  "websiteUrl": "https://www.wise.us/",
   "countryHQ": "CH",
   "countries": [
-    "CH"
+    "CH",
+    "US"
   ],
   "webApplication": true,
   "mobileApps": [],

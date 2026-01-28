@@ -4,26 +4,60 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "OFOTEN SPAREBANK",
   "legalName": "OFOTEN SPAREBANK",
   "bic": "OFSPNO21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.ofotensparebank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/bedb711e-b36e-4c07-87fd-c8806073ebe9/-/preview/170x170/-/crop/180x180/center/NO955008863.png",
+  "websiteUrl": "https://ofotensparebank.no/",
   "countryHQ": "NO",
   "countries": [
     "NO"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://api-portal.sdc.dk/",
   "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking",
+    "neonomics"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

@@ -4,26 +4,34 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
   "name": "BANCA POPOLARE DI BARI",
   "legalName": "BANCA POPOLARE DI BARI",
   "bic": "BPBAIT21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolaredibariit.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_popolare_di_bari_it.svg",
+  "websiteUrl": "https://www.popolarebari.it",
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.cedacri.it",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

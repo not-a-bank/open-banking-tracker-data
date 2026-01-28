@@ -4,26 +4,37 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "NASSAUISCHE SPARKASSE",
   "legalName": "NASSAUISCHE SPARKASSE",
   "bic": "NASSDE51XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.nassauischesparkassede.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/nassauische_sparkasse_de.svg",
+  "websiteUrl": "https://www.naspa.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid",
+    "salt-edge",
+    "volt",
+    "yaxi"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

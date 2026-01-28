@@ -4,21 +4,31 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "BANK NIZWA",
   "legalName": "BANK NIZWA",
   "bic": "BNZWOMRXXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.banknizwa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1609706406/radar/icons/banknizwa-om.jpg",
+  "websiteUrl": "https://www.banknizwa.om/",
   "countryHQ": "OM",
   "countries": [
     "OM"
   ],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/au/app/bank-nizwa/id1025665780?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.netvariant.banknizwa&hl=en"
+    }
+  ],
   "compliance": [],
   "developerPortalUrl": null,
   "apiStandards": [],

@@ -4,26 +4,33 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Thinkmoney",
   "legalName": "Thinkmoney",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.thinkmoney.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/thkm_gb.svg",
+  "websiteUrl": "https://www.thinkmoney.co.uk",
   "countryHQ": "GB",
   "countries": [
     "GB"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://token.io/developer",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

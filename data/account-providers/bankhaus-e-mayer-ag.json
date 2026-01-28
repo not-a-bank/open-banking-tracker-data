@@ -4,27 +4,35 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "BANKHAUS E. MAYER AG",
   "legalName": "BANKHAUS E. MAYER AG",
   "bic": "MAYRDE61XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bankhausemayerag.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
+  "websiteUrl": "https://banking.bankhaus-mayer.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

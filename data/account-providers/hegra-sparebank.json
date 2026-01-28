@@ -4,27 +4,60 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "HEGRA SPAREBANK",
   "legalName": "HEGRA SPAREBANK",
   "bic": "HESPNOB1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.hegrasparebank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/94bc2505-ca5d-4630-ab55-66bd2854b3fd/-/preview/170x170/-/crop/180x180/center/NO937903235.png",
+  "websiteUrl": "https://hegrasparebank.no/",
   "countryHQ": "NO",
   "countries": [
     "NO"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://api-portal.sdc.dk/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "enablebanking",
+    "neonomics"
   ],
   "ownership": [],
   "stateOwned": false,

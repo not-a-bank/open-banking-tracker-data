@@ -4,26 +4,59 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
-  "name": "H\u00f8land og Setskog Sparebank",
-  "legalName": "H\u00f8land og Setskog Sparebank",
+  "name": "Høland og Setskog Sparebank",
+  "legalName": "Høland og Setskog Sparebank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.holand-og-setskog-sparebank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/fb5a2e1b-d594-47e8-852d-8ada81dfbcd1/-/preview/170x170/-/crop/180x180/center/NO937885822.png",
+  "websiteUrl": "https://hsbank.no/",
   "countryHQ": "NO",
   "countries": [
     "NO"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://api-portal.sdc.dk/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "enablebanking",
+    "neonomics"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -4,15 +4,16 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "commercial"
   ],
   "name": "SIGNATURE BANK",
   "legalName": "SIGNATURE BANK",
   "bic": "SIGRUS41XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.signaturebankus.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616013288/radar/icons/signature-bank.png",
+  "websiteUrl": "https://www.signatureny.com/",
   "countryHQ": "US",
   "countries": [
     "US"
@@ -23,8 +24,10 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "SBNY"
 }

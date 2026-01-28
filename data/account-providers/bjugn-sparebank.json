@@ -4,27 +4,60 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "BJUGN SPAREBANK",
   "legalName": "BJUGN SPAREBANK",
   "bic": "BJUGNO21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bjugnsparebank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/3f565c02-e958-42b2-b305-497359fa1e2b/-/preview/170x170/-/crop/180x180/center/NO937902085.png",
+  "websiteUrl": "https://bjugn-sparebank.no/",
   "countryHQ": "NO",
   "countries": [
     "NO"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://api-portal.sdc.dk/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "enablebanking",
+    "neonomics"
   ],
   "ownership": [],
   "stateOwned": false,

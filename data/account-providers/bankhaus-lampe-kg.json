@@ -4,26 +4,36 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
   "name": "BANKHAUS LAMPE KG",
   "legalName": "BANKHAUS LAMPE KG",
   "bic": "LAMPDEDDXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bankhauslampekg.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/bankhaus_lampe_de.svg",
+  "websiteUrl": "https://www.bankhaus-lampe.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.bank-verlag.de/psd2-degussabank",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge",
+    "volt",
+    "yaxi"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

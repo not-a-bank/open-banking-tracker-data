@@ -4,15 +4,16 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "REGIONS BANK",
   "legalName": "REGIONS BANK",
   "bic": "UPNBUS44XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.regionsbankus.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1630111148/radar/icons/regions-bank.jpg",
+  "websiteUrl": "https://www.regions.com/",
   "countryHQ": "US",
   "countries": [
     "US"
@@ -23,8 +24,10 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "RF"
 }

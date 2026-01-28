@@ -4,28 +4,41 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "challenger"
   ],
   "name": "Banx",
   "legalName": "Banx",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.banx.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1633597752/radar/icons/banx-be.png",
+  "websiteUrl": "https://www.banx.be/",
   "countryHQ": "BE",
   "countries": [
     "BE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "salt-edge"
   ],
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "proximus-be",
+      "shareholderName": "Proximus",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1593705305/icons/proximus-be.png"
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null,
   "bic": "GKCCBEBBXXX"

@@ -4,27 +4,93 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "corporate"
   ],
   "name": "VOLKSWAGEN BANK",
   "legalName": "VOLKSWAGEN BANK",
   "bic": "VOWAFR21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.volkswagenbankfr.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574855820/radar/icons/volkswagen-bank.jpg",
+  "websiteUrl": "https://www.vwfs.de/",
   "countryHQ": "FR",
   "countries": [
-    "FR"
+    "FR",
+    "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.vwfs.de/geschaeftskunden/service/api.html",
   "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [],
-  "ownership": [],
+  "apiProducts": [
+    {
+      "label": "AISP Accounts - Manage users bank accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "apiReferenceUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "stage": "sandbox",
+      "premium": false
+    },
+    {
+      "label": "AISP Consents Management - Account Information Consent Management API",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "apiReferenceUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "stage": "sandbox",
+      "premium": false
+    },
+    {
+      "label": "PISP - PISP Initialize and manage user payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "apiReferenceUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "stage": "sandbox",
+      "premium": false
+    },
+    {
+      "label": "PIISP - Check if a given amount can be covered by the available liquidity on accounts",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": null,
+      "documentationUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "apiReferenceUrl": "https://vwfs-de-sandbox-portal.apps.ndgit.com/#/apis/27/135",
+      "stage": "sandbox",
+      "premium": false
+    }
+  ],
+  "apiAggregators": [
+    "equensworldline",
+    "salt-edge"
+  ],
+  "ownership": [
+    {
+      "providerId": "volkswagen",
+      "shareholderName": "Volkswagen",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1574651993/catalog/volkswagen/icon128x128.jpg",
+      "percentage": 100
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null
 }

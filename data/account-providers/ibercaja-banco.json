@@ -4,26 +4,70 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Ibercaja Banco",
   "legalName": "Ibercaja Banco",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.ibercaja-banco.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/ibercaja_es.svg",
+  "websiteUrl": "https://www.ibercaja.es",
   "countryHQ": "ES",
   "countries": [
     "ES"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/ibercaja",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/ibercaja",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/ibercaja",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/ibercaja",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -4,14 +4,15 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Caixa Econômica Federal",
   "legalName": "CAIXA ECONOMICA FEDERAL",
   "bic": "CEFXBRSPXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.caixa.gov.br.ico",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1620492426/radar/icons/caixa-br.jpg",
   "websiteUrl": "https://www.caixa.gov.br/",
   "countryHQ": "BR",
   "countries": [
@@ -26,7 +27,9 @@
   "apiProducts": [],
   "apiAggregators": [
     "belvo",
-    "klavi"
+    "klavi",
+    "trio-br",
+    "pluggy"
   ],
   "ownership": [],
   "stateOwned": true,

@@ -4,15 +4,16 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "commercial"
   ],
   "name": "PACIFIC WESTERN BANK",
   "legalName": "PACIFIC WESTERN BANK",
   "bic": "FNSDUS6DXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.pacificwesternbank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616012196/radar/icons/pacwest.png",
+  "websiteUrl": "https://www.pacwest.com/",
   "countryHQ": "US",
   "countries": [
     "US"
@@ -23,7 +24,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

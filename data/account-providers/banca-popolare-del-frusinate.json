@@ -4,26 +4,34 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
   "name": "BANCA POPOLARE DEL FRUSINATE",
   "legalName": "BANCA POPOLARE DEL FRUSINATE",
   "bic": "BPFRIT3FXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolaredelfrusinate.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bpf_it.svg",
+  "websiteUrl": "https://www.bpf.it",
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cse-frusinate-psd2.obp.sia.eu/sapr/#!devHome",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

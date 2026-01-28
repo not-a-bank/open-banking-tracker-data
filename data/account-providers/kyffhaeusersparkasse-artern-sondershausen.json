@@ -4,26 +4,35 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
-  "name": "Kyffh\u00e4usersparkasse Artern-Sondershausen",
-  "legalName": "Kyffh\u00e4usersparkasse Artern-Sondershausen",
+  "name": "Kyffhäusersparkasse Artern-Sondershausen",
+  "legalName": "Kyffhäusersparkasse Artern-Sondershausen",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.kyffhaeusersparkasse-artern-sondershausen.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/kyffhausersparkasse_artern_sondershausen_de.svg",
+  "websiteUrl": "https://www.kyffhaeusersparkasse.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi",
+    "plaid",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

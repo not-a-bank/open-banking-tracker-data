@@ -4,26 +4,60 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "SURNADAL SPAREBANK",
   "legalName": "SURNADAL SPAREBANK",
   "bic": "SURSNO21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.surnadalsparebank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/96424f32-ddd4-461f-ac17-966ecbdb0cdc/-/preview/170x170/-/crop/180x180/center/NO937900031.png",
+  "websiteUrl": "https://bank.no/",
   "countryHQ": "NO",
   "countries": [
     "NO"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://api-portal.sdc.dk/",
   "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "enablebanking",
+    "neonomics"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

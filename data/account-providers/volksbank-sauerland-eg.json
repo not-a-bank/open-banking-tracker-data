@@ -4,26 +4,33 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Volksbank Sauerland eG",
   "legalName": "Volksbank Sauerland eG",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-sauerland-eg.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
+  "websiteUrl": "https://www.vb-sauerland.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

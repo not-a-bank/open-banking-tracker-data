@@ -4,25 +4,73 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "COVENTRY BUILDING SOCIETY",
   "legalName": "COVENTRY BUILDING SOCIETY",
   "bic": "COBSGB21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.coventrybuildingsociety.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1606481118/icons/coventrybuildingsociety-uk.jpg",
+  "websiteUrl": "https://www.coventrybuildingsociety.co.uk/",
   "countryHQ": "GB",
   "countries": [
     "GB"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://developer.coventrybuildingsociety.co.uk/",
+  "apiStandards": [
+    "OBIE"
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/march-2019/CBS%20Account%20and%20Transaction%20API%20Specification%20v2.0.pdf",
+      "apiReferenceUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/march-2019/CBS%20Account%20and%20Transaction%20API%20Specification%20v2.0.pdf",
+      "premium": false,
+      "stage": "live",
+      "specification": ""
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/march-2019/CBS%20Payment%20API%20Specification%20v2.0.pdf",
+      "apiReferenceUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/march-2019/CBS%20Payment%20API%20Specification%20v2.0.pdf",
+      "premium": false,
+      "stage": "live",
+      "specification": ""
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/may-2020/CBS%20confirmation%20of%20funds%20API%20specification.pdf",
+      "apiReferenceUrl": "https://developer.coventrybuildingsociety.co.uk/content/dam/cbs/developer-portal/pdfs/may-2020/CBS%20confirmation%20of%20funds%20API%20specification.pdf",
+      "premium": false,
+      "stage": "live",
+      "specification": ""
+    }
+  ],
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,

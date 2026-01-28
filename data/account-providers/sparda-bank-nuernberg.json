@@ -4,26 +4,34 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
-  "name": "Sparda-Bank N\u00fcrnberg",
-  "legalName": "Sparda-Bank N\u00fcrnberg",
+  "name": "Sparda-Bank Nürnberg",
+  "legalName": "Sparda-Bank Nürnberg",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.sparda-bank-nuernberg.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/sparda_de.svg",
+  "websiteUrl": "https://www.sparda-n.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sopra-financial-technology.com/psd2/psd2-english",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

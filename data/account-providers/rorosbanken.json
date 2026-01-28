@@ -4,26 +4,59 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
-  "name": "R\u00f8rosBanken",
-  "legalName": "R\u00f8rosBanken",
+  "name": "RørosBanken",
+  "legalName": "RørosBanken",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.rorosbanken.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/2c235721-a4d2-4521-a2d0-89f2c2e2dc4b/-/preview/170x170/-/crop/180x180/center/NO956548888.png",
+  "websiteUrl": "https://rorosbanken.no/",
   "countryHQ": "NO",
   "countries": [
     "NO"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://api-portal.sdc.dk/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "enablebanking",
+    "neonomics"
   ],
   "ownership": [],
   "stateOwned": false,

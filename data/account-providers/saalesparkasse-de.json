@@ -4,26 +4,37 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "SAALESPARKASSE",
   "legalName": "SAALESPARKASSE",
   "bic": "SARKDE81XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.saalesparkassede.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/saalesparkasse_de.svg",
+  "websiteUrl": "https://www.saalesparkasse.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://xs2a.sparkassen-hub.com",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid",
+    "salt-edge",
+    "volt",
+    "yaxi"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

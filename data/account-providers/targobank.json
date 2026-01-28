@@ -4,28 +4,46 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Targobank",
   "legalName": "Targobank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.targobank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1595523725/radar/icons/targobank-de.png",
+  "websiteUrl": "https://www.targobank.de/",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi",
+    "plaid",
+    "nordigen",
+    "equensworldline",
+    "truelayer",
+    "salt-edge"
   ],
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "credit-mutuel-group",
+      "shareholderName": "Crédit Mutuel",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1595523777/icons/credit-mutuel-group.jpg"
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null,
   "bic": "CMCIDEDDXXX"

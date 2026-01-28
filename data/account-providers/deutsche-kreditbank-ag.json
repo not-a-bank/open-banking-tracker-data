@@ -4,27 +4,35 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
   "name": "DEUTSCHE KREDITBANK AG",
   "legalName": "DEUTSCHE KREDITBANK AG",
   "bic": "DEKDDE21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.deutschekreditbankag.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/dkb_de.svg",
+  "websiteUrl": "https://www.dkb.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://api.dkb.de/store",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

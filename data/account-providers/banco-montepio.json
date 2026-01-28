@@ -4,27 +4,35 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Banco Montepio",
   "legalName": "Banco Montepio",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.banco-montepio.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/montepio_oauth_client_pt.svg",
+  "websiteUrl": "https://www.bancomontepio.pt",
   "countryHQ": "PT",
   "countries": [
     "PT"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sibsapimarket.com",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
     "plaid",
-    "volt"
+    "volt",
+    "bridgeapi-io",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

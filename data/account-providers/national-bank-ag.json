@@ -4,26 +4,35 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
   "name": "NATIONAL-BANK AG",
   "legalName": "NATIONAL-BANK AG",
   "bic": "NBAGDE3EXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankag.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/au/national_bank_of_australia_au.svg",
+  "websiteUrl": "https://www.national-bank.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.bank-verlag.de/psd2-degussabank",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "yaxi",
+    "salt-edge"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

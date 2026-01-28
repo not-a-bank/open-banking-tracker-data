@@ -4,27 +4,60 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "NORDFYNS BANK",
   "legalName": "NORDFYNS BANK",
   "bic": "NSBKDK21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.nordfynsbank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/f25d3797-f7a2-4b80-a478-a2e93a421e71/-/preview/170x170/-/crop/180x180/center/DK64865218.png",
+  "websiteUrl": "https://www.nordfynsbank.dk/",
   "countryHQ": "DK",
   "countries": [
     "DK"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://developers.bankdata.dk/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "plaid",
+    "enablebanking"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -4,27 +4,45 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "challenger"
   ],
   "name": "TINKOFF BANK",
   "legalName": "TINKOFF BANK",
   "bic": "TICSRUMMXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.tinkoffbankru.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1560869727/radar/icons/tinkoff.png",
+  "websiteUrl": "https://www.tinkoff.ru/eng/",
   "countryHQ": "RU",
   "countries": [
     "RU"
   ],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/tinkoff/id455652438"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.idamob.tinkoff.android&hl=en"
+    }
+  ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://oplata.tinkoff.ru/landing/develop/documentation",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [],
-  "ownership": [],
+  "ownership": [
+    {
+      "shareholderName": "Oleg Tinkov",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1560869962/radar/icons/Oleg.png",
+      "providerId": "Oleg-Tinkov",
+      "percentage": 43.8,
+      "sourceUrl": "https://www.tinkoff.ru/eng/ir/corporate-governance/"
+    }
+  ],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "FRA: 13T1"
 }

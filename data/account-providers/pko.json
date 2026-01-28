@@ -4,29 +4,96 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "corporate"
   ],
   "name": "PKO",
   "legalName": "PKO",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.pko.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568784549/radar/icons/pko-bank-polski.png",
+  "websiteUrl": "https://www.pkobp.pl/",
   "countryHQ": "PL",
   "countries": [
     "PL"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [
-    "volt"
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/us/app/iko/id597657968?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=pl.pkobp.iko&hl=en"
+    }
   ],
-  "ownership": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developers.pkobp.pl/pl/",
+  "apiStandards": [
+    "POLISHAPI"
+  ],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.pkobp.pl/pl/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.pkobp.pl/pl/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.pkobp.pl/pl/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiAggregators": [
+    "volt",
+    "plaid",
+    "nordigen",
+    "klarna",
+    "banqup",
+    "enablebanking",
+    "fintecture"
+  ],
+  "ownership": [
+    {
+      "shareholderName": "Polish State Treasury",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552487385/radar/icons/Polish_Treasury.png",
+      "providerId": "Polish State Treasury",
+      "percentage": 29.4
+    }
+  ],
   "stateOwned": false,
-  "stockSymbol": null,
+  "stockSymbol": "WSE:PKO",
   "bic": "BPKOPLPWXXX"
 }

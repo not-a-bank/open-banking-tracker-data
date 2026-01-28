@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "private",
+    "retail"
   ],
   "status": "live",
   "name": "Mediocredito Trentino Alto Adige Spa",
@@ -15,7 +16,7 @@
   "countries": [
     "IT"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "plaid"
   ],
-  "swiftCode": "CCRTIT2TM00"
+  "swiftCode": "CCRTIT2TM00",
+  "legalName": "Mediocredito Trentino Alto Adige Spa"
 }

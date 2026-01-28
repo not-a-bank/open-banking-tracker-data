@@ -4,26 +4,35 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "QNB",
   "legalName": "QNB",
   "bic": "QNBASSJBXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.qnbss.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/fr/qnb_fr.svg",
+  "websiteUrl": "https://www.qnb.com",
   "countryHQ": "SS",
   "countries": [
-    "SS"
+    "SS",
+    "GB"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.ob.qnb.com",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

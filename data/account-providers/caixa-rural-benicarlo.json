@@ -4,26 +4,33 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Caixa Rural Benicarlo",
   "legalName": "Caixa Rural Benicarlo",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.caixa-rural-benicarlo.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/cr_es.svg",
+  "websiteUrl": "https://www.bde.es",
   "countryHQ": "ES",
   "countries": [
     "ES"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/cajarural",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -4,15 +4,16 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "commercial"
   ],
   "name": "METROPOLITAN COMMERCIAL BANK",
   "legalName": "METROPOLITAN COMMERCIAL BANK",
   "bic": "MCBEUS33XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.metropolitancommercialbankus.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616012728/radar/icons/metropolitan-commercial-bank.png",
+  "websiteUrl": "https://www.mcbankny.com/",
   "countryHQ": "US",
   "countries": [
     "US"
@@ -20,10 +21,12 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://docs-api.mcbankny.com",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

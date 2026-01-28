@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "private",
+    "retail"
   ],
   "status": "live",
   "name": "Banca Popolare delle Province Molisane",
@@ -15,7 +16,7 @@
   "countries": [
     "IT"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "plaid"
   ],
-  "swiftCode": "PPMSIT31XXX"
+  "swiftCode": "PPMSIT31XXX",
+  "legalName": "Banca Popolare delle Province Molisane"
 }

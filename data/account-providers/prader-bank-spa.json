@@ -4,26 +4,35 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
   "name": "PRADER BANK S.P.A.",
   "legalName": "PRADER BANK S.P.A.",
   "bic": "PRRDIT21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.praderbankspa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/praderbank_it.svg",
+  "websiteUrl": "https://www.praderbank.com",
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge",
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

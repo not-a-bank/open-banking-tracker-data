@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "Lili",
   "description": "Banking Designed for Freelancers. Stay in control. Save on taxes. No account fees and no minimum balance. Get Started.",
@@ -37,7 +38,7 @@
     "plaid"
   ],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
