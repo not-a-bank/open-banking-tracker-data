@@ -4,27 +4,133 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "commercial"
   ],
   "name": "SILICON VALLEY BANK",
   "legalName": "SILICON VALLEY BANK",
   "bic": "SVBKGB2LXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.siliconvalleybankgb.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1616003484/icons/silicon-valley-bank.jpg",
+  "websiteUrl": "https://www.svb.com/",
   "countryHQ": "GB",
   "countries": [
-    "GB"
+    "GB",
+    "US"
   ],
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://www.svb.com/developers",
   "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/24",
+      "apiReferenceUrl": "https://developer.svb.com/node/24",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/21",
+      "apiReferenceUrl": "https://developer.svb.com/node/21",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/22",
+      "apiReferenceUrl": "https://developer.svb.com/node/22",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "label": "Consents",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/23",
+      "apiReferenceUrl": "https://developer.svb.com/node/23",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "label": "Client Registration",
+      "type": "clientRegistration",
+      "categories": [
+        "developer"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.svb.com/node/25",
+      "apiReferenceUrl": "https://developer.svb.com/node/25",
+      "regulation": "psd2",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": ""
+        }
+      ]
+    }
+  ],
+  "apiAggregators": [
+    "plaid",
+    "salt-edge"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "SIVB"
 }

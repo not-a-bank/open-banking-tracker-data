@@ -4,25 +4,106 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Vanquis Bank",
   "legalName": "Vanquis Bank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.vanquis-bank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1602119340/radar/icons/vanquis-uk.png",
+  "websiteUrl": "https://www.vanquis.co.uk/",
   "countryHQ": "GB",
   "countries": [
     "GB"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/gb/app/evanquis/id936624571?mt=8&amp;uo=4"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ie.vanquis.interact.shell"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.vanquis.co.uk/developer-portal",
+  "apiStandards": [
+    "OBIE"
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.vanquis.co.uk/developer-portal#OurAPIs",
+      "apiReferenceUrl": "https://openbanking.atlassian.net/wiki/spaces/DZ/pages/937820271/Account+and+Transaction+API+Specification+-+v3.1",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://raw.githubusercontent.com/OpenBankingUK/read-write-api-specs/v3.1.0/dist/account-info-swagger.yaml"
+        }
+      ],
+      "specification": "OBIE-AISP"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://www.vanquis.co.uk/developer-portal#OurAPIs",
+      "apiReferenceUrl": "https://openbanking.atlassian.net/wiki/spaces/DZ/pages/937820271/Account+and+Transaction+API+Specification+-+v3.1",
+      "premium": false,
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://raw.githubusercontent.com/OpenBankingUK/read-write-api-specs/master/dist/swagger/payment-initiation-swagger.yaml"
+        }
+      ],
+      "stage": "live",
+      "specification": "OBIE-PISP"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://www.vanquis.co.uk/developer-portal#OurAPIs",
+      "apiReferenceUrl": "https://openbanking.atlassian.net/wiki/spaces/DZ/pages/937951380/Confirmation+of+Funds+API+Specification+-+v3.1",
+      "premium": false,
+      "stage": "live",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://raw.githubusercontent.com/OpenBankingUK/read-write-api-specs/v3.1.0/dist/confirmation-funds-swagger.yaml"
+        }
+      ],
+      "specification": "OBIE-CBPII"
+    }
+  ],
   "apiAggregators": [
+    "plaid",
+    "salt-edge",
+    "tink",
     "volt"
   ],
   "ownership": [],

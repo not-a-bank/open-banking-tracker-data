@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Südtiroler Sparkasse AG Niederlassung München",
@@ -15,7 +16,7 @@
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -31,7 +32,9 @@
   "stockSymbol": "",
   "apiAggregators": [
     "yaxi",
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
-  "swiftCode": "SUSKDEM1XXX"
+  "swiftCode": "SUSKDEM1XXX",
+  "legalName": "Südtiroler Sparkasse AG Niederlassung München"
 }

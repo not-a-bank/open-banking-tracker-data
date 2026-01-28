@@ -10,23 +10,39 @@
   "legalName": "Postbank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.postbank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1601755087/radar/icons/postbank-de.jpg",
+  "websiteUrl": "https://www.postbank.de/",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "equensworldline",
+    "plaid",
+    "salt-edge",
+    "tink",
+    "volt",
+    "yaxi"
   ],
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "deutsche-bank",
+      "shareholderName": "Deutsche Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1595919842/icons/deutsche-bank.jpg"
+    }
+  ],
   "stateOwned": false,
-  "stockSymbol": null,
+  "stockSymbol": "DPB",
   "bic": "PBNKDEFFXXX"
 }

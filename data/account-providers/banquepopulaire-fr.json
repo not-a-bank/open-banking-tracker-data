@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Banque Populaire",
   "description": "Groupe Banque Populaire is a French group of cooperative banks. The federal union is controlled by 15 independent regional banks and also operates under the CASDEN and the Crédit Coopératif subsidiaries.",
-  "legalName": null,
+  "legalName": "Banque Populaire",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -150,7 +151,8 @@
     "bridgeapi-io",
     "ibanity",
     "equensworldline",
-    "truelayer"
+    "truelayer",
+    "tink"
   ],
   "collections": [],
   "webApplication": true,

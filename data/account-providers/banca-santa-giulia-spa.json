@@ -4,26 +4,35 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
   "name": "BANCA SANTA GIULIA S.P.A.",
   "legalName": "BANCA SANTA GIULIA S.P.A.",
   "bic": "SGIUIT21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancasantagiuliaspa.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_santa_giulia_it.svg",
+  "websiteUrl": "https://www.bancasantagiulia.it",
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://cbiglobeopenbankingapiportal.nexi.it",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge",
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

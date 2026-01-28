@@ -4,27 +4,34 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
-  "name": "Caixa Agr\u00edcola de MAFRA",
-  "legalName": "Caixa Agr\u00edcola de MAFRA",
+  "name": "Caixa Agrícola de MAFRA",
+  "legalName": "Caixa Agrícola de MAFRA",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.caixa-agricola-de-mafra.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/ccamm_oauth_client_pt.svg",
+  "websiteUrl": "http://www.ccammafra.pt",
   "countryHQ": "PT",
   "countries": [
     "PT"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sibsapimarket.com",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
     "plaid",
-    "volt"
+    "volt",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

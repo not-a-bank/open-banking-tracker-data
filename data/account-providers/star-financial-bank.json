@@ -4,15 +4,16 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "community"
   ],
   "name": "STAR FINANCIAL BANK",
   "legalName": "STAR FINANCIAL BANK",
   "bic": "SFIBUS44XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.starfinancialbank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607139529/radar/icons/starfinancial.jpg",
+  "websiteUrl": "https://www.starfinancial.com/",
   "countryHQ": "US",
   "countries": [
     "US"

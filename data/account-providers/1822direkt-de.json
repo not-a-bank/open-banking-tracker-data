@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "1822direkt",
   "description": "1822direkt is a subsidiary of Frankfurter Sparkasse and acts as a direct internet bank on their behalf. ",
-  "legalName": null,
+  "legalName": "1822direkt",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -46,7 +47,8 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "yaxi",
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
   "collections": [],
   "sdks": [],

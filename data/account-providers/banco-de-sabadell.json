@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "bankingGroup": true,
   "numberOfBanks": 9,
@@ -95,7 +96,8 @@
     "ibanity",
     "klarna",
     "plaid",
-    "volt"
+    "volt",
+    "tink"
   ],
   "collections": [],
   "webApplication": true,

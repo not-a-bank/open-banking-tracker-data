@@ -4,29 +4,148 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "FORTUNEO",
   "legalName": "FORTUNEO",
   "bic": "FTNOFRP1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.fortuneo.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1592994849/radar/icons/fortuneo-fr.jpg",
+  "websiteUrl": "https://www.fortuneo.fr/",
   "countryHQ": "FR",
   "countries": [
     "FR"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.arkea.com/",
+  "apiStandards": [
+    "stet"
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/account-information",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/account-information",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/account.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "description": "",
+      "categories": [
+        "payments"
+      ],
+      "documentationUrl": "https://developer.arkea.com/apis/payment-initialisation",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/payment-initialisation",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/payment_swagger.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation",
+      "type": "fundsConfirmation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/fund-confirmation",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/fund-confirmation",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/coverage.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Beneficiaries",
+      "type": "paymentBeneficiaries",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/beneficiaries",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/beneficiaries",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/beneficiaries.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment End User Identity",
+      "type": "paymentServiceUserIdentity",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.arkea.com/apis/end-user-identity",
+      "apiReferenceUrl": "https://developer.arkea.com/apis/end-user-identity",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "json",
+          "url": "https://developer.arkea.com/sites/default/files/enduseridentity.json"
+        }
+      ],
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiAggregators": [
+    "bankingsdk",
+    "bridgeapi-io",
+    "budget-insight",
+    "equensworldline",
+    "fintecture",
+    "ibanity",
+    "salt-edge",
+    "tink",
     "volt"
   ],
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "arkea",
+      "shareholderName": "Cr\u00e9dit Mutuel Ark\u00e9a",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
+      "percentage": 100
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null
 }

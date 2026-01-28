@@ -4,34 +4,28 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "retail"
   ],
-  "status": "live",
-  "name": "Cumberland Building Society",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/cumberland_gb.svg",
+  "name": "Cumberland",
+  "legalName": "Cumberland",
   "verified": false,
-  "websiteUrl": "https://cumberland.co.uk",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.cumberland.com.ico",
+  "websiteUrl": null,
   "countryHQ": "GB",
   "countries": [
     "GB"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "OB",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://www.cumberland.co.uk/developers",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
+  "apiAggregators": [
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "plaid",
-    "salt-edge"
-  ],
-  "swiftCode": "CMBSGB21"
+  "stockSymbol": null
 }

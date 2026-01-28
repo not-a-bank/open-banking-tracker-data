@@ -36,7 +36,8 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://openbanking.cynergybank.co.uk/store/",
   "apiAggregators": [
-    "plaid"
+    "plaid",
+    "tink"
   ],
   "apiProducts": [
     {

@@ -4,26 +4,76 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "BANK NORWEGIAN",
   "legalName": "BANK NORWEGIAN",
   "bic": "NORWNOK1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.banknorwegianno.com.ico",
-  "websiteUrl": null,
+  "icon": "https://lh3.googleusercontent.com/ov7tDgHqsSPKCdmCU5aGjGSMYQyNMyQPDOt1ZLtuZcJtpBQgMin7ZUHztTf1nyhThnQ=s360-rw",
+  "websiteUrl": "https://www.banknorwegian.no/",
   "countryHQ": "NO",
   "countries": [
-    "NO"
+    "NO",
+    "SE",
+    "FI",
+    "DK"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/no/app/bank-norwegian/id1194438643"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.banknorwegian&hl=en_US"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html",
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiProducts": [
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#section/Introduction",
+      "apiReferenceUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#tag/Payment",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#section/Introduction",
+      "apiReferenceUrl": "https://developer.banknorwegian.com/documentation/openbanking/index.html#tag/Account",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiAggregators": [
+    "neonomics",
+    "nordigen",
+    "volt",
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

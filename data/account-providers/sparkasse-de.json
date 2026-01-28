@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Sparkasse",
   "description": "The Sparkassen - Finanzgruppe is an association of savings banks , public insurance companies and other financial service providers in Germany with the aim of offering all-in-one finance.",
-  "legalName": null,
+  "legalName": "Sparkasse",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -19,7 +20,8 @@
   "stateOwned": false,
   "countryHQ": "DE",
   "countries": [
-    "DE"
+    "DE",
+    "IT"
   ],
   "compliance": [
     {
@@ -72,7 +74,8 @@
     "yaxi",
     "plaid",
     "truelayer",
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
   "collections": [],
   "sdks": [],

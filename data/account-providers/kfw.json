@@ -4,22 +4,28 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "development"
   ],
   "name": "KFW",
   "legalName": "KFW",
   "bic": "DTABDED1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.kfw.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1608488623/icons/kfw-bank-de.jpg",
+  "websiteUrl": "https://www.kfw.de/kfw.de-2.html",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],

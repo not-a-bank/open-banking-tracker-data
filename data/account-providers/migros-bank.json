@@ -4,22 +4,28 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "MIGROS BANK",
   "legalName": "MIGROS BANK",
   "bic": "MIGRCHZZXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.migrosbank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1604371959/radar/icons/migrosbank-ch.jpg",
+  "websiteUrl": "https://www.migrosbank.ch/",
   "countryHQ": "CH",
   "countries": [
     "CH"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],

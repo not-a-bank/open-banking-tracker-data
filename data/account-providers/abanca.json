@@ -7,7 +7,7 @@
     "universal"
   ],
   "name": "ABANCA",
-  "description": "ABANCA Corporación Bancaria, S.A. is a Spanish bank based in Galicia. It was created in 2011 following the \"bankisation\" of Novacaixagalicia savings bank.",
+  "description": "ABANCA Corporaci\u00f3n Bancaria, S.A. is a Spanish bank based in Galicia. It was created in 2011 following the \"bankisation\" of Novacaixagalicia savings bank.",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -41,7 +41,8 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
   "collections": [],
   "webApplication": false,

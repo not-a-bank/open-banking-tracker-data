@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "IBM Deutschland Kreditbank GmbH",
@@ -15,7 +16,7 @@
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
-  "swiftCode": "IBKBDES1XXX"
+  "swiftCode": "IBKBDES1XXX",
+  "legalName": "IBM Deutschland Kreditbank GmbH"
 }

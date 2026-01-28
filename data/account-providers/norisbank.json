@@ -4,28 +4,53 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Norisbank",
   "legalName": "Norisbank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.norisbank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1618332009/radar/icons/norisbank-de.jpg",
+  "websiteUrl": "https://www.norisbank.de/",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/de/app/norisbank-mobile/id425156857"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.db.mm.norisbank"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.norisbank.de/geldanlage/wertpapiere/depot.html",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "plaid",
+    "salt-edge",
+    "tink",
+    "volt",
+    "yaxi"
   ],
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "deutsche-bank",
+      "shareholderName": "Deutsche Bank",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1595919842/icons/deutsche-bank.jpg"
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null,
   "bic": "NORSDE51XXX"

@@ -4,30 +4,106 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "KNAB",
   "legalName": "KNAB",
   "bic": "KNABNL2HXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.knab.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1566868438/radar/icons/knab-nl.jpg",
+  "websiteUrl": "https://knab.nl",
   "countryHQ": "NL",
   "countries": [
     "NL"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/nl/app/knab-app/id529493145"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=bvm.bvmapp"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.knab.nl/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.knab.nl/marketplace/transactions-api/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.knab.nl/marketplace/payments-api/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.knab.nl/marketplace/funds-confirmation-api/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consents API",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.knab.nl/marketplace/consents-api/reference",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiAggregators": [
+    "bankingsdk",
+    "equensworldline",
+    "ibanity",
     "plaid",
+    "salt-edge",
+    "tink",
     "volt"
   ],
-  "ownership": [],
+  "ownership": [
+    {
+      "shareholderName": "Aegon N.V.",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1566872657/radar/icons/aegon-nv.jpg",
+      "providerId": "aegon-nv",
+      "percentage": null
+    }
+  ],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "AMS:AGN"
 }

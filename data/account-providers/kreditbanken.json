@@ -4,25 +4,59 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Kreditbanken",
   "legalName": "Kreditbanken",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.kreditbanken.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/6a6b95c0-d71e-4f8f-acb0-33d99a52e82b/-/preview/170x170/-/crop/180x180/center/DK16339016.png",
+  "websiteUrl": "http://www.kreditbanken.dk/",
   "countryHQ": "DK",
   "countries": [
     "DK"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://developers.bankdata.dk/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
+    "enablebanking",
+    "plaid",
+    "tink",
     "volt"
   ],
   "ownership": [],

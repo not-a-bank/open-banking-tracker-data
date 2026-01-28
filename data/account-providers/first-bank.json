@@ -4,27 +4,35 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "FIRST BANK",
   "legalName": "FIRST BANK",
   "bic": "FBOLUS6LXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.firstbank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://www.google.com/s2/favicons?domain=www.firstbanknigeria.com&sz=128",
+  "websiteUrl": "https://www.firstbanknigeria.com/",
   "countryHQ": "US",
   "countries": [
-    "US"
+    "US",
+    "NG"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "plaid"
+    "plaid",
+    "mono-co"
   ],
   "ownership": [],
   "stateOwned": false,

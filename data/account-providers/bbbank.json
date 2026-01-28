@@ -4,26 +4,43 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "private"
   ],
   "name": "BBBank",
   "legalName": "BBBank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bbbank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1605576379/icons/bbbank-de.jpg",
+  "websiteUrl": "https://www.bbbank.de/",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/bbbank-banking/id1352527651"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.bbbank.banking.privat"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "tink",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -11,20 +11,55 @@
   "bic": "PSSTFRPPXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.labanquepostalefr.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/banq/image/upload/v1552296072/radar/icons/La_Banque_Postale.jpg",
+  "websiteUrl": "https://www.labanquepostale.fr/",
   "countryHQ": "FR",
   "countries": [
     "FR"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/fr/app/la-banque-postale/id409362880?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.fullsix.android.labanquepostale.accountaccess&hl=en"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.labanquepostale.com/",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
-  "ownership": [],
+  "apiAggregators": [
+    "bankingsdk",
+    "bridgeapi-io",
+    "budget-insight",
+    "equensworldline",
+    "fintecture",
+    "ibanity",
+    "klarna",
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "truelayer",
+    "volt",
+    "tink"
+  ],
+  "ownership": [
+    {
+      "shareholderName": "La Poste",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1552469076/radar/icons/Le-Groupe-La-Poste.jpg",
+      "providerId": null,
+      "percentage": 100
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null
 }

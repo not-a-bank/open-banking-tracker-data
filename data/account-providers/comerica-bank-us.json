@@ -4,15 +4,16 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "COMERICA BANK",
   "legalName": "COMERICA BANK",
   "bic": "MNBDUS4DXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.comericabankus.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1618884861/radar/icons/comerica.webp",
+  "websiteUrl": "https://www.comerica.com/",
   "countryHQ": "US",
   "countries": [
     "US"
@@ -23,8 +24,10 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "CMA"
 }

@@ -4,26 +4,34 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "ONEY BANK",
   "legalName": "ONEY BANK",
   "bic": "BACCFR22XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.oneybank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1605187017/icons/oney-fr.jpg",
+  "websiteUrl": "https://www.oney.fr/",
   "countryHQ": "FR",
   "countries": [
     "FR"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "bridgeapi-io"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

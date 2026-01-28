@@ -7,7 +7,7 @@
     "challenger"
   ],
   "name": "Lunar",
-  "description": "Lunar’s banking app makes managing your spending, budget and savings easy with its sublime user experience for both personal and business finance.",
+  "description": "Lunar\u2019s banking app makes managing your spending, budget and savings easy with its sublime user experience for both personal and business finance.",
   "legalName": "Lunar Bank A/S",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -38,7 +38,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "tink"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [

@@ -4,27 +4,102 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "challenger"
   ],
   "name": "MONEYOU",
   "legalName": "MONEYOU",
   "bic": "MOYONL21XXX",
-  "verified": false,
+  "verified": true,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.moneyounl.com.ico",
-  "websiteUrl": null,
+  "icon": "https://pbs.twimg.com/profile_images/864780223589609472/JLShwz5h_400x400.jpg",
+  "websiteUrl": "https://www.moneyou.nl/",
   "countryHQ": "NL",
   "countries": [
-    "NL"
+    "NL",
+    "DE",
+    "BE",
+    "AT"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/nl/app/moneyou-go/id1297183366"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=nl.moneyou.go&hl=en"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://developer.moneyou.cloud/",
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Information",
+      "type": "accountInformation",
+      "specification": "BERLIN1.3",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve details of an account such as balance transactions, balance and details.",
+      "documentationUrl": "https://developer.moneyou.cloud/ais",
+      "apiReferenceUrl": "https://developer.moneyou.cloud/docs/ais/1/overview",
+      "premium": false,
+      "countries": [
+        "NL",
+        "DE"
+      ],
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "specification": "BERLIN1.3",
+      "description": "Initiate a single payment and retrieve information on the status of the transaction.",
+      "documentationUrl": "https://developer.moneyou.cloud/pis",
+      "apiReferenceUrl": "https://developer.moneyou.cloud/docs/pis/1/overview",
+      "premium": false,
+      "countries": [
+        "NL",
+        "DE"
+      ],
+      "stage": "live"
+    },
+    {
+      "label": "Funds Confirmation Service",
+      "type": "fundsConfirmation",
+      "description": "Access all Moneyou Go accounts within the EU in order to receive real-time confirmation regarding the availability of funds to create added value for your business.",
+      "categories": [
+        "funds"
+      ],
+      "documentationUrl": "https://developer.moneyou.cloud/caf",
+      "apiReferenceUrl": "https://developer.moneyou.cloud/docs/caf/1/overview",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3"
+    }
+  ],
   "apiAggregators": [],
-  "ownership": [],
+  "ownership": [
+    {
+      "shareholderName": "ABN AMRO",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1552240551/radar/icons/abn-amro.jpg",
+      "providerId": null,
+      "percentage": 100
+    }
+  ],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "AMS:ABN"
 }

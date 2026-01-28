@@ -4,27 +4,36 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "FRANKFURTER SPARKASSE",
   "legalName": "FRANKFURTER SPARKASSE",
   "bic": "FRSKDEF1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.frankfurtersparkasse.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1618353220/icons/frankfurter-sparkasse-de.png",
+  "websiteUrl": "https://www.frankfurter-sparkasse.de/",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi",
+    "plaid",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

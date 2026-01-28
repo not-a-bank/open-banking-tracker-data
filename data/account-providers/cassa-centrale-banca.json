@@ -31,7 +31,8 @@
   "stockSymbol": "",
   "apiAggregators": [
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
   "swiftCode": "CCRTIT2T"
 }

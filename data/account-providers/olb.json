@@ -4,34 +4,28 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "retail"
   ],
-  "status": "live",
-  "name": "Oldenburgische Landesbank AG",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/olb_de.svg",
+  "name": "OLB",
+  "legalName": "OLB",
   "verified": false,
-  "websiteUrl": "https://www.olb.de",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.olb.com.ico",
+  "websiteUrl": null,
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://www.olb.de/informationen/drittdienstleisterinformationen",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
+  "apiAggregators": [
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "yaxi",
-    "salt-edge"
-  ],
-  "swiftCode": "OLBODEH2XXX"
+  "stockSymbol": null
 }

@@ -4,29 +4,51 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "BGL BNP PARIBAS",
   "legalName": "BGL BNP PARIBAS",
   "bic": "BGLLLULLXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bglbnpparibas.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621818975/radar/icons/bgl-lu.jpg",
+  "websiteUrl": "https://www.bgl.lu/en/individuals.html",
   "countryHQ": "LU",
   "countries": [
     "LU"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/lu/app/web-banking/id781456280?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=lu.bgl.spm.retail&hl=fr"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "salt-edge"
   ],
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "bnp-paribas",
+      "shareholderName": "BNP Paribas",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568494915/catalog/bnp-paribas/icon128x128.jpg"
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null
 }

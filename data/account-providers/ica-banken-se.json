@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "ICA Banken",
   "legalName": "ICA Banken AB",
@@ -60,7 +61,8 @@
     "nordigen",
     "enablebanking",
     "enfuce",
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
   "webApplication": true,
   "mobileApps": [],

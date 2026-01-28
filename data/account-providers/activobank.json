@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "digital"
+    "digital",
+    "challenger"
   ],
   "bankingGroup": false,
   "numberOfBanks": 1,
@@ -15,7 +16,7 @@
   "stockSymbol": null,
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.activobank.com.ico",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1599635094/icons/activobank-pt.png",
   "websiteUrl": "https://www.activobank.com/",
   "ownership": [
     {
@@ -29,12 +30,17 @@
   "stateOwned": false,
   "countryHQ": "ES",
   "countries": [
-    "ES"
+    "ES",
+    "PT"
   ],
   "compliance": [
     {
       "regulation": "PSD2",
       "status": "available"
+    },
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
     }
   ],
   "sandbox": {
@@ -92,11 +98,13 @@
   "apiAggregators": [
     "bankingsdk",
     "bridgeapi-io",
+    "budget-insight",
     "equensworldline",
     "ibanity",
     "nordigen",
     "plaid",
     "salt-edge",
+    "tink",
     "volt"
   ],
   "collections": [],

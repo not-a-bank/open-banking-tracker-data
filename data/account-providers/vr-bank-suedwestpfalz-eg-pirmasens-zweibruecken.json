@@ -4,26 +4,34 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
-  "name": "VR-Bank S\u00fcdwestpfalz eG Pirmasens - Zweibr\u00fccken",
-  "legalName": "VR-Bank S\u00fcdwestpfalz eG Pirmasens - Zweibr\u00fccken",
+  "name": "VR-Bank Südwestpfalz eG Pirmasens - Zweibrücken",
+  "legalName": "VR-Bank Südwestpfalz eG Pirmasens - Zweibrücken",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-suedwestpfalz-eg-pirmasens-zweibruecken.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
+  "websiteUrl": "https://www.vrbank-suedwestpfalz.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

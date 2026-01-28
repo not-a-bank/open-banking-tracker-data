@@ -4,26 +4,37 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "COFIDIS",
   "legalName": "COFIDIS",
   "bic": "CFFIPTP1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.cofidispt.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/cofidis_oauth_client_pt.svg",
+  "websiteUrl": "https://www.cofidis.pt",
   "countryHQ": "PT",
   "countries": [
     "PT"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.sibsapimarket.com",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "bridgeapi-io",
+    "salt-edge",
+    "volt",
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

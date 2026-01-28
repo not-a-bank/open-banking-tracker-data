@@ -4,26 +4,60 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "SKJERN BANK",
   "legalName": "SKJERN BANK",
   "bic": "SKJBDK22XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.skjernbank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/f22d21c8-4942-4c96-886e-e6fb9af5d8a8/-/preview/170x170/-/crop/180x180/center/DK45801012.png",
+  "websiteUrl": "https://www.skjernbank.dk/",
   "countryHQ": "DK",
   "countries": [
     "DK"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://developers.bankdata.dk/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
+    "enablebanking",
+    "plaid",
+    "tink",
     "volt"
   ],
   "ownership": [],

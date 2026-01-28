@@ -4,27 +4,70 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "investment"
   ],
   "name": "CREDIT SUISSE",
   "legalName": "CREDIT SUISSE",
   "bic": "CRESEGC1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseeg.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1591344996/icons/credit-suisse.png",
+  "websiteUrl": "https://www.credit-suisse.com/",
   "countryHQ": "EG",
   "countries": [
-    "EG"
+    "EG",
+    "US"
   ],
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [],
+  "developerPortalUrl": "https://api-portal-psd2.credit-suisse.com/",
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiProducts": [
+    {
+      "label": "Access Account Information (AIS)",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#access-account-information-ais",
+      "apiReferenceUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#access-account-information-ais",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Initiate a Payment (PIS)",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#initiate-a-payment-pis",
+      "apiReferenceUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#initiate-a-payment-pis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#get-confirmation-of-funds-availability-fcs",
+      "apiReferenceUrl": "https://api-portal-psd2.credit-suisse.com/#/apis/26/137#get-confirmation-of-funds-availability-fcs",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiAggregators": [
+    "plaid"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": "CS"
 }

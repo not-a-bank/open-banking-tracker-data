@@ -4,34 +4,28 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "retail"
   ],
-  "status": "live",
-  "name": "Deutsche Kreditbank AG",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/dkb_de.svg",
+  "name": "DKB",
+  "legalName": "DKB",
   "verified": false,
-  "websiteUrl": "https://www.dkb.de",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.dkb.com.ico",
+  "websiteUrl": null,
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://api.dkb.de/store",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
+  "apiAggregators": [
+    "tink"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "yaxi",
-    "salt-edge"
-  ],
-  "swiftCode": "BYLADEM1001"
+  "stockSymbol": null
 }

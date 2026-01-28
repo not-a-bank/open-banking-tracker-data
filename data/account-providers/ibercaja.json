@@ -4,74 +4,28 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "retail"
   ],
-  "status": "live",
-  "name": "Ibercaja Banco",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/es/ibercaja_es.svg",
+  "name": "IberCaja",
+  "legalName": "IberCaja",
   "verified": false,
-  "websiteUrl": "https://www.ibercaja.es",
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.ibercaja.com.ico",
+  "websiteUrl": null,
   "countryHQ": "ES",
   "countries": [
     "ES"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
-  "compliance": [
-    {
-      "regulation": "PSD2",
-      "status": "unknown"
-    }
-  ],
-  "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/ibercaja",
+  "compliance": [],
+  "developerPortalUrl": null,
   "apiStandards": [],
-  "apiProducts": [
-    {
-      "label": "Account Information Service",
-      "type": "accountInformation",
-      "categories": [
-        "accounts"
-      ],
-      "description": "",
-      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/ibercaja",
-      "apiReferenceUrl": null,
-      "premium": false,
-      "stage": "live"
-    },
-    {
-      "label": "Payment Initiation Service",
-      "type": "paymentInitiation",
-      "categories": [
-        "payments"
-      ],
-      "description": "",
-      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/ibercaja",
-      "apiReferenceUrl": null,
-      "premium": false,
-      "stage": "live"
-    },
-    {
-      "label": "Confirmation of Funds",
-      "type": "fundsConfirmation",
-      "categories": [
-        "funds"
-      ],
-      "description": "",
-      "documentationUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/ibercaja",
-      "apiReferenceUrl": null,
-      "premium": false,
-      "stage": "live"
-    }
+  "apiProducts": [],
+  "apiAggregators": [
+    "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "",
-  "apiAggregators": [
-    "salt-edge"
-  ],
-  "swiftCode": "CAZRES2Z",
-  "sandbox": {
-    "status": "available",
-    "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/ibercaja"
-  }
+  "stockSymbol": null
 }

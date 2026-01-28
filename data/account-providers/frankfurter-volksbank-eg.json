@@ -4,26 +4,36 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "FRANKFURTER VOLKSBANK EG",
   "legalName": "FRANKFURTER VOLKSBANK EG",
   "bic": "FFVBDEF1XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.frankfurtervolksbankeg.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/frankfurter_volksbank_de.svg",
+  "websiteUrl": "https://www.frankfurter-volksbank.de",
   "countryHQ": "DE",
   "countries": [
     "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://www.fiduciagad.de/service/xs2a-drittanbieter-schnittstelle.html",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "salt-edge",
+    "volt",
+    "yaxi"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

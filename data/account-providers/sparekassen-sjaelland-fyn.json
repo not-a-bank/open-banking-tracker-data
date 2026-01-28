@@ -4,26 +4,59 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
-  "name": "Sparekassen Sj\u00e6lland-Fyn",
-  "legalName": "Sparekassen Sj\u00e6lland-Fyn",
+  "name": "Sparekassen Sjælland-Fyn",
+  "legalName": "Sparekassen Sjælland-Fyn",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.sparekassen-sjaelland-fyn.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/1f61220d-620e-4000-9f18-7a5da5f93b5e/-/preview/170x170/-/crop/180x180/center/DK36532130.png",
+  "websiteUrl": "https://www.spks.dk/",
   "countryHQ": "DK",
   "countries": [
     "DK"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://developers.bankdata.dk/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "plaid",
+    "enablebanking"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -4,29 +4,43 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Banca Akros",
   "legalName": "Banca Akros",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.banca-akros.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1622163962/radar/icons/bancaakros-it.svg",
+  "websiteUrl": "https://www.bancaakros.it/",
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
     "plaid",
-    "volt"
+    "volt",
+    "ibanity",
+    "salt-edge"
   ],
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "banco-bpm",
+      "shareholderName": "Banco BPM",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568422578/catalog/banco-bpm/icon128x128.jpg"
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null,
   "bic": "AKROITMMXXX"

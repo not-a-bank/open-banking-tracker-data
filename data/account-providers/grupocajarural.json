@@ -9,7 +9,7 @@
   "bankingGroup": true,
   "numberOfBanks": 29,
   "name": "Grupo Caja Rural",
-  "description": "The Rural Savings Bank Group is a union of 29 rural savings and other investees entities (Banco Cooperativo Español S.A, Rural Grupo Asegurador and Rural Servicios Informáticos) which together make up the only cooperative banking group in Spain.",
+  "description": "The Rural Savings Bank Group is a union of 29 rural savings and other investees entities (Banco Cooperativo Espa\u00f1ol S.A, Rural Grupo Asegurador and Rural Servicios Inform\u00e1ticos) which together make up the only cooperative banking group in Spain.",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -78,8 +78,9 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "nordigen",
     "plaid",
-    "nordigen"
+    "tink"
   ],
   "collections": [],
   "webApplication": false,

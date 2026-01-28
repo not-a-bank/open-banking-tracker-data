@@ -1,31 +1,55 @@
 {
   "id": "hsbc-kinetic",
   "type": [
-    "account"
+    "account",
+    "a",
+    "c",
+    "o",
+    "u",
+    "n",
+    "t"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "challenger"
   ],
   "name": "HSBC Kinetic",
   "legalName": "HSBC Kinetic",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.hsbc-kinetic.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1574570920/catalog/hsbckinetic-uk/icon128x128.jpg",
+  "websiteUrl": "https://www.hsbckinetic.co.uk/",
   "countryHQ": "GB",
   "countries": [
     "GB"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    },
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "plaid",
+    "salt-edge"
   ],
-  "ownership": [],
+  "ownership": [
+    {
+      "providerId": "hsbc-uk",
+      "shareholderName": "HSBC",
+      "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1567667790/catalog/hsbc-uk/icon128x128.png"
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null,
   "bic": "HBUKGB4BXXX"

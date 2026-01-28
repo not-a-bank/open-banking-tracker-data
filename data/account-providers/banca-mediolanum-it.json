@@ -4,26 +4,36 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "BANCA MEDIOLANUM",
   "legalName": "BANCA MEDIOLANUM",
   "bic": "MEDBITMMXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bancamediolanumit.com.ico",
-  "websiteUrl": null,
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_mediolanum_it.svg",
+  "websiteUrl": "https://www.bancamediolanum.it",
   "countryHQ": "IT",
   "countries": [
     "IT"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://portal.mediolanum.it",
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid",
+    "salt-edge",
+    "volt"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null

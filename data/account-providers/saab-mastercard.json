@@ -1,0 +1,31 @@
+{
+  "id": "saab-mastercard",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "SAAB Mastercard",
+  "legalName": "SAAB Mastercard",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.saab-mastercard.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "SE",
+  "countries": [
+    "SE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "tink"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

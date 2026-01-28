@@ -11,20 +11,70 @@
   "bic": "SAFRBRSPXXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.safra.com.br.ico",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1594860008/radar/icons/safra-br.png",
   "websiteUrl": "https://www.safra.com.br/",
   "countryHQ": "BR",
   "countries": [
-    "BR"
+    "BR",
+    "LU"
   ],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/apple-store/id422705275?pt=497245&ct=footer-site-institucional-botao-apple-store&mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=br.livetouch.safra.net&referrer=utm_source%3dfooter-site-institucional%26utm_medium%3dbotao%26utm_campaign%3dfooter-site-institucional-botao-google-play"
+    }
+  ],
   "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
+  "developerPortalUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Confirmation of Funds API",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "apiReferenceUrl": "https://developer.luxhub.com/index.php?option=com_apiportal&view=apitester&usage=api&tab=tests&apiId=baa5d174-2062-48cc-a6cd-f793eac3520a&menuId=&managerId=3&from=provider",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiAggregators": [
-    "klavi"
+    "klavi",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

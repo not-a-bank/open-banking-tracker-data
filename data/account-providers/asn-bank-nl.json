@@ -11,20 +11,87 @@
   "bic": "ASNBNL21XXX",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.asnbanknl.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1568416006/radar/icons/asn-bank.jpg",
+  "websiteUrl": "https://www.asnbank.nl/home.html",
   "countryHQ": "NL",
   "countries": [
     "NL"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/nl/app/asn-mobiel-bankieren/id593013249?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=nl.asnbank.asnbankieren&hl=en"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
   "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [],
-  "ownership": [],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Consent Services",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": null,
+      "apiReferenceUrl": "https://developer.devolksbank.nl/admin/app/api-catalog",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiAggregators": [
+    "bankingsdk",
+    "equensworldline",
+    "ibanity",
+    "klarna",
+    "plaid",
+    "salt-edge",
+    "volt",
+    "tink"
+  ],
+  "ownership": [
+    {
+      "shareholderName": "de Volksbank",
+      "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553166048/radar/icons/DeVolksbank.jpg",
+      "providerId": "devolksbank",
+      "percentage": 100
+    }
+  ],
   "stateOwned": false,
   "stockSymbol": null
 }

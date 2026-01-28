@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "Novo",
   "description": "Novo is a powerfully simple business banking platform with no hidden fees built for small business owners. Simplify your business finances with Novo.",
@@ -33,7 +34,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "plaid"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [
