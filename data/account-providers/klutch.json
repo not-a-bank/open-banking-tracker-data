@@ -7,19 +7,29 @@
     "retail"
   ],
   "name": "Klutch",
-  "legalName": "Klutch",
-  "verified": false,
+  "legalName": "KLUTCH TECHNOLOGIES INC",
+  "verified": true,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.klutch.com.ico",
+  "icon": "https://cdn.prod.website-files.com/660d6194e5d7f9c60a769ac1/697a8d9e8e7faa72352a1848_Logo%201024.png",
   "websiteUrl": "https://www.klutchcard.com",
   "countryHQ": "US",
   "countries": [
     "US"
   ],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/klutch-card/id1563986090"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.klutchcard.klutchapp"
+    }
+  ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://www.klutchcard.com/developer",
+  "developerSuccesStoriesUrl": "https://www.klutchcard.com/developer",
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
@@ -27,5 +37,38 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "creditCards": [
+    "visa"
+  ],
+  "virtualCards": [
+    "visa"
+  ],
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://sandbox.klutch.cards"
+  },
+  "developerCommunityUrl": "https://join.slack.com/t/klutchcommunity/shared_invite/zt-1wm1g1rmb-eQ9UhBJCZmvqkg8hf~61_Q",
+  "slackCommunity": true,
+  "apiAuth": [
+    "OAUTH2"
+  ],
+  "apiReferenceUrl": "https://api-docs.klutchcard.com",
+  "apiServerEndpoints": [
+    {
+      "environment": "production",
+      "baseUrl": "https://graphql.klutchcard.com/graphql"
+    },
+    {
+      "environment": "sandbox",
+      "baseUrl": "https://sandbox.klutchcard.com/graphql"
+    }
+  ],
+  "developerContactEmail": "support@klutchcard.com",
+  "postmanCollections": [
+    {
+      "githubUrl": "https://github.com/klutchcard/klutch-api-postman-collection"
+    }
+  ],
+  "github": "https://github.com/klutchcard"
 }
