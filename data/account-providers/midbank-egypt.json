@@ -1,21 +1,22 @@
 {
-  "id": "china-merchants-bank",
+  "id": "midbank-egypt",
   "type": [
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "corporate"
   ],
-  "name": "CHINA MERCHANTS BANK",
-  "legalName": "CHINA MERCHANTS BANK",
-  "bic": "CMBCCNBSXXX",
+  "name": "MIDBANK",
+  "legalName": "MIDBANK Egypt",
+  "bic": null,
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.chinamerchantsbank.com.ico",
-  "websiteUrl": null,
-  "countryHQ": "CN",
+  "icon": "https://www.midbank.com.eg/themes/custom/midbank/logo.svg",
+  "websiteUrl": "https://www.midbank.com.eg/",
+  "countryHQ": "EG",
   "countries": [
-    "CN"
+    "EG"
   ],
   "webApplication": true,
   "mobileApps": [],

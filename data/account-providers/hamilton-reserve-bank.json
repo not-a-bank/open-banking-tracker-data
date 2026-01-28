@@ -1,21 +1,22 @@
 {
-  "id": "china-merchants-bank",
+  "id": "hamilton-reserve-bank",
   "type": [
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "corporate"
   ],
-  "name": "CHINA MERCHANTS BANK",
-  "legalName": "CHINA MERCHANTS BANK",
-  "bic": "CMBCCNBSXXX",
+  "name": "Hamilton Reserve Bank",
+  "legalName": "Hamilton Reserve Bank Ltd",
+  "bic": null,
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.chinamerchantsbank.com.ico",
-  "websiteUrl": null,
-  "countryHQ": "CN",
+  "icon": "https://www.hamiltonreservebank.com/images/logo.png",
+  "websiteUrl": "https://www.hamiltonreservebank.com/",
+  "countryHQ": "KN",
   "countries": [
-    "CN"
+    "KN"
   ],
   "webApplication": true,
   "mobileApps": [],
