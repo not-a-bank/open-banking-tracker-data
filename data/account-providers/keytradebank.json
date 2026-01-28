@@ -18,7 +18,7 @@
   "ownership": [
     {
       "providerId": "credit-mutuel",
-      "shareholderName": "Crédit Mutuel",
+      "shareholderName": "Cr\u00e9dit Mutuel",
       "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568569725/catalog/credit-mutuel/icon128x128.jpg",
       "percentage": 100
     }
@@ -51,6 +51,7 @@
     "bankingsdk",
     "budget-insight",
     "ibanity",
+    "tink",
     "volt"
   ],
   "collections": [],

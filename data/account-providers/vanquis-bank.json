@@ -101,9 +101,10 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "tink",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -7,8 +7,8 @@
     "retail",
     "universal"
   ],
-  "name": "RørosBanken",
-  "legalName": "RørosBanken",
+  "name": "R\u00f8rosBanken",
+  "legalName": "R\u00f8rosBanken",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/2c235721-a4d2-4521-a2d0-89f2c2e2dc4b/-/preview/170x170/-/crop/180x180/center/NO956548888.png",
@@ -54,9 +54,10 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "enablebanking",
-    "neonomics"
+    "neonomics",
+    "tink",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

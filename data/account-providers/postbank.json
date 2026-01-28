@@ -28,11 +28,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt",
-    "yaxi",
-    "plaid",
     "equensworldline",
-    "salt-edge"
+    "plaid",
+    "salt-edge",
+    "tink",
+    "volt",
+    "yaxi"
   ],
   "ownership": [
     {

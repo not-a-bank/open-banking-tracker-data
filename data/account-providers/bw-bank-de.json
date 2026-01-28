@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "BW-Bank",
   "description": "Baden Württembergische Bank (BW-Bank) was incorporated into LBBW as a legally dependent institution under public law. ",
-  "legalName": null,
+  "legalName": "BW-Bank",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -45,7 +46,8 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "yaxi"
+    "yaxi",
+    "tink"
   ],
   "collections": [],
   "webApplication": true,

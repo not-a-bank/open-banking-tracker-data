@@ -38,10 +38,11 @@
   "apiReferenceUrl": "https://www.monabanq.com/fr/index.html#ei_tpl_footer",
   "apiAggregators": [
     "bankingsdk",
+    "bridgeapi-io",
     "budget-insight",
     "fintecture",
-    "bridgeapi-io",
-    "ibanity"
+    "ibanity",
+    "tink"
   ],
   "apiProducts": [
     {

@@ -1,0 +1,31 @@
+{
+  "id": "fio-banka",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Fio banka",
+  "legalName": "Fio banka",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.fio-banka.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CZ",
+  "countries": [
+    "CZ"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "tink"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

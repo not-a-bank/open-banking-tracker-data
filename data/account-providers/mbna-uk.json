@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "MBNA",
   "description": "",
-  "legalName": null,
+  "legalName": "MBNA",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -129,7 +130,8 @@
     "bridgeapi-io",
     "moneyhub-enterprise",
     "truelayer",
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
   "collections": [],
   "webApplication": true,

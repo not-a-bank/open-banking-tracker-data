@@ -7,8 +7,8 @@
     "retail",
     "universal"
   ],
-  "name": "Næringsbanken",
-  "legalName": "Næringsbanken",
+  "name": "N\u00e6ringsbanken",
+  "legalName": "N\u00e6ringsbanken",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/6b338890-a2e3-470a-a23b-0ed3e6bfa925/-/preview/170x170/-/crop/180x180/center/NO917850984.png",
@@ -54,9 +54,10 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "enablebanking",
-    "neonomics"
+    "neonomics",
+    "tink",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

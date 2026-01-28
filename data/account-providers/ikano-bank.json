@@ -46,8 +46,9 @@
     }
   ],
   "apiAggregators": [
-    "volt",
-    "salt-edge"
+    "salt-edge",
+    "tink",
+    "volt"
   ],
   "ownership": [
     {

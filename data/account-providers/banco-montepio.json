@@ -29,10 +29,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "plaid",
-    "volt",
     "bridgeapi-io",
-    "salt-edge"
+    "plaid",
+    "salt-edge",
+    "tink",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

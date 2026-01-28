@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Resurs Bank",
   "legalName": "Resurs Bank Aktiebolag",
@@ -74,7 +75,8 @@
     "enablebanking",
     "enfuce",
     "neonomics",
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
   "collections": [],
   "webApplication": true,

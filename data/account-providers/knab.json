@@ -88,12 +88,13 @@
     }
   ],
   "apiAggregators": [
-    "plaid",
-    "volt",
     "bankingsdk",
-    "ibanity",
     "equensworldline",
-    "salt-edge"
+    "ibanity",
+    "plaid",
+    "salt-edge",
+    "tink",
+    "volt"
   ],
   "ownership": [
     {

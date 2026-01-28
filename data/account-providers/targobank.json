@@ -29,18 +29,19 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt",
-    "yaxi",
-    "plaid",
-    "nordigen",
     "equensworldline",
+    "nordigen",
+    "plaid",
+    "salt-edge",
+    "tink",
     "truelayer",
-    "salt-edge"
+    "volt",
+    "yaxi"
   ],
   "ownership": [
     {
       "providerId": "credit-mutuel-group",
-      "shareholderName": "Crédit Mutuel",
+      "shareholderName": "Cr\u00e9dit Mutuel",
       "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1595523777/icons/credit-mutuel-group.jpg"
     }
   ],

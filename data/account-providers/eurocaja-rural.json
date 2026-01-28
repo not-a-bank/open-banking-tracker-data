@@ -66,10 +66,11 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "bridgeapi-io",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "tink",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

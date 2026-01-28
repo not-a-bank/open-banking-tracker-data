@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "private",
+    "retail"
   ],
   "status": "live",
   "name": "Banca Capasso Antonio",
@@ -15,7 +16,7 @@
   "countries": [
     "IT"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
-  "swiftCode": "CAOTIT31"
+  "swiftCode": "CAOTIT31",
+  "legalName": "Banca Capasso Antonio"
 }

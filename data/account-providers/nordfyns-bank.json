@@ -55,9 +55,10 @@
     }
   ],
   "apiAggregators": [
-    "volt",
+    "enablebanking",
     "plaid",
-    "enablebanking"
+    "tink",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

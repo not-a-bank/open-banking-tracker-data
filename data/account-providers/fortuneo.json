@@ -128,19 +128,20 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "bankingsdk",
-    "budget-insight",
-    "fintecture",
     "bridgeapi-io",
-    "ibanity",
+    "budget-insight",
     "equensworldline",
-    "salt-edge"
+    "fintecture",
+    "ibanity",
+    "salt-edge",
+    "tink",
+    "volt"
   ],
   "ownership": [
     {
       "providerId": "arkea",
-      "shareholderName": "Crédit Mutuel Arkéa",
+      "shareholderName": "Cr\u00e9dit Mutuel Ark\u00e9a",
       "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
       "percentage": 100
     }

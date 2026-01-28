@@ -77,12 +77,13 @@
     }
   ],
   "apiAggregators": [
-    "volt",
-    "nordigen",
-    "neonomics",
     "enablebanking",
     "enfuce",
-    "salt-edge"
+    "neonomics",
+    "nordigen",
+    "salt-edge",
+    "tink",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

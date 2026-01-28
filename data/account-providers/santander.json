@@ -41,6 +41,14 @@
     {
       "regulation": "OB",
       "status": "inProgress"
+    },
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
+    {
+      "regulation": "OB",
+      "status": "inProgress"
     }
   ],
   "developerPortalUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/santander",
@@ -84,7 +92,6 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "bridgeapi-io",
     "klarna",
     "neonomics",
@@ -92,9 +99,11 @@
     "plaid",
     "pluggy",
     "salt-edge",
+    "tink",
     "token",
     "trio-br",
     "truelayer",
+    "volt",
     "yolt"
   ],
   "ownership": [],

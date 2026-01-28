@@ -1,0 +1,31 @@
+{
+  "id": "opel-mastercard",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Opel Mastercard",
+  "legalName": "Opel Mastercard",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.opel-mastercard.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "SE",
+  "countries": [
+    "SE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "tink"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

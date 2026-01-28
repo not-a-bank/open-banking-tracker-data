@@ -54,9 +54,10 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "enablebanking",
-    "neonomics"
+    "neonomics",
+    "tink",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

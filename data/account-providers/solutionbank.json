@@ -31,8 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "plaid",
     "salt-edge",
-    "plaid"
+    "tink"
   ],
   "swiftCode": "CRDRIT2FXXX",
   "legalName": "Solution Bank "

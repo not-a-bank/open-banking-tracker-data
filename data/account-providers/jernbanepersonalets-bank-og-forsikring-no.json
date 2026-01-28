@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Jernbanepersonalets bank og forsikring",
   "legalName": "JERNBANEPERSONALETS SPAREBANK",
@@ -57,7 +58,8 @@
   ],
   "apiAggregators": [
     "enablebanking",
-    "neonomics"
+    "neonomics",
+    "tink"
   ],
   "webApplication": true,
   "mobileApps": [],

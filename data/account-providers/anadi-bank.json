@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Austrian Anadi Bank",
@@ -30,8 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "tink"
   ],
   "swiftCode": "HAABAT2KXXX",
-  "bic": "HAABAT2KXXX"
+  "bic": "HAABAT2KXXX",
+  "legalName": "Austrian Anadi Bank"
 }
