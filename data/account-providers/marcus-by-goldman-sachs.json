@@ -1,17 +1,17 @@
 {
-  "id": "meridian",
+  "id": "marcus-by-goldman-sachs",
   "type": [
     "account"
   ],
   "bankType": [
     "retail"
   ],
-  "name": "Meridian",
-  "legalName": "Meridian",
+  "name": "Marcus by Goldman Sachs",
+  "legalName": "Marcus by Goldman Sachs",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.meridian.com.ico",
-  "websiteUrl": "http://www.mymeridiancu.org/",
+  "icon": "https://icons.duckduckgo.com/ip3/www.marcus-by-goldman-sachs.com.ico",
+  "websiteUrl": null,
   "countryHQ": "US",
   "countries": [
     "US"
@@ -23,8 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "flinks",
-    "plaid"
+    "flinks"
   ],
   "ownership": [],
   "stateOwned": false,

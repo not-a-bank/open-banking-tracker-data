@@ -1,17 +1,17 @@
 {
-  "id": "meridian",
+  "id": "fifth-third-bank",
   "type": [
     "account"
   ],
   "bankType": [
     "retail"
   ],
-  "name": "Meridian",
-  "legalName": "Meridian",
+  "name": "Fifth Third Bank",
+  "legalName": "Fifth Third Bank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.meridian.com.ico",
-  "websiteUrl": "http://www.mymeridiancu.org/",
+  "icon": "https://icons.duckduckgo.com/ip3/www.fifth-third-bank.com.ico",
+  "websiteUrl": null,
   "countryHQ": "US",
   "countries": [
     "US"
@@ -23,8 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "flinks",
-    "plaid"
+    "flinks"
   ],
   "ownership": [],
   "stateOwned": false,

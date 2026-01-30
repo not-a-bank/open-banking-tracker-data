@@ -1,20 +1,20 @@
 {
-  "id": "meridian",
+  "id": "desjardins",
   "type": [
     "account"
   ],
   "bankType": [
     "retail"
   ],
-  "name": "Meridian",
-  "legalName": "Meridian",
+  "name": "Desjardins",
+  "legalName": "Desjardins",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.meridian.com.ico",
-  "websiteUrl": "http://www.mymeridiancu.org/",
-  "countryHQ": "US",
+  "icon": "https://icons.duckduckgo.com/ip3/www.desjardins.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "CA",
   "countries": [
-    "US"
+    "CA"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -23,8 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "flinks",
-    "plaid"
+    "flinks"
   ],
   "ownership": [],
   "stateOwned": false,

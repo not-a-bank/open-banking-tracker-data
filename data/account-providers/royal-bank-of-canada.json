@@ -36,7 +36,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "flinks"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [
