@@ -8,7 +8,6 @@
   ],
   "name": "NEW YORK STOCK EXCHANGE, INC.",
   "legalName": "NEW YORK STOCK EXCHANGE, INC.",
-  "bic": "XNYSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newyorkstockexchangeinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XNYSUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PJSC CB PRIVATBANK",
   "legalName": "PJSC CB PRIVATBANK",
-  "bic": "PBANUA2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjsccbprivatbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBANUA2XXXX"
 }

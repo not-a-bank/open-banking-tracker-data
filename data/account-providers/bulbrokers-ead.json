@@ -8,7 +8,6 @@
   ],
   "name": "BULBROKERS EAD",
   "legalName": "BULBROKERS EAD",
-  "bic": "BUAABGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bulbrokersead.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BUAABGS1XXX"
 }

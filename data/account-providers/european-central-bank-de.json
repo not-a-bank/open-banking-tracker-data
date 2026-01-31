@@ -8,7 +8,6 @@
   ],
   "name": "EUROPEAN CENTRAL BANK",
   "legalName": "EUROPEAN CENTRAL BANK",
-  "bic": "ECBFDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.europeancentralbankde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECBFDEF1XXX"
 }

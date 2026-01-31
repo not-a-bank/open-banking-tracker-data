@@ -8,7 +8,6 @@
   ],
   "name": "HERMITAGE",
   "legalName": "HERMITAGE",
-  "bic": "HERTFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hermitage.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HERTFRP1XXX"
 }

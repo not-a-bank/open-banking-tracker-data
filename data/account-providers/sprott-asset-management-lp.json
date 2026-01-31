@@ -8,7 +8,6 @@
   ],
   "name": "SPROTT ASSET MANAGEMENT LP",
   "legalName": "SPROTT ASSET MANAGEMENT LP",
-  "bic": "SRAMCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sprottassetmanagementlp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SRAMCAT1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VOJVODJANSKA BANKA A.D.",
   "legalName": "VOJVODJANSKA BANKA A.D.",
-  "bic": "VBUBRS22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vojvodjanskabankaad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VBUBRS22XXX"
 }

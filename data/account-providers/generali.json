@@ -8,7 +8,6 @@
   ],
   "name": "GENERALI",
   "legalName": "GENERALI",
-  "bic": "GEEAIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.generali.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEEAIT21XXX"
 }

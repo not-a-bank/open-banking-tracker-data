@@ -8,7 +8,6 @@
   ],
   "name": "MEDIGESTION 02 SICAV SA",
   "legalName": "MEDIGESTION 02 SICAV SA",
-  "bic": "MESVESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.medigestion02sicavsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MESVESB1XXX"
 }

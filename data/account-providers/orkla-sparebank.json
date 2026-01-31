@@ -9,7 +9,6 @@
   ],
   "name": "ORKLA SPAREBANK",
   "legalName": "ORKLA SPAREBANK",
-  "bic": "OKDLNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/8a7e3fd4-94ed-4ca8-a255-1000193b8973/-/preview/170x170/-/crop/180x180/center/NO947278770.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OKDLNO21"
 }

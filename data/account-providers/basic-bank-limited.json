@@ -8,7 +8,6 @@
   ],
   "name": "Basic Bank Limited",
   "legalName": "BASIC BANK LIMITED",
-  "bic": "BKSIBDDH023",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/basicbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKSIBDDH023"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MUTUELLE BLEUE",
   "legalName": "MUTUELLE BLEUE",
-  "bic": "MUBUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mutuellebleue.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUBUFRP1XXX"
 }

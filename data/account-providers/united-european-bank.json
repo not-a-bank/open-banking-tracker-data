@@ -8,7 +8,6 @@
   ],
   "name": "UNITED EUROPEAN BANK",
   "legalName": "UNITED EUROPEAN BANK",
-  "bic": "UNEUMCM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedeuropeanbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNEUMCM1XXX"
 }

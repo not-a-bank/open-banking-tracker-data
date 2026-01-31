@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA TORONTO BRANCH",
   "legalName": "BANK OF CHINA TORONTO BRANCH",
-  "bic": "BKCHCA21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinatorontobranchca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHCA21XXX"
 }

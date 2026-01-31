@@ -8,7 +8,6 @@
   ],
   "name": "BOF, INC. (A RURAL BANK)",
   "legalName": "BOF, INC. (A RURAL BANK)",
-  "bic": "BORRPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bofincaruralbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BORRPHM1XXX"
 }

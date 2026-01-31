@@ -8,7 +8,6 @@
   ],
   "name": "FAXTOR SECURITIES B.V.",
   "legalName": "FAXTOR SECURITIES B.V.",
-  "bic": "FAXSNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.faxtorsecuritiesbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FAXSNL21XXX"
 }

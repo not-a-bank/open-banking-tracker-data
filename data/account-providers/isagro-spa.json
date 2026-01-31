@@ -8,7 +8,6 @@
   ],
   "name": "ISAGRO SPA",
   "legalName": "ISAGRO SPA",
-  "bic": "ISAGITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.isagrospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISAGITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CENTRALE DE DJIBOUTI",
   "legalName": "BANQUE CENTRALE DE DJIBOUTI",
-  "bic": "BCDJDJJDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecentralededjibouti.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCDJDJJDXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BBP BANK, S.A.",
   "legalName": "BBP BANK, S.A.",
-  "bic": "BBOLPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bbpbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBOLPAPAXXX"
 }

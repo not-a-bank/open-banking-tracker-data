@@ -8,7 +8,6 @@
   ],
   "name": "BALLSTON SPA NATIONAL BANK",
   "legalName": "BALLSTON SPA NATIONAL BANK",
-  "bic": "BSNBUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ballstonspanationalbank.com.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSNBUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AURAN OSUUSPANKKI",
   "legalName": "AURAN OSUUSPANKKI",
-  "bic": "AUOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.auranosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUOSFI21XXX"
 }

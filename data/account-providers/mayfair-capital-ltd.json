@@ -8,7 +8,6 @@
   ],
   "name": "MAYFAIR CAPITAL LTD",
   "legalName": "MAYFAIR CAPITAL LTD",
-  "bic": "MYCAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mayfaircapitalltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MYCAGB21XXX"
 }

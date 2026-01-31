@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS MEXICO CASA DE BOLSA, SA DE CV",
   "legalName": "GOLDMAN SACHS MEXICO CASA DE BOLSA, SA DE CV",
-  "bic": "GOLDMXM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsmexicocasadebolsasadecv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOLDMXM1XXX"
 }

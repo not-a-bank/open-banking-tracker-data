@@ -8,7 +8,6 @@
   ],
   "name": "PICTET-USA INDEX",
   "legalName": "PICTET-USA INDEX",
-  "bic": "FUCULUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pictetusaindex.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUCULUL1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BZ BANK AKTIENGESELLSCHAFT",
   "legalName": "BZ BANK AKTIENGESELLSCHAFT",
-  "bic": "BZBKCH2WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bzbankaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BZBKCH2WXXX"
 }

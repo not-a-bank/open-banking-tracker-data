@@ -8,7 +8,6 @@
   ],
   "name": "KOUVOLAN SEUDUN OSUUSPANKKI",
   "legalName": "KOUVOLAN SEUDUN OSUUSPANKKI",
-  "bic": "KOSUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kouvolanseudunosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOSUFI21XXX"
 }

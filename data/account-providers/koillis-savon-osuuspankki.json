@@ -8,7 +8,6 @@
   ],
   "name": "KOILLIS-SAVON OSUUSPANKKI",
   "legalName": "KOILLIS-SAVON OSUUSPANKKI",
-  "bic": "KOOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.koillissavonosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOOUFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "YLITORNION OSUUSPANKKI",
   "legalName": "YLITORNION OSUUSPANKKI",
-  "bic": "YLOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ylitornionosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YLOUFI21XXX"
 }

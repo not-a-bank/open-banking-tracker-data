@@ -8,7 +8,6 @@
   ],
   "name": "Banco Bica  S.a.",
   "legalName": "BANCO BICA  S.A.",
-  "bic": "BICAARBSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobica.com.ar.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BICAARBSXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "THE TAIKO BANK,LTD.",
   "legalName": "THE TAIKO BANK,LTD.",
-  "bic": "TAIKJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thetaikobankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAIKJPJ1XXX"
 }

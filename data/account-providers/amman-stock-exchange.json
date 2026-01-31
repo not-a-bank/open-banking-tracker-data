@@ -8,7 +8,6 @@
   ],
   "name": "AMMAN STOCK EXCHANGE",
   "legalName": "AMMAN STOCK EXCHANGE",
-  "bic": "XAMMJOA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ammanstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XAMMJOA1XXX"
 }

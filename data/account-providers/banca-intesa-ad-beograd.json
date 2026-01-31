@@ -8,7 +8,6 @@
   ],
   "name": "BANCA INTESA AD, BEOGRAD",
   "legalName": "BANCA INTESA AD, BEOGRAD",
-  "bic": "DBDBRSBGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaintesaadbeograd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBDBRSBGXXX"
 }

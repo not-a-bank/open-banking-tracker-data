@@ -8,7 +8,6 @@
   ],
   "name": "PICTET-LATIN AMERICAN LOCAL CURRENCY DEBT",
   "legalName": "PICTET-LATIN AMERICAN LOCAL CURRENCY DEBT",
-  "bic": "FUCALUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pictetlatinamericanlocalcurrencydebt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUCALUL1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CACIQUE S.A.",
   "legalName": "BANCO CACIQUE S.A.",
-  "bic": "BCUEBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocaciquesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCUEBRS1XXX"
 }

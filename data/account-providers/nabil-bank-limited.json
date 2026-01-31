@@ -8,7 +8,6 @@
   ],
   "name": "NABIL BANK LIMITED",
   "legalName": "NABIL BANK LIMITED",
-  "bic": "NARBNPKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nabilbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NARBNPKAXXX"
 }

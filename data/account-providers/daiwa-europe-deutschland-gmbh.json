@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA EUROPE (DEUTSCHLAND) GMBH",
   "legalName": "DAIWA EUROPE (DEUTSCHLAND) GMBH",
-  "bic": "DEDGDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwaeuropedeutschlandgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEDGDEF1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VISCOUNT SECURITIES LIMITED",
   "legalName": "VISCOUNT SECURITIES LIMITED",
-  "bic": "VISEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.viscountsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VISEGB21XXX"
 }

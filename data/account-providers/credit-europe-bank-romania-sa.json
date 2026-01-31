@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT EUROPE BANK (ROMANIA) S.A.",
   "legalName": "CREDIT EUROPE BANK (ROMANIA) S.A.",
-  "bic": "FNNBROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.crediteuropebankromaniasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNNBROBUXXX"
 }

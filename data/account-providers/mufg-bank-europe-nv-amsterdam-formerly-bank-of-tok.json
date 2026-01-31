@@ -8,7 +8,6 @@
   ],
   "name": "MUFG BANK (EUROPE) N.V. AMSTERDAM (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (HOLLAND) N.V.)",
   "legalName": "MUFG BANK (EUROPE) N.V. AMSTERDAM (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (HOLLAND) N.V.)",
-  "bic": "BOTKNL2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mufgbankeuropenvamsterdamformerlybankoftok.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTKNL2XXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "IBERIA LINEAS AEREAS DE ESPANA S.A.",
   "legalName": "IBERIA LINEAS AEREAS DE ESPANA S.A.",
-  "bic": "IBLAESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iberialineasaereasdeespanasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBLAESMMXXX"
 }

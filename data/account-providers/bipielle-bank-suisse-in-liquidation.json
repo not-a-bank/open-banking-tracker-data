@@ -8,7 +8,6 @@
   ],
   "name": "BIPIELLE BANK (SUISSE), (IN LIQUIDATION)",
   "legalName": "BIPIELLE BANK (SUISSE), (IN LIQUIDATION)",
-  "bic": "BPLSCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bipiellebanksuisseinliquidation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPLSCH22XXX"
 }

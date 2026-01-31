@@ -8,7 +8,6 @@
   ],
   "name": "CLSA SECURITIES (THAILAND) LTD",
   "legalName": "CLSA SECURITIES (THAILAND) LTD",
-  "bic": "CLSATHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clsasecuritiesthailandltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLSATHB1XXX"
 }

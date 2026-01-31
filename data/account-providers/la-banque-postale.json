@@ -1,0 +1,32 @@
+{
+  "id": "la-banque-postale",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "La Banque Postale",
+  "legalName": "La Banque Postale",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.la-banque-postale.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "PSSTFRPP"
+}

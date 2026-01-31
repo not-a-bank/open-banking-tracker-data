@@ -8,7 +8,6 @@
   ],
   "name": "ESTEURO CAPITAL S.A.",
   "legalName": "ESTEURO CAPITAL S.A.",
-  "bic": "ESCPROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.esteurocapitalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESCPROB1XXX"
 }

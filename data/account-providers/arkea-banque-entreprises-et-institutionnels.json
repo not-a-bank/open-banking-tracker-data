@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Ark\u00e9a Banque Entreprises et Institutionnels",
-  "legalName": "Ark\u00e9a Banque Entreprises et Institutionnels",
+  "name": "Arkéa Banque Entreprises et Institutionnels",
+  "legalName": "Arkéa Banque Entreprises et Institutionnels",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arkea-banque-entreprises-et-institutionnels.com.ico",
@@ -23,10 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "CMBRFR2BCME"
+  "bic": "CMBRFR2BXXX"
 }

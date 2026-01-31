@@ -8,7 +8,6 @@
   ],
   "name": "OREFICI S.P.A.",
   "legalName": "OREFICI S.P.A.",
-  "bic": "COREITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oreficispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COREITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCA SISTEMA S.P.A.",
   "legalName": "BANCA SISTEMA S.P.A.",
-  "bic": "BSISITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancasistemaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSISITMMXXX"
 }

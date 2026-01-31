@@ -8,7 +8,6 @@
   ],
   "name": "UKRAINIAN COMMODITY EXCHANGE",
   "legalName": "UKRAINIAN COMMODITY EXCHANGE",
-  "bic": "XUKCUAU1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ukrainiancommodityexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XUKCUAU1XXX"
 }

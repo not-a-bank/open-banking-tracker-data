@@ -1,0 +1,32 @@
+{
+  "id": "industra-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Industra Bank",
+  "legalName": "Industra Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.industra-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "LV",
+  "countries": [
+    "LV"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "MULTLV2X"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "credit-municipal",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Credit Municipal",
+  "legalName": "Credit Municipal",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.credit-municipal.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "CRMPFRP1XXX"
+}

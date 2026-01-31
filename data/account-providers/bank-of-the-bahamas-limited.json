@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF THE BAHAMAS LIMITED",
   "legalName": "BANK OF THE BAHAMAS LIMITED",
-  "bic": "BOTBBSNSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofthebahamaslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTBBSNSXXX"
 }

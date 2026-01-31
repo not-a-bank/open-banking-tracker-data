@@ -8,7 +8,6 @@
   ],
   "name": "EURO BANK",
   "legalName": "EURO BANK",
-  "bic": "EUOOKEN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurobank.com.ico",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUOOKEN1XXX"
 }

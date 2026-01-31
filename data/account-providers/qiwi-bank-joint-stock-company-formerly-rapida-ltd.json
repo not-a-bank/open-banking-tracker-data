@@ -8,7 +8,6 @@
   ],
   "name": "QIWI BANK (JOINT-STOCK COMPANY) (FORMERLY RAPIDA LTD)",
   "legalName": "QIWI BANK (JOINT-STOCK COMPANY) (FORMERLY RAPIDA LTD)",
-  "bic": "RPDARUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qiwibankjointstockcompanyformerlyrapidaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RPDARUMMXXX"
 }

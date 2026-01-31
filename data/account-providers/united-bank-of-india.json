@@ -8,7 +8,6 @@
   ],
   "name": "UNITED BANK OF INDIA",
   "legalName": "UNITED BANK OF INDIA",
-  "bic": "UTBIINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedbankofindia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UTBIINBBXXX"
 }

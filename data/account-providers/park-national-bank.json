@@ -8,7 +8,6 @@
   ],
   "name": "PARK NATIONAL BANK",
   "legalName": "PARK NATIONAL BANK",
-  "bic": "PANOUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.parknationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PANOUS41XXX"
 }

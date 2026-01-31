@@ -8,7 +8,6 @@
   ],
   "name": "SUMITOMO MITSUI TRUST BANK,LIMITED SHANGHAI BRANCH",
   "legalName": "SUMITOMO MITSUI TRUST BANK,LIMITED SHANGHAI BRANCH",
-  "bic": "STBCCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sumitomomitsuitrustbanklimitedshanghaibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBCCNSHXXX"
 }

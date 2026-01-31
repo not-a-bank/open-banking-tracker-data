@@ -8,7 +8,6 @@
   ],
   "name": "CONSOLIDATED BANK OF KENYA LTD",
   "legalName": "CONSOLIDATED BANK OF KENYA LTD",
-  "bic": "CONKKENAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.consolidatedbankofkenyaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONKKENAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE SA",
   "legalName": "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE SA",
-  "bic": "PRIBITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepriveeedmondderothschildeuropesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRIBITM1XXX"
 }

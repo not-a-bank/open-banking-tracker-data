@@ -8,7 +8,6 @@
   ],
   "name": "Banco Comafi S.a.",
   "legalName": "BANCO COMAFI S.A.",
-  "bic": "QUILARBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocomafi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QUILARBAXXX"
 }

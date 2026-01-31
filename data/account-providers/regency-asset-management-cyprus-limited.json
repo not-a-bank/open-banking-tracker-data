@@ -8,7 +8,6 @@
   ],
   "name": "REGENCY ASSET MANAGEMENT (CYPRUS) LIMITED",
   "legalName": "REGENCY ASSET MANAGEMENT (CYPRUS) LIMITED",
-  "bic": "RAMCCY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.regencyassetmanagementcypruslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAMCCY21XXX"
 }

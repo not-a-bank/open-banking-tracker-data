@@ -8,7 +8,6 @@
   ],
   "name": "CATELLA FONDFOERVALTNING AB",
   "legalName": "CATELLA FONDFOERVALTNING AB",
-  "bic": "CAFDSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.catellafondfoervaltningab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAFDSES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE AHORRO Y CREDITO GRUFICORP S.A.",
   "legalName": "BANCO DE AHORRO Y CREDITO GRUFICORP S.A.",
-  "bic": "BACGDOS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodeahorroycreditogruficorpsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACGDOS1XXX"
 }

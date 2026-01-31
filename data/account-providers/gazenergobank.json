@@ -8,7 +8,6 @@
   ],
   "name": "GAZENERGOBANK",
   "legalName": "GAZENERGOBANK",
-  "bic": "GAZARU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gazenergobank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GAZARU21XXX"
 }

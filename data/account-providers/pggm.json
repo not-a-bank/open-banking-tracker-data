@@ -8,7 +8,6 @@
   ],
   "name": "PGGM",
   "legalName": "PGGM",
-  "bic": "PGGMNL22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pggm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PGGMNL22XXX"
 }

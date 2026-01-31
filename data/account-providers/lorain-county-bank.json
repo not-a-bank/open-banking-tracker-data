@@ -8,7 +8,6 @@
   ],
   "name": "LORAIN COUNTY BANK",
   "legalName": "LORAIN COUNTY BANK",
-  "bic": "LCOUUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.loraincountybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LCOUUS31XXX"
 }

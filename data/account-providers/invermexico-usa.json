@@ -8,7 +8,6 @@
   ],
   "name": "INVERMEXICO U.S.A.",
   "legalName": "INVERMEXICO U.S.A.",
-  "bic": "IMXCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invermexicousa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMXCUS31XXX"
 }

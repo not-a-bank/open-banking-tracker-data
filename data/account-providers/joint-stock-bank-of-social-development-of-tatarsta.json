@@ -8,7 +8,6 @@
   ],
   "name": "JOINT STOCK BANK OF SOCIAL DEVELOPMENT OF TATARSTAN TATSOTSBANK",
   "legalName": "JOINT STOCK BANK OF SOCIAL DEVELOPMENT OF TATARSTAN TATSOTSBANK",
-  "bic": "TSDBRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jointstockbankofsocialdevelopmentoftatarsta.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TSDBRU21XXX"
 }

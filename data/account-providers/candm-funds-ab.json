@@ -8,7 +8,6 @@
   ],
   "name": "CANDM FUNDS AB",
   "legalName": "CANDM FUNDS AB",
-  "bic": "CAUUSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.candmfundsab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAUUSES1XXX"
 }

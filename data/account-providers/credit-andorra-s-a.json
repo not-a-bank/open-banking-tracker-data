@@ -8,7 +8,6 @@
   ],
   "name": "Credit Andorra,s.a.",
   "legalName": "CREDIT ANDORRA,S.A.",
-  "bic": "CRDAADADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditandorra.ad.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRDAADADXXX"
 }

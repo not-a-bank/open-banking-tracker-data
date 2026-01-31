@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS S.A. DENMARK, FILIAL AF BNP PARIBAS S.A. FRANKRIG",
   "legalName": "BNP PARIBAS S.A. DENMARK, FILIAL AF BNP PARIBAS S.A. FRANKRIG",
-  "bic": "FTSBDKKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassadenmarkfilialafbnpparibassafr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTSBDKKKXXX"
 }

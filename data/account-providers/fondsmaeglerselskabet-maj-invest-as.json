@@ -8,7 +8,6 @@
   ],
   "name": "FONDSMAEGLERSELSKABET MAJ INVEST A/S",
   "legalName": "FONDSMAEGLERSELSKABET MAJ INVEST A/S",
-  "bic": "FONKDKKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fondsmaeglerselskabetmajinvestas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FONKDKKKXXX"
 }

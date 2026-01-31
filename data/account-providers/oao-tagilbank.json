@@ -8,7 +8,6 @@
   ],
   "name": "OAO TAGILBANK",
   "legalName": "OAO TAGILBANK",
-  "bic": "JSCKRU41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oaotagilbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JSCKRU41XXX"
 }

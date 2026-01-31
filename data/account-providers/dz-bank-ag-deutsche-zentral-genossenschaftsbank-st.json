@@ -8,7 +8,6 @@
   ],
   "name": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK, STUTTGART BRANCH",
   "legalName": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK, STUTTGART BRANCH",
-  "bic": "GENODESGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dzbankagdeutschezentralgenossenschaftsbankst.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODESGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET BANQUE SA",
   "legalName": "STATE STREET BANQUE SA",
-  "bic": "SBOSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetbanquesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBOSFRP1XXX"
 }

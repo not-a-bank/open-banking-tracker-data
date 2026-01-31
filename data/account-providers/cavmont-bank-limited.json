@@ -8,7 +8,6 @@
   ],
   "name": "CAVMONT BANK LIMITED",
   "legalName": "CAVMONT BANK LIMITED",
-  "bic": "CVMTZMLUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cavmontbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CVMTZMLUXXX"
 }

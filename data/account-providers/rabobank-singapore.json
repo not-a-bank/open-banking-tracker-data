@@ -8,7 +8,6 @@
   ],
   "name": "RABOBANK SINGAPORE",
   "legalName": "RABOBANK SINGAPORE",
-  "bic": "RABOSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rabobanksingapore.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABOSGSGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE RETRAITE PREVOYANCE CLERCS ET NOTAIRE",
   "legalName": "CAISSE RETRAITE PREVOYANCE CLERCS ET NOTAIRE",
-  "bic": "CRVSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseretraiteprevoyanceclercsetnotaire.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRVSFRP1XXX"
 }

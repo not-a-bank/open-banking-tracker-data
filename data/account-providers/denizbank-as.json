@@ -8,7 +8,6 @@
   ],
   "name": "DENIZBANK A.S.",
   "legalName": "DENIZBANK A.S.",
-  "bic": "DENITRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.denizbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DENITRISXXX"
 }

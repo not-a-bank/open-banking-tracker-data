@@ -8,7 +8,6 @@
   ],
   "name": "RHINE RE FINANCIAL UK LTD",
   "legalName": "RHINE RE FINANCIAL UK LTD",
-  "bic": "RHFIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rhinerefinancialukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RHFIGB21XXX"
 }

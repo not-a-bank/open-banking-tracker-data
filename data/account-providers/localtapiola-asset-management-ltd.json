@@ -8,7 +8,6 @@
   ],
   "name": "Localtapiola Asset Management LTD",
   "legalName": "LOCALTAPIOLA ASSET MANAGEMENT LTD",
-  "bic": "LTAPFI22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LTAPFI22XXX"
 }

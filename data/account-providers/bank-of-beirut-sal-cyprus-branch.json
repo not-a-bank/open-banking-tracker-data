@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF BEIRUT S.A.L CYPRUS BRANCH",
   "legalName": "BANK OF BEIRUT S.A.L CYPRUS BRANCH",
-  "bic": "BABECY2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofbeirutsalcyprusbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BABECY2NXXX"
 }

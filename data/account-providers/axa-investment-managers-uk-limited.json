@@ -8,7 +8,6 @@
   ],
   "name": "AXA INVESTMENT MANAGERS UK LIMITED",
   "legalName": "AXA INVESTMENT MANAGERS UK LIMITED",
-  "bic": "AXIAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axainvestmentmanagersuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXIAGB21XXX"
 }

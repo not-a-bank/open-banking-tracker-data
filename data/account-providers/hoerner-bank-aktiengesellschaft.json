@@ -8,7 +8,6 @@
   ],
   "name": "HOERNER-BANK AKTIENGESELLSCHAFT",
   "legalName": "HOERNER-BANK AKTIENGESELLSCHAFT",
-  "bic": "HOEBDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hoernerbankaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOEBDE61XXX"
 }

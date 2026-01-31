@@ -8,7 +8,6 @@
   ],
   "name": "UNITED CAPITAL BANK",
   "legalName": "UNITED CAPITAL BANK",
-  "bic": "CBSKSDKHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedcapitalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBSKSDKHXXX"
 }

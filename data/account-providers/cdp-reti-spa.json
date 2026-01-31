@@ -8,7 +8,6 @@
   ],
   "name": "CDP RETI SPA",
   "legalName": "CDP RETI SPA",
-  "bic": "CDREITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cdpretispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDREITR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "METCO S.P.A.",
   "legalName": "METCO S.P.A.",
-  "bic": "MEOCITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.metcospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEOCITM1XXX"
 }

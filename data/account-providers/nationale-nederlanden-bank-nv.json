@@ -8,7 +8,6 @@
   ],
   "name": "NATIONALE-NEDERLANDEN BANK N.V.",
   "legalName": "NATIONALE-NEDERLANDEN BANK N.V.",
-  "bic": "NNBANL2GXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalenederlandenbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NNBANL2GXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NAGASAKI BANK",
   "legalName": "NAGASAKI BANK",
-  "bic": "NAGKJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nagasakibank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAGKJPJ1XXX"
 }

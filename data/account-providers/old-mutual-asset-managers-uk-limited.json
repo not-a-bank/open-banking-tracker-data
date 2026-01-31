@@ -8,7 +8,6 @@
   ],
   "name": "OLD MUTUAL ASSET MANAGERS (UK) LIMITED",
   "legalName": "OLD MUTUAL ASSET MANAGERS (UK) LIMITED",
-  "bic": "OMIAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oldmutualassetmanagersuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OMIAGB21XXX"
 }

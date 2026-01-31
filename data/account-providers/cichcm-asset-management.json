@@ -8,7 +8,6 @@
   ],
   "name": "CIC/HCM ASSET MANAGEMENT",
   "legalName": "CIC/HCM ASSET MANAGEMENT",
-  "bic": "CIANUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cichcmassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIANUS61XXX"
 }

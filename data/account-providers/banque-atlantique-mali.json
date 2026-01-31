@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE ATLANTIQUE MALI",
   "legalName": "BANQUE ATLANTIQUE MALI",
-  "bic": "ATMLMLBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueatlantiquemali.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATMLMLBAXXX"
 }

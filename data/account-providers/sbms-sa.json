@@ -8,7 +8,6 @@
   ],
   "name": "SBMS S.A.",
   "legalName": "SBMS S.A.",
-  "bic": "SBMSBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sbmssa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBMSBEBBXXX"
 }

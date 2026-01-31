@@ -8,7 +8,6 @@
   ],
   "name": "GOLDEN BROKER SOCIEDADE CORRETORA SA",
   "legalName": "GOLDEN BROKER SOCIEDADE CORRETORA SA",
-  "bic": "GBSCPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldenbrokersociedadecorretorasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GBSCPTP1XXX"
 }

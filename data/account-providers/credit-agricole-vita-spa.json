@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE VITA SPA",
   "legalName": "CREDIT AGRICOLE VITA SPA",
-  "bic": "CRGVITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolevitaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRGVITM1XXX"
 }

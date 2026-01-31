@@ -8,7 +8,6 @@
   ],
   "name": "GIRARDET S.A.",
   "legalName": "GIRARDET S.A.",
-  "bic": "GIRAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.girardetsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIRAFRP1XXX"
 }

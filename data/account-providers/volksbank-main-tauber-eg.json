@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK MAIN-TAUBER EG",
   "legalName": "VOLKSBANK MAIN-TAUBER EG",
-  "bic": "VOMTDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankmaintaubereg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOMTDE81XXX"
 }

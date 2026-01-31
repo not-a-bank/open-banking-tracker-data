@@ -8,7 +8,6 @@
   ],
   "name": "AVERO BANCAIRE DIENSTEN N.V.",
   "legalName": "AVERO BANCAIRE DIENSTEN N.V.",
-  "bic": "AVBDNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.averobancairedienstennv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVBDNL21XXX"
 }

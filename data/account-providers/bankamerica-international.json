@@ -8,7 +8,6 @@
   ],
   "name": "BANKAMERICA INTERNATIONAL",
   "legalName": "BANKAMERICA INTERNATIONAL",
-  "bic": "BOFAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankamericainternational.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAUS31XXX"
 }

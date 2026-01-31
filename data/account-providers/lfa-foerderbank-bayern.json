@@ -8,7 +8,6 @@
   ],
   "name": "LFA FOERDERBANK BAYERN",
   "legalName": "LFA FOERDERBANK BAYERN",
-  "bic": "LFFBDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lfafoerderbankbayern.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LFFBDEMMXXX"
 }

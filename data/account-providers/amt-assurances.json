@@ -8,7 +8,6 @@
   ],
   "name": "AMT ASSURANCES",
   "legalName": "AMT ASSURANCES",
-  "bic": "AMAUFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amtassurances.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMAUFR21XXX"
 }

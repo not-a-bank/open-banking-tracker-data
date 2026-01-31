@@ -8,7 +8,6 @@
   ],
   "name": "ASR VERZEKERINGEN NEDERLAND N.V",
   "legalName": "ASR VERZEKERINGEN NEDERLAND N.V",
-  "bic": "FTSINL2UXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asrverzekeringennederlandnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTSINL2UXXX"
 }

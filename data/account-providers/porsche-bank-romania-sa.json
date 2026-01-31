@@ -8,7 +8,6 @@
   ],
   "name": "PORSCHE BANK ROMANIA SA",
   "legalName": "PORSCHE BANK ROMANIA SA",
-  "bic": "PORLROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.porschebankromaniasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PORLROBUXXX"
 }

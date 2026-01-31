@@ -8,7 +8,6 @@
   ],
   "name": "BANKHAUS LUDWIG SPERRER KG",
   "legalName": "BANKHAUS LUDWIG SPERRER KG",
-  "bic": "BHLSDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhausludwigsperrerkgde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHLSDEMMXXX"
 }

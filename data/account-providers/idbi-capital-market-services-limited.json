@@ -8,7 +8,6 @@
   ],
   "name": "IDBI CAPITAL MARKET SERVICES LIMITED",
   "legalName": "IDBI CAPITAL MARKET SERVICES LIMITED",
-  "bic": "ICMSINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.idbicapitalmarketserviceslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICMSINB1XXX"
 }

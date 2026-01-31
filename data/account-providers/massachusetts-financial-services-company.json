@@ -8,7 +8,6 @@
   ],
   "name": "MASSACHUSETTS FINANCIAL SERVICES COMPANY",
   "legalName": "MASSACHUSETTS FINANCIAL SERVICES COMPANY",
-  "bic": "MFSMUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.massachusettsfinancialservicescompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MFSMUS33XXX"
 }

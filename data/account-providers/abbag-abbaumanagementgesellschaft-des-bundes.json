@@ -8,7 +8,6 @@
   ],
   "name": "Abbag - Abbaumanagementgesellschaft DES Bundes",
   "legalName": "ABBAG - ABBAUMANAGEMENTGESELLSCHAFT DES BUNDES",
-  "bic": "ABADATW1XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABADATW1XXX"
 }

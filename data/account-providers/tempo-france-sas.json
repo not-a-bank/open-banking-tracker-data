@@ -8,7 +8,6 @@
   ],
   "name": "TEMPO FRANCE SAS",
   "legalName": "TEMPO FRANCE SAS",
-  "bic": "TFRSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tempofrancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFRSFRP1XXX"
 }

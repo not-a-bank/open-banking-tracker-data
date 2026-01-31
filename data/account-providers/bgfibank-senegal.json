@@ -8,7 +8,6 @@
   ],
   "name": "BGFIBANK SENEGAL",
   "legalName": "BGFIBANK SENEGAL",
-  "bic": "BGFISNDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bgfibanksenegal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGFISNDAXXX"
 }

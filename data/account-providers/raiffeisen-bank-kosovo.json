@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN BANK KOSOVO",
   "legalName": "RAIFFEISEN BANK KOSOVO",
-  "bic": "RBKOXKPRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankkosovo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBKOXKPRXXX"
 }

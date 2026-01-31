@@ -8,7 +8,6 @@
   ],
   "name": "BANKERS TRUST COMPANY, SUCURSAL EN ESPANA",
   "legalName": "BANKERS TRUST COMPANY, SUCURSAL EN ESPANA",
-  "bic": "BKTRESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankerstrustcompanysucursalenespana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKTRESM1XXX"
 }

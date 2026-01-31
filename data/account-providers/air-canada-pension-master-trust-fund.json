@@ -8,7 +8,6 @@
   ],
   "name": "AIR Canada Pension Master Trust Fund",
   "legalName": "AIR CANADA PENSION MASTER TRUST FUND",
-  "bic": "ACMTCAMMXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACMTCAMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "LIEDON OSUUSPANKKI",
   "legalName": "LIEDON OSUUSPANKKI",
-  "bic": "LIOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.liedonosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIOSFI21XXX"
 }

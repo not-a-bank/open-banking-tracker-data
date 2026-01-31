@@ -8,7 +8,6 @@
   ],
   "name": "AO MIZUHO BANK (MOSCOW)",
   "legalName": "AO MIZUHO BANK (MOSCOW)",
-  "bic": "MHCCRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aomizuhobankmoscow.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHCCRUMMXXX"
 }

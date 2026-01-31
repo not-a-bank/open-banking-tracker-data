@@ -9,7 +9,6 @@
   ],
   "name": "HJELMELAND SPAREBANK",
   "legalName": "HJELMELAND SPAREBANK",
-  "bic": "HJELNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/fa3c0952-f10e-439a-ad03-32a539b641ac/-/preview/170x170/-/crop/180x180/center/NO937896581.png",
@@ -60,5 +59,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HJELNO21XXX"
 }

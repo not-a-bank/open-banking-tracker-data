@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK REUTTE",
   "legalName": "RAIFFEISENBANK REUTTE",
-  "bic": "RBRTAT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankreutte.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBRTAT22XXX"
 }

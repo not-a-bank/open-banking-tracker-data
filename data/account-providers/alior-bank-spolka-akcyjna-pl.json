@@ -8,7 +8,6 @@
   ],
   "name": "ALIOR BANK SPOLKA AKCYJNA",
   "legalName": "ALIOR BANK SPOLKA AKCYJNA",
-  "bic": "ALBPPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aliorbankspolkaakcyjnapl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALBPPLPWXXX"
 }

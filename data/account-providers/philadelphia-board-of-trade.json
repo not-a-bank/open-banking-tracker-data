@@ -8,7 +8,6 @@
   ],
   "name": "PHILADELPHIA BOARD OF TRADE",
   "legalName": "PHILADELPHIA BOARD OF TRADE",
-  "bic": "XPBTUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philadelphiaboardoftrade.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XPBTUS31XXX"
 }

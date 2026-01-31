@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BROKING SECURITIES (HONG KONG) LIMITED",
   "legalName": "HSBC BROKING SECURITIES (HONG KONG) LIMITED",
-  "bic": "HEHLHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbrokingsecuritieshongkonglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEHLHKH1XXX"
 }

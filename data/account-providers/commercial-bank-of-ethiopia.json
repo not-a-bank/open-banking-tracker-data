@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK OF ETHIOPIA",
   "legalName": "COMMERCIAL BANK OF ETHIOPIA",
-  "bic": "CBETETAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankofethiopia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBETETAAXXX"
 }

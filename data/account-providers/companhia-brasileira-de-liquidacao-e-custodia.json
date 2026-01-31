@@ -8,7 +8,6 @@
   ],
   "name": "COMPANHIA BRASILEIRA DE LIQUIDACAO E CUSTODIA",
   "legalName": "COMPANHIA BRASILEIRA DE LIQUIDACAO E CUSTODIA",
-  "bic": "CLCBBRRJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.companhiabrasileiradeliquidacaoecustodia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLCBBRRJXXX"
 }

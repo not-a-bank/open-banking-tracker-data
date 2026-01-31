@@ -8,7 +8,6 @@
   ],
   "name": "ALLIANZ GLOBAL INVESTORSK AG",
   "legalName": "ALLIANZ GLOBAL INVESTORSK AG",
-  "bic": "ALGVDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allianzglobalinvestorskag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALGVDEM1XXX"
 }

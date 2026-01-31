@@ -8,7 +8,6 @@
   ],
   "name": "EMAAR FINANCIAL SERVICES LLC",
   "legalName": "EMAAR FINANCIAL SERVICES LLC",
-  "bic": "EMFSAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.emaarfinancialservicesllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EMFSAEA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GULF INTERNATIONAL BANK",
   "legalName": "GULF INTERNATIONAL BANK",
-  "bic": "GULFKYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gulfinternationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GULFKYK1XXX"
 }

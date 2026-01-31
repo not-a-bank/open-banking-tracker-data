@@ -8,7 +8,6 @@
   ],
   "name": "ANZ BANK (TAIWAN) LIMITED",
   "legalName": "ANZ BANK (TAIWAN) LIMITED",
-  "bic": "ANZBTWTPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anzbanktaiwanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBTWTPXXX"
 }

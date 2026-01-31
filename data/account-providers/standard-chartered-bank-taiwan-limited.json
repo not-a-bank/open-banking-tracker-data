@@ -8,7 +8,6 @@
   ],
   "name": "STANDARD CHARTERED BANK (TAIWAN) LIMITED",
   "legalName": "STANDARD CHARTERED BANK (TAIWAN) LIMITED",
-  "bic": "SCBLTWTPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.standardcharteredbanktaiwanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCBLTWTPXXX"
 }

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Ark\u00e9a Banque Priv\u00e9e",
-  "legalName": "Ark\u00e9a Banque Priv\u00e9e",
+  "name": "Arkéa Banque Privée",
+  "legalName": "Arkéa Banque Privée",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arkea-banque-privee.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

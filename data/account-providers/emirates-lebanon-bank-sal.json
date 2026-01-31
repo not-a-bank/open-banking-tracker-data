@@ -8,7 +8,6 @@
   ],
   "name": "EMIRATES LEBANON BANK SAL",
   "legalName": "EMIRATES LEBANON BANK SAL",
-  "bic": "ELBKLBBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.emirateslebanonbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ELBKLBBXXXX"
 }

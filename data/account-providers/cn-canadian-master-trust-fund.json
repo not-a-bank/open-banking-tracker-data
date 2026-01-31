@@ -8,7 +8,6 @@
   ],
   "name": "CN CANADIAN MASTER TRUST FUND",
   "legalName": "CN CANADIAN MASTER TRUST FUND",
-  "bic": "CMTFCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cncanadianmastertrustfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMTFCAM1XXX"
 }

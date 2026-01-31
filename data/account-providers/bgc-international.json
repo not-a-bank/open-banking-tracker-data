@@ -8,7 +8,6 @@
   ],
   "name": "BGC INTERNATIONAL",
   "legalName": "BGC INTERNATIONAL",
-  "bic": "CFILGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bgcinternational.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFILGB21XXX"
 }

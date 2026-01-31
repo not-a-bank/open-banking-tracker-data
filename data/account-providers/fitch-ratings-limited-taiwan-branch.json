@@ -8,7 +8,6 @@
   ],
   "name": "FITCH RATINGS LIMITED (TAIWAN BRANCH)",
   "legalName": "FITCH RATINGS LIMITED (TAIWAN BRANCH)",
-  "bic": "FRIPTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchratingslimitedtaiwanbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPTWT1XXX"
 }

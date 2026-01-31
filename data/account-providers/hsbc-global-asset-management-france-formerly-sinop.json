@@ -8,7 +8,6 @@
   ],
   "name": "HSBC GLOBAL ASSET MANAGEMENT FRANCE (FORMERLY SINOPIA ASSET MANAGEMENT)",
   "legalName": "HSBC GLOBAL ASSET MANAGEMENT FRANCE (FORMERLY SINOPIA ASSET MANAGEMENT)",
-  "bic": "SAMFFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcglobalassetmanagementfranceformerlysinop.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAMFFRPPXXX"
 }

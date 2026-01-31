@@ -8,7 +8,6 @@
   ],
   "name": "LRI INVEST S.A.",
   "legalName": "LRI INVEST S.A.",
-  "bic": "LRIILULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lriinvestsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LRIILULLXXX"
 }

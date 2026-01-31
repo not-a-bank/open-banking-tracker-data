@@ -8,7 +8,6 @@
   ],
   "name": "CAVEC",
   "legalName": "CAVEC",
-  "bic": "CVEEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cavec.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CVEEFRP1XXX"
 }

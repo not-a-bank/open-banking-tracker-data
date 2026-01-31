@@ -8,7 +8,6 @@
   ],
   "name": "ALLIANZ GLOBAL INVESTORS (UK) LIMITED",
   "legalName": "ALLIANZ GLOBAL INVESTORS (UK) LIMITED",
-  "bic": "ALGIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allianzglobalinvestorsuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALGIGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Slatinska Banka DD",
   "legalName": "SLATINSKA BANKA DD",
-  "bic": "SBSLHR2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBSLHR2XXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CLABO S.P.A.",
   "legalName": "CLABO S.P.A.",
-  "bic": "CLBBIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clabospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLBBIT21XXX"
 }

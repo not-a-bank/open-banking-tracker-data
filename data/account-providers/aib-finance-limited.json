@@ -8,7 +8,6 @@
   ],
   "name": "AIB FINANCE LIMITED",
   "legalName": "AIB FINANCE LIMITED",
-  "bic": "AIFIIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aibfinancelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIFIIE21XXX"
 }

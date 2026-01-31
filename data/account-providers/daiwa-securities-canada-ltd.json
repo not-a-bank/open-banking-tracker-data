@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA SECURITIES CANADA LTD.",
   "legalName": "DAIWA SECURITIES CANADA LTD.",
-  "bic": "DSCACAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwasecuritiescanadaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DSCACAT1XXX"
 }

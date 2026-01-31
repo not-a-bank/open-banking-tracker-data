@@ -8,7 +8,6 @@
   ],
   "name": "Scotiabank DE Costa Rica",
   "legalName": "SCOTIABANK DE COSTA RICA",
-  "bic": "NOSCCRSJXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSCCRSJXXX"
 }

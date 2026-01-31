@@ -8,7 +8,6 @@
   ],
   "name": "NATWEST-JERSEY",
   "legalName": "NATWEST-JERSEY",
-  "bic": "RBOSJESHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natwestjersey.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBOSJESHXXX"
 }

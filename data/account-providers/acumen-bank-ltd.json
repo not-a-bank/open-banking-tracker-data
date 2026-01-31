@@ -8,7 +8,6 @@
   ],
   "name": "ACUMEN BANK LTD",
   "legalName": "ACUMEN BANK LTD",
-  "bic": "ACUEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.acumenbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACUEGB21XXX"
 }

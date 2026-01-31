@@ -1,0 +1,32 @@
+{
+  "id": "nordea-business",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Nordea Business",
+  "legalName": "Nordea Business",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.nordea-business.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "DK",
+  "countries": [
+    "DK"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "NDEADKKK"
+}

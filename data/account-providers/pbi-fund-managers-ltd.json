@@ -8,7 +8,6 @@
   ],
   "name": "PBI FUND MANAGERS LTD",
   "legalName": "PBI FUND MANAGERS LTD",
-  "bic": "PBFMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pbifundmanagersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBFMGB21XXX"
 }

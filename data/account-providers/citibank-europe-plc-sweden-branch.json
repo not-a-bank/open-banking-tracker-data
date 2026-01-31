@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK EUROPE PLC SWEDEN BRANCH",
   "legalName": "CITIBANK EUROPE PLC SWEDEN BRANCH",
-  "bic": "CITISESXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankeuropeplcswedenbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITISESXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SIP NORDIC AB",
   "legalName": "SIP NORDIC AB",
-  "bic": "SINRSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sipnordicab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SINRSES1XXX"
 }

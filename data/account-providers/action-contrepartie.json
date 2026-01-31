@@ -8,7 +8,6 @@
   ],
   "name": "ACTION CONTREPARTIE",
   "legalName": "ACTION CONTREPARTIE",
-  "bic": "ACTPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.actioncontrepartie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACTPFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bausparkasse DER Oesterreichischen Sparkassen AG",
   "legalName": "BAUSPARKASSE DER OESTERREICHISCHEN SPARKASSEN AG",
-  "bic": "BAOSATWWXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAOSATWWXXX"
 }

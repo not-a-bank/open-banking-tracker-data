@@ -8,7 +8,6 @@
   ],
   "name": "DENIZBANK MOSCOW JSC",
   "legalName": "DENIZBANK MOSCOW JSC",
-  "bic": "IKBARUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.denizbankmoscowjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IKBARUMMXXX"
 }

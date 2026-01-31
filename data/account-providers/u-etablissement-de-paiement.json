@@ -8,7 +8,6 @@
   ],
   "name": "U ETABLISSEMENT DE PAIEMENT",
   "legalName": "U ETABLISSEMENT DE PAIEMENT",
-  "bic": "UEDPFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uetablissementdepaiement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UEDPFR21XXX"
 }

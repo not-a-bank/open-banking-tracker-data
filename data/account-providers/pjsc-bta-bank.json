@@ -8,7 +8,6 @@
   ],
   "name": "PJSC BTA BANK",
   "legalName": "PJSC BTA BANK",
-  "bic": "UCTBUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscbtabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UCTBUAUKXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SENKADAGALA FINANCE PLC",
   "legalName": "SENKADAGALA FINANCE PLC",
-  "bic": "SENFLKLXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.senkadagalafinanceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SENFLKLXXXX"
 }

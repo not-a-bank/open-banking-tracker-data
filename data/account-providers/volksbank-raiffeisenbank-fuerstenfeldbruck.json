@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Raiffeisenbank F\u00fcrstenfeldbruck",
-  "legalName": "Volksbank Raiffeisenbank F\u00fcrstenfeldbruck",
+  "name": "Volksbank Raiffeisenbank Fürstenfeldbruck",
+  "legalName": "Volksbank Raiffeisenbank Fürstenfeldbruck",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-raiffeisenbank-fuerstenfeldbruck.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

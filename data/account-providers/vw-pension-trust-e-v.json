@@ -8,7 +8,6 @@
   ],
   "name": "VW PENSION TRUST E. V.",
   "legalName": "VW PENSION TRUST E. V.",
-  "bic": "VWPTDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vwpensiontrustev.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VWPTDE21XXX"
 }

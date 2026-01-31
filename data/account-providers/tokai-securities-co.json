@@ -8,7 +8,6 @@
   ],
   "name": "TOKAI SECURITIES CO",
   "legalName": "TOKAI SECURITIES CO",
-  "bic": "TOKSJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tokaisecuritiesco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOKSJPJ1XXX"
 }

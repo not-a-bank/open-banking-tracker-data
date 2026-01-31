@@ -8,7 +8,6 @@
   ],
   "name": "TAPIOLA ASSET MANAGEMENT LTD",
   "legalName": "TAPIOLA ASSET MANAGEMENT LTD",
-  "bic": "TAPLFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tapiolaassetmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAPLFI21XXX"
 }

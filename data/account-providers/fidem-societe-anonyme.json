@@ -8,7 +8,6 @@
   ],
   "name": "FIDEM SOCIETE ANONYME",
   "legalName": "FIDEM SOCIETE ANONYME",
-  "bic": "FIEMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidemsocieteanonyme.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIEMFRP1XXX"
 }

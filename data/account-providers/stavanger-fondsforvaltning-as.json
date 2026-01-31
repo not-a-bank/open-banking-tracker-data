@@ -8,7 +8,6 @@
   ],
   "name": "STAVANGER FONDSFORVALTNING AS",
   "legalName": "STAVANGER FONDSFORVALTNING AS",
-  "bic": "STFONOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stavangerfondsforvaltningas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STFONOK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FBC FIDELITY BANK LIMITED",
   "legalName": "FBC FIDELITY BANK LIMITED",
-  "bic": "FBCCZAJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fbcfidelitybanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBCCZAJ1XXX"
 }

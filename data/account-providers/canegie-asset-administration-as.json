@@ -8,7 +8,6 @@
   ],
   "name": "CANEGIE ASSET ADMINISTRATION A/S",
   "legalName": "CANEGIE ASSET ADMINISTRATION A/S",
-  "bic": "CADMDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.canegieassetadministrationas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CADMDKK1XXX"
 }

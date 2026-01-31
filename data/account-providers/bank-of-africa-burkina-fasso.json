@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Africa - Burkina Fasso",
   "legalName": "BANK OF AFRICA - BURKINA FASSO",
-  "bic": "AFRIBFBFXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFRIBFBFXXX"
 }

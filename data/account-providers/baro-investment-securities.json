@@ -8,7 +8,6 @@
   ],
   "name": "BARO INVESTMENT SECURITIES",
   "legalName": "BARO INVESTMENT SECURITIES",
-  "bic": "BRIUKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baroinvestmentsecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRIUKRS1XXX"
 }

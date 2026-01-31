@@ -8,7 +8,6 @@
   ],
   "name": "INVESCO FUNDS GROUP, INC.",
   "legalName": "INVESCO FUNDS GROUP, INC.",
-  "bic": "IFGDUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invescofundsgroupinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IFGDUS51XXX"
 }

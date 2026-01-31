@@ -8,7 +8,6 @@
   ],
   "name": "SEI PRIVATE TRUST COMPANY",
   "legalName": "SEI PRIVATE TRUST COMPANY",
-  "bic": "SEICUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.seiprivatetrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEICUS33XXX"
 }

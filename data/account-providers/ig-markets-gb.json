@@ -8,7 +8,6 @@
   ],
   "name": "IG MARKETS",
   "legalName": "IG MARKETS",
-  "bic": "IGMLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.igmarketsgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IGMLGB21XXX"
 }

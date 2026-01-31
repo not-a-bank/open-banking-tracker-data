@@ -8,7 +8,6 @@
   ],
   "name": "AVUS CAPITAL UK LIMITED",
   "legalName": "AVUS CAPITAL UK LIMITED",
-  "bic": "AVCIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.avuscapitaluklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVCIGB21XXX"
 }

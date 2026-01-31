@@ -8,7 +8,6 @@
   ],
   "name": "MORTGAGE FX LTD",
   "legalName": "MORTGAGE FX LTD",
-  "bic": "MORTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mortgagefxltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MORTGB21XXX"
 }

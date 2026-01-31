@@ -8,7 +8,6 @@
   ],
   "name": "LIA OIL SA",
   "legalName": "LIA OIL SA",
-  "bic": "LIAOCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.liaoilsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIAOCHG1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA,MILAN BRANCH",
   "legalName": "BANK OF CHINA,MILAN BRANCH",
-  "bic": "BKCHITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinamilanbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHITMMXXX"
 }

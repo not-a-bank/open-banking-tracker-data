@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA, GRAND CAYMAN BRANCH",
   "legalName": "BANK OF CHINA, GRAND CAYMAN BRANCH",
-  "bic": "BKCHKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinagrandcaymanbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHKYKYXXX"
 }

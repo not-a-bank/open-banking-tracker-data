@@ -8,7 +8,6 @@
   ],
   "name": "B AND R FINANCIAL LIMITED",
   "legalName": "B AND R FINANCIAL LIMITED",
-  "bic": "FNCLCY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bandrfinanciallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNCLCY21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MOSCOW INTERBANK CURRENCY EXCHANGE (MICEX)",
   "legalName": "MOSCOW INTERBANK CURRENCY EXCHANGE (MICEX)",
-  "bic": "XMICRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.moscowinterbankcurrencyexchangemicex.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMICRUM1XXX"
 }

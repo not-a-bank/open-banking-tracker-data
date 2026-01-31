@@ -8,7 +8,6 @@
   ],
   "name": "TOP DANMARK LIVSFORSIKRING A/S",
   "legalName": "TOP DANMARK LIVSFORSIKRING A/S",
-  "bic": "TODLDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.topdanmarklivsforsikringas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TODLDK21XXX"
 }

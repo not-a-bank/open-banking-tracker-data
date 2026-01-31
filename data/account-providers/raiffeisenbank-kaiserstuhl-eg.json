@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK KAISERSTUHL EG",
   "legalName": "RAIFFEISENBANK KAISERSTUHL EG",
-  "bic": "RAKIDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankkaiserstuhleg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAKIDE61XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE INTERNATIONALE DE CREDIT ET DE GESTION MONACO",
   "legalName": "BANQUE INTERNATIONALE DE CREDIT ET DE GESTION MONACO",
-  "bic": "BCGMMCM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueinternationaledecreditetdegestionmona.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCGMMCM1XXX"
 }

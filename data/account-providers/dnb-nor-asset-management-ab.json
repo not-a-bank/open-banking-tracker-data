@@ -8,7 +8,6 @@
   ],
   "name": "DNB NOR ASSET MANAGEMENT AB",
   "legalName": "DNB NOR ASSET MANAGEMENT AB",
-  "bic": "DNAASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dnbnorassetmanagementab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNAASES1XXX"
 }

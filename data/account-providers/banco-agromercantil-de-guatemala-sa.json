@@ -8,7 +8,6 @@
   ],
   "name": "BANCO AGROMERCANTIL DE GUATEMALA, S.A.",
   "legalName": "BANCO AGROMERCANTIL DE GUATEMALA, S.A.",
-  "bic": "AGROGTGCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoagromercantildeguatemalasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGROGTGCXXX"
 }

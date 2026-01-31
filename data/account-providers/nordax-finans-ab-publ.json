@@ -8,7 +8,6 @@
   ],
   "name": "NORDAX FINANS AB (PUBL)",
   "legalName": "NORDAX FINANS AB (PUBL)",
-  "bic": "NOFBSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordaxfinansabpubl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOFBSES1XXX"
 }

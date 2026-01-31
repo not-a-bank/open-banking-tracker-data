@@ -8,7 +8,6 @@
   ],
   "name": "RENAULT CREDIT INTERNATIONAL S.A.",
   "legalName": "RENAULT CREDIT INTERNATIONAL S.A.",
-  "bic": "RECNITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.renaultcreditinternationalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RECNITR1XXX"
 }

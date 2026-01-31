@@ -8,7 +8,6 @@
   ],
   "name": "BANK J. SAFRA SARASIN LTD",
   "legalName": "BANK J. SAFRA SARASIN LTD",
-  "bic": "SARACHBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankjsafrasarasinltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SARACHBBXXX"
 }

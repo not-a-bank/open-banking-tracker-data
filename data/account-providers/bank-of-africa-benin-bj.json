@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AFRICA - BENIN",
   "legalName": "BANK OF AFRICA - BENIN",
-  "bic": "AFRIBJB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofafricabeninbj.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFRIBJB1XXX"
 }

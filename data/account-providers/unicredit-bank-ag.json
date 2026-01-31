@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BANK AG",
   "legalName": "UNICREDIT BANK AG",
-  "bic": "UNRDDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNRDDEM1XXX"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "attica-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Attica Bank",
+  "legalName": "Attica Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.attica-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "GR",
+  "countries": [
+    "GR"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "ATTIGRAA"
+}

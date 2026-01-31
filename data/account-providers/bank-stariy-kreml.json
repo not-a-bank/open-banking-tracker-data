@@ -8,7 +8,6 @@
   ],
   "name": "BANK STARIY KREML",
   "legalName": "BANK STARIY KREML",
-  "bic": "STKRRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankstariykreml.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STKRRUM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TREND ASSET MANAGEMENT",
   "legalName": "TREND ASSET MANAGEMENT",
-  "bic": "TESTBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trendassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TESTBGS1XXX"
 }

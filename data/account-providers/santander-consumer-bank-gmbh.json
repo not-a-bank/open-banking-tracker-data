@@ -8,7 +8,6 @@
   ],
   "name": "SANTANDER CONSUMER BANK GMBH",
   "legalName": "SANTANDER CONSUMER BANK GMBH",
-  "bic": "SANTATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santanderconsumerbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SANTATWWXXX"
 }

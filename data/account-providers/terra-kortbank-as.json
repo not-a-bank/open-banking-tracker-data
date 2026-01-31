@@ -8,7 +8,6 @@
   ],
   "name": "TERRA KORTBANK AS",
   "legalName": "TERRA KORTBANK AS",
-  "bic": "TEKONOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.terrakortbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEKONOK1XXX"
 }

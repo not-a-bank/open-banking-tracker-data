@@ -8,7 +8,6 @@
   ],
   "name": "BANCA AKROS SPA",
   "legalName": "BANCA AKROS SPA",
-  "bic": "AKROITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaakrosspait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKROITMMXXX"
 }

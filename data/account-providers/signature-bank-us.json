@@ -9,7 +9,6 @@
   ],
   "name": "SIGNATURE BANK",
   "legalName": "SIGNATURE BANK",
-  "bic": "SIGRUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1616013288/radar/icons/signature-bank.png",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "SBNY"
+  "stockSymbol": "SBNY",
+  "bic": "SIGRUS41XXX"
 }

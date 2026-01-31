@@ -8,7 +8,6 @@
   ],
   "name": "BANCO FINANCIERO INTERNACIONAL, S.A.",
   "legalName": "BANCO FINANCIERO INTERNACIONAL, S.A.",
-  "bic": "BFICCUHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancofinancierointernacionalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFICCUHHXXX"
 }

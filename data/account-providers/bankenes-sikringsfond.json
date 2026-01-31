@@ -8,7 +8,6 @@
   ],
   "name": "BANKENES SIKRINGSFOND",
   "legalName": "BANKENES SIKRINGSFOND",
-  "bic": "SIKRNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankenessikringsfond.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIKRNOK1XXX"
 }

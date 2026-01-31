@@ -8,7 +8,6 @@
   ],
   "name": "ITAU CORPBANCA (FORMERLY BANCO ITAU CHILE)",
   "legalName": "ITAU CORPBANCA (FORMERLY BANCO ITAU CHILE)",
-  "bic": "ITAUCLRMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.itaucorpbancaformerlybancoitauchile.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITAUCLRMXXX"
 }

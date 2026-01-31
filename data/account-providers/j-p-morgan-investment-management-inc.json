@@ -8,7 +8,6 @@
   ],
   "name": "J P MORGAN INVESTMENT MANAGEMENT INC",
   "legalName": "J P MORGAN INVESTMENT MANAGEMENT INC",
-  "bic": "JPMIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganinvestmentmanagementinc.com.ico",
@@ -27,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JPMIGB21XXX"
 }

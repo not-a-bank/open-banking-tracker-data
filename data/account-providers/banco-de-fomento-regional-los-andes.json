@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE FOMENTO REGIONAL LOS ANDES",
   "legalName": "BANCO DE FOMENTO REGIONAL LOS ANDES",
-  "bic": "BFRAVE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodefomentoregionallosandes.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFRAVE21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF TAIWAN, TOKYO BRANCH",
   "legalName": "BANK OF TAIWAN, TOKYO BRANCH",
-  "bic": "BKTWJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankoftaiwantokyobranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKTWJPJTXXX"
 }

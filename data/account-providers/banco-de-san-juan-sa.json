@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE SAN JUAN SA",
   "legalName": "BANCO DE SAN JUAN SA",
-  "bic": "BSJUARBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodesanjuansa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSJUARBJXXX"
 }

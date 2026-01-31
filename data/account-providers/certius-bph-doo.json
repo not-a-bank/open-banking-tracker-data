@@ -8,7 +8,6 @@
   ],
   "name": "CERTIUS BPH D.O.O.",
   "legalName": "CERTIUS BPH D.O.O.",
-  "bic": "CEBDSI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.certiusbphdoo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEBDSI21XXX"
 }

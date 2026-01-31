@@ -8,7 +8,6 @@
   ],
   "name": "WAKO MERCHANT BANK (SINGAPORE) LIMITED",
   "legalName": "WAKO MERCHANT BANK (SINGAPORE) LIMITED",
-  "bic": "WMBSSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wakomerchantbanksingaporelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WMBSSGS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK HANDLOWY W WARSZAWIE SA",
   "legalName": "BANK HANDLOWY W WARSZAWIE SA",
-  "bic": "CITIPLPXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhandlowywwarszawiesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIPLPXXXX"
 }

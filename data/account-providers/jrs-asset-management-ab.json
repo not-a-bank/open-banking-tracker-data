@@ -8,7 +8,6 @@
   ],
   "name": "JRS ASSET MANAGEMENT AB",
   "legalName": "JRS ASSET MANAGEMENT AB",
-  "bic": "JRAMSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jrsassetmanagementab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JRAMSES1XXX"
 }

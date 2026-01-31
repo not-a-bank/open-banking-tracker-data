@@ -8,7 +8,6 @@
   ],
   "name": "SHENZHEN SECURITIES CENTRAL CLEARING",
   "legalName": "SHENZHEN SECURITIES CENTRAL CLEARING",
-  "bic": "SSCCCNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shenzhensecuritiescentralclearing.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSCCCNS1XXX"
 }

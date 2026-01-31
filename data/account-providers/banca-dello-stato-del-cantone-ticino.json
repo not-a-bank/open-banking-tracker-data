@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DELLO STATO DEL CANTONE TICINO",
   "legalName": "BANCA DELLO STATO DEL CANTONE TICINO",
-  "bic": "BSCTCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadellostatodelcantoneticino.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCTCH22XXX"
 }

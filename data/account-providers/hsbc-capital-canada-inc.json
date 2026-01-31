@@ -8,7 +8,6 @@
   ],
   "name": "HSBC CAPITAL (CANADA) INC",
   "legalName": "HSBC CAPITAL (CANADA) INC",
-  "bic": "WRCICA81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbccapitalcanadainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WRCICA81XXX"
 }

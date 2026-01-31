@@ -8,7 +8,6 @@
   ],
   "name": "BROADWAY NATIONAL BANK",
   "legalName": "BROADWAY NATIONAL BANK",
-  "bic": "BNATUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.broadwaynationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNATUS44XXX"
 }

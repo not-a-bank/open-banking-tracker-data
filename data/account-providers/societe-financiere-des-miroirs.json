@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE FINANCIERE DES MIROIRS",
   "legalName": "SOCIETE FINANCIERE DES MIROIRS",
-  "bic": "SOIOFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societefinancieredesmiroirs.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOIOFR21XXX"
 }

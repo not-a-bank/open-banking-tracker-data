@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK OF CEYLON PLC",
   "legalName": "COMMERCIAL BANK OF CEYLON PLC",
-  "bic": "CCEYLKLXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankofceylonplclk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCEYLKLXXXX"
 }

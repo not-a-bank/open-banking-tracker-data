@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA EUROPEAN HIGH YIELD FUND",
   "legalName": "NORDEA EUROPEAN HIGH YIELD FUND",
-  "bic": "NEHYFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaeuropeanhighyieldfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEHYFIH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE DESARROLLO PRODUCTIVO SAM",
   "legalName": "BANCO DE DESARROLLO PRODUCTIVO SAM",
-  "bic": "BDRSBOLPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodedesarrolloproductivosam.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDRSBOLPXXX"
 }

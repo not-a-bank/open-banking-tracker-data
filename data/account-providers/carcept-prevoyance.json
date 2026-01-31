@@ -8,7 +8,6 @@
   ],
   "name": "CARCEPT PREVOYANCE",
   "legalName": "CARCEPT PREVOYANCE",
-  "bic": "CAPYFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.carceptprevoyance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAPYFRP1XXX"
 }

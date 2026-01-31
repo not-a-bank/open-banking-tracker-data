@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE PRIVEE BCP (SUISSE) S.A.",
   "legalName": "BANQUE PRIVEE BCP (SUISSE) S.A.",
-  "bic": "MILBCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepriveebcpsuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MILBCHGGXXX"
 }

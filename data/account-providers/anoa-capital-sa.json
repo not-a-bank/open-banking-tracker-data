@@ -8,7 +8,6 @@
   ],
   "name": "ANOA CAPITAL S.A.",
   "legalName": "ANOA CAPITAL S.A.",
-  "bic": "ANCILUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anoacapitalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANCILUL1XXX"
 }

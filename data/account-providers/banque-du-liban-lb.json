@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DU LIBAN",
   "legalName": "BANQUE DU LIBAN",
-  "bic": "BDLCLBBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedulibanlb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDLCLBBAXXX"
 }

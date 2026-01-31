@@ -8,7 +8,6 @@
   ],
   "name": "S BROKER AG AND CO KG",
   "legalName": "S BROKER AG AND CO KG",
-  "bic": "PULSDE5WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sbrokeragandcokg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PULSDE5WXXX"
 }

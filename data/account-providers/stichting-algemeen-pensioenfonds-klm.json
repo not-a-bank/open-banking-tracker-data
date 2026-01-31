@@ -8,7 +8,6 @@
   ],
   "name": "STICHTING ALGEMEEN PENSIOENFONDS KLM",
   "legalName": "STICHTING ALGEMEEN PENSIOENFONDS KLM",
-  "bic": "SAEKNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stichtingalgemeenpensioenfondsklm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAEKNL21XXX"
 }

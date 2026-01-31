@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA BANK AB SINGAPORE BRANCH",
   "legalName": "NORDEA BANK AB SINGAPORE BRANCH",
-  "bic": "NDEASGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeabankabsingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEASGSGXXX"
 }

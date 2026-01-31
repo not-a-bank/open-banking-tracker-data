@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY NADARZYN",
   "legalName": "BANK SPOLDZIELCZY NADARZYN",
-  "bic": "SPNDPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczynadarzyn.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPNDPLP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Cyprus Stock Exchange",
   "legalName": "CYPRUS STOCK EXCHANGE",
-  "bic": "XCYSCY2NXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XCYSCY2NXXX"
 }

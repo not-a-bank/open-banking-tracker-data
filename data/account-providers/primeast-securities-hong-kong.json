@@ -8,7 +8,6 @@
   ],
   "name": "PRIMEAST SECURITIES HONG KONG",
   "legalName": "PRIMEAST SECURITIES HONG KONG",
-  "bic": "PRIMHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.primeastsecuritieshongkong.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRIMHKH1XXX"
 }

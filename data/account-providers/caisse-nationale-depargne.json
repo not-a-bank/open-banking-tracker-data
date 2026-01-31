@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE NATIONALE D'EPARGNE",
   "legalName": "CAISSE NATIONALE D'EPARGNE",
-  "bic": "NDECSND1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissenationaledepargne.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDECSND1XXX"
 }

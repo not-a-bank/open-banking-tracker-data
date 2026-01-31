@@ -8,7 +8,6 @@
   ],
   "name": "ITAS HOLDING S.R.L.",
   "legalName": "ITAS HOLDING S.R.L.",
-  "bic": "ITHSIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.itasholdingsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITHSIT21XXX"
 }

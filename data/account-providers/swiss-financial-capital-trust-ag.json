@@ -8,7 +8,6 @@
   ],
   "name": "SWISS FINANCIAL CAPITAL TRUST AG",
   "legalName": "SWISS FINANCIAL CAPITAL TRUST AG",
-  "bic": "SFCTCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swissfinancialcapitaltrustag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFCTCHZ1XXX"
 }

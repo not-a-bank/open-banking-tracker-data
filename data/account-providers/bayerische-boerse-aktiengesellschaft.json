@@ -8,7 +8,6 @@
   ],
   "name": "BAYERISCHE BOERSE AKTIENGESELLSCHAFT",
   "legalName": "BAYERISCHE BOERSE AKTIENGESELLSCHAFT",
-  "bic": "XMUNDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bayerischeboerseaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMUNDEM1XXX"
 }

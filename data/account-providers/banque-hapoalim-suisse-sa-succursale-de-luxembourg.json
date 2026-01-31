@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE HAPOALIM (SUISSE) SA SUCCURSALE DE LUXEMBOURG",
   "legalName": "BANQUE HAPOALIM (SUISSE) SA SUCCURSALE DE LUXEMBOURG",
-  "bic": "POALLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquehapoalimsuissesasuccursaledeluxembourg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POALLULLXXX"
 }

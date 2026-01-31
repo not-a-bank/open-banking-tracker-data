@@ -8,7 +8,6 @@
   ],
   "name": "POOL EUROPE EQUITIES STRATEGIES",
   "legalName": "POOL EUROPE EQUITIES STRATEGIES",
-  "bic": "FUDPLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pooleuropeequitiesstrategies.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUDPLUL1XXX"
 }

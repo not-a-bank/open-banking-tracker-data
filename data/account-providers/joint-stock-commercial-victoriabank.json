@@ -8,7 +8,6 @@
   ],
   "name": "JOINT-STOCK COMMERCIAL VICTORIABANK",
   "legalName": "JOINT-STOCK COMMERCIAL VICTORIABANK",
-  "bic": "VICBMD2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jointstockcommercialvictoriabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VICBMD2XXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE EUROPEENNE DU CREDIT MUTUEL",
   "legalName": "BANQUE EUROPEENNE DU CREDIT MUTUEL",
-  "bic": "CMCIDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueeuropeenneducreditmutuelde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMCIDEFFXXX"
 }

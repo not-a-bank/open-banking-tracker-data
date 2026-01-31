@@ -8,7 +8,6 @@
   ],
   "name": "BAUSPARKASSE WUESTENROT AG",
   "legalName": "BAUSPARKASSE WUESTENROT AG",
-  "bic": "WUBUAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bausparkassewuestenrotagat.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WUBUAT21XXX"
 }

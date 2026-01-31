@@ -8,7 +8,6 @@
   ],
   "name": "STATOIL ASA",
   "legalName": "STATOIL ASA",
-  "bic": "SASANO22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statoilasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SASANO22XXX"
 }

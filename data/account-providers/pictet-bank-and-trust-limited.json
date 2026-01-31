@@ -8,7 +8,6 @@
   ],
   "name": "PICTET BANK AND TRUST LIMITED",
   "legalName": "PICTET BANK AND TRUST LIMITED",
-  "bic": "PICTBSNXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pictetbankandtrustlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PICTBSNXXXX"
 }

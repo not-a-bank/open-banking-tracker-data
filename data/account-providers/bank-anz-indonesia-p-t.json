@@ -8,7 +8,6 @@
   ],
   "name": "Bank ANZ Indonesia, P.t.",
   "legalName": "BANK ANZ INDONESIA, P.T.",
-  "bic": "ANZBIDJXXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBIDJXXXX"
 }

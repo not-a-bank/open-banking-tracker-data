@@ -8,7 +8,6 @@
   ],
   "name": "INVESCO GESTION",
   "legalName": "INVESCO GESTION",
-  "bic": "INVZFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invescogestion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INVZFRPPXXX"
 }

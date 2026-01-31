@@ -8,7 +8,6 @@
   ],
   "name": "ALUBAF INTERNATIONAL BANK TUNIS",
   "legalName": "ALUBAF INTERNATIONAL BANK TUNIS",
-  "bic": "ALUBTNTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alubafinternationalbanktunis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALUBTNTTXXX"
 }

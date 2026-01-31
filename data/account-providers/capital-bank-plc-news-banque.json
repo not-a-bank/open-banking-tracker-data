@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL BANK PLC NEWS BANQUE",
   "legalName": "CAPITAL BANK PLC NEWS BANQUE",
-  "bic": "CANWFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalbankplcnewsbanque.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CANWFR21XXX"
 }

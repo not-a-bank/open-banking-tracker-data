@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY CANADA LIMITED",
   "legalName": "MORGAN STANLEY CANADA LIMITED",
-  "bic": "MSCACATXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleycanadalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSCACATXXXX"
 }

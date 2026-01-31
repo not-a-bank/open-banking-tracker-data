@@ -8,7 +8,6 @@
   ],
   "name": "NI PORTFOLJE PBPM BALANCE KL",
   "legalName": "NI PORTFOLJE PBPM BALANCE KL",
-  "bic": "PBPMDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.niportfoljepbpmbalancekl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBPMDKK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK (SCHWEIZ) AG (FORMERLY DEUTSCHE ASSET MANAGEMENT SCHWEIZ)",
   "legalName": "DEUTSCHE BANK (SCHWEIZ) AG (FORMERLY DEUTSCHE ASSET MANAGEMENT SCHWEIZ)",
-  "bic": "DEAMCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankschweizagformerlydeutscheassetm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEAMCHZZXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TRAFINA PRIVATBANK AG",
   "legalName": "TRAFINA PRIVATBANK AG",
-  "bic": "TRAPCHBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trafinaprivatbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRAPCHBBXXX"
 }

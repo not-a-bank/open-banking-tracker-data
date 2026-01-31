@@ -8,7 +8,6 @@
   ],
   "name": "MAEDA SECURITIES LTD.",
   "legalName": "MAEDA SECURITIES LTD.",
-  "bic": "MAESJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maedasecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAESJPJ1XXX"
 }

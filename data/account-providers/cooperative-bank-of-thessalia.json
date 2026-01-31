@@ -8,7 +8,6 @@
   ],
   "name": "COOPERATIVE BANK OF THESSALIA",
   "legalName": "COOPERATIVE BANK OF THESSALIA",
-  "bic": "STTKGR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cooperativebankofthessalia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STTKGR21XXX"
 }

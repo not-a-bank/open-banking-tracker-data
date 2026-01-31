@@ -8,7 +8,6 @@
   ],
   "name": "OTKRITIE BROKER LTD",
   "legalName": "OTKRITIE BROKER LTD",
-  "bic": "OTBRCY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.otkritiebrokerltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OTBRCY21XXX"
 }

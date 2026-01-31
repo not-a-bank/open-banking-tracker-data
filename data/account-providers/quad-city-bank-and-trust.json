@@ -8,7 +8,6 @@
   ],
   "name": "QUAD CITY BANK AND TRUST",
   "legalName": "QUAD CITY BANK AND TRUST",
-  "bic": "QUCTUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.quadcitybankandtrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QUCTUS41XXX"
 }

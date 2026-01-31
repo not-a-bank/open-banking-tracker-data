@@ -8,7 +8,6 @@
   ],
   "name": "FUND-MARKET FRANCE SAS",
   "legalName": "FUND-MARKET FRANCE SAS",
-  "bic": "FUMFFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fundmarketfrancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUMFFR21XXX"
 }

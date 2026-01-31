@@ -8,7 +8,6 @@
   ],
   "name": "DUNOVA KAPITALFORVALTNING AB",
   "legalName": "DUNOVA KAPITALFORVALTNING AB",
-  "bic": "DUKASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dunovakapitalforvaltningab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DUKASES1XXX"
 }

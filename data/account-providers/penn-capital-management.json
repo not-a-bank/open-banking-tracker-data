@@ -8,7 +8,6 @@
   ],
   "name": "PENN CAPITAL MANAGEMENT",
   "legalName": "PENN CAPITAL MANAGEMENT",
-  "bic": "PECNUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.penncapitalmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PECNUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PICTET-ASIAN LOCAL CURRENCY DEBT",
   "legalName": "PICTET-ASIAN LOCAL CURRENCY DEBT",
-  "bic": "FUAMLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pictetasianlocalcurrencydebt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUAMLUL1XXX"
 }

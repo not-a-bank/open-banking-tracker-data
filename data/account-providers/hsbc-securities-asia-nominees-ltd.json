@@ -8,7 +8,6 @@
   ],
   "name": "HSBC SECURITIES ASIA NOMINEES LTD",
   "legalName": "HSBC SECURITIES ASIA NOMINEES LTD",
-  "bic": "HSAOHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcsecuritiesasianomineesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSAOHKH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DTZ FINANCIAL SERVICES LIMITED",
   "legalName": "DTZ FINANCIAL SERVICES LIMITED",
-  "bic": "DTFSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dtzfinancialserviceslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DTFSGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ITAU UNIBANCO S.A NEW YORK BRANCH",
   "legalName": "ITAU UNIBANCO S.A NEW YORK BRANCH",
-  "bic": "ITAUUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.itauunibancosanewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITAUUS33XXX"
 }

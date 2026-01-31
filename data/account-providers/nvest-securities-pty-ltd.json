@@ -8,7 +8,6 @@
   ],
   "name": "NVEST SECURITIES (PTY) LTD",
   "legalName": "NVEST SECURITIES (PTY) LTD",
-  "bic": "NVSEZAJCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nvestsecuritiesptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NVSEZAJCXXX"
 }

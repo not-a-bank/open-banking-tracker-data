@@ -8,7 +8,6 @@
   ],
   "name": "PT BANK SYARIAH MANDIRI",
   "legalName": "PT BANK SYARIAH MANDIRI",
-  "bic": "BSMDIDJAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbanksyariahmandiri.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSMDIDJAXXX"
 }

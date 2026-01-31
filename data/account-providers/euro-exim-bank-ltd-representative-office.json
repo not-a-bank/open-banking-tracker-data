@@ -8,7 +8,6 @@
   ],
   "name": "EURO EXIM BANK LTD (REPRESENTATIVE OFFICE)",
   "legalName": "EURO EXIM BANK LTD (REPRESENTATIVE OFFICE)",
-  "bic": "EUEIGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euroeximbankltdrepresentativeoffice.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUEIGB22XXX"
 }

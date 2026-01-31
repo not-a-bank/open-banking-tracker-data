@@ -8,7 +8,6 @@
   ],
   "name": "TOYOTA KREDITBANK GMBH",
   "legalName": "TOYOTA KREDITBANK GMBH",
-  "bic": "TFSEDE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.toyotakreditbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFSEDE31XXX"
 }

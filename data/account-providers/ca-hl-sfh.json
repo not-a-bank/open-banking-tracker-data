@@ -8,7 +8,6 @@
   ],
   "name": "CA HL SFH",
   "legalName": "CA HL SFH",
-  "bic": "AGRIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cahlsfh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRIFRP1XXX"
 }

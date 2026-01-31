@@ -8,7 +8,6 @@
   ],
   "name": "TURTLE TRADING B.V.",
   "legalName": "TURTLE TRADING B.V.",
-  "bic": "TURTNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.turtletradingbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TURTNL21XXX"
 }

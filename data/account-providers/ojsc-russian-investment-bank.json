@@ -8,7 +8,6 @@
   ],
   "name": "OJSC RUSSIAN INVESTMENT BANK",
   "legalName": "OJSC RUSSIAN INVESTMENT BANK",
-  "bic": "RINBKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ojscrussianinvestmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RINBKG22XXX"
 }

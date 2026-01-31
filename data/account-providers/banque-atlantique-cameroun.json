@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE ATLANTIQUE CAMEROUN",
   "legalName": "BANQUE ATLANTIQUE CAMEROUN",
-  "bic": "ATCRCMCMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueatlantiquecameroun.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATCRCMCMXXX"
 }

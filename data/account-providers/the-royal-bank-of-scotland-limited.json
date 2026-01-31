@@ -8,7 +8,6 @@
   ],
   "name": "THE ROYAL BANK OF SCOTLAND LIMITED",
   "legalName": "THE ROYAL BANK OF SCOTLAND LIMITED",
-  "bic": "ABNAPKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theroyalbankofscotlandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABNAPKK1XXX"
 }

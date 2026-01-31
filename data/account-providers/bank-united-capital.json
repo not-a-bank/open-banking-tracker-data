@@ -8,7 +8,6 @@
   ],
   "name": "BANK UNITED CAPITAL",
   "legalName": "BANK UNITED CAPITAL",
-  "bic": "UNCLRU2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankunitedcapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNCLRU2PXXX"
 }

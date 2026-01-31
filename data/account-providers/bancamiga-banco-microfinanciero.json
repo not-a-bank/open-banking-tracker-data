@@ -8,7 +8,6 @@
   ],
   "name": "BANCAMIGA BANCO MICROFINANCIERO",
   "legalName": "BANCAMIGA BANCO MICROFINANCIERO",
-  "bic": "BMIGVECAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancamigabancomicrofinanciero.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMIGVECAXXX"
 }

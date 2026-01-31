@@ -8,7 +8,6 @@
   ],
   "name": "DEPOSITARIO CENTRAL DE VALORES",
   "legalName": "DEPOSITARIO CENTRAL DE VALORES",
-  "bic": "DECVUYM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.depositariocentraldevalores.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DECVUYM1XXX"
 }

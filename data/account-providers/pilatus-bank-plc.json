@@ -8,7 +8,6 @@
   ],
   "name": "PILATUS BANK PLC",
   "legalName": "PILATUS BANK PLC",
-  "bic": "PLTSMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pilatusbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLTSMTMTXXX"
 }

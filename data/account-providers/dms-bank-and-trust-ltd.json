@@ -8,7 +8,6 @@
   ],
   "name": "DMS BANK AND TRUST LTD",
   "legalName": "DMS BANK AND TRUST LTD",
-  "bic": "CAYIKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dmsbankandtrustltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAYIKYKYXXX"
 }

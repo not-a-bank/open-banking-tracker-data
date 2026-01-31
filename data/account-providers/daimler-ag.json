@@ -8,7 +8,6 @@
   ],
   "name": "DAIMLER AG",
   "legalName": "DAIMLER AG",
-  "bic": "DCAGDE6SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daimlerag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCAGDE6SXXX"
 }

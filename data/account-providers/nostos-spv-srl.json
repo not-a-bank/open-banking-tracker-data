@@ -8,7 +8,6 @@
   ],
   "name": "NOSTOS SPV SRL",
   "legalName": "NOSTOS SPV SRL",
-  "bic": "NSSSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nostosspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSSSITM1XXX"
 }

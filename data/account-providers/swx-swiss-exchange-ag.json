@@ -8,7 +8,6 @@
   ],
   "name": "SWX SWISS EXCHANGE AG",
   "legalName": "SWX SWISS EXCHANGE AG",
-  "bic": "XSWXCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swxswissexchangeag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSWXCHZ1XXX"
 }

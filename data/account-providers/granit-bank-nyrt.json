@@ -8,7 +8,6 @@
   ],
   "name": "Granit Bank Nyrt.",
   "legalName": "GRANIT BANK NYRT.",
-  "bic": "GNBAHUHBXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GNBAHUHBXXX"
 }

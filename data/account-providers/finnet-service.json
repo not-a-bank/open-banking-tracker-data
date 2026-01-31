@@ -8,7 +8,6 @@
   ],
   "name": "FINNET-SERVICE",
   "legalName": "FINNET-SERVICE",
-  "bic": "FIEVRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finnetservice.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIEVRUM1XXX"
 }

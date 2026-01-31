@@ -8,7 +8,6 @@
   ],
   "name": "COMPTOIR D'AGENTS DE CHANGE DU BENELUX S.A.",
   "legalName": "COMPTOIR D'AGENTS DE CHANGE DU BENELUX S.A.",
-  "bic": "CDCBLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.comptoirdagentsdechangedubeneluxsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDCBLUL1XXX"
 }

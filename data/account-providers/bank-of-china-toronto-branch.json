@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China Toronto Branch",
   "legalName": "BANK OF CHINA TORONTO BRANCH",
-  "bic": "BKCHCAT2XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHCAT2XXX"
 }

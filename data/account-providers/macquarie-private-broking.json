@@ -8,7 +8,6 @@
   ],
   "name": "MACQUARIE - PRIVATE BROKING",
   "legalName": "MACQUARIE - PRIVATE BROKING",
-  "bic": "MAPBAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macquarieprivatebroking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAPBAU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE FINANZAS, S.A.(BDF)",
   "legalName": "BANCO DE FINANZAS, S.A.(BDF)",
-  "bic": "BBDFNIMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodefinanzassabdf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBDFNIMAXXX"
 }

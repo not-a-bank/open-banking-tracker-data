@@ -8,7 +8,6 @@
   ],
   "name": "OCTOPUS ASSET MANAGEMENT LTD",
   "legalName": "OCTOPUS ASSET MANAGEMENT LTD",
-  "bic": "OCAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.octopusassetmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OCAMGB21XXX"
 }

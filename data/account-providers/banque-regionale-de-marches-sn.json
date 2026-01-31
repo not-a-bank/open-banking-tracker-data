@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE REGIONALE DE MARCHES",
   "legalName": "BANQUE REGIONALE DE MARCHES",
-  "bic": "BRMXSNDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueregionaledemarchessn.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRMXSNDAXXX"
 }

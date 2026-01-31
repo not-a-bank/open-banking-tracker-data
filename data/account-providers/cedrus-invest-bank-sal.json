@@ -8,7 +8,6 @@
   ],
   "name": "CEDRUS INVEST BANK S.A.L",
   "legalName": "CEDRUS INVEST BANK S.A.L",
-  "bic": "CIBXLBB2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cedrusinvestbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIBXLBB2XXX"
 }

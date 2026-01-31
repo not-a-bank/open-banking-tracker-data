@@ -8,7 +8,6 @@
   ],
   "name": "TICKMAKER LTD",
   "legalName": "TICKMAKER LTD",
-  "bic": "TICKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tickmakerltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TICKGB21XXX"
 }

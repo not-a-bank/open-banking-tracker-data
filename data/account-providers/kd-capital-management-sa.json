@@ -8,7 +8,6 @@
   ],
   "name": "KD CAPITAL MANAGEMENT S.A.",
   "legalName": "KD CAPITAL MANAGEMENT S.A.",
-  "bic": "CPMAROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kdcapitalmanagementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPMAROB1XXX"
 }

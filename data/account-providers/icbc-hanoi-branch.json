@@ -8,7 +8,6 @@
   ],
   "name": "ICBC HANOI BRANCH",
   "legalName": "ICBC HANOI BRANCH",
-  "bic": "ICBKVNVNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icbchanoibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICBKVNVNXXX"
 }

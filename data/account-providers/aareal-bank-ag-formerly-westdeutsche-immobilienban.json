@@ -8,7 +8,6 @@
   ],
   "name": "Aareal Bank AG (formerly Westdeutsche Immobilienbank AG)",
   "legalName": "AAREAL BANK AG (FORMERLY WESTDEUTSCHE IMMOBILIENBANK AG)",
-  "bic": "IMMODE5MXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMMODE5MXXX"
 }

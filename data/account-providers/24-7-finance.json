@@ -8,7 +8,6 @@
   ],
   "name": "24-7 FINANCE",
   "legalName": "24-7 FINANCE",
-  "bic": "FNEEIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.247finance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNEEIT21XXX"
 }

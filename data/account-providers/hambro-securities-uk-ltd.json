@@ -8,7 +8,6 @@
   ],
   "name": "HAMBRO SECURITIES (UK) LTD",
   "legalName": "HAMBRO SECURITIES (UK) LTD",
-  "bic": "HAMUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hambrosecuritiesukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAMUGB21XXX"
 }

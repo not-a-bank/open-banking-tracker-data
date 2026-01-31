@@ -8,7 +8,6 @@
   ],
   "name": "OVERSEAS CLEARING CORPORATION",
   "legalName": "OVERSEAS CLEARING CORPORATION",
-  "bic": "OVCCPAP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.overseasclearingcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OVCCPAP1XXX"
 }

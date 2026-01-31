@@ -8,7 +8,6 @@
   ],
   "name": "HANSEATIC BANK GMBH AND CO KG",
   "legalName": "HANSEATIC BANK GMBH AND CO KG",
-  "bic": "HSTBDEHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hanseaticbankgmbhandcokg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSTBDEHHXXX"
 }

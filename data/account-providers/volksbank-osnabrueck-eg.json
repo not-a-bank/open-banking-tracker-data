@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK OSNABRUECK EG",
   "legalName": "VOLKSBANK OSNABRUECK EG",
-  "bic": "VOONDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankosnabrueckeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOONDE21XXX"
 }

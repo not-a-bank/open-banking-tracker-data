@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF America, N.a. Jakarta Branch",
   "legalName": "BANK OF AMERICA, N.A. JAKARTA BRANCH",
-  "bic": "BOFAID2XGRC",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAID2XGRC"
 }

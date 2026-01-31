@@ -8,7 +8,6 @@
   ],
   "name": "BARBERA FINANCE SRL",
   "legalName": "BARBERA FINANCE SRL",
-  "bic": "BRFLITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barberafinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRFLITR1XXX"
 }

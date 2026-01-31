@@ -8,7 +8,6 @@
   ],
   "name": "MARITIME BANK BRANCH OF KALININGRAD",
   "legalName": "MARITIME BANK BRANCH OF KALININGRAD",
-  "bic": "MABLRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maritimebankbranchofkaliningrad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MABLRU21XXX"
 }

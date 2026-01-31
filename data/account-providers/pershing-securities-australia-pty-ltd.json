@@ -8,7 +8,6 @@
   ],
   "name": "PERSHING SECURITIES AUSTRALIA PTY LTD",
   "legalName": "PERSHING SECURITIES AUSTRALIA PTY LTD",
-  "bic": "PFSAAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pershingsecuritiesaustraliaptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PFSAAU21XXX"
 }

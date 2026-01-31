@@ -8,7 +8,6 @@
   ],
   "name": "IPI SPA",
   "legalName": "IPI SPA",
-  "bic": "IPIIITT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ipispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IPIIITT1XXX"
 }

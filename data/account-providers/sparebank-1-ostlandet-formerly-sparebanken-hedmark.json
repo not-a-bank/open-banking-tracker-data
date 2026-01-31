@@ -8,7 +8,6 @@
   ],
   "name": "SPAREBANK 1 OSTLANDET (FORMERLY SPAREBANKEN HEDMARK)",
   "legalName": "SPAREBANK 1 OSTLANDET (FORMERLY SPAREBANKEN HEDMARK)",
-  "bic": "SHEDNO22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebank1ostlandetformerlysparebankenhedmark.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHEDNO22XXX"
 }

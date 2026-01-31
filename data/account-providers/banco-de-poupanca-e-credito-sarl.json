@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE POUPANCA E CREDITO SARL",
   "legalName": "BANCO DE POUPANCA E CREDITO SARL",
-  "bic": "CGDIAOL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodepoupancaecreditosarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGDIAOL1XXX"
 }

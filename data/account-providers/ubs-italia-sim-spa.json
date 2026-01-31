@@ -8,7 +8,6 @@
   ],
   "name": "UBS ITALIA SIM SPA",
   "legalName": "UBS ITALIA SIM SPA",
-  "bic": "GIWAITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsitaliasimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIWAITM1XXX"
 }

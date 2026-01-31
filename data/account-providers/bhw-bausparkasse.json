@@ -8,7 +8,6 @@
   ],
   "name": "BHW BAUSPARKASSE",
   "legalName": "BHW BAUSPARKASSE",
-  "bic": "BHWBDE2HXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bhwbausparkasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHWBDE2HXXX"
 }

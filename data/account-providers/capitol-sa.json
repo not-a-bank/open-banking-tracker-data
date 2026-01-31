@@ -8,7 +8,6 @@
   ],
   "name": "CAPITOL S.A.",
   "legalName": "CAPITOL S.A.",
-  "bic": "CATLROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CATLROB1XXX"
 }

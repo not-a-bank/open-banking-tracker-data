@@ -8,7 +8,6 @@
   ],
   "name": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
   "legalName": "HSBC SECURITIES (SOUTH AFRICA) (PTY) LTD",
-  "bic": "SMJCZAJCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcsecuritiessouthafricaptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMJCZAJCXXX"
 }

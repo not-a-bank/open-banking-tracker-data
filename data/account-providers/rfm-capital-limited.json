@@ -8,7 +8,6 @@
   ],
   "name": "RFM CAPITAL LIMITED",
   "legalName": "RFM CAPITAL LIMITED",
-  "bic": "RFCAPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rfmcapitallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RFCAPHM1XXX"
 }

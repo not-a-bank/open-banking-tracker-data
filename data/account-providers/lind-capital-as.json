@@ -8,7 +8,6 @@
   ],
   "name": "LIND CAPITAL A/S",
   "legalName": "LIND CAPITAL A/S",
-  "bic": "LCAIDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lindcapitalas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LCAIDK21XXX"
 }

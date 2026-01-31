@@ -8,7 +8,6 @@
   ],
   "name": "BANK FUER TIROL UND VORARLBERG AKTIENGESELLSCHAFT, ZWEIGNIEDERLASSUNG DEUTSCHLAND",
   "legalName": "BANK FUER TIROL UND VORARLBERG AKTIENGESELLSCHAFT, ZWEIGNIEDERLASSUNG DEUTSCHLAND",
-  "bic": "BTVADE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankfuertirolundvorarlbergaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTVADE61XXX"
 }

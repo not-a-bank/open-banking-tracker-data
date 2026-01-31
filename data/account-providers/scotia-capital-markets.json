@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIA CAPITAL MARKETS",
   "legalName": "SCOTIA CAPITAL MARKETS",
-  "bic": "SCMCJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiacapitalmarkets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCMCJPJ1XXX"
 }

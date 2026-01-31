@@ -8,7 +8,6 @@
   ],
   "name": "THE ICELANDIC SECURITIES DEPOSITORY LTD.",
   "legalName": "THE ICELANDIC SECURITIES DEPOSITORY LTD.",
-  "bic": "ICSDISR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theicelandicsecuritiesdepositoryltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICSDISR1XXX"
 }

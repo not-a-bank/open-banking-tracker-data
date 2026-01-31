@@ -8,7 +8,6 @@
   ],
   "name": "GLITNIR BANK",
   "legalName": "GLITNIR BANK",
-  "bic": "ISBADKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.glitnirbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISBADKK1XXX"
 }

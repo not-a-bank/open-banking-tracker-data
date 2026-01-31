@@ -8,7 +8,6 @@
   ],
   "name": "STS FINANCE SC",
   "legalName": "STS FINANCE SC",
-  "bic": "STSFBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stsfinancesc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STSFBGS1XXX"
 }

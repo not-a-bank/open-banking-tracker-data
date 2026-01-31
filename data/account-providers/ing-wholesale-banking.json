@@ -1,0 +1,47 @@
+{
+  "id": "ing-wholesale-banking",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "ING Wholesale Banking",
+  "legalName": "ING Wholesale Banking",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.ing-wholesale-banking.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "NL",
+  "countries": [
+    "NL",
+    "AT",
+    "BE",
+    "BG",
+    "CZ",
+    "FR",
+    "DE",
+    "HU",
+    "IE",
+    "IT",
+    "LU",
+    "PT",
+    "RO",
+    "SK",
+    "ES",
+    "GB"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "INGBNL2AXXX"
+}

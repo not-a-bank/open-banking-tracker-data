@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SECURITIES INDIA PRIVATE LIMITED 1 BNP PARIBAS HOUSE, MAKER MAXITY",
   "legalName": "BNP PARIBAS SECURITIES INDIA PRIVATE LIMITED 1 BNP PARIBAS HOUSE, MAKER MAXITY",
-  "bic": "BPSDINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassecuritiesindiaprivatelimited1bnp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPSDINB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN PLC, (FORMERLY CHASE MANHATTAN PLC) LONDON",
   "legalName": "J.P. MORGAN PLC, (FORMERLY CHASE MANHATTAN PLC) LONDON",
-  "bic": "CHIVGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganplcformerlychasemanhattanplclondon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHIVGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CONISTER BANK LIMITED",
   "legalName": "CONISTER BANK LIMITED",
-  "bic": "CNNIIMD2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.conisterbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNNIIMD2XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "LJUBLJANA STOCK EXCHANGE",
   "legalName": "LJUBLJANA STOCK EXCHANGE",
-  "bic": "XLJUSI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ljubljanastockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XLJUSI21XXX"
 }

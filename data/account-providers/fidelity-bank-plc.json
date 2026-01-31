@@ -8,7 +8,6 @@
   ],
   "name": "FIDELITY BANK PLC",
   "legalName": "FIDELITY BANK PLC",
-  "bic": "FIDTNGLAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidelitybankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIDTNGLAXXX"
 }

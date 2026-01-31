@@ -8,7 +8,6 @@
   ],
   "name": "UBS CARD CENTER AG",
   "legalName": "UBS CARD CENTER AG",
-  "bic": "UBCCCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubscardcenteragch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBCCCHZZXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA NORTH AMERICA FUND",
   "legalName": "NORDEA NORTH AMERICA FUND",
-  "bic": "NNAFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeanorthamericafund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NNAFFIH1XXX"
 }

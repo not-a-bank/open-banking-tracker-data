@@ -8,7 +8,6 @@
   ],
   "name": "S-BANK LTD (FORMERLY FIM INVESTMENT SERVICES LTD)",
   "legalName": "S-BANK LTD (FORMERLY FIM INVESTMENT SERVICES LTD)",
-  "bic": "FISEFIHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sbankltdformerlyfiminvestmentservicesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FISEFIHHXXX"
 }

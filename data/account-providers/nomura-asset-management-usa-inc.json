@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA ASSET MANAGEMENT USA, INC.",
   "legalName": "NOMURA ASSET MANAGEMENT USA, INC.",
-  "bic": "NAMUUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomuraassetmanagementusainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAMUUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BOHUSLAV BANK",
   "legalName": "BOHUSLAV BANK",
-  "bic": "BOHUUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bohuslavbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOHUUAUKXXX"
 }

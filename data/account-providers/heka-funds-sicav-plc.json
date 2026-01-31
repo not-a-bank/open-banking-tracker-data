@@ -8,7 +8,6 @@
   ],
   "name": "HEKA FUNDS SICAV PLC",
   "legalName": "HEKA FUNDS SICAV PLC",
-  "bic": "HFSIMTM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hekafundssicavplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HFSIMTM1XXX"
 }

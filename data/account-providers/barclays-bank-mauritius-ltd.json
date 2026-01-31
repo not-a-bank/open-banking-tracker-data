@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS BANK MAURITIUS LTD",
   "legalName": "BARCLAYS BANK MAURITIUS LTD",
-  "bic": "BARCMUMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysbankmauritiusltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCMUMUXXX"
 }

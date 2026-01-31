@@ -8,7 +8,6 @@
   ],
   "name": "TESZT BROKER",
   "legalName": "TESZT BROKER",
-  "bic": "TEBRHUH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tesztbroker.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEBRHUH1XXX"
 }

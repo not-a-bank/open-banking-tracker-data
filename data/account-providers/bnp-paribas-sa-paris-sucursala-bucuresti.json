@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS S.A. PARIS SUCURSALA BUCURESTI",
   "legalName": "BNP PARIBAS S.A. PARIS SUCURSALA BUCURESTI",
-  "bic": "FTSBROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassaparissucursalabucuresti.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTSBROBUXXX"
 }

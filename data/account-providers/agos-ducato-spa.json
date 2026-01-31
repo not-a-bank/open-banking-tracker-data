@@ -8,7 +8,6 @@
   ],
   "name": "AGOS-DUCATO SPA",
   "legalName": "AGOS-DUCATO SPA",
-  "bic": "AGOUITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agosducatospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGOUITM1XXX"
 }

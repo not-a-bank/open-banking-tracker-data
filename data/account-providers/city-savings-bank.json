@@ -8,7 +8,6 @@
   ],
   "name": "CITY SAVINGS BANK",
   "legalName": "CITY SAVINGS BANK",
-  "bic": "CIVAPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citysavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIVAPHM1XXX"
 }

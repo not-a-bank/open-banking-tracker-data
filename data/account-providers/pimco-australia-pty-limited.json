@@ -8,7 +8,6 @@
   ],
   "name": "PIMCO AUSTRALIA PTY LIMITED",
   "legalName": "PIMCO AUSTRALIA PTY LIMITED",
-  "bic": "PIMAAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pimcoaustraliaptylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PIMAAU21XXX"
 }

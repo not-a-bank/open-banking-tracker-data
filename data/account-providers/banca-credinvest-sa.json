@@ -8,7 +8,6 @@
   ],
   "name": "BANCA CREDINVEST SA",
   "legalName": "BANCA CREDINVEST SA",
-  "bic": "BCRECH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancacredinvestsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCRECH22XXX"
 }

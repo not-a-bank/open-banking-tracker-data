@@ -8,7 +8,6 @@
   ],
   "name": "SOUTHERN COMMERCIAL BANK NV",
   "legalName": "SOUTHERN COMMERCIAL BANK NV",
-  "bic": "SOUOSRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southerncommercialbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOUOSRPPXXX"
 }

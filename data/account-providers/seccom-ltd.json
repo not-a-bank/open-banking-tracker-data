@@ -8,7 +8,6 @@
   ],
   "name": "SECCOM LTD",
   "legalName": "SECCOM LTD",
-  "bic": "SECMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.seccomltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SECMGB21XXX"
 }

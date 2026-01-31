@@ -8,7 +8,6 @@
   ],
   "name": "GMAC BANK GMBH",
   "legalName": "GMAC BANK GMBH",
-  "bic": "OPELGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gmacbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPELGRA1XXX"
 }

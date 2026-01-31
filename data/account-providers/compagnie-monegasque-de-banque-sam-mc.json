@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIE MONEGASQUE DE BANQUE SAM",
   "legalName": "COMPAGNIE MONEGASQUE DE BANQUE SAM",
-  "bic": "CMBMMCMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniemonegasquedebanquesammc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMBMMCMAXXX"
 }

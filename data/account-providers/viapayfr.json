@@ -8,7 +8,6 @@
   ],
   "name": "VIAPAY.FR",
   "legalName": "VIAPAY.FR",
-  "bic": "VIAPFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.viapayfr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIAPFR21XXX"
 }

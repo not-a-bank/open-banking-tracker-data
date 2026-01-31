@@ -8,7 +8,6 @@
   ],
   "name": "NORDPAY FINANCIAL LIMITED",
   "legalName": "NORDPAY FINANCIAL LIMITED",
-  "bic": "NOICGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordpayfinanciallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOICGB21XXX"
 }

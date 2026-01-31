@@ -8,7 +8,6 @@
   ],
   "name": "GLOBAL EXCHANGE TRADING SERVICES BV",
   "legalName": "GLOBAL EXCHANGE TRADING SERVICES BV",
-  "bic": "GETSNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globalexchangetradingservicesbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GETSNL21XXX"
 }

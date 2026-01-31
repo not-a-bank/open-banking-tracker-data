@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF SYRIA",
   "legalName": "CENTRAL BANK OF SYRIA",
-  "bic": "CBSYSYDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankofsyria.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBSYSYDAXXX"
 }

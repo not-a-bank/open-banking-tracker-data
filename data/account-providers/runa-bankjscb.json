@@ -8,7 +8,6 @@
   ],
   "name": "RUNA BANK,JSCB",
   "legalName": "RUNA BANK,JSCB",
-  "bic": "PYHARUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.runabankjscb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PYHARUMMXXX"
 }

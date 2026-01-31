@@ -8,7 +8,6 @@
   ],
   "name": "LUMINOR BANK AB (FORMER NORDEA BANK AB LITHUANIA)",
   "legalName": "LUMINOR BANK AB (FORMER NORDEA BANK AB LITHUANIA)",
-  "bic": "NDEALT2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.luminorbankabformernordeabankablithuania.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEALT2XXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ASB CAPITAL MANAGEMENT",
   "legalName": "ASB CAPITAL MANAGEMENT",
-  "bic": "ASCGUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asbcapitalmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASCGUS31XXX"
 }

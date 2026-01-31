@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY SECURITIES LIMITED",
   "legalName": "MORGAN STANLEY SECURITIES LIMITED",
-  "bic": "MSSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleysecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSSEGB21XXX"
 }

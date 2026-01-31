@@ -8,7 +8,6 @@
   ],
   "name": "BUSINESS MOSCOW, JOINT STOCK BANK",
   "legalName": "BUSINESS MOSCOW, JOINT STOCK BANK",
-  "bic": "BMJSRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.businessmoscowjointstockbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMJSRUM1XXX"
 }

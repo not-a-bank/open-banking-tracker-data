@@ -8,7 +8,6 @@
   ],
   "name": "ICAP DEUTSCHLAND GMBH",
   "legalName": "ICAP DEUTSCHLAND GMBH",
-  "bic": "IDEGDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icapdeutschlandgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IDEGDEF1XXX"
 }

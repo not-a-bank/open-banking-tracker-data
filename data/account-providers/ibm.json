@@ -8,7 +8,6 @@
   ],
   "name": "IBM",
   "legalName": "IBM",
-  "bic": "IBMTTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ibm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBMTTWT1XXX"
 }

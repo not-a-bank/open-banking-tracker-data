@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole du Finist\u00e8re",
-  "legalName": "Cr\u00e9dit Agricole du Finist\u00e8re",
+  "name": "Crédit Agricole du Finistère",
+  "legalName": "Crédit Agricole du Finistère",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-du-finistere.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

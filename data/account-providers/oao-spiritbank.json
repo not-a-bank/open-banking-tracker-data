@@ -8,7 +8,6 @@
   ],
   "name": "OAO SPIRITBANK",
   "legalName": "OAO SPIRITBANK",
-  "bic": "SPOJRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oaospiritbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPOJRU21XXX"
 }

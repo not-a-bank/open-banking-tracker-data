@@ -8,7 +8,6 @@
   ],
   "name": "WUHAN RURAL COMMERCIAL BANK",
   "legalName": "WUHAN RURAL COMMERCIAL BANK",
-  "bic": "WRCCCNBNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wuhanruralcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WRCCCNBNXXX"
 }

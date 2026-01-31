@@ -8,7 +8,6 @@
   ],
   "name": "CITIGROUP FINANCIAL PRODUCTS INC.",
   "legalName": "CITIGROUP FINANCIAL PRODUCTS INC.",
-  "bic": "SBHDUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citigroupfinancialproductsinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBHDUS33XXX"
 }

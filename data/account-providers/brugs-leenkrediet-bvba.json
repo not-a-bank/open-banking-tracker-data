@@ -8,7 +8,6 @@
   ],
   "name": "BRUGS LEENKREDIET BVBA",
   "legalName": "BRUGS LEENKREDIET BVBA",
-  "bic": "BRLEBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brugsleenkredietbvba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRLEBEB1XXX"
 }

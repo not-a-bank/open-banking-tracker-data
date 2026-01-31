@@ -8,7 +8,6 @@
   ],
   "name": "Carlsberg Breweries A/S",
   "legalName": "CARLSBERG BREWERIES A/S",
-  "bic": "CARWDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CARWDKK1XXX"
 }

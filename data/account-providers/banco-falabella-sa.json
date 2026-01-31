@@ -8,7 +8,6 @@
   ],
   "name": "Banco Falabella SA",
   "legalName": "BANCO FALABELLA SA",
-  "bic": "FALACOBTXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FALACOBTXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DUNDEE SECURITIES EUROPE LIMITED",
   "legalName": "DUNDEE SECURITIES EUROPE LIMITED",
-  "bic": "DUSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dundeesecuritieseuropelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DUSEGB21XXX"
 }

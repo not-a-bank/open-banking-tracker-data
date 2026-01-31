@@ -8,7 +8,6 @@
   ],
   "name": "BLUESTEP FINANS AB",
   "legalName": "BLUESTEP FINANS AB",
-  "bic": "BSTPSESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bluestepfinansab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSTPSESSXXX"
 }

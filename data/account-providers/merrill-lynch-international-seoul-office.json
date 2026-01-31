@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH INTERNATIONAL, SEOUL OFFICE",
   "legalName": "MERRILL LYNCH INTERNATIONAL, SEOUL OFFICE",
-  "bic": "MLKRKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchinternationalseouloffice.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLKRKRS1XXX"
 }

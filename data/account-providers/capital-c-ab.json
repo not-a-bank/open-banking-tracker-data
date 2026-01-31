@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL C AB",
   "legalName": "CAPITAL C AB",
-  "bic": "CPTLSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalcab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPTLSES1XXX"
 }

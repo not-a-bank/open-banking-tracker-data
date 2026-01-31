@@ -8,7 +8,6 @@
   ],
   "name": "WAKO BANK (SWITZERLAND) LTD.",
   "legalName": "WAKO BANK (SWITZERLAND) LTD.",
-  "bic": "WASCCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wakobankswitzerlandltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WASCCHZ1XXX"
 }

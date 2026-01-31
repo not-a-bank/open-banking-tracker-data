@@ -8,7 +8,6 @@
   ],
   "name": "HSB BANK AB (PUBL)",
   "legalName": "HSB BANK AB (PUBL)",
-  "bic": "HSBBSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbbankabpubl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSBBSES1XXX"
 }

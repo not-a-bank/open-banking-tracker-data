@@ -1,0 +1,32 @@
+{
+  "id": "asn-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "ASN Bank",
+  "legalName": "ASN Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.asn-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "NL",
+  "countries": [
+    "NL"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "ASNBNL21"
+}

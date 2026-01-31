@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS INTERNATIONAL INVESTMENTS (MALTA) LIMITED",
   "legalName": "BARCLAYS INTERNATIONAL INVESTMENTS (MALTA) LIMITED",
-  "bic": "BARCMTM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysinternationalinvestmentsmaltalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCMTM1XXX"
 }

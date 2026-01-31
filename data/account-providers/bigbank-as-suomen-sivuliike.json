@@ -8,7 +8,6 @@
   ],
   "name": "BIGBANK AS SUOMEN SIVULIIKE",
   "legalName": "BIGBANK AS SUOMEN SIVULIIKE",
-  "bic": "BISKFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bigbankassuomensivuliike.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BISKFIH1XXX"
 }

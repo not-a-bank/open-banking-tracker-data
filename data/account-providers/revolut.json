@@ -115,6 +115,7 @@
     "enablebanking",
     "fintecture",
     "friendlyscore",
+    "gocardless",
     "ibanity",
     "moneyhub-enterprise",
     "neonomics",
@@ -281,8 +282,8 @@
       "name": "Paxos",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1594901058/icons/paxos.jpg",
       "websiteUrl": "https://www.paxos.com/",
-      "title": "Revolut partners with Paxos to bring cryptocurrency trading to the US \u2013 TechCrunch",
-      "description": "Neobank Revolut launched in the U.S. a couple of months ago. The startup is slowly catching up with features that are available in the U.K. and Europe. This time, Revolut is adding cryptocurrency trading through a partnership with Paxos. Users in the U.S. can now buy, hold and sell Bitcoin and Ethe\u2026",
+      "title": "Revolut partners with Paxos to bring cryptocurrency trading to the US – TechCrunch",
+      "description": "Neobank Revolut launched in the U.S. a couple of months ago. The startup is slowly catching up with features that are available in the U.K. and Europe. This time, Revolut is adding cryptocurrency trading through a partnership with Paxos. Users in the U.S. can now buy, hold and sell Bitcoin and Ethe…",
       "sourceUrl": "https://techcrunch.com/2020/07/15/revolut-partners-with-paxos-to-bring-cryptocurrency-trading-to-the-us/",
       "features": [
         "cryptocurrency-trading"
@@ -402,5 +403,5 @@
   "platforms": [],
   "awards": [],
   "marketplaceUrl": "https://www.revolut.com/connect-your-apps-to-simplify-work",
-  "swiftCode": "REVOGB2LXXX"
+  "bic": "REVOGB2LXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIA PRIVATA DI SERVIZI FINANZIARI SIM",
   "legalName": "COMPAGNIA PRIVATA DI SERVIZI FINANZIARI SIM",
-  "bic": "CPSFITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniaprivatadiservizifinanziarisim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPSFITM1XXX"
 }

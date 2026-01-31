@@ -8,7 +8,6 @@
   ],
   "name": "RBS SERVICES (SWITZERLAND) AG",
   "legalName": "RBS SERVICES (SWITZERLAND) AG",
-  "bic": "RBOSCHZHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbsservicesswitzerlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBOSCHZHXXX"
 }

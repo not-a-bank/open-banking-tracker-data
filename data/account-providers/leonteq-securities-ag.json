@@ -8,7 +8,6 @@
   ],
   "name": "LEONTEQ SECURITIES AG",
   "legalName": "LEONTEQ SECURITIES AG",
-  "bic": "EFGFCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.leonteqsecuritiesag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFGFCHZZXXX"
 }

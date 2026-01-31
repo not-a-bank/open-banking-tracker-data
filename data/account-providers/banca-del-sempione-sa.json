@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DEL SEMPIONE SA",
   "legalName": "BANCA DEL SEMPIONE SA",
-  "bic": "BASECH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadelsempionesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BASECH22XXX"
 }

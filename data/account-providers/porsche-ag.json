@@ -8,7 +8,6 @@
   ],
   "name": "PORSCHE AG",
   "legalName": "PORSCHE AG",
-  "bic": "PORHDES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.porscheag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PORHDES1XXX"
 }

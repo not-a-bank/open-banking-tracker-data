@@ -8,7 +8,6 @@
   ],
   "name": "PORSCHE BANK HUNGARIA ZRT",
   "legalName": "PORSCHE BANK HUNGARIA ZRT",
-  "bic": "POHZHUHBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.porschebankhungariazrt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POHZHUHBXXX"
 }

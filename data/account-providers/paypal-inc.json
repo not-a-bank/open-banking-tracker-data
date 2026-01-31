@@ -8,7 +8,6 @@
   ],
   "name": "PAYPAL INC.",
   "legalName": "PAYPAL INC.",
-  "bic": "PPALUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paypalinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PPALUS61XXX"
 }

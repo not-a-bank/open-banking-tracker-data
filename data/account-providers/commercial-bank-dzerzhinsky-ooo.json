@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK 'DZERZHINSKY' OOO",
   "legalName": "COMMERCIAL BANK 'DZERZHINSKY' OOO",
-  "bic": "DECERU41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankdzerzhinskyooo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DECERU41XXX"
 }

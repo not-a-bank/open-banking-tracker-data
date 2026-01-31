@@ -8,7 +8,6 @@
   ],
   "name": "KAPITAL BANKA AD SKOPJE",
   "legalName": "KAPITAL BANKA AD SKOPJE",
-  "bic": "KAPBMK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kapitalbankaadskopje.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAPBMK22XXX"
 }

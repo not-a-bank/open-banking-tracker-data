@@ -8,7 +8,6 @@
   ],
   "name": "BANCA FINNAT EURAMERICA S.P.A.",
   "legalName": "BANCA FINNAT EURAMERICA S.P.A.",
-  "bic": "FNATITRRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancafinnateuramericaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNATITRRXXX"
 }

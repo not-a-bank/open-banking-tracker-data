@@ -8,7 +8,6 @@
   ],
   "name": "BYBLOS BANK SAL IRAQ",
   "legalName": "BYBLOS BANK SAL IRAQ",
-  "bic": "BYBAIQBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.byblosbanksaliraq.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BYBAIQBAXXX"
 }

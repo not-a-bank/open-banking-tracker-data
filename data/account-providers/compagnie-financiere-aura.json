@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIE FINANCIERE AURA",
   "legalName": "COMPAGNIE FINANCIERE AURA",
-  "bic": "AURAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniefinanciereaura.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AURAFRP1XXX"
 }

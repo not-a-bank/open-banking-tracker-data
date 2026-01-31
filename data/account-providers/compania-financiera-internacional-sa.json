@@ -8,7 +8,6 @@
   ],
   "name": "COMPANIA FINANCIERA INTERNACIONAL SA",
   "legalName": "COMPANIA FINANCIERA INTERNACIONAL SA",
-  "bic": "FINCCOB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.companiafinancierainternacionalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FINCCOB1XXX"
 }

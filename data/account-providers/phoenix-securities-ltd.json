@@ -8,7 +8,6 @@
   ],
   "name": "PHOENIX SECURITIES LTD",
   "legalName": "PHOENIX SECURITIES LTD",
-  "bic": "PHSCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.phoenixsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHSCGB21XXX"
 }

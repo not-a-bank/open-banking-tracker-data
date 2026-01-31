@@ -8,7 +8,6 @@
   ],
   "name": "BNF BANK PLC (FORMERLY BANIF BANK MALTA)",
   "legalName": "BNF BANK PLC (FORMERLY BANIF BANK MALTA)",
-  "bic": "BNIFMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnfbankplcformerlybanifbankmalta.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNIFMTMTXXX"
 }

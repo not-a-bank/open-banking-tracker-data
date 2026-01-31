@@ -8,7 +8,6 @@
   ],
   "name": "KEB HANA BANK, AMSTERDAM BRANCH",
   "legalName": "KEB HANA BANK, AMSTERDAM BRANCH",
-  "bic": "KOEXNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kebhanabankamsterdambranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOEXNL2AXXX"
 }

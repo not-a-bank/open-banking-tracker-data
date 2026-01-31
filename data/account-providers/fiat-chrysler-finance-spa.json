@@ -8,7 +8,6 @@
   ],
   "name": "FIAT CHRYSLER FINANCE S.P.A.",
   "legalName": "FIAT CHRYSLER FINANCE S.P.A.",
-  "bic": "FCHFITTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fiatchryslerfinancespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCHFITTTXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RBC INVESTOR SERVICES BELGIUM",
   "legalName": "RBC INVESTOR SERVICES BELGIUM",
-  "bic": "DXFSBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbcinvestorservicesbelgium.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DXFSBEBBXXX"
 }

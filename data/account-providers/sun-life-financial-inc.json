@@ -8,7 +8,6 @@
   ],
   "name": "SUN LIFE FINANCIAL INC.",
   "legalName": "SUN LIFE FINANCIAL INC.",
-  "bic": "SULFCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sunlifefinancialinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SULFCAT1XXX"
 }

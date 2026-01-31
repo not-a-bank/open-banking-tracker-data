@@ -8,7 +8,6 @@
   ],
   "name": "MONTREAL EXCHANGE THE / BOURSE DE MONTREAL",
   "legalName": "MONTREAL EXCHANGE THE / BOURSE DE MONTREAL",
-  "bic": "XMOOCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.montrealexchangetheboursedemontreal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMOOCAM1XXX"
 }

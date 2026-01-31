@@ -8,7 +8,6 @@
   ],
   "name": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
   "legalName": "KRUNG THAI BANK PUBLIC COMPANY LIMITED",
-  "bic": "KRTHTHBKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.krungthaibankpubliccompanylimitedth.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRTHTHBKXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CARGILL S/A",
   "legalName": "BANCO CARGILL S/A",
-  "bic": "BCBZBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocargillsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCBZBRSPXXX"
 }

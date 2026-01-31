@@ -8,7 +8,6 @@
   ],
   "name": "THE PROCTER AND GAMBLE COMPANY",
   "legalName": "THE PROCTER AND GAMBLE COMPANY",
-  "bic": "PGGTUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theprocterandgamblecompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PGGTUS33XXX"
 }

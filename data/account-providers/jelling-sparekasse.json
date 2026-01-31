@@ -8,7 +8,6 @@
   ],
   "name": "JELLING SPAREKASSE",
   "legalName": "JELLING SPAREKASSE",
-  "bic": "JELLDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jellingsparekasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JELLDK21XXX"
 }

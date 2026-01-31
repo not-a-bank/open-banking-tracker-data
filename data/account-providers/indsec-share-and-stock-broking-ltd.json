@@ -8,7 +8,6 @@
   ],
   "name": "INDSEC SHARE AND STOCK BROKING LTD.",
   "legalName": "INDSEC SHARE AND STOCK BROKING LTD.",
-  "bic": "INSOINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indsecshareandstockbrokingltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INSOINB1XXX"
 }

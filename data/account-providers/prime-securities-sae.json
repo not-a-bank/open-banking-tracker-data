@@ -8,7 +8,6 @@
   ],
   "name": "PRIME SECURITIES SAE",
   "legalName": "PRIME SECURITIES SAE",
-  "bic": "PSSREGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.primesecuritiessae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSSREGC1XXX"
 }

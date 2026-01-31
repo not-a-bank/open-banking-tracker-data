@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "R\u00f8nde Sparekasse",
-  "legalName": "R\u00f8nde Sparekasse",
+  "name": "Rønde Sparekasse",
+  "legalName": "Rønde Sparekasse",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ronde-sparekasse.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "RSPKDK21XXX"
+  "bic": "RSPKDK21"
 }

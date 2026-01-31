@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE FINANCIERE CARDIF",
   "legalName": "BANQUE FINANCIERE CARDIF",
-  "bic": "BFCAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquefinancierecardif.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFCAFRP1XXX"
 }

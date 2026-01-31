@@ -8,7 +8,6 @@
   ],
   "name": "CENTRALE BANK VAN CURACAO EN SINT MAARTEN",
   "legalName": "CENTRALE BANK VAN CURACAO EN SINT MAARTEN",
-  "bic": "CBCSCWCUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralebankvancuracaoensintmaarten.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBCSCWCUXXX"
 }

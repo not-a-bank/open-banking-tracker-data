@@ -8,7 +8,6 @@
   ],
   "name": "FINSA EUROPE LTD",
   "legalName": "FINSA EUROPE LTD",
-  "bic": "FNEUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finsaeuropeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNEUGB21XXX"
 }

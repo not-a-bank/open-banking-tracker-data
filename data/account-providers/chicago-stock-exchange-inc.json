@@ -8,7 +8,6 @@
   ],
   "name": "CHICAGO STOCK EXCHANGE, INC.",
   "legalName": "CHICAGO STOCK EXCHANGE, INC.",
-  "bic": "XCHIUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chicagostockexchangeinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XCHIUS41XXX"
 }

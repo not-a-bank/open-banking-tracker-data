@@ -9,7 +9,6 @@
   ],
   "name": "BORDESHOLMER SPARKASSE AG",
   "legalName": "BORDESHOLMER SPARKASSE AG",
-  "bic": "NOLADE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/bordesholmer_sparkasse_ag_de.svg",
@@ -36,5 +35,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOLADE21XXX"
 }

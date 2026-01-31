@@ -8,7 +8,6 @@
   ],
   "name": "JPMORGAN CHASE BANK, N.A.",
   "legalName": "JPMORGAN CHASE BANK, N.A.",
-  "bic": "CHASGB4LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganchasebanknagb2.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASGB4LXXX"
 }

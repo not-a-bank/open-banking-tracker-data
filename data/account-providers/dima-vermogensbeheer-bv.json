@@ -8,7 +8,6 @@
   ],
   "name": "DIMA VERMOGENSBEHEER B.V.",
   "legalName": "DIMA VERMOGENSBEHEER B.V.",
-  "bic": "DIMVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dimavermogensbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DIMVNL21XXX"
 }

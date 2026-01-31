@@ -8,7 +8,6 @@
   ],
   "name": "BMCE BANK INTERNATIONAL PLC SUCCURSALE EN FRANCE",
   "legalName": "BMCE BANK INTERNATIONAL PLC SUCCURSALE EN FRANCE",
-  "bic": "BMCEFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bmcebankinternationalplcsuccursaleenfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMCEFRPPXXX"
 }

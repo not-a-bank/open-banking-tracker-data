@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY ILOW",
   "legalName": "BANK SPOLDZIELCZY ILOW",
-  "bic": "SPILPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczyilow.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPILPLP1XXX"
 }

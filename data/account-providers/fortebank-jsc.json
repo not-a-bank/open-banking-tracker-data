@@ -8,7 +8,6 @@
   ],
   "name": "FORTEBANK JSC",
   "legalName": "FORTEBANK JSC",
-  "bic": "IRTYKZKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fortebankjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRTYKZKAXXX"
 }

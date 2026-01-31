@@ -8,7 +8,6 @@
   ],
   "name": "CIMB-PRINCIPAL ASSET MANAGEMENT BERHAD",
   "legalName": "CIMB-PRINCIPAL ASSET MANAGEMENT BERHAD",
-  "bic": "CANHMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cimbprincipalassetmanagementberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CANHMYKLXXX"
 }

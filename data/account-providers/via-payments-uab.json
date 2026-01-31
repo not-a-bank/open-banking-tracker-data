@@ -8,7 +8,6 @@
   ],
   "name": "VIA PAYMENTS UAB",
   "legalName": "VIA PAYMENTS UAB",
-  "bic": "VIPULT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.viapaymentsuab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIPULT21XXX"
 }

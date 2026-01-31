@@ -8,7 +8,6 @@
   ],
   "name": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
   "legalName": "CENTRALNY DEPOZITAR CENNYCH PAPIEROV SR, A.S.",
-  "bic": "CSDSSKBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralnydepozitarcennychpapierovsras.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSDSSKBAXXX"
 }

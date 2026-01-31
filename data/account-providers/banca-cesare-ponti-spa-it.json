@@ -8,7 +8,6 @@
   ],
   "name": "BANCA CESARE PONTI S.P.A.",
   "legalName": "BANCA CESARE PONTI S.P.A.",
-  "bic": "BCEPITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancacesarepontispait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCEPITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY CAPITAL GROUP LIMITED",
   "legalName": "MORGAN STANLEY CAPITAL GROUP LIMITED",
-  "bic": "MSCGGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleycapitalgrouplimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSCGGB21XXX"
 }

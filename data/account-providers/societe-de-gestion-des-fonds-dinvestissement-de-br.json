@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE DE GESTION DES FONDS D'INVESTISSEMENT DE BRETAGNE",
   "legalName": "SOCIETE DE GESTION DES FONDS D'INVESTISSEMENT DE BRETAGNE",
-  "bic": "SGFDFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societedegestiondesfondsdinvestissementdebr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGFDFR21XXX"
 }

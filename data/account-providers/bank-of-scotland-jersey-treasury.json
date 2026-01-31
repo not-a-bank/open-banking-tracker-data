@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF SCOTLAND - JERSEY TREASURY",
   "legalName": "BANK OF SCOTLAND - JERSEY TREASURY",
-  "bic": "BOFSJES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofscotlandjerseytreasury.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFSJES1XXX"
 }

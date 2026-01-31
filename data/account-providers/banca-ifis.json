@@ -30,8 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge",
     "tink"
   ],
-  "swiftCode": "IFISIT2VXXX"
+  "bic": "IFISIT2VXXX"
 }

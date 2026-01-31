@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL FINANCIAL SERVICES SA",
   "legalName": "CAPITAL FINANCIAL SERVICES SA",
-  "bic": "CPFSROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalfinancialservicessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPFSROBUXXX"
 }

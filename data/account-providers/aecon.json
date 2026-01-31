@@ -8,7 +8,6 @@
   ],
   "name": "Aecon",
   "legalName": "AECON",
-  "bic": "AGOPCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aecon.ca.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGOPCATTXXX"
 }

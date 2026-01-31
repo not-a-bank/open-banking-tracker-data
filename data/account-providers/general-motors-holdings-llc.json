@@ -8,7 +8,6 @@
   ],
   "name": "GENERAL MOTORS HOLDINGS LLC",
   "legalName": "GENERAL MOTORS HOLDINGS LLC",
-  "bic": "GMCOUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.generalmotorsholdingsllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GMCOUS33XXX"
 }

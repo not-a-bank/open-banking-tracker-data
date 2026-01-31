@@ -1,0 +1,39 @@
+{
+  "id": "banca-di-bologna",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "universal"
+  ],
+  "name": "Banca Di Bologna",
+  "legalName": "Banca Di Bologna",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1621720780/radar/icons/bancadibologna-it.png",
+  "websiteUrl": "https://www.bancadibologna.it/",
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "salt-edge"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "BDBOIT21"
+}

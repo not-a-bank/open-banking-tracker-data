@@ -8,7 +8,6 @@
   ],
   "name": "BCP SECURITIES LLC",
   "legalName": "BCP SECURITIES LLC",
-  "bic": "BCUCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bcpsecuritiesllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCUCUS31XXX"
 }

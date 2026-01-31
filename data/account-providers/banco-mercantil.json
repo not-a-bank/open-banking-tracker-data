@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MERCANTIL",
   "legalName": "BANCO MERCANTIL",
-  "bic": "BAMRCWC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomercantil.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAMRCWC1XXX"
 }

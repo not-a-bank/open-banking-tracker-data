@@ -8,7 +8,6 @@
   ],
   "name": "MEDINVESTMENT BANK SAL",
   "legalName": "MEDINVESTMENT BANK SAL",
-  "bic": "MIBLLBBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.medinvestmentbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIBLLBBXXXX"
 }

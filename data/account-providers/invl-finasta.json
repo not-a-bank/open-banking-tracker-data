@@ -8,7 +8,6 @@
   ],
   "name": "INVL FINASTA",
   "legalName": "INVL FINASTA",
-  "bic": "IVFILT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invlfinasta.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVFILT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SKY PLC",
   "legalName": "SKY PLC",
-  "bic": "SKYPGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.skyplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKYPGB22XXX"
 }

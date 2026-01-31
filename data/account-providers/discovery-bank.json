@@ -8,7 +8,6 @@
   ],
   "name": "DISCOVERY BANK",
   "legalName": "DISCOVERY BANK",
-  "bic": "DISOUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.discoverybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DISOUS61XXX"
 }

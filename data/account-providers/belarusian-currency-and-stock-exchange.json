@@ -8,7 +8,6 @@
   ],
   "name": "Belarusian Currency AND Stock Exchange",
   "legalName": "BELARUSIAN CURRENCY AND STOCK EXCHANGE",
-  "bic": "BCSXBY22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCSXBY22XXX"
 }

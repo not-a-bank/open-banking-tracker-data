@@ -8,7 +8,6 @@
   ],
   "name": "TAI FOOK SECURITIES (UK) LIMITED",
   "legalName": "TAI FOOK SECURITIES (UK) LIMITED",
-  "bic": "TAOSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.taifooksecuritiesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAOSGB21XXX"
 }

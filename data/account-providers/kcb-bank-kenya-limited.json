@@ -8,7 +8,6 @@
   ],
   "name": "KCB BANK KENYA LIMITED",
   "legalName": "KCB BANK KENYA LIMITED",
-  "bic": "KCBLKENXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kcbbankkenyalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KCBLKENXXXX"
 }

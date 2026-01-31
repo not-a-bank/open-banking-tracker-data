@@ -8,7 +8,6 @@
   ],
   "name": "CAIXA GERAL DE DEPOSITOS, NEW YORK BRANCH",
   "legalName": "CAIXA GERAL DE DEPOSITOS, NEW YORK BRANCH",
-  "bic": "CGDIUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixageraldedepositosnewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGDIUS33XXX"
 }

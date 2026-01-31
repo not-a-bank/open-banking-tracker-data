@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL BANK (LIBERIA) LIMITED",
   "legalName": "INTERNATIONAL BANK (LIBERIA) LIMITED",
-  "bic": "IBLRLRLMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalbankliberialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBLRLRLMXXX"
 }

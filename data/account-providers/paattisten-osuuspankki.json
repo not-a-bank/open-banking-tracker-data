@@ -8,7 +8,6 @@
   ],
   "name": "PAATTISTEN OSUUSPANKKI",
   "legalName": "PAATTISTEN OSUUSPANKKI",
-  "bic": "PAOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paattistenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAOPFI21XXX"
 }

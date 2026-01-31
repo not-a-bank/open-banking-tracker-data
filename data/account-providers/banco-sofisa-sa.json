@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SOFISA S.A.",
   "legalName": "BANCO SOFISA S.A.",
-  "bic": "BSBSBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosofisasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSBSBRSPXXX"
 }

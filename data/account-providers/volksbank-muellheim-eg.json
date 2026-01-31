@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK MUELLHEIM EG",
   "legalName": "VOLKSBANK MUELLHEIM EG",
-  "bic": "VOMLDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankmuellheimeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOMLDE61XXX"
 }

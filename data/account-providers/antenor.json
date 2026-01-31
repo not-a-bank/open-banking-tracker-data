@@ -8,7 +8,6 @@
   ],
   "name": "ANTENOR",
   "legalName": "ANTENOR",
-  "bic": "ANENFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.antenor.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANENFR21XXX"
 }

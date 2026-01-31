@@ -8,7 +8,6 @@
   ],
   "name": "MILARIS SA",
   "legalName": "MILARIS SA",
-  "bic": "BIOPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.milarissa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIOPFRP1XXX"
 }

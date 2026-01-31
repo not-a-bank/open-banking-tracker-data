@@ -8,7 +8,6 @@
   ],
   "name": "OPERADORA DE BOLSA, S.A. DE C.V.",
   "legalName": "OPERADORA DE BOLSA, S.A. DE C.V.",
-  "bic": "OPBOMXM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.operadoradebolsasadecv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPBOMXM1XXX"
 }

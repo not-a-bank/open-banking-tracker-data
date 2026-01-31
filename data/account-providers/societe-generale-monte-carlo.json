@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE MONTE CARLO",
   "legalName": "SOCIETE GENERALE MONTE CARLO",
-  "bic": "SOGEMCM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralemontecarlo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGEMCM1XXX"
 }

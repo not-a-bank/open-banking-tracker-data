@@ -8,7 +8,6 @@
   ],
   "name": "BIGBANK AS FINLAND BRANCH",
   "legalName": "BIGBANK AS FINLAND BRANCH",
-  "bic": "BIGKFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bigbankasfinlandbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIGKFIH1XXX"
 }

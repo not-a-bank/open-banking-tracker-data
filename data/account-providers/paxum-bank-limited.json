@@ -8,7 +8,6 @@
   ],
   "name": "PAXUM BANK LIMITED",
   "legalName": "PAXUM BANK LIMITED",
-  "bic": "PAXUDMDMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paxumbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAXUDMDMXXX"
 }

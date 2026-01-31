@@ -8,7 +8,6 @@
   ],
   "name": "EON FINANCE BHD",
   "legalName": "EON FINANCE BHD",
-  "bic": "EONFMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eonfinancebhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EONFMYK1XXX"
 }

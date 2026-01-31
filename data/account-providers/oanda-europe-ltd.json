@@ -8,7 +8,6 @@
   ],
   "name": "OANDA EUROPE LTD",
   "legalName": "OANDA EUROPE LTD",
-  "bic": "OAUUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oandaeuropeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OAUUGB21XXX"
 }

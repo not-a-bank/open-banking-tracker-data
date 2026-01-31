@@ -8,7 +8,6 @@
   ],
   "name": "NOVARTIS SECURITIES INVESTMENT LTD",
   "legalName": "NOVARTIS SECURITIES INVESTMENT LTD",
-  "bic": "NOVRBMHMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novartissecuritiesinvestmentltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOVRBMHMXXX"
 }

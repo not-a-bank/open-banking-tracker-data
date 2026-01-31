@@ -8,7 +8,6 @@
   ],
   "name": "BIP TRADING (UK) LTD",
   "legalName": "BIP TRADING (UK) LTD",
-  "bic": "BITNGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.biptradingukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BITNGB21XXX"
 }

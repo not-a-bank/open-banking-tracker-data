@@ -8,7 +8,6 @@
   ],
   "name": "BANK ONE LTD",
   "legalName": "BANK ONE LTD",
-  "bic": "BKONMUMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankoneltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKONMUMUXXX"
 }

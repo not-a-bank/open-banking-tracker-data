@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF NEVIS, THE",
   "legalName": "BANK OF NEVIS, THE",
-  "bic": "BNEVKNNEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofnevisthe.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNEVKNNEXXX"
 }

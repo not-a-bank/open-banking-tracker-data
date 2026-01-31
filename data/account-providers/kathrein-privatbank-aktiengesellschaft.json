@@ -8,7 +8,6 @@
   ],
   "name": "KATHREIN PRIVATBANK AKTIENGESELLSCHAFT",
   "legalName": "KATHREIN PRIVATBANK AKTIENGESELLSCHAFT",
-  "bic": "KTBKATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kathreinprivatbankaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KTBKATWWXXX"
 }

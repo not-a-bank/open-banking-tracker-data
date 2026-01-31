@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK (SUISSE) SA FORMERLY RUED, BLASS AND CIE AG",
   "legalName": "DEUTSCHE BANK (SUISSE) SA FORMERLY RUED, BLASS AND CIE AG",
-  "bic": "RUBLCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebanksuissesaformerlyruedblassandci.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RUBLCHZ1XXX"
 }

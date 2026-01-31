@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
   "legalName": "ABN AMRO ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
-  "bic": "ABKFDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamroassetmanagementfondsmaeglerselskabas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABKFDKK1XXX"
 }

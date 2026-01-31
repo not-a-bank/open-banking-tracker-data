@@ -8,7 +8,6 @@
   ],
   "name": "DGM BANK AND TRUST INC.",
   "legalName": "DGM BANK AND TRUST INC.",
-  "bic": "DGRRBBB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dgmbankandtrustinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DGRRBBB1XXX"
 }

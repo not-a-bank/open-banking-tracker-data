@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET BANK GMBH, LONDON BRANCH",
   "legalName": "STATE STREET BANK GMBH, LONDON BRANCH",
-  "bic": "SSGLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetbankgmbhlondonbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSGLGB21XXX"
 }

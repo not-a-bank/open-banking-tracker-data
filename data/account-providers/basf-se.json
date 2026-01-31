@@ -8,7 +8,6 @@
   ],
   "name": "BASF SE",
   "legalName": "BASF SE",
-  "bic": "BASFDE5LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.basfse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BASFDE5LXXX"
 }

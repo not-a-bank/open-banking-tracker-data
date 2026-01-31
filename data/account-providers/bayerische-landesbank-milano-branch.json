@@ -8,7 +8,6 @@
   ],
   "name": "BAYERISCHE LANDESBANK, MILANO BRANCH",
   "legalName": "BAYERISCHE LANDESBANK, MILANO BRANCH",
-  "bic": "BYLAITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bayerischelandesbankmilanobranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BYLAITMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GIMAR FINANCE SCA",
   "legalName": "GIMAR FINANCE SCA",
-  "bic": "GIFSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gimarfinancesca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIFSFRP1XXX"
 }

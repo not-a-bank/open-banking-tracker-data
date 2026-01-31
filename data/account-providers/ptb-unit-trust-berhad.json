@@ -8,7 +8,6 @@
   ],
   "name": "PTB UNIT TRUST BERHAD",
   "legalName": "PTB UNIT TRUST BERHAD",
-  "bic": "PUTBMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbunittrustberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PUTBMY21XXX"
 }

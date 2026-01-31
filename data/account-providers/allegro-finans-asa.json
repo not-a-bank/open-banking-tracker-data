@@ -8,7 +8,6 @@
   ],
   "name": "ALLEGRO FINANS ASA",
   "legalName": "ALLEGRO FINANS ASA",
-  "bic": "ALNSNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allegrofinansasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALNSNO21XXX"
 }

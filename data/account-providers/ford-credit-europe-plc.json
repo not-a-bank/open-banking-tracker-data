@@ -8,7 +8,6 @@
   ],
   "name": "FORD CREDIT EUROPE PLC",
   "legalName": "FORD CREDIT EUROPE PLC",
-  "bic": "FORDBE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fordcrediteuropeplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FORDBE21XXX"
 }

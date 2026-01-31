@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA INTERNATIONAL TRUST COMPANY",
   "legalName": "NOMURA INTERNATIONAL TRUST COMPANY",
-  "bic": "NMTBUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomurainternationaltrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NMTBUS31XXX"
 }

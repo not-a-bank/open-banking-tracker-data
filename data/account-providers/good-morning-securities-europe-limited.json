@@ -8,7 +8,6 @@
   ],
   "name": "GOOD MORNING SECURITIES EUROPE LIMITED",
   "legalName": "GOOD MORNING SECURITIES EUROPE LIMITED",
-  "bic": "GMSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goodmorningsecuritieseuropelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GMSEGB21XXX"
 }

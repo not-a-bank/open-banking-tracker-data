@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT LYONNAIS INTERNATIONAL ASSET MANAGEMENT (S) LTD",
   "legalName": "CREDIT LYONNAIS INTERNATIONAL ASSET MANAGEMENT (S) LTD",
-  "bic": "CLIASGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditlyonnaisinternationalassetmanagementsl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLIASGS1XXX"
 }

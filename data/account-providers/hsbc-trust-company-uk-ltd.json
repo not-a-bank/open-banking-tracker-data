@@ -8,7 +8,6 @@
   ],
   "name": "HSBC TRUST COMPANY (UK) LTD",
   "legalName": "HSBC TRUST COMPANY (UK) LTD",
-  "bic": "HSTCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbctrustcompanyukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSTCGB21XXX"
 }

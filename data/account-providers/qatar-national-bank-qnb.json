@@ -8,7 +8,6 @@
   ],
   "name": "QATAR NATIONAL BANK (QNB)",
   "legalName": "QATAR NATIONAL BANK (QNB)",
-  "bic": "QNBAMRMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qatarnationalbankqnb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QNBAMRMUXXX"
 }

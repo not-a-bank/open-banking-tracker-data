@@ -8,7 +8,6 @@
   ],
   "name": "FOREIGN FINANCE TRUST SWEDEN KB",
   "legalName": "FOREIGN FINANCE TRUST SWEDEN KB",
-  "bic": "FFTSSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.foreignfinancetrustswedenkb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FFTSSE21XXX"
 }

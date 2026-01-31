@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China, Agencia EN Chile",
   "legalName": "BANK OF CHINA, AGENCIA EN CHILE",
-  "bic": "BKCHCLRMXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHCLRMXXX"
 }

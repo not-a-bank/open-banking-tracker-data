@@ -40,7 +40,8 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "yaxi",
-    "tink"
+    "tink",
+    "gocardless"
   ],
   "collections": [],
   "webApplication": true,
@@ -84,5 +85,5 @@
     "android"
   ],
   "awards": [],
-  "swiftCode": "SOBKDEB2XXX"
+  "bic": "SOBKDEB2XXX"
 }

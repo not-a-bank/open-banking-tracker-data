@@ -8,7 +8,6 @@
   ],
   "name": "JUTLANDER BANK A/S",
   "legalName": "JUTLANDER BANK A/S",
-  "bic": "JUTBDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jutlanderbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JUTBDK21XXX"
 }

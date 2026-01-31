@@ -38,7 +38,9 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "collections": [],
   "webApplication": true,
   "mobileApps": [],
@@ -65,5 +67,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "CIIVGB2AXXX"
 }

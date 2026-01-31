@@ -8,7 +8,6 @@
   ],
   "name": "COMMONWEALTH FOREIGN EXCHANGE",
   "legalName": "COMMONWEALTH FOREIGN EXCHANGE",
-  "bic": "COFXUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commonwealthforeignexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COFXUS61XXX"
 }

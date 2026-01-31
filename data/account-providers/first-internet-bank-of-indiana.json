@@ -8,7 +8,6 @@
   ],
   "name": "FIRST INTERNET BANK OF INDIANA",
   "legalName": "FIRST INTERNET BANK OF INDIANA",
-  "bic": "FRIIUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstinternetbankofindiana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIIUS33XXX"
 }

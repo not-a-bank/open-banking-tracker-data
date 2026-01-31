@@ -8,7 +8,6 @@
   ],
   "name": "HIGHLAND SICAV PLC",
   "legalName": "HIGHLAND SICAV PLC",
-  "bic": "HISVMTM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.highlandsicavplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HISVMTM1XXX"
 }

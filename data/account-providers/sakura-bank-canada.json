@@ -8,7 +8,6 @@
   ],
   "name": "SAKURA BANK (CANADA)",
   "legalName": "SAKURA BANK (CANADA)",
-  "bic": "MITKCA81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sakurabankcanada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MITKCA81XXX"
 }

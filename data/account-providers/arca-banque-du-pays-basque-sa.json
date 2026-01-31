@@ -8,7 +8,6 @@
   ],
   "name": "ARCA - BANQUE DU PAYS BASQUE SA",
   "legalName": "ARCA - BANQUE DU PAYS BASQUE SA",
-  "bic": "ARPAFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arcabanquedupaysbasquesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARPAFR21XXX"
 }

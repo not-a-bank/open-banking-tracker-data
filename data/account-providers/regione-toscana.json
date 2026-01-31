@@ -8,7 +8,6 @@
   ],
   "name": "REGIONE TOSCANA",
   "legalName": "REGIONE TOSCANA",
-  "bic": "RETOIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.regionetoscana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RETOIT21XXX"
 }

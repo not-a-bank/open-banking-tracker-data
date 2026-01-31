@@ -8,7 +8,6 @@
   ],
   "name": "EFG BANK, CAYMAN BRANCH",
   "legalName": "EFG BANK, CAYMAN BRANCH",
-  "bic": "EFGBKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efgbankcaymanbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFGBKYKYXXX"
 }

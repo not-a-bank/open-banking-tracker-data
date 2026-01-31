@@ -8,7 +8,6 @@
   ],
   "name": "WATERFORD BANK N.A.",
   "legalName": "WATERFORD BANK N.A.",
-  "bic": "WATRUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.waterfordbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WATRUS31XXX"
 }

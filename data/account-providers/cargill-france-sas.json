@@ -8,7 +8,6 @@
   ],
   "name": "CARGILL FRANCE SAS",
   "legalName": "CARGILL FRANCE SAS",
-  "bic": "CGFSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cargillfrancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGFSFRP1XXX"
 }

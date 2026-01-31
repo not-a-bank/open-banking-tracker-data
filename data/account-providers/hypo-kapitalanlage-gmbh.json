@@ -8,7 +8,6 @@
   ],
   "name": "HYPO-KAPITALANLAGE GMBH",
   "legalName": "HYPO-KAPITALANLAGE GMBH",
-  "bic": "HYPGATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hypokapitalanlagegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HYPGATW1XXX"
 }

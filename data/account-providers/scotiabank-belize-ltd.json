@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIABANK (BELIZE) LTD.",
   "legalName": "SCOTIABANK (BELIZE) LTD.",
-  "bic": "NOSCBZBSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiabankbelizeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSCBZBSXXX"
 }

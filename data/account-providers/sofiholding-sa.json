@@ -8,7 +8,6 @@
   ],
   "name": "SOFIHOLDING SA",
   "legalName": "SOFIHOLDING SA",
-  "bic": "SOFIBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sofiholdingsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOFIBEB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SPARDA-BANK MUENSTER EG",
   "legalName": "SPARDA-BANK MUENSTER EG",
-  "bic": "SPUNDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spardabankmuensteregde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPUNDE21XXX"
 }

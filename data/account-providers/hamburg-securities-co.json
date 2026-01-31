@@ -8,7 +8,6 @@
   ],
   "name": "HAMBURG SECURITIES CO.",
   "legalName": "HAMBURG SECURITIES CO.",
-  "bic": "HAMEHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hamburgsecuritiesco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAMEHKH1XXX"
 }

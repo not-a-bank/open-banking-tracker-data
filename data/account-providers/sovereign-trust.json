@@ -8,7 +8,6 @@
   ],
   "name": "SOVEREIGN TRUST",
   "legalName": "SOVEREIGN TRUST",
-  "bic": "SOTUUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sovereigntrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOTUUS61XXX"
 }

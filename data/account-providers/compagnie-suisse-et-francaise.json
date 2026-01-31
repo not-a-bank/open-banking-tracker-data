@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIE SUISSE ET FRANCAISE",
   "legalName": "COMPAGNIE SUISSE ET FRANCAISE",
-  "bic": "COSFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniesuisseetfrancaise.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COSFFRP1XXX"
 }

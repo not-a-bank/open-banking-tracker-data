@@ -8,7 +8,6 @@
   ],
   "name": "CBZ BANK LIMITED",
   "legalName": "CBZ BANK LIMITED",
-  "bic": "COBZZWHAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbzbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBZZWHAXXX"
 }

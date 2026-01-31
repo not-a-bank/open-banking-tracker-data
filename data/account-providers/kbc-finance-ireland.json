@@ -8,7 +8,6 @@
   ],
   "name": "KBC FINANCE IRELAND",
   "legalName": "KBC FINANCE IRELAND",
-  "bic": "KRSIIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcfinanceireland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRSIIE21XXX"
 }

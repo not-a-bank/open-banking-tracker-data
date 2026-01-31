@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SABADELL S.A., INSTITUCION DE BANCA MULTIPLE",
   "legalName": "BANCO SABADELL S.A., INSTITUCION DE BANCA MULTIPLE",
-  "bic": "BSABMXMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosabadellsainstituciondebancamultiple.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSABMXMMXXX"
 }

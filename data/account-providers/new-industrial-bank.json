@@ -8,7 +8,6 @@
   ],
   "name": "NEW INDUSTRIAL BANK",
   "legalName": "NEW INDUSTRIAL BANK",
-  "bic": "NEIDRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newindustrialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEIDRUM1XXX"
 }

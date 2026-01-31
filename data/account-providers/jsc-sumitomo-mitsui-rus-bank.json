@@ -8,7 +8,6 @@
   ],
   "name": "JSC SUMITOMO MITSUI RUS BANK",
   "legalName": "JSC SUMITOMO MITSUI RUS BANK",
-  "bic": "SMBCRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jscsumitomomitsuirusbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMBCRUMMXXX"
 }

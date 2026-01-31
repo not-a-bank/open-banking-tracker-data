@@ -8,7 +8,6 @@
   ],
   "name": "ICICI SECURITIES PRIMARY DEALERSHIP LIMITED",
   "legalName": "ICICI SECURITIES PRIMARY DEALERSHIP LIMITED",
-  "bic": "ISPDINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icicisecuritiesprimarydealershiplimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISPDINB1XXX"
 }

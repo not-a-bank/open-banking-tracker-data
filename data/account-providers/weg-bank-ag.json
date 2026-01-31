@@ -9,7 +9,6 @@
   ],
   "name": "WEG BANK AG",
   "legalName": "WEG BANK AG",
-  "bic": "GRFFDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/weg_bank_de.svg",
@@ -30,10 +29,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "salt-edge",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WEGBDE77XXX"
 }

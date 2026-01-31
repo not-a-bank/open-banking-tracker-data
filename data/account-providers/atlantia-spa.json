@@ -8,7 +8,6 @@
   ],
   "name": "ATLANTIA S.P.A.",
   "legalName": "ATLANTIA S.P.A.",
-  "bic": "ASPAITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.atlantiaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASPAITR1XXX"
 }

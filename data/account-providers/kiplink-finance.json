@@ -8,7 +8,6 @@
   ],
   "name": "KIPLINK FINANCE",
   "legalName": "KIPLINK FINANCE",
-  "bic": "RERSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kiplinkfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RERSFRP1XXX"
 }

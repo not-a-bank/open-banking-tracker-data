@@ -8,7 +8,6 @@
   ],
   "name": "ENAGAS",
   "legalName": "ENAGAS",
-  "bic": "ENAAESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enagas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENAAESMMXXX"
 }

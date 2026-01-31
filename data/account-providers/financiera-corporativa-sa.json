@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERA CORPORATIVA S.A.",
   "legalName": "FINANCIERA CORPORATIVA S.A.",
-  "bic": "FCORGTG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financieracorporativasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCORGTG1XXX"
 }

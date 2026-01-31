@@ -8,7 +8,6 @@
   ],
   "name": "OESTERREICHISCHER EXPORTFONDS GMBH",
   "legalName": "OESTERREICHISCHER EXPORTFONDS GMBH",
-  "bic": "OEEXATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oesterreichischerexportfondsgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OEEXATW1XXX"
 }

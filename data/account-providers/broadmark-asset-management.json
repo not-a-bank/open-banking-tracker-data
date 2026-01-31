@@ -8,7 +8,6 @@
   ],
   "name": "BROADMARK ASSET MANAGEMENT",
   "legalName": "BROADMARK ASSET MANAGEMENT",
-  "bic": "BRSGUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.broadmarkassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRSGUS61XXX"
 }

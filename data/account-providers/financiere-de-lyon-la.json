@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERE DE LYON, LA",
   "legalName": "FINANCIERE DE LYON, LA",
-  "bic": "FILYFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financieredelyonla.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FILYFR21XXX"
 }

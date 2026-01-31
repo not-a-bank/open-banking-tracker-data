@@ -8,7 +8,6 @@
   ],
   "name": "FISCH ASSET MANAGEMENT",
   "legalName": "FISCH ASSET MANAGEMENT",
-  "bic": "FSAACHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fischassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FSAACHZ1XXX"
 }

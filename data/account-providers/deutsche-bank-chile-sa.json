@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK (CHILE) S.A.",
   "legalName": "DEUTSCHE BANK (CHILE) S.A.",
-  "bic": "DEUTCLRMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankchilesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTCLRMXXX"
 }

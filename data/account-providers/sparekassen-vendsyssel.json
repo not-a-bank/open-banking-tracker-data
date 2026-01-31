@@ -8,7 +8,6 @@
   ],
   "name": "SPAREKASSEN VENDSYSSEL",
   "legalName": "SPAREKASSEN VENDSYSSEL",
-  "bic": "VRAADK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparekassenvendsyssel.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VRAADK21XXX"
 }

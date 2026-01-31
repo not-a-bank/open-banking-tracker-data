@@ -8,7 +8,6 @@
   ],
   "name": "E TRADE BANK AG",
   "legalName": "E TRADE BANK AG",
-  "bic": "COMXDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.etradebankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COMXDEF1XXX"
 }

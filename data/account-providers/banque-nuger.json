@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE NUGER",
   "legalName": "BANQUE NUGER",
-  "bic": "BNUGFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquenuger.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNUGFR21XXX"
 }

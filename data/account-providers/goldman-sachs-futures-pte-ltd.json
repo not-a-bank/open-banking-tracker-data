@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS FUTURES PTE LTD",
   "legalName": "GOLDMAN SACHS FUTURES PTE LTD",
-  "bic": "GSFSSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsfuturespteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSFSSGS1XXX"
 }

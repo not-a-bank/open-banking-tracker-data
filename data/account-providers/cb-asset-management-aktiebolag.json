@@ -8,7 +8,6 @@
   ],
   "name": "CB ASSET MANAGEMENT AKTIEBOLAG",
   "legalName": "CB ASSET MANAGEMENT AKTIEBOLAG",
-  "bic": "ASMKSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbassetmanagementaktiebolag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASMKSES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO POPULAR DE AHORRO",
   "legalName": "BANCO POPULAR DE AHORRO",
-  "bic": "BPAHCUHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancopopulardeahorro.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPAHCUHHXXX"
 }

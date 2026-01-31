@@ -8,7 +8,6 @@
   ],
   "name": "PARIKKALAN OSUUSPANKKI",
   "legalName": "PARIKKALAN OSUUSPANKKI",
-  "bic": "PAOKFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.parikkalanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAOKFI21XXX"
 }

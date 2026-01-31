@@ -8,7 +8,6 @@
   ],
   "name": "FIBI BANK (SWITZERLAND) LTD.",
   "legalName": "FIBI BANK (SWITZERLAND) LTD.",
-  "bic": "FIRBCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fibibankswitzerlandltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIRBCHZZXXX"
 }

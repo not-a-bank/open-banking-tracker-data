@@ -8,7 +8,6 @@
   ],
   "name": "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS",
   "legalName": "LIVSFORSIKRINGSSELSKAPET NORDEA LIV NORGE AS",
-  "bic": "LINLNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.livsforsikringsselskapetnordealivnorgeas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LINLNOK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE KARLSRUHE",
   "legalName": "SPARKASSE KARLSRUHE",
-  "bic": "KARSDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassekarlsruhe.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KARSDE66XXX"
 }

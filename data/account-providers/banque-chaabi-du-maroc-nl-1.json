@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CHAABI DU MAROC",
   "legalName": "BANQUE CHAABI DU MAROC",
-  "bic": "BCDMNL22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquechaabidumarocnl1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCDMNL22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO POPULAR PORTUGAL, S.A.",
   "legalName": "BANCO POPULAR PORTUGAL, S.A.",
-  "bic": "CRBNPTPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancopopularportugalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRBNPTPLXXX"
 }

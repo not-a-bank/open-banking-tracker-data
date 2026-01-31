@@ -8,7 +8,6 @@
   ],
   "name": "VAN DER HOOP EFFECTEN BANK N.V.",
   "legalName": "VAN DER HOOP EFFECTEN BANK N.V.",
-  "bic": "HOEFNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vanderhoopeffectenbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOEFNL21XXX"
 }

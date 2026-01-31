@@ -8,7 +8,6 @@
   ],
   "name": "BANK BCC-MOSCOW",
   "legalName": "BANK BCC-MOSCOW",
-  "bic": "BCCMRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankbccmoscow.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCCMRUMMXXX"
 }

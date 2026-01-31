@@ -8,7 +8,6 @@
   ],
   "name": "EGYPTIAN INVESTOR PROTECTION FUND",
   "legalName": "EGYPTIAN INVESTOR PROTECTION FUND",
-  "bic": "EIPFEGCAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.egyptianinvestorprotectionfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EIPFEGCAXXX"
 }

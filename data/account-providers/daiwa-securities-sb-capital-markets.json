@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA SECURITIES SB CAPITAL MARKETS",
   "legalName": "DAIWA SECURITIES SB CAPITAL MARKETS",
-  "bic": "DSCRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwasecuritiessbcapitalmarkets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DSCRFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RCM (UK) LIMITED",
   "legalName": "RCM (UK) LIMITED",
-  "bic": "RCMRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rcmuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCMRGB21XXX"
 }

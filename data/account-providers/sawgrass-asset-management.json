@@ -8,7 +8,6 @@
   ],
   "name": "SAWGRASS ASSET MANAGEMENT",
   "legalName": "SAWGRASS ASSET MANAGEMENT",
-  "bic": "SAATUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sawgrassassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAATUS31XXX"
 }

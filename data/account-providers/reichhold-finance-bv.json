@@ -8,7 +8,6 @@
   ],
   "name": "REICHHOLD FINANCE BV",
   "legalName": "REICHHOLD FINANCE BV",
-  "bic": "REIFNL2RXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.reichholdfinancebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REIFNL2RXXX"
 }

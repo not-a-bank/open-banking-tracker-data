@@ -8,7 +8,6 @@
   ],
   "name": "UNITED BANK OF SAUDI AND LEBANON",
   "legalName": "UNITED BANK OF SAUDI AND LEBANON",
-  "bic": "UBSLLBB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedbankofsaudiandlebanon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSLLBB1XXX"
 }

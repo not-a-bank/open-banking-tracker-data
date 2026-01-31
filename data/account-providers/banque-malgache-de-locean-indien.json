@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE MALGACHE DE L'OCEAN INDIEN",
   "legalName": "BANQUE MALGACHE DE L'OCEAN INDIEN",
-  "bic": "BMOIMGMGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquemalgachedeloceanindien.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMOIMGMGXXX"
 }

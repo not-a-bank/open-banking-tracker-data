@@ -8,7 +8,6 @@
   ],
   "name": "BOSE CORPORATION",
   "legalName": "BOSE CORPORATION",
-  "bic": "BOSWUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bosecorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOSWUS33XXX"
 }

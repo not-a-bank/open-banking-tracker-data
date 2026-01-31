@@ -8,7 +8,6 @@
   ],
   "name": "BSI AG",
   "legalName": "BSI AG",
-  "bic": "BSILCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bsiag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSILCH22XXX"
 }

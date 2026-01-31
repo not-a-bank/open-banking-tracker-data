@@ -8,7 +8,6 @@
   ],
   "name": "PT MACQUARIE CAPITAL SECURITIES INDONESIA",
   "legalName": "PT MACQUARIE CAPITAL SECURITIES INDONESIA",
-  "bic": "IBSEIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptmacquariecapitalsecuritiesindonesia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBSEIDJ1XXX"
 }

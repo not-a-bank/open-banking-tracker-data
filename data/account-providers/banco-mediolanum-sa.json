@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MEDIOLANUM, S.A.",
   "legalName": "BANCO MEDIOLANUM, S.A.",
-  "bic": "BFIVESBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomediolanumsa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFIVESBB"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INVESTEC SECURITIES (BOTSWANA) (PTY) LTD",
   "legalName": "INVESTEC SECURITIES (BOTSWANA) (PTY) LTD",
-  "bic": "ISBTBWG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investecsecuritiesbotswanaptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISBTBWG1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AC BANK",
   "legalName": "AC BANK",
-  "bic": "ELKARU3SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.acbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ELKARU3SXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIE FONCIERE DE CREDIT SA",
   "legalName": "COMPAGNIE FONCIERE DE CREDIT SA",
-  "bic": "CFOCFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniefoncieredecreditsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFOCFRP1XXX"
 }

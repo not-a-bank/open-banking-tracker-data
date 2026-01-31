@@ -8,7 +8,6 @@
   ],
   "name": "PAPELES FIDUCIARIOS S.A. PAFISA",
   "legalName": "PAPELES FIDUCIARIOS S.A. PAFISA",
-  "bic": "PAFPECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.papelesfiduciariossapafisa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAFPECE1XXX"
 }

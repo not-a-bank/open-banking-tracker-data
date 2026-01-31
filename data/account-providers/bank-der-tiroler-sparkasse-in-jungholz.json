@@ -8,7 +8,6 @@
   ],
   "name": "BANK DER TIROLER SPARKASSE IN JUNGHOLZ",
   "legalName": "BANK DER TIROLER SPARKASSE IN JUNGHOLZ",
-  "bic": "TISUAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankdertirolersparkasseinjungholz.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TISUAT21XXX"
 }

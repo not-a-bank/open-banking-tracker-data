@@ -8,7 +8,6 @@
   ],
   "name": "TRUST MERCHANT BANK SARL",
   "legalName": "TRUST MERCHANT BANK SARL",
-  "bic": "TRMSCD3KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trustmerchantbanksarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRMSCD3KXXX"
 }

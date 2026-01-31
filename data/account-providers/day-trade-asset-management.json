@@ -8,7 +8,6 @@
   ],
   "name": "DAY TRADE ASSET MANAGEMENT",
   "legalName": "DAY TRADE ASSET MANAGEMENT",
-  "bic": "DTAMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daytradeassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DTAMFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ITALBURSATIL CASA DE BOLSA, C.A.",
   "legalName": "ITALBURSATIL CASA DE BOLSA, C.A.",
-  "bic": "ITBUVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.italbursatilcasadebolsaca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITBUVEC1XXX"
 }

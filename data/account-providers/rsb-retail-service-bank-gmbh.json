@@ -8,7 +8,6 @@
   ],
   "name": "RSB RETAIL + SERVICE BANK GMBH",
   "legalName": "RSB RETAIL + SERVICE BANK GMBH",
-  "bic": "SABUDES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rsbretailservicebankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABUDES1XXX"
 }

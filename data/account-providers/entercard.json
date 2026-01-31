@@ -1,0 +1,33 @@
+{
+  "id": "entercard",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Entercard",
+  "legalName": "Entercard",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.entercard.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "NO",
+  "countries": [
+    "NO",
+    "DK"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "SWEDNOKK"
+}

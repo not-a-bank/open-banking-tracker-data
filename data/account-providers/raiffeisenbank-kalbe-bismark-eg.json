@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK KALBE-BISMARK EG",
   "legalName": "RAIFFEISENBANK KALBE-BISMARK EG",
-  "bic": "RAKBDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankkalbebismarkeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAKBDE21XXX"
 }

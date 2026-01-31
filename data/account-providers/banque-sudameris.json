@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE SUDAMERIS",
   "legalName": "BANQUE SUDAMERIS",
-  "bic": "BSUDESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquesudameris.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSUDESM1XXX"
 }

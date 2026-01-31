@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS IRELAND FINANCE LIMITED",
   "legalName": "GOLDMAN SACHS IRELAND FINANCE LIMITED",
-  "bic": "GOSRIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsirelandfinancelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOSRIE21XXX"
 }

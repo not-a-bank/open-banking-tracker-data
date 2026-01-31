@@ -8,7 +8,6 @@
   ],
   "name": "DUKASCOPY EUROPE IBS AS",
   "legalName": "DUKASCOPY EUROPE IBS AS",
-  "bic": "JSSILV21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dukascopyeuropeibsas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JSSILV21XXX"
 }

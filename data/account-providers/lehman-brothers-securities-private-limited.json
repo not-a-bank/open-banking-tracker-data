@@ -8,7 +8,6 @@
   ],
   "name": "LEHMAN BROTHERS SECURITIES PRIVATE LIMITED",
   "legalName": "LEHMAN BROTHERS SECURITIES PRIVATE LIMITED",
-  "bic": "LBSPINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lehmanbrotherssecuritiesprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LBSPINB1XXX"
 }

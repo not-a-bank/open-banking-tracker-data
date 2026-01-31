@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MULTIBANK S.A.",
   "legalName": "BANCO MULTIBANK S.A.",
-  "bic": "MCTBCOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomultibanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCTBCOBBXXX"
 }

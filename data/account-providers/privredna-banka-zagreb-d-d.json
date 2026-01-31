@@ -8,7 +8,6 @@
   ],
   "name": "Privredna Banka Zagreb D.d.",
   "legalName": "PRIVREDNA BANKA ZAGREB D.D.",
-  "bic": "PBZGHR2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBZGHR2XXXX"
 }

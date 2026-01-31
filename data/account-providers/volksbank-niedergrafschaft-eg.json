@@ -9,7 +9,6 @@
   ],
   "name": "VOLKSBANK NIEDERGRAFSCHAFT EG",
   "legalName": "VOLKSBANK NIEDERGRAFSCHAFT EG",
-  "bic": "VONIDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VONIDE21XXX"
 }

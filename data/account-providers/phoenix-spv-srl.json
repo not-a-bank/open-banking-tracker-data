@@ -8,7 +8,6 @@
   ],
   "name": "PHOENIX SPV S.R.L.",
   "legalName": "PHOENIX SPV S.R.L.",
-  "bic": "PHSSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.phoenixspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHSSITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL STANDARD BANK",
   "legalName": "NATIONAL STANDARD BANK",
-  "bic": "CBNNRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalstandardbankru.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBNNRUM1XXX"
 }

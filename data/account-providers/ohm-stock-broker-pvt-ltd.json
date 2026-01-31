@@ -8,7 +8,6 @@
   ],
   "name": "OHM STOCK BROKER PVT LTD",
   "legalName": "OHM STOCK BROKER PVT LTD",
-  "bic": "OSBPINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ohmstockbrokerpvtltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OSBPINB1XXX"
 }

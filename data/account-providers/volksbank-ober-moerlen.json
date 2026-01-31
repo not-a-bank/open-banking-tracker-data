@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Ober-M\u00f6rlen",
-  "legalName": "Volksbank Ober-M\u00f6rlen",
+  "name": "Volksbank Ober-Mörlen",
+  "legalName": "Volksbank Ober-Mörlen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-ober-moerlen.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

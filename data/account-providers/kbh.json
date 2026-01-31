@@ -8,7 +8,6 @@
   ],
   "name": "KBH",
   "legalName": "KBH",
-  "bic": "KBHKUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBHKUS41XXX"
 }

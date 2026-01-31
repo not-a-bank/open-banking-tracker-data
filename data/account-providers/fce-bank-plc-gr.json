@@ -8,7 +8,6 @@
   ],
   "name": "FCE BANK PLC",
   "legalName": "FCE BANK PLC",
-  "bic": "FOGRGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fcebankplcgr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FOGRGRA1XXX"
 }

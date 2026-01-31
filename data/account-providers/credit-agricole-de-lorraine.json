@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole de Lorraine",
-  "legalName": "Cr\u00e9dit Agricole de Lorraine",
+  "name": "Crédit Agricole de Lorraine",
+  "legalName": "Crédit Agricole de Lorraine",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-de-lorraine.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

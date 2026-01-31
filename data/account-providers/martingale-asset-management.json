@@ -8,7 +8,6 @@
   ],
   "name": "MARTINGALE ASSET MANAGEMENT",
   "legalName": "MARTINGALE ASSET MANAGEMENT",
-  "bic": "MAAEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.martingaleassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAAEUS31XXX"
 }

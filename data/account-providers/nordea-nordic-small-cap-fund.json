@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA NORDIC SMALL CAP FUND",
   "legalName": "NORDEA NORDIC SMALL CAP FUND",
-  "bic": "NNSCFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeanordicsmallcapfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NNSCFIH1XXX"
 }

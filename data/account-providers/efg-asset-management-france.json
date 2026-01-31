@@ -8,7 +8,6 @@
   ],
   "name": "EFG ASSET MANAGEMENT FRANCE",
   "legalName": "EFG ASSET MANAGEMENT FRANCE",
-  "bic": "EAMFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efgassetmanagementfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EAMFFRP1XXX"
 }

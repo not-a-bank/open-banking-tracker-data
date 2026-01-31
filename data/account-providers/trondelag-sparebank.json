@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Tr\u00f8ndelag Sparebank",
-  "legalName": "Tr\u00f8ndelag Sparebank",
+  "name": "Trøndelag Sparebank",
+  "legalName": "Trøndelag Sparebank",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trondelag-sparebank.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "HEMNNO21XXX"
+  "bic": "HEMNNO21"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "ya-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "yA Bank",
+  "legalName": "yA Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.ya-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "NO",
+  "countries": [
+    "NO"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "YABANOK1"
+}

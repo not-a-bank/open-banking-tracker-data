@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "L\u00e5n & Spar Bank A/S",
-  "legalName": "L\u00e5n & Spar Bank A/S",
+  "name": "Lån & Spar Bank A/S",
+  "legalName": "Lån & Spar Bank A/S",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lan-spar-bank-as.com.ico",
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOSADKKK"
 }

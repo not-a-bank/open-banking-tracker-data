@@ -8,7 +8,6 @@
   ],
   "name": "MUTUALITE FRANCAISE CALVADOS",
   "legalName": "MUTUALITE FRANCAISE CALVADOS",
-  "bic": "MUFCFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mutualitefrancaisecalvados.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUFCFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EUROPEAN UNION SATELLITE CENTRE",
   "legalName": "EUROPEAN UNION SATELLITE CENTRE",
-  "bic": "EUSNES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.europeanunionsatellitecentre.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUSNES21XXX"
 }

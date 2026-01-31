@@ -8,7 +8,6 @@
   ],
   "name": "POSOJILNICA BANK EGEN",
   "legalName": "POSOJILNICA BANK EGEN",
-  "bic": "VSGKAT2KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.posojilnicabankegen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VSGKAT2KXXX"
 }

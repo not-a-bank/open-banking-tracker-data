@@ -8,7 +8,6 @@
   ],
   "name": "RV CAPITAL B.V.",
   "legalName": "RV CAPITAL B.V.",
-  "bic": "CPAINL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rvcapitalbvnl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPAINL21XXX"
 }

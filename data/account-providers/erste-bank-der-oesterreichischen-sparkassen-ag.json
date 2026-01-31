@@ -8,7 +8,6 @@
   ],
   "name": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
   "legalName": "ERSTE BANK DER OESTERREICHISCHEN SPARKASSEN AG",
-  "bic": "GIBAATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.erstebankderoesterreichischensparkassenag.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIBAATWWXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OPTIMA BANK OJSC",
   "legalName": "OPTIMA BANK OJSC",
-  "bic": "ENEJKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.optimabankojsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENEJKG22XXX"
 }

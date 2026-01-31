@@ -8,7 +8,6 @@
   ],
   "name": "UBS SECURITIES MALAYSIA SDN. BHD.",
   "legalName": "UBS SECURITIES MALAYSIA SDN. BHD.",
-  "bic": "USMSMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubssecuritiesmalaysiasdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USMSMYK1XXX"
 }

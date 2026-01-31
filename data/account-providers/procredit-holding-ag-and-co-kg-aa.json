@@ -8,7 +8,6 @@
   ],
   "name": "PROCREDIT HOLDING AG AND CO. KG AA",
   "legalName": "PROCREDIT HOLDING AG AND CO. KG AA",
-  "bic": "PRCHDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.procreditholdingagandcokgaa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRCHDEF1XXX"
 }

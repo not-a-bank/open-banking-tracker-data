@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA, N.A. HONG KONG",
   "legalName": "BANK OF AMERICA, N.A. HONG KONG",
-  "bic": "BOFAHKHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericanahongkong.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAHKHXXXX"
 }

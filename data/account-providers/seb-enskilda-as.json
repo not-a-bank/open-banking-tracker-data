@@ -8,7 +8,6 @@
   ],
   "name": "SEB ENSKILDA AS",
   "legalName": "SEB ENSKILDA AS",
-  "bic": "ENSKNOKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sebenskildaas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENSKNOKKXXX"
 }

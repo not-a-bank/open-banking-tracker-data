@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
   "legalName": "BANK OF HANGZHOU CO., LTD (FORMERLY HANGZHOU CITY COMMERCIAL BANK CO., LTD)",
-  "bic": "HZCBCN2HXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofhangzhoucoltdformerlyhangzhoucitycom.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HZCBCN2HXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ITAU CHILE ADMINISTRADORA GENERAL DE FONDOS S.A.",
   "legalName": "ITAU CHILE ADMINISTRADORA GENERAL DE FONDOS S.A.",
-  "bic": "ICDGCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.itauchileadministradorageneraldefondossa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICDGCLR1XXX"
 }

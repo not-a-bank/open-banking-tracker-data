@@ -8,7 +8,6 @@
   ],
   "name": "NBK BANQUE PRIVEE (SUISSE) S.A.",
   "legalName": "NBK BANQUE PRIVEE (SUISSE) S.A.",
-  "bic": "NBOKCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nbkbanquepriveesuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBOKCHGGXXX"
 }

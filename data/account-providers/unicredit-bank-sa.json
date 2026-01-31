@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BANK SA",
   "legalName": "UNICREDIT BANK SA",
-  "bic": "BACXROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACXROBUXXX"
 }

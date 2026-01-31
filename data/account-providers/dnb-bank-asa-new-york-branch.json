@@ -8,7 +8,6 @@
   ],
   "name": "DNB BANK ASA, NEW YORK BRANCH",
   "legalName": "DNB BANK ASA, NEW YORK BRANCH",
-  "bic": "DNBAUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dnbbankasanewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNBAUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EURO ATLANTIC BANCORP",
   "legalName": "EURO ATLANTIC BANCORP",
-  "bic": "EUABES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euroatlanticbancorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUABES21XXX"
 }

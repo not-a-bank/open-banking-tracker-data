@@ -8,7 +8,6 @@
   ],
   "name": "INTRA S/A CCV",
   "legalName": "INTRA S/A CCV",
-  "bic": "INCVBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intrasaccv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INCVBRS1XXX"
 }

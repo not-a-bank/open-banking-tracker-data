@@ -8,7 +8,6 @@
   ],
   "name": "VERSUS BANK",
   "legalName": "VERSUS BANK",
-  "bic": "VSBKCIABXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.versusbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VSBKCIABXXX"
 }

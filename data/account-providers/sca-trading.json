@@ -8,7 +8,6 @@
   ],
   "name": "S.C.A. TRADING",
   "legalName": "S.C.A. TRADING",
-  "bic": "SCATUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scatrading.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCATUS41XXX"
 }

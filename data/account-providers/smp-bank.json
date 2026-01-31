@@ -8,7 +8,6 @@
   ],
   "name": "SMP BANK",
   "legalName": "SMP BANK",
-  "bic": "SMBKRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.smpbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMBKRUMMXXX"
 }

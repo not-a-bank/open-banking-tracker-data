@@ -8,7 +8,6 @@
   ],
   "name": "OCBC SECURITIES (MELAKA) SDN BHD",
   "legalName": "OCBC SECURITIES (MELAKA) SDN BHD",
-  "bic": "OSMSMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ocbcsecuritiesmelakasdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OSMSMY21XXX"
 }

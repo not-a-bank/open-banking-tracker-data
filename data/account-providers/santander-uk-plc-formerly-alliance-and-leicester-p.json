@@ -8,7 +8,6 @@
   ],
   "name": "SANTANDER UK PLC (FORMERLY ALLIANCE AND LEICESTER PLC)",
   "legalName": "SANTANDER UK PLC (FORMERLY ALLIANCE AND LEICESTER PLC)",
-  "bic": "ALEIGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santanderukplcformerlyallianceandleicesterp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALEIGB22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH",
   "legalName": "JPMORGAN CHASE BANK, N.A., HONG KONG BRANCH",
-  "bic": "CHASHKHPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganchasebanknahongkongbranchhk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASHKHPXXX"
 }

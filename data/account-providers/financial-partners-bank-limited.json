@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIAL PARTNERS BANK LIMITED",
   "legalName": "FINANCIAL PARTNERS BANK LIMITED",
-  "bic": "FPBLVUV1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financialpartnersbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FPBLVUV1XXX"
 }

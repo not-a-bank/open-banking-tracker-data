@@ -8,7 +8,6 @@
   ],
   "name": "CITICORP SECURITIES (THAILAND) LTD",
   "legalName": "CITICORP SECURITIES (THAILAND) LTD",
-  "bic": "CISTTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citicorpsecuritiesthailandltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CISTTHB1XXX"
 }

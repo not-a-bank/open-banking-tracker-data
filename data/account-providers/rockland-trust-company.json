@@ -8,7 +8,6 @@
   ],
   "name": "ROCKLAND TRUST COMPANY",
   "legalName": "ROCKLAND TRUST COMPANY",
-  "bic": "RTCOUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rocklandtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RTCOUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "WIENERBERGER FINANZ SERVICE GMBH",
   "legalName": "WIENERBERGER FINANZ SERVICE GMBH",
-  "bic": "WIENATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wienerbergerfinanzservicegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WIENATWWXXX"
 }

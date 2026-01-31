@@ -8,7 +8,6 @@
   ],
   "name": "BANCLEAR TRUST KB",
   "legalName": "BANCLEAR TRUST KB",
-  "bic": "BTRSSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancleartrustkb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTRSSES1XXX"
 }

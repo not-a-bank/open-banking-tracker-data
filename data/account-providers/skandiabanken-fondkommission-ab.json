@@ -8,7 +8,6 @@
   ],
   "name": "SKANDIABANKEN FONDKOMMISSION AB",
   "legalName": "SKANDIABANKEN FONDKOMMISSION AB",
-  "bic": "SKBFSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.skandiabankenfondkommissionab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKBFSES1XXX"
 }

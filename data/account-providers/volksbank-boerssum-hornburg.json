@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank B\u00f6r\u00dfum-Hornburg",
-  "legalName": "Volksbank B\u00f6r\u00dfum-Hornburg",
+  "name": "Volksbank Börßum-Hornburg",
+  "legalName": "Volksbank Börßum-Hornburg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-boerssum-hornburg.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

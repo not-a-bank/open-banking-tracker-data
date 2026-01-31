@@ -8,7 +8,6 @@
   ],
   "name": "CORP HIPOTECARIO CA",
   "legalName": "CORP HIPOTECARIO CA",
-  "bic": "BHCOVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.corphipotecarioca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHCOVEC1XXX"
 }

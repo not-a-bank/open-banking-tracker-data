@@ -8,7 +8,6 @@
   ],
   "name": "CFS SECURITIES AND INVESTMENT SERVICES S.A.",
   "legalName": "CFS SECURITIES AND INVESTMENT SERVICES S.A.",
-  "bic": "CSIEGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cfssecuritiesandinvestmentservicessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSIEGRA1XXX"
 }

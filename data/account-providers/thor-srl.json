@@ -8,7 +8,6 @@
   ],
   "name": "THOR SRL",
   "legalName": "THOR SRL",
-  "bic": "THSRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thorsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "THSRITM1XXX"
 }

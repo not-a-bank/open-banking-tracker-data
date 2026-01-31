@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF ASIA CJSC",
   "legalName": "BANK OF ASIA CJSC",
-  "bic": "ASCJKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofasiacjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASCJKG22XXX"
 }

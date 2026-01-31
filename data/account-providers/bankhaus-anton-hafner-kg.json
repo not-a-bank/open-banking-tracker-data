@@ -9,7 +9,6 @@
   ],
   "name": "BANKHAUS ANTON HAFNER KG",
   "legalName": "BANKHAUS ANTON HAFNER KG",
-  "bic": "ANHODE77XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/bankhaus_anton_de.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANHODE77XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RIA FRANCE",
   "legalName": "RIA FRANCE",
-  "bic": "RIFRFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.riafrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RIFRFR21XXX"
 }

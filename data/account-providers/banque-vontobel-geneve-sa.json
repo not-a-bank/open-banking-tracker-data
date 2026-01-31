@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE VONTOBEL GENEVE SA.",
   "legalName": "BANQUE VONTOBEL GENEVE SA.",
-  "bic": "VTGECHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquevontobelgenevesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VTGECHG1XXX"
 }

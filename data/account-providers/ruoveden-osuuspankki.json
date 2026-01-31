@@ -8,7 +8,6 @@
   ],
   "name": "RUOVEDEN OSUUSPANKKI",
   "legalName": "RUOVEDEN OSUUSPANKKI",
-  "bic": "RUOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ruovedenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RUOSFI21XXX"
 }

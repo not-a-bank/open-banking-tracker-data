@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, BELGIANBRANCH",
   "legalName": "BANQUE PRIVEE EDMOND DE ROTHSCHILD EUROPE, BELGIANBRANCH",
-  "bic": "PRIBBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepriveeedmondderothschildeuropebelgianb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRIBBEBBXXX"
 }

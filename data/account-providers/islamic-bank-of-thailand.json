@@ -8,7 +8,6 @@
   ],
   "name": "ISLAMIC BANK OF THAILAND",
   "legalName": "ISLAMIC BANK OF THAILAND",
-  "bic": "TIBTTHBKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.islamicbankofthailand.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TIBTTHBKXXX"
 }

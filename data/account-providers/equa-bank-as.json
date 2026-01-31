@@ -8,7 +8,6 @@
   ],
   "name": "EQUA BANK A.S.",
   "legalName": "EQUA BANK A.S.",
-  "bic": "EQBKCZPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.equabankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EQBKCZPPXXX"
 }

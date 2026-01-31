@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK RAIFFEISENBANK NIEDERSCHLESIEN EG",
   "legalName": "VOLKSBANK RAIFFEISENBANK NIEDERSCHLESIEN EG",
-  "bic": "VORIDE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankraiffeisenbankniederschlesieneg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VORIDE31XXX"
 }

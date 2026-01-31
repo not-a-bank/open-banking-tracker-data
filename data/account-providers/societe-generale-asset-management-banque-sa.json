@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE ASSET MANAGEMENT BANQUE SA",
   "legalName": "SOCIETE GENERALE ASSET MANAGEMENT BANQUE SA",
-  "bic": "SGAAFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneraleassetmanagementbanquesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGAAFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DENIZBANK AS BAHRAIN BRANCH (OBU)",
   "legalName": "DENIZBANK AS BAHRAIN BRANCH (OBU)",
-  "bic": "DENIBHBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.denizbankasbahrainbranchobu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DENIBHBXXXX"
 }

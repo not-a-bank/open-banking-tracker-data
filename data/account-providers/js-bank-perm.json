@@ -8,7 +8,6 @@
   ],
   "name": "JS BANK PERM",
   "legalName": "JS BANK PERM",
-  "bic": "PJSCRU41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jsbankperm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PJSCRU41XXX"
 }

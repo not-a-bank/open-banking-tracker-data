@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA INVEST FUND MANAGEMENT A/S",
   "legalName": "NORDEA INVEST FUND MANAGEMENT A/S",
-  "bic": "NIFNDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeainvestfundmanagementas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIFNDK21XXX"
 }

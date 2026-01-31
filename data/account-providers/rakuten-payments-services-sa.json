@@ -8,7 +8,6 @@
   ],
   "name": "RAKUTEN PAYMENTS SERVICES SA",
   "legalName": "RAKUTEN PAYMENTS SERVICES SA",
-  "bic": "RAPSLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rakutenpaymentsservicessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAPSLUL1XXX"
 }

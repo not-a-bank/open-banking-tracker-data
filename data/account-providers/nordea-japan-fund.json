@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA JAPAN FUND",
   "legalName": "NORDEA JAPAN FUND",
-  "bic": "NOJFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeajapanfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOJFFIH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OCBC SECURITIES (HONG KONG) LIMITED",
   "legalName": "OCBC SECURITIES (HONG KONG) LIMITED",
-  "bic": "OCSEHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ocbcsecuritieshongkonglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OCSEHKH1XXX"
 }

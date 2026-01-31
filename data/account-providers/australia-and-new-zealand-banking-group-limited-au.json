@@ -8,7 +8,6 @@
   ],
   "name": "Australia AND NEW Zealand Banking Group Limited (AU Rtgs Purpose)",
   "legalName": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED (AU RTGS PURPOSE)",
-  "bic": "ANZBAU3RXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBAU3RXXX"
 }

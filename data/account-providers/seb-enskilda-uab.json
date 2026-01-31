@@ -8,7 +8,6 @@
   ],
   "name": "SEB ENSKILDA UAB",
   "legalName": "SEB ENSKILDA UAB",
-  "bic": "SENULT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sebenskildauab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SENULT21XXX"
 }

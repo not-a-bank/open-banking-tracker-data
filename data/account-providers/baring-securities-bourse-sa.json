@@ -8,7 +8,6 @@
   ],
   "name": "BARING SECURITIES BOURSE S.A.",
   "legalName": "BARING SECURITIES BOURSE S.A.",
-  "bic": "BSEFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baringsecuritiesboursesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSEFFRP1XXX"
 }

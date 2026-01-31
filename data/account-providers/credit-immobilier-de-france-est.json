@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT IMMOBILIER DE FRANCE EST",
   "legalName": "CREDIT IMMOBILIER DE FRANCE EST",
-  "bic": "CIRSFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditimmobilierdefranceest.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIRSFR21XXX"
 }

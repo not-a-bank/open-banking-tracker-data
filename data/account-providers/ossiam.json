@@ -8,7 +8,6 @@
   ],
   "name": "OSSIAM",
   "legalName": "OSSIAM",
-  "bic": "OSSAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ossiam.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OSSAFRP1XXX"
 }

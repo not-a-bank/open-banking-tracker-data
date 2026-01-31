@@ -8,7 +8,6 @@
   ],
   "name": "ONE SAVINGS BANK PLC.",
   "legalName": "ONE SAVINGS BANK PLC.",
-  "bic": "KENTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.onesavingsbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KENTGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MASTER CARD INTERNATIONAL INC.",
   "legalName": "MASTER CARD INTERNATIONAL INC.",
-  "bic": "MACSUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mastercardinternationalinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MACSUS33XXX"
 }

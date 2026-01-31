@@ -8,7 +8,6 @@
   ],
   "name": "BANCA COOP SA",
   "legalName": "BANCA COOP SA",
-  "bic": "COOPCHBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancacoopsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COOPCHBBXXX"
 }

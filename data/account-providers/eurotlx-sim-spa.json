@@ -8,7 +8,6 @@
   ],
   "name": "EUROTLX SIM S.P.A.",
   "legalName": "EUROTLX SIM S.P.A.",
-  "bic": "TLXEITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurotlxsimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TLXEITMMXXX"
 }

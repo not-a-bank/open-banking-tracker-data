@@ -8,7 +8,6 @@
   ],
   "name": "EFG PRIVATE BANK (C.I.) LT, JERSEY BRANCH",
   "legalName": "EFG PRIVATE BANK (C.I.) LT, JERSEY BRANCH",
-  "bic": "EFGBJESHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efgprivatebankciltjerseybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFGBJESHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO FALABELLA S.A.",
   "legalName": "BANCO FALABELLA S.A.",
-  "bic": "FALACOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancofalabellasaco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FALACOBBXXX"
 }

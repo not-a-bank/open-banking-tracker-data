@@ -8,7 +8,6 @@
   ],
   "name": "BANK MENDES GANS N.V.",
   "legalName": "BANK MENDES GANS N.V.",
-  "bic": "BKMGNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankmendesgansnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKMGNL2AXXX"
 }

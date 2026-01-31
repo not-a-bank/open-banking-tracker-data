@@ -8,7 +8,6 @@
   ],
   "name": "UNITED CAPITAL PUESTO DE BOLSA",
   "legalName": "UNITED CAPITAL PUESTO DE BOLSA",
-  "bic": "UCPODOS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedcapitalpuestodebolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UCPODOS1XXX"
 }

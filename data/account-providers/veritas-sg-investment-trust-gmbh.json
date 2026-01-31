@@ -8,7 +8,6 @@
   ],
   "name": "VERITAS SG INVESTMENT TRUST GMBH",
   "legalName": "VERITAS SG INVESTMENT TRUST GMBH",
-  "bic": "VERTDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.veritassginvestmenttrustgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VERTDEF1XXX"
 }

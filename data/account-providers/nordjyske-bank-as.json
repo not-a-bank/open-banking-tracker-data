@@ -8,7 +8,6 @@
   ],
   "name": "NORDJYSKE BANK A/S",
   "legalName": "NORDJYSKE BANK A/S",
-  "bic": "NRSBDK24XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordjyskebankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NRSBDK24XXX"
 }

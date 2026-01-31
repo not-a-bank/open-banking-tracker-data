@@ -8,7 +8,6 @@
   ],
   "name": "INDUSTRIAL SECURITIES (HK) BROKERAGE LIMITED",
   "legalName": "INDUSTRIAL SECURITIES (HK) BROKERAGE LIMITED",
-  "bic": "INUBHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.industrialsecuritieshkbrokeragelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INUBHKH1XXX"
 }

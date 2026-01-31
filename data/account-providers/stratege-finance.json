@@ -8,7 +8,6 @@
   ],
   "name": "STRATEGE FINANCE",
   "legalName": "STRATEGE FINANCE",
-  "bic": "STFCFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.strategefinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STFCFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CEMEX S.A.B. DE C.V.",
   "legalName": "CEMEX S.A.B. DE C.V.",
-  "bic": "CXCXMXMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cemexsabdecv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CXCXMXMTXXX"
 }

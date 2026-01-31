@@ -8,7 +8,6 @@
   ],
   "name": "INVESCO GT ASSET MANAGEMENT PLC",
   "legalName": "INVESCO GT ASSET MANAGEMENT PLC",
-  "bic": "IVAAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invescogtassetmanagementplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVAAGB21XXX"
 }

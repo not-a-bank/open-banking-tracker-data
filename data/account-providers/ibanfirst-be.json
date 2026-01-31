@@ -9,7 +9,6 @@
   ],
   "name": "IBANFIRST",
   "legalName": "IBANFIRST",
-  "bic": "FXBBBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1573263309/radar/icons/ibanfirst.jpg",
@@ -73,5 +72,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FXBBBEBBXXX"
 }

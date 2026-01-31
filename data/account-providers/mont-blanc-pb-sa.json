@@ -8,7 +8,6 @@
   ],
   "name": "MONT-BLANC P.B. SA",
   "legalName": "MONT-BLANC P.B. SA",
-  "bic": "MBPBCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.montblancpbsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBPBCHG1XXX"
 }

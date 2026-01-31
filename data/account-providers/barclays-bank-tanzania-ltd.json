@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS BANK TANZANIA LTD",
   "legalName": "BARCLAYS BANK TANZANIA LTD",
-  "bic": "BARCTZTZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysbanktanzanialtd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCTZTZXXX"
 }

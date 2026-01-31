@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK EUROPE PLC AUSTRIA BRANCH",
   "legalName": "CITIBANK EUROPE PLC AUSTRIA BRANCH",
-  "bic": "CITIAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankeuropeplcaustriabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIAT21XXX"
 }

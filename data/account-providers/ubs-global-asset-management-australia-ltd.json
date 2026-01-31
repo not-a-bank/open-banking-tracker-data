@@ -8,7 +8,6 @@
   ],
   "name": "UBS GLOBAL ASSET MANAGEMENT (AUSTRALIA) LTD",
   "legalName": "UBS GLOBAL ASSET MANAGEMENT (AUSTRALIA) LTD",
-  "bic": "UGAMAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsglobalassetmanagementaustralialtd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UGAMAU21XXX"
 }

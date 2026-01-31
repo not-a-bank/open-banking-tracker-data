@@ -8,7 +8,6 @@
   ],
   "name": "ADIRONDACK TRUST CO",
   "legalName": "ADIRONDACK TRUST CO",
-  "bic": "ADTRUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.adirondacktrustco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADTRUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL COMMERCIAL BANK LTD",
   "legalName": "INTERNATIONAL COMMERCIAL BANK LTD",
-  "bic": "ICBJSSJBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalcommercialbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICBJSSJBXXX"
 }

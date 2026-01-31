@@ -8,7 +8,6 @@
   ],
   "name": "EBG STOCKBROKERS LTD.",
   "legalName": "EBG STOCKBROKERS LTD.",
-  "bic": "STORGHA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ebgstockbrokersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STORGHA1XXX"
 }

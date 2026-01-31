@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERE DU CREDIT MUTUEL",
   "legalName": "FINANCIERE DU CREDIT MUTUEL",
-  "bic": "FCMUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financiereducreditmutuel.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCMUFRP1XXX"
 }

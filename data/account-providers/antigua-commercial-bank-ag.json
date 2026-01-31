@@ -8,7 +8,6 @@
   ],
   "name": "ANTIGUA COMMERCIAL BANK",
   "legalName": "ANTIGUA COMMERCIAL BANK",
-  "bic": "AOBAAGA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.antiguacommercialbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AOBAAGA1XXX"
 }

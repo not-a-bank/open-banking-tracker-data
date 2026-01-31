@@ -8,7 +8,6 @@
   ],
   "name": "BANK JULIUS BAER AND CO LTD (GUERNSEY BRANCH)",
   "legalName": "BANK JULIUS BAER AND CO LTD (GUERNSEY BRANCH)",
-  "bic": "BAERGGSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankjuliusbaerandcoltdguernseybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAERGGSPXXX"
 }

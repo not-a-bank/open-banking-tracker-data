@@ -8,7 +8,6 @@
   ],
   "name": "CDC MARCHES LONDON BRANCH",
   "legalName": "CDC MARCHES LONDON BRANCH",
-  "bic": "CMLBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cdcmarcheslondonbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMLBGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OJSC COMMERCE BANK OF TAJIKISTAN",
   "legalName": "OJSC COMMERCE BANK OF TAJIKISTAN",
-  "bic": "MFARTJ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ojsccommercebankoftajikistan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MFARTJ22XXX"
 }

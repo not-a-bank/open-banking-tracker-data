@@ -8,7 +8,6 @@
   ],
   "name": "Societe Generale Benin",
   "legalName": "SOCIETE GENERALE BENIN",
-  "bic": "SOGEBJBJXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGEBJBJXXX"
 }

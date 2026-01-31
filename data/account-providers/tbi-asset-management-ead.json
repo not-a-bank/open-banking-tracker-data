@@ -8,7 +8,6 @@
   ],
   "name": "TBI ASSET MANAGEMENT EAD",
   "legalName": "TBI ASSET MANAGEMENT EAD",
-  "bic": "TASGBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tbiassetmanagementead.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TASGBGS1XXX"
 }

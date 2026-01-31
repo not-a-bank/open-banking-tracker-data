@@ -8,7 +8,6 @@
   ],
   "name": "SIPCAM S.P.A.",
   "legalName": "SIPCAM S.P.A.",
-  "bic": "SIPMITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sipcamspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIPMITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EF ASSET MANAGEMENT",
   "legalName": "EF ASSET MANAGEMENT",
-  "bic": "AMNMBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMNMBGS1XXX"
 }

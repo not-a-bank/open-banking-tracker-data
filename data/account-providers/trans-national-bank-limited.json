@@ -8,7 +8,6 @@
   ],
   "name": "TRANS-NATIONAL BANK LIMITED",
   "legalName": "TRANS-NATIONAL BANK LIMITED",
-  "bic": "TNBLKENAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.transnationalbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TNBLKENAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SYDINVEST ADMINISTRATION A/S",
   "legalName": "SYDINVEST ADMINISTRATION A/S",
-  "bic": "SADMDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sydinvestadministrationas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SADMDK21XXX"
 }

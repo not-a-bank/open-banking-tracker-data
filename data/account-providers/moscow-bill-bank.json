@@ -8,7 +8,6 @@
   ],
   "name": "MOSCOW BILL BANK",
   "legalName": "MOSCOW BILL BANK",
-  "bic": "JSMBRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.moscowbillbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JSMBRUMMXXX"
 }

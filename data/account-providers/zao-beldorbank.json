@@ -8,7 +8,6 @@
   ],
   "name": "ZAO 'BELDORBANK'",
   "legalName": "ZAO 'BELDORBANK'",
-  "bic": "BEZARU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zaobeldorbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEZARU21XXX"
 }

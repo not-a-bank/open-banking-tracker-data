@@ -8,7 +8,6 @@
   ],
   "name": "SACICAP DU CALVADOS",
   "legalName": "SACICAP DU CALVADOS",
-  "bic": "SCOOFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sacicapducalvados.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCOOFR21XXX"
 }

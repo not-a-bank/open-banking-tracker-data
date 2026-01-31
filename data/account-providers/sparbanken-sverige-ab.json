@@ -8,7 +8,6 @@
   ],
   "name": "SPARBANKEN SVERIGE AB",
   "legalName": "SPARBANKEN SVERIGE AB",
-  "bic": "SPSVGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparbankensverigeab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPSVGB21XXX"
 }

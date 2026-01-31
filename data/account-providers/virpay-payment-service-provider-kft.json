@@ -8,7 +8,6 @@
   ],
   "name": "VIRPAY PAYMENT SERVICE PROVIDER KFT",
   "legalName": "VIRPAY PAYMENT SERVICE PROVIDER KFT",
-  "bic": "VIRPHUHBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.virpaypaymentserviceproviderkft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIRPHUHBXXX"
 }

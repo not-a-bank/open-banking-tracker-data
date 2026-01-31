@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL BANK SA",
   "legalName": "CAPITAL BANK SA",
-  "bic": "IBICMZMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalbanksamz.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBICMZMAXXX"
 }

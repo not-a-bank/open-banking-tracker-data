@@ -8,7 +8,6 @@
   ],
   "name": "ACONA BV",
   "legalName": "ACONA BV",
-  "bic": "ACOANL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aconabv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACOANL21XXX"
 }

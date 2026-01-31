@@ -8,7 +8,6 @@
   ],
   "name": "CENTRE FINANCIER DE NOUMEA",
   "legalName": "CENTRE FINANCIER DE NOUMEA",
-  "bic": "CEFNNCN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centrefinancierdenoumea.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEFNNCN1XXX"
 }

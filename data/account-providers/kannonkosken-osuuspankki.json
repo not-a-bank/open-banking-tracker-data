@@ -8,7 +8,6 @@
   ],
   "name": "KANNONKOSKEN OSUUSPANKKI",
   "legalName": "KANNONKOSKEN OSUUSPANKKI",
-  "bic": "KANOFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kannonkoskenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KANOFI21XXX"
 }

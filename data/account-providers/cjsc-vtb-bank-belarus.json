@@ -8,7 +8,6 @@
   ],
   "name": "CJSC VTB BANK (BELARUS)",
   "legalName": "CJSC VTB BANK (BELARUS)",
-  "bic": "SLANBY22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cjscvtbbankbelarus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLANBY22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Samoborska Banka D.d.",
   "legalName": "SAMOBORSKA BANKA D.D.",
-  "bic": "SMBRHR22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMBRHR22XXX"
 }

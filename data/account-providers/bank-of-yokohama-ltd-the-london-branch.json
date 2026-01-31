@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF YOKOHAMA LTD., THE, LONDON BRANCH",
   "legalName": "BANK OF YOKOHAMA LTD., THE, LONDON BRANCH",
-  "bic": "HAMAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofyokohamaltdthelondonbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAMAGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "QIWI BANK (JOINT-STOCK COMPANY)",
   "legalName": "QIWI BANK (JOINT-STOCK COMPANY)",
-  "bic": "BELERUA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qiwibankjointstockcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BELERUA1XXX"
 }

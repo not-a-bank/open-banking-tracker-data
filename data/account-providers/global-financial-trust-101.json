@@ -8,7 +8,6 @@
   ],
   "name": "GLOBAL FINANCIAL TRUST    1.01",
   "legalName": "GLOBAL FINANCIAL TRUST    1.01",
-  "bic": "GLFTUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globalfinancialtrust101.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GLFTUS31XXX"
 }

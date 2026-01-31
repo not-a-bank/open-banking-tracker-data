@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY (FRANCE) S.A.",
   "legalName": "MORGAN STANLEY (FRANCE) S.A.",
-  "bic": "MSFRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleyfrancesafr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSFRFRP1XXX"
 }

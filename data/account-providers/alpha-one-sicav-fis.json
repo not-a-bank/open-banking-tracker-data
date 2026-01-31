@@ -8,7 +8,6 @@
   ],
   "name": "ALPHA ONE SICAV-FIS",
   "legalName": "ALPHA ONE SICAV-FIS",
-  "bic": "ALOVLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alphaonesicavfis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALOVLUL1XXX"
 }

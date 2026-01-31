@@ -8,7 +8,6 @@
   ],
   "name": "VUELING AIRLINES S.A",
   "legalName": "VUELING AIRLINES S.A",
-  "bic": "VLNGESBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vuelingairlinessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VLNGESBBXXX"
 }

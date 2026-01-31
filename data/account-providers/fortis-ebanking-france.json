@@ -8,7 +8,6 @@
   ],
   "name": "FORTIS EBANKING FRANCE",
   "legalName": "FORTIS EBANKING FRANCE",
-  "bic": "FOERFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fortisebankingfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FOERFRP1XXX"
 }

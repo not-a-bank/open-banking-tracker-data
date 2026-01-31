@@ -8,7 +8,6 @@
   ],
   "name": "LIBRA SPV SRL",
   "legalName": "LIBRA SPV SRL",
-  "bic": "LISSIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.libraspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LISSIT21XXX"
 }

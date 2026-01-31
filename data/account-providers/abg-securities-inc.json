@@ -8,7 +8,6 @@
   ],
   "name": "ABG SECURITIES INC.",
   "legalName": "ABG SECURITIES INC.",
-  "bic": "ABEEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abgsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABEEUS31XXX"
 }

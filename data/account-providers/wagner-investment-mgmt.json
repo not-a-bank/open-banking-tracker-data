@@ -8,7 +8,6 @@
   ],
   "name": "WAGNER INVESTMENT MGMT",
   "legalName": "WAGNER INVESTMENT MGMT",
-  "bic": "WAIGUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wagnerinvestmentmgmt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WAIGUS51XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HSBC PRIVATE EQUITY LTD",
   "legalName": "HSBC PRIVATE EQUITY LTD",
-  "bic": "HSPEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcprivateequityltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSPEGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "QNB FINANCIAL SERVICES",
   "legalName": "QNB FINANCIAL SERVICES",
-  "bic": "QNBFQAQ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qnbfinancialservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QNBFQAQ1XXX"
 }

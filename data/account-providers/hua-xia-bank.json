@@ -8,7 +8,6 @@
   ],
   "name": "HUA XIA BANK",
   "legalName": "HUA XIA BANK",
-  "bic": "HXBKCNBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.huaxiabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HXBKCNBJXXX"
 }

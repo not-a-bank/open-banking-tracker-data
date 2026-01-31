@@ -8,7 +8,6 @@
   ],
   "name": "JSC Credo Bank",
   "legalName": "JSC CREDO BANK",
-  "bic": "JSCRGE22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JSCRGE22XXX"
 }

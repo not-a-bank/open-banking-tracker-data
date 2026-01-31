@@ -8,7 +8,6 @@
   ],
   "name": "OMDURMAN NATIONAL BANK",
   "legalName": "OMDURMAN NATIONAL BANK",
-  "bic": "OMDBSDKHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.omdurmannationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OMDBSDKHXXX"
 }

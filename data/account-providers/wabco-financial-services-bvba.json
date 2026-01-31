@@ -8,7 +8,6 @@
   ],
   "name": "WABCO FINANCIAL SERVICES BVBA",
   "legalName": "WABCO FINANCIAL SERVICES BVBA",
-  "bic": "WABCBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wabcofinancialservicesbvba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WABCBEBBXXX"
 }

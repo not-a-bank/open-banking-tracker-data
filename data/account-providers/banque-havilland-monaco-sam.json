@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE HAVILLAND (MONACO) S.A.M.",
   "legalName": "BANQUE HAVILLAND (MONACO) S.A.M.",
-  "bic": "HAVLMCMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquehavillandmonacosam.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAVLMCMXXXX"
 }

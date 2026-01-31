@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS BANK (SEYCHELLES) LTD",
   "legalName": "BARCLAYS BANK (SEYCHELLES) LTD",
-  "bic": "BARCSCSCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysbankseychellesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCSCSCXXX"
 }

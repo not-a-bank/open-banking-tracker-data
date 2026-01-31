@@ -8,7 +8,6 @@
   ],
   "name": "DELTASTOCK ASSET MANAGEMENT",
   "legalName": "DELTASTOCK ASSET MANAGEMENT",
-  "bic": "DEEABGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deltastockassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEEABGS1XXX"
 }

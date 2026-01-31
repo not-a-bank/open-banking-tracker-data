@@ -8,7 +8,6 @@
   ],
   "name": "AG INSURANCE",
   "legalName": "AG INSURANCE",
-  "bic": "ISSUBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aginsurance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISSUBEB1XXX"
 }

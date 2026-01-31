@@ -8,7 +8,6 @@
   ],
   "name": "BANCO PORTUGUES ATLANTICO",
   "legalName": "BANCO PORTUGUES ATLANTICO",
-  "bic": "ILBKMZM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoportuguesatlantico.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ILBKMZM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AFRASIA BANK LIMITED",
   "legalName": "AFRASIA BANK LIMITED",
-  "bic": "AFBLMUMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.afrasiabanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFBLMUMUXXX"
 }

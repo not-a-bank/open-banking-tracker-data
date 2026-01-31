@@ -8,7 +8,6 @@
   ],
   "name": "FIJI DEVELOPMENT BANK",
   "legalName": "FIJI DEVELOPMENT BANK",
-  "bic": "FDEVFJF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fijidevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDEVFJF1XXX"
 }

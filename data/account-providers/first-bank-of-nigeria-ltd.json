@@ -8,7 +8,6 @@
   ],
   "name": "FIRST BANK OF NIGERIA LTD",
   "legalName": "FIRST BANK OF NIGERIA LTD",
-  "bic": "FBNINGLAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstbankofnigerialtd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBNINGLAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO SECURITIES (BRASIL) CORRETORA DE VALORES MOBILIARIOS SA",
   "legalName": "ABN AMRO SECURITIES (BRASIL) CORRETORA DE VALORES MOBILIARIOS SA",
-  "bic": "AASBBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamrosecuritiesbrasilcorretoradevaloresmo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AASBBRS1XXX"
 }

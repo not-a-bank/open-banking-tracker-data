@@ -8,7 +8,6 @@
   ],
   "name": "VANEXVA BURSATIL SA",
   "legalName": "VANEXVA BURSATIL SA",
-  "bic": "VNXBARB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vanexvabursatilsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VNXBARB1XXX"
 }

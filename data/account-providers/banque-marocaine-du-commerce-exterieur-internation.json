@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR INTERNATIONAL, S.A.",
   "legalName": "BANQUE MAROCAINE DU COMMERCE EXTERIEUR INTERNATIONAL, S.A.",
-  "bic": "BMCEESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquemarocaineducommerceexterieurinternation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMCEESMMXXX"
 }

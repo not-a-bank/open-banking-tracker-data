@@ -8,7 +8,6 @@
   ],
   "name": "ADVICE KAPITALFORVALTNING AKTIEBOLAG",
   "legalName": "ADVICE KAPITALFORVALTNING AKTIEBOLAG",
-  "bic": "ADKASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.advicekapitalforvaltningaktiebolag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADKASES1XXX"
 }

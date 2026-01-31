@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF America, N.a. NEW Delhi",
   "legalName": "BANK OF AMERICA, N.A. NEW DELHI",
-  "bic": "BOFAIN4XDEL",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAIN4XDEL"
 }

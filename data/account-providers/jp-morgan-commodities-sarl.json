@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN COMMODITIES SARL",
   "legalName": "J.P. MORGAN COMMODITIES SARL",
-  "bic": "CHASCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorgancommoditiessarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASCH21XXX"
 }

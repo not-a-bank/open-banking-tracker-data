@@ -48,7 +48,8 @@
   "apiAggregators": [
     "yaxi",
     "salt-edge",
-    "tink"
+    "tink",
+    "gocardless"
   ],
   "collections": [],
   "sdks": [],
@@ -88,5 +89,5 @@
   "platforms": [],
   "awards": [],
   "marketplaceUrl": "",
-  "swiftCode": "HELADEF1822"
+  "bic": "HELADEF1822"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FRAM FONDENE",
   "legalName": "FRAM FONDENE",
-  "bic": "FRFONO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.framfondene.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRFONO21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UFJ BANK LIMITED, DUSSELDORF BRANCH",
   "legalName": "UFJ BANK LIMITED, DUSSELDORF BRANCH",
-  "bic": "SANWDED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ufjbanklimiteddusseldorfbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SANWDED1XXX"
 }

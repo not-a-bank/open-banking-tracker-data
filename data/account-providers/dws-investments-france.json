@@ -8,7 +8,6 @@
   ],
   "name": "DWS INVESTMENTS FRANCE",
   "legalName": "DWS INVESTMENTS FRANCE",
-  "bic": "DWINFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dwsinvestmentsfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DWINFRP1XXX"
 }

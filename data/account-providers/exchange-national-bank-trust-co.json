@@ -8,7 +8,6 @@
   ],
   "name": "EXCHANGE NATIONAL BANK TRUST CO.",
   "legalName": "EXCHANGE NATIONAL BANK TRUST CO.",
-  "bic": "EBTRUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exchangenationalbanktrustco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBTRUS41XXX"
 }

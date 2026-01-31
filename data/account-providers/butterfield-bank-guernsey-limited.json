@@ -8,7 +8,6 @@
   ],
   "name": "BUTTERFIELD BANK (GUERNSEY) LIMITED",
   "legalName": "BUTTERFIELD BANK (GUERNSEY) LIMITED",
-  "bic": "BNTBGGSXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.butterfieldbankguernseylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNTBGGSXXXX"
 }

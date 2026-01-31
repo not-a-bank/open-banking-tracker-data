@@ -8,7 +8,6 @@
   ],
   "name": "MONTE PASCHI MERCATO SIM",
   "legalName": "MONTE PASCHI MERCATO SIM",
-  "bic": "MPMEITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.montepaschimercatosim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MPMEITM1XXX"
 }

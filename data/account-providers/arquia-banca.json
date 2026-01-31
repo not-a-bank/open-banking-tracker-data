@@ -66,13 +66,14 @@
     }
   ],
   "apiAggregators": [
-    "volt",
+    "gocardless",
     "nordigen",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "CASDESBBXXX"
+  "bic": "CASDESBB"
 }

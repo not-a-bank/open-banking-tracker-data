@@ -8,7 +8,6 @@
   ],
   "name": "ERFURTER BANK EG",
   "legalName": "ERFURTER BANK EG",
-  "bic": "ERFBDE8EXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.erfurterbankeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERFBDE8EXXX"
 }

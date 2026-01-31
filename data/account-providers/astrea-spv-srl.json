@@ -8,7 +8,6 @@
   ],
   "name": "ASTREA SPV SRL",
   "legalName": "ASTREA SPV SRL",
-  "bic": "ASLRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.astreaspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASLRITM1XXX"
 }

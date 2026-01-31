@@ -8,7 +8,6 @@
   ],
   "name": "SANWA FUTURES LLC",
   "legalName": "SANWA FUTURES LLC",
-  "bic": "SAFCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sanwafuturesllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAFCGB21XXX"
 }

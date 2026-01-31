@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO CLEARING HONG KONG LTD",
   "legalName": "ABN AMRO CLEARING HONG KONG LTD",
-  "bic": "AALHHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamroclearinghongkongltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AALHHKH1XXX"
 }

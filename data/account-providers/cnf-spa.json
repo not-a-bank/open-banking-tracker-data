@@ -8,7 +8,6 @@
   ],
   "name": "CNF SPA",
   "legalName": "CNF SPA",
-  "bic": "CNFFITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cnfspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNFFITM1XXX"
 }

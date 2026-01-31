@@ -8,7 +8,6 @@
   ],
   "name": "BIM (SUISSE) S.A.",
   "legalName": "BIM (SUISSE) S.A.",
-  "bic": "BIMLCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bimsuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIMLCH22XXX"
 }

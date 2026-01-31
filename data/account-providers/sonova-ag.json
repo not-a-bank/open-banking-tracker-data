@@ -8,7 +8,6 @@
   ],
   "name": "SONOVA AG",
   "legalName": "SONOVA AG",
-  "bic": "SONOCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sonovaag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SONOCHZZXXX"
 }

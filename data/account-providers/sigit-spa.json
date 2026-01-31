@@ -8,7 +8,6 @@
   ],
   "name": "SIGIT S.P.A.",
   "legalName": "SIGIT S.P.A.",
-  "bic": "SIITIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sigitspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIITIT21XXX"
 }

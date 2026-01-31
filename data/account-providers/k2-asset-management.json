@@ -8,7 +8,6 @@
   ],
   "name": "K2 ASSET MANAGEMENT",
   "legalName": "K2 ASSET MANAGEMENT",
-  "bic": "ASNTAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.k2assetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASNTAU31XXX"
 }

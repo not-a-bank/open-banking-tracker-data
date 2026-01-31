@@ -8,7 +8,6 @@
   ],
   "name": "EXCHANGE FINANS EUROPE AB",
   "legalName": "EXCHANGE FINANS EUROPE AB",
-  "bic": "EXFESES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exchangefinanseuropeab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXFESES1XXX"
 }

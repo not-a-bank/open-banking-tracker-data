@@ -8,7 +8,6 @@
   ],
   "name": "MALARNAS KAPITALFOND FOR AVKASTNING",
   "legalName": "MALARNAS KAPITALFOND FOR AVKASTNING",
-  "bic": "MAKVSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.malarnaskapitalfondforavkastning.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAKVSES1XXX"
 }

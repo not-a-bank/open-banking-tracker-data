@@ -8,7 +8,6 @@
   ],
   "name": "MIDDLE EAST BANK",
   "legalName": "MIDDLE EAST BANK",
-  "bic": "KHMIIRTHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.middleeastbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KHMIIRTHXXX"
 }

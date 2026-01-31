@@ -8,7 +8,6 @@
   ],
   "name": "SCANIA FINANS AB EESTI FILIAL",
   "legalName": "SCANIA FINANS AB EESTI FILIAL",
-  "bic": "SFEFEE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scaniafinansabeestifilial.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFEFEE21XXX"
 }

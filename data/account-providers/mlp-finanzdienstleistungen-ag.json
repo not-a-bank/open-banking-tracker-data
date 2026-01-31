@@ -8,7 +8,6 @@
   ],
   "name": "MLP FINANZDIENSTLEISTUNGEN AG",
   "legalName": "MLP FINANZDIENSTLEISTUNGEN AG",
-  "bic": "MLPBDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mlpfinanzdienstleistungenag.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLPBDE61XXX"
 }

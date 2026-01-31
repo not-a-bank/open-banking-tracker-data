@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL SECURITIES CLEARING CORP",
   "legalName": "NATIONAL SECURITIES CLEARING CORP",
-  "bic": "NASLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalsecuritiesclearingcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NASLUS31XXX"
 }

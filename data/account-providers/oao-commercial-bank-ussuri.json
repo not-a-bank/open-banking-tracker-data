@@ -8,7 +8,6 @@
   ],
   "name": "OAO COMMERCIAL BANK USSURI",
   "legalName": "OAO COMMERCIAL BANK USSURI",
-  "bic": "USSURU81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oaocommercialbankussuri.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USSURU81XXX"
 }

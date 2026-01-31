@@ -8,7 +8,6 @@
   ],
   "name": "KEB HANA BANK SINGAPORE BRANCH",
   "legalName": "KEB HANA BANK SINGAPORE BRANCH",
-  "bic": "KOEXSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kebhanabanksingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOEXSGSGXXX"
 }

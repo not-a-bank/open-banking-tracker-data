@@ -8,7 +8,6 @@
   ],
   "name": "OI BRASIL FINANCE LIMITED",
   "legalName": "OI BRASIL FINANCE LIMITED",
-  "bic": "OIBFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oibrasilfinancelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OIBFGB21XXX"
 }

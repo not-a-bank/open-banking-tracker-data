@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE EPARGNE MARTINIQUE",
   "legalName": "CAISSE EPARGNE MARTINIQUE",
-  "bic": "CAEQMQM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseepargnemartinique.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAEQMQM1XXX"
 }

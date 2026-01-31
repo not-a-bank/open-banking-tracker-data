@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE (HONG KONG) LIMITED",
   "legalName": "CREDIT SUISSE (HONG KONG) LIMITED",
-  "bic": "CSFBHKHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissehongkonglimitedhk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSFBHKHXXXX"
 }

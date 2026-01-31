@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF JORDAN",
   "legalName": "CENTRAL BANK OF JORDAN",
-  "bic": "CBJOJOAXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankofjordan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBJOJOAXXXX"
 }

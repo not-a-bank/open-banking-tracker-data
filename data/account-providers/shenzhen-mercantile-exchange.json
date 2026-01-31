@@ -8,7 +8,6 @@
   ],
   "name": "SHENZHEN MERCANTILE EXCHANGE",
   "legalName": "SHENZHEN MERCANTILE EXCHANGE",
-  "bic": "XSMECNB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shenzhenmercantileexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSMECNB1XXX"
 }

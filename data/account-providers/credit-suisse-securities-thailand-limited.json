@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE SECURITIES (THAILAND) LIMITED",
   "legalName": "CREDIT SUISSE SECURITIES (THAILAND) LIMITED",
-  "bic": "CSFBTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissesecuritiesthailandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSFBTHB1XXX"
 }

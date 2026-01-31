@@ -8,7 +8,6 @@
   ],
   "name": "BAYERISCHE LANDESBANK, SUCCURSALE DE PARIS",
   "legalName": "BAYERISCHE LANDESBANK, SUCCURSALE DE PARIS",
-  "bic": "BYLAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bayerischelandesbanksuccursaledeparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BYLAFRP1XXX"
 }

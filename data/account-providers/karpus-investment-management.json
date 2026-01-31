@@ -8,7 +8,6 @@
   ],
   "name": "KARPUS INVESTMENT MANAGEMENT",
   "legalName": "KARPUS INVESTMENT MANAGEMENT",
-  "bic": "KAIAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.karpusinvestmentmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAIAUS31XXX"
 }

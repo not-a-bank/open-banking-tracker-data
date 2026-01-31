@@ -16,7 +16,7 @@
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -33,9 +33,9 @@
   "apiAggregators": [
     "yaxi",
     "salt-edge",
-    "volt"
+    "volt",
+    "gocardless"
   ],
-  "swiftCode": "NOLADE2HXXX",
   "legalName": "NORD/LB",
   "bic": "NOLADE2HXXX"
 }

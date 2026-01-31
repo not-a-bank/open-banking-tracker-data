@@ -9,7 +9,6 @@
   ],
   "name": "TYSNES SPAREBANK",
   "legalName": "TYSNES SPAREBANK",
-  "bic": "TYSSNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/710829dd-ec49-486e-bea2-967dbf15438d/-/preview/170x170/-/crop/180x180/center/NO937897375.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TYSSNO21"
 }

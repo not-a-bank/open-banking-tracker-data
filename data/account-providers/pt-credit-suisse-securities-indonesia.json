@@ -8,7 +8,6 @@
   ],
   "name": "PT CREDIT SUISSE SECURITIES INDONESIA",
   "legalName": "PT CREDIT SUISSE SECURITIES INDONESIA",
-  "bic": "CRESIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptcreditsuissesecuritiesindonesia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESIDJ1XXX"
 }

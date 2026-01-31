@@ -8,7 +8,6 @@
   ],
   "name": "LOMBARD BANK MALTA PLC",
   "legalName": "LOMBARD BANK MALTA PLC",
-  "bic": "LBMAMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lombardbankmaltaplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LBMAMTMTXXX"
 }

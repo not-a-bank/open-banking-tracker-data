@@ -8,7 +8,6 @@
   ],
   "name": "PT. BANK GANESHA",
   "legalName": "PT. BANK GANESHA",
-  "bic": "GNESIDJAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbankganesha.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GNESIDJAXXX"
 }

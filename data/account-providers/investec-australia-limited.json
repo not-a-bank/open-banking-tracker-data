@@ -8,7 +8,6 @@
   ],
   "name": "INVESTEC AUSTRALIA LIMITED",
   "legalName": "INVESTEC AUSTRALIA LIMITED",
-  "bic": "IVESAU22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investecaustralialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVESAU22XXX"
 }

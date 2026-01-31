@@ -8,7 +8,6 @@
   ],
   "name": "EUROSAVAM S.A.",
   "legalName": "EUROSAVAM S.A.",
-  "bic": "EURVROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurosavamsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EURVROB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "LANDSHYPOTEK BANK AB",
   "legalName": "LANDSHYPOTEK BANK AB",
-  "bic": "LAHYSESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.landshypotekbankab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAHYSESSXXX"
 }

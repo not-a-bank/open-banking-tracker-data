@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CENTRALE DU CONGO",
   "legalName": "BANQUE CENTRALE DU CONGO",
-  "bic": "BCCGCDK2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecentraleducongo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCCGCDK2XXX"
 }

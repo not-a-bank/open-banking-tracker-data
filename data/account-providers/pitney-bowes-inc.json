@@ -8,7 +8,6 @@
   ],
   "name": "PITNEY BOWES INC.",
   "legalName": "PITNEY BOWES INC.",
-  "bic": "PITBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pitneybowesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PITBUS33XXX"
 }

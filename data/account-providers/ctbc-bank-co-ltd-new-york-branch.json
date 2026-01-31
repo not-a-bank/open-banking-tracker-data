@@ -8,7 +8,6 @@
   ],
   "name": "CTBC BANK CO., LTD., NEW YORK BRANCH",
   "legalName": "CTBC BANK CO., LTD., NEW YORK BRANCH",
-  "bic": "CTCBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ctbcbankcoltdnewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTCBUS33XXX"
 }

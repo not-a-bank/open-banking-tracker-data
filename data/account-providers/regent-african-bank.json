@@ -8,7 +8,6 @@
   ],
   "name": "REGENT AFRICAN BANK",
   "legalName": "REGENT AFRICAN BANK",
-  "bic": "RABKSSJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.regentafricanbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABKSSJ1XXX"
 }

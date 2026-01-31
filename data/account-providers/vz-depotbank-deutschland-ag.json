@@ -8,7 +8,6 @@
   ],
   "name": "VZ DEPOTBANK DEUTSCHLAND AG",
   "legalName": "VZ DEPOTBANK DEUTSCHLAND AG",
-  "bic": "DEPDDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vzdepotbankdeutschlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEPDDEMMXXX"
 }

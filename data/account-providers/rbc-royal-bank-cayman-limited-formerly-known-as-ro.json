@@ -8,7 +8,6 @@
   ],
   "name": "RBC ROYAL BANK (CAYMAN) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA GRAND CAYMAN)",
   "legalName": "RBC ROYAL BANK (CAYMAN) LIMITED (FORMERLY KNOWN AS ROYAL BANK OF CANADA GRAND CAYMAN)",
-  "bic": "ROYCKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbcroyalbankcaymanlimitedformerlyknownasro.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROYCKYKYXXX"
 }

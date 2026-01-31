@@ -8,7 +8,6 @@
   ],
   "name": "REGIONE VENETO",
   "legalName": "REGIONE VENETO",
-  "bic": "REVEIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.regioneveneto.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REVEIT21XXX"
 }

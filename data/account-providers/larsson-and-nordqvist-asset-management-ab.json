@@ -8,7 +8,6 @@
   ],
   "name": "LARSSON AND NORDQVIST ASSET MANAGEMENT AB",
   "legalName": "LARSSON AND NORDQVIST ASSET MANAGEMENT AB",
-  "bic": "LNAMSEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.larssonandnordqvistassetmanagementab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LNAMSEM1XXX"
 }

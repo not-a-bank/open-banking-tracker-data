@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY",
   "legalName": "CITIBANK EUROPE PLC, POBOCKA ZAHRANICNEJ BANKY",
-  "bic": "CITISKBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankeuropeplcpobockazahranicnejbanky.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITISKBAXXX"
 }

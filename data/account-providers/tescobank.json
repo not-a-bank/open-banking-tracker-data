@@ -87,8 +87,9 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "truelayer",
-    "salt-edge"
+    "gocardless",
+    "salt-edge",
+    "truelayer"
   ],
   "collections": [],
   "webApplication": false,
@@ -143,5 +144,6 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "marketplaceUrl": ""
+  "marketplaceUrl": "",
+  "bic": "TPFGGB2E"
 }

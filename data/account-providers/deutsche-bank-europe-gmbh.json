@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK EUROPE GMBH",
   "legalName": "DEUTSCHE BANK EUROPE GMBH",
-  "bic": "DEUTDE5XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankeuropegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTDE5XXXX"
 }

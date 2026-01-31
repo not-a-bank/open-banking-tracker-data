@@ -8,7 +8,6 @@
   ],
   "name": "PJSC 'BANK VOSTOK'",
   "legalName": "PJSC 'BANK VOSTOK'",
-  "bic": "ACJCUA2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscbankvostok.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACJCUA2NXXX"
 }

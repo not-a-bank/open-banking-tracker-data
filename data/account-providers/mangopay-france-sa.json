@@ -8,7 +8,6 @@
   ],
   "name": "MANGOPAY FRANCE SA",
   "legalName": "MANGOPAY FRANCE SA",
-  "bic": "MPAYFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mangopayfrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MPAYFRP1XXX"
 }

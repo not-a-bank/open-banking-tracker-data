@@ -8,7 +8,6 @@
   ],
   "name": "NEW MOSCOW BANK",
   "legalName": "NEW MOSCOW BANK",
-  "bic": "NEWMRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newmoscowbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEWMRUMMXXX"
 }

@@ -55,6 +55,7 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
@@ -62,5 +63,5 @@
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "KLBUNO21XXX"
+  "bic": "KLBUNO21"
 }

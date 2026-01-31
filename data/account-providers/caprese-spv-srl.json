@@ -8,7 +8,6 @@
   ],
   "name": "CAPRESE SPV S.R.L.",
   "legalName": "CAPRESE SPV S.R.L.",
-  "bic": "CPVRIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capresespvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPVRIT21XXX"
 }

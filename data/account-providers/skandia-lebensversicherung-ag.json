@@ -8,7 +8,6 @@
   ],
   "name": "SKANDIA LEBENSVERSICHERUNG AG",
   "legalName": "SKANDIA LEBENSVERSICHERUNG AG",
-  "bic": "SKLEDEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.skandialebensversicherungag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKLEDEB1XXX"
 }

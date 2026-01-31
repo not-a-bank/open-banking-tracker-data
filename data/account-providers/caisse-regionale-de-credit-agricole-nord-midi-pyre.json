@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE DE CREDIT AGRICOLE NORD MIDI PYRENEES",
   "legalName": "CAISSE REGIONALE DE CREDIT AGRICOLE NORD MIDI PYRENEES",
-  "bic": "CEDNFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionaledecreditagricolenordmidipyre.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEDNFR21XXX"
 }

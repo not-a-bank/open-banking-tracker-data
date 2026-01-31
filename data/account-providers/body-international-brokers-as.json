@@ -8,7 +8,6 @@
   ],
   "name": "BODY INTERNATIONAL BROKERS A.S.",
   "legalName": "BODY INTERNATIONAL BROKERS A.S.",
-  "bic": "BOIOCZP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bodyinternationalbrokersas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOIOCZP1XXX"
 }

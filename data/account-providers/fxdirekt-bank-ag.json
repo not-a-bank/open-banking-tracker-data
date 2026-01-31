@@ -8,7 +8,6 @@
   ],
   "name": "FXDIREKT BANK AG",
   "legalName": "FXDIREKT BANK AG",
-  "bic": "FXDBDE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fxdirektbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FXDBDE31XXX"
 }

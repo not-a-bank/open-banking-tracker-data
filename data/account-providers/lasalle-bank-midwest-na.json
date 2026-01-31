@@ -8,7 +8,6 @@
   ],
   "name": "LASALLE BANK MIDWEST N.A.",
   "legalName": "LASALLE BANK MIDWEST N.A.",
-  "bic": "MICHUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lasallebankmidwestna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MICHUS31XXX"
 }

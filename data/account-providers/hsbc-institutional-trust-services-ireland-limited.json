@@ -8,7 +8,6 @@
   ],
   "name": "HSBC INSTITUTIONAL TRUST SERVICES (IRELAND) LIMITED",
   "legalName": "HSBC INSTITUTIONAL TRUST SERVICES (IRELAND) LIMITED",
-  "bic": "BTDLIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcinstitutionaltrustservicesirelandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTDLIE2DXXX"
 }

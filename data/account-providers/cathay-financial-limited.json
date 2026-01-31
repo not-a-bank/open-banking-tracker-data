@@ -8,7 +8,6 @@
   ],
   "name": "CATHAY FINANCIAL LIMITED",
   "legalName": "CATHAY FINANCIAL LIMITED",
-  "bic": "CAILGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cathayfinanciallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAILGB21XXX"
 }

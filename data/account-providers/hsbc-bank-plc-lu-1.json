@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK PLC",
   "legalName": "HSBC BANK PLC",
-  "bic": "HSBCLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankplclu1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSBCLULLXXX"
 }

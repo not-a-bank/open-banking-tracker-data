@@ -8,7 +8,6 @@
   ],
   "name": "METROPOLITAN CAPITAL HOLDINGS SA",
   "legalName": "METROPOLITAN CAPITAL HOLDINGS SA",
-  "bic": "MECDPAP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.metropolitancapitalholdingssa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MECDPAP1XXX"
 }

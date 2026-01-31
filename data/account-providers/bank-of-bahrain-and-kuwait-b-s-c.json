@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Bahrain AND Kuwait B.s.c.",
   "legalName": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
-  "bic": "BBKUINBBXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBKUINBBXXX"
 }

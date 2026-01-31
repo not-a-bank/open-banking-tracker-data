@@ -8,7 +8,6 @@
   ],
   "name": "SGST (INVESTMENT ADVISERS) LTD",
   "legalName": "SGST (INVESTMENT ADVISERS) LTD",
-  "bic": "SGIAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sgstinvestmentadvisersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGIAGB21XXX"
 }

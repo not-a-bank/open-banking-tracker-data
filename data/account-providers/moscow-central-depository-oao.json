@@ -8,7 +8,6 @@
   ],
   "name": "MOSCOW CENTRAL DEPOSITORY OAO",
   "legalName": "MOSCOW CENTRAL DEPOSITORY OAO",
-  "bic": "MOCORUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.moscowcentraldepositoryoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOCORUM1XXX"
 }

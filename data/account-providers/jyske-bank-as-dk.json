@@ -8,7 +8,6 @@
   ],
   "name": "JYSKE BANK A/S",
   "legalName": "JYSKE BANK A/S",
-  "bic": "JYBADK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jyskebankasdk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JYBADK21XXX"
 }

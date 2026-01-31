@@ -8,7 +8,6 @@
   ],
   "name": "MIZUHO SECURITIES ASIA LIMITED",
   "legalName": "MIZUHO SECURITIES ASIA LIMITED",
-  "bic": "MHSCHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mizuhosecuritiesasialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHSCHKHHXXX"
 }

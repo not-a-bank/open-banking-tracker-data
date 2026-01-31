@@ -8,7 +8,6 @@
   ],
   "name": "KVEVLAX SPARBANK",
   "legalName": "KVEVLAX SPARBANK",
-  "bic": "KVSPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kvevlaxsparbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KVSPFI21XXX"
 }

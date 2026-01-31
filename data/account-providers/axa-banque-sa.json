@@ -8,7 +8,6 @@
   ],
   "name": "AXA BANQUE SA",
   "legalName": "AXA BANQUE SA",
-  "bic": "AXABFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axabanquesa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXABFRPPXXX"
 }

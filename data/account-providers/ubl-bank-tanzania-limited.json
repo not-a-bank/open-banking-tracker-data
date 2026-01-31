@@ -8,7 +8,6 @@
   ],
   "name": "UBL BANK (TANZANIA) LIMITED",
   "legalName": "UBL BANK (TANZANIA) LIMITED",
-  "bic": "UNILTZTZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ublbanktanzanialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNILTZTZXXX"
 }

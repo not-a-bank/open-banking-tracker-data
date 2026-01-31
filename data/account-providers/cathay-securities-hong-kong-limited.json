@@ -8,7 +8,6 @@
   ],
   "name": "CATHAY SECURITIES (HONG KONG) LIMITED",
   "legalName": "CATHAY SECURITIES (HONG KONG) LIMITED",
-  "bic": "CSHOHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cathaysecuritieshongkonglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSHOHKH1XXX"
 }

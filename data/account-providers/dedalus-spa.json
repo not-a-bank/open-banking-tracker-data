@@ -8,7 +8,6 @@
   ],
   "name": "DEDALUS SPA",
   "legalName": "DEDALUS SPA",
-  "bic": "DEDLIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dedalusspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEDLIT21XXX"
 }

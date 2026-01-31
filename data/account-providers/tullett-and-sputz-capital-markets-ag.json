@@ -8,7 +8,6 @@
   ],
   "name": "TULLETT AND SPUTZ CAPITAL MARKETS AG",
   "legalName": "TULLETT AND SPUTZ CAPITAL MARKETS AG",
-  "bic": "TSCAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tullettandsputzcapitalmarketsag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TSCAGB21XXX"
 }

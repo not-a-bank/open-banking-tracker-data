@@ -8,7 +8,6 @@
   ],
   "name": "FIRST COMMERCIAL BANK",
   "legalName": "FIRST COMMERCIAL BANK",
-  "bic": "FCBKVNVXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstcommercialbankvn.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCBKVNVXXXX"
 }

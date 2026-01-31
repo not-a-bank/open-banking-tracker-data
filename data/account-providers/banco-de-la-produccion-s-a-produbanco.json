@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE LA Produccion S.a. Produbanco",
   "legalName": "BANCO DE LA PRODUCCION S.A. PRODUBANCO",
-  "bic": "PRODECEQ100",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRODECEQ100"
 }

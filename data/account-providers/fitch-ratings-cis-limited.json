@@ -8,7 +8,6 @@
   ],
   "name": "FITCH RATINGS CIS LIMITED",
   "legalName": "FITCH RATINGS CIS LIMITED",
-  "bic": "FRIPGB31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchratingscislimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPGB31XXX"
 }

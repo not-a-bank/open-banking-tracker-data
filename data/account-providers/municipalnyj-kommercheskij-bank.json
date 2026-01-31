@@ -8,7 +8,6 @@
   ],
   "name": "MUNICIPALNYJ KOMMERCHESKIJ BANK",
   "legalName": "MUNICIPALNYJ KOMMERCHESKIJ BANK",
-  "bic": "MUNKRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.municipalnyjkommercheskijbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUNKRU21XXX"
 }

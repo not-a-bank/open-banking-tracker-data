@@ -8,7 +8,6 @@
   ],
   "name": "BOURSE DES VALEURS MOBILIERES DE TUNIS",
   "legalName": "BOURSE DES VALEURS MOBILIERES DE TUNIS",
-  "bic": "XTUNTNT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.boursedesvaleursmobilieresdetunis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XTUNTNT1XXX"
 }

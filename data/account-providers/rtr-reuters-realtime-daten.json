@@ -8,7 +8,6 @@
   ],
   "name": "RTR (REUTERS-REALTIME-DATEN)",
   "legalName": "RTR (REUTERS-REALTIME-DATEN)",
-  "bic": "XRTRDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rtrreutersrealtimedaten.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XRTRDEF1XXX"
 }

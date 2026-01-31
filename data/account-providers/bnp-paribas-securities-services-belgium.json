@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SECURITIES SERVICES, BELGIUM",
   "legalName": "BNP PARIBAS SECURITIES SERVICES, BELGIUM",
-  "bic": "PARBBEBZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassecuritiesservicesbelgium.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARBBEBZXXX"
 }

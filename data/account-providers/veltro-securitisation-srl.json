@@ -8,7 +8,6 @@
   ],
   "name": "VELTRO SECURITISATION S.R.L.",
   "legalName": "VELTRO SECURITISATION S.R.L.",
-  "bic": "VEESITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.veltrosecuritisationsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VEESITR1XXX"
 }

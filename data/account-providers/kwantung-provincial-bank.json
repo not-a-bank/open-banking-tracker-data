@@ -8,7 +8,6 @@
   ],
   "name": "KWANTUNG PROVINCIAL BANK",
   "legalName": "KWANTUNG PROVINCIAL BANK",
-  "bic": "KWPBCNB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kwantungprovincialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KWPBCNB1XXX"
 }

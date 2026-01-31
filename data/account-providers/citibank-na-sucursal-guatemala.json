@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK N.A. SUCURSAL GUATEMALA",
   "legalName": "CITIBANK N.A. SUCURSAL GUATEMALA",
-  "bic": "CITIGTGCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibanknasucursalguatemala.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIGTGCXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL SECURITIES CLEARING CORPORATION",
   "legalName": "INTERNATIONAL SECURITIES CLEARING CORPORATION",
-  "bic": "ISCCUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalsecuritiesclearingcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISCCUS33XXX"
 }

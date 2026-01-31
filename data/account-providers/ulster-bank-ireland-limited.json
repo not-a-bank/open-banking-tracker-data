@@ -8,7 +8,6 @@
   ],
   "name": "ULSTER BANK IRELAND LIMITED",
   "legalName": "ULSTER BANK IRELAND LIMITED",
-  "bic": "UIBLIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ulsterbankirelandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UIBLIE21XXX"
 }

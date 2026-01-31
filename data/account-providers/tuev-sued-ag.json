@@ -8,7 +8,6 @@
   ],
   "name": "TUEV SUED AG",
   "legalName": "TUEV SUED AG",
-  "bic": "TUEVDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tuevsuedag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TUEVDEM1XXX"
 }

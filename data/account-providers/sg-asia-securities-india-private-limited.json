@@ -8,7 +8,6 @@
   ],
   "name": "SG ASIA SECURITIES (INDIA) PRIVATE LIMITED",
   "legalName": "SG ASIA SECURITIES (INDIA) PRIVATE LIMITED",
-  "bic": "SGSEINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sgasiasecuritiesindiaprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGSEINB1XXX"
 }

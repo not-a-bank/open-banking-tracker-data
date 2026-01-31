@@ -8,7 +8,6 @@
   ],
   "name": "BKS BANK AG, POBOCKA ZAHRANICNEJ BANKY",
   "legalName": "BKS BANK AG, POBOCKA ZAHRANICNEJ BANKY",
-  "bic": "BFKKSKBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bksbankagpobockazahranicnejbanky.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFKKSKBBXXX"
 }

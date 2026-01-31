@@ -9,7 +9,6 @@
   ],
   "name": "COMMUNITY FEDERAL SAVINGS BANK",
   "legalName": "COMMUNITY FEDERAL SAVINGS BANK",
-  "bic": "CMFGUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1596753115/icons/cfsb.png",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMFGUS33XXX"
 }

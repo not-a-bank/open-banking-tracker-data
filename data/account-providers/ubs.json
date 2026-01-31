@@ -46,10 +46,11 @@
   "apiReferenceUrl": "https://xs2a-devportal.ubs.com/#/apis/21/96",
   "apiChangelogUrl": null,
   "apiAggregators": [
-    "nordigen",
+    "gocardless",
     "klarna",
-    "six-group-b-link",
-    "salt-edge"
+    "nordigen",
+    "salt-edge",
+    "six-group-b-link"
   ],
   "apiProducts": [
     {
@@ -131,5 +132,6 @@
   "creditCards": [],
   "platforms": [],
   "pricingUrl": null,
-  "awards": []
+  "awards": [],
+  "bic": "UBSWGB2L"
 }

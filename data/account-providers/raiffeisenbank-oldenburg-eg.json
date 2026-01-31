@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK OLDENBURG EG",
   "legalName": "RAIFFEISENBANK OLDENBURG EG",
-  "bic": "RAOGDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankoldenburgeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAOGDE81XXX"
 }

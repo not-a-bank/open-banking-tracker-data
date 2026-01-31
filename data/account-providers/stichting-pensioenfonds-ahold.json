@@ -8,7 +8,6 @@
   ],
   "name": "STICHTING PENSIOENFONDS AHOLD",
   "legalName": "STICHTING PENSIOENFONDS AHOLD",
-  "bic": "STNHNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stichtingpensioenfondsahold.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STNHNL21XXX"
 }

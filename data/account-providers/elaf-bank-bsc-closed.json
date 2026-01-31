@@ -8,7 +8,6 @@
   ],
   "name": "ELAF BANK BSC CLOSED",
   "legalName": "ELAF BANK BSC CLOSED",
-  "bic": "ILAFBHBMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.elafbankbscclosed.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ILAFBHBMXXX"
 }

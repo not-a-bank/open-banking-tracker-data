@@ -8,7 +8,6 @@
   ],
   "name": "FUND CHANNEL S.A.",
   "legalName": "FUND CHANNEL S.A.",
-  "bic": "FCHALULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fundchannelsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCHALULLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KAS SECURITIES LTD.",
   "legalName": "KAS SECURITIES LTD.",
-  "bic": "KAEEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kassecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAEEGB21XXX"
 }

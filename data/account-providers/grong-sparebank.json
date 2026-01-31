@@ -9,7 +9,6 @@
   ],
   "name": "GRONG SPAREBANK",
   "legalName": "GRONG SPAREBANK",
-  "bic": "GRONNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/493e1349-4875-4c27-9f43-b0fbb25b29cc/-/preview/170x170/-/crop/180x180/center/NO937903146.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRONNO21"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE SECURITIES SERVICES UK LIMITED",
   "legalName": "SOCIETE GENERALE SECURITIES SERVICES UK LIMITED",
-  "bic": "SGSRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralesecuritiesservicesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGSRGB21XXX"
 }

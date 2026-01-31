@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE TCHADIENNE DE CREDIT ET DE DEPOTS S.A. (B.T.C.D.)",
   "legalName": "BANQUE TCHADIENNE DE CREDIT ET DE DEPOTS S.A. (B.T.C.D.)",
-  "bic": "BTCHTDN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquetchadiennedecreditetdedepotssabtcd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTCHTDN1XXX"
 }

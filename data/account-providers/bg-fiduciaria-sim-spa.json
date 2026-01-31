@@ -8,7 +8,6 @@
   ],
   "name": "BG FIDUCIARIA SIM S.P.A.",
   "legalName": "BG FIDUCIARIA SIM S.P.A.",
-  "bic": "FDSIITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bgfiduciariasimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDSIITM1XXX"
 }

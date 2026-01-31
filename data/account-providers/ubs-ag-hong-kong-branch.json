@@ -8,7 +8,6 @@
   ],
   "name": "UBS AG HONG KONG BRANCH",
   "legalName": "UBS AG HONG KONG BRANCH",
-  "bic": "UBSWHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsaghongkongbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWHKHHXXX"
 }

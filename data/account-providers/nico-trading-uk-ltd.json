@@ -8,7 +8,6 @@
   ],
   "name": "NICO TRADING (UK) LTD",
   "legalName": "NICO TRADING (UK) LTD",
-  "bic": "NITAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nicotradingukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NITAGB21XXX"
 }

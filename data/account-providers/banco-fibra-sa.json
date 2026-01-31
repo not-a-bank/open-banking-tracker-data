@@ -8,7 +8,6 @@
   ],
   "name": "BANCO FIBRA S.A.",
   "legalName": "BANCO FIBRA S.A.",
-  "bic": "FIBIBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancofibrasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIBIBRSPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CAIXA GERAL",
   "legalName": "BANCO CAIXA GERAL",
-  "bic": "CGDIESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocaixageral.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGDIESMMXXX"
 }

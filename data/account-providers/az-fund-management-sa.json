@@ -8,7 +8,6 @@
   ],
   "name": "AZ FUND MANAGEMENT SA",
   "legalName": "AZ FUND MANAGEMENT SA",
-  "bic": "AZFMLU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.azfundmanagementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZFMLU21XXX"
 }

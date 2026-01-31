@@ -8,7 +8,6 @@
   ],
   "name": "SCANDIA CREDIT CORPORATION S.A.",
   "legalName": "SCANDIA CREDIT CORPORATION S.A.",
-  "bic": "SWCCPAP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scandiacreditcorporationsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWCCPAP1XXX"
 }

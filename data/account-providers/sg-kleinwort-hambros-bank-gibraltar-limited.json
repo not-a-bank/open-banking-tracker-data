@@ -8,7 +8,6 @@
   ],
   "name": "SG KLEINWORT HAMBROS BANK (GIBRALTAR) LIMITED",
   "legalName": "SG KLEINWORT HAMBROS BANK (GIBRALTAR) LIMITED",
-  "bic": "HAMBGIGIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sgkleinworthambrosbankgibraltarlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAMBGIGIXXX"
 }

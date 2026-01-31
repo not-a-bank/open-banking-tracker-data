@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BILBAO VIZCAYA",
   "legalName": "BANCO BILBAO VIZCAYA",
-  "bic": "BBVIBSN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobilbaovizcaya.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBVIBSN1XXX"
 }

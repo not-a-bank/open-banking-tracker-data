@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK (CAYMAN) LIMITED",
   "legalName": "DEUTSCHE BANK (CAYMAN) LIMITED",
-  "bic": "DEUTKY22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankcaymanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTKY22XXX"
 }

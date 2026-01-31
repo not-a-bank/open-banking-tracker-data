@@ -8,7 +8,6 @@
   ],
   "name": "TOWER FINANCE SRL",
   "legalName": "TOWER FINANCE SRL",
-  "bic": "TOFRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.towerfinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOFRITM1XXX"
 }

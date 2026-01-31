@@ -8,7 +8,6 @@
   ],
   "name": "BANK AM BELLEVUE",
   "legalName": "BANK AM BELLEVUE",
-  "bic": "BELLCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankambellevue.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BELLCHZ1XXX"
 }

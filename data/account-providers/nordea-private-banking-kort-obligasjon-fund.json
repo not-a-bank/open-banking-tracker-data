@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA PRIVATE BANKING KORT OBLIGASJON FUND",
   "legalName": "NORDEA PRIVATE BANKING KORT OBLIGASJON FUND",
-  "bic": "NPKOFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaprivatebankingkortobligasjonfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NPKOFIH1XXX"
 }

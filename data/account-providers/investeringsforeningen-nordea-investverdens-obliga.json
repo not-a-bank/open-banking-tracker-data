@@ -8,7 +8,6 @@
   ],
   "name": "INVESTERINGSFORENINGEN NORDEA INVESTVERDENS OBLIGATIONSMARKEDER",
   "legalName": "INVESTERINGSFORENINGEN NORDEA INVESTVERDENS OBLIGATIONSMARKEDER",
-  "bic": "IONDDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investeringsforeningennordeainvestverdensobliga.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IONDDKK1XXX"
 }

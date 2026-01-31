@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF YEMEN",
   "legalName": "NATIONAL BANK OF YEMEN",
-  "bic": "NBOYYESAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofyemen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBOYYESAXXX"
 }

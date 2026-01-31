@@ -8,7 +8,6 @@
   ],
   "name": "GKN (UNITED KINGDOM) PLC",
   "legalName": "GKN (UNITED KINGDOM) PLC",
-  "bic": "GKNGGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gknunitedkingdomplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GKNGGB22XXX"
 }

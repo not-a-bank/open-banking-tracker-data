@@ -8,7 +8,6 @@
   ],
   "name": "OPAC 38",
   "legalName": "OPAC 38",
-  "bic": "OPACFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.opac38.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPACFR21XXX"
 }

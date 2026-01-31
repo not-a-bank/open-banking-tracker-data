@@ -8,7 +8,6 @@
   ],
   "name": "DANSK KAPITALFORVALTNING FONDSMAEGLERSELSKAB A/S",
   "legalName": "DANSK KAPITALFORVALTNING FONDSMAEGLERSELSKAB A/S",
-  "bic": "DAKFDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.danskkapitalforvaltningfondsmaeglerselskabas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAKFDK21XXX"
 }

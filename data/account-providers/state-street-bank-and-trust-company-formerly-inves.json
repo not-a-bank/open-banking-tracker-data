@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET BANK AND TRUST COMPANY (FORMERLY INVESTORS BANK AND TRUST COMPANY)",
   "legalName": "STATE STREET BANK AND TRUST COMPANY (FORMERLY INVESTORS BANK AND TRUST COMPANY)",
-  "bic": "INVBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetbankandtrustcompanyformerlyinves.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INVBUS33XXX"
 }

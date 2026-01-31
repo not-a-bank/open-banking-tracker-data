@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER S.A. NEW YORK",
   "legalName": "BANCO SANTANDER S.A. NEW YORK",
-  "bic": "BSCHUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantandersanewyork.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TANDEM BANK LIMITED",
   "legalName": "TANDEM BANK LIMITED",
-  "bic": "TANMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tandembanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TANMGB21XXX"
 }

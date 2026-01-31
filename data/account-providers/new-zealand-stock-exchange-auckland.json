@@ -8,7 +8,6 @@
   ],
   "name": "NEW ZEALAND STOCK EXCHANGE - AUCKLAND",
   "legalName": "NEW ZEALAND STOCK EXCHANGE - AUCKLAND",
-  "bic": "XAUKNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newzealandstockexchangeauckland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XAUKNZ21XXX"
 }

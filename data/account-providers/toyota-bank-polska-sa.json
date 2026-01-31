@@ -8,7 +8,6 @@
   ],
   "name": "TOYOTA BANK POLSKA S.A.",
   "legalName": "TOYOTA BANK POLSKA S.A.",
-  "bic": "TOBAPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.toyotabankpolskasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOBAPLPWXXX"
 }

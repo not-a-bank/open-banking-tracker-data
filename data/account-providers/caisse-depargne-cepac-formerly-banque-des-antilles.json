@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DES ANTILLES FRANCAISES)",
   "legalName": "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DES ANTILLES FRANCAISES)",
-  "bic": "BDAFGPGXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedepargnecepacformerlybanquedesantilles.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDAFGPGXXXX"
 }

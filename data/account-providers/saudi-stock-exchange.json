@@ -8,7 +8,6 @@
   ],
   "name": "SAUDI STOCK EXCHANGE",
   "legalName": "SAUDI STOCK EXCHANGE",
-  "bic": "TSSMSAR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saudistockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TSSMSAR1XXX"
 }

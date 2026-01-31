@@ -8,7 +8,6 @@
   ],
   "name": "ACCORDBANK COMMERCIAL BANK",
   "legalName": "ACCORDBANK COMMERCIAL BANK",
-  "bic": "ACDCUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.accordbankcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACDCUAUKXXX"
 }

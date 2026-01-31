@@ -8,7 +8,6 @@
   ],
   "name": "MONETTA FINANCIAL SERVICES, INC.",
   "legalName": "MONETTA FINANCIAL SERVICES, INC.",
-  "bic": "MOFSUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.monettafinancialservicesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOFSUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INBARSAVE SICAV SA",
   "legalName": "INBARSAVE SICAV SA",
-  "bic": "IBSVESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.inbarsavesicavsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBSVESB1XXX"
 }

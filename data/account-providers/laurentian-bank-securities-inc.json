@@ -8,7 +8,6 @@
   ],
   "name": "LAURENTIAN BANK SECURITIES INC",
   "legalName": "LAURENTIAN BANK SECURITIES INC",
-  "bic": "BLCSCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.laurentianbanksecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLCSCAM1XXX"
 }

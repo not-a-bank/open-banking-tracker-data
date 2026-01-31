@@ -8,7 +8,6 @@
   ],
   "name": "MYBANK ASA",
   "legalName": "MYBANK ASA",
-  "bic": "MYASNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mybankasa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MYASNOK1"
 }

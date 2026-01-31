@@ -8,7 +8,6 @@
   ],
   "name": "KBC IFIMA S.A.",
   "legalName": "KBC IFIMA S.A.",
-  "bic": "KBCILULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcifimasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBCILULLXXX"
 }

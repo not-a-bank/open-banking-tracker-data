@@ -8,7 +8,6 @@
   ],
   "name": "PLAZA BANK",
   "legalName": "PLAZA BANK",
-  "bic": "PLZZUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.plazabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLZZUS61XXX"
 }

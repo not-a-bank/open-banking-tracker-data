@@ -8,7 +8,6 @@
   ],
   "name": "NATWEST FUTURES (ASIA) PTE LTD.",
   "legalName": "NATWEST FUTURES (ASIA) PTE LTD.",
-  "bic": "NATWSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natwestfuturesasiapteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NATWSGS1XXX"
 }

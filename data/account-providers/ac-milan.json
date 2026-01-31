@@ -8,7 +8,6 @@
   ],
   "name": "A.C. MILAN",
   "legalName": "A.C. MILAN",
-  "bic": "MINAITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.acmilan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MINAITM1XXX"
 }

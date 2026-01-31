@@ -8,7 +8,6 @@
   ],
   "name": "STOCKBRIDGE INVESTORS",
   "legalName": "STOCKBRIDGE INVESTORS",
-  "bic": "STNSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stockbridgeinvestors.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STNSUS31XXX"
 }

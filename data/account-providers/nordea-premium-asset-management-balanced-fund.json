@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA PREMIUM ASSET MANAGEMENT BALANCED FUND",
   "legalName": "NORDEA PREMIUM ASSET MANAGEMENT BALANCED FUND",
-  "bic": "NPAAFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeapremiumassetmanagementbalancedfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NPAAFIH1XXX"
 }

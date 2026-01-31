@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH CORREDORES DE BOLSA S.A.",
   "legalName": "MERRILL LYNCH CORREDORES DE BOLSA S.A.",
-  "bic": "MLOBCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchcorredoresdebolsasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLOBCLR1XXX"
 }

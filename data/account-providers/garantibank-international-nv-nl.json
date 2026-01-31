@@ -8,7 +8,6 @@
   ],
   "name": "GARANTIBANK INTERNATIONAL N.V.",
   "legalName": "GARANTIBANK INTERNATIONAL N.V.",
-  "bic": "UGBINL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.garantibankinternationalnvnl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UGBINL2AXXX"
 }

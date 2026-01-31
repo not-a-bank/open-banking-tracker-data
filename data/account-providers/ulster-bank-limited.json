@@ -8,7 +8,6 @@
   ],
   "name": "ULSTER BANK LIMITED",
   "legalName": "ULSTER BANK LIMITED",
-  "bic": "ULSBGB2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ulsterbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ULSBGB2BXXX"
 }

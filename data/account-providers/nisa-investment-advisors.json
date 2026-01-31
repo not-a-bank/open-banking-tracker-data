@@ -8,7 +8,6 @@
   ],
   "name": "NISA INVESTMENT ADVISORS",
   "legalName": "NISA INVESTMENT ADVISORS",
-  "bic": "NIINUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nisainvestmentadvisors.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIINUS51XXX"
 }

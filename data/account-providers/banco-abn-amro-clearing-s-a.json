@@ -8,7 +8,6 @@
   ],
   "name": "Banco ABN Amro Clearing S.a.",
   "legalName": "BANCO ABN AMRO CLEARING S.A.",
-  "bic": "ABNABRSPXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABNABRSPXXX"
 }

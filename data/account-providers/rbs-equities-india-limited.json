@@ -8,7 +8,6 @@
   ],
   "name": "RBS EQUITIES (INDIA) LIMITED",
   "legalName": "RBS EQUITIES (INDIA) LIMITED",
-  "bic": "HGASINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbsequitiesindialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HGASINB1XXX"
 }

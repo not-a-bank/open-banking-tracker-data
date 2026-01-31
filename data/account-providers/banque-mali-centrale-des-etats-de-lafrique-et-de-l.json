@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE (MALI) CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
   "legalName": "BANQUE (MALI) CENTRALE DES ETATS DE L'AFRIQUE ET DE L'OUEST",
-  "bic": "BCAOMLBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquemalicentraledesetatsdelafriqueetdel.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCAOMLBAXXX"
 }

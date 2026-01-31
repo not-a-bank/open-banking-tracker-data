@@ -8,7 +8,6 @@
   ],
   "name": "International Investment Bank",
   "legalName": "INTERNATIONAL INVESTMENT BANK",
-  "bic": "IIBMHU22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IIBMHU22XXX"
 }

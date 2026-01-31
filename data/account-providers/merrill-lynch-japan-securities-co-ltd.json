@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH JAPAN SECURITIES CO. LTD",
   "legalName": "MERRILL LYNCH JAPAN SECURITIES CO. LTD",
-  "bic": "MLCOJPJXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchjapansecuritiescoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLCOJPJXXXX"
 }

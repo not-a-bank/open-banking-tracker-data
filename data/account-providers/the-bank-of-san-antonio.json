@@ -8,7 +8,6 @@
   ],
   "name": "THE BANK OF SAN ANTONIO",
   "legalName": "THE BANK OF SAN ANTONIO",
-  "bic": "BSATUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankofsanantonio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSATUS44XXX"
 }

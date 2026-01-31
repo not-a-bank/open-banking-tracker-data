@@ -8,7 +8,6 @@
   ],
   "name": "CJSC CITIBANK KAZAKHSTAN",
   "legalName": "CJSC CITIBANK KAZAKHSTAN",
-  "bic": "CITIKZX1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cjsccitibankkazakhstan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIKZX1XXX"
 }

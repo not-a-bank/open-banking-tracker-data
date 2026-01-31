@@ -8,7 +8,6 @@
   ],
   "name": "SECURITIES AND FUTURES COMMISSION",
   "legalName": "SECURITIES AND FUTURES COMMISSION",
-  "bic": "SFCIHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.securitiesandfuturescommission.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFCIHKH1XXX"
 }

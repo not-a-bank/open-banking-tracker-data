@@ -8,7 +8,6 @@
   ],
   "name": "AMERICAN EXPRESS ASSET MANAGEMENT LIMITED",
   "legalName": "AMERICAN EXPRESS ASSET MANAGEMENT LIMITED",
-  "bic": "AEANGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.americanexpressassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEANGB21XXX"
 }

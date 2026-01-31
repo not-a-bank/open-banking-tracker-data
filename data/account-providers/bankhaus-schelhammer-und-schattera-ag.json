@@ -8,7 +8,6 @@
   ],
   "name": "BANKHAUS SCHELHAMMER UND SCHATTERA AG",
   "legalName": "BANKHAUS SCHELHAMMER UND SCHATTERA AG",
-  "bic": "BSSWATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhausschelhammerundschatteraag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSSWATWWXXX"
 }

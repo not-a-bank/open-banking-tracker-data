@@ -8,7 +8,6 @@
   ],
   "name": "AFB Bank Ojsc",
   "legalName": "AFB BANK OJSC",
-  "bic": "AZFIAZ22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZFIAZ22XXX"
 }

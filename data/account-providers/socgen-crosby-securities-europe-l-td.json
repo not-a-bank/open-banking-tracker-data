@@ -8,7 +8,6 @@
   ],
   "name": "SOCGEN-CROSBY SECURITIES (EUROPE) L TD",
   "legalName": "SOCGEN-CROSBY SECURITIES (EUROPE) L TD",
-  "bic": "SOSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.socgencrosbysecuritieseuropeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOSEGB21XXX"
 }

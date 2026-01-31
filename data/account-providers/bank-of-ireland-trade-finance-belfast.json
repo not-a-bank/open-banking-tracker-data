@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF IRELAND (TRADE FINANCE BELFAST)",
   "legalName": "BANK OF IRELAND (TRADE FINANCE BELFAST)",
-  "bic": "BOFIGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofirelandtradefinancebelfast.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFIGB22XXX"
 }

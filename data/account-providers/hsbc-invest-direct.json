@@ -8,7 +8,6 @@
   ],
   "name": "HSBC INVEST DIRECT",
   "legalName": "HSBC INVEST DIRECT",
-  "bic": "MLHBGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcinvestdirect.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLHBGB22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK BERG-BAD STEBEN EG",
   "legalName": "RAIFFEISENBANK BERG-BAD STEBEN EG",
-  "bic": "RAEBDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankbergbadstebeneg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAEBDE81XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL UNION BANK",
   "legalName": "CAPITAL UNION BANK",
-  "bic": "CUBLBSNSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalunionbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CUBLBSNSXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF TOKYO-MITSUBISHI (EUROPE) LTD",
   "legalName": "BANK OF TOKYO-MITSUBISHI (EUROPE) LTD",
-  "bic": "TOKMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankoftokyomitsubishieuropeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOKMGB21XXX"
 }

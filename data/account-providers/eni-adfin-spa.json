@@ -8,7 +8,6 @@
   ],
   "name": "ENI ADFIN SPA",
   "legalName": "ENI ADFIN SPA",
-  "bic": "ENADITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eniadfinspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENADITR1XXX"
 }

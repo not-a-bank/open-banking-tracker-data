@@ -8,7 +8,6 @@
   ],
   "name": "Anheuser-busch Inbev NV",
   "legalName": "ANHEUSER-BUSCH INBEV NV",
-  "bic": "ANHEUSER",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANHEUSER"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ARAB BANK PLC - YEMEN",
   "legalName": "ARAB BANK PLC - YEMEN",
-  "bic": "ARABYESAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arabbankplcyemen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARABYESAXXX"
 }

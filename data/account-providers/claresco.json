@@ -8,7 +8,6 @@
   ],
   "name": "CLARESCO",
   "legalName": "CLARESCO",
-  "bic": "CLACFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.claresco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLACFRP1XXX"
 }

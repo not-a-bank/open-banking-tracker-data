@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF TRINIDAD AND TOBAGO",
   "legalName": "CENTRAL BANK OF TRINIDAD AND TOBAGO",
-  "bic": "CBTTTTPSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankoftrinidadandtobago.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBTTTTPSXXX"
 }

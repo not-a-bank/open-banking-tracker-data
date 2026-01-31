@@ -8,7 +8,6 @@
   ],
   "name": "SUNCOAST EQUITY MANAGEMENT",
   "legalName": "SUNCOAST EQUITY MANAGEMENT",
-  "bic": "SUEMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.suncoastequitymanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SUEMUS31XXX"
 }

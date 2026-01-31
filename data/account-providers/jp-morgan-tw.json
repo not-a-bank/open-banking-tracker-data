@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN",
   "legalName": "J.P. MORGAN",
-  "bic": "JMSATWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorgantw.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JMSATWT1XXX"
 }

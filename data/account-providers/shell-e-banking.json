@@ -8,7 +8,6 @@
   ],
   "name": "SHELL E-BANKING",
   "legalName": "SHELL E-BANKING",
-  "bic": "SHEKNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shellebanking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHEKNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Banco GNB Sudameris",
   "legalName": "BANCO GNB SUDAMERIS",
-  "bic": "BSUDCOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancognbsudameris.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSUDCOBBXXX"
 }

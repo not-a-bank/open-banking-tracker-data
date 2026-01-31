@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE NUERNBERG",
   "legalName": "SPARKASSE NUERNBERG",
-  "bic": "SSKNDE77XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassenuernberg.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSKNDE77XXX"
 }

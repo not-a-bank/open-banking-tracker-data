@@ -8,7 +8,6 @@
   ],
   "name": "Brac Bank PLC",
   "legalName": "BRAC BANK PLC",
-  "bic": "BRAKBDDHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bracbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRAKBDDHXXX"
 }

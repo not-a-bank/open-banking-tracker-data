@@ -8,7 +8,6 @@
   ],
   "name": "VB INVESTMENT BANK AG",
   "legalName": "VB INVESTMENT BANK AG",
-  "bic": "IVEEATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vbinvestmentbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVEEATW1XXX"
 }

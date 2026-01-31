@@ -8,7 +8,6 @@
   ],
   "name": "ABACUS FEDERAL SAVINGS BANK",
   "legalName": "ABACUS FEDERAL SAVINGS BANK",
-  "bic": "AFSBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abacusfederalsavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFSBUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GOTTEX SECURITIES AB",
   "legalName": "GOTTEX SECURITIES AB",
-  "bic": "GOEESES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gottexsecuritiesab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOEESES1XXX"
 }

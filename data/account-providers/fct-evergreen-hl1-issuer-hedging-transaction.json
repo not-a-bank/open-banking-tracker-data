@@ -8,7 +8,6 @@
   ],
   "name": "FCT EVERGREEN HL1 (ISSUER HEDGING TRANSACTION)",
   "legalName": "FCT EVERGREEN HL1 (ISSUER HEDGING TRANSACTION)",
-  "bic": "FEIHFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fctevergreenhl1issuerhedgingtransaction.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FEIHFRP1XXX"
 }

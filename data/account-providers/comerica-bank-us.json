@@ -9,7 +9,6 @@
   ],
   "name": "COMERICA BANK",
   "legalName": "COMERICA BANK",
-  "bic": "MNBDUS4DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1618884861/radar/icons/comerica.webp",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "CMA"
+  "stockSymbol": "CMA",
+  "bic": "MNBDUS4DXXX"
 }

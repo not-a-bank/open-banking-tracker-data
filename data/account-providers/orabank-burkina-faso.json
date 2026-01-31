@@ -8,7 +8,6 @@
   ],
   "name": "Orabank Burkina-faso",
   "legalName": "ORABANK BURKINA-FASO",
-  "bic": "ORBKBFBFXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORBKBFBFXXX"
 }

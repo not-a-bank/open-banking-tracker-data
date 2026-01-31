@@ -8,7 +8,6 @@
   ],
   "name": "CFE PARIS BRANCH",
   "legalName": "CFE PARIS BRANCH",
-  "bic": "CFPBFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cfeparisbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFPBFRP1XXX"
 }

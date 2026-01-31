@@ -8,7 +8,6 @@
   ],
   "name": "ABSA BANK NAMIBIA LIMITED",
   "legalName": "ABSA BANK NAMIBIA LIMITED",
-  "bic": "ABSANAN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.absabanknamibialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABSANAN1XXX"
 }

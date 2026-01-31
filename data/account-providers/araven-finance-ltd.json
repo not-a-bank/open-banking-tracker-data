@@ -8,7 +8,6 @@
   ],
   "name": "ARAVEN FINANCE LTD.",
   "legalName": "ARAVEN FINANCE LTD.",
-  "bic": "ARAFVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aravenfinanceltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARAFVEC1XXX"
 }

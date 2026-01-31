@@ -8,7 +8,6 @@
   ],
   "name": "Banco Bocom BBM S.a.",
   "legalName": "BANCO BOCOM BBM S.A.",
-  "bic": "BBINBRRJXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBINBRRJXXX"
 }

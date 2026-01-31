@@ -8,7 +8,6 @@
   ],
   "name": "AMTRUST FINANCIAL SERVICES INC.",
   "legalName": "AMTRUST FINANCIAL SERVICES INC.",
-  "bic": "AMTFUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amtrustfinancialservicesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMTFUS33XXX"
 }

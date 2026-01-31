@@ -8,7 +8,6 @@
   ],
   "name": "Dansk Supermarked A/S",
   "legalName": "DANSK SUPERMARKED A/S",
-  "bic": "DASKDK21XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DASKDK21XXX"
 }

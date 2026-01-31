@@ -8,7 +8,6 @@
   ],
   "name": "EKSPORTFINANS ASA",
   "legalName": "EKSPORTFINANS ASA",
-  "bic": "EKSPNOKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eksportfinansasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EKSPNOKKXXX"
 }

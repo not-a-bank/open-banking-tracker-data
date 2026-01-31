@@ -8,7 +8,6 @@
   ],
   "name": "MARCHFELDER BANK EG",
   "legalName": "MARCHFELDER BANK EG",
-  "bic": "MVOGAT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.marchfelderbankeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MVOGAT22XXX"
 }

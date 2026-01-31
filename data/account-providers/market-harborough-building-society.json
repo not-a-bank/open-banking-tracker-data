@@ -8,7 +8,6 @@
   ],
   "name": "MARKET HARBOROUGH BUILDING SOCIETY",
   "legalName": "MARKET HARBOROUGH BUILDING SOCIETY",
-  "bic": "MHBSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.marketharboroughbuildingsociety.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHBSGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "WESA-EFFECTEN B.V.",
   "legalName": "WESA-EFFECTEN B.V.",
-  "bic": "WESFNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wesaeffectenbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WESFNL21XXX"
 }

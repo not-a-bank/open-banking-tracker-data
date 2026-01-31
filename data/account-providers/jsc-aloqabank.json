@@ -8,7 +8,6 @@
   ],
   "name": "JSC ALOQABANK",
   "legalName": "JSC ALOQABANK",
-  "bic": "JSCLUZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jscaloqabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JSCLUZ22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCA POPOLARE VALCONCA",
   "legalName": "BANCA POPOLARE VALCONCA",
-  "bic": "BPVMIT2RXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolarevalconcait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPVMIT2RXXX"
 }

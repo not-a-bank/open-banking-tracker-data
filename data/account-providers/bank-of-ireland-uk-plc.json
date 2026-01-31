@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF IRELAND (UK) PLC",
   "legalName": "BANK OF IRELAND (UK) PLC",
-  "bic": "BOFIGB2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofirelandukplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFIGB2BXXX"
 }

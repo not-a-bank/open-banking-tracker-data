@@ -8,7 +8,6 @@
   ],
   "name": "ZURICH INSURANCE COMPANY S.A.",
   "legalName": "ZURICH INSURANCE COMPANY S.A.",
-  "bic": "ZURIITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zurichinsurancecompanysa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZURIITMMXXX"
 }

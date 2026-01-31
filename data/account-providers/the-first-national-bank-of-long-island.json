@@ -8,7 +8,6 @@
   ],
   "name": "THE FIRST NATIONAL BANK OF LONG ISLAND",
   "legalName": "THE FIRST NATIONAL BANK OF LONG ISLAND",
-  "bic": "FNLIUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thefirstnationalbankoflongisland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNLIUS33XXX"
 }

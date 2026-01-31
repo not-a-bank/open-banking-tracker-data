@@ -8,7 +8,6 @@
   ],
   "name": "HING LEE SECURITIES LIMITED",
   "legalName": "HING LEE SECURITIES LIMITED",
-  "bic": "HILEHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hingleesecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HILEHKH1XXX"
 }

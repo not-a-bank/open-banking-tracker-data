@@ -8,7 +8,6 @@
   ],
   "name": "BAHRAIN BOURSE",
   "legalName": "BAHRAIN BOURSE",
-  "bic": "BHBNBHBMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bahrainbourse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHBNBHBMXXX"
 }

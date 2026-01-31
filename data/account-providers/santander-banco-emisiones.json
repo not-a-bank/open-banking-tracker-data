@@ -8,7 +8,6 @@
   ],
   "name": "SANTANDER BANCO EMISIONES",
   "legalName": "SANTANDER BANCO EMISIONES",
-  "bic": "BSSSES31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santanderbancoemisiones.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSSSES31XXX"
 }

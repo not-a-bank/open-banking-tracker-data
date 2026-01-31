@@ -8,7 +8,6 @@
   ],
   "name": "ABLV BANK, AS",
   "legalName": "ABLV BANK, AS",
-  "bic": "AIZKLV22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ablvbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIZKLV22XXX"
 }

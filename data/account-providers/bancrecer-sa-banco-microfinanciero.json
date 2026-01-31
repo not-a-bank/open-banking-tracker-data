@@ -8,7 +8,6 @@
   ],
   "name": "BANCRECER S.A. BANCO MICROFINANCIERO",
   "legalName": "BANCRECER S.A. BANCO MICROFINANCIERO",
-  "bic": "CCERVECAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancrecersabancomicrofinanciero.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCERVECAXXX"
 }

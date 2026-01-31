@@ -8,7 +8,6 @@
   ],
   "name": "DALMIA SECURITIES PRIVATE LIMITED",
   "legalName": "DALMIA SECURITIES PRIVATE LIMITED",
-  "bic": "DSPIINC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dalmiasecuritiesprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DSPIINC1XXX"
 }

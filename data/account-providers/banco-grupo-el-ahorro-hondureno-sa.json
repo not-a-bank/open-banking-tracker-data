@@ -8,7 +8,6 @@
   ],
   "name": "BANCO GRUPO EL AHORRO HONDURENO S.A.",
   "legalName": "BANCO GRUPO EL AHORRO HONDURENO S.A.",
-  "bic": "BCHOHNT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancogrupoelahorrohondurenosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCHOHNT1XXX"
 }

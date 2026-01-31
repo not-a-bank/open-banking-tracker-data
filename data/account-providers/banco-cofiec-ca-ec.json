@@ -8,7 +8,6 @@
   ],
   "name": "BANCO COFIEC C.A.",
   "legalName": "BANCO COFIEC C.A.",
-  "bic": "COFBECU1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocofieccaec.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COFBECU1XXX"
 }

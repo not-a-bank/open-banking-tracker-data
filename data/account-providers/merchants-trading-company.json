@@ -8,7 +8,6 @@
   ],
   "name": "MERCHANTS TRADING COMPANY",
   "legalName": "MERCHANTS TRADING COMPANY",
-  "bic": "MRCHUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merchantstradingcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MRCHUS41XXX"
 }

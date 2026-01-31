@@ -8,7 +8,6 @@
   ],
   "name": "ANZ NEW ZEALAND INVESTMENTS LIMITED",
   "legalName": "ANZ NEW ZEALAND INVESTMENTS LIMITED",
-  "bic": "ANZINZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anznewzealandinvestmentslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZINZ21XXX"
 }

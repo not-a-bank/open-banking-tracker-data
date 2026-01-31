@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK (SEVERO-ZAPADNY HEAD OFFICE)",
   "legalName": "SBERBANK (SEVERO-ZAPADNY HEAD OFFICE)",
-  "bic": "SABRRU2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbankseverozapadnyheadoffice.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABRRU2PXXX"
 }

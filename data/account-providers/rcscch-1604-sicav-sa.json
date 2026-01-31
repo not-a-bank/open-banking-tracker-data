@@ -8,7 +8,6 @@
   ],
   "name": "RCSCCH 1604 SICAV SA",
   "legalName": "RCSCCH 1604 SICAV SA",
-  "bic": "RCSIESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rcscch1604sicavsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCSIESB1XXX"
 }

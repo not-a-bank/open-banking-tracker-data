@@ -8,7 +8,6 @@
   ],
   "name": "BYBLOS BANK EUROPE S.A. (PARIS BRANCH)",
   "legalName": "BYBLOS BANK EUROPE S.A. (PARIS BRANCH)",
-  "bic": "BYBBFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.byblosbankeuropesaparisbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BYBBFRPPXXX"
 }

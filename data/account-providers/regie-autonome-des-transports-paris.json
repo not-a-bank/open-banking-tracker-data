@@ -8,7 +8,6 @@
   ],
   "name": "REGIE AUTONOME DES TRANSPORTS PARIS",
   "legalName": "REGIE AUTONOME DES TRANSPORTS PARIS",
-  "bic": "RATPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.regieautonomedestransportsparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RATPFRP1XXX"
 }

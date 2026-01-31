@@ -8,7 +8,6 @@
   ],
   "name": "GENBORSA MENKUL DEGERLER",
   "legalName": "GENBORSA MENKUL DEGERLER",
-  "bic": "GEMETRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.genborsamenkuldegerler.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEMETRI1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "WCM INVESTMENT MANAGEMENT",
   "legalName": "WCM INVESTMENT MANAGEMENT",
-  "bic": "WCMIUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wcminvestmentmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WCMIUS61XXX"
 }

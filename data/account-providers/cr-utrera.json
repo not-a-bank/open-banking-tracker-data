@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Caja Rural Utrera",
@@ -15,7 +16,7 @@
   "countries": [
     "ES"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "gocardless"
   ],
-  "swiftCode": "BCOEESMM020"
+  "bic": "BCOEESMM020",
+  "legalName": "Caja Rural Utrera"
 }

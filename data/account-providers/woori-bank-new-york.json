@@ -8,7 +8,6 @@
   ],
   "name": "WOORI BANK, NEW YORK",
   "legalName": "WOORI BANK, NEW YORK",
-  "bic": "HVBKUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wooribanknewyork.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HVBKUS33XXX"
 }

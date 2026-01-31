@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
   "legalName": "DEUTSCHE BANK S.A. - BANCO ALEMAO",
-  "bic": "DEUTBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebanksabancoalemao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTBRSPXXX"
 }

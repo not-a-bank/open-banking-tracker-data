@@ -9,7 +9,6 @@
   ],
   "name": "GRUE SPAREBANK",
   "legalName": "GRUE SPAREBANK",
-  "bic": "GRUENO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/f0925153-fe12-4127-a977-9c85d167c3f9/-/preview/170x170/-/crop/180x180/center/NO937886705.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRUENO21"
 }

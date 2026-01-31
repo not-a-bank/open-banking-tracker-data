@@ -8,7 +8,6 @@
   ],
   "name": "MAPFRE SEGUROS GENERALES DE COLOMBIA S.A.",
   "legalName": "MAPFRE SEGUROS GENERALES DE COLOMBIA S.A.",
-  "bic": "MAPFCOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mapfresegurosgeneralesdecolombiasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAPFCOBBXXX"
 }

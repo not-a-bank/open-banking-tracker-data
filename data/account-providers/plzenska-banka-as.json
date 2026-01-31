@@ -8,7 +8,6 @@
   ],
   "name": "PLZENSKA BANKA, A.S.",
   "legalName": "PLZENSKA BANKA, A.S.",
-  "bic": "PLBACZP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.plzenskabankaas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLBACZP1XXX"
 }

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "S\u00f8nderh\u00e5-H\u00f8rsted Sparekasse",
-  "legalName": "S\u00f8nderh\u00e5-H\u00f8rsted Sparekasse",
+  "name": "Sønderhå-Hørsted Sparekasse",
+  "legalName": "Sønderhå-Hørsted Sparekasse",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sonderha-horsted-sparekasse.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "SOHODK21XXX"
+  "bic": "SOHODK21"
 }

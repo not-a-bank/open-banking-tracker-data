@@ -8,7 +8,6 @@
   ],
   "name": "CAYMAN NATIONAL BANK AND TRUST COMPANY (ISLE OF MAN) LIMITED",
   "legalName": "CAYMAN NATIONAL BANK AND TRUST COMPANY (ISLE OF MAN) LIMITED",
-  "bic": "CNBTIMDDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caymannationalbankandtrustcompanyisleofman.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNBTIMDDXXX"
 }

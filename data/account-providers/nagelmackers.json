@@ -46,6 +46,7 @@
   "apiAggregators": [
     "bankingsdk",
     "banqup",
+    "gocardless",
     "ibanity",
     "klarna",
     "tink",
@@ -121,5 +122,6 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000MfLYpAAN",
-  "articles": []
+  "articles": [],
+  "bic": "BNAGBEBBXXX"
 }

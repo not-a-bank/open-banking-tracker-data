@@ -8,7 +8,6 @@
   ],
   "name": "M SECURITIES O.C.P., A.S.",
   "legalName": "M SECURITIES O.C.P., A.S.",
-  "bic": "KEIOSKB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.msecuritiesocpas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KEIOSKB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO HIPOTECARIO DE LA VIVIENDA",
   "legalName": "BANCO HIPOTECARIO DE LA VIVIENDA",
-  "bic": "BHVIVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancohipotecariodelavivienda.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHVIVEC1XXX"
 }

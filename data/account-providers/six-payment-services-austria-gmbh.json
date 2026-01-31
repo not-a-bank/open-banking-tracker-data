@@ -8,7 +8,6 @@
   ],
   "name": "SIX PAYMENT SERVICES (AUSTRIA) GMBH",
   "legalName": "SIX PAYMENT SERVICES (AUSTRIA) GMBH",
-  "bic": "PLBKATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sixpaymentservicesaustriagmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLBKATWWXXX"
 }

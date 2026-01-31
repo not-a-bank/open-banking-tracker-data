@@ -8,7 +8,6 @@
   ],
   "name": "SALLING BANK A/S",
   "legalName": "SALLING BANK A/S",
-  "bic": "SALLDK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sallingbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SALLDK22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AXA BANK EUROPE SCF",
   "legalName": "AXA BANK EUROPE SCF",
-  "bic": "AXABFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axabankeuropescf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXABFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SARMAYE BANK (P.J.S.C)",
   "legalName": "SARMAYE BANK (P.J.S.C)",
-  "bic": "SRMBIRTHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sarmayebankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SRMBIRTHXXX"
 }

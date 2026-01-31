@@ -8,7 +8,6 @@
   ],
   "name": "BIESSE SPA",
   "legalName": "BIESSE SPA",
-  "bic": "BIESIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.biessespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIESIT31XXX"
 }

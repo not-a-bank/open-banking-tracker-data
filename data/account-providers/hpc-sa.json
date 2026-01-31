@@ -8,7 +8,6 @@
   ],
   "name": "HPC SA",
   "legalName": "HPC SA",
-  "bic": "HPCPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hpcsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HPCPFRP1XXX"
 }

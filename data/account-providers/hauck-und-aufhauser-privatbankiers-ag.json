@@ -8,7 +8,6 @@
   ],
   "name": "HAUCK UND AUFHAUSER PRIVATBANKIERS AG",
   "legalName": "HAUCK UND AUFHAUSER PRIVATBANKIERS AG",
-  "bic": "HAUKDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hauckundaufhauserprivatbankiersag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAUKDEFFXXX"
 }

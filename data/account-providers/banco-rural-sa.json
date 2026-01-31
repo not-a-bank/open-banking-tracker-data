@@ -8,7 +8,6 @@
   ],
   "name": "BANCO RURAL S.A.",
   "legalName": "BANCO RURAL S.A.",
-  "bic": "RUBABRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoruralsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RUBABRR1XXX"
 }

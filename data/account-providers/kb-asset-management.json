@@ -8,7 +8,6 @@
   ],
   "name": "KB ASSET MANAGEMENT",
   "legalName": "KB ASSET MANAGEMENT",
-  "bic": "KBAMKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBAMKRS1XXX"
 }

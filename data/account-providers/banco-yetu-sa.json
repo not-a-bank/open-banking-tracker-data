@@ -8,7 +8,6 @@
   ],
   "name": "BANCO YETU, S.A.",
   "legalName": "BANCO YETU, S.A.",
-  "bic": "YETUAOLUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoyetusa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YETUAOLUXXX"
 }

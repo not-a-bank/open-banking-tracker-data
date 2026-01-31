@@ -8,7 +8,6 @@
   ],
   "name": "BERLINER SPARKASSE - LANDESBANK BERLIN AG",
   "legalName": "BERLINER SPARKASSE - LANDESBANK BERLIN AG",
-  "bic": "BELADEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.berlinersparkasselandesbankberlinag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BELADEB1XXX"
 }

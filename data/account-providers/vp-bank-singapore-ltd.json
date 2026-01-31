@@ -8,7 +8,6 @@
   ],
   "name": "VP BANK (SINGAPORE) LTD",
   "legalName": "VP BANK (SINGAPORE) LTD",
-  "bic": "VPBVSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vpbanksingaporeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VPBVSGS1XXX"
 }

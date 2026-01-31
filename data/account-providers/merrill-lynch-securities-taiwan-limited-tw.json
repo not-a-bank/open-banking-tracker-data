@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH SECURITIES TAIWAN LIMITED",
   "legalName": "MERRILL LYNCH SECURITIES TAIWAN LIMITED",
-  "bic": "MLTATWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchsecuritiestaiwanlimitedtw.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLTATWT1XXX"
 }

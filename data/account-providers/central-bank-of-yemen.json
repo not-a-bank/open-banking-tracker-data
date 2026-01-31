@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF YEMEN",
   "legalName": "CENTRAL BANK OF YEMEN",
-  "bic": "CBYEYESAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankofyemen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBYEYESAXXX"
 }

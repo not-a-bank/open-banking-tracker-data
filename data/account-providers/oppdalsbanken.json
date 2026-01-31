@@ -9,7 +9,6 @@
   ],
   "name": "OPPDALSBANKEN",
   "legalName": "OPPDALSBANKEN",
-  "bic": "OPPDNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/cdf3f2b9-d9d1-4b77-a646-66527cb13a04/-/preview/170x170/-/crop/180x180/center/NO937901569.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPPDNO21"
 }

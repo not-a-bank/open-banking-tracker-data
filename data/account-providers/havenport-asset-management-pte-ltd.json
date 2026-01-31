@@ -8,7 +8,6 @@
   ],
   "name": "HAVENPORT ASSET MANAGEMENT PTE LTD",
   "legalName": "HAVENPORT ASSET MANAGEMENT PTE LTD",
-  "bic": "HVPASGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.havenportassetmanagementpteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HVPASGS1XXX"
 }

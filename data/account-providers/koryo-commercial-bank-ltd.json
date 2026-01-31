@@ -8,7 +8,6 @@
   ],
   "name": "KORYO COMMERCIAL BANK LTD.",
   "legalName": "KORYO COMMERCIAL BANK LTD.",
-  "bic": "KCBKKPP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.koryocommercialbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KCBKKPP1XXX"
 }

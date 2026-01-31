@@ -8,7 +8,6 @@
   ],
   "name": "TD WATERHOUSE BANK NV",
   "legalName": "TD WATERHOUSE BANK NV",
-  "bic": "WATHGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tdwaterhousebanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WATHGB21XXX"
 }

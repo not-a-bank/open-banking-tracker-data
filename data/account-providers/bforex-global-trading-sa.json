@@ -8,7 +8,6 @@
   ],
   "name": "BFOREX GLOBAL TRADING S.A.",
   "legalName": "BFOREX GLOBAL TRADING S.A.",
-  "bic": "BGLTROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bforexglobaltradingsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGLTROB1XXX"
 }

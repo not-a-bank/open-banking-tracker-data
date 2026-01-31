@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Rheinb\u00f6llen",
-  "legalName": "Volksbank Rheinb\u00f6llen",
+  "name": "Volksbank Rheinböllen",
+  "legalName": "Volksbank Rheinböllen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-rheinboellen.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

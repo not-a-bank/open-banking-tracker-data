@@ -8,7 +8,6 @@
   ],
   "name": "BANCO EXPRESSO ATLANTICO SA",
   "legalName": "BANCO EXPRESSO ATLANTICO SA",
-  "bic": "EXATPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoexpressoatlanticosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXATPTP1XXX"
 }

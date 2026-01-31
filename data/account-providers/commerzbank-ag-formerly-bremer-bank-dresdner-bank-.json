@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZBANK AG (FORMERLY BREMER BANK (DRESDNER BANK AG))",
   "legalName": "COMMERZBANK AG (FORMERLY BREMER BANK (DRESDNER BANK AG))",
-  "bic": "DRESDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzbankagformerlybremerbankdresdnerbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DRESDEFFXXX"
 }

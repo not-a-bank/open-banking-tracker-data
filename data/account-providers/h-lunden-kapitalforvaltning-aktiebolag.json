@@ -8,7 +8,6 @@
   ],
   "name": "H. LUNDEN KAPITALFORVALTNING AKTIEBOLAG",
   "legalName": "H. LUNDEN KAPITALFORVALTNING AKTIEBOLAG",
-  "bic": "LFKBSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hlundenkapitalforvaltningaktiebolag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LFKBSES1XXX"
 }

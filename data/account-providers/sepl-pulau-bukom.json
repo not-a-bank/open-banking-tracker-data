@@ -8,7 +8,6 @@
   ],
   "name": "SEPL-PULAU BUKOM",
   "legalName": "SEPL-PULAU BUKOM",
-  "bic": "SEBUSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.seplpulaubukom.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEBUSGS1XXX"
 }

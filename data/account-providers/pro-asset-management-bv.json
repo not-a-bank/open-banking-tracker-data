@@ -8,7 +8,6 @@
   ],
   "name": "PRO ASSET MANAGEMENT B.V.",
   "legalName": "PRO ASSET MANAGEMENT B.V.",
-  "bic": "PAMENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.proassetmanagementbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAMENL21XXX"
 }

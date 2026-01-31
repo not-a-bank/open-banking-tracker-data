@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSWAGEN INTERNATIONAL FINANCE N.V",
   "legalName": "VOLKSWAGEN INTERNATIONAL FINANCE N.V",
-  "bic": "VOIFNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volkswageninternationalfinancenv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOIFNL21XXX"
 }

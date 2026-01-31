@@ -8,7 +8,6 @@
   ],
   "name": "HENTON BORSMAEGLERSELSKAB A/S",
   "legalName": "HENTON BORSMAEGLERSELSKAB A/S",
-  "bic": "HEBODK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hentonborsmaeglerselskabas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEBODK21XXX"
 }

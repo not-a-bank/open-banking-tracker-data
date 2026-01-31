@@ -8,7 +8,6 @@
   ],
   "name": "STANDARD CHARTERED BANK ANGOLA SA",
   "legalName": "STANDARD CHARTERED BANK ANGOLA SA",
-  "bic": "SCBLAOLUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.standardcharteredbankangolasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCBLAOLUXXX"
 }

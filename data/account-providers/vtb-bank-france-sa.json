@@ -8,7 +8,6 @@
   ],
   "name": "VTB BANK (FRANCE) S.A.",
   "legalName": "VTB BANK (FRANCE) S.A.",
-  "bic": "EUROFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vtbbankfrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUROFRPPXXX"
 }

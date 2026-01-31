@@ -8,7 +8,6 @@
   ],
   "name": "DAIMLER PENSION TRUST E.V.",
   "legalName": "DAIMLER PENSION TRUST E.V.",
-  "bic": "DCPTDE6SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daimlerpensiontrustev.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCPTDE6SXXX"
 }

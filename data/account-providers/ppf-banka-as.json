@@ -8,7 +8,6 @@
   ],
   "name": "PPF BANKA A.S.",
   "legalName": "PPF BANKA A.S.",
-  "bic": "PMBPCZPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ppfbankaas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PMBPCZPPXXX"
 }

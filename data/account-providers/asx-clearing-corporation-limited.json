@@ -8,7 +8,6 @@
   ],
   "name": "ASX Clearing Corporation Limited",
   "legalName": "ASX CLEARING CORPORATION LIMITED",
-  "bic": "ACLOAU22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACLOAU22XXX"
 }

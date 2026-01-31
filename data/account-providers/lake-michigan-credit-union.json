@@ -8,7 +8,6 @@
   ],
   "name": "LAKE MICHIGAN CREDIT UNION",
   "legalName": "LAKE MICHIGAN CREDIT UNION",
-  "bic": "LMCNUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lakemichigancreditunion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LMCNUS33XXX"
 }

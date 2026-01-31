@@ -8,7 +8,6 @@
   ],
   "name": "POSCO CAPITAL PARTNERS PLC",
   "legalName": "POSCO CAPITAL PARTNERS PLC",
-  "bic": "POCTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.poscocapitalpartnersplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POCTGB21XXX"
 }

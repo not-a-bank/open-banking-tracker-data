@@ -8,7 +8,6 @@
   ],
   "name": "FERGUSON PLC",
   "legalName": "FERGUSON PLC",
-  "bic": "FRGSJESHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fergusonplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRGSJESHXXX"
 }

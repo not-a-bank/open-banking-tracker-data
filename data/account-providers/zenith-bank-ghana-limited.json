@@ -8,7 +8,6 @@
   ],
   "name": "ZENITH BANK (GHANA) LIMITED",
   "legalName": "ZENITH BANK (GHANA) LIMITED",
-  "bic": "ZEBLGHACXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zenithbankghanalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZEBLGHACXXX"
 }

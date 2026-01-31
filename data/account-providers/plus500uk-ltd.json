@@ -8,7 +8,6 @@
   ],
   "name": "PLUS500UK LTD",
   "legalName": "PLUS500UK LTD",
-  "bic": "PLUKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.plus500ukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLUKGB21XXX"
 }

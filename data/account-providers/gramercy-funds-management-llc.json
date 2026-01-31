@@ -8,7 +8,6 @@
   ],
   "name": "GRAMERCY FUNDS MANAGEMENT LLC",
   "legalName": "GRAMERCY FUNDS MANAGEMENT LLC",
-  "bic": "GFMCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gramercyfundsmanagementllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GFMCUS31XXX"
 }

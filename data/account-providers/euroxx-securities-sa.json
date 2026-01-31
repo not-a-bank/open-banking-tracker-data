@@ -8,7 +8,6 @@
   ],
   "name": "EUROXX SECURITIES SA",
   "legalName": "EUROXX SECURITIES SA",
-  "bic": "EUSSGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euroxxsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUSSGRA1XXX"
 }

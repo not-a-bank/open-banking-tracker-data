@@ -8,7 +8,6 @@
   ],
   "name": "RBL BANK LTD.",
   "legalName": "RBL BANK LTD.",
-  "bic": "RATNINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rblbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RATNINBBXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "IVM VERMOGENSBEHEER B.V.",
   "legalName": "IVM VERMOGENSBEHEER B.V.",
-  "bic": "IVMVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ivmvermogensbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVMVNL21XXX"
 }

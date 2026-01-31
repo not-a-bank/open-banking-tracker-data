@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL CITIZEN COMMERCIAL JOINT STOCK BANK",
   "legalName": "NATIONAL CITIZEN COMMERCIAL JOINT STOCK BANK",
-  "bic": "NVBAVNVXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalcitizencommercialjointstockbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NVBAVNVXXXX"
 }

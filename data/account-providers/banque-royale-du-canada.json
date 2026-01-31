@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE ROYALE DU CANADA",
   "legalName": "BANQUE ROYALE DU CANADA",
-  "bic": "ROYACA21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueroyaleducanada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROYACA21XXX"
 }

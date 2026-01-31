@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Ringkj\u00f8bing Landbobank",
-  "legalName": "Ringkj\u00f8bing Landbobank",
+  "name": "Ringkjøbing Landbobank",
+  "legalName": "Ringkjøbing Landbobank",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ringkjobing-landbobank.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "RINGDK22XXX"
+  "bic": "RINGDK22"
 }

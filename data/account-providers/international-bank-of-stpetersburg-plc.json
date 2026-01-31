@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL BANK OF ST.PETERSBURG PLC",
   "legalName": "INTERNATIONAL BANK OF ST.PETERSBURG PLC",
-  "bic": "LBAPRU2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalbankofstpetersburgplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LBAPRU2PXXX"
 }

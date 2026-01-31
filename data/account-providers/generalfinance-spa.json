@@ -8,7 +8,6 @@
   ],
   "name": "GENERALFINANCE SPA",
   "legalName": "GENERALFINANCE SPA",
-  "bic": "GEELITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.generalfinancespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEELITM1XXX"
 }

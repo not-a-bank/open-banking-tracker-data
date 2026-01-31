@@ -8,7 +8,6 @@
   ],
   "name": "FIRST CITIZENS BANK AND TRUST CO.",
   "legalName": "FIRST CITIZENS BANK AND TRUST CO.",
-  "bic": "FCBTUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstcitizensbankandtrustco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCBTUS33XXX"
 }

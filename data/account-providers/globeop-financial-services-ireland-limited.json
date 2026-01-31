@@ -8,7 +8,6 @@
   ],
   "name": "GLOBEOP FINANCIAL SERVICES (IRELAND) LIMITED",
   "legalName": "GLOBEOP FINANCIAL SERVICES (IRELAND) LIMITED",
-  "bic": "GLOPIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globeopfinancialservicesirelandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GLOPIE21XXX"
 }

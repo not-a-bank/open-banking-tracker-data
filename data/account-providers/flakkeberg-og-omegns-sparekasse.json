@@ -8,7 +8,6 @@
   ],
   "name": "FLAKKEBERG OG OMEGNS SPAREKASSE",
   "legalName": "FLAKKEBERG OG OMEGNS SPAREKASSE",
-  "bic": "FLAKDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.flakkebergogomegnssparekasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLAKDK21XXX"
 }

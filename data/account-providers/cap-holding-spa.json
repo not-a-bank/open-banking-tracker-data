@@ -8,7 +8,6 @@
   ],
   "name": "CAP HOLDING SPA",
   "legalName": "CAP HOLDING SPA",
-  "bic": "CPPHIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capholdingspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPPHIT21XXX"
 }

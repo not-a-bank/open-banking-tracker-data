@@ -8,7 +8,6 @@
   ],
   "name": "HARBOUR ASSET MANAGEMENT LIMITED",
   "legalName": "HARBOUR ASSET MANAGEMENT LIMITED",
-  "bic": "HAAMNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.harbourassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAAMNZ21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ELIXIR SECURITIES LIMITED",
   "legalName": "ELIXIR SECURITIES LIMITED",
-  "bic": "RRESGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.elixirsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RRESGB21XXX"
 }

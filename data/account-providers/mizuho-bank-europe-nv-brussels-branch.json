@@ -8,7 +8,6 @@
   ],
   "name": "MIZUHO BANK EUROPE N.V., BRUSSELS BRANCH",
   "legalName": "MIZUHO BANK EUROPE N.V., BRUSSELS BRANCH",
-  "bic": "MHCBBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mizuhobankeuropenvbrusselsbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHCBBEBBXXX"
 }

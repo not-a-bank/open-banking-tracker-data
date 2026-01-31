@@ -8,7 +8,6 @@
   ],
   "name": "PENSIONDANMARK",
   "legalName": "PENSIONDANMARK",
-  "bic": "PENODK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pensiondanmark.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PENODK21XXX"
 }

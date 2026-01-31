@@ -8,7 +8,6 @@
   ],
   "name": "BANKBOSTON, N.A. BRAZIL",
   "legalName": "BANKBOSTON, N.A. BRAZIL",
-  "bic": "FNBBBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankbostonnabrazil.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNBBBRS1XXX"
 }

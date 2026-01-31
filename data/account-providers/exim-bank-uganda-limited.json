@@ -8,7 +8,6 @@
   ],
   "name": "EXIM BANK (UGANDA) LIMITED",
   "legalName": "EXIM BANK (UGANDA) LIMITED",
-  "bic": "EXTNUGKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eximbankugandalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXTNUGKAXXX"
 }

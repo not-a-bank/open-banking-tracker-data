@@ -8,7 +8,6 @@
   ],
   "name": "POLTAVA-BANK POLTAVA JOINT STOCK BANK",
   "legalName": "POLTAVA-BANK POLTAVA JOINT STOCK BANK",
-  "bic": "POLTUA2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.poltavabankpoltavajointstockbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POLTUA2XXXX"
 }

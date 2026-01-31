@@ -8,7 +8,6 @@
   ],
   "name": "BANCO FICOHSA NICARAGUA S.A.",
   "legalName": "BANCO FICOHSA NICARAGUA S.A.",
-  "bic": "BUNONIMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoficohsanicaraguasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BUNONIMAXXX"
 }

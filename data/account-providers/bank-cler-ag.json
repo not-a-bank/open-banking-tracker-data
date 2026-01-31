@@ -8,7 +8,6 @@
   ],
   "name": "BANK CLER AG",
   "legalName": "BANK CLER AG",
-  "bic": "BCLRCHBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankclerag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCLRCHBBXXX"
 }

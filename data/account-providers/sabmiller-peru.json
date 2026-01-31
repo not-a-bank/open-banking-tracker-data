@@ -8,7 +8,6 @@
   ],
   "name": "SABMILLER PERU",
   "legalName": "SABMILLER PERU",
-  "bic": "SABMPEP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sabmillerperu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABMPEP1XXX"
 }

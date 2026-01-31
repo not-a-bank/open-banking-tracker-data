@@ -8,7 +8,6 @@
   ],
   "name": "HSBC LEASING (FRANCE) S.A.S",
   "legalName": "HSBC LEASING (FRANCE) S.A.S",
-  "bic": "HSLFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcleasingfrancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSLFFRP1XXX"
 }

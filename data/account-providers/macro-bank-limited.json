@@ -8,7 +8,6 @@
   ],
   "name": "MACRO BANK LIMITED",
   "legalName": "MACRO BANK LIMITED",
-  "bic": "MCROBSN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macrobanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCROBSN1XXX"
 }

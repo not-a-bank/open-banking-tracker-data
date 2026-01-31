@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse Rhein-Hunsr\u00fcck",
-  "legalName": "Kreissparkasse Rhein-Hunsr\u00fcck",
+  "name": "Kreissparkasse Rhein-Hunsrück",
+  "legalName": "Kreissparkasse Rhein-Hunsrück",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-rhein-hunsrueck.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

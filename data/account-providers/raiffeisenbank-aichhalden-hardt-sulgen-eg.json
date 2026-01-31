@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK AICHHALDEN-HARDT-SULGEN EG",
   "legalName": "RAIFFEISENBANK AICHHALDEN-HARDT-SULGEN EG",
-  "bic": "RAIHDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankaichhaldenhardtsulgeneg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAIHDE61XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SCOBAG PRIVATBANK AG",
   "legalName": "SCOBAG PRIVATBANK AG",
-  "bic": "SCOPCHBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scobagprivatbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCOPCHBBXXX"
 }

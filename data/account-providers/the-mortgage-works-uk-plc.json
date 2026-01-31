@@ -8,7 +8,6 @@
   ],
   "name": "THE MORTGAGE WORKS (UK) PLC",
   "legalName": "THE MORTGAGE WORKS (UK) PLC",
-  "bic": "CONFGB31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.themortgageworksukplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONFGB31XXX"
 }

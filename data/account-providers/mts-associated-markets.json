@@ -8,7 +8,6 @@
   ],
   "name": "MTS ASSOCIATED MARKETS",
   "legalName": "MTS ASSOCIATED MARKETS",
-  "bic": "BMTSBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mtsassociatedmarkets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMTSBEBBXXX"
 }

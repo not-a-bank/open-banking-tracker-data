@@ -8,7 +8,6 @@
   ],
   "name": "LISBON BROKERS SOCIEDADE CORRETORA S.A.",
   "legalName": "LISBON BROKERS SOCIEDADE CORRETORA S.A.",
-  "bic": "LBSCPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lisbonbrokerssociedadecorretorasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LBSCPTP1XXX"
 }

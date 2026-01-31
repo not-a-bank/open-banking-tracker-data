@@ -8,7 +8,6 @@
   ],
   "name": "OSTJYDSK BANK A/S",
   "legalName": "OSTJYDSK BANK A/S",
-  "bic": "OSBADK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ostjydskbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OSBADK22XXX"
 }

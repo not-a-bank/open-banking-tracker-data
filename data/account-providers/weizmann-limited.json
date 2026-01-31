@@ -8,7 +8,6 @@
   ],
   "name": "WEIZMANN LIMITED",
   "legalName": "WEIZMANN LIMITED",
-  "bic": "WEIZINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.weizmannlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WEIZINB1XXX"
 }

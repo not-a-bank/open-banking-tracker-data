@@ -8,7 +8,6 @@
   ],
   "name": "GAIA BANCORP TRUST, INC",
   "legalName": "GAIA BANCORP TRUST, INC",
-  "bic": "GABTUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gaiabancorptrustinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GABTUS31XXX"
 }

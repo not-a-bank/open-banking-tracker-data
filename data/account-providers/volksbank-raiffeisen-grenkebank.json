@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "GRENKE BANK AG",
@@ -15,7 +16,7 @@
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -31,7 +32,11 @@
   "stockSymbol": "",
   "apiAggregators": [
     "yaxi",
-    "salt-edge"
+    "salt-edge",
+    "gocardless",
+    "tink",
+    "volt"
   ],
-  "swiftCode": "GREBDEH1XXX"
+  "bic": "GREBDEH1XXX",
+  "legalName": "GRENKE BANK AG"
 }

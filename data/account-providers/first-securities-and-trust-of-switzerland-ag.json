@@ -8,7 +8,6 @@
   ],
   "name": "FIRST SECURITIES AND TRUST OF SWITZERLAND AG",
   "legalName": "FIRST SECURITIES AND TRUST OF SWITZERLAND AG",
-  "bic": "FSTSCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstsecuritiesandtrustofswitzerlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FSTSCHZ1XXX"
 }

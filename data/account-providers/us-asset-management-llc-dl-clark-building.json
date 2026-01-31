@@ -8,7 +8,6 @@
   ],
   "name": "US ASSET MANAGEMENT, LLC DL CLARK BUILDING",
   "legalName": "US ASSET MANAGEMENT, LLC DL CLARK BUILDING",
-  "bic": "AMLCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.usassetmanagementllcdlclarkbuilding.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMLCUS31XXX"
 }

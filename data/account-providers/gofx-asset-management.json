@@ -8,7 +8,6 @@
   ],
   "name": "GO.FX ASSET MANAGEMENT",
   "legalName": "GO.FX ASSET MANAGEMENT",
-  "bic": "ASEMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gofxassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASEMFRP1XXX"
 }

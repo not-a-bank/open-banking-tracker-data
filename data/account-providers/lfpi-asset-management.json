@@ -8,7 +8,6 @@
   ],
   "name": "LFPI ASSET MANAGEMENT",
   "legalName": "LFPI ASSET MANAGEMENT",
-  "bic": "LFAAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lfpiassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LFAAFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORTH BANK",
   "legalName": "NORTH BANK",
-  "bic": "NRTTIQBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.northbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NRTTIQBAXXX"
 }

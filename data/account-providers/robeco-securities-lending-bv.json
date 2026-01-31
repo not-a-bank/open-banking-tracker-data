@@ -8,7 +8,6 @@
   ],
   "name": "ROBECO SECURITIES LENDING B.V.",
   "legalName": "ROBECO SECURITIES LENDING B.V.",
-  "bic": "RSELNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.robecosecuritieslendingbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RSELNL21XXX"
 }

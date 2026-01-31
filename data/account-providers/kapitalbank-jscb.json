@@ -8,7 +8,6 @@
   ],
   "name": "KAPITALBANK, JSCB",
   "legalName": "KAPITALBANK, JSCB",
-  "bic": "KACHUZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kapitalbankjscb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KACHUZ22XXX"
 }

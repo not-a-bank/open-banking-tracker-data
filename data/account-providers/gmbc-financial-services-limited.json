@@ -8,7 +8,6 @@
   ],
   "name": "GMBC FINANCIAL SERVICES LIMITED",
   "legalName": "GMBC FINANCIAL SERVICES LIMITED",
-  "bic": "GMFSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gmbcfinancialserviceslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GMFSGB21XXX"
 }

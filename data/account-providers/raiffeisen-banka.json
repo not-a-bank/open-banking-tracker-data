@@ -1,0 +1,32 @@
+{
+  "id": "raiffeisen-banka",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Raiffeisen Banka",
+  "legalName": "Raiffeisen Banka",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisen-banka.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "SK",
+  "countries": [
+    "SK"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "CCRALULLXXX"
+}

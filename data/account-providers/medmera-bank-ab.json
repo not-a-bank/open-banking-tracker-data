@@ -8,7 +8,6 @@
   ],
   "name": "MEDMERA BANK AB",
   "legalName": "MEDMERA BANK AB",
-  "bic": "MEMMSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.medmerabankab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEMMSE21XXX"
 }

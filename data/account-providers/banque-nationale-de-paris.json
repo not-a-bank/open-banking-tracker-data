@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE NATIONALE DE PARIS",
   "legalName": "BANQUE NATIONALE DE PARIS",
-  "bic": "BNPAHTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquenationaledeparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAHTP1XXX"
 }

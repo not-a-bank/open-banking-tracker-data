@@ -8,7 +8,6 @@
   ],
   "name": "NEW ZEALAND EMISSION UNIT REGISTER",
   "legalName": "NEW ZEALAND EMISSION UNIT REGISTER",
-  "bic": "NZEUNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newzealandemissionunitregister.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NZEUNZ21XXX"
 }

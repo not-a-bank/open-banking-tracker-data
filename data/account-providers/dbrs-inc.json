@@ -8,7 +8,6 @@
   ],
   "name": "DBRS, INC.",
   "legalName": "DBRS, INC.",
-  "bic": "DBRSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dbrsinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBRSUS31XXX"
 }

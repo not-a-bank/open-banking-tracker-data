@@ -8,7 +8,6 @@
   ],
   "name": "BANK SERVICE RESERVE (JOINT-STOCK COMPANY)",
   "legalName": "BANK SERVICE RESERVE (JOINT-STOCK COMPANY)",
-  "bic": "SEZARUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankservicereservejointstockcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEZARUM1XXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "STAR FINANCIAL BANK",
   "legalName": "STAR FINANCIAL BANK",
-  "bic": "SFIBUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1607139529/radar/icons/starfinancial.jpg",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFIBUS44XXX"
 }

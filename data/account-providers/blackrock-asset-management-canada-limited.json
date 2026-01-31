@@ -8,7 +8,6 @@
   ],
   "name": "BLACKROCK ASSET MANAGEMENT CANADA LIMITED",
   "legalName": "BLACKROCK ASSET MANAGEMENT CANADA LIMITED",
-  "bic": "BAGNCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.blackrockassetmanagementcanadalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAGNCAT1XXX"
 }

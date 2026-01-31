@@ -8,7 +8,6 @@
   ],
   "name": "BAY ISLE FINANCIAL CORPORATION",
   "legalName": "BAY ISLE FINANCIAL CORPORATION",
-  "bic": "BIFCUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bayislefinancialcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIFCUS61XXX"
 }

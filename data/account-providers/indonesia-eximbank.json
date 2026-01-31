@@ -8,7 +8,6 @@
   ],
   "name": "Indonesia Eximbank",
   "legalName": "INDONESIA EXIMBANK",
-  "bic": "EXIMBANK",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indonesiaexim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXIMBANK"
 }

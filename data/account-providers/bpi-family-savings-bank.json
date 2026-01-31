@@ -8,7 +8,6 @@
   ],
   "name": "BPI FAMILY SAVINGS BANK",
   "legalName": "BPI FAMILY SAVINGS BANK",
-  "bic": "BPFSPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bpifamilysavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPFSPHM1XXX"
 }

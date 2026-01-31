@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE OBEROESTERREICH KAPITALANLAGEGESELLSCHAFT M.B.H.",
   "legalName": "SPARKASSE OBEROESTERREICH KAPITALANLAGEGESELLSCHAFT M.B.H.",
-  "bic": "SPOKAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasseoberoesterreichkapitalanlagegesellschaf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPOKAT21XXX"
 }

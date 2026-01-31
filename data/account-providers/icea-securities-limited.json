@@ -8,7 +8,6 @@
   ],
   "name": "ICEA SECURITIES LIMITED",
   "legalName": "ICEA SECURITIES LIMITED",
-  "bic": "ICSEHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iceasecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICSEHKH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "IDBI BANK LTD",
   "legalName": "IDBI BANK LTD",
-  "bic": "IBKLAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.idbibankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBKLAEADXXX"
 }

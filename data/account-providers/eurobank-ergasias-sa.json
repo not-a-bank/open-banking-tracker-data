@@ -8,7 +8,6 @@
   ],
   "name": "EUROBANK ERGASIAS S.A.",
   "legalName": "EUROBANK ERGASIAS S.A.",
-  "bic": "ERBKGRAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurobankergasiassa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERBKGRAAXXX"
 }

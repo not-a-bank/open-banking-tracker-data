@@ -8,7 +8,6 @@
   ],
   "name": "SAINSBURY'S BANK PLC",
   "legalName": "SAINSBURY'S BANK PLC",
-  "bic": "SANBGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sainsburysbankplcgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SANBGB22XXX"
 }

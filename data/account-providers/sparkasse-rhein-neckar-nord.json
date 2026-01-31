@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE RHEIN NECKAR NORD",
   "legalName": "SPARKASSE RHEIN NECKAR NORD",
-  "bic": "MANSDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasserheinneckarnord.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MANSDE66XXX"
 }

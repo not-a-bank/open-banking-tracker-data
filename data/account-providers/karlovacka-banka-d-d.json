@@ -8,7 +8,6 @@
   ],
   "name": "Karlovacka Banka D.d.",
   "legalName": "KARLOVACKA BANKA D.D.",
-  "bic": "KALCHR2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KALCHR2XXXX"
 }

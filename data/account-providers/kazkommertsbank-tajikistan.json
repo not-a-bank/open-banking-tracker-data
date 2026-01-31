@@ -8,7 +8,6 @@
   ],
   "name": "KAZKOMMERTSBANK TAJIKISTAN",
   "legalName": "KAZKOMMERTSBANK TAJIKISTAN",
-  "bic": "KATJTJ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kazkommertsbanktajikistan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KATJTJ21XXX"
 }

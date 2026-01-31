@@ -8,7 +8,6 @@
   ],
   "name": "KOOKMIN BANK",
   "legalName": "KOOKMIN BANK",
-  "bic": "CZNBJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kookminbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CZNBJPJTXXX"
 }

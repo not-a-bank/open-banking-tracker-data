@@ -8,7 +8,6 @@
   ],
   "name": "KOCBANK NEDERLAND N.V.",
   "legalName": "KOCBANK NEDERLAND N.V.",
-  "bic": "KOCDNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kocbanknederlandnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOCDNL21XXX"
 }

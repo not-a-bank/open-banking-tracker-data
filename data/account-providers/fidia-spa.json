@@ -8,7 +8,6 @@
   ],
   "name": "FIDIA SPA",
   "legalName": "FIDIA SPA",
-  "bic": "FDDAIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidiaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDDAIT21XXX"
 }

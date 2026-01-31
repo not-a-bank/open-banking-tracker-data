@@ -8,7 +8,6 @@
   ],
   "name": "DANA INVEST FONDSMAEGLERSELSKAB A/S",
   "legalName": "DANA INVEST FONDSMAEGLERSELSKAB A/S",
-  "bic": "DAIODKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.danainvestfondsmaeglerselskabas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAIODKK1XXX"
 }

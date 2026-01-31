@@ -8,7 +8,6 @@
   ],
   "name": "STANDARD BANK LIMITED-MALAWI",
   "legalName": "STANDARD BANK LIMITED-MALAWI",
-  "bic": "SBICMWMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.standardbanklimitedmalawi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBICMWMXXXX"
 }

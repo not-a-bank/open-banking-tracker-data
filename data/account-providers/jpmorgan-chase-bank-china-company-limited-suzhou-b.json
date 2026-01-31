@@ -8,7 +8,6 @@
   ],
   "name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SUZHOU BRANCH",
   "legalName": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SUZHOU BRANCH",
-  "bic": "CHASCNBSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganchasebankchinacompanylimitedsuzhoub.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASCNBSXXX"
 }

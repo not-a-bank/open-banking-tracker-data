@@ -8,7 +8,6 @@
   ],
   "name": "PEREGRINE SECURITIES PT",
   "legalName": "PEREGRINE SECURITIES PT",
-  "bic": "PESSIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.peregrinesecuritiespt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PESSIDJ1XXX"
 }

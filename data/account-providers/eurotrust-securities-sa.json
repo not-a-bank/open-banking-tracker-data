@@ -8,7 +8,6 @@
   ],
   "name": "EUROTRUST SECURITIES S.A.",
   "legalName": "EUROTRUST SECURITIES S.A.",
-  "bic": "EUECGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurotrustsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUECGRA1XXX"
 }

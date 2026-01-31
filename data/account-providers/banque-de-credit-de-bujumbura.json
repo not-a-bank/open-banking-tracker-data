@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE CREDIT DE BUJUMBURA",
   "legalName": "BANQUE DE CREDIT DE BUJUMBURA",
-  "bic": "BCRBBIBIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedecreditdebujumbura.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCRBBIBIXXX"
 }

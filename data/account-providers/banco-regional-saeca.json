@@ -8,7 +8,6 @@
   ],
   "name": "BANCO REGIONAL S.A.E.C.A.",
   "legalName": "BANCO REGIONAL S.A.E.C.A.",
-  "bic": "RGSAPYPEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoregionalsaeca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RGSAPYPEXXX"
 }

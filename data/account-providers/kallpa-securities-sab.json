@@ -8,7 +8,6 @@
   ],
   "name": "KALLPA SECURITIES S.A.B",
   "legalName": "KALLPA SECURITIES S.A.B",
-  "bic": "KAESPEP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kallpasecuritiessab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAESPEP1XXX"
 }

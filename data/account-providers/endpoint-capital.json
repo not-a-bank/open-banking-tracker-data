@@ -8,7 +8,6 @@
   ],
   "name": "ENDPOINT CAPITAL",
   "legalName": "ENDPOINT CAPITAL",
-  "bic": "ENCPUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.endpointcapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENCPUS31XXX"
 }

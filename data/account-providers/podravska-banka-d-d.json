@@ -8,7 +8,6 @@
   ],
   "name": "Podravska Banka D.d.",
   "legalName": "PODRAVSKA BANKA D.D.",
-  "bic": "PDKCHR2XBRO",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PDKCHR2XBRO"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT MUTUEL ARKEA",
   "legalName": "CREDIT MUTUEL ARKEA",
-  "bic": "CMBRFR2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditmutuelarkea.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMBRFR2BXXX"
 }

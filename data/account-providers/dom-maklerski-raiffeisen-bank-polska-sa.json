@@ -8,7 +8,6 @@
   ],
   "name": "DOM MAKLERSKI RAIFFEISEN BANK POLSKA S.A.",
   "legalName": "DOM MAKLERSKI RAIFFEISEN BANK POLSKA S.A.",
-  "bic": "DMRPPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dommaklerskiraiffeisenbankpolskasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DMRPPLP1XXX"
 }

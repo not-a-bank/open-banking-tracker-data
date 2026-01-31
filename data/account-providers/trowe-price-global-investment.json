@@ -8,7 +8,6 @@
   ],
   "name": "T.ROWE PRICE GLOBAL INVESTMENT",
   "legalName": "T.ROWE PRICE GLOBAL INVESTMENT",
-  "bic": "TPGISES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trowepriceglobalinvestment.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TPGISES1XXX"
 }

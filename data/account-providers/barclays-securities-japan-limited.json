@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS SECURITIES JAPAN LIMITED",
   "legalName": "BARCLAYS SECURITIES JAPAN LIMITED",
-  "bic": "BARCJPJ9XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclayssecuritiesjapanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCJPJ9XXX"
 }

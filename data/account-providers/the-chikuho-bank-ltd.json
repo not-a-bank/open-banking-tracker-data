@@ -8,7 +8,6 @@
   ],
   "name": "THE CHIKUHO BANK LTD",
   "legalName": "THE CHIKUHO BANK LTD",
-  "bic": "CHIHJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thechikuhobankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHIHJPJTXXX"
 }

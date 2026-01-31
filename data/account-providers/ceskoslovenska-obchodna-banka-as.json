@@ -8,7 +8,6 @@
   ],
   "name": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
   "legalName": "CESKOSLOVENSKA OBCHODNA BANKA, A.S.",
-  "bic": "CEKOSKBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ceskoslovenskaobchodnabankaas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEKOSKBXXXX"
 }

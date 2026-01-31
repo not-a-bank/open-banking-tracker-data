@@ -8,7 +8,6 @@
   ],
   "name": "ALMIND SPARE- OG LAANEKASSE",
   "legalName": "ALMIND SPARE- OG LAANEKASSE",
-  "bic": "ALSPDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.almindspareoglaanekasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALSPDK21XXX"
 }

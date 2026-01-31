@@ -8,7 +8,6 @@
   ],
   "name": "GONET BANK AND TRUST LIMITED",
   "legalName": "GONET BANK AND TRUST LIMITED",
-  "bic": "GONEBSNSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gonetbankandtrustlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GONEBSNSXXX"
 }

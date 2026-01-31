@@ -8,7 +8,6 @@
   ],
   "name": "MYANMA ECONOMIC BANK",
   "legalName": "MYANMA ECONOMIC BANK",
-  "bic": "MYEBMMMYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.myanmaeconomicbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MYEBMMMYXXX"
 }

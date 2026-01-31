@@ -8,7 +8,6 @@
   ],
   "name": "IKOS ASSET MANAGEMENT LTD",
   "legalName": "IKOS ASSET MANAGEMENT LTD",
-  "bic": "IKAMCY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ikosassetmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IKAMCY21XXX"
 }

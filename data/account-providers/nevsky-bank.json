@@ -8,7 +8,6 @@
   ],
   "name": "NEVSKY BANK",
   "legalName": "NEVSKY BANK",
-  "bic": "NEVSRU2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nevskybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEVSRU2PXXX"
 }

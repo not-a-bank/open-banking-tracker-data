@@ -8,7 +8,6 @@
   ],
   "name": "FIDURHONE S.A.",
   "legalName": "FIDURHONE S.A.",
-  "bic": "FIDHCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidurhonesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIDHCHGGXXX"
 }

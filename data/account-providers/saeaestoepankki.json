@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "S\u00e4\u00e4st\u00f6pankki",
-  "legalName": "S\u00e4\u00e4st\u00f6pankki",
+  "name": "Säästöpankki",
+  "legalName": "Säästöpankki",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saeaestoepankki.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "SUSSFI21XXX"
+  "bic": "ITELFIHH"
 }

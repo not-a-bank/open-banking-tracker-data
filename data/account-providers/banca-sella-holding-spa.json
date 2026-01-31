@@ -8,7 +8,6 @@
   ],
   "name": "BANCA SELLA HOLDING SPA",
   "legalName": "BANCA SELLA HOLDING SPA",
-  "bic": "SELBIT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancasellaholdingspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SELBIT22XXX"
 }

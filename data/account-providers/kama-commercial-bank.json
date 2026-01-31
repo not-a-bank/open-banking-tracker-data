@@ -8,7 +8,6 @@
   ],
   "name": "KAMA COMMERCIAL BANK",
   "legalName": "KAMA COMMERCIAL BANK",
-  "bic": "KACORU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kamacommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KACORU21XXX"
 }

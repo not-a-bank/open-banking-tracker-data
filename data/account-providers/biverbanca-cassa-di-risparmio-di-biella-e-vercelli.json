@@ -8,7 +8,6 @@
   ],
   "name": "BIVERBANCA - CASSA DI RISPARMIO DI BIELLA E VERCELLI SPA",
   "legalName": "BIVERBANCA - CASSA DI RISPARMIO DI BIELLA E VERCELLI SPA",
-  "bic": "CRBIITA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.biverbancacassadirisparmiodibiellaevercelli.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRBIITA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EQUITY TRUST FUND SERVICES (LUXEMBOURG) S.A.",
   "legalName": "EQUITY TRUST FUND SERVICES (LUXEMBOURG) S.A.",
-  "bic": "ETFSLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.equitytrustfundservicesluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETFSLUL1XXX"
 }

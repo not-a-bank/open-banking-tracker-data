@@ -8,7 +8,6 @@
   ],
   "name": "BANK FUER ORDEN UND MISSION",
   "legalName": "BANK FUER ORDEN UND MISSION",
-  "bic": "BFOMDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankfuerordenundmission.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFOMDE51XXX"
 }

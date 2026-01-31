@@ -8,7 +8,6 @@
   ],
   "name": "SINA BANK",
   "legalName": "SINA BANK",
-  "bic": "SINAIRTHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sinabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SINAIRTHXXX"
 }

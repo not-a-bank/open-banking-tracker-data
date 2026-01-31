@@ -8,7 +8,6 @@
   ],
   "name": "TEN LIE SECURITIES CORP.",
   "legalName": "TEN LIE SECURITIES CORP.",
-  "bic": "TELSTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tenliesecuritiescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TELSTWT1XXX"
 }

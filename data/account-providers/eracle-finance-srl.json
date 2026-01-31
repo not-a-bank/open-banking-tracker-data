@@ -8,7 +8,6 @@
   ],
   "name": "ERACLE FINANCE S.R.L.",
   "legalName": "ERACLE FINANCE S.R.L.",
-  "bic": "ERFSIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eraclefinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERFSIT21XXX"
 }

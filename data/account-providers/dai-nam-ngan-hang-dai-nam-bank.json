@@ -8,7 +8,6 @@
   ],
   "name": "DAI-NAM NGAN-HANG (DAI-NAM BANK)",
   "legalName": "DAI-NAM NGAN-HANG (DAI-NAM BANK)",
-  "bic": "DNDBVNV1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dainamnganhangdainambank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNDBVNV1XXX"
 }

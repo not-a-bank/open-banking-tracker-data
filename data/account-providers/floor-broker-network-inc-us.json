@@ -8,7 +8,6 @@
   ],
   "name": "FLOOR BROKER NETWORK INC.",
   "legalName": "FLOOR BROKER NETWORK INC.",
-  "bic": "FLBRUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.floorbrokernetworkincus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLBRUS31XXX"
 }

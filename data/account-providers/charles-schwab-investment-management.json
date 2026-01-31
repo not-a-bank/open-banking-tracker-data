@@ -8,7 +8,6 @@
   ],
   "name": "CHARLES SCHWAB INVESTMENT MANAGEMENT",
   "legalName": "CHARLES SCHWAB INVESTMENT MANAGEMENT",
-  "bic": "CSIGUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.charlesschwabinvestmentmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSIGUS61XXX"
 }

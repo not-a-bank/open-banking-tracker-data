@@ -8,7 +8,6 @@
   ],
   "name": "KLING JELKO WERTPAPIERHANDELSBANK AG",
   "legalName": "KLING JELKO WERTPAPIERHANDELSBANK AG",
-  "bic": "KJWBDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.klingjelkowertpapierhandelsbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KJWBDEF1XXX"
 }

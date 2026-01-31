@@ -8,7 +8,6 @@
   ],
   "name": "OCBC INVESTMENT RESEARCH PRIVATE LIMITED",
   "legalName": "OCBC INVESTMENT RESEARCH PRIVATE LIMITED",
-  "bic": "OIRPSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ocbcinvestmentresearchprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OIRPSGS1XXX"
 }

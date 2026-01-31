@@ -8,7 +8,6 @@
   ],
   "name": "SKRILL LIMITED",
   "legalName": "SKRILL LIMITED",
-  "bic": "SKRLGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.skrilllimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKRLGB2LXXX"
 }

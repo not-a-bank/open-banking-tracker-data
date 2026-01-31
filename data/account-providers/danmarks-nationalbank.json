@@ -8,7 +8,6 @@
   ],
   "name": "Danmarks Nationalbank",
   "legalName": "DANMARKS NATIONALBANK",
-  "bic": "DANMARKS",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DANMARKS"
 }

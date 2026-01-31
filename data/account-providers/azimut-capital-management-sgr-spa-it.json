@@ -8,7 +8,6 @@
   ],
   "name": "AZIMUT CAPITAL MANAGEMENT SGR SPA",
   "legalName": "AZIMUT CAPITAL MANAGEMENT SGR SPA",
-  "bic": "AZFMIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.azimutcapitalmanagementsgrspait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZFMIT21XXX"
 }

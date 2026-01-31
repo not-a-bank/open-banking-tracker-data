@@ -8,7 +8,6 @@
   ],
   "name": "OLDENBURGISCHE LANDESBANK AG (FORMERLY W. FORTMANN UND SOEHNE)",
   "legalName": "OLDENBURGISCHE LANDESBANK AG (FORMERLY W. FORTMANN UND SOEHNE)",
-  "bic": "FORTDEH4XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oldenburgischelandesbankagformerlywfortmannu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FORTDEH4XXX"
 }

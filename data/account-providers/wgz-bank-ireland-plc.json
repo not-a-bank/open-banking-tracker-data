@@ -8,7 +8,6 @@
   ],
   "name": "WGZ BANK IRELAND PLC",
   "legalName": "WGZ BANK IRELAND PLC",
-  "bic": "WGZIIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wgzbankirelandplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WGZIIE21XXX"
 }

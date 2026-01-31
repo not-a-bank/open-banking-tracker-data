@@ -8,7 +8,6 @@
   ],
   "name": "BANKERS TRUST INTERNATIONAL PLC (BTI)",
   "legalName": "BANKERS TRUST INTERNATIONAL PLC (BTI)",
-  "bic": "BKTIIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankerstrustinternationalplcbti.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKTIIE21XXX"
 }

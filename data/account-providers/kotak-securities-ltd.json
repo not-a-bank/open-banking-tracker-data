@@ -8,7 +8,6 @@
   ],
   "name": "KOTAK SECURITIES LTD",
   "legalName": "KOTAK SECURITIES LTD",
-  "bic": "KOSEINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kotaksecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOSEINB1XXX"
 }

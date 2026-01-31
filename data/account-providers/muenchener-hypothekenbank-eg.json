@@ -8,7 +8,6 @@
   ],
   "name": "MUENCHENER HYPOTHEKENBANK E.G.",
   "legalName": "MUENCHENER HYPOTHEKENBANK E.G.",
-  "bic": "MHYPDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.muenchenerhypothekenbankeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHYPDEMMXXX"
 }

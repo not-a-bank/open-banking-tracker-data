@@ -8,7 +8,6 @@
   ],
   "name": "BURLING BANK",
   "legalName": "BURLING BANK",
-  "bic": "BURLUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.burlingbank.com.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BURLUS41XXX"
 }

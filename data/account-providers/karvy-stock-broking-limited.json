@@ -8,7 +8,6 @@
   ],
   "name": "KARVY STOCK BROKING LIMITED",
   "legalName": "KARVY STOCK BROKING LIMITED",
-  "bic": "KSBLIN41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.karvystockbrokinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KSBLIN41XXX"
 }

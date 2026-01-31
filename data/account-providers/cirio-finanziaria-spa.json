@@ -8,7 +8,6 @@
   ],
   "name": "CIRIO FINANZIARIA SPA",
   "legalName": "CIRIO FINANZIARIA SPA",
-  "bic": "CIRZITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ciriofinanziariaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIRZITR1XXX"
 }

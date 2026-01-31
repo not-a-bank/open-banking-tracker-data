@@ -8,7 +8,6 @@
   ],
   "name": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
   "legalName": "UBI BANCA S.P.A. (FORMERLY BANCA TIRRENICA S.P.A.)",
-  "bic": "ARBAIT33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubibancaspaformerlybancatirrenicaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARBAIT33XXX"
 }

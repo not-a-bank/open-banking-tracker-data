@@ -7,7 +7,7 @@
     "universal"
   ],
   "name": "Bank Pekao",
-  "legalName": "Bank Polska Kasa Opieki Sp\u00f3\u0142ka Akcyjna",
+  "legalName": "Bank Polska Kasa Opieki Spółka Akcyjna",
   "ipoStatus": "public",
   "stockSymbol": "WSE:PEO",
   "verified": false,
@@ -53,6 +53,7 @@
     "banqup",
     "enablebanking",
     "fintecture",
+    "gocardless",
     "klarna",
     "plaid",
     "salt-edge",
@@ -128,5 +129,6 @@
   "bloomberg": null,
   "github": null,
   "fca": null,
-  "articles": []
+  "articles": [],
+  "bic": "PKOPPLPW"
 }

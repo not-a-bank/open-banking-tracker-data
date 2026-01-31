@@ -8,7 +8,6 @@
   ],
   "name": "BANK BASMANNY",
   "legalName": "BANK BASMANNY",
-  "bic": "BSSMRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankbasmanny.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSSMRUM1XXX"
 }

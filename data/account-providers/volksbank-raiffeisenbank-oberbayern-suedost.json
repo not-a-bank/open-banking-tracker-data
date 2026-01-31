@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Raiffeisenbank Oberbayern S\u00fcdost",
-  "legalName": "Volksbank Raiffeisenbank Oberbayern S\u00fcdost",
+  "name": "Volksbank Raiffeisenbank Oberbayern Südost",
+  "legalName": "Volksbank Raiffeisenbank Oberbayern Südost",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-raiffeisenbank-oberbayern-suedost.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

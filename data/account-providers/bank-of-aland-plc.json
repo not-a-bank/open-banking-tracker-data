@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Aland PLC",
   "legalName": "BANK OF ALAND PLC",
-  "bic": "AABAFI22TET",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AABAFI22TET"
 }

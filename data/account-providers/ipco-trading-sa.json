@@ -8,7 +8,6 @@
   ],
   "name": "IPCO TRADING SA",
   "legalName": "IPCO TRADING SA",
-  "bic": "IPTRCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ipcotradingsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IPTRCHG1XXX"
 }

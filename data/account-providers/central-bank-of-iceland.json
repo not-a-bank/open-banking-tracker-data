@@ -8,7 +8,6 @@
   ],
   "name": "Central Bank OF Iceland",
   "legalName": "CENTRAL BANK OF ICELAND",
-  "bic": "SISLISREASA",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SISLISREASA"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CTBC BANK CO., LTD., SINGAPORE BRANCH",
   "legalName": "CTBC BANK CO., LTD., SINGAPORE BRANCH",
-  "bic": "CTCBSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ctbcbankcoltdsingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTCBSGSGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BDL",
   "legalName": "BDL",
-  "bic": "BDLBFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bdl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDLBFRP1XXX"
 }

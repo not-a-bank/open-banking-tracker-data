@@ -8,7 +8,6 @@
   ],
   "name": "ERG RENEW S.P.A.",
   "legalName": "ERG RENEW S.P.A.",
-  "bic": "ERRNITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ergrenewspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERRNITM1XXX"
 }

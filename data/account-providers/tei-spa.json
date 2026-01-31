@@ -8,7 +8,6 @@
   ],
   "name": "TEI S.P.A.",
   "legalName": "TEI S.P.A.",
-  "bic": "TEITITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.teispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEITITM1XXX"
 }

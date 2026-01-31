@@ -8,7 +8,6 @@
   ],
   "name": "CONTANGO ASSET MANAGEMENT LIMITED",
   "legalName": "CONTANGO ASSET MANAGEMENT LIMITED",
-  "bic": "CNANAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.contangoassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNANAU31XXX"
 }

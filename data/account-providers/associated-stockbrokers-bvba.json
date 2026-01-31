@@ -8,7 +8,6 @@
   ],
   "name": "ASSOCIATED STOCKBROKERS, BVBA",
   "legalName": "ASSOCIATED STOCKBROKERS, BVBA",
-  "bic": "ASSTBE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.associatedstockbrokersbvba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASSTBE21XXX"
 }

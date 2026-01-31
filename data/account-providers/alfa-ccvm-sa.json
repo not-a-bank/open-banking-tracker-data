@@ -8,7 +8,6 @@
   ],
   "name": "ALFA CCVM S/A",
   "legalName": "ALFA CCVM S/A",
-  "bic": "ALCCBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alfaccvmsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALCCBRS1XXX"
 }

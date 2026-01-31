@@ -8,7 +8,6 @@
   ],
   "name": "PYHASELAN PAIKALLISOSUUSPANKKI",
   "legalName": "PYHASELAN PAIKALLISOSUUSPANKKI",
-  "bic": "PYPAFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pyhaselanpaikallisosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PYPAFI21XXX"
 }

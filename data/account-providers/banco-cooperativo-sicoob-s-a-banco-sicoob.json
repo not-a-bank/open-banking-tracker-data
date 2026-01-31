@@ -8,7 +8,6 @@
   ],
   "name": "Sicoob",
   "legalName": "BANCO COOPERATIVO SICOOB S/A - BANCO SICOOB",
-  "bic": "CPBNBRDFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sicoob.com.br.ico",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPBNBRDFXXX"
 }

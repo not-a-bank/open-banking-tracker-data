@@ -8,7 +8,6 @@
   ],
   "name": "HSBC SECURITIES INDONESIA PT.",
   "legalName": "HSBC SECURITIES INDONESIA PT.",
-  "bic": "HSSEIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcsecuritiesindonesiapt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSSEIDJ1XXX"
 }

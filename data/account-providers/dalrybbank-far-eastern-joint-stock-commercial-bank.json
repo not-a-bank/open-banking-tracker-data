@@ -8,7 +8,6 @@
   ],
   "name": "DALRYBBANK (FAR-EASTERN JOINT STOCK COMMERCIAL BANK OF FISHERIES)",
   "legalName": "DALRYBBANK (FAR-EASTERN JOINT STOCK COMMERCIAL BANK OF FISHERIES)",
-  "bic": "CBFIRU81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dalrybbankfareasternjointstockcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBFIRU81XXX"
 }

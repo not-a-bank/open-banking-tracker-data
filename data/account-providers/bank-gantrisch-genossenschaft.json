@@ -8,7 +8,6 @@
   ],
   "name": "BANK GANTRISCH GENOSSENSCHAFT",
   "legalName": "BANK GANTRISCH GENOSSENSCHAFT",
-  "bic": "BGAGCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankgantrischgenossenschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGAGCH22XXX"
 }

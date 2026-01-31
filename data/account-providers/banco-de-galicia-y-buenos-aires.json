@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE Galicia Y Buenos Aires",
   "legalName": "BANCO DE GALICIA Y BUENOS AIRES",
-  "bic": "GABAARBAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GABAARBAXXX"
 }

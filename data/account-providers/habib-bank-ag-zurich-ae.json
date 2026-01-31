@@ -9,7 +9,6 @@
   ],
   "name": "HABIB BANK AG ZURICH",
   "legalName": "HABIB BANK AG ZURICH",
-  "bic": "HBZUAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/habib_bank_ag_zurich_gb.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBZUAEADXXX"
 }

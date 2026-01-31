@@ -1,0 +1,73 @@
+{
+  "id": "resurs-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "universal"
+  ],
+  "name": "Resurs Bank",
+  "legalName": "Resurs Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1593552752/radar/icons/resurs-bank-se.png",
+  "websiteUrl": "https://www.resursbank.se/",
+  "countryHQ": "DK",
+  "countries": [
+    "DK",
+    "SE",
+    "FI",
+    "NO"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://crosskey.io/stores/resursbank/apis",
+  "apiStandards": [
+    "OBIE"
+  ],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
+  "apiAggregators": [
+    "gocardless",
+    "enablebanking",
+    "enfuce",
+    "neonomics",
+    "salt-edge",
+    "tink"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RESUSE21"
+}

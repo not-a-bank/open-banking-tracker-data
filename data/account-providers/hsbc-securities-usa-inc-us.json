@@ -8,7 +8,6 @@
   ],
   "name": "HSBC SECURITIES (USA) INC.",
   "legalName": "HSBC SECURITIES (USA) INC.",
-  "bic": "JCSIUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcsecuritiesusaincus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JCSIUS33XXX"
 }

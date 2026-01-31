@@ -8,7 +8,6 @@
   ],
   "name": "CRELAN SA/NV (FORMERLY CREDIT AGRICOLE SA/LANDBOUWKREDIET NV)",
   "legalName": "CRELAN SA/NV (FORMERLY CREDIT AGRICOLE SA/LANDBOUWKREDIET NV)",
-  "bic": "NICABEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.crelansanvformerlycreditagricolesalandbouwkre.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NICABEBBXXX"
 }

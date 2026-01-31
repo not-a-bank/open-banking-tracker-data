@@ -8,7 +8,6 @@
   ],
   "name": "NEDBANK (SWAZILAND) LIMITED",
   "legalName": "NEDBANK (SWAZILAND) LIMITED",
-  "bic": "NESWSZMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nedbankswazilandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NESWSZMXXXX"
 }

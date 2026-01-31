@@ -8,7 +8,6 @@
   ],
   "name": "PICTET-EUR BONDS",
   "legalName": "PICTET-EUR BONDS",
-  "bic": "FUATLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.picteteurbonds.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUATLUL1XXX"
 }

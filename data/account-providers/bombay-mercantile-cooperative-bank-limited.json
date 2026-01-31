@@ -8,7 +8,6 @@
   ],
   "name": "Bombay Mercantile Cooperative Bank Limited",
   "legalName": "BOMBAY MERCANTILE COOPERATIVE BANK LIMITED",
-  "bic": "BMCBINBBXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMCBINBBXXX"
 }

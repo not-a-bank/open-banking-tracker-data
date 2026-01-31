@@ -8,7 +8,6 @@
   ],
   "name": "TATE AND LYLE INTERNATIONAL FINANCE PLC",
   "legalName": "TATE AND LYLE INTERNATIONAL FINANCE PLC",
-  "bic": "TLIFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tateandlyleinternationalfinanceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TLIFGB21XXX"
 }

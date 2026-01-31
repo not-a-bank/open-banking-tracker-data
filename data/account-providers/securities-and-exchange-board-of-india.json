@@ -8,7 +8,6 @@
   ],
   "name": "SECURITIES AND EXCHANGE BOARD OF INDIA",
   "legalName": "SECURITIES AND EXCHANGE BOARD OF INDIA",
-  "bic": "SEBOINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.securitiesandexchangeboardofindia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEBOINB1XXX"
 }

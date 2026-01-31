@@ -8,7 +8,6 @@
   ],
   "name": "CIBC WORLD MARKETS INTERNATIONAL LIMITED",
   "legalName": "CIBC WORLD MARKETS INTERNATIONAL LIMITED",
-  "bic": "CWMIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cibcworldmarketsinternationallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CWMIGB21XXX"
 }

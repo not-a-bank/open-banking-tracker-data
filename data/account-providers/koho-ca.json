@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "KOHO",
   "description": "A no-fee spending account with instant cash back & an app designed to make managing your money easy.",
@@ -27,10 +28,13 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "flinks",
+    "plaid"
+  ],
   "apiProducts": [],
   "apiStandards": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",

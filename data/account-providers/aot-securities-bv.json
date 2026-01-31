@@ -8,7 +8,6 @@
   ],
   "name": "AOT SECURITIES B.V.",
   "legalName": "AOT SECURITIES B.V.",
-  "bic": "AOSENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aotsecuritiesbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AOSENL21XXX"
 }

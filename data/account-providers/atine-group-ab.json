@@ -8,7 +8,6 @@
   ],
   "name": "ATINE GROUP AB",
   "legalName": "ATINE GROUP AB",
-  "bic": "ATGRSEG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.atinegroupab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATGRSEG1XXX"
 }

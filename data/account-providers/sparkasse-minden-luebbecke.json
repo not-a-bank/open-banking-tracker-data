@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Minden-L\u00fcbbecke",
-  "legalName": "Sparkasse Minden-L\u00fcbbecke",
+  "name": "Sparkasse Minden-Lübbecke",
+  "legalName": "Sparkasse Minden-Lübbecke",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-minden-luebbecke.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

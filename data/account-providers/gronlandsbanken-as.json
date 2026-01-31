@@ -8,7 +8,6 @@
   ],
   "name": "GRONLANDSBANKEN A/S",
   "legalName": "GRONLANDSBANKEN A/S",
-  "bic": "GRENGLGXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gronlandsbankenas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRENGLGXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CERBERUS CAPITAL MANAGEMENT, L.P.",
   "legalName": "CERBERUS CAPITAL MANAGEMENT, L.P.",
-  "bic": "CBPMUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cerberuscapitalmanagementlp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBPMUS33XXX"
 }

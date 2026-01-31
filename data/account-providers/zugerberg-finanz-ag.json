@@ -8,7 +8,6 @@
   ],
   "name": "ZUGERBERG FINANZ AG",
   "legalName": "ZUGERBERG FINANZ AG",
-  "bic": "ZUFICH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zugerbergfinanzag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZUFICH21XXX"
 }

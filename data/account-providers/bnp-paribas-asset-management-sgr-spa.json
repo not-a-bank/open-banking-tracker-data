@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS ASSET MANAGEMENT SGR S.P.A.",
   "legalName": "BNP PARIBAS ASSET MANAGEMENT SGR S.P.A.",
-  "bic": "BPEMITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasassetmanagementsgrspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPEMITM1XXX"
 }

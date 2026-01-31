@@ -8,7 +8,6 @@
   ],
   "name": "ESTONIAN CSD",
   "legalName": "ESTONIAN CSD",
-  "bic": "ECSDEE2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.estoniancsd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECSDEE2XXXX"
 }

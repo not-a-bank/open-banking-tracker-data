@@ -8,7 +8,6 @@
   ],
   "name": "ORSKOG SPAREBANK",
   "legalName": "ORSKOG SPAREBANK",
-  "bic": "ORKONO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orskogsparebank.com.ico",
@@ -24,10 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORKONO21"
 }

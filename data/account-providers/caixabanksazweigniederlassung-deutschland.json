@@ -8,7 +8,6 @@
   ],
   "name": "CAIXABANK,S.A.,ZWEIGNIEDERLASSUNG DEUTSCHLAND",
   "legalName": "CAIXABANK,S.A.,ZWEIGNIEDERLASSUNG DEUTSCHLAND",
-  "bic": "CAIXDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixabanksazweigniederlassungdeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAIXDEFFXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NIKKO BANK (NEDERLAND) N.V.",
   "legalName": "NIKKO BANK (NEDERLAND) N.V.",
-  "bic": "NIKNNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nikkobanknederlandnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIKNNL21XXX"
 }

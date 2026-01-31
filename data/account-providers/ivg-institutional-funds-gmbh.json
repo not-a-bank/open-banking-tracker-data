@@ -8,7 +8,6 @@
   ],
   "name": "IVG INSTITUTIONAL FUNDS GMBH",
   "legalName": "IVG INSTITUTIONAL FUNDS GMBH",
-  "bic": "OIMODE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ivginstitutionalfundsgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OIMODE61XXX"
 }

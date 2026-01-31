@@ -8,7 +8,6 @@
   ],
   "name": "FALCON SPARKASSE LLC",
   "legalName": "FALCON SPARKASSE LLC",
-  "bic": "FSPLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.falconsparkassellc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FSPLUS31XXX"
 }

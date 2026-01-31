@@ -8,7 +8,6 @@
   ],
   "name": "AMERICAN EXPRESS BANK (BRASIL) BANCO MULTIPLO S.A.",
   "legalName": "AMERICAN EXPRESS BANK (BRASIL) BANCO MULTIPLO S.A.",
-  "bic": "AEIBBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.americanexpressbankbrasilbancomultiplosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEIBBRS1XXX"
 }

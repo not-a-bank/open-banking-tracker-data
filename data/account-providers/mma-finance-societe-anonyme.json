@@ -8,7 +8,6 @@
   ],
   "name": "MMA FINANCE SOCIETE ANONYME",
   "legalName": "MMA FINANCE SOCIETE ANONYME",
-  "bic": "MMAFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mmafinancesocieteanonyme.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MMAFFRP1XXX"
 }

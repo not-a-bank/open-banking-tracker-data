@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIABANK TRINIDAD AND TOBAGO LTD.",
   "legalName": "SCOTIABANK TRINIDAD AND TOBAGO LTD.",
-  "bic": "NOSCTTPSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiabanktrinidadandtobagoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSCTTPSXXX"
 }

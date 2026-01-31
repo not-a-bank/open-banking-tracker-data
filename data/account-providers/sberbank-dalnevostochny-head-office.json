@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)",
   "legalName": "SBERBANK (DALNEVOSTOCHNY HEAD OFFICE)",
-  "bic": "SABRRU8KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbankdalnevostochnyheadoffice.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABRRU8KXXX"
 }

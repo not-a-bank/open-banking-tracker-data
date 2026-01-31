@@ -8,7 +8,6 @@
   ],
   "name": "AS PAREX BANKA, LETTLAND FILIAL",
   "legalName": "AS PAREX BANKA, LETTLAND FILIAL",
-  "bic": "PALISES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asparexbankalettlandfilial.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PALISES1XXX"
 }

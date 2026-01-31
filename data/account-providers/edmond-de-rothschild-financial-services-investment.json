@@ -8,7 +8,6 @@
   ],
   "name": "EDMOND DE ROTHSCHILD FINANCIAL SERVICES INVESTMENT MANAGEMENT",
   "legalName": "EDMOND DE ROTHSCHILD FINANCIAL SERVICES INVESTMENT MANAGEMENT",
-  "bic": "RFSIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.edmondderothschildfinancialservicesinvestment.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RFSIFRP1XXX"
 }

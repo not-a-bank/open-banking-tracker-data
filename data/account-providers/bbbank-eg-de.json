@@ -8,7 +8,6 @@
   ],
   "name": "BBBANK EG",
   "legalName": "BBBANK EG",
-  "bic": "GENODE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bbbankegde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODE61XXX"
 }

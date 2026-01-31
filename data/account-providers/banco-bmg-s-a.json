@@ -8,7 +8,6 @@
   ],
   "name": "Banco BMG S/A",
   "legalName": "BANCO BMG S/A",
-  "bic": "BMBCBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMBCBRSPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HYPOTHEKARBANK LENZBURG AG",
   "legalName": "HYPOTHEKARBANK LENZBURG AG",
-  "bic": "HYPLCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hypothekarbanklenzburgag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HYPLCH22XXX"
 }

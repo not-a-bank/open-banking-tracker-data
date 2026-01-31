@@ -8,7 +8,6 @@
   ],
   "name": "KUZNETSKY MOST BANK",
   "legalName": "KUZNETSKY MOST BANK",
-  "bic": "INIBRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kuznetskymostbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INIBRUMMXXX"
 }

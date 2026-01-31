@@ -8,7 +8,6 @@
   ],
   "name": "SONAE FINANCIAL SERVICES, SA",
   "legalName": "SONAE FINANCIAL SERVICES, SA",
-  "bic": "SONVPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sonaefinancialservicessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SONVPTP1XXX"
 }

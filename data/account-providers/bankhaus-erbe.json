@@ -8,7 +8,6 @@
   ],
   "name": "BANKHAUS ERBE",
   "legalName": "BANKHAUS ERBE",
-  "bic": "WBCCRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhauserbe.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WBCCRUMMXXX"
 }

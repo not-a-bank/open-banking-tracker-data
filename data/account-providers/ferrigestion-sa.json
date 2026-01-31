@@ -8,7 +8,6 @@
   ],
   "name": "FERRIGESTION SA",
   "legalName": "FERRIGESTION SA",
-  "bic": "FERIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ferrigestionsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FERIFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE FRANCAISE D'INVESTISSEMENT",
   "legalName": "BANQUE FRANCAISE D'INVESTISSEMENT",
-  "bic": "BFDIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquefrancaisedinvestissement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFDIFRP1XXX"
 }

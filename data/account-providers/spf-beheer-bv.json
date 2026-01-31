@@ -8,7 +8,6 @@
   ],
   "name": "SPF BEHEER  B.V.",
   "legalName": "SPF BEHEER  B.V.",
-  "bic": "SPFENL2UXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spfbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPFENL2UXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SUNSTATE BANK",
   "legalName": "SUNSTATE BANK",
-  "bic": "SUTTUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sunstatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SUTTUS33XXX"
 }

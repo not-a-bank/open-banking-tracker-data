@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA STABILE AKSJER GLOBAL - ASSET SIDE",
   "legalName": "NORDEA STABILE AKSJER GLOBAL - ASSET SIDE",
-  "bic": "NSAGNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeastabileaksjerglobalassetside.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSAGNOK1XXX"
 }

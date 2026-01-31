@@ -8,7 +8,6 @@
   ],
   "name": "PUBLIC BANK (L) LTD",
   "legalName": "PUBLIC BANK (L) LTD",
-  "bic": "PBLLMYKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.publicbanklltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBLLMYKAXXX"
 }

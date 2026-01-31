@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK (CHINA) CO., LTD.",
   "legalName": "CITIBANK (CHINA) CO., LTD.",
-  "bic": "CITICNSXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankchinacoltdcn.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITICNSXXXX"
 }

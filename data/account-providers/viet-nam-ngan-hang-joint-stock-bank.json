@@ -8,7 +8,6 @@
   ],
   "name": "VIET-NAM NGAN-HANG (JOINT STOCK BANK)",
   "legalName": "VIET-NAM NGAN-HANG (JOINT STOCK BANK)",
-  "bic": "VINGVNV1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vietnamnganhangjointstockbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VINGVNV1XXX"
 }

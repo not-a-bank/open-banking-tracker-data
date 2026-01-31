@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE LUXEMBOURG, SUCCURSALE DE BELGIQUE",
   "legalName": "BANQUE DE LUXEMBOURG, SUCCURSALE DE BELGIQUE",
-  "bic": "BLUXBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedeluxembourgsuccursaledebelgique.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLUXBEBBXXX"
 }

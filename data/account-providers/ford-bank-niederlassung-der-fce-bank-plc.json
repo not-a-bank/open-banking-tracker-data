@@ -8,7 +8,6 @@
   ],
   "name": "FORD BANK, NIEDERLASSUNG DER FCE BANK PLC",
   "legalName": "FORD BANK, NIEDERLASSUNG DER FCE BANK PLC",
-  "bic": "FDBADE3KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fordbankniederlassungderfcebankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDBADE3KXXX"
 }

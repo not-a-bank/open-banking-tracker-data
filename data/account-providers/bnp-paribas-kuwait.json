@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS KUWAIT",
   "legalName": "BNP PARIBAS KUWAIT",
-  "bic": "BNPAKWKWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibaskuwait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAKWKWXXX"
 }

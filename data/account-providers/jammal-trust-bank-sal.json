@@ -8,7 +8,6 @@
   ],
   "name": "JAMMAL TRUST BANK SAL",
   "legalName": "JAMMAL TRUST BANK SAL",
-  "bic": "JTBKLBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jammaltrustbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JTBKLBBEXXX"
 }

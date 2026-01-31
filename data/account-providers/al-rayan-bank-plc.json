@@ -8,7 +8,6 @@
   ],
   "name": "AL RAYAN BANK PLC",
   "legalName": "AL RAYAN BANK PLC",
-  "bic": "ARAYGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alrayanbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARAYGB22XXX"
 }

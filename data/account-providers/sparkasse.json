@@ -1,0 +1,79 @@
+{
+  "id": "sparkasse",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "universal"
+  ],
+  "name": "Sparkasse",
+  "legalName": "Sparkasse",
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1607189655/radar/icons/sparkasse-de.png",
+  "websiteUrl": "https://www.sparkasse.de/",
+  "countryHQ": "SI",
+  "countries": [
+    "SI",
+    "DE",
+    "IT"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://itunes.apple.com/de/app/id320599923?mt=8"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.starfinanz.smob.android.sfinanzstatus"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://dev.sparkassen-hub.com/",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "label": "PSD2 accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": "https://xs2a.sparkassen-hub.com/home",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "PSD2 payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": "https://xs2a.sparkassen-hub.com/home",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiAggregators": [
+    "gocardless",
+    "yaxi",
+    "plaid",
+    "truelayer",
+    "salt-edge",
+    "tink"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "KSPKSI20"
+}

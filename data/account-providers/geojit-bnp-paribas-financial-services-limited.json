@@ -8,7 +8,6 @@
   ],
   "name": "GEOJIT BNP PARIBAS FINANCIAL SERVICES LIMITED",
   "legalName": "GEOJIT BNP PARIBAS FINANCIAL SERVICES LIMITED",
-  "bic": "GEIEIN51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.geojitbnpparibasfinancialserviceslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEIEIN51XXX"
 }

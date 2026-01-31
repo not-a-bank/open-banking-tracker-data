@@ -8,7 +8,6 @@
   ],
   "name": "BANCA MARCH, SA",
   "legalName": "BANCA MARCH, SA",
-  "bic": "BMARES2MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancamarchsa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMARES2M"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MOODY'S SINGAPORE PTE LTD",
   "legalName": "MOODY'S SINGAPORE PTE LTD",
-  "bic": "MOITSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.moodyssingaporepteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOITSGS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "STEENTJES VERMOGENSBEHEER B.V.",
   "legalName": "STEENTJES VERMOGENSBEHEER B.V.",
-  "bic": "STVRNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.steentjesvermogensbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STVRNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF INDIA (BOTSWANA) LIMITED",
   "legalName": "BANK OF INDIA (BOTSWANA) LIMITED",
-  "bic": "BKIDBWGXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofindiabotswanalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKIDBWGXXXX"
 }

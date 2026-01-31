@@ -8,7 +8,6 @@
   ],
   "name": "ALTEN SA",
   "legalName": "ALTEN SA",
-  "bic": "ALTNFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.altensa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALTNFRPPXXX"
 }

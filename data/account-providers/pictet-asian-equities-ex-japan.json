@@ -8,7 +8,6 @@
   ],
   "name": "PICTET-ASIAN EQUITIES EX JAPAN",
   "legalName": "PICTET-ASIAN EQUITIES EX JAPAN",
-  "bic": "FUALLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pictetasianequitiesexjapan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUALLUL1XXX"
 }

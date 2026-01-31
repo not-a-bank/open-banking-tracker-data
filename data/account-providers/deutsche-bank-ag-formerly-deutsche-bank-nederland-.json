@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK AG (FORMERLY DEUTSCHE BANK NEDERLAND N.V.)",
   "legalName": "DEUTSCHE BANK AG (FORMERLY DEUTSCHE BANK NEDERLAND N.V.)",
-  "bic": "DEUTNL2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankagformerlydeutschebanknederland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTNL2NXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CHINA MERCHANTS BANK",
   "legalName": "CHINA MERCHANTS BANK",
-  "bic": "CMBCCNB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chinamerchantsbankcn.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMBCCNB1XXX"
 }

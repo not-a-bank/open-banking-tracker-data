@@ -8,7 +8,6 @@
   ],
   "name": "TRANSAMERICA CASA BANCARIA",
   "legalName": "TRANSAMERICA CASA BANCARIA",
-  "bic": "TRCAUYM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.transamericacasabancaria.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRCAUYM1XXX"
 }

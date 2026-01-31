@@ -9,7 +9,6 @@
   ],
   "name": "BNP PARIBAS",
   "legalName": "BNP PARIBAS",
-  "bic": "BNPAHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/c_thumb,w_200,g_face/v1552296072/radar/icons/BNP_Paribas.jpg",
@@ -85,5 +84,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "EPA:BNP"
+  "stockSymbol": "EPA:BNP",
+  "bic": "BNPAHKHHXXX"
 }

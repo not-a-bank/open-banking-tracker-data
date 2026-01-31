@@ -8,7 +8,6 @@
   ],
   "name": "ORKLA SECURITIES (UK) LIMITED",
   "legalName": "ORKLA SECURITIES (UK) LIMITED",
-  "bic": "ORSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orklasecuritiesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORSEGB21XXX"
 }

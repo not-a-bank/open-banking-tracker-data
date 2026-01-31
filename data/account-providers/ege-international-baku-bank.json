@@ -8,7 +8,6 @@
   ],
   "name": "EGE INTERNATIONAL BAKU BANK",
   "legalName": "EGE INTERNATIONAL BAKU BANK",
-  "bic": "TRIDAZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.egeinternationalbakubank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRIDAZ21XXX"
 }

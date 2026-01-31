@@ -8,7 +8,6 @@
   ],
   "name": "FIRST NATIONAL BANK OF LESOTHO",
   "legalName": "FIRST NATIONAL BANK OF LESOTHO",
-  "bic": "FIRNLSMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstnationalbankoflesotho.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIRNLSMXXXX"
 }

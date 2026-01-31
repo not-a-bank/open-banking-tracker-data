@@ -8,7 +8,6 @@
   ],
   "name": "SECONDARY MORTGAGE CORPORATION",
   "legalName": "SECONDARY MORTGAGE CORPORATION",
-  "bic": "SMCRTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.secondarymortgagecorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMCRTHB1XXX"
 }

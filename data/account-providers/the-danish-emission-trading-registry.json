@@ -8,7 +8,6 @@
   ],
   "name": "THE DANISH EMISSION TRADING REGISTRY",
   "legalName": "THE DANISH EMISSION TRADING REGISTRY",
-  "bic": "DETRDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thedanishemissiontradingregistry.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DETRDKK1XXX"
 }

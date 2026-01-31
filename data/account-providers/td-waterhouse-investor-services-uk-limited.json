@@ -8,7 +8,6 @@
   ],
   "name": "TD WATERHOUSE INVESTOR SERVICES (UK) LIMITED",
   "legalName": "TD WATERHOUSE INVESTOR SERVICES (UK) LIMITED",
-  "bic": "WISDGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tdwaterhouseinvestorservicesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WISDGB21XXX"
 }

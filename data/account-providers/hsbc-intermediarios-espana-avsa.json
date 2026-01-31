@@ -8,7 +8,6 @@
   ],
   "name": "HSBC INTERMEDIARIOS (ESPANA) A.V.,S.A.",
   "legalName": "HSBC INTERMEDIARIOS (ESPANA) A.V.,S.A.",
-  "bic": "HSIEESV1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcintermediariosespanaavsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSIEESV1XXX"
 }

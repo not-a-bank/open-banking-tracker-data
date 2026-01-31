@@ -8,7 +8,6 @@
   ],
   "name": "C.I.S.",
   "legalName": "C.I.S.",
-  "bic": "CISUUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CISUUS41XXX"
 }

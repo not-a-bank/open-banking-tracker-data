@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
   "legalName": "BANQUE CENTRALE DES ETATS DE L'AFRIQUE DE L'OUEST",
-  "bic": "BCAOSNDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecentraledesetatsdelafriquedelouestsn.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCAOSNDAXXX"
 }

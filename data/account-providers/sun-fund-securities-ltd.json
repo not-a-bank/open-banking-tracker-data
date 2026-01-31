@@ -8,7 +8,6 @@
   ],
   "name": "SUN-FUND SECURITIES LTD",
   "legalName": "SUN-FUND SECURITIES LTD",
-  "bic": "SFSETWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sunfundsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFSETWT1XXX"
 }

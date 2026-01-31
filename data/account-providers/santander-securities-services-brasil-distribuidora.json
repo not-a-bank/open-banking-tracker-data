@@ -8,7 +8,6 @@
   ],
   "name": "SANTANDER SECURITIES SERVICES BRASIL DISTRIBUIDORA DE TTULOS E VALORES MOBILIRIOS S.A.",
   "legalName": "SANTANDER SECURITIES SERVICES BRASIL DISTRIBUIDORA DE TTULOS E VALORES MOBILIRIOS S.A.",
-  "bic": "SSSBBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santandersecuritiesservicesbrasildistribuidora.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSSBBRSPXXX"
 }

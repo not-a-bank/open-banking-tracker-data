@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "M\u00f8ns Bank",
-  "legalName": "M\u00f8ns Bank",
+  "name": "Møns Bank",
+  "legalName": "Møns Bank",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mons-bank.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "MONSDK21XXX"
+  "bic": "MONSDK21"
 }

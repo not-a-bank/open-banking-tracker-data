@@ -8,7 +8,6 @@
   ],
   "name": "JSC - TBC Bank",
   "legalName": "JSC - TBC Bank",
-  "bic": "TBCBGE22CUS",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TBCBGE22CUS"
 }

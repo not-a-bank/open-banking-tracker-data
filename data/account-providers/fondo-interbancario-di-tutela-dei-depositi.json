@@ -8,7 +8,6 @@
   ],
   "name": "FONDO INTERBANCARIO DI TUTELA DEI DEPOSITI",
   "legalName": "FONDO INTERBANCARIO DI TUTELA DEI DEPOSITI",
-  "bic": "FIEDITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fondointerbancariodituteladeidepositi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIEDITR1XXX"
 }

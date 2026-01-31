@@ -8,7 +8,6 @@
   ],
   "name": "ARAB TURKISH BANK",
   "legalName": "ARAB TURKISH BANK",
-  "bic": "ATUBTRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arabturkishbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATUBTRISXXX"
 }

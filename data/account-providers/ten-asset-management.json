@@ -8,7 +8,6 @@
   ],
   "name": "TEN ASSET MANAGEMENT",
   "legalName": "TEN ASSET MANAGEMENT",
-  "bic": "TEAAUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tenassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEAAUS61XXX"
 }

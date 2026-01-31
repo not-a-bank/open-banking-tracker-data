@@ -8,7 +8,6 @@
   ],
   "name": "AGRICULTURAL BANK OF GREECE SECURITIES S.A.",
   "legalName": "AGRICULTURAL BANK OF GREECE SECURITIES S.A.",
-  "bic": "AGGEGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agriculturalbankofgreecesecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGGEGRA1XXX"
 }

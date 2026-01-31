@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W ZWOLENIU",
   "legalName": "BANK SPOLDZIELCZY W ZWOLENIU",
-  "bic": "SPZOPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywzwoleniu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPZOPLP1XXX"
 }

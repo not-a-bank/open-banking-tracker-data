@@ -8,7 +8,6 @@
   ],
   "name": "ST.PETERSBURG STOCK EXCHANGE ZAO",
   "legalName": "ST.PETERSBURG STOCK EXCHANGE ZAO",
-  "bic": "XPETRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stpetersburgstockexchangezao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XPETRU21XXX"
 }

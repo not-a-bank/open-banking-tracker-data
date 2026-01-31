@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS INVESTMENT PARTNERS NETHERLANDS NV",
   "legalName": "BNP PARIBAS INVESTMENT PARTNERS NETHERLANDS NV",
-  "bic": "FIAHNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasinvestmentpartnersnetherlandsnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIAHNL21XXX"
 }

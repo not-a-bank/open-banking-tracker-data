@@ -8,7 +8,6 @@
   ],
   "name": "LCL ASSET MANAGEMENT AB",
   "legalName": "LCL ASSET MANAGEMENT AB",
-  "bic": "LCAMSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lclassetmanagementab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LCAMSES1XXX"
 }

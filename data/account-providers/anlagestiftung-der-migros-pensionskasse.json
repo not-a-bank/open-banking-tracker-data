@@ -8,7 +8,6 @@
   ],
   "name": "ANLAGESTIFTUNG DER MIGROS-PENSIONSKASSE",
   "legalName": "ANLAGESTIFTUNG DER MIGROS-PENSIONSKASSE",
-  "bic": "ANMICH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anlagestiftungdermigrospensionskasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANMICH21XXX"
 }

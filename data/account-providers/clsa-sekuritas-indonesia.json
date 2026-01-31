@@ -8,7 +8,6 @@
   ],
   "name": "CLSA SEKURITAS INDONESIA",
   "legalName": "CLSA SEKURITAS INDONESIA",
-  "bic": "CLSAIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clsasekuritasindonesia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLSAIDJ1XXX"
 }

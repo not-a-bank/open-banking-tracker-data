@@ -8,7 +8,6 @@
   ],
   "name": "Absa Bank OF Ghana Limited",
   "legalName": "ABSA BANK OF GHANA LIMITED",
-  "bic": "BARCGHACCSS",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCGHACCSS"
 }

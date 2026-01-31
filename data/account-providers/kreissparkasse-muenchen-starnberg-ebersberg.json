@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse M\u00fcnchen Starnberg Ebersberg",
-  "legalName": "Kreissparkasse M\u00fcnchen Starnberg Ebersberg",
+  "name": "Kreissparkasse München Starnberg Ebersberg",
+  "legalName": "Kreissparkasse München Starnberg Ebersberg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-muenchen-starnberg-ebersberg.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

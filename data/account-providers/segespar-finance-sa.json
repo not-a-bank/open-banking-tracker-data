@@ -8,7 +8,6 @@
   ],
   "name": "SEGESPAR FINANCE SA",
   "legalName": "SEGESPAR FINANCE SA",
-  "bic": "SEGFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.segesparfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEGFFRP1XXX"
 }

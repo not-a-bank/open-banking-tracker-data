@@ -8,7 +8,6 @@
   ],
   "name": "EFG EUROBANK ERGASIAS S.A",
   "legalName": "EFG EUROBANK ERGASIAS S.A",
-  "bic": "EFEEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efgeurobankergasiassa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFEEGB21XXX"
 }

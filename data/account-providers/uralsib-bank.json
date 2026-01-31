@@ -8,7 +8,6 @@
   ],
   "name": "URALSIB BANK",
   "legalName": "URALSIB BANK",
-  "bic": "AVTBRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uralsibbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVTBRUM1XXX"
 }

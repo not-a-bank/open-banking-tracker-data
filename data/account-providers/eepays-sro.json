@@ -8,7 +8,6 @@
   ],
   "name": "EEPAYS S.R.O.",
   "legalName": "EEPAYS S.R.O.",
-  "bic": "EEPSCZPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eepayssro.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EEPSCZPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ACCUNIA FONDSMAEGLERSELSKAB A/S",
   "legalName": "ACCUNIA FONDSMAEGLERSELSKAB A/S",
-  "bic": "ACFDDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.accuniafondsmaeglerselskabas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACFDDKK1XXX"
 }

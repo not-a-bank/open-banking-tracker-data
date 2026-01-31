@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIE FINANCIERE ET BOURSIERE LUXEMBOURGEOISE S.A. 'COFIBOL'",
   "legalName": "COMPAGNIE FINANCIERE ET BOURSIERE LUXEMBOURGEOISE S.A. 'COFIBOL'",
-  "bic": "CFBLLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniefinanciereetboursiereluxembourgeoise.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFBLLULLXXX"
 }

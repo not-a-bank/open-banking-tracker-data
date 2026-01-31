@@ -8,7 +8,6 @@
   ],
   "name": "MIZUHO BANK (SWITZERLAND) LTD.",
   "legalName": "MIZUHO BANK (SWITZERLAND) LTD.",
-  "bic": "MHSCCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mizuhobankswitzerlandltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHSCCHZZXXX"
 }

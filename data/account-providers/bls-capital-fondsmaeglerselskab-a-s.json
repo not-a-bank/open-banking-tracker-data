@@ -8,7 +8,6 @@
   ],
   "name": "BLS Capital Fondsmaeglerselskab A/S",
   "legalName": "BLS CAPITAL FONDSMAEGLERSELSKAB A/S",
-  "bic": "BLCFDK22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLCFDK22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AMERICAN BANK LAKE CITY",
   "legalName": "AMERICAN BANK LAKE CITY",
-  "bic": "LCSBUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.americanbanklakecity.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LCSBUS41XXX"
 }

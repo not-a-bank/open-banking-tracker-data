@@ -8,7 +8,6 @@
   ],
   "name": "CESKA BANKA A.S.",
   "legalName": "CESKA BANKA A.S.",
-  "bic": "CSKBCZP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ceskabankaas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSKBCZP1XXX"
 }

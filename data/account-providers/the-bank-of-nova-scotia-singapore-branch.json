@@ -8,7 +8,6 @@
   ],
   "name": "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH",
   "legalName": "THE BANK OF NOVA SCOTIA, SINGAPORE BRANCH",
-  "bic": "NOSCSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankofnovascotiasingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSCSGSGXXX"
 }

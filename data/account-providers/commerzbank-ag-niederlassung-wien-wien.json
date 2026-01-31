@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZBANK AG, NIEDERLASSUNG WIEN WIEN",
   "legalName": "COMMERZBANK AG, NIEDERLASSUNG WIEN WIEN",
-  "bic": "COBAATWXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzbankagniederlassungwienwien.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBAATWXXXX"
 }

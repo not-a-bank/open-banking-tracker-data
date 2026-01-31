@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
   "legalName": "CITIBANK EUROPE PLC HUNGARIAN BRANCH",
-  "bic": "CITIHUHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankeuropeplchungarianbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIHUHXXXX"
 }

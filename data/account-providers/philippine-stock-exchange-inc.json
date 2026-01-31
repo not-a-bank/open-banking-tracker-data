@@ -8,7 +8,6 @@
   ],
   "name": "PHILIPPINE STOCK EXCHANGE, INC.",
   "legalName": "PHILIPPINE STOCK EXCHANGE, INC.",
-  "bic": "XPHSPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philippinestockexchangeinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XPHSPHM1XXX"
 }

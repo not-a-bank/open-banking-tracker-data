@@ -8,7 +8,6 @@
   ],
   "name": "OTP BANK NYRT. ZWEIGNIEDERLASSUNG DEUTSCHLAND",
   "legalName": "OTP BANK NYRT. ZWEIGNIEDERLASSUNG DEUTSCHLAND",
-  "bic": "OTPVDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.otpbanknyrtzweigniederlassungdeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OTPVDEFFXXX"
 }

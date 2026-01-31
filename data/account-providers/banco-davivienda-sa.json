@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DAVIVIENDA S.A.",
   "legalName": "BANCO DAVIVIENDA S.A.",
-  "bic": "CAFEUS3MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodaviviendasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAFEUS3MXXX"
 }

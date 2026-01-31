@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSWAGEN BANK GMBH SPANISH BRANCH",
   "legalName": "VOLKSWAGEN BANK GMBH SPANISH BRANCH",
-  "bic": "VOWAES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volkswagenbankgmbhspanishbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOWAES21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FIRST NATIONAL BANK OF PULASKI",
   "legalName": "FIRST NATIONAL BANK OF PULASKI",
-  "bic": "FTENUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstnationalbankofpulaski.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTENUS41XXX"
 }

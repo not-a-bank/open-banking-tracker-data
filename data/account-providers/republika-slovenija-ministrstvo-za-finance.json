@@ -8,7 +8,6 @@
   ],
   "name": "REPUBLIKA SLOVENIJA MINISTRSTVO ZA FINANCE",
   "legalName": "REPUBLIKA SLOVENIJA MINISTRSTVO ZA FINANCE",
-  "bic": "RSMFSI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.republikaslovenijaministrstvozafinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RSMFSI21XXX"
 }

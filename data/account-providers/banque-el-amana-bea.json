@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE EL AMANA (BEA)",
   "legalName": "BANQUE EL AMANA (BEA)",
-  "bic": "AMDHMRMRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueelamanabea.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMDHMRMRXXX"
 }

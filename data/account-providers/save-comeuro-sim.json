@@ -8,7 +8,6 @@
   ],
   "name": "SAVE COMEURO SIM",
   "legalName": "SAVE COMEURO SIM",
-  "bic": "SAVEITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.savecomeurosim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAVEITM1XXX"
 }

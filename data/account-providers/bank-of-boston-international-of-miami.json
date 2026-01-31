@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF BOSTON INTERNATIONAL OF MIAMI",
   "legalName": "BANK OF BOSTON INTERNATIONAL OF MIAMI",
-  "bic": "BOFAUSA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofbostoninternationalofmiami.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAUSA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HSILO SECURITIES CO LTD",
   "legalName": "HSILO SECURITIES CO LTD",
-  "bic": "HSISTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsilosecuritiescoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSISTWT1XXX"
 }

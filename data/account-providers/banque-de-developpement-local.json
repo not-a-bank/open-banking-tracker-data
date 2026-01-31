@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE DEVELOPPEMENT LOCAL",
   "legalName": "BANQUE DE DEVELOPPEMENT LOCAL",
-  "bic": "BDLODZALXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquededeveloppementlocal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDLODZALXXX"
 }

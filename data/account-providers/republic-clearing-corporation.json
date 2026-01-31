@@ -8,7 +8,6 @@
   ],
   "name": "REPUBLIC CLEARING CORPORATION",
   "legalName": "REPUBLIC CLEARING CORPORATION",
-  "bic": "RPUBUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.republicclearingcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RPUBUS31XXX"
 }

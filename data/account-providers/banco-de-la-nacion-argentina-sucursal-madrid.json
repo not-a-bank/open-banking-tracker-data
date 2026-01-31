@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE LA NACION ARGENTINA, SUCURSAL MADRID",
   "legalName": "BANCO DE LA NACION ARGENTINA, SUCURSAL MADRID",
-  "bic": "NACNESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodelanacionargentinasucursalmadrid.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NACNESMMXXX"
 }

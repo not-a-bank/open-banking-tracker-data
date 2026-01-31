@@ -8,7 +8,6 @@
   ],
   "name": "CITIC SECURITIES COMPANY LIMITED",
   "legalName": "CITIC SECURITIES COMPANY LIMITED",
-  "bic": "CSCLCNBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citicsecuritiescompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSCLCNBJXXX"
 }

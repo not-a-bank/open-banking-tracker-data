@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF GUIYANG (FORMALLY:GUIYANG COMMERCIAL BANK)",
   "legalName": "BANK OF GUIYANG (FORMALLY:GUIYANG COMMERCIAL BANK)",
-  "bic": "GYCBCNSIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofguiyangformallyguiyangcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GYCBCNSIXXX"
 }

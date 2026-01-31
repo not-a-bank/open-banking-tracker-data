@@ -8,7 +8,6 @@
   ],
   "name": "FINANCE TRUST BANK LTD",
   "legalName": "FINANCE TRUST BANK LTD",
-  "bic": "FTBLUGKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financetrustbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTBLUGKAXXX"
 }

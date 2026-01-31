@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK ALMTAL E. GEN.",
   "legalName": "VOLKSBANK ALMTAL E. GEN.",
-  "bic": "AVOSAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankalmtalegen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVOSAT21XXX"
 }

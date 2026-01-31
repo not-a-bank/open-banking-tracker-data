@@ -8,7 +8,6 @@
   ],
   "name": "ALFA ASSET MANAGEMENT EAD",
   "legalName": "ALFA ASSET MANAGEMENT EAD",
-  "bic": "AAMEBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alfaassetmanagementead.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AAMEBGS1XXX"
 }

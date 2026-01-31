@@ -8,7 +8,6 @@
   ],
   "name": "ASOCIACION DE BANCOS PRIVADOS DEL ECUADOR",
   "legalName": "ASOCIACION DE BANCOS PRIVADOS DEL ECUADOR",
-  "bic": "ABPCECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asociaciondebancosprivadosdelecuador.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABPCECE1XXX"
 }

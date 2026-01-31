@@ -8,7 +8,6 @@
   ],
   "name": "BANCO EXTERIOR DE ESPANA SA",
   "legalName": "BANCO EXTERIOR DE ESPANA SA",
-  "bic": "EXESNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoexteriordeespanasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXESNL21XXX"
 }

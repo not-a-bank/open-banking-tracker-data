@@ -8,7 +8,6 @@
   ],
   "name": "CALIMERO TRADING B.V.",
   "legalName": "CALIMERO TRADING B.V.",
-  "bic": "CTRDNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.calimerotradingbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTRDNL21XXX"
 }

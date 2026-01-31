@@ -8,7 +8,6 @@
   ],
   "name": "CAJA DE AHORROS",
   "legalName": "CAJA DE AHORROS",
-  "bic": "CAHRPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cajadeahorros.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAHRPAPAXXX"
 }

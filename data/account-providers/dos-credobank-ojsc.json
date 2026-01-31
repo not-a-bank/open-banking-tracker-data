@@ -8,7 +8,6 @@
   ],
   "name": "DOS-CREDOBANK OJSC",
   "legalName": "DOS-CREDOBANK OJSC",
-  "bic": "DOSSKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.doscredobankojsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DOSSKG22XXX"
 }

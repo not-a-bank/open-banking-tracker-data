@@ -8,7 +8,6 @@
   ],
   "name": "BKS BANK AG, BANCNA PODRUZNICA",
   "legalName": "BKS BANK AG, BANCNA PODRUZNICA",
-  "bic": "BFKKSI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bksbankagbancnapodruznica.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFKKSI22XXX"
 }

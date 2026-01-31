@@ -8,7 +8,6 @@
   ],
   "name": "FIRST GLOBAL STOCK BROKING PVT LTD",
   "legalName": "FIRST GLOBAL STOCK BROKING PVT LTD",
-  "bic": "FGSPINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstglobalstockbrokingpvtltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FGSPINB1XXX"
 }

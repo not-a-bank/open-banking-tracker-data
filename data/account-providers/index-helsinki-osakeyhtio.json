@@ -8,7 +8,6 @@
   ],
   "name": "INDEX HELSINKI OSAKEYHTIO",
   "legalName": "INDEX HELSINKI OSAKEYHTIO",
-  "bic": "INHAFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indexhelsinkiosakeyhtio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INHAFIH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GHANA INTERNATIONAL BANK PLC",
   "legalName": "GHANA INTERNATIONAL BANK PLC",
-  "bic": "GHIBGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ghanainternationalbankplc.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GHIBGB2L"
 }

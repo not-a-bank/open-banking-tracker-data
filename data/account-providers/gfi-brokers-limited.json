@@ -8,7 +8,6 @@
   ],
   "name": "GFI BROKERS LIMITED",
   "legalName": "GFI BROKERS LIMITED",
-  "bic": "GFBRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gfibrokerslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GFBRGB21XXX"
 }

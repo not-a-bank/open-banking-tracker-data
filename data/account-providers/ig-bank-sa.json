@@ -8,7 +8,6 @@
   ],
   "name": "IG BANK S.A.",
   "legalName": "IG BANK S.A.",
-  "bic": "IGBKCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.igbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IGBKCHGGXXX"
 }

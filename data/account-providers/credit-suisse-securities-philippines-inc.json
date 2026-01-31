@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE SECURITIES (PHILIPPINES) INC.",
   "legalName": "CREDIT SUISSE SECURITIES (PHILIPPINES) INC.",
-  "bic": "CRESPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissesecuritiesphilippinesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESPHM1XXX"
 }

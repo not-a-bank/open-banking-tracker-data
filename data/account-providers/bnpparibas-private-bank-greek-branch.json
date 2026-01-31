@@ -8,7 +8,6 @@
   ],
   "name": "BNPPARIBAS PRIVATE BANK-GREEK BRANCH",
   "legalName": "BNPPARIBAS PRIVATE BANK-GREEK BRANCH",
-  "bic": "BPPBGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasprivatebankgreekbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPPBGRA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "QIWI WALLET EUROPE SIA FLOOR 1",
   "legalName": "QIWI WALLET EUROPE SIA FLOOR 1",
-  "bic": "QWESLV21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qiwiwalleteuropesiafloor1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QWESLV21XXX"
 }

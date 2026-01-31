@@ -8,7 +8,6 @@
   ],
   "name": "RBC INVESTOR SERVICES TRUST, UK BRANCH",
   "legalName": "RBC INVESTOR SERVICES TRUST, UK BRANCH",
-  "bic": "RTBSGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbcinvestorservicestrustukbranchgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RTBSGB2LXXX"
 }

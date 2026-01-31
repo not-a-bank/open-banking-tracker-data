@@ -8,7 +8,6 @@
   ],
   "name": "CIT GROUP FINANCE (FRANCE) SNC",
   "legalName": "CIT GROUP FINANCE (FRANCE) SNC",
-  "bic": "CGFFFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citgroupfinancefrancesnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGFFFR21XXX"
 }

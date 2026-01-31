@@ -8,7 +8,6 @@
   ],
   "name": "SPARBANKEN SYD",
   "legalName": "SPARBANKEN SYD",
-  "bic": "SPSDSE23XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparbankensydse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPSDSE23XXX"
 }

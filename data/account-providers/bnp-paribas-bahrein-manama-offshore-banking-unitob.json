@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS BAHREIN - MANAMA OFFSHORE BANKING UNIT(OBU)",
   "legalName": "BNP PARIBAS BAHREIN - MANAMA OFFSHORE BANKING UNIT(OBU)",
-  "bic": "BNPABHBMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasbahreinmanamaoffshorebankingunitob.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPABHBMXXX"
 }

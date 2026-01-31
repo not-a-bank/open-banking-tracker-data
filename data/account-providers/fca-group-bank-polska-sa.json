@@ -8,7 +8,6 @@
   ],
   "name": "FCA-GROUP BANK POLSKA SA",
   "legalName": "FCA-GROUP BANK POLSKA SA",
-  "bic": "FBPLPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fcagroupbankpolskasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBPLPLPWXXX"
 }

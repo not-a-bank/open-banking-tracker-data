@@ -8,7 +8,6 @@
   ],
   "name": "BANK PHB (GAMBIA) LIMITED",
   "legalName": "BANK PHB (GAMBIA) LIMITED",
-  "bic": "ITBCGMGMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankphbgambialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITBCGMGMXXX"
 }

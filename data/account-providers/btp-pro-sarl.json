@@ -8,7 +8,6 @@
   ],
   "name": "BTP PRO SARL",
   "legalName": "BTP PRO SARL",
-  "bic": "BTPRFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.btpprosarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTPRFR21XXX"
 }

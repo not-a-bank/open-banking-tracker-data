@@ -8,7 +8,6 @@
   ],
   "name": "VEGARSHEI SPAREBANK",
   "legalName": "VEGARSHEI SPAREBANK",
-  "bic": "VESPNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vegarsheisparebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VESPNO21XXX"
 }

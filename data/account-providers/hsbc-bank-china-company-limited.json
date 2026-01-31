@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK (CHINA) COMPANY LIMITED",
   "legalName": "HSBC BANK (CHINA) COMPANY LIMITED",
-  "bic": "HSBCCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankchinacompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSBCCNSHXXX"
 }

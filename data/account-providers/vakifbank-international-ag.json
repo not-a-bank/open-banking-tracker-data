@@ -8,14 +8,14 @@
   ],
   "name": "VAKIFBANK INTERNATIONAL AG",
   "legalName": "VAKIFBANK INTERNATIONAL AG",
-  "bic": "TVBAATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vakifbankinternationalag.com.ico",
   "websiteUrl": null,
   "countryHQ": "AT",
   "countries": [
-    "AT"
+    "AT",
+    "DE"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -24,9 +24,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TVBADEFFXXX"
 }

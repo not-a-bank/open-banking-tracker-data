@@ -8,7 +8,6 @@
   ],
   "name": "CELEBI KAPITALFORVALTNING AB",
   "legalName": "CELEBI KAPITALFORVALTNING AB",
-  "bic": "CEKASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.celebikapitalforvaltningab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEKASES1XXX"
 }

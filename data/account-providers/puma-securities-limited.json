@@ -8,7 +8,6 @@
   ],
   "name": "PUMA SECURITIES LIMITED",
   "legalName": "PUMA SECURITIES LIMITED",
-  "bic": "PUSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pumasecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PUSEGB21XXX"
 }

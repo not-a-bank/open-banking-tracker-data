@@ -8,7 +8,6 @@
   ],
   "name": "Banco Santander, S.a. Hong Kong Branch (A Public LTD Liability CO Incorporated IN Spain)",
   "legalName": "BANCO SANTANDER, S.A. HONG KONG BRANCH (A PUBLIC LTD LIABILITY CO INCORPORATED IN SPAIN)",
-  "bic": "BSCHHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHHKHHXXX"
 }

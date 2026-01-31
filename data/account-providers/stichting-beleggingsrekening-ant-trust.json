@@ -8,7 +8,6 @@
   ],
   "name": "STICHTING BELEGGINGSREKENING ANT-TRUST",
   "legalName": "STICHTING BELEGGINGSREKENING ANT-TRUST",
-  "bic": "STBNNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stichtingbeleggingsrekeninganttrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBNNL21XXX"
 }

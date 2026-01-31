@@ -1,0 +1,32 @@
+{
+  "id": "connectpay",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "ConnectPay",
+  "legalName": "ConnectPay",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.connectpay.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "LT",
+  "countries": [
+    "LT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "CNUALT21"
+}

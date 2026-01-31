@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Caisse d'Epargne C\u00f4te d'Azur",
-  "legalName": "Caisse d'Epargne C\u00f4te d'Azur",
+  "name": "Caisse d'Epargne Côte d'Azur",
+  "legalName": "Caisse d'Epargne Côte d'Azur",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisse-depargne-cote-dazur.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

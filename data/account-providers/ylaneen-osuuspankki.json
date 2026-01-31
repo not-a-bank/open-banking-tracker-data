@@ -8,7 +8,6 @@
   ],
   "name": "YLANEEN OSUUSPANKKI",
   "legalName": "YLANEEN OSUUSPANKKI",
-  "bic": "YLOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ylaneenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YLOSFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CIBC ASSET MANAGEMENT INC.",
   "legalName": "CIBC ASSET MANAGEMENT INC.",
-  "bic": "CIEMCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cibcassetmanagementincca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIEMCAM1XXX"
 }

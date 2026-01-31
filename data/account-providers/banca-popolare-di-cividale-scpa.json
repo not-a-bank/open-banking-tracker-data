@@ -8,7 +8,6 @@
   ],
   "name": "BANCA POPOLARE DI CIVIDALE S.C.P.A.",
   "legalName": "BANCA POPOLARE DI CIVIDALE S.C.P.A.",
-  "bic": "CIVIIT2CXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolaredicividalescpa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIVIIT2CXXX"
 }

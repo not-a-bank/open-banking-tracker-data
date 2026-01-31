@@ -8,7 +8,6 @@
   ],
   "name": "ETELA-SAVON OSUUSPANKKI",
   "legalName": "ETELA-SAVON OSUUSPANKKI",
-  "bic": "ETOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.etelasavonosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETOUFI21XXX"
 }

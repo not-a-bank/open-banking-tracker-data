@@ -8,7 +8,6 @@
   ],
   "name": "BALOISE ASSET MANAGEMENT SCHWEIZ AG",
   "legalName": "BALOISE ASSET MANAGEMENT SCHWEIZ AG",
-  "bic": "BAAMCHBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baloiseassetmanagementschweizag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAAMCHBBXXX"
 }

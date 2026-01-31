@@ -8,7 +8,6 @@
   ],
   "name": "UNITED COMMERCIAL BANK",
   "legalName": "UNITED COMMERCIAL BANK",
-  "bic": "UNCCUA21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNCCUA21XXX"
 }

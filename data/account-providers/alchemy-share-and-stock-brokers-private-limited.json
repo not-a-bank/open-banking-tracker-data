@@ -8,7 +8,6 @@
   ],
   "name": "ALCHEMY SHARE AND STOCK BROKERS PRIVATE LIMITED",
   "legalName": "ALCHEMY SHARE AND STOCK BROKERS PRIVATE LIMITED",
-  "bic": "ASSOINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alchemyshareandstockbrokersprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASSOINB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Erste AND Steiermaerkische Bank D.d.",
   "legalName": "ERSTE AND STEIERMAERKISCHE BANK D.D.",
-  "bic": "ESBCHR22CUS",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESBCHR22CUS"
 }

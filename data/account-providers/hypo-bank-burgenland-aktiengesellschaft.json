@@ -8,7 +8,6 @@
   ],
   "name": "HYPO-BANK BURGENLAND AKTIENGESELLSCHAFT",
   "legalName": "HYPO-BANK BURGENLAND AKTIENGESELLSCHAFT",
-  "bic": "EHBBAT2EXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hypobankburgenlandaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EHBBAT2EXXX"
 }

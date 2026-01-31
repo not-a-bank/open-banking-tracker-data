@@ -8,7 +8,6 @@
   ],
   "name": "LIPERIN OSUUSPANKKI",
   "legalName": "LIPERIN OSUUSPANKKI",
-  "bic": "LIOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.liperinosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIOPFI21XXX"
 }

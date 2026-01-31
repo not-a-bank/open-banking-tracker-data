@@ -8,7 +8,6 @@
   ],
   "name": "Open Joint-stock Company 'paritetbank', Minsk",
   "legalName": "OPEN JOINT-STOCK COMPANY 'PARITETBANK', MINSK",
-  "bic": "POISBY2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POISBY2XXXX"
 }

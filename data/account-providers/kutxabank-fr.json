@@ -9,7 +9,6 @@
   ],
   "name": "KUTXABANK",
   "legalName": "KUTXABANK",
-  "bic": "BASKFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1623528987/radar/icons/kutxabank.png",
@@ -75,5 +74,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BASKFR21XXX"
 }

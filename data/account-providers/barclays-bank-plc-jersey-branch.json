@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS BANK PLC, JERSEY BRANCH",
   "legalName": "BARCLAYS BANK PLC, JERSEY BRANCH",
-  "bic": "BARCJESAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysbankplcjerseybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCJESAXXX"
 }

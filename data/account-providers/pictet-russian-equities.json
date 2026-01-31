@@ -8,7 +8,6 @@
   ],
   "name": "PICTET-RUSSIAN EQUITIES",
   "legalName": "PICTET-RUSSIAN EQUITIES",
-  "bic": "FUCHLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pictetrussianequities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUCHLUL1XXX"
 }

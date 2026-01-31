@@ -8,7 +8,6 @@
   ],
   "name": "SCANIA FINANCE FRANCE SAS",
   "legalName": "SCANIA FINANCE FRANCE SAS",
-  "bic": "SCFFFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scaniafinancefrancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCFFFR21XXX"
 }

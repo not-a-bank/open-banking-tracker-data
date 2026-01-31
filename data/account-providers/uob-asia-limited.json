@@ -8,7 +8,6 @@
   ],
   "name": "UOB ASIA LIMITED",
   "legalName": "UOB ASIA LIMITED",
-  "bic": "UMBISGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uobasialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UMBISGS1XXX"
 }

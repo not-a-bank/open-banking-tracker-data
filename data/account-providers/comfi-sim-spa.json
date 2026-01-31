@@ -8,7 +8,6 @@
   ],
   "name": "COMFI SIM SPA",
   "legalName": "COMFI SIM SPA",
-  "bic": "COSMITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.comfisimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COSMITR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DELTA LLOYD BANK N.V.",
   "legalName": "DELTA LLOYD BANK N.V.",
-  "bic": "DLBKNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deltalloydbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DLBKNL2AXXX"
 }

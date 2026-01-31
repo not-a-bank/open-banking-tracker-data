@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "BTV Bank f\u00fcr Tirol und Vorarlberg Zweigniederlassung Deutschland",
-  "legalName": "BTV Bank f\u00fcr Tirol und Vorarlberg Zweigniederlassung Deutschland",
+  "name": "BTV Bank für Tirol und Vorarlberg Zweigniederlassung Deutschland",
+  "legalName": "BTV Bank für Tirol und Vorarlberg Zweigniederlassung Deutschland",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.btv-bank-fuer-tirol-und-vorarlberg-zweigniederlassung-deutschland.com.ico",
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTVADE61XXX"
 }

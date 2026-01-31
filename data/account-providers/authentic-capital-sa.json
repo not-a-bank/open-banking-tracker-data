@@ -8,7 +8,6 @@
   ],
   "name": "AUTHENTIC CAPITAL SA",
   "legalName": "AUTHENTIC CAPITAL SA",
-  "bic": "AUCPCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.authenticcapitalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUCPCHG1XXX"
 }

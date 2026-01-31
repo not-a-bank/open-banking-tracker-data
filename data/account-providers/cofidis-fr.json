@@ -8,7 +8,6 @@
   ],
   "name": "COFIDIS",
   "legalName": "COFIDIS",
-  "bic": "CFFIFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cofidisfr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFFIFR21XXX"
 }

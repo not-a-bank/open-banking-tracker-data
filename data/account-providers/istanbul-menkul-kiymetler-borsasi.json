@@ -8,7 +8,6 @@
   ],
   "name": "ISTANBUL MENKUL KIYMETLER BORSASI",
   "legalName": "ISTANBUL MENKUL KIYMETLER BORSASI",
-  "bic": "XISTTRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.istanbulmenkulkiymetlerborsasi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XISTTRI1XXX"
 }

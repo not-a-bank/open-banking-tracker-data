@@ -8,7 +8,6 @@
   ],
   "name": "PICTET-EUR SHORT MID-TERM BONDS",
   "legalName": "PICTET-EUR SHORT MID-TERM BONDS",
-  "bic": "FUAZLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.picteteurshortmidtermbonds.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUAZLUL1XXX"
 }

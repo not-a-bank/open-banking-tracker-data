@@ -8,7 +8,6 @@
   ],
   "name": "KIMCO MAC",
   "legalName": "KIMCO MAC",
-  "bic": "KIMCSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kimcomac.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KIMCSGS1XXX"
 }

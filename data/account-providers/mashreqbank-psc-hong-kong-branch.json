@@ -8,7 +8,6 @@
   ],
   "name": "MASHREQBANK PSC., HONG KONG BRANCH",
   "legalName": "MASHREQBANK PSC., HONG KONG BRANCH",
-  "bic": "MSHQHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mashreqbankpschongkongbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSHQHKHHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UFJ BANK (SCHWEIZ) AG",
   "legalName": "UFJ BANK (SCHWEIZ) AG",
-  "bic": "SANWCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ufjbankschweizag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SANWCHZ1XXX"
 }

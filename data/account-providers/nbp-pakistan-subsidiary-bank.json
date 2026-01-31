@@ -8,7 +8,6 @@
   ],
   "name": "NBP PAKISTAN SUBSIDIARY BANK",
   "legalName": "NBP PAKISTAN SUBSIDIARY BANK",
-  "bic": "NBPATJ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nbppakistansubsidiarybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBPATJ22XXX"
 }

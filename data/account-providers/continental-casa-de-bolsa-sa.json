@@ -8,7 +8,6 @@
   ],
   "name": "CONTINENTAL CASA DE BOLSA, S.A",
   "legalName": "CONTINENTAL CASA DE BOLSA, S.A",
-  "bic": "CNCSHNT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.continentalcasadebolsasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNCSHNT1XXX"
 }

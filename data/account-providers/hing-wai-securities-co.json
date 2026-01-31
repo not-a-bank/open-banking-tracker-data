@@ -8,7 +8,6 @@
   ],
   "name": "HING WAI SECURITIES CO",
   "legalName": "HING WAI SECURITIES CO",
-  "bic": "HIWSHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hingwaisecuritiesco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HIWSHKH1XXX"
 }

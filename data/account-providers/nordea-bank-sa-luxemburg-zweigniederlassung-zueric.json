@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA BANK S.A., LUXEMBURG, ZWEIGNIEDERLASSUNG, ZUERICH.",
   "legalName": "NORDEA BANK S.A., LUXEMBURG, ZWEIGNIEDERLASSUNG, ZUERICH.",
-  "bic": "NDEACHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeabanksaluxemburgzweigniederlassungzueric.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEACHZZXXX"
 }

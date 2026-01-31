@@ -8,7 +8,6 @@
   ],
   "name": "FINSER CORPORATION",
   "legalName": "FINSER CORPORATION",
-  "bic": "FSCPUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finsercorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FSCPUS41XXX"
 }

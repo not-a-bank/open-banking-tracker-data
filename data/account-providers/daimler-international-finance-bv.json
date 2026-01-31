@@ -8,7 +8,6 @@
   ],
   "name": "DAIMLER INTERNATIONAL FINANCE B.V.",
   "legalName": "DAIMLER INTERNATIONAL FINANCE B.V.",
-  "bic": "DAIXNL2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daimlerinternationalfinancebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAIXNL2XXXX"
 }

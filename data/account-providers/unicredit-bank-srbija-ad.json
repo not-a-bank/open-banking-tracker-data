@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BANK SRBIJA A.D.",
   "legalName": "UNICREDIT BANK SRBIJA A.D.",
-  "bic": "BACXRSBGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbanksrbijaad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACXRSBGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "YOSHKAR-OLA BANK",
   "legalName": "YOSHKAR-OLA BANK",
-  "bic": "YOSHRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.yoshkarolabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YOSHRU21XXX"
 }

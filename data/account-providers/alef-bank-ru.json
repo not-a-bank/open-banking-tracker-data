@@ -8,7 +8,6 @@
   ],
   "name": "ALEF-BANK",
   "legalName": "ALEF-BANK",
-  "bic": "ALEFRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alefbankru.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALEFRUMMXXX"
 }

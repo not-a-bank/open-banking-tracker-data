@@ -8,7 +8,6 @@
   ],
   "name": "BALOISE BANK SOBA",
   "legalName": "BALOISE BANK SOBA",
-  "bic": "KBSOCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baloisebanksoba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBSOCH22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "M AND T BANK",
   "legalName": "M AND T BANK",
-  "bic": "MANTUS3AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mandtbankus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MANTUS3AXXX"
 }

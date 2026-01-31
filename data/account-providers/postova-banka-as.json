@@ -8,7 +8,6 @@
   ],
   "name": "POSTOVA BANKA A.S.",
   "legalName": "POSTOVA BANKA A.S.",
-  "bic": "POBNSKBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.postovabankaas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POBNSKBAXXX"
 }

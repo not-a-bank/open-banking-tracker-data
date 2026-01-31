@@ -8,7 +8,6 @@
   ],
   "name": "MIDBANK-BANCO DE INVESTIMENTO S.A.",
   "legalName": "MIDBANK-BANCO DE INVESTIMENTO S.A.",
-  "bic": "MIINBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.midbankbancodeinvestimentosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIINBRS1XXX"
 }

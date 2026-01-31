@@ -8,7 +8,6 @@
   ],
   "name": "STOCKWAVE ORDER EXECUTION B.V.",
   "legalName": "STOCKWAVE ORDER EXECUTION B.V.",
-  "bic": "STOUNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stockwaveorderexecutionbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STOUNL21XXX"
 }

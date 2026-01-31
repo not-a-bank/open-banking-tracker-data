@@ -8,7 +8,6 @@
   ],
   "name": "MCX STOCK EXCHANGE LIMITED",
   "legalName": "MCX STOCK EXCHANGE LIMITED",
-  "bic": "MCSXINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mcxstockexchangelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCSXINB1XXX"
 }

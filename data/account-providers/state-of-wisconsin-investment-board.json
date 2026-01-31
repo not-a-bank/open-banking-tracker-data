@@ -8,7 +8,6 @@
   ],
   "name": "STATE OF WISCONSIN INVESTMENT BOARD",
   "legalName": "STATE OF WISCONSIN INVESTMENT BOARD",
-  "bic": "SWIOUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stateofwisconsininvestmentboard.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWIOUS41XXX"
 }

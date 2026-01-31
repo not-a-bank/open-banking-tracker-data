@@ -8,7 +8,6 @@
   ],
   "name": "ELIPSO FINANCE SRL",
   "legalName": "ELIPSO FINANCE SRL",
-  "bic": "ELFRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.elipsofinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ELFRITM1XXX"
 }

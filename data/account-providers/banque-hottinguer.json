@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE HOTTINGUER",
   "legalName": "BANQUE HOTTINGUER",
-  "bic": "HRFRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquehottinguer.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HRFRFRP1XXX"
 }

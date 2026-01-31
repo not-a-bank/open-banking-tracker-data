@@ -8,7 +8,6 @@
   ],
   "name": "BANCA APULIA S.P.A.",
   "legalName": "BANCA APULIA S.P.A.",
-  "bic": "APULIT3SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaapuliaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "APULIT3SXXX"
 }

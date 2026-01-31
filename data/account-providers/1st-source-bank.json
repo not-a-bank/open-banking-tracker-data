@@ -8,7 +8,6 @@
   ],
   "name": "1ST SOURCE BANK",
   "legalName": "1ST SOURCE BANK",
-  "bic": "SRCEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.1stsourcebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SRCEUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS - SUCCURSALE DE BUENOS AIRES",
   "legalName": "BNP PARIBAS - SUCCURSALE DE BUENOS AIRES",
-  "bic": "BNPAARBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassuccursaledebuenosaires.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAARBAXXX"
 }

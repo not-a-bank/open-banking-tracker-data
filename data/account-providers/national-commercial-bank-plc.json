@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL COMMERCIAL BANK PLC",
   "legalName": "NATIONAL COMMERCIAL BANK PLC",
-  "bic": "NBCPSSJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalcommercialbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBCPSSJ1XXX"
 }

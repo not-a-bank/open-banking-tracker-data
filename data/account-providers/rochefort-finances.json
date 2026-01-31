@@ -8,7 +8,6 @@
   ],
   "name": "ROCHEFORT - FINANCES",
   "legalName": "ROCHEFORT - FINANCES",
-  "bic": "ROCFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rochefortfinances.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROCFFRP1XXX"
 }

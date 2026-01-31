@@ -8,7 +8,6 @@
   ],
   "name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SHANGHAI BRANCH",
   "legalName": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, SHANGHAI BRANCH",
-  "bic": "CHASCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganchasebankchinacompanylimitedshanghai.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASCNSHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS U.S.A - NEW YORK BRANCH",
   "legalName": "BNP PARIBAS U.S.A - NEW YORK BRANCH",
-  "bic": "BNPAUS3NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasusanewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAUS3NXXX"
 }

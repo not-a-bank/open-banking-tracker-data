@@ -8,7 +8,6 @@
   ],
   "name": "BRI FINANCE LIMITED",
   "legalName": "BRI FINANCE LIMITED",
-  "bic": "BRIFHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brifinancelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRIFHKH1XXX"
 }

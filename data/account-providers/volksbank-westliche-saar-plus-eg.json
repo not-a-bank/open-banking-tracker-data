@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK WESTLICHE SAAR PLUS EG",
   "legalName": "VOLKSBANK WESTLICHE SAAR PLUS EG",
-  "bic": "VWSPDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankwestlichesaarpluseg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VWSPDE81XXX"
 }

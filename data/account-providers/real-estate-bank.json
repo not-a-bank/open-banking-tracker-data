@@ -8,7 +8,6 @@
   ],
   "name": "REAL ESTATE BANK",
   "legalName": "REAL ESTATE BANK",
-  "bic": "REBSSYDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.realestatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REBSSYDAXXX"
 }

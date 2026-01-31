@@ -8,7 +8,6 @@
   ],
   "name": "PIM GESTION FRANCE",
   "legalName": "PIM GESTION FRANCE",
-  "bic": "PIGFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pimgestionfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PIGFFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KREMLYOVSKIY COMMERCIAL BANK LTD",
   "legalName": "KREMLYOVSKIY COMMERCIAL BANK LTD",
-  "bic": "KREMRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kremlyovskiycommercialbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KREMRUMMXXX"
 }

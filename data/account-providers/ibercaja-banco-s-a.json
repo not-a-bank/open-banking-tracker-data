@@ -8,7 +8,6 @@
   ],
   "name": "IBERCAJA BANCO S A",
   "legalName": "IBERCAJA BANCO S A",
-  "bic": "CAZRES2ZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ibercajabancosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAZRES2ZXXX"
 }

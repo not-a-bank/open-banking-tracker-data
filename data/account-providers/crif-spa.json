@@ -8,7 +8,6 @@
   ],
   "name": "CRIF S.P.A.",
   "legalName": "CRIF S.P.A.",
-  "bic": "CFFFIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.crifspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFFFIT21XXX"
 }

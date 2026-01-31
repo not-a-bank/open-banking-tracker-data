@@ -8,7 +8,6 @@
   ],
   "name": "JPMORGAN CHASE BANK, TORONTO BRANCH",
   "legalName": "JPMORGAN CHASE BANK, TORONTO BRANCH",
-  "bic": "CHASCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganchasebanktorontobranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASCATTXXX"
 }

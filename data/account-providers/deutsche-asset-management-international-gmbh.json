@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE ASSET MANAGEMENT INTERNATIONAL GMBH",
   "legalName": "DEUTSCHE ASSET MANAGEMENT INTERNATIONAL GMBH",
-  "bic": "DEUTDEAMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutscheassetmanagementinternationalgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTDEAMXXX"
 }

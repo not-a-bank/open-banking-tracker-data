@@ -8,7 +8,6 @@
   ],
   "name": "FEDERAL RESERVE BANK OF ATLANTA",
   "legalName": "FEDERAL RESERVE BANK OF ATLANTA",
-  "bic": "FRBAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.federalreservebankofatlanta.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRBAUS31XXX"
 }

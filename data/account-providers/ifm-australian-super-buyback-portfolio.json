@@ -8,7 +8,6 @@
   ],
   "name": "IFM AUSTRALIAN SUPER BUYBACK PORTFOLIO",
   "legalName": "IFM AUSTRALIAN SUPER BUYBACK PORTFOLIO",
-  "bic": "IASBAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ifmaustraliansuperbuybackportfolio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IASBAU31XXX"
 }

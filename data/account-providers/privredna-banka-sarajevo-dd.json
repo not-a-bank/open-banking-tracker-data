@@ -8,7 +8,6 @@
   ],
   "name": "Privredna Banka Sarajevo DD",
   "legalName": "PRIVREDNA BANKA SARAJEVO DD",
-  "bic": "PBSCBA22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBSCBA22XXX"
 }

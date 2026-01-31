@@ -9,7 +9,6 @@
   ],
   "name": "BANCA MEDIOLANUM",
   "legalName": "BANCA MEDIOLANUM",
-  "bic": "MEDBITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_mediolanum_it.svg",
@@ -36,5 +35,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEDBITMMXXX"
 }

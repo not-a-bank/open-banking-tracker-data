@@ -8,7 +8,6 @@
   ],
   "name": "SUNRISE BANK LIMITED",
   "legalName": "SUNRISE BANK LIMITED",
-  "bic": "SRBLNPKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sunrisebanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SRBLNPKAXXX"
 }

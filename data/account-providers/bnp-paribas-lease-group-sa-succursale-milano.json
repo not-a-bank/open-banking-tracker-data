@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS LEASE GROUP SA - SUCCURSALE MILANO",
   "legalName": "BNP PARIBAS LEASE GROUP SA - SUCCURSALE MILANO",
-  "bic": "BPLGITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasleasegroupsasuccursalemilano.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPLGITM1XXX"
 }

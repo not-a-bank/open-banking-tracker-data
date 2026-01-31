@@ -8,7 +8,6 @@
   ],
   "name": "B AND P FUND SERVICES AKTIEBOLAG",
   "legalName": "B AND P FUND SERVICES AKTIEBOLAG",
-  "bic": "FUSASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bandpfundservicesaktiebolag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUSASES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GIROBANK INTERNATIONAL N.V.",
   "legalName": "GIROBANK INTERNATIONAL N.V.",
-  "bic": "GIRCCWCCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.girobankinternationalnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIRCCWCCXXX"
 }

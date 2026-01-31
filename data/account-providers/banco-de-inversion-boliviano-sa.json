@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE INVERSION BOLIVIANO S.A.",
   "legalName": "BANCO DE INVERSION BOLIVIANO S.A.",
-  "bic": "BIBOBOL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodeinversionbolivianosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIBOBOL1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SOUTHSIDE BANK",
   "legalName": "SOUTHSIDE BANK",
-  "bic": "SOBBUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southsidebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOBBUS41XXX"
 }

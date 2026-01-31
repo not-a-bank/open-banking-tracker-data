@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE D'EPARGNE DU BURUNDI",
   "legalName": "CAISSE D'EPARGNE DU BURUNDI",
-  "bic": "CADBBIB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedepargneduburundi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CADBBIB1XXX"
 }

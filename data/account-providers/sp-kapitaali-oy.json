@@ -8,7 +8,6 @@
   ],
   "name": "SP KAPITAALI OY",
   "legalName": "SP KAPITAALI OY",
-  "bic": "KAPLFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spkapitaalioy.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAPLFIH1XXX"
 }

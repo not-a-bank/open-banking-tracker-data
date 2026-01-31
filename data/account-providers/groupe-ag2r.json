@@ -8,7 +8,6 @@
   ],
   "name": "GROUPE AG2R",
   "legalName": "GROUPE AG2R",
-  "bic": "GAGRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.groupeag2r.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GAGRFRP1XXX"
 }

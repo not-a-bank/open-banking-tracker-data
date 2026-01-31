@@ -8,7 +8,6 @@
   ],
   "name": "BANCO FRANCES (CAYMAN) LTD.",
   "legalName": "BANCO FRANCES (CAYMAN) LTD.",
-  "bic": "BFGCKYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancofrancescaymanltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFGCKYK1XXX"
 }

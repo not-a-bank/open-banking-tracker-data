@@ -8,7 +8,6 @@
   ],
   "name": "EXCALIBUR SECURITIES LIMITED",
   "legalName": "EXCALIBUR SECURITIES LIMITED",
-  "bic": "EXCSHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.excalibursecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXCSHKH1XXX"
 }

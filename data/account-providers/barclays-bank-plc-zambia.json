@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS BANK PLC ZAMBIA",
   "legalName": "BARCLAYS BANK PLC ZAMBIA",
-  "bic": "BARCZMLXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysbankplczambia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCZMLXXXX"
 }

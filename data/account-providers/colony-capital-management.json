@@ -8,7 +8,6 @@
   ],
   "name": "COLONY CAPITAL MANAGEMENT",
   "legalName": "COLONY CAPITAL MANAGEMENT",
-  "bic": "COPMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.colonycapitalmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COPMUS31XXX"
 }

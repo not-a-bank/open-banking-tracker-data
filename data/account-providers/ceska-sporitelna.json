@@ -6,8 +6,8 @@
   "bankType": [
     "universal"
   ],
-  "name": "\u010cesk\u00e1 spo\u0159itelna",
-  "description": "\u010cesk\u00e1 spo\u0159itelna is the biggest Czech bank measured by the number of clients with headquarters in Prague. It is a part of the Erste Group, Austria.",
+  "name": "Česká spořitelna",
+  "description": "Česká spořitelna is the biggest Czech bank measured by the number of clients with headquarters in Prague. It is a part of the Erste Group, Austria.",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -146,6 +146,7 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "collections": [],
@@ -182,5 +183,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "GIBACZPX"
 }

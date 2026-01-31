@@ -1,0 +1,32 @@
+{
+  "id": "magnetiq-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Magnetiq Bank",
+  "legalName": "Magnetiq Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.magnetiq-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "LV",
+  "countries": [
+    "LV"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "LAPBLV2X"
+}

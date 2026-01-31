@@ -8,7 +8,6 @@
   ],
   "name": "STANBIC BANK GHANA LIMITED",
   "legalName": "STANBIC BANK GHANA LIMITED",
-  "bic": "SBICGHACXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stanbicbankghanalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBICGHACXXX"
 }

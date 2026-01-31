@@ -8,7 +8,6 @@
   ],
   "name": "ACH TRADING CC",
   "legalName": "ACH TRADING CC",
-  "bic": "SBCHZAJJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.achtradingcc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBCHZAJJXXX"
 }

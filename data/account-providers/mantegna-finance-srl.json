@@ -8,7 +8,6 @@
   ],
   "name": "MANTEGNA FINANCE S.R.L.",
   "legalName": "MANTEGNA FINANCE S.R.L.",
-  "bic": "MNFSIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mantegnafinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MNFSIT21XXX"
 }

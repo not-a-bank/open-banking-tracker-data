@@ -8,7 +8,6 @@
   ],
   "name": "EUROFINIMM SIM",
   "legalName": "EUROFINIMM SIM",
-  "bic": "EFINITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurofinimmsim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFINITM1XXX"
 }

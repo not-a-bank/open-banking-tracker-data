@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ITAU (SUISSE) SA",
   "legalName": "BANCO ITAU (SUISSE) SA",
-  "bic": "ITAUCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoitausuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITAUCHZZXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "QATAR SECURITIES COMPANY",
   "legalName": "QATAR SECURITIES COMPANY",
-  "bic": "QASCQAQ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qatarsecuritiescompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QASCQAQ1XXX"
 }

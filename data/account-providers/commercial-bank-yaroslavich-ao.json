@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK 'YAROSLAVICH' AO",
   "legalName": "COMMERCIAL BANK 'YAROSLAVICH' AO",
-  "bic": "YARORU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankyaroslavichao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YARORU21XXX"
 }

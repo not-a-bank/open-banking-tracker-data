@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY 'WSPOLNA PRACA' W KUTNIE",
   "legalName": "BANK SPOLDZIELCZY 'WSPOLNA PRACA' W KUTNIE",
-  "bic": "BSWPPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywspolnapracawkutnie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSWPPLP1XXX"
 }

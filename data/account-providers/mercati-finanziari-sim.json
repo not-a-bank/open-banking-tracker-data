@@ -8,7 +8,6 @@
   ],
   "name": "MERCATI FINANZIARI SIM",
   "legalName": "MERCATI FINANZIARI SIM",
-  "bic": "MFRIITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mercatifinanziarisim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MFRIITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VTG AKTIENGESELLSCHAFT",
   "legalName": "VTG AKTIENGESELLSCHAFT",
-  "bic": "VTGADEHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vtgaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VTGADEHHXXX"
 }

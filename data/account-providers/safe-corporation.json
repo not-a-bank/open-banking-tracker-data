@@ -8,7 +8,6 @@
   ],
   "name": "SAFE CORPORATION",
   "legalName": "SAFE CORPORATION",
-  "bic": "SFFOLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.safecorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFFOLULLXXX"
 }

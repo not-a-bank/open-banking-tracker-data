@@ -8,7 +8,6 @@
   ],
   "name": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
   "legalName": "LIETUVOS BANKAS (BANK OF LITHUANIA)",
-  "bic": "LIABLT2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lietuvosbankasbankoflithuania.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIABLT2XXXX"
 }

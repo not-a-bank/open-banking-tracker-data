@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT ALTYN BANK",
   "legalName": "CREDIT ALTYN BANK",
-  "bic": "CRAYKZK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditaltynbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRAYKZK1XXX"
 }

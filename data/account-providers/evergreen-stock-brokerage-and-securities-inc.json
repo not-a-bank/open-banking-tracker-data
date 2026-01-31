@@ -8,7 +8,6 @@
   ],
   "name": "EVERGREEN STOCK BROKERAGE AND SECURITIES, INC.",
   "legalName": "EVERGREEN STOCK BROKERAGE AND SECURITIES, INC.",
-  "bic": "ESBEPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.evergreenstockbrokerageandsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESBEPHM1XXX"
 }

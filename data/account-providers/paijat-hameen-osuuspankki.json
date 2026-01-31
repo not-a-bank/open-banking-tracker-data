@@ -8,7 +8,6 @@
   ],
   "name": "PAIJAT-HAMEEN OSUUSPANKKI",
   "legalName": "PAIJAT-HAMEEN OSUUSPANKKI",
-  "bic": "PAOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paijathameenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAOUFI21XXX"
 }

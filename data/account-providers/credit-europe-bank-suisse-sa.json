@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT EUROPE BANK (SUISSE) S.A.",
   "legalName": "CREDIT EUROPE BANK (SUISSE) S.A.",
-  "bic": "FSUICHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.crediteuropebanksuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FSUICHGGXXX"
 }

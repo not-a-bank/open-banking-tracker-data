@@ -8,7 +8,6 @@
   ],
   "name": "FIRST NATIONAL BANK",
   "legalName": "FIRST NATIONAL BANK",
-  "bic": "FNANUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstnationalbankus1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNANUS31XXX"
 }

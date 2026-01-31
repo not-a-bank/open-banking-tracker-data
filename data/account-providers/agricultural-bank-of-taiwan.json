@@ -8,7 +8,6 @@
   ],
   "name": "AGRICULTURAL BANK OF TAIWAN",
   "legalName": "AGRICULTURAL BANK OF TAIWAN",
-  "bic": "AGBTTWTPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agriculturalbankoftaiwan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGBTTWTPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NATIXIS BANK (FORMERLY NATIXIS PRIVATE BANKING INTERNATIONAL)",
   "legalName": "NATIXIS BANK (FORMERLY NATIXIS PRIVATE BANKING INTERNATIONAL)",
-  "bic": "NATXLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natixisbankformerlynatixisprivatebankinginte.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NATXLULLXXX"
 }

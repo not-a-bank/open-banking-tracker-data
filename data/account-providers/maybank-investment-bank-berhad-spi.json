@@ -8,7 +8,6 @@
   ],
   "name": "MAYBANK INVESTMENT BANK BERHAD - SPI",
   "legalName": "MAYBANK INVESTMENT BANK BERHAD - SPI",
-  "bic": "MBEAMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maybankinvestmentbankberhadspi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBEAMY21XXX"
 }

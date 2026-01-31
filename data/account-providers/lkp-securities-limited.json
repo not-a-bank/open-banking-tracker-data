@@ -8,7 +8,6 @@
   ],
   "name": "LKP SECURITIES LIMITED",
   "legalName": "LKP SECURITIES LIMITED",
-  "bic": "LKSEINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lkpsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LKSEINB1XXX"
 }

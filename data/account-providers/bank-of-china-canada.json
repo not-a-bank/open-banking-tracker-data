@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China (canada)",
   "legalName": "BANK OF CHINA (CANADA)",
-  "bic": "ICBKCAT2CLR",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICBKCAT2CLR"
 }

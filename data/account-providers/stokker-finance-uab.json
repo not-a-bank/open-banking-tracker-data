@@ -8,7 +8,6 @@
   ],
   "name": "STOKKER FINANCE, UAB",
   "legalName": "STOKKER FINANCE, UAB",
-  "bic": "SFNALT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stokkerfinanceuab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFNALT21XXX"
 }

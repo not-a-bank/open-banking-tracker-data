@@ -8,7 +8,6 @@
   ],
   "name": "STAFFORD TRADING EUROPE BV",
   "legalName": "STAFFORD TRADING EUROPE BV",
-  "bic": "STAFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.staffordtradingeuropebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STAFGB21XXX"
 }

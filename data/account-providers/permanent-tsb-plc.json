@@ -8,7 +8,6 @@
   ],
   "name": "PERMANENT TSB P.L.C.",
   "legalName": "PERMANENT TSB P.L.C.",
-  "bic": "IPBSIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.permanenttsbplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IPBSIE2DXXX"
 }

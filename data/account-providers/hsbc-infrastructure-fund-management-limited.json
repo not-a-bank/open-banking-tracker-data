@@ -8,7 +8,6 @@
   ],
   "name": "HSBC INFRASTRUCTURE FUND MANAGEMENT LIMITED",
   "legalName": "HSBC INFRASTRUCTURE FUND MANAGEMENT LIMITED",
-  "bic": "CPEFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcinfrastructurefundmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPEFGB21XXX"
 }

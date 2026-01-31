@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA SECURITIES CO LTD",
   "legalName": "DAIWA SECURITIES CO LTD",
-  "bic": "DAICMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwasecuritiescoltd.com.ico",
@@ -27,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAICMYK1XXX"
 }

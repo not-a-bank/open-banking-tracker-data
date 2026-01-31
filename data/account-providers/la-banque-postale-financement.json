@@ -8,7 +8,6 @@
   ],
   "name": "LA BANQUE POSTALE FINANCEMENT",
   "legalName": "LA BANQUE POSTALE FINANCEMENT",
-  "bic": "BPFIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.labanquepostalefinancement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPFIFRP1XXX"
 }

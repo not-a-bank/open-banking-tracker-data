@@ -8,7 +8,6 @@
   ],
   "name": "SYDBANK A/S",
   "legalName": "SYDBANK A/S",
-  "bic": "SYBKDE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sydbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SYBKDE22XXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "VOLKSWAGEN BANK",
   "legalName": "VOLKSWAGEN BANK",
-  "bic": "VOWAFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1574855820/radar/icons/volkswagen-bank.jpg",
@@ -92,5 +91,6 @@
     }
   ],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOWAFR21XXX"
 }

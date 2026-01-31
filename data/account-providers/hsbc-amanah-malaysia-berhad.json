@@ -8,7 +8,6 @@
   ],
   "name": "HSBC AMANAH MALAYSIA BERHAD",
   "legalName": "HSBC AMANAH MALAYSIA BERHAD",
-  "bic": "HMABMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcamanahmalaysiaberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HMABMYKLXXX"
 }

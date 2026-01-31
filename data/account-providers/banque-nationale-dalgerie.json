@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE NATIONALE D'ALGERIE",
   "legalName": "BANQUE NATIONALE D'ALGERIE",
-  "bic": "BNALDZALXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquenationaledalgerie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNALDZALXXX"
 }

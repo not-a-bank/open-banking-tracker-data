@@ -8,7 +8,6 @@
   ],
   "name": "National Investment Bank",
   "legalName": "NATIONAL INVESTMENT BANK",
-  "bic": "NIBGGHACXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalinvestment.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIBGGHACXXX"
 }

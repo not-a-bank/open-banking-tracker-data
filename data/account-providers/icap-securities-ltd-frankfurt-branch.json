@@ -8,7 +8,6 @@
   ],
   "name": "ICAP SECURITIES LTD FRANKFURT BRANCH",
   "legalName": "ICAP SECURITIES LTD FRANKFURT BRANCH",
-  "bic": "ISFBDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icapsecuritiesltdfrankfurtbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISFBDEFFXXX"
 }

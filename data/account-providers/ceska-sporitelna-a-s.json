@@ -8,7 +8,6 @@
   ],
   "name": "Ceska Sporitelna A.s.",
   "legalName": "CESKA SPORITELNA A.S.",
-  "bic": "GIBACZPXXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIBACZPXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OP CORPORATE BANK PLC (MARKETS/CLEARING AND SETTLEMENT)",
   "legalName": "OP CORPORATE BANK PLC (MARKETS/CLEARING AND SETTLEMENT)",
-  "bic": "OPSEFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.opcorporatebankplcmarketsclearingandsettleme.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPSEFIH1XXX"
 }

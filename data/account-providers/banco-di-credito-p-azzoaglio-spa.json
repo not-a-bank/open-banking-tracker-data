@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DI CREDITO P. AZZOAGLIO - S.P.A.",
   "legalName": "BANCO DI CREDITO P. AZZOAGLIO - S.P.A.",
-  "bic": "AZZBITT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodicreditopazzoagliospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZZBITT1XXX"
 }

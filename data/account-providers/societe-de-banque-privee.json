@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE DE BANQUE PRIVEE",
   "legalName": "SOCIETE DE BANQUE PRIVEE",
-  "bic": "SAEUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societedebanqueprivee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAEUFRP1XXX"
 }

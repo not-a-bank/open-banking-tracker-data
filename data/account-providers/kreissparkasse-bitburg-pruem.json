@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse Bitburg-Pr\u00fcm",
-  "legalName": "Kreissparkasse Bitburg-Pr\u00fcm",
+  "name": "Kreissparkasse Bitburg-Prüm",
+  "legalName": "Kreissparkasse Bitburg-Prüm",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-bitburg-pruem.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

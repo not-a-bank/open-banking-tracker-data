@@ -8,7 +8,6 @@
   ],
   "name": "BROKER-SB A.D. SKOPJE BROKERAGE HOUSE OF STOPANSKA BANKA AD SKOPJE",
   "legalName": "BROKER-SB A.D. SKOPJE BROKERAGE HOUSE OF STOPANSKA BANKA AD SKOPJE",
-  "bic": "SBSBMK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brokersbadskopjebrokeragehouseofstopanskab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBSBMK21XXX"
 }

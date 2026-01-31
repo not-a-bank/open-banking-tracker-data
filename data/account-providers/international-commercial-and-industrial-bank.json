@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL COMMERCIAL AND INDUSTRIAL BANK",
   "legalName": "INTERNATIONAL COMMERCIAL AND INDUSTRIAL BANK",
-  "bic": "ICIBRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalcommercialandindustrialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICIBRU21XXX"
 }

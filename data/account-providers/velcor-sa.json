@@ -8,7 +8,6 @@
   ],
   "name": "VELCOR S.A.",
   "legalName": "VELCOR S.A.",
-  "bic": "VELCCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.velcorsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VELCCHG1XXX"
 }

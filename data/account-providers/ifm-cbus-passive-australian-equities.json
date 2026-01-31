@@ -8,7 +8,6 @@
   ],
   "name": "IFM CBUS PASSIVE AUSTRALIAN EQUITIES",
   "legalName": "IFM CBUS PASSIVE AUSTRALIAN EQUITIES",
-  "bic": "ICPAAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ifmcbuspassiveaustralianequities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICPAAU31XXX"
 }

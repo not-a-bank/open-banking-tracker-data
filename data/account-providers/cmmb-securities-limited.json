@@ -8,7 +8,6 @@
   ],
   "name": "CMMB SECURITIES LIMITED",
   "legalName": "CMMB SECURITIES LIMITED",
-  "bic": "CMMSTTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cmmbsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMMSTTP1XXX"
 }

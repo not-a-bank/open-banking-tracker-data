@@ -10,7 +10,8 @@
     "validate-aggregators": "node scripts/validate-aggregators.js",
     "validate-file": "node scripts/validate-file.js",
     "scrape:plaid": "python3 scrapers/plaid_scraper.py",
-    "scrape:flinks": "python3 scrapers/flinks_scraper.py"
+    "scrape:flinks": "python3 scrapers/flinks_scraper.py",
+    "scrape:gocardless": "python3 scrapers/gocardless_scraper.py"
   },
   "repository": {
     "type": "git",

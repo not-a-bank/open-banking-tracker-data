@@ -8,7 +8,6 @@
   ],
   "name": "FINANZIERUNGSGESELLSCHAFT VIKING",
   "legalName": "FINANZIERUNGSGESELLSCHAFT VIKING",
-  "bic": "FIVICHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finanzierungsgesellschaftviking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIVICHZ1XXX"
 }

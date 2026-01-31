@@ -8,7 +8,6 @@
   ],
   "name": "BGL BNP PARIBAS (GLOBAL EQUITIES AND COMMODITY DERIVATIVES)",
   "legalName": "BGL BNP PARIBAS (GLOBAL EQUITIES AND COMMODITY DERIVATIVES)",
-  "bic": "BGLLLULGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bglbnpparibasglobalequitiesandcommodityderi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGLLLULGXXX"
 }

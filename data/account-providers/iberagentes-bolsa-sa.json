@@ -8,7 +8,6 @@
   ],
   "name": "IBERAGENTES BOLSA S.A.",
   "legalName": "IBERAGENTES BOLSA S.A.",
-  "bic": "IBEOESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iberagentesbolsasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBEOESM1XXX"
 }

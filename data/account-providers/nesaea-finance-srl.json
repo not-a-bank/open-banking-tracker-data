@@ -8,7 +8,6 @@
   ],
   "name": "NESAEA FINANCE S.R.L.",
   "legalName": "NESAEA FINANCE S.R.L.",
-  "bic": "NEFRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nesaeafinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEFRITM1XXX"
 }

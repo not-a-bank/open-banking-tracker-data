@@ -8,7 +8,6 @@
   ],
   "name": "MOBSAT",
   "legalName": "MOBSAT",
-  "bic": "VIZAFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mobsat.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIZAFRPPXXX"
 }

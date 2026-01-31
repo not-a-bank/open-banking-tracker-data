@@ -8,7 +8,6 @@
   ],
   "name": "ALLIANZ ALTERNATIVE ASSET MANAGEMENT SA",
   "legalName": "ALLIANZ ALTERNATIVE ASSET MANAGEMENT SA",
-  "bic": "AAAMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allianzalternativeassetmanagementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AAAMFRP1XXX"
 }

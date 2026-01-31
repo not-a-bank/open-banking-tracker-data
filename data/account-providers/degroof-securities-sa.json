@@ -8,7 +8,6 @@
   ],
   "name": "DEGROOF SECURITIES, S.A.",
   "legalName": "DEGROOF SECURITIES, S.A.",
-  "bic": "DEGFBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.degroofsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEGFBEB1XXX"
 }

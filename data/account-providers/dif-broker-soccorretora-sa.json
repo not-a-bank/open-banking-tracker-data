@@ -8,7 +8,6 @@
   ],
   "name": "DIF BROKER-SOC.CORRETORA, S.A.",
   "legalName": "DIF BROKER-SOC.CORRETORA, S.A.",
-  "bic": "DBRCPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.difbrokersoccorretorasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBRCPTP1XXX"
 }

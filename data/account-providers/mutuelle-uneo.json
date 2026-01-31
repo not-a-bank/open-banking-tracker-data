@@ -8,7 +8,6 @@
   ],
   "name": "MUTUELLE UNEO",
   "legalName": "MUTUELLE UNEO",
-  "bic": "MUUNFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mutuelleuneo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUUNFR21XXX"
 }

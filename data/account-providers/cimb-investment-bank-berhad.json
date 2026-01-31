@@ -8,7 +8,6 @@
   ],
   "name": "CIMB INVESTMENT BANK BERHAD",
   "legalName": "CIMB INVESTMENT BANK BERHAD",
-  "bic": "COIMMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cimbinvestmentbankberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COIMMYKLXXX"
 }

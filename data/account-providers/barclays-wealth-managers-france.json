@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS WEALTH MANAGERS FRANCE",
   "legalName": "BARCLAYS WEALTH MANAGERS FRANCE",
-  "bic": "BWMRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclayswealthmanagersfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BWMRFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OMNI CAPITAL INC.",
   "legalName": "OMNI CAPITAL INC.",
-  "bic": "OMNICAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.omnicapitalinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OMNICAM1XXX"
 }

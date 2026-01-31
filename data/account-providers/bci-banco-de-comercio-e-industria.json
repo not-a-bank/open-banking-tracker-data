@@ -8,7 +8,6 @@
   ],
   "name": "BCI - BANCO DE COMERCIO E INDUSTRIA",
   "legalName": "BCI - BANCO DE COMERCIO E INDUSTRIA",
-  "bic": "BCIDAOLUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bcibancodecomercioeindustria.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCIDAOLUXXX"
 }

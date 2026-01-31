@@ -8,7 +8,6 @@
   ],
   "name": "LAN AND SPAR BANK A/S",
   "legalName": "LAN AND SPAR BANK A/S",
-  "bic": "LOSADKKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lanandsparbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOSADKKKXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BROOKFIELD ASSET MANAGEMENT",
   "legalName": "BROOKFIELD ASSET MANAGEMENT",
-  "bic": "BAMZCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brookfieldassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAMZCATTXXX"
 }

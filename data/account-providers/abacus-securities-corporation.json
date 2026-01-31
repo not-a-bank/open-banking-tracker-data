@@ -8,7 +8,6 @@
   ],
   "name": "ABACUS SECURITIES CORPORATION",
   "legalName": "ABACUS SECURITIES CORPORATION",
-  "bic": "ABAEPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abacussecuritiescorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABAEPHM1XXX"
 }

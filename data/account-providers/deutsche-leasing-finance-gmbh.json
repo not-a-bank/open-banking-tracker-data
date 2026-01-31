@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE LEASING FINANCE GMBH",
   "legalName": "DEUTSCHE LEASING FINANCE GMBH",
-  "bic": "DLFGDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutscheleasingfinancegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DLFGDE51XXX"
 }

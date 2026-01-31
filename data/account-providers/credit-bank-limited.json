@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT BANK LIMITED",
   "legalName": "CREDIT BANK LIMITED",
-  "bic": "CRBTKENAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRBTKENAXXX"
 }

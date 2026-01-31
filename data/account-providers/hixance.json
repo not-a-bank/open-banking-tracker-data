@@ -8,7 +8,6 @@
   ],
   "name": "HIXANCE",
   "legalName": "HIXANCE",
-  "bic": "HIXAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hixance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HIXAFRP1XXX"
 }

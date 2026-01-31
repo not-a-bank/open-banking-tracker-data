@@ -67,6 +67,41 @@ python3 scrapers/flinks_scraper.py
 
 **Coverage:** US, CA
 
+---
+
+### GoCardless Scraper
+
+Updates GoCardless's market coverage and bank provider data by parsing their official coverage spreadsheet.
+
+```bash
+npm run scrape:gocardless
+# or
+python3 scrapers/gocardless_scraper.py
+```
+
+**Options:**
+- `--csv-file PATH` - Path to CSV file (default: ~/Downloads/GoCardless Bank Account Data Coverage Overview - Coverage.csv)
+- `--coverage-only` - Only update market coverage (skip provider updates)
+- `--skip-providers` - Skip creating/updating account provider files
+- `--dry-run` - Show what would be done without making changes
+
+**Features:**
+- Parses the official GoCardless coverage spreadsheet (2400+ institutions)
+- Updates market coverage in `data/api-aggregators/gocardless.json`
+- Creates/updates account provider entries with `gocardless` in `apiAggregators`
+- Saves institution ID mappings to `scraped-data/gocardless/gocardless-institution-ids.json`
+
+**Data Source:**
+
+Download the CSV from the official GoCardless coverage spreadsheet:
+https://docs.google.com/spreadsheets/d/1EZ5n7QDGaRIot5M86dwqd5UFSGEDTeTRzEq3D9uEDkM/
+
+1. Open the spreadsheet
+2. Go to File > Download > Comma-separated values (.csv)
+3. Save to your Downloads folder (or specify path with `--csv-file`)
+
+**Coverage:** AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IS, IT, LI, LT, LU, LV, MT, NL, NO, PL, PT, RO, SE, SI, SK (31 European countries)
+
 ## Output
 
 Each scraper updates:

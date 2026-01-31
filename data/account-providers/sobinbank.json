@@ -8,7 +8,6 @@
   ],
   "name": "SOBINBANK",
   "legalName": "SOBINBANK",
-  "bic": "SBBARUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sobinbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBBARUM1XXX"
 }

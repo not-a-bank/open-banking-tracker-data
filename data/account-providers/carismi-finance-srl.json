@@ -8,7 +8,6 @@
   ],
   "name": "CARISMI FINANCE SRL",
   "legalName": "CARISMI FINANCE SRL",
-  "bic": "CFIRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.carismifinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFIRITM1XXX"
 }

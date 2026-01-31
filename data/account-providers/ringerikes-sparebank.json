@@ -8,7 +8,6 @@
   ],
   "name": "RINGERIKES SPAREBANK",
   "legalName": "RINGERIKES SPAREBANK",
-  "bic": "RIRINO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ringerikessparebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RIRINO21XXX"
 }

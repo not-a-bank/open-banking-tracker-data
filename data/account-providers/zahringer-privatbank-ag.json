@@ -8,7 +8,6 @@
   ],
   "name": "ZAHRINGER PRIVATBANK AG",
   "legalName": "ZAHRINGER PRIVATBANK AG",
-  "bic": "ZAPRCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zahringerprivatbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZAPRCH22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE ET CAISSE D'EPARGNE DE L'ETAT",
   "legalName": "BANQUE ET CAISSE D'EPARGNE DE L'ETAT",
-  "bic": "BCEELULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueetcaissedepargnedeletat.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCEELULL"
 }

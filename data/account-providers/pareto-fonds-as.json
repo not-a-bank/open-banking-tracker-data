@@ -8,7 +8,6 @@
   ],
   "name": "PARETO FONDS A/S",
   "legalName": "PARETO FONDS A/S",
-  "bic": "PAFNNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paretofondsas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAFNNOK1XXX"
 }

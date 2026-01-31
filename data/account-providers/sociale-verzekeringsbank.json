@@ -8,7 +8,6 @@
   ],
   "name": "SOCIALE VERZEKERINGSBANK",
   "legalName": "SOCIALE VERZEKERINGSBANK",
-  "bic": "SOVENL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.socialeverzekeringsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOVENL2AXXX"
 }

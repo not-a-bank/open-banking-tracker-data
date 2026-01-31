@@ -8,7 +8,6 @@
   ],
   "name": "SERVISEN FONDKOMMISSION AB",
   "legalName": "SERVISEN FONDKOMMISSION AB",
-  "bic": "SERVSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.servisenfondkommissionab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SERVSES1XXX"
 }

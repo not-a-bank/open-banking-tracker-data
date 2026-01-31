@@ -8,7 +8,6 @@
   ],
   "name": "VICSAL SECURITIES AND STOCKBROKERAGE INC.",
   "legalName": "VICSAL SECURITIES AND STOCKBROKERAGE INC.",
-  "bic": "VICAPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vicsalsecuritiesandstockbrokerageinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VICAPHM1XXX"
 }

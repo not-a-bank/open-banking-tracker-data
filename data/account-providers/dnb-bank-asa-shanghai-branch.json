@@ -8,7 +8,6 @@
   ],
   "name": "DNB BANK ASA, SHANGHAI BRANCH",
   "legalName": "DNB BANK ASA, SHANGHAI BRANCH",
-  "bic": "DNBACNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dnbbankasashanghaibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNBACNSHXXX"
 }

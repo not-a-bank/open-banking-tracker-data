@@ -8,7 +8,6 @@
   ],
   "name": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
   "legalName": "BFC BANCO FONDO COMUN, C.A. BANCO UNIVERSAL",
-  "bic": "REPBVECAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bfcbancofondocomuncabancouniversal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REPBVECAXXX"
 }

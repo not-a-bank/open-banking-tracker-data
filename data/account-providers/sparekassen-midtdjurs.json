@@ -8,7 +8,6 @@
   ],
   "name": "SPAREKASSEN MIDTDJURS",
   "legalName": "SPAREKASSEN MIDTDJURS",
-  "bic": "SPMJDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparekassenmidtdjurs.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPMJDK21XXX"
 }

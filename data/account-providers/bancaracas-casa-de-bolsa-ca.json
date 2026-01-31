@@ -8,7 +8,6 @@
   ],
   "name": "BANCARACAS CASA DE BOLSA, C.A.",
   "legalName": "BANCARACAS CASA DE BOLSA, C.A.",
-  "bic": "BCBOVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaracascasadebolsaca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCBOVEC1XXX"
 }

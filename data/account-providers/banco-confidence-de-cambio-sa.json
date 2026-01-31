@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CONFIDENCE DE CAMBIO SA",
   "legalName": "BANCO CONFIDENCE DE CAMBIO SA",
-  "bic": "BKCOBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoconfidencedecambiosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCOBRSPXXX"
 }

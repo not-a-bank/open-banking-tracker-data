@@ -8,7 +8,6 @@
   ],
   "name": "ALTO ADIGE BANCA SPA",
   "legalName": "ALTO ADIGE BANCA SPA",
-  "bic": "ALOAIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.altoadigebancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALOAIT21XXX"
 }

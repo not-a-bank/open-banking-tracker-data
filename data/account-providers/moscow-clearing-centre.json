@@ -8,7 +8,6 @@
   ],
   "name": "MOSCOW CLEARING CENTRE",
   "legalName": "MOSCOW CLEARING CENTRE",
-  "bic": "MOCCRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.moscowclearingcentre.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOCCRUMMXXX"
 }

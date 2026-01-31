@@ -8,7 +8,6 @@
   ],
   "name": "YES BANK LIMITED",
   "legalName": "YES BANK LIMITED",
-  "bic": "YESBINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.yesbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YESBINBBXXX"
 }

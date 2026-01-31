@@ -8,7 +8,6 @@
   ],
   "name": "J-INVEST SPV SRL",
   "legalName": "J-INVEST SPV SRL",
-  "bic": "JISRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jinvestspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JISRITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BENEFICIAL BANK",
   "legalName": "BENEFICIAL BANK",
-  "bic": "BENFUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.beneficialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BENFUS33XXX"
 }

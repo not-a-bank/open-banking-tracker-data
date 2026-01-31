@@ -8,7 +8,6 @@
   ],
   "name": "BEZHITSA-BANK OAO",
   "legalName": "BEZHITSA-BANK OAO",
-  "bic": "BEOARU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bezhitsabankoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEOARU21XXX"
 }

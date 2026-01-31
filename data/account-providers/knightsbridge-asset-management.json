@@ -8,7 +8,6 @@
   ],
   "name": "KNIGHTSBRIDGE ASSET MANAGEMENT",
   "legalName": "KNIGHTSBRIDGE ASSET MANAGEMENT",
-  "bic": "KNAMUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.knightsbridgeassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KNAMUS61XXX"
 }

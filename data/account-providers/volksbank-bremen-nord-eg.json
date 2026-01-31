@@ -9,7 +9,6 @@
   ],
   "name": "VOLKSBANK BREMEN-NORD EG",
   "legalName": "VOLKSBANK BREMEN-NORD EG",
-  "bic": "VOBEDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOBEDE21XXX"
 }

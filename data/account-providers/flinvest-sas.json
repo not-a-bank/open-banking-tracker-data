@@ -8,7 +8,6 @@
   ],
   "name": "FLINVEST SAS",
   "legalName": "FLINVEST SAS",
-  "bic": "FLINFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.flinvestsas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLINFRP1XXX"
 }

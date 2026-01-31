@@ -8,7 +8,6 @@
   ],
   "name": "ID-SPARINVEST",
   "legalName": "ID-SPARINVEST",
-  "bic": "SINVDK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.idsparinvest.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SINVDK22XXX"
 }

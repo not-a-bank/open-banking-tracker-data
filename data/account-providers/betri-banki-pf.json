@@ -8,7 +8,6 @@
   ],
   "name": "BETRI BANKI P/F",
   "legalName": "BETRI BANKI P/F",
-  "bic": "EIKBFOTFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.betribankipf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EIKBFOTFXXX"
 }

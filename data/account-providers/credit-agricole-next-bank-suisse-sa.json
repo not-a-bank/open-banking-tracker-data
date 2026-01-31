@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE NEXT BANK (SUISSE) SA",
   "legalName": "CREDIT AGRICOLE NEXT BANK (SUISSE) SA",
-  "bic": "AGRICHGXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolenextbanksuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRICHGXXXX"
 }

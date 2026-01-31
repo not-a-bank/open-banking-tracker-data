@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE NATIONALE DES TELECOMMUNICATIONS",
   "legalName": "CAISSE NATIONALE DES TELECOMMUNICATIONS",
-  "bic": "CANLFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissenationaledestelecommunications.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CANLFRP1XXX"
 }

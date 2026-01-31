@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS BANK AG",
   "legalName": "GOLDMAN SACHS BANK AG",
-  "bic": "GOLDCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOLDCHZZXXX"
 }

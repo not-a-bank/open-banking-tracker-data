@@ -9,7 +9,6 @@
   ],
   "name": "BIRKENES SPAREBANK",
   "legalName": "BIRKENES SPAREBANK",
-  "bic": "BISNNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/a831820d-39cd-4c82-906a-2f06a338d653/-/preview/170x170/-/crop/180x180/center/NO937893833.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BISNNO21"
 }

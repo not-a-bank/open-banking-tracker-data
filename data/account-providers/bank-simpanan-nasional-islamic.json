@@ -8,7 +8,6 @@
   ],
   "name": "BANK SIMPANAN NASIONAL-ISLAMIC",
   "legalName": "BANK SIMPANAN NASIONAL-ISLAMIC",
-  "bic": "BSNAMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banksimpanannasionalislamic.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSNAMY21XXX"
 }

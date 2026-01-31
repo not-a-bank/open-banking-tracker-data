@@ -8,7 +8,6 @@
   ],
   "name": "GBM GRUPO BURSATIL MEXICANO, SA DE CV",
   "legalName": "GBM GRUPO BURSATIL MEXICANO, SA DE CV",
-  "bic": "GBMSMXMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gbmgrupobursatilmexicanosadecv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GBMSMXMXXXX"
 }

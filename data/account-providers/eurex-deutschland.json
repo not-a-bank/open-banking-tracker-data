@@ -8,7 +8,6 @@
   ],
   "name": "EUREX DEUTSCHLAND",
   "legalName": "EUREX DEUTSCHLAND",
-  "bic": "XEURDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurexdeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XEURDEF1XXX"
 }

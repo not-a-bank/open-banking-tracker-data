@@ -8,7 +8,6 @@
   ],
   "name": "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.",
   "legalName": "THE BANK OF TOKYO-MITSUBISHI UFJ, LTD.",
-  "bic": "BOTKPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankoftokyomitsubishiufjltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTKPTP1XXX"
 }

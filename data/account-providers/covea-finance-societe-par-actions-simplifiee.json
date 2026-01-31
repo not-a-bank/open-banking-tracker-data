@@ -8,7 +8,6 @@
   ],
   "name": "COVEA FINANCE SOCIETE PAR ACTIONS SIMPLIFIEE",
   "legalName": "COVEA FINANCE SOCIETE PAR ACTIONS SIMPLIFIEE",
-  "bic": "COVAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.coveafinancesocieteparactionssimplifiee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COVAFRP1XXX"
 }

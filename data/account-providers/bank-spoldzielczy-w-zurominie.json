@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W ZUROMINIE",
   "legalName": "BANK SPOLDZIELCZY W ZUROMINIE",
-  "bic": "SPZUPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywzurominie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPZUPLP1XXX"
 }

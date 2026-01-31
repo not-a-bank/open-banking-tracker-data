@@ -8,7 +8,6 @@
   ],
   "name": "ITAU UNIBANCO S/A (SUCCESSOR OF BANCO ITAU BBA S.A.)",
   "legalName": "ITAU UNIBANCO S/A (SUCCESSOR OF BANCO ITAU BBA S.A.)",
-  "bic": "CBBABRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.itauunibancosasuccessorofbancoitaubbasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBBABRSPXXX"
 }

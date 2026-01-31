@@ -8,7 +8,6 @@
   ],
   "name": "PAYONEER INC",
   "legalName": "PAYONEER INC",
-  "bic": "PAYNUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.payoneerinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAYNUS31XXX"
 }

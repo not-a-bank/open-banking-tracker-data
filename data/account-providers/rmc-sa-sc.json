@@ -8,7 +8,6 @@
   ],
   "name": "RMC S/A SC",
   "legalName": "RMC S/A SC",
-  "bic": "RMCRBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rmcsasc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RMCRBRS1XXX"
 }

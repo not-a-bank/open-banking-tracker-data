@@ -8,7 +8,6 @@
   ],
   "name": "BYBLOS BANK SYRIA SA",
   "legalName": "BYBLOS BANK SYRIA SA",
-  "bic": "BYBASYDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.byblosbanksyriasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BYBASYDAXXX"
 }

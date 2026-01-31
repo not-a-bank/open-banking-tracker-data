@@ -8,7 +8,6 @@
   ],
   "name": "BTA BANK CJSC (FORMERLY INEXIMBANK CJSC), BISHKEK,KG",
   "legalName": "BTA BANK CJSC (FORMERLY INEXIMBANK CJSC), BISHKEK,KG",
-  "bic": "EIMBKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.btabankcjscformerlyineximbankcjscbishkekkg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EIMBKG22XXX"
 }

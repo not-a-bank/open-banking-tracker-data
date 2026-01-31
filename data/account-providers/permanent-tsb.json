@@ -47,6 +47,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://www.permanenttsb.ie/developer-portal/api-overview/",
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "tink",
     "truelayer"
@@ -118,5 +119,6 @@
   "bloomberg": null,
   "github": null,
   "fca": "001b000000pitRtAAI",
-  "articles": []
+  "articles": [],
+  "bic": "IPBSIE2D"
 }

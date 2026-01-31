@@ -8,7 +8,6 @@
   ],
   "name": "EFTPOS PAYMENTS AUSTRALIA LIMITED",
   "legalName": "EFTPOS PAYMENTS AUSTRALIA LIMITED",
-  "bic": "EFPAAU22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eftpospaymentsaustralialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFPAAU22XXX"
 }

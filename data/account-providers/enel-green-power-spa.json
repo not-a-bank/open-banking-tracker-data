@@ -8,7 +8,6 @@
   ],
   "name": "ENEL GREEN POWER SPA",
   "legalName": "ENEL GREEN POWER SPA",
-  "bic": "ENGPITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enelgreenpowerspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENGPITR1XXX"
 }

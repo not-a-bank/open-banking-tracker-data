@@ -8,7 +8,6 @@
   ],
   "name": "IHS HOLDING LIMITED",
   "legalName": "IHS HOLDING LIMITED",
-  "bic": "IHSAMUMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ihsholdinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IHSAMUMUXXX"
 }

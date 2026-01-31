@@ -8,7 +8,6 @@
   ],
   "name": "PJSC OK BANK",
   "legalName": "PJSC OK BANK",
-  "bic": "OKSKRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscokbankru.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OKSKRUMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA (HONG KONG) LIMITED, BRUNEI BRANCH",
   "legalName": "BANK OF CHINA (HONG KONG) LIMITED, BRUNEI BRANCH",
-  "bic": "BKCHBNBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinahongkonglimitedbruneibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHBNBBXXX"
 }

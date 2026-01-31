@@ -8,7 +8,6 @@
   ],
   "name": "CONCORDE AM",
   "legalName": "CONCORDE AM",
-  "bic": "CNNCUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.concordeam.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNNCUS41XXX"
 }

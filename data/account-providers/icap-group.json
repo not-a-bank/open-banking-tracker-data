@@ -8,7 +8,6 @@
   ],
   "name": "ICAP GROUP",
   "legalName": "ICAP GROUP",
-  "bic": "ICGOGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icapgroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICGOGRA1XXX"
 }

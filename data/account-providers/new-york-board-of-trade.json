@@ -8,7 +8,6 @@
   ],
   "name": "NEW YORK BOARD OF TRADE",
   "legalName": "NEW YORK BOARD OF TRADE",
-  "bic": "XNYFUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newyorkboardoftrade.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XNYFUS31XXX"
 }

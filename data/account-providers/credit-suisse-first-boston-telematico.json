@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE FIRST BOSTON TELEMATICO",
   "legalName": "CREDIT SUISSE FIRST BOSTON TELEMATICO",
-  "bic": "CSIOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissefirstbostontelematico.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSIOGB21XXX"
 }

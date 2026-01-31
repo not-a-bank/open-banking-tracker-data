@@ -8,7 +8,6 @@
   ],
   "name": "MACQUARIE SECURITIES NEW ZEALAND LIMITED",
   "legalName": "MACQUARIE SECURITIES NEW ZEALAND LIMITED",
-  "bic": "MSNZNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macquariesecuritiesnewzealandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSNZNZ21XXX"
 }

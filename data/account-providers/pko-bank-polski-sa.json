@@ -8,7 +8,6 @@
   ],
   "name": "PKO BANK POLSKI S.A.",
   "legalName": "PKO BANK POLSKI S.A.",
-  "bic": "BPKOPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pkobankpolskisa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "plaid"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPKOPLPW"
 }

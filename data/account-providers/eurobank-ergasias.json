@@ -94,9 +94,10 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "equensworldline",
+    "gocardless",
     "klarna",
-    "salt-edge",
-    "equensworldline"
+    "salt-edge"
   ],
   "collections": [],
   "webApplication": true,
@@ -141,5 +142,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "ERBKGRAA"
 }

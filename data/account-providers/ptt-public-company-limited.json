@@ -8,7 +8,6 @@
   ],
   "name": "PTT PUBLIC COMPANY LIMITED",
   "legalName": "PTT PUBLIC COMPANY LIMITED",
-  "bic": "PTPCTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pttpubliccompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PTPCTHB1XXX"
 }

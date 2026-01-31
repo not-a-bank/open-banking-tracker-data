@@ -8,7 +8,6 @@
   ],
   "name": "HAAPAJARVEN OSUUSPANKKI",
   "legalName": "HAAPAJARVEN OSUUSPANKKI",
-  "bic": "HAOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.haapajarvenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAOUFI21XXX"
 }

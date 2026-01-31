@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO BANK LUXEMBOURG S.A.",
   "legalName": "ABN AMRO BANK LUXEMBOURG S.A.",
-  "bic": "ABNALU2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamrobankluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABNALU2AXXX"
 }

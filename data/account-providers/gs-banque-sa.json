@@ -8,7 +8,6 @@
   ],
   "name": "GS BANQUE SA",
   "legalName": "GS BANQUE SA",
-  "bic": "BQBHCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gsbanquesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BQBHCHGGXXX"
 }

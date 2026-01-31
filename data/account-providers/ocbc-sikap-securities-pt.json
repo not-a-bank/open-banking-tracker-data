@@ -8,7 +8,6 @@
   ],
   "name": "OCBC SIKAP SECURITIES, PT",
   "legalName": "OCBC SIKAP SECURITIES, PT",
-  "bic": "OCSSIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ocbcsikapsecuritiespt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OCSSIDJ1XXX"
 }

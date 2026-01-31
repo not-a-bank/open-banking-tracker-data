@@ -8,7 +8,6 @@
   ],
   "name": "NIKE TRADING COMPANY BV",
   "legalName": "NIKE TRADING COMPANY BV",
-  "bic": "NITCNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.niketradingcompanybv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NITCNL21XXX"
 }

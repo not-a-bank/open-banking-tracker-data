@@ -8,7 +8,6 @@
   ],
   "name": "INDUSTRIAL HOLDING SPA",
   "legalName": "INDUSTRIAL HOLDING SPA",
-  "bic": "INHDITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.industrialholdingspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INHDITR1XXX"
 }

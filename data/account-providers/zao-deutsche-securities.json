@@ -8,7 +8,6 @@
   ],
   "name": "ZAO DEUTSCHE SECURITIES",
   "legalName": "ZAO DEUTSCHE SECURITIES",
-  "bic": "UFGRRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zaodeutschesecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UFGRRUM1XXX"
 }

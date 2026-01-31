@@ -8,7 +8,6 @@
   ],
   "name": "JIVAGO-BANK",
   "legalName": "JIVAGO-BANK",
-  "bic": "JIVARU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jivagobank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JIVARU21XXX"
 }

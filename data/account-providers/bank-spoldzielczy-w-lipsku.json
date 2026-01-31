@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W LIPSKU",
   "legalName": "BANK SPOLDZIELCZY W LIPSKU",
-  "bic": "SLIPPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywlipsku.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLIPPLP1XXX"
 }

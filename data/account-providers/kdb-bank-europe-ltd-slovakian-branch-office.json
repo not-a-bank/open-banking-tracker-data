@@ -8,7 +8,6 @@
   ],
   "name": "KDB BANK EUROPE LTD SLOVAKIAN BRANCH OFFICE",
   "legalName": "KDB BANK EUROPE LTD SLOVAKIAN BRANCH OFFICE",
-  "bic": "KODBSKBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kdbbankeuropeltdslovakianbranchoffice.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KODBSKBXXXX"
 }

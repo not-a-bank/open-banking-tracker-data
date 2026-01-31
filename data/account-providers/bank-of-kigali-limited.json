@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF KIGALI LIMITED",
   "legalName": "BANK OF KIGALI LIMITED",
-  "bic": "BKIGRWRWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofkigalilimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKIGRWRWXXX"
 }

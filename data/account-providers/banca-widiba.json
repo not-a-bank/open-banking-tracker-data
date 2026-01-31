@@ -30,10 +30,11 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "salt-edge",
     "tink",
     "volt"
   ],
-  "swiftCode": "WIDIITMMXXX"
+  "bic": "WIDIITMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SACE S.P.A.",
   "legalName": "SACE S.P.A.",
-  "bic": "ECCEITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sacespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECCEITR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "JFD SECURITIES INC",
   "legalName": "JFD SECURITIES INC",
-  "bic": "JFSEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jfdsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JFSEUS31XXX"
 }

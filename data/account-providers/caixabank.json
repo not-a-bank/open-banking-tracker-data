@@ -94,6 +94,7 @@
     "bankingsdk",
     "bridgeapi-io",
     "equensworldline",
+    "gocardless",
     "ibanity",
     "klarna",
     "nordigen",
@@ -154,8 +155,8 @@
       "name": "Tink",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1568053071/catalog/tink/icon128x128.jpg",
       "websiteUrl": "https://tink.com",
-      "title": "Portugal\u2019s largest bank signs Tink to underpin its new app Dabox",
-      "description": "CGD\u2019s newly launched app \u2013 Dabox \u2013 has Tink\u2019s products integrated into it, namely aggregation payment initiation, data enrichments and personal finance management (PFM). Tink\u2019s cloud-based open banking platform will underpin the app, which is now being rolled out to CDG\u2019s domestic customer base of four million people. The vendor says it will help customers \u201cto make smarter financial decisions\u201d.",
+      "title": "Portugal’s largest bank signs Tink to underpin its new app Dabox",
+      "description": "CGD’s newly launched app – Dabox – has Tink’s products integrated into it, namely aggregation payment initiation, data enrichments and personal finance management (PFM). Tink’s cloud-based open banking platform will underpin the app, which is now being rolled out to CDG’s domestic customer base of four million people. The vendor says it will help customers “to make smarter financial decisions”.",
       "sourceUrl": "https://www.fintechfutures.com/2019/09/portugals-largest-bank-signs-tink-to-underpin-its-new-app-dabox/",
       "sourceDate": "2019-09-24",
       "features": [
@@ -169,5 +170,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "CAIXESBB"
 }

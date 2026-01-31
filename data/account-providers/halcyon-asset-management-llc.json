@@ -8,7 +8,6 @@
   ],
   "name": "HALCYON ASSET MANAGEMENT LLC",
   "legalName": "HALCYON ASSET MANAGEMENT LLC",
-  "bic": "HAGLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.halcyonassetmanagementllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAGLUS31XXX"
 }

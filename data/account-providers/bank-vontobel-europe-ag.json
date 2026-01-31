@@ -8,7 +8,6 @@
   ],
   "name": "BANK VONTOBEL EUROPE AG",
   "legalName": "BANK VONTOBEL EUROPE AG",
-  "bic": "VONTDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankvontobeleuropeag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VONTDEM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GOVERNMENT SAVINGS BANK",
   "legalName": "GOVERNMENT SAVINGS BANK",
-  "bic": "GSBATHBKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.governmentsavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSBATHBKXXX"
 }

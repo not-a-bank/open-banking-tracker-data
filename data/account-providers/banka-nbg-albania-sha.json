@@ -8,7 +8,6 @@
   ],
   "name": "BANKA NBG ALBANIA SH.A.",
   "legalName": "BANKA NBG ALBANIA SH.A.",
-  "bic": "ETHNALTXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankanbgalbaniasha.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETHNALTXXXX"
 }

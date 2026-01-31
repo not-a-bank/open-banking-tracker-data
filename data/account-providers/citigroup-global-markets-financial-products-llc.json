@@ -8,7 +8,6 @@
   ],
   "name": "CITIGROUP GLOBAL MARKETS FINANCIAL PRODUCTS LLC",
   "legalName": "CITIGROUP GLOBAL MARKETS FINANCIAL PRODUCTS LLC",
-  "bic": "CGMFUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citigroupglobalmarketsfinancialproductsllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGMFUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HORIZON SECURITIES CORPORATION (HRS)",
   "legalName": "HORIZON SECURITIES CORPORATION (HRS)",
-  "bic": "HSCRVNV1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.horizonsecuritiescorporationhrs.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSCRVNV1XXX"
 }

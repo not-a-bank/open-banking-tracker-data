@@ -8,7 +8,6 @@
   ],
   "name": "ARCELORMITTAL",
   "legalName": "ARCELORMITTAL",
-  "bic": "USINLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arcelormittal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USINLUL1XXX"
 }

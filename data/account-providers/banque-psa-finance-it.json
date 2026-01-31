@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE PSA FINANCE",
   "legalName": "BANQUE PSA FINANCE",
-  "bic": "PSABITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepsafinanceit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSABITM1XXX"
 }

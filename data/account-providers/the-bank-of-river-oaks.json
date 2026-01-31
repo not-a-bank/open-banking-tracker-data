@@ -8,7 +8,6 @@
   ],
   "name": "THE BANK OF RIVER OAKS",
   "legalName": "THE BANK OF RIVER OAKS",
-  "bic": "ROAKUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankofriveroaks.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROAKUS41XXX"
 }

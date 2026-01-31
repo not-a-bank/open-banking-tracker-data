@@ -8,7 +8,6 @@
   ],
   "name": "ING BARING ERTEKPAPIR RT",
   "legalName": "ING BARING ERTEKPAPIR RT",
-  "bic": "IBARHUH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingbaringertekpapirrt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBARHUH1XXX"
 }

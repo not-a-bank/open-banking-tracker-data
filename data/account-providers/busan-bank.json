@@ -8,7 +8,6 @@
   ],
   "name": "BUSAN BANK",
   "legalName": "BUSAN BANK",
-  "bic": "PUSBKR2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.busanbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PUSBKR2PXXX"
 }

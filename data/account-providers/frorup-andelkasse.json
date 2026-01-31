@@ -8,7 +8,6 @@
   ],
   "name": "FRORUP ANDELKASSE",
   "legalName": "FRORUP ANDELKASSE",
-  "bic": "FROPDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.frorupandelkasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FROPDK21XXX"
 }

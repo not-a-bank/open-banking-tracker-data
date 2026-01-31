@@ -8,7 +8,6 @@
   ],
   "name": "AVEBURY ASSET MANAGEMENT LIMITED",
   "legalName": "AVEBURY ASSET MANAGEMENT LIMITED",
-  "bic": "AVAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aveburyassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVAMGB21XXX"
 }

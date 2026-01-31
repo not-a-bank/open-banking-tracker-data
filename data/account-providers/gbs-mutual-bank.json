@@ -8,7 +8,6 @@
   ],
   "name": "GBS MUTUAL BANK",
   "legalName": "GBS MUTUAL BANK",
-  "bic": "GBSMZAJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gbsmutualbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GBSMZAJ1XXX"
 }

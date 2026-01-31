@@ -8,7 +8,6 @@
   ],
   "name": "OLKY PAYMENT SERVICE PROVIDER",
   "legalName": "OLKY PAYMENT SERVICE PROVIDER",
-  "bic": "OPSPFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.olkypaymentserviceprovider.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPSPFR21XXX"
 }

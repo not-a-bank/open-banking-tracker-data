@@ -8,7 +8,6 @@
   ],
   "name": "BESSEMER TRUST COMPANY, N.A.",
   "legalName": "BESSEMER TRUST COMPANY, N.A.",
-  "bic": "TCBEUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bessemertrustcompanyna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TCBEUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TA SECURITIES HOLDINGS BERHAD",
   "legalName": "TA SECURITIES HOLDINGS BERHAD",
-  "bic": "BOTLMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tasecuritiesholdingsberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTLMY21XXX"
 }

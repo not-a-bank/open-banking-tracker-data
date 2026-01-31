@@ -8,7 +8,6 @@
   ],
   "name": "DIE ZWEITE WIENER VEREINS-SPARCASSE",
   "legalName": "DIE ZWEITE WIENER VEREINS-SPARCASSE",
-  "bic": "GIBAAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.diezweitewienervereinssparcasse.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIBAAT21XXX"
 }

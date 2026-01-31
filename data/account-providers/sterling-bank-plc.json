@@ -8,7 +8,6 @@
   ],
   "name": "STERLING BANK PLC",
   "legalName": "STERLING BANK PLC",
-  "bic": "NAMENGLAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sterlingbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAMENGLAXXX"
 }

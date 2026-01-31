@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE BREGENZ BANK AKTIENGESELLSCHAFT",
   "legalName": "SPARKASSE BREGENZ BANK AKTIENGESELLSCHAFT",
-  "bic": "SPBRAT2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassebregenzbankaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPBRAT2BXXX"
 }

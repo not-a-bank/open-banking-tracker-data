@@ -8,7 +8,6 @@
   ],
   "name": "UBS AG TOKYO BRANCH",
   "legalName": "UBS AG TOKYO BRANCH",
-  "bic": "UBSWJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsagtokyobranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWJPJTXXX"
 }

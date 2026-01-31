@@ -8,7 +8,6 @@
   ],
   "name": "SOUTHWEST GUARANTY TRUST COMPANY",
   "legalName": "SOUTHWEST GUARANTY TRUST COMPANY",
-  "bic": "SGTCUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southwestguarantytrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGTCUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DE VOLKSBANK N.V.",
   "legalName": "DE VOLKSBANK N.V.",
-  "bic": "SNSBNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.devolksbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SNSBNL2AXXX"
 }

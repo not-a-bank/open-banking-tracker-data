@@ -8,7 +8,6 @@
   ],
   "name": "CARDIF ASSET MANAGEMENT",
   "legalName": "CARDIF ASSET MANAGEMENT",
-  "bic": "CAIFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cardifassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAIFFRP1XXX"
 }

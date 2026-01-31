@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE BANK AND TRUST S.A.",
   "legalName": "SOCIETE GENERALE BANK AND TRUST S.A.",
-  "bic": "SGABLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralebankandtrustsalu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGABLULLXXX"
 }

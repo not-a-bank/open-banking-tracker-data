@@ -8,7 +8,6 @@
   ],
   "name": "DBS BANK LTD, SEOUL BRANCH",
   "legalName": "DBS BANK LTD, SEOUL BRANCH",
-  "bic": "DBSSKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dbsbankltdseoulbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBSSKRSEXXX"
 }

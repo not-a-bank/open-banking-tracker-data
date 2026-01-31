@@ -8,7 +8,6 @@
   ],
   "name": "BLOOMBERG TRADEBOOK (BERMUDA) LTD.",
   "legalName": "BLOOMBERG TRADEBOOK (BERMUDA) LTD.",
-  "bic": "TBASBMHMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bloombergtradebookbermudaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TBASBMHMXXX"
 }

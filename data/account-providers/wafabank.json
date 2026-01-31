@@ -8,7 +8,6 @@
   ],
   "name": "WAFABANK",
   "legalName": "WAFABANK",
-  "bic": "WAFAESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wafabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WAFAESM1XXX"
 }

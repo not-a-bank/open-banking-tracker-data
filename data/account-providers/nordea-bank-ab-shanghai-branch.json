@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA BANK AB SHANGHAI BRANCH",
   "legalName": "NORDEA BANK AB SHANGHAI BRANCH",
-  "bic": "NDEACNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeabankabshanghaibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEACNSHXXX"
 }

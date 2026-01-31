@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE NORMANDIE SEINE",
   "legalName": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE NORMANDIE SEINE",
-  "bic": "CGRRFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionaledecreditagricolemutueldenormfr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGRRFR21XXX"
 }

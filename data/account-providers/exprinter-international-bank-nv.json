@@ -8,7 +8,6 @@
   ],
   "name": "EXPRINTER INTERNATIONAL BANK N.V.",
   "legalName": "EXPRINTER INTERNATIONAL BANK N.V.",
-  "bic": "EINBCWCUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exprinterinternationalbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EINBCWCUXXX"
 }

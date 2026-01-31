@@ -8,7 +8,6 @@
   ],
   "name": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
   "legalName": "JPMORGAN CHASE BANK, N.A., HO CHI MINH CITY BRANCH",
-  "bic": "CHASVNVXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganchasebanknahochiminhcitybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASVNVXXXX"
 }

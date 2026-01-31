@@ -8,7 +8,6 @@
   ],
   "name": "BASHCOMSNABBANK",
   "legalName": "BASHCOMSNABBANK",
-  "bic": "BKSBRU4UXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bashcomsnabbankru.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKSBRU4UXXX"
 }

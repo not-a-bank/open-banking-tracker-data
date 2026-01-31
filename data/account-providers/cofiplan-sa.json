@@ -8,7 +8,6 @@
   ],
   "name": "COFIPLAN SA",
   "legalName": "COFIPLAN SA",
-  "bic": "COIPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cofiplansa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COIPFRP1XXX"
 }

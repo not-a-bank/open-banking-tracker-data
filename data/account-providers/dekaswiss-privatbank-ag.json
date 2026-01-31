@@ -8,7 +8,6 @@
   ],
   "name": "DEKA(SWISS) PRIVATBANK AG",
   "legalName": "DEKA(SWISS) PRIVATBANK AG",
-  "bic": "DEKACHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dekaswissprivatbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEKACHZ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FDS FINANCIAL DATA SERVICES AG",
   "legalName": "FDS FINANCIAL DATA SERVICES AG",
-  "bic": "FDSFLI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fdsfinancialdataservicesag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDSFLI22XXX"
 }

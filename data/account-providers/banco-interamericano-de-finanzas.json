@@ -8,7 +8,6 @@
   ],
   "name": "BANCO INTERAMERICANO DE FINANZAS",
   "legalName": "BANCO INTERAMERICANO DE FINANZAS",
-  "bic": "BIFSPEPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancointeramericanodefinanzas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIFSPEPLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AMICORP BANK AND TRUST LTD",
   "legalName": "AMICORP BANK AND TRUST LTD",
-  "bic": "AMIBBBBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amicorpbankandtrustltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMIBBBBBXXX"
 }

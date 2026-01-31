@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China (europe) S.a. Athens Branch",
   "legalName": "BANK OF CHINA (EUROPE) S.A. ATHENS BRANCH",
-  "bic": "BKCHGRAAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHGRAAXXX"
 }

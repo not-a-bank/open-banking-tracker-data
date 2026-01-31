@@ -8,7 +8,6 @@
   ],
   "name": "HIFX LTD",
   "legalName": "HIFX LTD",
-  "bic": "HIFXNZ2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hifxltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HIFXNZ2AXXX"
 }

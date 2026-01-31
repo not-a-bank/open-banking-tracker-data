@@ -8,7 +8,6 @@
   ],
   "name": "PREFERRED BANK",
   "legalName": "PREFERRED BANK",
-  "bic": "PRFRUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.preferredbank.com.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRFRUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Canada",
   "legalName": "BANK OF CANADA",
-  "bic": "HSCICATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofcanada.ca.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSCICATTXXX"
 }

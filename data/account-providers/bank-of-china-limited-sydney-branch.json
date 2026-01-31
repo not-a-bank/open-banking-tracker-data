@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China Limited, Sydney Branch",
   "legalName": "BANK OF CHINA LIMITED, SYDNEY BRANCH",
-  "bic": "BKCHAU2SXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHAU2SXXX"
 }

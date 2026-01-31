@@ -8,7 +8,6 @@
   ],
   "name": "SBK - BROOKS INVESTMENT CORP.",
   "legalName": "SBK - BROOKS INVESTMENT CORP.",
-  "bic": "SBKBUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sbkbrooksinvestmentcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBKBUS31XXX"
 }

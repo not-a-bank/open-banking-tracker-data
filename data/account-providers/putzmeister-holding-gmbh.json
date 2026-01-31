@@ -8,7 +8,6 @@
   ],
   "name": "PUTZMEISTER HOLDING GMBH",
   "legalName": "PUTZMEISTER HOLDING GMBH",
-  "bic": "PUTZDE6AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.putzmeisterholdinggmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PUTZDE6AXXX"
 }

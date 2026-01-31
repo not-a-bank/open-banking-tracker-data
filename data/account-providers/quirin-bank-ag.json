@@ -8,7 +8,6 @@
   ],
   "name": "QUIRIN BANK AG",
   "legalName": "QUIRIN BANK AG",
-  "bic": "BEFFDEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.quirinbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEFFDEB1XXX"
 }

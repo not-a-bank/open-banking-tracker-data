@@ -8,7 +8,6 @@
   ],
   "name": "OASIS SECURITISATION SRL",
   "legalName": "OASIS SECURITISATION SRL",
-  "bic": "OASSIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oasissecuritisationsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OASSIT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORSTAR SECURITIES INTERNATIONAL INC",
   "legalName": "NORSTAR SECURITIES INTERNATIONAL INC",
-  "bic": "NOSICAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.norstarsecuritiesinternationalinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSICAT1XXX"
 }

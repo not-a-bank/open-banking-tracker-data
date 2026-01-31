@@ -8,7 +8,6 @@
   ],
   "name": "HSBC INVESTMENT SERVICES (MALTA) LIMITED",
   "legalName": "HSBC INVESTMENT SERVICES (MALTA) LIMITED",
-  "bic": "HINSMTM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcinvestmentservicesmaltalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HINSMTM1XXX"
 }

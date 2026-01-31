@@ -8,7 +8,6 @@
   ],
   "name": "REPUBLIC CREDIT ALLIANCE COMMERCIAL BANK",
   "legalName": "REPUBLIC CREDIT ALLIANCE COMMERCIAL BANK",
-  "bic": "RCACRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.republiccreditalliancecommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCACRUMMXXX"
 }

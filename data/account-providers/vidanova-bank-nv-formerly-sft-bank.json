@@ -8,7 +8,6 @@
   ],
   "name": "VIDANOVA BANK N.V. (FORMERLY S.F.T. BANK)",
   "legalName": "VIDANOVA BANK N.V. (FORMERLY S.F.T. BANK)",
-  "bic": "CITCCWCCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vidanovabanknvformerlysftbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITCCWCCXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SWISSCOM AG",
   "legalName": "SWISSCOM AG",
-  "bic": "SWCOCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swisscomag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWCOCH21XXX"
 }

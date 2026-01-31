@@ -8,7 +8,6 @@
   ],
   "name": "Alpen Privatbank AG",
   "legalName": "ALPEN PRIVATBANK AG",
-  "bic": "ALPEAT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alpenprivatbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALPEAT22XXX"
 }

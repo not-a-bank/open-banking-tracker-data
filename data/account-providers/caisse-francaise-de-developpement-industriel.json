@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE FRANCAISE DE DEVELOPPEMENT INDUSTRIEL",
   "legalName": "CAISSE FRANCAISE DE DEVELOPPEMENT INDUSTRIEL",
-  "bic": "CFDIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissefrancaisededeveloppementindustriel.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFDIFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MISCHLER FINANCIAL GROUP",
   "legalName": "MISCHLER FINANCIAL GROUP",
-  "bic": "MIFGUS21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mischlerfinancialgroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIFGUS21XXX"
 }

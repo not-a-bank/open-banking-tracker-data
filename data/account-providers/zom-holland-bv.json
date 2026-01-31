@@ -8,7 +8,6 @@
   ],
   "name": "ZOM HOLLAND B.V.",
   "legalName": "ZOM HOLLAND B.V.",
-  "bic": "ZOHONL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zomhollandbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZOHONL21XXX"
 }

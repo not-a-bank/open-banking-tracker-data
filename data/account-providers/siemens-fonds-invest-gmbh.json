@@ -8,7 +8,6 @@
   ],
   "name": "SIEMENS FONDS INVEST GMBH",
   "legalName": "SIEMENS FONDS INVEST GMBH",
-  "bic": "SIKADEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.siemensfondsinvestgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIKADEMMXXX"
 }

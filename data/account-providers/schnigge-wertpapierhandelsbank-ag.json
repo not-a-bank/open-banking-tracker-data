@@ -8,7 +8,6 @@
   ],
   "name": "SCHNIGGE WERTPAPIERHANDELSBANK AG",
   "legalName": "SCHNIGGE WERTPAPIERHANDELSBANK AG",
-  "bic": "SCWEDED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schniggewertpapierhandelsbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCWEDED1XXX"
 }

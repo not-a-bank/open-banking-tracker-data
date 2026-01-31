@@ -8,7 +8,6 @@
   ],
   "name": "ACLEDA BANK PLC.",
   "legalName": "ACLEDA BANK PLC.",
-  "bic": "ACLBKHPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.acledabankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACLBKHPPXXX"
 }

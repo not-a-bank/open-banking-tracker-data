@@ -8,7 +8,6 @@
   ],
   "name": "COSWELL S.P.A.",
   "legalName": "COSWELL S.P.A.",
-  "bic": "COSWIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.coswellspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COSWIT21XXX"
 }

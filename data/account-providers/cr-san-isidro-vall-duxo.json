@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Caja Rural San Isidro Vall D'uxo",
@@ -15,7 +16,7 @@
   "countries": [
     "ES"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "gocardless"
   ],
-  "swiftCode": "BCOEESMM111"
+  "bic": "BCOEESMM111",
+  "legalName": "Caja Rural San Isidro Vall D'Uxo"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INVEST AD",
   "legalName": "INVEST AD",
-  "bic": "ADICAEAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADICAEAAXXX"
 }

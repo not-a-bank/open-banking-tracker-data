@@ -8,7 +8,6 @@
   ],
   "name": "BULL FRANCE",
   "legalName": "BULL FRANCE",
-  "bic": "BUFRFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bullfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BUFRFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ALPINVEST PARTNERS N.V.",
   "legalName": "ALPINVEST PARTNERS N.V.",
-  "bic": "ALPPNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alpinvestpartnersnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALPPNL21XXX"
 }

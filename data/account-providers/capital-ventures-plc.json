@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL VENTURES PLC",
   "legalName": "CAPITAL VENTURES PLC",
-  "bic": "CAVEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalventuresplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAVEGB21XXX"
 }

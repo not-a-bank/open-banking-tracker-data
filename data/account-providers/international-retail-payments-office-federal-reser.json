@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL RETAIL PAYMENTS OFFICE (FEDERAL RESERVE BANK OF ATLANTA)",
   "legalName": "INTERNATIONAL RETAIL PAYMENTS OFFICE (FEDERAL RESERVE BANK OF ATLANTA)",
-  "bic": "IRPOUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalretailpaymentsofficefederalreser.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRPOUS31XXX"
 }

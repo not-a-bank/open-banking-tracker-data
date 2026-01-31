@@ -8,7 +8,6 @@
   ],
   "name": "BANK M TANZANIA PLC",
   "legalName": "BANK M TANZANIA PLC",
-  "bic": "BNKMTZTZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankmtanzaniaplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNKMTZTZXXX"
 }

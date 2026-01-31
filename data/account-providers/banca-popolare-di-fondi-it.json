@@ -8,7 +8,6 @@
   ],
   "name": "BANCA POPOLARE DI FONDI",
   "legalName": "BANCA POPOLARE DI FONDI",
-  "bic": "POFOIT3FXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolaredifondiit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POFOIT3FXXX"
 }

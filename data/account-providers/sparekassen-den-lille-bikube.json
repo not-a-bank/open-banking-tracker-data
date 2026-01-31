@@ -8,7 +8,6 @@
   ],
   "name": "SPAREKASSEN DEN LILLE BIKUBE",
   "legalName": "SPAREKASSEN DEN LILLE BIKUBE",
-  "bic": "LIBIDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparekassendenlillebikube.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIBIDK21XXX"
 }

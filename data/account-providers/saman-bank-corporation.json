@@ -8,7 +8,6 @@
   ],
   "name": "SAMAN BANK CORPORATION",
   "legalName": "SAMAN BANK CORPORATION",
-  "bic": "SABCIRTHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.samanbankcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABCIRTHXXX"
 }

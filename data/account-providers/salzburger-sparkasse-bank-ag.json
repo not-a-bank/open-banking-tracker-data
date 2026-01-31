@@ -8,7 +8,6 @@
   ],
   "name": "SALZBURGER SPARKASSE BANK AG",
   "legalName": "SALZBURGER SPARKASSE BANK AG",
-  "bic": "SBGSAT2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.salzburgersparkassebankag.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBGSAT2SXXX"
 }

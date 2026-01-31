@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA PRIVATE BANKING FOCUS NORDIC FUND",
   "legalName": "NORDEA PRIVATE BANKING FOCUS NORDIC FUND",
-  "bic": "NPFNFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaprivatebankingfocusnordicfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NPFNFIH1XXX"
 }

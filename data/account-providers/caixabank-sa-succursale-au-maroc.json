@@ -8,7 +8,6 @@
   ],
   "name": "CAIXABANK, S.A. SUCCURSALE AU MAROC",
   "legalName": "CAIXABANK, S.A. SUCCURSALE AU MAROC",
-  "bic": "CAIXMAMCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixabanksasuccursaleaumaroc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAIXMAMCXXX"
 }

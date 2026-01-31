@@ -8,7 +8,6 @@
   ],
   "name": "LB IMMO INVEST GMBH",
   "legalName": "LB IMMO INVEST GMBH",
-  "bic": "LBIMDEH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lbimmoinvestgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LBIMDEH1XXX"
 }

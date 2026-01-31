@@ -8,7 +8,6 @@
   ],
   "name": "INDECAP AB",
   "legalName": "INDECAP AB",
-  "bic": "INPPSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indecapab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INPPSES1XXX"
 }

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Br\u00fchler Bank",
-  "legalName": "Br\u00fchler Bank",
+  "name": "Brühler Bank",
+  "legalName": "Brühler Bank",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bruehler-bank.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

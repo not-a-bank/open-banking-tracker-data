@@ -8,7 +8,6 @@
   ],
   "name": "COMSEC TRADING LIMITED",
   "legalName": "COMSEC TRADING LIMITED",
-  "bic": "FISSAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.comsectradinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FISSAU21XXX"
 }

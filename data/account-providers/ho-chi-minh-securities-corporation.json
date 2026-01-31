@@ -8,7 +8,6 @@
   ],
   "name": "HO CHI MINH SECURITIES CORPORATION",
   "legalName": "HO CHI MINH SECURITIES CORPORATION",
-  "bic": "HSCCVN21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hochiminhsecuritiescorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSCCVN21XXX"
 }

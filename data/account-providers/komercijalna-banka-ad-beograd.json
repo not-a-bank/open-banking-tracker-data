@@ -8,7 +8,6 @@
   ],
   "name": "KOMERCIJALNA BANKA A.D. BEOGRAD",
   "legalName": "KOMERCIJALNA BANKA A.D. BEOGRAD",
-  "bic": "KOBBRSBGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.komercijalnabankaadbeograd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOBBRSBGXXX"
 }

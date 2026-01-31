@@ -8,7 +8,6 @@
   ],
   "name": "CONTINENTAL BANK OF CANADA",
   "legalName": "CONTINENTAL BANK OF CANADA",
-  "bic": "CNTICA21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.continentalbankofcanada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNTICA21XXX"
 }

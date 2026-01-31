@@ -8,7 +8,6 @@
   ],
   "name": "ABB AROS FONDKOMMISSION AB",
   "legalName": "ABB AROS FONDKOMMISSION AB",
-  "bic": "ABBFSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abbarosfondkommissionab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABBFSES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK WERRATAL-LANDECK EG",
   "legalName": "RAIFFEISENBANK WERRATAL-LANDECK EG",
-  "bic": "RAWRDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankwerratallandeckeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAWRDE81XXX"
 }

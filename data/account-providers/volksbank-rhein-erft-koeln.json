@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Rhein-Erft-K\u00f6ln",
-  "legalName": "Volksbank Rhein-Erft-K\u00f6ln",
+  "name": "Volksbank Rhein-Erft-Köln",
+  "legalName": "Volksbank Rhein-Erft-Köln",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-rhein-erft-koeln.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

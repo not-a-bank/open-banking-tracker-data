@@ -8,7 +8,6 @@
   ],
   "name": "VOLTINVEST S.A.",
   "legalName": "VOLTINVEST S.A.",
-  "bic": "VOLTRO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.voltinvestsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOLTRO21XXX"
 }

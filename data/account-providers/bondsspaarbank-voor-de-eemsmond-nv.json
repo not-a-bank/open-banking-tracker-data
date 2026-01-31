@@ -8,7 +8,6 @@
   ],
   "name": "BONDSSPAARBANK VOOR DE EEMSMOND N.V.",
   "legalName": "BONDSSPAARBANK VOOR DE EEMSMOND N.V.",
-  "bic": "BOEMNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bondsspaarbankvoordeeemsmondnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOEMNL21XXX"
 }

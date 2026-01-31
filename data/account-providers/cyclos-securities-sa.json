@@ -8,7 +8,6 @@
   ],
   "name": "CYCLOS SECURITIES S.A.",
   "legalName": "CYCLOS SECURITIES S.A.",
-  "bic": "CYSEGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cyclossecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CYSEGRA1XXX"
 }

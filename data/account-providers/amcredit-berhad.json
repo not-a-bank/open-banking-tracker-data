@@ -8,7 +8,6 @@
   ],
   "name": "AMCREDIT BERHAD",
   "legalName": "AMCREDIT BERHAD",
-  "bic": "AMCBMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amcreditberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMCBMYK1XXX"
 }

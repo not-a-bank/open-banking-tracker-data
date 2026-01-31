@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK OBEROESTERREICH AG",
   "legalName": "VOLKSBANK OBEROESTERREICH AG",
-  "bic": "VBWEAT2WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankoberoesterreichagat.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VBWEAT2WXXX"
 }

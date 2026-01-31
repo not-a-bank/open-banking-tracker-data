@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK 'RUSSIAN REGIONAL BANK' ZAO",
   "legalName": "COMMERCIAL BANK 'RUSSIAN REGIONAL BANK' ZAO",
-  "bic": "RUSRRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankrussianregionalbankzao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RUSRRUM1XXX"
 }

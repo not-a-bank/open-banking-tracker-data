@@ -8,7 +8,6 @@
   ],
   "name": "DCC HOLDINGS (UK) LIMITED",
   "legalName": "DCC HOLDINGS (UK) LIMITED",
-  "bic": "DCCHGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dccholdingsuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCCHGB2LXXX"
 }

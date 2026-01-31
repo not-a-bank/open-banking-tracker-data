@@ -8,7 +8,6 @@
   ],
   "name": "KEMPER CLEARING CORP.",
   "legalName": "KEMPER CLEARING CORP.",
-  "bic": "KCCIUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kemperclearingcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KCCIUS41XXX"
 }

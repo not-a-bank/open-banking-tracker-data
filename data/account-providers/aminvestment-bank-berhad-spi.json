@@ -8,7 +8,6 @@
   ],
   "name": "AMINVESTMENT BANK BERHAD-SPI",
   "legalName": "AMINVESTMENT BANK BERHAD-SPI",
-  "bic": "AMMBMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aminvestmentbankberhadspi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMMBMY21XXX"
 }

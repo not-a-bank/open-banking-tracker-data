@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
   "legalName": "DEUTSCHE BANK SOCIEDAD ANONIMA ESPANOLA",
-  "bic": "DEUTESBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebanksociedadanonimaespanola.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTESBBXXX"
 }

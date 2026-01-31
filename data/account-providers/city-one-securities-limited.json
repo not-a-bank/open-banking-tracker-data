@@ -8,7 +8,6 @@
   ],
   "name": "CITY ONE SECURITIES LIMITED",
   "legalName": "CITY ONE SECURITIES LIMITED",
-  "bic": "EUCFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cityonesecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUCFGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SYNDICATE BANK",
   "legalName": "SYNDICATE BANK",
-  "bic": "SYNDGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.syndicatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SYNDGB2LXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GE CAPITAL BANK AG",
   "legalName": "GE CAPITAL BANK AG",
-  "bic": "HRBKDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gecapitalbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HRBKDE51XXX"
 }

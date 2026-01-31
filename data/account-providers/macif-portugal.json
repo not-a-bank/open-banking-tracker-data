@@ -8,7 +8,6 @@
   ],
   "name": "MACIF PORTUGAL",
   "legalName": "MACIF PORTUGAL",
-  "bic": "MAPGPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macifportugal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAPGPTP1XXX"
 }

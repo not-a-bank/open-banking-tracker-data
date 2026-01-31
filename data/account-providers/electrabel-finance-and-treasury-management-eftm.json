@@ -8,7 +8,6 @@
   ],
   "name": "ELECTRABEL FINANCE AND TREASURY MANAGEMENT (EFTM)",
   "legalName": "ELECTRABEL FINANCE AND TREASURY MANAGEMENT (EFTM)",
-  "bic": "EFTMLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.electrabelfinanceandtreasurymanagementeftm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFTMLUL1XXX"
 }

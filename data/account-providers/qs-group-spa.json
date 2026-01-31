@@ -8,7 +8,6 @@
   ],
   "name": "QS GROUP SPA",
   "legalName": "QS GROUP SPA",
-  "bic": "GRPPIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qsgroupspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRPPIT21XXX"
 }

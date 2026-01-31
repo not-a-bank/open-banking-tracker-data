@@ -8,7 +8,6 @@
   ],
   "name": "CANAL BANK, S. A. (BMF)",
   "legalName": "CANAL BANK, S. A. (BMF)",
-  "bic": "KNALPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.canalbanksabmf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KNALPAPAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China (europe) S.a. Dublin Branch",
   "legalName": "BANK OF CHINA (EUROPE) S.A. DUBLIN BRANCH",
-  "bic": "BKCHIE3DXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHIE3DXXX"
 }

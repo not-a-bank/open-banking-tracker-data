@@ -8,7 +8,6 @@
   ],
   "name": "CHINA GOVERNMENT SECURITIES DEPOSITORY TRUST AND CLEARING",
   "legalName": "CHINA GOVERNMENT SECURITIES DEPOSITORY TRUST AND CLEARING",
-  "bic": "CDCLCNB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chinagovernmentsecuritiesdepositorytrustandc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDCLCNB1XXX"
 }

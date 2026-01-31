@@ -8,7 +8,6 @@
   ],
   "name": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
   "legalName": "LANDESBANK HESSEN-THUERINGEN GIROZENTRALE",
-  "bic": "HELAESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.landesbankhessenthueringengirozentrale.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HELAESM1XXX"
 }

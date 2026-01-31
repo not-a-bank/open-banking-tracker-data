@@ -8,7 +8,6 @@
   ],
   "name": "FOREIGN EXCHANGE BANK CORP.",
   "legalName": "FOREIGN EXCHANGE BANK CORP.",
-  "bic": "MCSNVIVIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.foreignexchangebankcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCSNVIVIXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Banco BTG Pactual Colombia S.a.",
   "legalName": "BANCO BTG PACTUAL COLOMBIA S.A.",
-  "bic": "BPABCOBBXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPABCOBBXXX"
 }

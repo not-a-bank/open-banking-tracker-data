@@ -8,7 +8,6 @@
   ],
   "name": "ENEL FINANCE INTERNATIONAL N.V.",
   "legalName": "ENEL FINANCE INTERNATIONAL N.V.",
-  "bic": "ENELNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enelfinanceinternationalnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENELNL2AXXX"
 }

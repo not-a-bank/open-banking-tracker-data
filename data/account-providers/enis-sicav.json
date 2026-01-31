@@ -8,7 +8,6 @@
   ],
   "name": "ENIS SICAV",
   "legalName": "ENIS SICAV",
-  "bic": "ENSILUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enissicav.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENSILUL1XXX"
 }

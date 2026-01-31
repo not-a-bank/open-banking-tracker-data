@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE POST ZAHLUNGSDIENSTE GMBH",
   "legalName": "DEUTSCHE POST ZAHLUNGSDIENSTE GMBH",
-  "bic": "DEZMDE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschepostzahlungsdienstegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEZMDE31XXX"
 }

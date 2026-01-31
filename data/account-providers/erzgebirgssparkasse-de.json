@@ -9,7 +9,6 @@
   ],
   "name": "ERZGEBIRGSSPARKASSE",
   "legalName": "ERZGEBIRGSSPARKASSE",
-  "bic": "WELADED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/erzgebirgssparkasse_de.svg",
@@ -37,5 +36,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WELADED1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FINA-S AD INVESTMENT INTERMEDIARY",
   "legalName": "FINA-S AD INVESTMENT INTERMEDIARY",
-  "bic": "FIRYBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finasadinvestmentintermediary.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIRYBGS1XXX"
 }

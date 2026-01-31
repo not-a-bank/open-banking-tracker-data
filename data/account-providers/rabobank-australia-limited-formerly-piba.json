@@ -8,7 +8,6 @@
   ],
   "name": "RABOBANK AUSTRALIA LIMITED (FORMERLY PIBA)",
   "legalName": "RABOBANK AUSTRALIA LIMITED (FORMERLY PIBA)",
-  "bic": "RABOAU2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rabobankaustralialimitedformerlypiba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABOAU2BXXX"
 }

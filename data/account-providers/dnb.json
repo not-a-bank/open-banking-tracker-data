@@ -187,6 +187,7 @@
   "apiAggregators": [
     "bankingsdk",
     "enfuce",
+    "gocardless",
     "ibanity",
     "neonomics",
     "nordigen",
@@ -237,5 +238,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "DNBANOKK"
 }

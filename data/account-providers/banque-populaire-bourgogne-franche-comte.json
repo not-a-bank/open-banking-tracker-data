@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Banque Populaire Bourgogne Franche-Comt\u00e9",
-  "legalName": "Banque Populaire Bourgogne Franche-Comt\u00e9",
+  "name": "Banque Populaire Bourgogne Franche-Comté",
+  "legalName": "Banque Populaire Bourgogne Franche-Comté",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banque-populaire-bourgogne-franche-comte.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

@@ -90,6 +90,7 @@
   "apiAggregators": [
     "bankingsdk",
     "equensworldline",
+    "gocardless",
     "ibanity",
     "nordigen",
     "plaid",
@@ -137,5 +138,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "swiftCode": "COBADEHDXXX"
+  "bic": "COBADEHDXXX"
 }

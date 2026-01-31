@@ -8,7 +8,6 @@
   ],
   "name": "TRANSCOM BANK (BARBADOS) LTD.",
   "legalName": "TRANSCOM BANK (BARBADOS) LTD.",
-  "bic": "TRBOBBB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.transcombankbarbadosltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRBOBBB1XXX"
 }

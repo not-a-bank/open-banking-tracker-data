@@ -8,7 +8,6 @@
   ],
   "name": "S-BANK LTD",
   "legalName": "S-BANK LTD",
-  "bic": "SBANFIHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBANFIHHXXX"
 }

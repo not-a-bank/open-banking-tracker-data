@@ -8,7 +8,6 @@
   ],
   "name": "PT BANK QNB INDONESIA TBK",
   "legalName": "PT BANK QNB INDONESIA TBK",
-  "bic": "AWANIDJAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbankqnbindonesiatbk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AWANIDJAXXX"
 }

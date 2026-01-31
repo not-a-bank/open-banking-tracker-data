@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY ZIEMI PIOTRKOWSKIEJ",
   "legalName": "BANK SPOLDZIELCZY ZIEMI PIOTRKOWSKIEJ",
-  "bic": "ZIPIPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczyziemipiotrkowskiej.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZIPIPLP1XXX"
 }

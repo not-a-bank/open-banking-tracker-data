@@ -8,7 +8,6 @@
   ],
   "name": "NYKREDIT BANK A/S",
   "legalName": "NYKREDIT BANK A/S",
-  "bic": "NYKBDKKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nykreditbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NYKBDKKKXXX"
 }

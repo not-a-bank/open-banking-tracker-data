@@ -8,7 +8,6 @@
   ],
   "name": "RCBC SAVINGS BANK, INC.",
   "legalName": "RCBC SAVINGS BANK, INC.",
-  "bic": "RCSAPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rcbcsavingsbankinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCSAPHM1XXX"
 }

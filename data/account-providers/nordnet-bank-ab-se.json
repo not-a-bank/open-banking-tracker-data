@@ -8,7 +8,6 @@
   ],
   "name": "NORDNET BANK AB",
   "legalName": "NORDNET BANK AB",
-  "bic": "NNSESES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordnetbankabse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NNSESES1XXX"
 }

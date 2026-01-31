@@ -8,7 +8,6 @@
   ],
   "name": "REDBANC S.A",
   "legalName": "REDBANC S.A",
-  "bic": "REBCCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.redbancsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REBCCLR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CUSTODY EXECUTION AND CLEARING SERVICES (AUSTRALIA) PTY LIMITED",
   "legalName": "CUSTODY EXECUTION AND CLEARING SERVICES (AUSTRALIA) PTY LIMITED",
-  "bic": "HSAPAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.custodyexecutionandclearingservicesaustralia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSAPAU21XXX"
 }

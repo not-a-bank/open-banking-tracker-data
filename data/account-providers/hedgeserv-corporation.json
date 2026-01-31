@@ -8,7 +8,6 @@
   ],
   "name": "HEDGESERV CORPORATION",
   "legalName": "HEDGESERV CORPORATION",
-  "bic": "HSRVUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hedgeservcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSRVUS33XXX"
 }

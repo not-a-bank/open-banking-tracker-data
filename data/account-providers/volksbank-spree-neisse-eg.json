@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK SPREE-NEISSE EG",
   "legalName": "VOLKSBANK SPREE-NEISSE EG",
-  "bic": "VOSNDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankspreeneisseeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOSNDE81XXX"
 }

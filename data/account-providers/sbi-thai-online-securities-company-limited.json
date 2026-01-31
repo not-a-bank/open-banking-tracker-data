@@ -8,7 +8,6 @@
   ],
   "name": "SBI THAI ONLINE SECURITIES COMPANY LIMITED",
   "legalName": "SBI THAI ONLINE SECURITIES COMPANY LIMITED",
-  "bic": "STNUTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sbithaionlinesecuritiescompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STNUTHB1XXX"
 }

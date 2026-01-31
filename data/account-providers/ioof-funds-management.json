@@ -8,7 +8,6 @@
   ],
   "name": "IOOF FUNDS MANAGEMENT",
   "legalName": "IOOF FUNDS MANAGEMENT",
-  "bic": "IOFMAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iooffundsmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IOFMAU31XXX"
 }

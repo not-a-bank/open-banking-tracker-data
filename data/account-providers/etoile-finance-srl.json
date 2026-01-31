@@ -8,7 +8,6 @@
   ],
   "name": "ETOILE FINANCE SRL",
   "legalName": "ETOILE FINANCE SRL",
-  "bic": "ETFRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.etoilefinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETFRITM1XXX"
 }

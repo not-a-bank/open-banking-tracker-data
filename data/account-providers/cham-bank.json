@@ -8,7 +8,6 @@
   ],
   "name": "CHAM BANK",
   "legalName": "CHAM BANK",
-  "bic": "CHMMSYDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chambank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHMMSYDAXXX"
 }

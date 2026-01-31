@@ -8,7 +8,6 @@
   ],
   "name": "ZULAWSKI BANK SPOLDZIELCZY",
   "legalName": "ZULAWSKI BANK SPOLDZIELCZY",
-  "bic": "ZUSPPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zulawskibankspoldzielczy.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZUSPPLP1XXX"
 }

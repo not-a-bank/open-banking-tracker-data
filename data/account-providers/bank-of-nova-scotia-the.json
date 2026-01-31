@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Nova Scotia, THE",
   "legalName": "BANK OF NOVA SCOTIA, THE",
-  "bic": "NOSCINBBHYD",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofnovascotia.com.ico",
@@ -27,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSCINBBHYD"
 }

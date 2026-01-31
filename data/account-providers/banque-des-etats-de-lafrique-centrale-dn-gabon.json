@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON",
   "legalName": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. GABON",
-  "bic": "BEACGALIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedesetatsdelafriquecentraledngabon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEACGALIXXX"
 }

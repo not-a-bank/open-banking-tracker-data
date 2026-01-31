@@ -8,7 +8,6 @@
   ],
   "name": "SIG FRANCE SAS",
   "legalName": "SIG FRANCE SAS",
-  "bic": "SIGFFR2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sigfrancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIGFFR2AXXX"
 }

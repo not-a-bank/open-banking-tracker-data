@@ -8,7 +8,6 @@
   ],
   "name": "CAMBRIDGE SAVINGS BANK",
   "legalName": "CAMBRIDGE SAVINGS BANK",
-  "bic": "CABGUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cambridgesavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CABGUS33XXX"
 }

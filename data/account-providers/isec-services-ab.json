@@ -8,7 +8,6 @@
   ],
   "name": "ISEC SERVICES AB",
   "legalName": "ISEC SERVICES AB",
-  "bic": "ISESSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.isecservicesab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISESSES1XXX"
 }

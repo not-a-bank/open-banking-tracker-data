@@ -8,7 +8,6 @@
   ],
   "name": "C Worldwide Asset Management Fondsmaeglerselskab A/S",
   "legalName": "C WORLDWIDE ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
-  "bic": "CARNDK22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CARNDK22XXX"
 }

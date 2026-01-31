@@ -8,7 +8,6 @@
   ],
   "name": "MISR IRAN DEVELOPMENT BANK",
   "legalName": "MISR IRAN DEVELOPMENT BANK",
-  "bic": "MIDBEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.misrirandevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIDBEGCXXXX"
 }

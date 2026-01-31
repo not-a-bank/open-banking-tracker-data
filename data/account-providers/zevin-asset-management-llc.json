@@ -8,7 +8,6 @@
   ],
   "name": "ZEVIN ASSET MANAGEMENT LLC",
   "legalName": "ZEVIN ASSET MANAGEMENT LLC",
-  "bic": "ZAMLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zevinassetmanagementllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZAMLUS31XXX"
 }

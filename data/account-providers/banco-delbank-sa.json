@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DELBANK S.A.",
   "legalName": "BANCO DELBANK S.A.",
-  "bic": "DEBNECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodelbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEBNECE1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FINDOMESTIC BANCA SPA",
   "legalName": "FINDOMESTIC BANCA SPA",
-  "bic": "FIDMIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.findomesticbancaspait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIDMIT31XXX"
 }

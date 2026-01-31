@@ -8,7 +8,6 @@
   ],
   "name": "Australia AND NEW Zealand Banking Group LTD",
   "legalName": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LTD",
-  "bic": "ANZBHKHXXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -27,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBHKHXXXX"
 }

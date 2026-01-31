@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT FONCIER EGYPTIEN",
   "legalName": "CREDIT FONCIER EGYPTIEN",
-  "bic": "CFOEEGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditfoncieregyptien.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFOEEGC1XXX"
 }

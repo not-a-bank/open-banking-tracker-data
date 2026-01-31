@@ -8,7 +8,6 @@
   ],
   "name": "BANCA VALSABBINA S.C.P.A.",
   "legalName": "BANCA VALSABBINA S.C.P.A.",
-  "bic": "BCVAIT2VXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancavalsabbinascpa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCVAIT2VXXX"
 }

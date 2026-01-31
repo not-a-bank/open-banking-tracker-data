@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse K\u00f6lnBonn",
-  "legalName": "Sparkasse K\u00f6lnBonn",
+  "name": "Sparkasse KölnBonn",
+  "legalName": "Sparkasse KölnBonn",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-koelnbonn.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

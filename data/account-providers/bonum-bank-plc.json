@@ -8,7 +8,6 @@
   ],
   "name": "Bonum Bank PLC",
   "legalName": "BONUM BANK PLC",
-  "bic": "POPFFI22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POPFFI22XXX"
 }

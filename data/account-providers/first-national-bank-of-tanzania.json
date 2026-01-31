@@ -8,7 +8,6 @@
   ],
   "name": "FIRST NATIONAL BANK OF TANZANIA",
   "legalName": "FIRST NATIONAL BANK OF TANZANIA",
-  "bic": "FIRNTZTXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstnationalbankoftanzania.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIRNTZTXXXX"
 }

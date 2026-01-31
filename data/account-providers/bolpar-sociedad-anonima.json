@@ -8,7 +8,6 @@
   ],
   "name": "BOLPAR SOCIEDAD ANONIMA",
   "legalName": "BOLPAR SOCIEDAD ANONIMA",
-  "bic": "BOSNPYP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bolparsociedadanonima.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOSNPYP1XXX"
 }

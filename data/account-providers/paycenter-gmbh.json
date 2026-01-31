@@ -8,7 +8,6 @@
   ],
   "name": "PAYCENTER GMBH",
   "legalName": "PAYCENTER GMBH",
-  "bic": "PAGMDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paycentergmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAGMDEM1XXX"
 }

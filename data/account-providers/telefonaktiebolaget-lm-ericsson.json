@@ -8,7 +8,6 @@
   ],
   "name": "TELEFONAKTIEBOLAGET LM ERICSSON",
   "legalName": "TELEFONAKTIEBOLAGET LM ERICSSON",
-  "bic": "TEERSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.telefonaktiebolagetlmericsson.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEERSES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BARRINGTON BANK AND TRUST COMPANY NATIONAL ASSOCIATION",
   "legalName": "BARRINGTON BANK AND TRUST COMPANY NATIONAL ASSOCIATION",
-  "bic": "BBTCUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barringtonbankandtrustcompanynationalassocia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBTCUS44XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANKINTER LUXEMBOURG S.A.",
   "legalName": "BANKINTER LUXEMBOURG S.A.",
-  "bic": "BKBKLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankinterluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKBKLULLXXX"
 }

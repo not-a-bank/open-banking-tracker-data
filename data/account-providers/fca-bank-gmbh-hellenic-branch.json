@@ -8,7 +8,6 @@
   ],
   "name": "FCA BANK G.M.B.H HELLENIC BRANCH",
   "legalName": "FCA BANK G.M.B.H HELLENIC BRANCH",
-  "bic": "FIATGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fcabankgmbhhellenicbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIATGRA1XXX"
 }

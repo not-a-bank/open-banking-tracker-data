@@ -8,7 +8,6 @@
   ],
   "name": "BANK DAGANG NASIONAL INDONESIA",
   "legalName": "BANK DAGANG NASIONAL INDONESIA",
-  "bic": "DANIPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankdagangnasionalindonesiaph.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DANIPHM1XXX"
 }

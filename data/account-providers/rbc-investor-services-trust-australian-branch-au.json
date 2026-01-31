@@ -8,7 +8,6 @@
   ],
   "name": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
   "legalName": "RBC INVESTOR SERVICES TRUST, AUSTRALIAN BRANCH",
-  "bic": "ROYCAUSSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbcinvestorservicestrustaustralianbranchau.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROYCAUSSXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HUMPPILAN OSUUSPANKKI",
   "legalName": "HUMPPILAN OSUUSPANKKI",
-  "bic": "HUOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.humppilanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HUOPFI21XXX"
 }

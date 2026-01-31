@@ -8,7 +8,6 @@
   ],
   "name": "UNION BANK OF COLOMBO PLC",
   "legalName": "UNION BANK OF COLOMBO PLC",
-  "bic": "UBCLLKLCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unionbankofcolomboplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBCLLKLCXXX"
 }

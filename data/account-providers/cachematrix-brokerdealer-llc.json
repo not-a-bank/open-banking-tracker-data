@@ -8,7 +8,6 @@
   ],
   "name": "CACHEMATRIX BROKER/DEALER LLC",
   "legalName": "CACHEMATRIX BROKER/DEALER LLC",
-  "bic": "CHMXUS55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cachematrixbrokerdealerllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHMXUS55XXX"
 }

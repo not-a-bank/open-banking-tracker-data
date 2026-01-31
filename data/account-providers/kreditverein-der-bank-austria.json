@@ -8,7 +8,6 @@
   ],
   "name": "KREDITVEREIN DER BANK AUSTRIA",
   "legalName": "KREDITVEREIN DER BANK AUSTRIA",
-  "bic": "KRAUATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreditvereinderbankaustria.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRAUATW1XXX"
 }

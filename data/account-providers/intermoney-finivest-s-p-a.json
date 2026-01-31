@@ -8,7 +8,6 @@
   ],
   "name": "INTERMONEY FINIVEST S P A",
   "legalName": "INTERMONEY FINIVEST S P A",
-  "bic": "INFNITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intermoneyfinivestspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INFNITM1XXX"
 }

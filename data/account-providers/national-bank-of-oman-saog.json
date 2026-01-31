@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF OMAN (SAOG)",
   "legalName": "NATIONAL BANK OF OMAN (SAOG)",
-  "bic": "NBOMEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofomansaog.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBOMEGCXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BBV LATINVEST SECURITIES LIMITED",
   "legalName": "BBV LATINVEST SECURITIES LIMITED",
-  "bic": "BBLSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bbvlatinvestsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBLSGB21XXX"
 }

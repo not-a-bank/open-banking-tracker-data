@@ -8,7 +8,6 @@
   ],
   "name": "AKTIV BANK",
   "legalName": "AKTIV BANK",
-  "bic": "AKTVRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aktivbank.com.ico",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKTVRU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DELL USA LP",
   "legalName": "DELL USA LP",
-  "bic": "DCCIUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dellusalp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCCIUS44XXX"
 }

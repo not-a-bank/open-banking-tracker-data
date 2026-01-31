@@ -8,7 +8,6 @@
   ],
   "name": "VIA BAIL",
   "legalName": "VIA BAIL",
-  "bic": "VIBIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.viabail.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIBIFRP1XXX"
 }

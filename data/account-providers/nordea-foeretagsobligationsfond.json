@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA FOERETAGSOBLIGATIONSFOND",
   "legalName": "NORDEA FOERETAGSOBLIGATIONSFOND",
-  "bic": "NOFEFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeafoeretagsobligationsfond.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOFEFIH1XXX"
 }

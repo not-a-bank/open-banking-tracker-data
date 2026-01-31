@@ -8,7 +8,6 @@
   ],
   "name": "BANKMED (SUISSE) S.A.",
   "legalName": "BANKMED (SUISSE) S.A.",
-  "bic": "MEDSCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankmedsuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEDSCHGGXXX"
 }

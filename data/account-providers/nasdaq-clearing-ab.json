@@ -8,7 +8,6 @@
   ],
   "name": "NASDAQ CLEARING AB",
   "legalName": "NASDAQ CLEARING AB",
-  "bic": "OMECSESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nasdaqclearingab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OMECSESSXXX"
 }

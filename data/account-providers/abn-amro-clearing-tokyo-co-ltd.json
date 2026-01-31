@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO CLEARING TOKYO CO., LTD.",
   "legalName": "ABN AMRO CLEARING TOKYO CO., LTD.",
-  "bic": "FCTOJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamroclearingtokyocoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCTOJPJ1XXX"
 }

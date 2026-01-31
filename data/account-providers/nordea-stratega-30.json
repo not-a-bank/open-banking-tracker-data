@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA STRATEGA 30",
   "legalName": "NORDEA STRATEGA 30",
-  "bic": "NOTGSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeastratega30.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOTGSES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CASA DE BOLSA DE VALORES S.A. (CABVAL)",
   "legalName": "CASA DE BOLSA DE VALORES S.A. (CABVAL)",
-  "bic": "CBVCHNT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.casadebolsadevaloressacabval.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBVCHNT1XXX"
 }

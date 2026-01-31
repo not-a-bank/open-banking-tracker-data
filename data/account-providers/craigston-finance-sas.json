@@ -8,7 +8,6 @@
   ],
   "name": "CRAIGSTON FINANCE SAS",
   "legalName": "CRAIGSTON FINANCE SAS",
-  "bic": "CRFNFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.craigstonfinancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRFNFRP1XXX"
 }

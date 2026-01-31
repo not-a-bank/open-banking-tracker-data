@@ -8,7 +8,6 @@
   ],
   "name": "MASHREQ BANK",
   "legalName": "MASHREQ BANK",
-  "bic": "MSHQINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mashreqbankin.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSHQINBBXXX"
 }

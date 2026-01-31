@@ -8,7 +8,6 @@
   ],
   "name": "Banco PAN",
   "legalName": "BANCO PAN S.A.",
-  "bic": "BPNMBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancopan.com.br.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "BPAN4"
+  "stockSymbol": "BPAN4",
+  "bic": "BPNMBRSPXXX"
 }

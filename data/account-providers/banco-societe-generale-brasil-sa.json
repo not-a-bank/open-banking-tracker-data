@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SOCIETE GENERALE BRASIL S/A",
   "legalName": "BANCO SOCIETE GENERALE BRASIL S/A",
-  "bic": "BSOGBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosocietegeneralebrasilsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSOGBRSPXXX"
 }

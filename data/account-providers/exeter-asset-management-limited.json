@@ -8,7 +8,6 @@
   ],
   "name": "EXETER ASSET MANAGEMENT LIMITED",
   "legalName": "EXETER ASSET MANAGEMENT LIMITED",
-  "bic": "EXAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exeterassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXAMGB21XXX"
 }

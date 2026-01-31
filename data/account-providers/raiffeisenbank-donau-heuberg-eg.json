@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK DONAU-HEUBERG EG",
   "legalName": "RAIFFEISENBANK DONAU-HEUBERG EG",
-  "bic": "RADNDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankdonauheubergeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RADNDE81XXX"
 }

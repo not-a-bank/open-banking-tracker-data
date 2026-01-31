@@ -8,7 +8,6 @@
   ],
   "name": "BADENIA BAUSPARKASSE AG",
   "legalName": "BADENIA BAUSPARKASSE AG",
-  "bic": "BAAUFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.badeniabausparkasseag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAAUFR21XXX"
 }

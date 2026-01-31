@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF SYDNEY LTD",
   "legalName": "BANK OF SYDNEY LTD",
-  "bic": "LIKIAU2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofsydneyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIKIAU2SXXX"
 }

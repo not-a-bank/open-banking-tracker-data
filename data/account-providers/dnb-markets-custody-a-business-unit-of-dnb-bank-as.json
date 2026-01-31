@@ -8,7 +8,6 @@
   ],
   "name": "DNB MARKETS CUSTODY, A BUSINESS UNIT OF DNB BANK   ASA, OSLO",
   "legalName": "DNB MARKETS CUSTODY, A BUSINESS UNIT OF DNB BANK   ASA, OSLO",
-  "bic": "DNBANOKCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dnbmarketscustodyabusinessunitofdnbbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNBANOKCXXX"
 }

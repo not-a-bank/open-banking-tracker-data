@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W MSZCZONOWIE",
   "legalName": "BANK SPOLDZIELCZY W MSZCZONOWIE",
-  "bic": "MSZCPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywmszczonowie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSZCPLP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AXION SWISS BANK SA",
   "legalName": "AXION SWISS BANK SA",
-  "bic": "UNCECH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axionswissbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNCECH22XXX"
 }

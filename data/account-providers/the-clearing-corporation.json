@@ -8,7 +8,6 @@
   ],
   "name": "THE CLEARING CORPORATION",
   "legalName": "THE CLEARING CORPORATION",
-  "bic": "BOTCUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theclearingcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTCUS44XXX"
 }

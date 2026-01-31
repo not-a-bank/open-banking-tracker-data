@@ -8,7 +8,6 @@
   ],
   "name": "HILLTOP NATIONAL BANK",
   "legalName": "HILLTOP NATIONAL BANK",
-  "bic": "HNBAUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hilltopnationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HNBAUS51XXX"
 }

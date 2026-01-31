@@ -8,7 +8,6 @@
   ],
   "name": "TRANS IRAQ BANK",
   "legalName": "TRANS IRAQ BANK",
-  "bic": "TIRAIQBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.transiraqbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TIRAIQBAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MIDPACIFIC BANK N.V.",
   "legalName": "MIDPACIFIC BANK N.V.",
-  "bic": "BMIDCWC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.midpacificbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMIDCWC1XXX"
 }

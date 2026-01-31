@@ -8,7 +8,6 @@
   ],
   "name": "EKENAS SPARBANK",
   "legalName": "EKENAS SPARBANK",
-  "bic": "EKSRFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ekenassparbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EKSRFI21XXX"
 }

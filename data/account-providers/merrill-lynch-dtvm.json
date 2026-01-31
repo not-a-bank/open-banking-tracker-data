@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH DTVM",
   "legalName": "MERRILL LYNCH DTVM",
-  "bic": "MLDTBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchdtvm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLDTBRS1XXX"
 }

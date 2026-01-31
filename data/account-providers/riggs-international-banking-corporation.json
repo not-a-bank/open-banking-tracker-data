@@ -8,7 +8,6 @@
   ],
   "name": "RIGGS INTERNATIONAL BANKING CORPORATION",
   "legalName": "RIGGS INTERNATIONAL BANKING CORPORATION",
-  "bic": "RIBCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.riggsinternationalbankingcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RIBCUS31XXX"
 }

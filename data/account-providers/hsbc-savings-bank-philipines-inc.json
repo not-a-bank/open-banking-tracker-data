@@ -8,7 +8,6 @@
   ],
   "name": "HSBC SAVINGS BANK (PHILIPINES) INC.",
   "legalName": "HSBC SAVINGS BANK (PHILIPINES) INC.",
-  "bic": "HBPHPHMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcsavingsbankphilipinesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBPHPHMMXXX"
 }

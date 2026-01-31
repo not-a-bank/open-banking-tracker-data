@@ -8,7 +8,6 @@
   ],
   "name": "GCB Bank PLC",
   "legalName": "GCB BANK PLC",
-  "bic": "GHCBGHACKSI",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gcbbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GHCBGHACKSI"
 }

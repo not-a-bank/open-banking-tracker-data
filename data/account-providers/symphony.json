@@ -8,7 +8,6 @@
   ],
   "name": "SYMPHONY",
   "legalName": "SYMPHONY",
-  "bic": "SYMHSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.symphony.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SYMHSGS1XXX"
 }

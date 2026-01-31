@@ -8,7 +8,6 @@
   ],
   "name": "CORPORACION SANTANDER",
   "legalName": "CORPORACION SANTANDER",
-  "bic": "CRSDECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.corporacionsantander.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRSDECE1XXX"
 }

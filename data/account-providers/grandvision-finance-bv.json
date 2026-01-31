@@ -8,7 +8,6 @@
   ],
   "name": "GRANDVISION FINANCE B.V.",
   "legalName": "GRANDVISION FINANCE B.V.",
-  "bic": "GVISNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.grandvisionfinancebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GVISNL2AXXX"
 }

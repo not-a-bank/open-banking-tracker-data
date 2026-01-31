@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET BANK EUROPE LTD.",
   "legalName": "STATE STREET BANK EUROPE LTD.",
-  "bic": "SBOSBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetbankeuropeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBOSBEB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SINOPIA FINANCIAL SERVICES SA",
   "legalName": "SINOPIA FINANCIAL SERVICES SA",
-  "bic": "SIFSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sinopiafinancialservicessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIFSFRP1XXX"
 }

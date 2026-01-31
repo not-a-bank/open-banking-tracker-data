@@ -8,7 +8,6 @@
   ],
   "name": "VALIANT BANK AG",
   "legalName": "VALIANT BANK AG",
-  "bic": "VABECH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.valiantbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VABECH22XXX"
 }

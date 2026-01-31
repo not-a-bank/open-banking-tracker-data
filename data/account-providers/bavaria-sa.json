@@ -8,7 +8,6 @@
   ],
   "name": "BAVARIA S.A.",
   "legalName": "BAVARIA S.A.",
-  "bic": "BAVRCOB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bavariasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAVRCOB1XXX"
 }

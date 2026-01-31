@@ -8,7 +8,6 @@
   ],
   "name": "BNY TRUST COMPANY LIMITED",
   "legalName": "BNY TRUST COMPANY LIMITED",
-  "bic": "BNTUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnytrustcompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNTUGB21XXX"
 }

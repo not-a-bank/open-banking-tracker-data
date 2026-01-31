@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE FOMENTO ANGOLA SA",
   "legalName": "BANCO DE FOMENTO ANGOLA SA",
-  "bic": "BFABAOL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodefomentoangolasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFABAOL1XXX"
 }

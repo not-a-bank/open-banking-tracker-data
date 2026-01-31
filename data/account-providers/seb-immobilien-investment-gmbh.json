@@ -8,7 +8,6 @@
   ],
   "name": "SEB IMMOBILIEN-INVESTMENT GMBH",
   "legalName": "SEB IMMOBILIEN-INVESTMENT GMBH",
-  "bic": "SEIKDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sebimmobilieninvestmentgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEIKDEF1XXX"
 }

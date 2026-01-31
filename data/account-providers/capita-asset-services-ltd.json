@@ -8,7 +8,6 @@
   ],
   "name": "CAPITA ASSET SERVICES LTD",
   "legalName": "CAPITA ASSET SERVICES LTD",
-  "bic": "CPAVGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitaassetservicesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPAVGB21XXX"
 }

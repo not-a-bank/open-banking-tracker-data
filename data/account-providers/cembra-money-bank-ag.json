@@ -8,7 +8,6 @@
   ],
   "name": "CEMBRA MONEY BANK AG",
   "legalName": "CEMBRA MONEY BANK AG",
-  "bic": "CMBNCHZHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cembramoneybankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMBNCHZHXXX"
 }

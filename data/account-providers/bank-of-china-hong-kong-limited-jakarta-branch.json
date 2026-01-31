@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China (hong Kong) Limited, Jakarta Branch",
   "legalName": "BANK OF CHINA (HONG KONG) LIMITED, JAKARTA BRANCH",
-  "bic": "BKCHIDJAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHIDJAXXX"
 }

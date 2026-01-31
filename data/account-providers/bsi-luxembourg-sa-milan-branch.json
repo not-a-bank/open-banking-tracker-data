@@ -8,7 +8,6 @@
   ],
   "name": "BSI LUXEMBOURG S.A., MILAN BRANCH",
   "legalName": "BSI LUXEMBOURG S.A., MILAN BRANCH",
-  "bic": "BSILITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bsiluxembourgsamilanbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSILITM1XXX"
 }

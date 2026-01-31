@@ -8,7 +8,6 @@
   ],
   "name": "ANZ SECURITIES LIMITED",
   "legalName": "ANZ SECURITIES LIMITED",
-  "bic": "ANZSAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anzsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZSAU31XXX"
 }

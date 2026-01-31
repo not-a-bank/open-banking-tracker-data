@@ -8,7 +8,6 @@
   ],
   "name": "MACQUARIE SECURITIES (THAILAND) LIMITED",
   "legalName": "MACQUARIE SECURITIES (THAILAND) LIMITED",
-  "bic": "IBSTTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macquariesecuritiesthailandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBSTTHB1XXX"
 }

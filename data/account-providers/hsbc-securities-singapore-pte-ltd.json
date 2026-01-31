@@ -8,7 +8,6 @@
   ],
   "name": "HSBC SECURITIES (SINGAPORE) PTE LTD",
   "legalName": "HSBC SECURITIES (SINGAPORE) PTE LTD",
-  "bic": "HJCSSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcsecuritiessingaporepteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HJCSSGSGXXX"
 }

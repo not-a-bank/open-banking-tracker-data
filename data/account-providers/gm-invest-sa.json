@@ -8,7 +8,6 @@
   ],
   "name": "G.M. INVEST S.A.",
   "legalName": "G.M. INVEST S.A.",
-  "bic": "IVTEROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gminvestsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVTEROB1XXX"
 }

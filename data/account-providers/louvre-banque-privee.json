@@ -1,0 +1,32 @@
+{
+  "id": "louvre-banque-privee",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Louvre Banque Privée",
+  "legalName": "Louvre Banque Privée",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.louvre-banque-privee.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "PREUFRP1XXX"
+}

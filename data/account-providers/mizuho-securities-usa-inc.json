@@ -8,7 +8,6 @@
   ],
   "name": "MIZUHO SECURITIES USA INC.",
   "legalName": "MIZUHO SECURITIES USA INC.",
-  "bic": "FUSUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mizuhosecuritiesusainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUSUGB21XXX"
 }

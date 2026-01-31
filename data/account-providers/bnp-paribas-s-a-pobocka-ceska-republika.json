@@ -8,7 +8,6 @@
   ],
   "name": "BNP Paribas S.a., Pobocka Ceska Republika",
   "legalName": "BNP PARIBAS S.A., POBOCKA CESKA REPUBLIKA",
-  "bic": "GEBACZPPXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEBACZPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT LYONNAIS SECURITIES PHILIPPINES INC",
   "legalName": "CREDIT LYONNAIS SECURITIES PHILIPPINES INC",
-  "bic": "CLSAPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditlyonnaissecuritiesphilippinesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLSAPHM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TOKYO FINANCIAL EXCHANGE INC.",
   "legalName": "TOKYO FINANCIAL EXCHANGE INC.",
-  "bic": "XTFFJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tokyofinancialexchangeinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XTFFJPJ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF NEW ZEALAND",
   "legalName": "BANK OF NEW ZEALAND",
-  "bic": "BKNZNZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofnewzealand.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKNZNZ22XXX"
 }

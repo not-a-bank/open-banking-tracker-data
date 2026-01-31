@@ -8,7 +8,6 @@
   ],
   "name": "EVRORASCHYOT BANK",
   "legalName": "EVRORASCHYOT BANK",
-  "bic": "EVRRRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.evroraschyotbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EVRRRUM1XXX"
 }

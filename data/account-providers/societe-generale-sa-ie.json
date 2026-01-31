@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE S.A.",
   "legalName": "SOCIETE GENERALE S.A.",
-  "bic": "SOGEIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralesaie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGEIE21XXX"
 }

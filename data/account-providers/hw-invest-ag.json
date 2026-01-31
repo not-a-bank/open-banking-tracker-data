@@ -8,7 +8,6 @@
   ],
   "name": "HW-INVEST AG",
   "legalName": "HW-INVEST AG",
-  "bic": "HWINDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hwinvestag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HWINDEM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ISAGEN S.A. E.S.P.",
   "legalName": "ISAGEN S.A. E.S.P.",
-  "bic": "ISGNCOBMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.isagensaesp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISGNCOBMXXX"
 }

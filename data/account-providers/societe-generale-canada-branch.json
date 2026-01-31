@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE (CANADA BRANCH)",
   "legalName": "SOCIETE GENERALE (CANADA BRANCH)",
-  "bic": "SOGECAMBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralecanadabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGECAMBXXX"
 }

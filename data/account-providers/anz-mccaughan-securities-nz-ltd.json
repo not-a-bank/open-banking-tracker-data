@@ -8,7 +8,6 @@
   ],
   "name": "ANZ MCCAUGHAN SECURITIES (NZ) LTD",
   "legalName": "ANZ MCCAUGHAN SECURITIES (NZ) LTD",
-  "bic": "AMCLNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anzmccaughansecuritiesnzltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMCLNZ21XXX"
 }

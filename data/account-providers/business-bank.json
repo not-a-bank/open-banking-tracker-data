@@ -8,7 +8,6 @@
   ],
   "name": "BUSINESS BANK",
   "legalName": "BUSINESS BANK",
-  "bic": "BUNEUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.businessbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BUNEUS61XXX"
 }

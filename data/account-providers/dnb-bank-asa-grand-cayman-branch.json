@@ -8,7 +8,6 @@
   ],
   "name": "DNB BANK ASA, GRAND CAYMAN BRANCH",
   "legalName": "DNB BANK ASA, GRAND CAYMAN BRANCH",
-  "bic": "DNBAKYKXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dnbbankasagrandcaymanbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNBAKYKXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCA POPOLARE DI SONDRIO",
   "legalName": "BANCA POPOLARE DI SONDRIO",
-  "bic": "POSOIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolaredisondrio.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POSOIT22XXX"
 }

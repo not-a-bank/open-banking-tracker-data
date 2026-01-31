@@ -8,7 +8,6 @@
   ],
   "name": "BOURSE DE CASABLANCA SA",
   "legalName": "BOURSE DE CASABLANCA SA",
-  "bic": "XCASMAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.boursedecasablancasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XCASMAM1XXX"
 }

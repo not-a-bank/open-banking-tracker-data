@@ -8,7 +8,6 @@
   ],
   "name": "LEGACY CAPITAL TRUST",
   "legalName": "LEGACY CAPITAL TRUST",
-  "bic": "LECTNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.legacycapitaltrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LECTNZ21XXX"
 }

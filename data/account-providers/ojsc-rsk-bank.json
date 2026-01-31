@@ -8,7 +8,6 @@
   ],
   "name": "OJSC RSK BANK",
   "legalName": "OJSC RSK BANK",
-  "bic": "SESVKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ojscrskbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SESVKG22XXX"
 }

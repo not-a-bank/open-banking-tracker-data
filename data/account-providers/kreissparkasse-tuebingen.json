@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse T\u00fcbingen",
-  "legalName": "Kreissparkasse T\u00fcbingen",
+  "name": "Kreissparkasse Tübingen",
+  "legalName": "Kreissparkasse Tübingen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-tuebingen.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

@@ -8,7 +8,6 @@
   ],
   "name": "MEGA-EURO BANKA",
   "legalName": "MEGA-EURO BANKA",
-  "bic": "MEGBRSB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.megaeurobanka.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEGBRSB1XXX"
 }

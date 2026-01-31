@@ -8,7 +8,6 @@
   ],
   "name": "POSTAL SAVINGS BANK JSC",
   "legalName": "POSTAL SAVINGS BANK JSC",
-  "bic": "SBPORSBGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.postalsavingsbankjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBPORSBGXXX"
 }

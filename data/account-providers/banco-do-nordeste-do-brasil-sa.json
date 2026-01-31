@@ -8,7 +8,6 @@
   ],
   "name": "Banco do Nordeste do Brasil",
   "legalName": "BANCO DO NORDESTE DO BRASIL S/A",
-  "bic": "BNBRBRCFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnb.gov.br.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": true,
-  "stockSymbol": "BNBR3"
+  "stockSymbol": "BNBR3",
+  "bic": "BNBRBRCFXXX"
 }

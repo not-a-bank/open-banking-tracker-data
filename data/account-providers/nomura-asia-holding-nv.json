@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA ASIA HOLDING N.V.",
   "legalName": "NOMURA ASIA HOLDING N.V.",
-  "bic": "NAHLNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomuraasiaholdingnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAHLNL2AXXX"
 }

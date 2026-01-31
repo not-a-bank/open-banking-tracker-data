@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF GUAM",
   "legalName": "BANK OF GUAM",
-  "bic": "GMBKUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofguamus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GMBKUS61XXX"
 }

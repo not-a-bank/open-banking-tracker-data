@@ -8,7 +8,6 @@
   ],
   "name": "Banque Nationale D'investissement",
   "legalName": "BANQUE NATIONALE D'INVESTISSEMENT",
-  "bic": "CSSSCIABXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSSSCIABXXX"
 }

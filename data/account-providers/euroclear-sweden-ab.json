@@ -8,7 +8,6 @@
   ],
   "name": "EUROCLEAR SWEDEN AB",
   "legalName": "EUROCLEAR SWEDEN AB",
-  "bic": "VPCSSESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euroclearswedenab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VPCSSESSXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PIELAVEDEN OSUUSPANKKI",
   "legalName": "PIELAVEDEN OSUUSPANKKI",
-  "bic": "PIOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pielavedenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PIOUFI21XXX"
 }

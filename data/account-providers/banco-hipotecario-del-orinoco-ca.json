@@ -8,7 +8,6 @@
   ],
   "name": "BANCO HIPOTECARIO DEL ORINOCO, C.A",
   "legalName": "BANCO HIPOTECARIO DEL ORINOCO, C.A",
-  "bic": "HBORVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancohipotecariodelorinococa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBORVEC1XXX"
 }

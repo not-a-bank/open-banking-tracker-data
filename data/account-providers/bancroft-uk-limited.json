@@ -8,7 +8,6 @@
   ],
   "name": "BANCROFT UK LIMITED",
   "legalName": "BANCROFT UK LIMITED",
-  "bic": "BARFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancroftuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARFGB21XXX"
 }

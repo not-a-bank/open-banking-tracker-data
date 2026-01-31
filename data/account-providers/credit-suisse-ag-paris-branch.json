@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE AG, PARIS BRANCH",
   "legalName": "CREDIT SUISSE AG, PARIS BRANCH",
-  "bic": "CRESFRPZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseagparisbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESFRPZXXX"
 }

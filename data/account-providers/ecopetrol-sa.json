@@ -8,7 +8,6 @@
   ],
   "name": "ECOPETROL S.A.",
   "legalName": "ECOPETROL S.A.",
-  "bic": "ECOPCOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecopetrolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOPCOBBXXX"
 }

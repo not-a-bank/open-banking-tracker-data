@@ -8,7 +8,6 @@
   ],
   "name": "IVY BANK (JOINT-STOCK COMPANY)",
   "legalName": "IVY BANK (JOINT-STOCK COMPANY)",
-  "bic": "KVJSRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ivybankjointstockcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KVJSRUM1XXX"
 }

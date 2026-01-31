@@ -9,7 +9,6 @@
   ],
   "name": "COVENTRY BUILDING SOCIETY",
   "legalName": "COVENTRY BUILDING SOCIETY",
-  "bic": "COBSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1606481118/icons/coventrybuildingsociety-uk.jpg",
@@ -74,5 +73,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBSGB21XXX"
 }

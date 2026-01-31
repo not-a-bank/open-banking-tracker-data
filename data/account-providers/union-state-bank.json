@@ -8,7 +8,6 @@
   ],
   "name": "UNION STATE BANK",
   "legalName": "UNION STATE BANK",
-  "bic": "USTBUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unionstatebank.com.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USTBUS31XXX"
 }

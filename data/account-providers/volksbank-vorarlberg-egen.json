@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK VORARLBERG E.GEN.",
   "legalName": "VOLKSBANK VORARLBERG E.GEN.",
-  "bic": "VOVBAT2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankvorarlbergegen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOVBAT2BXXX"
 }

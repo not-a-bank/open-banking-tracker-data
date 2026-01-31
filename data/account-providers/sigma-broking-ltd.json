@@ -8,7 +8,6 @@
   ],
   "name": "SIGMA BROKING LTD",
   "legalName": "SIGMA BROKING LTD",
-  "bic": "SIBGGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sigmabrokingltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIBGGB21XXX"
 }

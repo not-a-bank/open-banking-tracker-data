@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA INTERNATIONAL PLC",
   "legalName": "NOMURA INTERNATIONAL PLC",
-  "bic": "NOMAGB31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomurainternationalplcgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOMAGB31XXX"
 }

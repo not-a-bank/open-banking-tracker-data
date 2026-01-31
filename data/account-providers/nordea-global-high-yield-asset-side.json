@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA GLOBAL HIGH YIELD - ASSET SIDE",
   "legalName": "NORDEA GLOBAL HIGH YIELD - ASSET SIDE",
-  "bic": "NGHINOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaglobalhighyieldassetside.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NGHINOK1XXX"
 }

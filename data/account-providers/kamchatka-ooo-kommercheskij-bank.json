@@ -8,7 +8,6 @@
   ],
   "name": "KAMCHATKA, OOO KOMMERCHESKIJ BANK",
   "legalName": "KAMCHATKA, OOO KOMMERCHESKIJ BANK",
-  "bic": "KAMHRUP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kamchatkaoookommercheskijbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAMHRUP1XXX"
 }

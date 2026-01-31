@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER RIO S.A.",
   "legalName": "BANCO SANTANDER RIO S.A.",
-  "bic": "BSCHARBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantanderriosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHARBAXXX"
 }

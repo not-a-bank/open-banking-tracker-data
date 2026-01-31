@@ -8,7 +8,6 @@
   ],
   "name": "RBS (RD EUROPE) GMBH, AUSTRIA BRANCH",
   "legalName": "RBS (RD EUROPE) GMBH, AUSTRIA BRANCH",
-  "bic": "COCSATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbsrdeuropegmbhaustriabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COCSATW1XXX"
 }

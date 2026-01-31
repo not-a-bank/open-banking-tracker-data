@@ -9,7 +9,6 @@
   ],
   "name": "NORDFYNS BANK",
   "legalName": "NORDFYNS BANK",
-  "bic": "NSBKDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/f25d3797-f7a2-4b80-a478-a2e93a421e71/-/preview/170x170/-/crop/180x180/center/DK64865218.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "plaid",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSBKDK21"
 }

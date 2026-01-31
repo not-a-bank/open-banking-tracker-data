@@ -8,7 +8,6 @@
   ],
   "name": "VOSTSIBTRANSKOMBANK OAO",
   "legalName": "VOSTSIBTRANSKOMBANK OAO",
-  "bic": "VOOARU61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vostsibtranskombankoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOOARU61XXX"
 }

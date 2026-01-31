@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE CREDIT MUNICIPAL DE BOULOGNE-SUR-MER",
   "legalName": "CAISSE DE CREDIT MUNICIPAL DE BOULOGNE-SUR-MER",
-  "bic": "CMUBFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedecreditmunicipaldeboulognesurmer.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMUBFR21XXX"
 }

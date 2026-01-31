@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BROKING SERVICES (ASIA) LIMITED",
   "legalName": "HSBC BROKING SERVICES (ASIA) LIMITED",
-  "bic": "HCBSHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbrokingservicesasialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HCBSHKHHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HSBC FUND MANAGEMENT (MALTA) LIMITED",
   "legalName": "HSBC FUND MANAGEMENT (MALTA) LIMITED",
-  "bic": "HSFMMTM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcfundmanagementmaltalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSFMMTM1XXX"
 }

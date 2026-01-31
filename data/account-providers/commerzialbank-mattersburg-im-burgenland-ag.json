@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZIALBANK MATTERSBURG IM BURGENLAND AG",
   "legalName": "COMMERZIALBANK MATTERSBURG IM BURGENLAND AG",
-  "bic": "CBMUAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzialbankmattersburgimburgenlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBMUAT21XXX"
 }

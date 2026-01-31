@@ -8,7 +8,6 @@
   ],
   "name": "SCOTT AND STRINGFELLOW FINANCIAL INC.",
   "legalName": "SCOTT AND STRINGFELLOW FINANCIAL INC.",
-  "bic": "SCSTUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scottandstringfellowfinancialinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCSTUS31XXX"
 }

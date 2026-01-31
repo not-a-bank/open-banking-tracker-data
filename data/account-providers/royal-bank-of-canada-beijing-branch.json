@@ -8,7 +8,6 @@
   ],
   "name": "ROYAL BANK OF CANADA BEIJING BRANCH",
   "legalName": "ROYAL BANK OF CANADA BEIJING BRANCH",
-  "bic": "ROYCCNBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.royalbankofcanadabeijingbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROYCCNBJXXX"
 }

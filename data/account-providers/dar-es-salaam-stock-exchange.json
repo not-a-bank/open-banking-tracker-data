@@ -8,7 +8,6 @@
   ],
   "name": "DAR ES SALAAM STOCK EXCHANGE",
   "legalName": "DAR ES SALAAM STOCK EXCHANGE",
-  "bic": "DSTXTZTZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daressalaamstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DSTXTZTZXXX"
 }

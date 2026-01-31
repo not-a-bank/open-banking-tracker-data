@@ -8,7 +8,6 @@
   ],
   "name": "ACSM-AGAM SPA",
   "legalName": "ACSM-AGAM SPA",
-  "bic": "ACSMIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.acsmagamspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACSMIT21XXX"
 }

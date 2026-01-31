@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE GIESSEN",
   "legalName": "SPARKASSE GIESSEN",
-  "bic": "SKGIDE5FXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassegiessen.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKGIDE5FXXX"
 }

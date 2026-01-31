@@ -8,7 +8,6 @@
   ],
   "name": "STADSHYPOTEK AB",
   "legalName": "STADSHYPOTEK AB",
-  "bic": "STAYSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stadshypotekab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STAYSES1XXX"
 }

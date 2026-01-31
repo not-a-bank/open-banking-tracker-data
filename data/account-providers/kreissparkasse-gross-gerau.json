@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse Gro\u00df-Gerau",
-  "legalName": "Kreissparkasse Gro\u00df-Gerau",
+  "name": "Kreissparkasse Groß-Gerau",
+  "legalName": "Kreissparkasse Groß-Gerau",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-gross-gerau.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

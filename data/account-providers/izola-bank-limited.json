@@ -8,7 +8,6 @@
   ],
   "name": "IZOLA BANK LIMITED",
   "legalName": "IZOLA BANK LIMITED",
-  "bic": "IZOLMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.izolabanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IZOLMTMTXXX"
 }

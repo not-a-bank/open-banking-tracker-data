@@ -8,7 +8,6 @@
   ],
   "name": "WESTERN UNION FINANCIAL SERVICES, INC.",
   "legalName": "WESTERN UNION FINANCIAL SERVICES, INC.",
-  "bic": "WUFSUS55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.westernunionfinancialservicesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WUFSUS55XXX"
 }

@@ -103,6 +103,7 @@
   "apiAggregators": [
     "bankingsdk",
     "equensworldline",
+    "gocardless",
     "ibanity",
     "tink"
   ],
@@ -134,5 +135,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "BKAUATWW"
 }

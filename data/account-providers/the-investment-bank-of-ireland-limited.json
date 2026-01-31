@@ -8,7 +8,6 @@
   ],
   "name": "THE INVESTMENT BANK OF IRELAND LIMITED",
   "legalName": "THE INVESTMENT BANK OF IRELAND LIMITED",
-  "bic": "IBIDIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theinvestmentbankofirelandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBIDIE21XXX"
 }

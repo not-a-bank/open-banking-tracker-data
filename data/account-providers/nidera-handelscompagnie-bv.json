@@ -8,7 +8,6 @@
   ],
   "name": "NIDERA HANDELSCOMPAGNIE BV",
   "legalName": "NIDERA HANDELSCOMPAGNIE BV",
-  "bic": "NIHNFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.niderahandelscompagniebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIHNFR21XXX"
 }

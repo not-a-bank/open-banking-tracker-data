@@ -8,7 +8,6 @@
   ],
   "name": "BANCO REGIONAL DO KEVE, SARL",
   "legalName": "BANCO REGIONAL DO KEVE, SARL",
-  "bic": "BRDKAOLUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoregionaldokevesarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRDKAOLUXXX"
 }

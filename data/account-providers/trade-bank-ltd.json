@@ -8,7 +8,6 @@
   ],
   "name": "TRADE BANK LTD.",
   "legalName": "TRADE BANK LTD.",
-  "bic": "TRADILI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tradebankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRADILI1XXX"
 }

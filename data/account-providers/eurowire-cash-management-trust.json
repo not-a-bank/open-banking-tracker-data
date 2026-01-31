@@ -8,7 +8,6 @@
   ],
   "name": "EUROWIRE CASH MANAGEMENT TRUST",
   "legalName": "EUROWIRE CASH MANAGEMENT TRUST",
-  "bic": "ECMTKNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurowirecashmanagementtrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECMTKNS1XXX"
 }

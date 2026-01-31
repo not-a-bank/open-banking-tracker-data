@@ -8,7 +8,6 @@
   ],
   "name": "Banco Original",
   "legalName": "BANCO ORIGINAL S.A.",
-  "bic": "BORIBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.original.com.br.ico",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BORIBRSPXXX"
 }

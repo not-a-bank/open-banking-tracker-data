@@ -8,7 +8,6 @@
   ],
   "name": "BANCA POPOLARE DI BERGAMO - CREDITO VARESINO",
   "legalName": "BANCA POPOLARE DI BERGAMO - CREDITO VARESINO",
-  "bic": "BEPOFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolaredibergamocreditovaresino.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEPOFR21XXX"
 }

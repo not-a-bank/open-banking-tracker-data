@@ -8,7 +8,6 @@
   ],
   "name": "FXINCBROKERS",
   "legalName": "FXINCBROKERS",
-  "bic": "FXINZAJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fxincbrokers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FXINZAJ1XXX"
 }

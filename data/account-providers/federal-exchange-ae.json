@@ -8,7 +8,6 @@
   ],
   "name": "FEDERAL EXCHANGE",
   "legalName": "FEDERAL EXCHANGE",
-  "bic": "FEDXAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.federalexchangeae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FEDXAEA1XXX"
 }

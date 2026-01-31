@@ -8,7 +8,6 @@
   ],
   "name": "SPAR- UND LEIHKASSE WYNIGEN",
   "legalName": "SPAR- UND LEIHKASSE WYNIGEN",
-  "bic": "SLWYCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparundleihkassewynigen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLWYCH21XXX"
 }

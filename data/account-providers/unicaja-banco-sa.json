@@ -8,7 +8,6 @@
   ],
   "name": "UNICAJA BANCO, S.A.",
   "legalName": "UNICAJA BANCO, S.A.",
-  "bic": "UCJAES2MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicajabancosa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UCJAES2M"
 }

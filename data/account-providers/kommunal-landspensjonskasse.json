@@ -8,7 +8,6 @@
   ],
   "name": "KOMMUNAL LANDSPENSJONSKASSE",
   "legalName": "KOMMUNAL LANDSPENSJONSKASSE",
-  "bic": "KOMLNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kommunallandspensjonskasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOMLNOK1XXX"
 }

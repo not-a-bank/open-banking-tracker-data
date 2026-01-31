@@ -8,7 +8,6 @@
   ],
   "name": "TAURUS PETROLEUM",
   "legalName": "TAURUS PETROLEUM",
-  "bic": "TPETCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tauruspetroleum.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TPETCHG1XXX"
 }

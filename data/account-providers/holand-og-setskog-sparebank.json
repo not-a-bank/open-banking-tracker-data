@@ -7,8 +7,8 @@
     "retail",
     "universal"
   ],
-  "name": "H\u00f8land og Setskog Sparebank",
-  "legalName": "H\u00f8land og Setskog Sparebank",
+  "name": "Høland og Setskog Sparebank",
+  "legalName": "Høland og Setskog Sparebank",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/fb5a2e1b-d594-47e8-852d-8ada81dfbcd1/-/preview/170x170/-/crop/180x180/center/NO937885822.png",
@@ -55,6 +55,7 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
@@ -62,5 +63,5 @@
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "HOLLNO21XXX"
+  "bic": "HOLLNO21"
 }

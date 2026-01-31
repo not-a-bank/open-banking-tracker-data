@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF ISRAEL",
   "legalName": "BANK OF ISRAEL",
-  "bic": "ISRAILIJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofisrael.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISRAILIJXXX"
 }

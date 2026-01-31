@@ -8,7 +8,6 @@
   ],
   "name": "ASR BANK N.V.",
   "legalName": "ASR BANK N.V.",
-  "bic": "ASRBNL2RXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asrbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASRBNL2RXXX"
 }

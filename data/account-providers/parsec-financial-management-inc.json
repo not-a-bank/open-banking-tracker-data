@@ -8,7 +8,6 @@
   ],
   "name": "PARSEC FINANCIAL MANAGEMENT, INC.",
   "legalName": "PARSEC FINANCIAL MANAGEMENT, INC.",
-  "bic": "PAFMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.parsecfinancialmanagementinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAFMUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "LOXAM HOLDING",
   "legalName": "LOXAM HOLDING",
-  "bic": "LOXAFR2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.loxamholding.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOXAFR2XXXX"
 }

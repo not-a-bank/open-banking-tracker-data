@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH COMMODITIES INC",
   "legalName": "MERRILL LYNCH COMMODITIES INC",
-  "bic": "MELDUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchcommoditiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MELDUS41XXX"
 }

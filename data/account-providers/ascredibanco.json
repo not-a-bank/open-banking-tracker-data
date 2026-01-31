@@ -8,7 +8,6 @@
   ],
   "name": "ASCREDIBANCO",
   "legalName": "ASCREDIBANCO",
-  "bic": "ASCRCOB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ascredibanco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASCRCOB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GEFONSA SA AGENCIA DE VALORES",
   "legalName": "GEFONSA SA AGENCIA DE VALORES",
-  "bic": "GEAVESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gefonsasaagenciadevalores.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEAVESM1XXX"
 }

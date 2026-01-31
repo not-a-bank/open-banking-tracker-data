@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE BUNDESPERSONAL SKB, EFV",
   "legalName": "SPARKASSE BUNDESPERSONAL SKB, EFV",
-  "bic": "SKBPCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassebundespersonalskbefv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKBPCH22XXX"
 }

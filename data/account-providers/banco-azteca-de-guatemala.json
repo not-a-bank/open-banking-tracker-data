@@ -8,7 +8,6 @@
   ],
   "name": "BANCO AZTECA DE GUATEMALA",
   "legalName": "BANCO AZTECA DE GUATEMALA",
-  "bic": "AZTKGTGCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoaztecadeguatemala.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZTKGTGCXXX"
 }

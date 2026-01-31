@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Cyprus Public Company Limited",
   "legalName": "BANK OF CYPRUS PUBLIC COMPANY LIMITED",
-  "bic": "BCYPCY2N030",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCYPCY2N030"
 }

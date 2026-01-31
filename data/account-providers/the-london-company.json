@@ -8,7 +8,6 @@
   ],
   "name": "THE LONDON COMPANY",
   "legalName": "THE LONDON COMPANY",
-  "bic": "LOCPUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thelondoncompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOCPUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF LIBERIA",
   "legalName": "CENTRAL BANK OF LIBERIA",
-  "bic": "CBLRLRLMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankofliberialr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBLRLRLMXXX"
 }

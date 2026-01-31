@@ -8,7 +8,6 @@
   ],
   "name": "BAADER BANK AG",
   "legalName": "BAADER BANK AG",
-  "bic": "BDWBDEMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baaderbankagde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDWBDEMAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "STOCKTRADE BROKING LTD",
   "legalName": "STOCKTRADE BROKING LTD",
-  "bic": "STBOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stocktradebrokingltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBOGB21XXX"
 }

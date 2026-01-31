@@ -8,7 +8,6 @@
   ],
   "name": "PROMFINSERVIS BANK",
   "legalName": "PROMFINSERVIS BANK",
-  "bic": "PRFBRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.promfinservisbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRFBRU21XXX"
 }

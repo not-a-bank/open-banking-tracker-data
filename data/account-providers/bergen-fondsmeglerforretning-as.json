@@ -8,7 +8,6 @@
   ],
   "name": "BERGEN FONDSMEGLERFORRETNING A/S",
   "legalName": "BERGEN FONDSMEGLERFORRETNING A/S",
-  "bic": "BEFONOB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bergenfondsmeglerforretningas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEFONOB1XXX"
 }

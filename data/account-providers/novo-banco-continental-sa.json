@@ -8,7 +8,6 @@
   ],
   "name": "NOVO BANCO CONTINENTAL S.A.",
   "legalName": "NOVO BANCO CONTINENTAL S.A.",
-  "bic": "COMEBRRSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novobancocontinentalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COMEBRRSXXX"
 }

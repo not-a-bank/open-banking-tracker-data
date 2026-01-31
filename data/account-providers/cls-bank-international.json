@@ -8,7 +8,6 @@
   ],
   "name": "CLS BANK INTERNATIONAL",
   "legalName": "CLS BANK INTERNATIONAL",
-  "bic": "CLSBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clsbankinternational.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLSBUS33XXX"
 }

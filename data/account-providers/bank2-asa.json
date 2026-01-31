@@ -9,7 +9,6 @@
   ],
   "name": "BANK2 ASA",
   "legalName": "BANK2 ASA",
-  "bic": "BTWONOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/e887e329-af06-41d0-b857-2b532efb0854/-/preview/170x170/-/crop/180x180/center/NO988257133.png",
@@ -60,5 +59,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTWONOK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MERTON SECURITIES LTD",
   "legalName": "MERTON SECURITIES LTD",
-  "bic": "MESUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mertonsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MESUGB21XXX"
 }

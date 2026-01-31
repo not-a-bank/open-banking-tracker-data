@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT FONCIER ET COMMUNAL D'ALSACE ET DE LORRAINE BANQUE S.A.",
   "legalName": "CREDIT FONCIER ET COMMUNAL D'ALSACE ET DE LORRAINE BANQUE S.A.",
-  "bic": "CFODFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditfoncieretcommunaldalsaceetdelorraine.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFODFR21XXX"
 }

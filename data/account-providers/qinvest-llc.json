@@ -8,7 +8,6 @@
   ],
   "name": "QINVEST LLC",
   "legalName": "QINVEST LLC",
-  "bic": "QINVQAQAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qinvestllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QINVQAQAXXX"
 }

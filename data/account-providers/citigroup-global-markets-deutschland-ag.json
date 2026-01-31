@@ -8,7 +8,6 @@
   ],
   "name": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
   "legalName": "CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG",
-  "bic": "CITIDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citigroupglobalmarketsdeutschlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIDEFFXXX"
 }

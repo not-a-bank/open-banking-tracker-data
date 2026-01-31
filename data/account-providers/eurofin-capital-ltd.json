@@ -8,7 +8,6 @@
   ],
   "name": "EUROFIN CAPITAL LTD",
   "legalName": "EUROFIN CAPITAL LTD",
-  "bic": "EUCLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurofincapitalltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUCLGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANKUNITED N.A",
   "legalName": "BANKUNITED N.A",
-  "bic": "BUFBUS3MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankunitedna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BUFBUS3MXXX"
 }

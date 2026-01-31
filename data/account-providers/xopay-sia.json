@@ -8,7 +8,6 @@
   ],
   "name": "XOPAY, SIA",
   "legalName": "XOPAY, SIA",
-  "bic": "OPAYLV21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.xopaysia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPAYLV21XXX"
 }

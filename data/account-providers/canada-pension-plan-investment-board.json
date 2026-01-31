@@ -8,7 +8,6 @@
   ],
   "name": "CANADA PENSION PLAN INVESTMENT BOARD",
   "legalName": "CANADA PENSION PLAN INVESTMENT BOARD",
-  "bic": "CPPBCATAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.canadapensionplaninvestmentboard.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPPBCATAXXX"
 }

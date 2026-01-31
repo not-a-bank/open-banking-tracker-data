@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE ALCYON",
   "legalName": "BANQUE ALCYON",
-  "bic": "ALCYFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquealcyon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALCYFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
   "legalName": "JSCB 'MOSCOW INDUSTRIAL BANK' PC",
-  "bic": "MINNRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jscbmoscowindustrialbankpc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MINNRUM1XXX"
 }

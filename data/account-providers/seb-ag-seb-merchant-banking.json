@@ -8,7 +8,6 @@
   ],
   "name": "SEB AG SEB MERCHANT BANKING",
   "legalName": "SEB AG SEB MERCHANT BANKING",
-  "bic": "ESSEDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sebagsebmerchantbanking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESSEDEFFXXX"
 }

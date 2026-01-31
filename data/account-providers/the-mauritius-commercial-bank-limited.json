@@ -8,7 +8,6 @@
   ],
   "name": "THE MAURITIUS COMMERCIAL BANK LIMITED",
   "legalName": "THE MAURITIUS COMMERCIAL BANK LIMITED",
-  "bic": "MCBLMUMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.themauritiuscommercialbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCBLMUMUXXX"
 }

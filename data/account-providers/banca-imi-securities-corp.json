@@ -8,7 +8,6 @@
   ],
   "name": "BANCA IMI SECURITIES CORP.",
   "legalName": "BANCA IMI SECURITIES CORP.",
-  "bic": "BIMIUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaimisecuritiescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIMIUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORTH AMERICAN DEVELOPMENT BANK",
   "legalName": "NORTH AMERICAN DEVELOPMENT BANK",
-  "bic": "NADBUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.northamericandevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NADBUS44XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BURGAN BANK A.S.",
   "legalName": "BURGAN BANK A.S.",
-  "bic": "TEKFTRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.burganbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEKFTRISXXX"
 }

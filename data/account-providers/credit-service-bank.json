@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT-SERVICE BANK",
   "legalName": "CREDIT-SERVICE BANK",
-  "bic": "CRDTAM21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditservicebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRDTAM21XXX"
 }

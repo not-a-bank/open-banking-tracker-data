@@ -8,7 +8,6 @@
   ],
   "name": "INTESA SANPAOLO BANK IRELAND PLC",
   "legalName": "INTESA SANPAOLO BANK IRELAND PLC",
-  "bic": "BCITIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intesasanpaolobankirelandplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCITIE2DXXX"
 }

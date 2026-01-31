@@ -8,7 +8,6 @@
   ],
   "name": "WASHINGTON SECURITIES BANCOR TRUST INC.",
   "legalName": "WASHINGTON SECURITIES BANCOR TRUST INC.",
-  "bic": "WSBTUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.washingtonsecuritiesbancortrustinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WSBTUS31XXX"
 }

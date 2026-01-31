@@ -8,7 +8,6 @@
   ],
   "name": "ALLIANCEBERNSTEIN LIMITED",
   "legalName": "ALLIANCEBERNSTEIN LIMITED",
-  "bic": "ALLCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alliancebernsteinlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALLCGB21XXX"
 }

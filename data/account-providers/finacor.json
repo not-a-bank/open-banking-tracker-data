@@ -8,7 +8,6 @@
   ],
   "name": "FINACOR",
   "legalName": "FINACOR",
-  "bic": "FINRBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finacor.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FINRBEB1XXX"
 }

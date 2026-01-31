@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK TRUST",
   "legalName": "NATIONAL BANK TRUST",
-  "bic": "NBTRRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbanktrustru.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBTRRUMMXXX"
 }

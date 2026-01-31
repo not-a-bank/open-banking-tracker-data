@@ -8,7 +8,6 @@
   ],
   "name": "FUKUOKA STOCK EXCHANGE",
   "legalName": "FUKUOKA STOCK EXCHANGE",
-  "bic": "XFKAJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fukuokastockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XFKAJPJ1XXX"
 }

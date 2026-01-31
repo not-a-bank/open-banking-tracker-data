@@ -8,7 +8,6 @@
   ],
   "name": "KREDITECH HOLDING SSL GMBH",
   "legalName": "KREDITECH HOLDING SSL GMBH",
-  "bic": "KRDTDEHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreditechholdingsslgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRDTDEHHXXX"
 }

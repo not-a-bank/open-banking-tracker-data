@@ -8,7 +8,6 @@
   ],
   "name": "NIKKO CAPITAL MANAGEMENT (UK) LIMITED",
   "legalName": "NIKKO CAPITAL MANAGEMENT (UK) LIMITED",
-  "bic": "NICNGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nikkocapitalmanagementuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NICNGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SIMCREDIT",
   "legalName": "SIMCREDIT",
-  "bic": "SDITITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.simcredit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SDITITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH PIERCE FENNER SMITH SA",
   "legalName": "MERRILL LYNCH PIERCE FENNER SMITH SA",
-  "bic": "MLPEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchpiercefennersmithsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLPEFRP1XXX"
 }

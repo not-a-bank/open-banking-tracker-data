@@ -8,7 +8,6 @@
   ],
   "name": "INVESCO GLOBAL INVESTMENT FUNDS LIMITED",
   "legalName": "INVESCO GLOBAL INVESTMENT FUNDS LIMITED",
-  "bic": "IGIFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invescoglobalinvestmentfundslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IGIFGB21XXX"
 }

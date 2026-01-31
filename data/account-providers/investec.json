@@ -145,6 +145,7 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "tink"
   ],
@@ -175,5 +176,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "IVESGB2L"
 }

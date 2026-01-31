@@ -8,7 +8,6 @@
   ],
   "name": "BANCOLOMBIA SUCURSAL PANAMA",
   "legalName": "BANCOLOMBIA SUCURSAL PANAMA",
-  "bic": "COLOPAPSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancolombiasucursalpanama.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COLOPAPSXXX"
 }

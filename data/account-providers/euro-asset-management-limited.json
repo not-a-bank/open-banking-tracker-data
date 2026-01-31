@@ -8,7 +8,6 @@
   ],
   "name": "EURO ASSET MANAGEMENT LIMITED",
   "legalName": "EURO ASSET MANAGEMENT LIMITED",
-  "bic": "EUANGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euroassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUANGB21XXX"
 }

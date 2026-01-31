@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK INTERNATIONAL LIMITED",
   "legalName": "CITIBANK INTERNATIONAL LIMITED",
-  "bic": "CITTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankinternationallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITTGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KREDITANSTALT GRABS",
   "legalName": "KREDITANSTALT GRABS",
-  "bic": "KGRACH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreditanstaltgrabs.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KGRACH21XXX"
 }

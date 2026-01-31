@@ -8,7 +8,6 @@
   ],
   "name": "CARL ZEISS FINANCIAL SERVICES GMBH",
   "legalName": "CARL ZEISS FINANCIAL SERVICES GMBH",
-  "bic": "ZEISDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.carlzeissfinancialservicesgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZEISDE66XXX"
 }

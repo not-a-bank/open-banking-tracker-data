@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE HYPO LONDON BRANCH",
   "legalName": "DEUTSCHE HYPO LONDON BRANCH",
-  "bic": "DEHYGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschehypolondonbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEHYGB21XXX"
 }

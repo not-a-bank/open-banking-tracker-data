@@ -8,7 +8,6 @@
   ],
   "name": "MERITUM SECURITIES PLC",
   "legalName": "MERITUM SECURITIES PLC",
-  "bic": "MEEIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.meritumsecuritiesplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEEIGB21XXX"
 }

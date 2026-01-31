@@ -8,7 +8,6 @@
   ],
   "name": "BEVERLY BANK AND TRUST COMPANY",
   "legalName": "BEVERLY BANK AND TRUST COMPANY",
-  "bic": "BEVBUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.beverlybankandtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEVBUS44XXX"
 }

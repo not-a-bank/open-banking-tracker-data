@@ -8,7 +8,6 @@
   ],
   "name": "FERROVIAL S.A.",
   "legalName": "FERROVIAL S.A.",
-  "bic": "FERRESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ferrovialsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FERRESM1XXX"
 }

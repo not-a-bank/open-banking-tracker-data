@@ -8,7 +8,6 @@
   ],
   "name": "SCHAFFHAUSER KANTONALBANK",
   "legalName": "SCHAFFHAUSER KANTONALBANK",
-  "bic": "SHKBCH2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schaffhauserkantonalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHKBCH2SXXX"
 }

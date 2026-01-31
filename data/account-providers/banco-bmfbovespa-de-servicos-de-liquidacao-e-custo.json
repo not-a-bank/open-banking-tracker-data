@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BMFBOVESPA DE SERVICOS DE LIQUIDACAO E CUSTODIA S.A.",
   "legalName": "BANCO BMFBOVESPA DE SERVICOS DE LIQUIDACAO E CUSTODIA S.A.",
-  "bic": "BBMFBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobmfbovespadeservicosdeliquidacaoecusto.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBMFBRSPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SPARDA-BANK WEST EG",
   "legalName": "SPARDA-BANK WEST EG",
-  "bic": "SPBKDEDDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spardabankwestegde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPBKDEDDXXX"
 }

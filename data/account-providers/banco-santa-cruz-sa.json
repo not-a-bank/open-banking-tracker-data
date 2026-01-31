@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTA CRUZ S.A.",
   "legalName": "BANCO SANTA CRUZ S.A.",
-  "bic": "BSCHBO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantacruzsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHBO21XXX"
 }

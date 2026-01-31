@@ -8,7 +8,6 @@
   ],
   "name": "AFRILAND FIRST BANK STP",
   "legalName": "AFRILAND FIRST BANK STP",
-  "bic": "AFFSSTSTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.afrilandfirstbankstp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFFSSTSTXXX"
 }

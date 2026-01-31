@@ -8,7 +8,6 @@
   ],
   "name": "HSBC INTERNATIONAL FINANCE CORPORATION (DELAWARE)",
   "legalName": "HSBC INTERNATIONAL FINANCE CORPORATION (DELAWARE)",
-  "bic": "HSDEUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcinternationalfinancecorporationdelaware.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSDEUS33XXX"
 }

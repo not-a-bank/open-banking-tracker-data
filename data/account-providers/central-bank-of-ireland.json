@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF IRELAND",
   "legalName": "CENTRAL BANK OF IRELAND",
-  "bic": "IRCEIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankofireland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRCEIE21XXX"
 }

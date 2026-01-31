@@ -8,7 +8,6 @@
   ],
   "name": "BANK INDUSTRI MALAYSIA BERHAD",
   "legalName": "BANK INDUSTRI MALAYSIA BERHAD",
-  "bic": "BKIMMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankindustrimalaysiaberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKIMMYK1XXX"
 }

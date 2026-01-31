@@ -8,7 +8,6 @@
   ],
   "name": "STICHTING PENSIOENFONDS GAZELLE",
   "legalName": "STICHTING PENSIOENFONDS GAZELLE",
-  "bic": "STEZNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stichtingpensioenfondsgazelle.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STEZNL21XXX"
 }

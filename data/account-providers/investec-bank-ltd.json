@@ -8,7 +8,6 @@
   ],
   "name": "INVESTEC BANK LTD.",
   "legalName": "INVESTEC BANK LTD.",
-  "bic": "IVESZAJJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investecbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVESZAJJXXX"
 }

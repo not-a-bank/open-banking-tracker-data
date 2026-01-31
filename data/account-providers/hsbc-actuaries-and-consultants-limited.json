@@ -8,7 +8,6 @@
   ],
   "name": "HSBC ACTUARIES AND CONSULTANTS LIMITED",
   "legalName": "HSBC ACTUARIES AND CONSULTANTS LIMITED",
-  "bic": "HSACGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcactuariesandconsultantslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSACGB21XXX"
 }

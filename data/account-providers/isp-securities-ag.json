@@ -8,7 +8,6 @@
   ],
   "name": "ISP SECURITIES AG",
   "legalName": "ISP SECURITIES AG",
-  "bic": "PLESCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ispsecuritiesag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLESCHZZXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FISKE PLC",
   "legalName": "FISKE PLC",
-  "bic": "FISKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fiskeplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FISKGB21XXX"
 }

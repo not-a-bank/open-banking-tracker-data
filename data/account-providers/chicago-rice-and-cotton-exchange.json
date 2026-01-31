@@ -8,7 +8,6 @@
   ],
   "name": "CHICAGO RICE AND COTTON EXCHANGE",
   "legalName": "CHICAGO RICE AND COTTON EXCHANGE",
-  "bic": "XCRCUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chicagoriceandcottonexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XCRCUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO LAFISE PANAMA",
   "legalName": "BANCO LAFISE PANAMA",
-  "bic": "BCCEPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancolafisepanama.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCCEPAPAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK BH D.D., SARAJEVO",
   "legalName": "SBERBANK BH D.D., SARAJEVO",
-  "bic": "SABRBA22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbankbhddsarajevo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABRBA22XXX"
 }

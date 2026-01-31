@@ -8,7 +8,6 @@
   ],
   "name": "KALANNIN SAASTOPANKKI",
   "legalName": "KALANNIN SAASTOPANKKI",
-  "bic": "KALAFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kalanninsaastopankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KALAFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AB OAO 'KUZNETSKBIZNESBANK'",
   "legalName": "AB OAO 'KUZNETSKBIZNESBANK'",
-  "bic": "KZBURU51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aboaokuznetskbiznesbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KZBURU51XXX"
 }

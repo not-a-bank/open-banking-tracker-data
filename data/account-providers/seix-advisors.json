@@ -8,7 +8,6 @@
   ],
   "name": "SEIX ADVISORS",
   "legalName": "SEIX ADVISORS",
-  "bic": "SEIXUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.seixadvisors.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEIXUS31XXX"
 }

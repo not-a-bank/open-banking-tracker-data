@@ -8,7 +8,6 @@
   ],
   "name": "NILE BANK LTD",
   "legalName": "NILE BANK LTD",
-  "bic": "NLBKUGK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nilebankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NLBKUGK1XXX"
 }

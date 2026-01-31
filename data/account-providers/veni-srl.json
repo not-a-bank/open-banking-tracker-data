@@ -8,7 +8,6 @@
   ],
   "name": "VENI SRL",
   "legalName": "VENI SRL",
-  "bic": "VNSRIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.venisrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VNSRIT21XXX"
 }

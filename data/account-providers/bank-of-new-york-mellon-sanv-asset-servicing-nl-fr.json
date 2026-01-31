@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF NEW YORK MELLON SA/NV ASSET SERVICING, NL FRANKFURT",
   "legalName": "BANK OF NEW YORK MELLON SA/NV ASSET SERVICING, NL FRANKFURT",
-  "bic": "BNYMDEFXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofnewyorkmellonsanvassetservicingnlfr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNYMDEFXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bestseller A/S",
   "legalName": "BESTSELLER A/S",
-  "bic": "BESTDK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bestselleras.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BESTDK22XXX"
 }

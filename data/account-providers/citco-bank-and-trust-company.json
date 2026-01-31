@@ -8,7 +8,6 @@
   ],
   "name": "CITCO BANK AND TRUST COMPANY",
   "legalName": "CITCO BANK AND TRUST COMPANY",
-  "bic": "CITCKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citcobankandtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITCKYKYXXX"
 }

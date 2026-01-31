@@ -8,7 +8,6 @@
   ],
   "name": "Unicredit Bank A.d. Banja Luka (former Nova Banjalucka Banka A.d. Banja Luka)",
   "legalName": "UNICREDIT BANK A.D. BANJA LUKA (FORMER NOVA BANJALUCKA BANKA A.D. BANJA LUKA)",
-  "bic": "BLBABA22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLBABA22XXX"
 }

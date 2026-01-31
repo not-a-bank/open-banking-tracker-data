@@ -8,7 +8,6 @@
   ],
   "name": "NIPPON SECURITIES",
   "legalName": "NIPPON SECURITIES",
-  "bic": "NISEJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nipponsecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NISEJPJ1XXX"
 }

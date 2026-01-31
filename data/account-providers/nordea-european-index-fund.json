@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA EUROPEAN INDEX FUND",
   "legalName": "NORDEA EUROPEAN INDEX FUND",
-  "bic": "NEIFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaeuropeanindexfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEIFFIH1XXX"
 }

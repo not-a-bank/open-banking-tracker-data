@@ -8,7 +8,6 @@
   ],
   "name": "FIMALAC",
   "legalName": "FIMALAC",
-  "bic": "FMMLFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fimalac.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMMLFRP1XXX"
 }

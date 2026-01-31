@@ -8,7 +8,6 @@
   ],
   "name": "RIALTO SPV S.R.L.",
   "legalName": "RIALTO SPV S.R.L.",
-  "bic": "RISRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rialtospvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RISRITM1XXX"
 }

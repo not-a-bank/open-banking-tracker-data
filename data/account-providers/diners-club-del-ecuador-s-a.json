@@ -8,7 +8,6 @@
   ],
   "name": "Diners Club DEL Ecuador S.a.",
   "legalName": "DINERS CLUB DEL ECUADOR S.A.",
-  "bic": "DICDECEQXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DICDECEQXXX"
 }

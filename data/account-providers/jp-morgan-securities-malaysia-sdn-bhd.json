@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN SECURITIES (MALAYSIA) SDN BHD",
   "legalName": "J.P. MORGAN SECURITIES (MALAYSIA) SDN BHD",
-  "bic": "CHASMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorgansecuritiesmalaysiasdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASMY21XXX"
 }

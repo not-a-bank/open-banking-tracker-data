@@ -8,7 +8,6 @@
   ],
   "name": "BANCA MONTE DEI PASCHI DI SIENA SPA HONG KONG",
   "legalName": "BANCA MONTE DEI PASCHI DI SIENA SPA HONG KONG",
-  "bic": "PASCHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancamontedeipaschidisienaspahongkong.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PASCHKHHXXX"
 }

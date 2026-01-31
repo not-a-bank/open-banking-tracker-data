@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK (SREDNERUSSKY HEAD OFFICE)",
   "legalName": "SBERBANK (SREDNERUSSKY HEAD OFFICE)",
-  "bic": "SABRRUM3XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbanksrednerusskyheadoffice.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABRRUM3XXX"
 }

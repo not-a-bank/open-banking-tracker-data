@@ -8,7 +8,6 @@
   ],
   "name": "ATHEXCLEAR",
   "legalName": "ATHEXCLEAR",
-  "bic": "ATHCGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.athexclear.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATHCGRA1XXX"
 }

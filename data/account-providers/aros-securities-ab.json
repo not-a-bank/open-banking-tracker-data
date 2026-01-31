@@ -8,7 +8,6 @@
   ],
   "name": "AROS SECURITIES AB",
   "legalName": "AROS SECURITIES AB",
-  "bic": "ARSCSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arossecuritiesab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARSCSES1XXX"
 }

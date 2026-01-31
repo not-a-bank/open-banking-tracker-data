@@ -8,7 +8,6 @@
   ],
   "name": "ICELANDIC SECURITIES LTD.",
   "legalName": "ICELANDIC SECURITIES LTD.",
-  "bic": "ICSCISR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icelandicsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICSCISR1XXX"
 }

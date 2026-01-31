@@ -8,7 +8,6 @@
   ],
   "name": "GENERALI BELGIUM",
   "legalName": "GENERALI BELGIUM",
-  "bic": "GEBEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.generalibelgium.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEBEFRP1XXX"
 }

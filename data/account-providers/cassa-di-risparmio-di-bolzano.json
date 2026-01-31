@@ -30,8 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "salt-edge"
   ],
-  "swiftCode": "CRBZIT2BXXX"
+  "bic": "CRBZIT2BXXX"
 }

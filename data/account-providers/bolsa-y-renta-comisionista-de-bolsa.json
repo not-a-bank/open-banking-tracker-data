@@ -8,7 +8,6 @@
   ],
   "name": "BOLSA Y RENTA COMISIONISTA DE BOLSA",
   "legalName": "BOLSA Y RENTA COMISIONISTA DE BOLSA",
-  "bic": "BRMBCOB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bolsayrentacomisionistadebolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRMBCOB1XXX"
 }

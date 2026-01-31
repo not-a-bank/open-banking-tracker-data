@@ -8,7 +8,6 @@
   ],
   "name": "ATR-KIM ENG SECURITIES, INC",
   "legalName": "ATR-KIM ENG SECURITIES, INC",
-  "bic": "ATSCPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.atrkimengsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATSCPHM1XXX"
 }

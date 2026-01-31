@@ -8,7 +8,6 @@
   ],
   "name": "WACKER CHEMIE AG",
   "legalName": "WACKER CHEMIE AG",
-  "bic": "WACKDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wackerchemieag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WACKDEM1XXX"
 }

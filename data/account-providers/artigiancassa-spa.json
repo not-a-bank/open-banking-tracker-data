@@ -8,7 +8,6 @@
   ],
   "name": "ARTIGIANCASSA SPA",
   "legalName": "ARTIGIANCASSA SPA",
-  "bic": "ARTCITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.artigiancassaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARTCITR1XXX"
 }

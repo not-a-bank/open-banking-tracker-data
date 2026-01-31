@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL COTE D'ARMOR",
   "legalName": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL COTE D'ARMOR",
-  "bic": "CEIGFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionaledecreditagricolemutuelcoteda.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEIGFR21XXX"
 }

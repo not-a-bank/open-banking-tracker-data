@@ -8,7 +8,6 @@
   ],
   "name": "CHICAGO CAPITAL MARKETS LLC",
   "legalName": "CHICAGO CAPITAL MARKETS LLC",
-  "bic": "CCKCUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chicagocapitalmarketsllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCKCUS41XXX"
 }

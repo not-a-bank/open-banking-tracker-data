@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Sprockh\u00f6vel",
-  "legalName": "Volksbank Sprockh\u00f6vel",
+  "name": "Volksbank Sprockhövel",
+  "legalName": "Volksbank Sprockhövel",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-sprockhoevel.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

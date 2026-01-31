@@ -8,7 +8,6 @@
   ],
   "name": "MS BIOTECH S.P.A.",
   "legalName": "MS BIOTECH S.P.A.",
-  "bic": "BIOCIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.msbiotechspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIOCIT31XXX"
 }

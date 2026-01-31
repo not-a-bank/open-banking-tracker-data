@@ -8,7 +8,6 @@
   ],
   "name": "BAI SIM",
   "legalName": "BAI SIM",
-  "bic": "SIMBITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baisim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIMBITM1XXX"
 }

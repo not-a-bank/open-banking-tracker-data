@@ -8,7 +8,6 @@
   ],
   "name": "CHRISTIANIA SECURITIES AS",
   "legalName": "CHRISTIANIA SECURITIES AS",
-  "bic": "CHUANOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.christianiasecuritiesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHUANOK1XXX"
 }

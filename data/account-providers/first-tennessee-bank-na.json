@@ -8,7 +8,6 @@
   ],
   "name": "FIRST TENNESSEE BANK N.A.",
   "legalName": "FIRST TENNESSEE BANK N.A.",
-  "bic": "FTBMUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firsttennesseebankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTBMUS44XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KYRON SEUDUN OSUUSPANKKI",
   "legalName": "KYRON SEUDUN OSUUSPANKKI",
-  "bic": "KYSOFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kyronseudunosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KYSOFI21XXX"
 }

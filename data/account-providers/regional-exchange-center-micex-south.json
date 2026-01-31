@@ -8,7 +8,6 @@
   ],
   "name": "REGIONAL EXCHANGE CENTER MICEX-SOUTH",
   "legalName": "REGIONAL EXCHANGE CENTER MICEX-SOUTH",
-  "bic": "XROVRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.regionalexchangecentermicexsouth.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XROVRU21XXX"
 }

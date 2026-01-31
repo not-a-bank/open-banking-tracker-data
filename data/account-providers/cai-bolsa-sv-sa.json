@@ -8,7 +8,6 @@
   ],
   "name": "CAI BOLSA S.V., S.A.",
   "legalName": "CAI BOLSA S.V., S.A.",
-  "bic": "CAOLES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caibolsasvsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAOLES21XXX"
 }

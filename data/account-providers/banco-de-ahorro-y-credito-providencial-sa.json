@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE AHORRO Y CREDITO PROVIDENCIAL, S.A.",
   "legalName": "BANCO DE AHORRO Y CREDITO PROVIDENCIAL, S.A.",
-  "bic": "AHCPDOS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodeahorroycreditoprovidencialsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AHCPDOS1XXX"
 }

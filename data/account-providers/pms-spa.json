@@ -8,7 +8,6 @@
   ],
   "name": "PMS SPA",
   "legalName": "PMS SPA",
-  "bic": "PMSSITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pmsspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PMSSITR1XXX"
 }

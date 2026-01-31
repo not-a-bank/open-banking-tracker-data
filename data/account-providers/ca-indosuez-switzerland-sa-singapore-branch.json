@@ -8,7 +8,6 @@
   ],
   "name": "CA INDOSUEZ (SWITZERLAND) SA, SINGAPORE BRANCH",
   "legalName": "CA INDOSUEZ (SWITZERLAND) SA, SINGAPORE BRANCH",
-  "bic": "AGRISG2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caindosuezswitzerlandsasingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRISG2XXXX"
 }

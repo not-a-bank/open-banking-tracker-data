@@ -8,7 +8,6 @@
   ],
   "name": "KAF INVESTMENT BANK BERHAD",
   "legalName": "KAF INVESTMENT BANK BERHAD",
-  "bic": "KAFBMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kafinvestmentbankberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAFBMYKLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MAYBAN FINANCE BHD",
   "legalName": "MAYBAN FINANCE BHD",
-  "bic": "MFINMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maybanfinancebhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MFINMYK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DANSKE MORTGAGE BANK PLC",
   "legalName": "DANSKE MORTGAGE BANK PLC",
-  "bic": "DAKOFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.danskemortgagebankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAKOFIH1XXX"
 }

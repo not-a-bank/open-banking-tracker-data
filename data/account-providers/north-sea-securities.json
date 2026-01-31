@@ -8,7 +8,6 @@
   ],
   "name": "NORTH SEA SECURITIES",
   "legalName": "NORTH SEA SECURITIES",
-  "bic": "NOSSHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.northseasecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSSHKH1XXX"
 }

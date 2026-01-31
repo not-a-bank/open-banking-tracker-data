@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA AKTIEFONDEN VAERDEN",
   "legalName": "NORDEA AKTIEFONDEN VAERDEN",
-  "bic": "NOKAFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaaktiefondenvaerden.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOKAFIH1XXX"
 }

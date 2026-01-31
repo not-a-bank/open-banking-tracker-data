@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole de Franche-Comt\u00e9",
-  "legalName": "Cr\u00e9dit Agricole de Franche-Comt\u00e9",
+  "name": "Crédit Agricole de Franche-Comté",
+  "legalName": "Crédit Agricole de Franche-Comté",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-de-franche-comte.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

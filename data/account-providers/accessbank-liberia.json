@@ -8,7 +8,6 @@
   ],
   "name": "ACCESSBANK LIBERIA",
   "legalName": "ACCESSBANK LIBERIA",
-  "bic": "ACLILRLMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.accessbankliberia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACLILRLMXXX"
 }

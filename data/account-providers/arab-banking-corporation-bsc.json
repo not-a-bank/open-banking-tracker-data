@@ -8,7 +8,6 @@
   ],
   "name": "ARAB BANKING CORPORATION (B.S.C.)",
   "legalName": "ARAB BANKING CORPORATION (B.S.C.)",
-  "bic": "ABCOBHBMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arabbankingcorporationbsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABCOBHBMXXX"
 }

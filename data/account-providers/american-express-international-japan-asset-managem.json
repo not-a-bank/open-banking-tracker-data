@@ -8,7 +8,6 @@
   ],
   "name": "AMERICAN EXPRESS INTERNATIONAL JAPAN ASSET MANAGEMENT LTD",
   "legalName": "AMERICAN EXPRESS INTERNATIONAL JAPAN ASSET MANAGEMENT LTD",
-  "bic": "AMEXJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.americanexpressinternationaljapanassetmanagem.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMEXJPJ1XXX"
 }

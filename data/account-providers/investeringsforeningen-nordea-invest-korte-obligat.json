@@ -8,7 +8,6 @@
   ],
   "name": "INVESTERINGSFORENINGEN NORDEA INVEST KORTE OBLIGATIONER",
   "legalName": "INVESTERINGSFORENINGEN NORDEA INVEST KORTE OBLIGATIONER",
-  "bic": "IONKDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investeringsforeningennordeainvestkorteobligat.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IONKDKK1XXX"
 }

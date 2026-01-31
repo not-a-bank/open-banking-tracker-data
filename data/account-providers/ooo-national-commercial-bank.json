@@ -8,7 +8,6 @@
   ],
   "name": "OOO 'NATIONAL COMMERCIAL BANK'",
   "legalName": "OOO 'NATIONAL COMMERCIAL BANK'",
-  "bic": "NCOBRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ooonationalcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NCOBRUM1XXX"
 }

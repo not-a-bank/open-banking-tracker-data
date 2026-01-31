@@ -9,7 +9,6 @@
   ],
   "name": "BGL BNP PARIBAS",
   "legalName": "BGL BNP PARIBAS",
-  "bic": "BGLLLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1621818975/radar/icons/bgl-lu.jpg",
@@ -39,8 +38,9 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt",
-    "salt-edge"
+    "gocardless",
+    "salt-edge",
+    "volt"
   ],
   "ownership": [
     {
@@ -50,5 +50,6 @@
     }
   ],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGLLLULL"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO INDUSVAL S/A",
   "legalName": "BANCO INDUSVAL S/A",
-  "bic": "IDVLBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoindusvalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IDVLBRSPXXX"
 }

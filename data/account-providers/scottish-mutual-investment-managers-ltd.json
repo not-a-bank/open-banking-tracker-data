@@ -8,7 +8,6 @@
   ],
   "name": "SCOTTISH MUTUAL INVESTMENT MANAGERS LTD",
   "legalName": "SCOTTISH MUTUAL INVESTMENT MANAGERS LTD",
-  "bic": "SMIMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scottishmutualinvestmentmanagersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMIMGB21XXX"
 }

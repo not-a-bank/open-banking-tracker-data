@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE DEPOT ET DE GESTION",
   "legalName": "CAISSE DE DEPOT ET DE GESTION",
-  "bic": "CADGMAMRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissededepotetdegestion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CADGMAMRXXX"
 }

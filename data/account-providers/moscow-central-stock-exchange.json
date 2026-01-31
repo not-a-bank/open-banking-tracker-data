@@ -8,7 +8,6 @@
   ],
   "name": "MOSCOW CENTRAL STOCK EXCHANGE",
   "legalName": "MOSCOW CENTRAL STOCK EXCHANGE",
-  "bic": "XMOSRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.moscowcentralstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMOSRUM1XXX"
 }

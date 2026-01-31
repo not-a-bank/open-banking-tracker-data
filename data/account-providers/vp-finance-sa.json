@@ -8,7 +8,6 @@
   ],
   "name": "VP FINANCE SA",
   "legalName": "VP FINANCE SA",
-  "bic": "FNAAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vpfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNAAFRP1XXX"
 }

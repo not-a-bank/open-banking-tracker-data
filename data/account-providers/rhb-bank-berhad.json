@@ -8,7 +8,6 @@
   ],
   "name": "RHB BANK BERHAD",
   "legalName": "RHB BANK BERHAD",
-  "bic": "RHBBMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rhbbankberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RHBBMYKLXXX"
 }

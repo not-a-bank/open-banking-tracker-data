@@ -8,7 +8,6 @@
   ],
   "name": "USATEGI INVERSIONES SICAV SA",
   "legalName": "USATEGI INVERSIONES SICAV SA",
-  "bic": "USISESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.usategiinversionessicavsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USISESB1XXX"
 }

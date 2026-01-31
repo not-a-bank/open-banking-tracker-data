@@ -8,7 +8,6 @@
   ],
   "name": "WARWYCK PRIVATE BANK LTD",
   "legalName": "WARWYCK PRIVATE BANK LTD",
-  "bic": "WPBLMUMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.warwyckprivatebankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WPBLMUMUXXX"
 }

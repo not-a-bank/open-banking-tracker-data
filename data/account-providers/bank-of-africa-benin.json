@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Africa - Benin",
   "legalName": "BANK OF AFRICA - BENIN",
-  "bic": "AFRIBJBJXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFRIBJBJXXX"
 }

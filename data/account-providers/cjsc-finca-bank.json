@@ -8,7 +8,6 @@
   ],
   "name": "CJSC FINCA BANK",
   "legalName": "CJSC FINCA BANK",
-  "bic": "FBANKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cjscfincabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBANKG22XXX"
 }

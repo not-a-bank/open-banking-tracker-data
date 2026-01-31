@@ -8,7 +8,6 @@
   ],
   "name": "DEXIA FLOBAIL SA",
   "legalName": "DEXIA FLOBAIL SA",
-  "bic": "DEFOFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dexiaflobailsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEFOFRP1XXX"
 }

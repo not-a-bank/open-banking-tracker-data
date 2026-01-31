@@ -8,7 +8,6 @@
   ],
   "name": "RVO VERMOGENSADVIES B.V.",
   "legalName": "RVO VERMOGENSADVIES B.V.",
-  "bic": "RVOVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rvovermogensadviesbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RVOVNL21XXX"
 }

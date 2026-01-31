@@ -8,7 +8,6 @@
   ],
   "name": "HIFX CANADA INC",
   "legalName": "HIFX CANADA INC",
-  "bic": "HIFXCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hifxcanadainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HIFXCATTXXX"
 }

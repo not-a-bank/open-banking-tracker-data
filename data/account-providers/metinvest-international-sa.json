@@ -8,7 +8,6 @@
   ],
   "name": "METINVEST INTERNATIONAL S.A.",
   "legalName": "METINVEST INTERNATIONAL S.A.",
-  "bic": "METVCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.metinvestinternationalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "METVCHG1XXX"
 }

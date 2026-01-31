@@ -8,7 +8,6 @@
   ],
   "name": "EQUATORIAL CORPORATION PLC",
   "legalName": "EQUATORIAL CORPORATION PLC",
-  "bic": "EQTCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.equatorialcorporationplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EQTCGB21XXX"
 }

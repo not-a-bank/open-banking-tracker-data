@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIABANK (BRITISH VIRGIN ISLANDS) LTD.",
   "legalName": "SCOTIABANK (BRITISH VIRGIN ISLANDS) LTD.",
-  "bic": "NOSCVGVGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiabankbritishvirginislandsltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSCVGVGXXX"
 }

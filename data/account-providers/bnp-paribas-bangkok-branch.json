@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS BANGKOK BRANCH",
   "legalName": "BNP PARIBAS BANGKOK BRANCH",
-  "bic": "BNPATHBKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasbangkokbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPATHBKXXX"
 }

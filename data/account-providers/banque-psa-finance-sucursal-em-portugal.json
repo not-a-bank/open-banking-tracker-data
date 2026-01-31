@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE PSA FINANCE (SUCURSAL EM PORTUGAL)",
   "legalName": "BANQUE PSA FINANCE (SUCURSAL EM PORTUGAL)",
-  "bic": "PSABPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepsafinancesucursalemportugal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSABPTP1XXX"
 }

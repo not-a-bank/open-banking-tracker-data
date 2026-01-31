@@ -1,0 +1,32 @@
+{
+  "id": "garanti-bbva",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Garanti BBVA",
+  "legalName": "Garanti BBVA",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.garanti-bbva.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "RO",
+  "countries": [
+    "RO"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "UGBIROBU"
+}

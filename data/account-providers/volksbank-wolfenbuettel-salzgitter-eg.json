@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK WOLFENBUETTEL-SALZGITTER EG",
   "legalName": "VOLKSBANK WOLFENBUETTEL-SALZGITTER EG",
-  "bic": "VOWLDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankwolfenbuettelsalzgittereg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOWLDE21XXX"
 }

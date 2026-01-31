@@ -8,7 +8,6 @@
   ],
   "name": "UTAJARVEN OSUUSPANKKI",
   "legalName": "UTAJARVEN OSUUSPANKKI",
-  "bic": "UTOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.utajarvenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UTOSFI21XXX"
 }

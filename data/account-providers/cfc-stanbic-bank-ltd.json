@@ -8,7 +8,6 @@
   ],
   "name": "CFC STANBIC BANK LTD",
   "legalName": "CFC STANBIC BANK LTD",
-  "bic": "SBICSSJBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cfcstanbicbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBICSSJBXXX"
 }

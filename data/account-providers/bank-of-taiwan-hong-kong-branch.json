@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF TAIWAN, HONG KONG BRANCH",
   "legalName": "BANK OF TAIWAN, HONG KONG BRANCH",
-  "bic": "BKTWHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankoftaiwanhongkongbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKTWHKHHXXX"
 }

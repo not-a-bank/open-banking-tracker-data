@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN PRIVATBANK EG",
   "legalName": "RAIFFEISEN PRIVATBANK EG",
-  "bic": "RAPRDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenprivatbankeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAPRDE51XXX"
 }

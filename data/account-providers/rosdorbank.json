@@ -8,7 +8,6 @@
   ],
   "name": "ROSDORBANK",
   "legalName": "ROSDORBANK",
-  "bic": "ROSORUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rosdorbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROSORUMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GOOGLE PAYMENT CORP",
   "legalName": "GOOGLE PAYMENT CORP",
-  "bic": "GOOGUSM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.googlepaymentcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOOGUSM1XXX"
 }

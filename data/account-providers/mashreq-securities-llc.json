@@ -8,7 +8,6 @@
   ],
   "name": "MASHREQ SECURITIES LLC",
   "legalName": "MASHREQ SECURITIES LLC",
-  "bic": "MSSLAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mashreqsecuritiesllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSSLAEA1XXX"
 }

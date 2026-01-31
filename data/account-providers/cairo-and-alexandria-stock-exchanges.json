@@ -8,7 +8,6 @@
   ],
   "name": "CAIRO AND ALEXANDRIA STOCK EXCHANGES",
   "legalName": "CAIRO AND ALEXANDRIA STOCK EXCHANGES",
-  "bic": "XCAIEGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cairoandalexandriastockexchanges.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XCAIEGC1XXX"
 }

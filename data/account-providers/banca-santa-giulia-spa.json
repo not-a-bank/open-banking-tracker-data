@@ -9,7 +9,6 @@
   ],
   "name": "BANCA SANTA GIULIA S.P.A.",
   "legalName": "BANCA SANTA GIULIA S.P.A.",
-  "bic": "SGIUIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_santa_giulia_it.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGIUIT21XXX"
 }

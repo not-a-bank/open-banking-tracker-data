@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE MISR - SUCCURSALE DE PARIS",
   "legalName": "BANQUE MISR - SUCCURSALE DE PARIS",
-  "bic": "BMISFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquemisrsuccursaledeparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMISFRPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "LHR AIRPORTS LIMITED",
   "legalName": "LHR AIRPORTS LIMITED",
-  "bic": "LHRAGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lhrairportslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LHRAGB2LXXX"
 }

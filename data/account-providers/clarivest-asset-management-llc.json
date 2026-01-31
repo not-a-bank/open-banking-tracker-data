@@ -8,7 +8,6 @@
   ],
   "name": "CLARIVEST ASSET MANAGEMENT LLC",
   "legalName": "CLARIVEST ASSET MANAGEMENT LLC",
-  "bic": "CSMLUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clarivestassetmanagementllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSMLUS61XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDIC ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
   "legalName": "NORDIC ASSET MANAGEMENT FONDSMAEGLERSELSKAB A/S",
-  "bic": "NAMNDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordicassetmanagementfondsmaeglerselskabas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAMNDKK1XXX"
 }

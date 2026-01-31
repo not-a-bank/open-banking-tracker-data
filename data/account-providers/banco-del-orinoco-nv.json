@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DEL ORINOCO N.V.",
   "legalName": "BANCO DEL ORINOCO N.V.",
-  "bic": "ORIBBQC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodelorinoconv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORIBBQC1XXX"
 }

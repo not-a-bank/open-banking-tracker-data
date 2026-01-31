@@ -8,7 +8,6 @@
   ],
   "name": "PUBLIC SAVINGS BANK",
   "legalName": "PUBLIC SAVINGS BANK",
-  "bic": "PSHVUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.publicsavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSHVUS31XXX"
 }

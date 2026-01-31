@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH,PIERCE,FENNER AND SMITH(BROKERS AND DEALERS)",
   "legalName": "MERRILL LYNCH,PIERCE,FENNER AND SMITH(BROKERS AND DEALERS)",
-  "bic": "MPSDGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchpiercefennerandsmithbrokersanddea.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MPSDGB21XXX"
 }

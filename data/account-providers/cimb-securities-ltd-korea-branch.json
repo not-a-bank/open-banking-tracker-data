@@ -8,7 +8,6 @@
   ],
   "name": "CIMB SECURITIES LTD., KOREA BRANCH",
   "legalName": "CIMB SECURITIES LTD., KOREA BRANCH",
-  "bic": "CSKRKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cimbsecuritiesltdkoreabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSKRKRS1XXX"
 }

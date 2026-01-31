@@ -8,7 +8,6 @@
   ],
   "name": "VIRTAIN OSUUSPANKKI",
   "legalName": "VIRTAIN OSUUSPANKKI",
-  "bic": "VIOAFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.virtainosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIOAFI21XXX"
 }

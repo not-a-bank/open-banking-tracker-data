@@ -8,7 +8,6 @@
   ],
   "name": "OTTO M. SCHROEDER BANK AKTIENGESELLSCHAFT",
   "legalName": "OTTO M. SCHROEDER BANK AKTIENGESELLSCHAFT",
-  "bic": "OSCBDEH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ottomschroederbankaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OSCBDEH1XXX"
 }

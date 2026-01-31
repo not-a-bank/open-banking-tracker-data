@@ -8,7 +8,6 @@
   ],
   "name": "CM - CIC BANQUES",
   "legalName": "CM - CIC BANQUES",
-  "bic": "CMCIFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cmcicbanques.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMCIFRPPXXX"
 }

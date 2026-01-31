@@ -8,7 +8,6 @@
   ],
   "name": "VICKERS BALLAS (UK) PLC",
   "legalName": "VICKERS BALLAS (UK) PLC",
-  "bic": "VIBLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vickersballasukplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIBLGB21XXX"
 }

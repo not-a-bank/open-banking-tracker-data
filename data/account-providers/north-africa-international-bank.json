@@ -8,7 +8,6 @@
   ],
   "name": "NORTH AFRICA INTERNATIONAL BANK",
   "legalName": "NORTH AFRICA INTERNATIONAL BANK",
-  "bic": "NOAFTNTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.northafricainternationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOAFTNTTXXX"
 }

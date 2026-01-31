@@ -8,7 +8,6 @@
   ],
   "name": "NAMIBIA EQUITY BROKERS (PTY) LTD",
   "legalName": "NAMIBIA EQUITY BROKERS (PTY) LTD",
-  "bic": "NBOENANXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.namibiaequitybrokersptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBOENANXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PON HOLDINGS B.V.",
   "legalName": "PON HOLDINGS B.V.",
-  "bic": "PONHNL22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ponholdingsbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PONHNL22XXX"
 }

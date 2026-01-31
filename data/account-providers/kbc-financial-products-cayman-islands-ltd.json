@@ -8,7 +8,6 @@
   ],
   "name": "KBC FINANCIAL PRODUCTS (CAYMAN ISLANDS) LTD.",
   "legalName": "KBC FINANCIAL PRODUCTS (CAYMAN ISLANDS) LTD.",
-  "bic": "KBCFKYKXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcfinancialproductscaymanislandsltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBCFKYKXXXX"
 }

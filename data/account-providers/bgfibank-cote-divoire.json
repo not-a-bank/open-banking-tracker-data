@@ -8,7 +8,6 @@
   ],
   "name": "BGFIBANK COTE D'IVOIRE",
   "legalName": "BGFIBANK COTE D'IVOIRE",
-  "bic": "BGFICIABXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bgfibankcotedivoire.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGFICIABXXX"
 }

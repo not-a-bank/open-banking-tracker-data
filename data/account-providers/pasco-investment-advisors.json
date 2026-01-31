@@ -8,7 +8,6 @@
   ],
   "name": "PASCO INVESTMENT ADVISORS",
   "legalName": "PASCO INVESTMENT ADVISORS",
-  "bic": "PAIAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pascoinvestmentadvisors.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAIAUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MERCANTILE SECURITIES (SCOTLAND) LIMITED",
   "legalName": "MERCANTILE SECURITIES (SCOTLAND) LIMITED",
-  "bic": "MESOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mercantilesecuritiesscotlandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MESOGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TOKYO SOCIEDAD DE VALORES Y BOLSA (ESPANA) S.A.",
   "legalName": "TOKYO SOCIEDAD DE VALORES Y BOLSA (ESPANA) S.A.",
-  "bic": "TSVBESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tokyosociedaddevaloresybolsaespanasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TSVBESM1XXX"
 }

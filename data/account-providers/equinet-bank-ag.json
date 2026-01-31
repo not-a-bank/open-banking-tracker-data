@@ -8,7 +8,6 @@
   ],
   "name": "EQUINET BANK AG",
   "legalName": "EQUINET BANK AG",
-  "bic": "EQUNDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.equinetbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EQUNDEFFXXX"
 }

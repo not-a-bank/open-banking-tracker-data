@@ -8,7 +8,6 @@
   ],
   "name": "DEMIR KYRGYZ INTERNATIONAL BANK",
   "legalName": "DEMIR KYRGYZ INTERNATIONAL BANK",
-  "bic": "DEMIKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.demirkyrgyzinternationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEMIKG22XXX"
 }

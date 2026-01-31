@@ -8,7 +8,6 @@
   ],
   "name": "PJSC 'VTB BANK'",
   "legalName": "PJSC 'VTB BANK'",
-  "bic": "VTBRUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscvtbbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VTBRUAUKXXX"
 }

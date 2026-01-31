@@ -8,7 +8,6 @@
   ],
   "name": "BANK THALWIL GENOSSENSCHAFT",
   "legalName": "BANK THALWIL GENOSSENSCHAFT",
-  "bic": "BKTHCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankthalwilgenossenschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKTHCH22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NASDAQ/NMS (NATIONAL MARKET SYSTEM)",
   "legalName": "NASDAQ/NMS (NATIONAL MARKET SYSTEM)",
-  "bic": "XNMSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nasdaqnmsnationalmarketsystem.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XNMSUS31XXX"
 }

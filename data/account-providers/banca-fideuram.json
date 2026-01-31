@@ -30,8 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "salt-edge"
   ],
-  "swiftCode": "FIBKITMM"
+  "bic": "FIBKITMM"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AYANDEH BANK",
   "legalName": "AYANDEH BANK",
-  "bic": "AYBKIRTHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ayandehbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AYBKIRTHXXX"
 }

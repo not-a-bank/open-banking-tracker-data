@@ -8,7 +8,6 @@
   ],
   "name": "VUZ-BANK OAO",
   "legalName": "VUZ-BANK OAO",
-  "bic": "VUZBRU41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vuzbankoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VUZBRU41XXX"
 }

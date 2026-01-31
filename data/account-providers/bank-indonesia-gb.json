@@ -8,7 +8,6 @@
   ],
   "name": "BANK INDONESIA",
   "legalName": "BANK INDONESIA",
-  "bic": "INDOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankindonesiagb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INDOGB21XXX"
 }

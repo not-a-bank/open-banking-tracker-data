@@ -8,7 +8,6 @@
   ],
   "name": "EMIRATES NBD BANK PJSC",
   "legalName": "EMIRATES NBD BANK PJSC",
-  "bic": "EBILAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.emiratesnbdbankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBILAEADXXX"
 }

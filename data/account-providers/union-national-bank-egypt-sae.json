@@ -8,7 +8,6 @@
   ],
   "name": "UNION NATIONAL BANK-EGYPT S.A.E.",
   "legalName": "UNION NATIONAL BANK-EGYPT S.A.E.",
-  "bic": "UNBEEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unionnationalbankegyptsae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNBEEGCXXXX"
 }

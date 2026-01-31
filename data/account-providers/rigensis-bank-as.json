@@ -8,7 +8,6 @@
   ],
   "name": "RIGENSIS BANK AS",
   "legalName": "RIGENSIS BANK AS",
-  "bic": "RGNSLV22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rigensisbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RGNSLV22XXX"
 }

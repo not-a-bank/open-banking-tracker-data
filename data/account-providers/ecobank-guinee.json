@@ -8,7 +8,6 @@
   ],
   "name": "ECOBANK GUINEE",
   "legalName": "ECOBANK GUINEE",
-  "bic": "ECOCGNCNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecobankguinee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCGNCNXXX"
 }

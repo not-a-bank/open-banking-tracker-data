@@ -8,7 +8,6 @@
   ],
   "name": "YANDEX.MONEY, NBCO LLC",
   "legalName": "YANDEX.MONEY, NBCO LLC",
-  "bic": "YNDMRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.yandexmoneynbcollc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YNDMRUM1XXX"
 }

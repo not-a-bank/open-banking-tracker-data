@@ -8,7 +8,6 @@
   ],
   "name": "ANSALDO STS SPA",
   "legalName": "ANSALDO STS SPA",
-  "bic": "AATTITG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ansaldostsspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AATTITG1XXX"
 }

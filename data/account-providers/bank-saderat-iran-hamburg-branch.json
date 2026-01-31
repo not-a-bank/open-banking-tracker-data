@@ -8,7 +8,6 @@
   ],
   "name": "BANK SADERAT IRAN HAMBURG BRANCH",
   "legalName": "BANK SADERAT IRAN HAMBURG BRANCH",
-  "bic": "SIHRDEH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banksaderatiranhamburgbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIHRDEH1XXX"
 }

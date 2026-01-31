@@ -8,7 +8,6 @@
   ],
   "name": "HOGART FINANCE S.R.L.",
   "legalName": "HOGART FINANCE S.R.L.",
-  "bic": "HOFRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hogartfinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOFRITM1XXX"
 }

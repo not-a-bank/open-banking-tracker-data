@@ -8,7 +8,6 @@
   ],
   "name": "INTER-PACIFIC SECURITIES, PT",
   "legalName": "INTER-PACIFIC SECURITIES, PT",
-  "bic": "INSSIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.interpacificsecuritiespt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INSSIDJ1XXX"
 }

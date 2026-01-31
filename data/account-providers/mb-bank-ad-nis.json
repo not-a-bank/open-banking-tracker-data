@@ -8,7 +8,6 @@
   ],
   "name": "MB BANK A.D. NIS",
   "legalName": "MB BANK A.D. NIS",
-  "bic": "MBBNRS21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mbbankadnis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBBNRS21XXX"
 }

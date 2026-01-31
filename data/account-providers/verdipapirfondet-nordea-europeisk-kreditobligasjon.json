@@ -8,7 +8,6 @@
   ],
   "name": "VERDIPAPIRFONDET NORDEA EUROPEISK KREDITOBLIGASJON",
   "legalName": "VERDIPAPIRFONDET NORDEA EUROPEISK KREDITOBLIGASJON",
-  "bic": "VNEKNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.verdipapirfondetnordeaeuropeiskkreditobligasjon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VNEKNOK1XXX"
 }

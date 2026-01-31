@@ -8,7 +8,6 @@
   ],
   "name": "Evli PLC",
   "legalName": "EVLI PLC",
-  "bic": "EVIIFIHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.evli.fi.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EVIIFIHHXXX"
 }

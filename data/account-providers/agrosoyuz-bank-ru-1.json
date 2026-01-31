@@ -8,7 +8,6 @@
   ],
   "name": "AGROSOYUZ BANK",
   "legalName": "AGROSOYUZ BANK",
-  "bic": "AGSZRU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agrosoyuzbankru1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGSZRU31XXX"
 }

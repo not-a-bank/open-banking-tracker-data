@@ -8,7 +8,6 @@
   ],
   "name": "SITKA LIMITED",
   "legalName": "SITKA LIMITED",
-  "bic": "SITKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sitkalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SITKGB21XXX"
 }

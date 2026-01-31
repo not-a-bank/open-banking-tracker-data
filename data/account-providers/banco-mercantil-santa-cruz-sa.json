@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MERCANTIL SANTA CRUZ S.A.",
   "legalName": "BANCO MERCANTIL SANTA CRUZ S.A.",
-  "bic": "MERBBOLXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomercantilsantacruzsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MERBBOLXXXX"
 }

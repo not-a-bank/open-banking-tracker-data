@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE NOUVELLE CALEDONIE",
   "legalName": "BANQUE DE NOUVELLE CALEDONIE",
-  "bic": "CEPANCNMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedenouvellecaledonie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEPANCNMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KEMPF BFSC",
   "legalName": "KEMPF BFSC",
-  "bic": "KMBFFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kempfbfsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KMBFFR21XXX"
 }

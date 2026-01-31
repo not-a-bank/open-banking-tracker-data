@@ -73,6 +73,7 @@
   "apiAggregators": [
     "banked",
     "friendlyscore",
+    "gocardless",
     "moneyhub-enterprise",
     "nordigen",
     "openwrks",
@@ -183,8 +184,8 @@
       "name": "RDC",
       "icon": "https://mms.businesswire.com/media/20191218005050/en/763599/4/RDC_logo.jpg",
       "websiteUrl": "https://rdc.com/",
-      "title": "RDC and Monzo Expand Anti-money Laundering Partnership for Bank\u2019s US Launch",
-      "description": "RDC (Regulatory DataCorp) has renewed its agreement with Monzo in a deal that will see the company\u2019s next-generation customer screening technology extended to cover the bank\u2019s US launch. The arrangement will build on the success of the past two years in the UK where RDC\u2019s data and technology was used to screen for financial crime risk as 55,000 new customers sign up for a Monzo account every week.",
+      "title": "RDC and Monzo Expand Anti-money Laundering Partnership for Bank’s US Launch",
+      "description": "RDC (Regulatory DataCorp) has renewed its agreement with Monzo in a deal that will see the company’s next-generation customer screening technology extended to cover the bank’s US launch. The arrangement will build on the success of the past two years in the UK where RDC’s data and technology was used to screen for financial crime risk as 55,000 new customers sign up for a Monzo account every week.",
       "sourceUrl": "https://www.businesswire.com/news/home/20191218005050/en/RDC-Monzo-Expand-Anti-money-Laundering-Partnership-Bank%E2%80%99s",
       "sourceDate": "2019-12-18"
     },
@@ -276,5 +277,6 @@
       "brandedWelcomeLetter": true
     }
   },
-  "awards": []
+  "awards": [],
+  "bic": "MONZGB2L"
 }

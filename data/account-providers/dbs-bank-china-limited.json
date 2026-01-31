@@ -8,7 +8,6 @@
   ],
   "name": "DBS BANK (CHINA) LIMITED",
   "legalName": "DBS BANK (CHINA) LIMITED",
-  "bic": "DBSSCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dbsbankchinalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBSSCNSHXXX"
 }

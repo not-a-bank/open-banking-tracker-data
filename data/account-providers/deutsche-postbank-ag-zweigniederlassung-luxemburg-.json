@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE POSTBANK AG ZWEIGNIEDERLASSUNG LUXEMBURG (FORMERLY DEUTSCHE POSTBANK INTERNATIONAL S.A.)",
   "legalName": "DEUTSCHE POSTBANK AG ZWEIGNIEDERLASSUNG LUXEMBURG (FORMERLY DEUTSCHE POSTBANK INTERNATIONAL S.A.)",
-  "bic": "PBNKLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschepostbankagzweigniederlassungluxemburg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBNKLULLXXX"
 }

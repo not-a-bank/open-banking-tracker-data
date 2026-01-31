@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK AG, SEOUL BRANCH",
   "legalName": "DEUTSCHE BANK AG, SEOUL BRANCH",
-  "bic": "DEUTKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankagseoulbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTKRSEXXX"
 }

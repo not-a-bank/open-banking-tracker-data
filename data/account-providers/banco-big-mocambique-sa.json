@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BIG MOCAMBIQUE, S.A.",
   "legalName": "BANCO BIG MOCAMBIQUE, S.A.",
-  "bic": "BDIGMZMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobigmocambiquesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDIGMZMAXXX"
 }

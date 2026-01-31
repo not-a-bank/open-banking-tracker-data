@@ -8,7 +8,6 @@
   ],
   "name": "ALLIED IRISH BANKS, P.L.C.",
   "legalName": "ALLIED IRISH BANKS, P.L.C.",
-  "bic": "AIBKGB41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alliedirishbanksplc.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIBKGB2LXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NOVO BANCO, SA SUCCURSALE LUXEMBOURG",
   "legalName": "NOVO BANCO, SA SUCCURSALE LUXEMBOURG",
-  "bic": "BESCLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novobancosasuccursaleluxembourg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BESCLULLXXX"
 }

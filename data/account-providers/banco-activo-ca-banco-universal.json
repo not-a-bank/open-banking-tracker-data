@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
   "legalName": "BANCO ACTIVO, C.A. BANCO UNIVERSAL",
-  "bic": "ACTIVECAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoactivocabancouniversal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACTIVECAXXX"
 }

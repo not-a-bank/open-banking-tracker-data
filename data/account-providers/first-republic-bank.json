@@ -9,7 +9,6 @@
   ],
   "name": "FIRST REPUBLIC BANK",
   "legalName": "FIRST REPUBLIC BANK",
-  "bic": "FRBBUS6SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1575864688/radar/icons/firstrepublic.jpg",
@@ -30,5 +29,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "NYSE:FRC"
+  "stockSymbol": "NYSE:FRC",
+  "bic": "FRBBUS6SXXX"
 }

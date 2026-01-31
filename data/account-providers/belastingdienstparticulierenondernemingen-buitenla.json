@@ -8,7 +8,6 @@
   ],
   "name": "BELASTINGDIENST/PARTICULIEREN/ONDERNEMINGEN BUITENLAND/WIR",
   "legalName": "BELASTINGDIENST/PARTICULIEREN/ONDERNEMINGEN BUITENLAND/WIR",
-  "bic": "BEOUNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.belastingdienstparticulierenondernemingenbuitenla.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEOUNL21XXX"
 }

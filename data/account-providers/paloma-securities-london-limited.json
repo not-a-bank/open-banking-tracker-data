@@ -8,7 +8,6 @@
   ],
   "name": "PALOMA SECURITIES LONDON LIMITED",
   "legalName": "PALOMA SECURITIES LONDON LIMITED",
-  "bic": "PASLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.palomasecuritieslondonlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PASLGB21XXX"
 }

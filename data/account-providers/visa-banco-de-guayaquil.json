@@ -8,7 +8,6 @@
   ],
   "name": "VISA BANCO DE GUAYAQUIL",
   "legalName": "VISA BANCO DE GUAYAQUIL",
-  "bic": "VIGUECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.visabancodeguayaquil.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIGUECE1XXX"
 }

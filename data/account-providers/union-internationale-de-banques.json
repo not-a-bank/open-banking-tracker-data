@@ -8,7 +8,6 @@
   ],
   "name": "UNION INTERNATIONALE DE BANQUES",
   "legalName": "UNION INTERNATIONALE DE BANQUES",
-  "bic": "UIBKTNTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unioninternationaledebanques.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UIBKTNTTXXX"
 }

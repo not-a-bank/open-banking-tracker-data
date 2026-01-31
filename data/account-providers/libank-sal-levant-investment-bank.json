@@ -8,7 +8,6 @@
   ],
   "name": "LIBANK S.A.L. (LEVANT INVESTMENT BANK)",
   "legalName": "LIBANK S.A.L. (LEVANT INVESTMENT BANK)",
-  "bic": "LIBKLBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.libanksallevantinvestmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIBKLBBEXXX"
 }

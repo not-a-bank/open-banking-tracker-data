@@ -8,7 +8,6 @@
   ],
   "name": "FAISAL ISLAMIC BANK",
   "legalName": "FAISAL ISLAMIC BANK",
-  "bic": "FISBSDKHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.faisalislamicbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FISBSDKHXXX"
 }

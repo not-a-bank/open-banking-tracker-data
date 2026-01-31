@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE GARANTIE IMMOB. FED. FSE BAT",
   "legalName": "CAISSE DE GARANTIE IMMOB. FED. FSE BAT",
-  "bic": "CGIFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedegarantieimmobfedfsebat.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGIFFRP1XXX"
 }

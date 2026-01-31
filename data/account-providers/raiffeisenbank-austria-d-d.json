@@ -8,7 +8,6 @@
   ],
   "name": "Raiffeisenbank Austria D.d.",
   "legalName": "RAIFFEISENBANK AUSTRIA D.D.",
-  "bic": "RZBHHR2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RZBHHR2XXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA GLOBAL - ASSET SIDE",
   "legalName": "NORDEA GLOBAL - ASSET SIDE",
-  "bic": "NGASNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaglobalassetside.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NGASNOK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ATLANTIC COMMUNITY BANKERS BANK",
   "legalName": "ATLANTIC COMMUNITY BANKERS BANK",
-  "bic": "ATLCUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.atlanticcommunitybankersbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATLCUS33XXX"
 }

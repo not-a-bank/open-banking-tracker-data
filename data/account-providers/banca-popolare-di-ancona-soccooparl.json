@@ -8,7 +8,6 @@
   ],
   "name": "BANCA POPOLARE DI ANCONA, SOC.COOP.A.R.L.",
   "legalName": "BANCA POPOLARE DI ANCONA, SOC.COOP.A.R.L.",
-  "bic": "BPAMIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolaredianconasoccooparl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPAMIT31XXX"
 }

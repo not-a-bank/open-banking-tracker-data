@@ -8,7 +8,6 @@
   ],
   "name": "INDO-ZAMBIA BANK",
   "legalName": "INDO-ZAMBIA BANK",
-  "bic": "INZAZMLXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indozambiabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INZAZMLXXXX"
 }

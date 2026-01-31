@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO ASIA LIMITED",
   "legalName": "ABN AMRO ASIA LIMITED",
-  "bic": "HOGTHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamroasialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOGTHKH1XXX"
 }

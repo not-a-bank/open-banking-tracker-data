@@ -8,7 +8,6 @@
   ],
   "name": "STANHOPE CAPITAL (SWITZERLAND) SA",
   "legalName": "STANHOPE CAPITAL (SWITZERLAND) SA",
-  "bic": "STCWCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stanhopecapitalswitzerlandsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STCWCHG1XXX"
 }

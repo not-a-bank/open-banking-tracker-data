@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK ALLER-WESER EG",
   "legalName": "VOLKSBANK ALLER-WESER EG",
-  "bic": "VOASDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankallerwesereg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOASDE21XXX"
 }

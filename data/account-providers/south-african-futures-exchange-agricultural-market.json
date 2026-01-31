@@ -8,7 +8,6 @@
   ],
   "name": "SOUTH AFRICAN FUTURES EXCHANGE - AGRICULTURAL MARKET DIVISION",
   "legalName": "SOUTH AFRICAN FUTURES EXCHANGE - AGRICULTURAL MARKET DIVISION",
-  "bic": "XSFAZAJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southafricanfuturesexchangeagriculturalmarket.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSFAZAJ1XXX"
 }

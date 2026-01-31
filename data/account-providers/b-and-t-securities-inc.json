@@ -8,7 +8,6 @@
   ],
   "name": "B AND T SECURITIES INC",
   "legalName": "B AND T SECURITIES INC",
-  "bic": "SCCSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bandtsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCCSUS31XXX"
 }

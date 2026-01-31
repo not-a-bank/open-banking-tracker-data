@@ -8,7 +8,6 @@
   ],
   "name": "HINC ASSET MANAGEMENT AB",
   "legalName": "HINC ASSET MANAGEMENT AB",
-  "bic": "HIAASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hincassetmanagementab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HIAASES1XXX"
 }

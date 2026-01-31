@@ -8,7 +8,6 @@
   ],
   "name": "THE BANKERS BANK",
   "legalName": "THE BANKERS BANK",
-  "bic": "BBOKUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankersbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBOKUS44XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP Paribas S.a.-sofia Branch",
   "legalName": "BNP PARIBAS S.A.-SOFIA BRANCH",
-  "bic": "BNPABGSXXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPABGSXXXX"
 }

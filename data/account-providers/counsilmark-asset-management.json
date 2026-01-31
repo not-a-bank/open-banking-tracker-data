@@ -8,7 +8,6 @@
   ],
   "name": "COUNSILMARK ASSET MANAGEMENT",
   "legalName": "COUNSILMARK ASSET MANAGEMENT",
-  "bic": "COENUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.counsilmarkassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COENUS41XXX"
 }

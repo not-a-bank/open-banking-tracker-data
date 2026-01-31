@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE MARTIN-MAUREL",
   "legalName": "BANQUE MARTIN-MAUREL",
-  "bic": "BMMMFRCPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquemartinmaurel.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMMMFRCPXXX"
 }

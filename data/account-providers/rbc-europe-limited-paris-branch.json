@@ -8,7 +8,6 @@
   ],
   "name": "RBC EUROPE LIMITED PARIS BRANCH",
   "legalName": "RBC EUROPE LIMITED PARIS BRANCH",
-  "bic": "ROYCFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbceuropelimitedparisbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROYCFRPPXXX"
 }

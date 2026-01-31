@@ -8,7 +8,6 @@
   ],
   "name": "A-BROKERS AB.",
   "legalName": "A-BROKERS AB.",
-  "bic": "ABROSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abrokersab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABROSES1XXX"
 }

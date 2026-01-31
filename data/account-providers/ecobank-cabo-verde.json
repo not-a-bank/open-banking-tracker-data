@@ -8,7 +8,6 @@
   ],
   "name": "ECOBANK CABO VERDE",
   "legalName": "ECOBANK CABO VERDE",
-  "bic": "ECOCCVCVXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecobankcaboverde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCCVCVXXX"
 }

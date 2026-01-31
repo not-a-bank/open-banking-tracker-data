@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE FONCIERE DE CREDIT",
   "legalName": "CAISSE FONCIERE DE CREDIT",
-  "bic": "CFCRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissefoncieredecredit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFCRFRP1XXX"
 }

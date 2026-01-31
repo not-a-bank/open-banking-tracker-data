@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS AG",
   "legalName": "GOLDMAN SACHS AG",
-  "bic": "GOLDDEFAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOLDDEFAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KREMSER BANK UND SPARKASSEN AG",
   "legalName": "KREMSER BANK UND SPARKASSEN AG",
-  "bic": "SPKDAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kremserbankundsparkassenag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPKDAT21XXX"
 }

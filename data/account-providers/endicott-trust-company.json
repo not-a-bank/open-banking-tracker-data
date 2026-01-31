@@ -8,7 +8,6 @@
   ],
   "name": "ENDICOTT TRUST COMPANY",
   "legalName": "ENDICOTT TRUST COMPANY",
-  "bic": "ETCOUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.endicotttrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETCOUS31XXX"
 }

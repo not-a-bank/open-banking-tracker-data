@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE SABADELL, S.A.",
   "legalName": "BANCO DE SABADELL, S.A.",
-  "bic": "BSABESBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodesabadellsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSABESBBXXX"
 }

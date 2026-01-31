@@ -8,7 +8,6 @@
   ],
   "name": "EBAY INC.",
   "legalName": "EBAY INC.",
-  "bic": "EBAYUS66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ebayinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBAYUS66XXX"
 }

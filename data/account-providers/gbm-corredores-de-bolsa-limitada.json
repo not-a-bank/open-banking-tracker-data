@@ -8,7 +8,6 @@
   ],
   "name": "GBM CORREDORES DE BOLSA LIMITADA",
   "legalName": "GBM CORREDORES DE BOLSA LIMITADA",
-  "bic": "GCBMCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gbmcorredoresdebolsalimitada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GCBMCLR1XXX"
 }

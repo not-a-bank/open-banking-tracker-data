@@ -8,7 +8,6 @@
   ],
   "name": "EXTRABANCA S.P.A.",
   "legalName": "EXTRABANCA S.P.A.",
-  "bic": "EXRRITM2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.extrabancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXRRITM2XXX"
 }

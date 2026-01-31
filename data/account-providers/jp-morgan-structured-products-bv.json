@@ -8,7 +8,6 @@
   ],
   "name": "JP MORGAN STRUCTURED PRODUCTS B.V.",
   "legalName": "JP MORGAN STRUCTURED PRODUCTS B.V.",
-  "bic": "MOSDNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganstructuredproductsbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOSDNL21XXX"
 }

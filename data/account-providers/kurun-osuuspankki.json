@@ -8,7 +8,6 @@
   ],
   "name": "KURUN OSUUSPANKKI",
   "legalName": "KURUN OSUUSPANKKI",
-  "bic": "KUOKFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kurunosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KUOKFI21XXX"
 }

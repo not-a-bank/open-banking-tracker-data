@@ -8,7 +8,6 @@
   ],
   "name": "JSC IRCOL",
   "legalName": "JSC IRCOL",
-  "bic": "IRCORUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jscircol.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRCORUM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SAXO BANK (SWITZERLAND) SA",
   "legalName": "SAXO BANK (SWITZERLAND) SA",
-  "bic": "SAXOCHZHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saxobankswitzerlandsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAXOCHZHXXX"
 }

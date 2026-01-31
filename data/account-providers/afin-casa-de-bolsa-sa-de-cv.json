@@ -8,7 +8,6 @@
   ],
   "name": "AFIN, CASA DE BOLSA, S.A. DE C.V.",
   "legalName": "AFIN, CASA DE BOLSA, S.A. DE C.V.",
-  "bic": "AFINMXM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.afincasadebolsasadecv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFINMXM1XXX"
 }

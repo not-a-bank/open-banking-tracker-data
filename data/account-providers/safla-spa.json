@@ -8,7 +8,6 @@
   ],
   "name": "SAFLA S.P.A.",
   "legalName": "SAFLA S.P.A.",
-  "bic": "SFFLIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saflaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFFLIT21XXX"
 }

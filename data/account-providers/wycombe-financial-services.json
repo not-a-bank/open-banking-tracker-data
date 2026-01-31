@@ -8,7 +8,6 @@
   ],
   "name": "WYCOMBE FINANCIAL SERVICES",
   "legalName": "WYCOMBE FINANCIAL SERVICES",
-  "bic": "WYFSCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wycombefinancialservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WYFSCHG1XXX"
 }

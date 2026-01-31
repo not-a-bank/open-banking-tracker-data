@@ -8,7 +8,6 @@
   ],
   "name": "LOXXIA CREDIT",
   "legalName": "LOXXIA CREDIT",
-  "bic": "LOCRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.loxxiacredit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOCRFRP1XXX"
 }

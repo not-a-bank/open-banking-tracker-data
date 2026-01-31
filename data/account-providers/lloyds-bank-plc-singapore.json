@@ -8,7 +8,6 @@
   ],
   "name": "LLOYDS BANK PLC, SINGAPORE",
   "legalName": "LLOYDS BANK PLC, SINGAPORE",
-  "bic": "LOYDSGSAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lloydsbankplcsingapore.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOYDSGSAXXX"
 }

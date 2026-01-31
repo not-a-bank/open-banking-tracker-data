@@ -8,7 +8,6 @@
   ],
   "name": "NORDNET BANK AB SUOMEN SIVULIIKE",
   "legalName": "NORDNET BANK AB SUOMEN SIVULIIKE",
-  "bic": "NOUSFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordnetbankabsuomensivuliike.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOUSFIH1XXX"
 }

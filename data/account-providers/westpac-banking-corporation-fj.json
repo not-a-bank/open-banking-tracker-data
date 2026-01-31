@@ -8,7 +8,6 @@
   ],
   "name": "WESTPAC BANKING CORPORATION",
   "legalName": "WESTPAC BANKING CORPORATION",
-  "bic": "WPACFJFXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.westpacbankingcorporationfj.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WPACFJFXXXX"
 }

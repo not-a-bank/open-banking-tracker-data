@@ -8,7 +8,6 @@
   ],
   "name": "BANCA SIMETICA SPA",
   "legalName": "BANCA SIMETICA SPA",
-  "bic": "SMSIIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancasimeticaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMSIIT21XXX"
 }

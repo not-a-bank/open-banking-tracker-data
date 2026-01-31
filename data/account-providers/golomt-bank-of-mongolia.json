@@ -8,7 +8,6 @@
   ],
   "name": "GOLOMT BANK OF MONGOLIA",
   "legalName": "GOLOMT BANK OF MONGOLIA",
-  "bic": "GLMTMNUBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.golomtbankofmongolia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GLMTMNUBXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS USA",
   "legalName": "BNP PARIBAS USA",
-  "bic": "BNPAUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasusa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAUS44XXX"
 }

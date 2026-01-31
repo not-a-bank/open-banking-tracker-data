@@ -9,7 +9,6 @@
   ],
   "name": "VDK BANK",
   "legalName": "VDK BANK",
-  "bic": "VDSPBE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1568403885/radar/icons/vdk-be.jpg",
@@ -86,10 +85,12 @@
   ],
   "apiAggregators": [
     "bankingsdk",
+    "gocardless",
     "ibanity",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VDSPBE22XXX"
 }

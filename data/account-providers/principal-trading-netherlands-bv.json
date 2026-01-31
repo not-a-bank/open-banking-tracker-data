@@ -8,7 +8,6 @@
   ],
   "name": "PRINCIPAL TRADING NETHERLANDS B.V.",
   "legalName": "PRINCIPAL TRADING NETHERLANDS B.V.",
-  "bic": "PRTHNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.principaltradingnetherlandsbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRTHNL21XXX"
 }

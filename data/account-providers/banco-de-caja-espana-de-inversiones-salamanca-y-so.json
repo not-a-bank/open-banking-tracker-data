@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE CAJA ESPANA DE INVERSIONES, SALAMANCA Y SORIA, S.A.",
   "legalName": "BANCO DE CAJA ESPANA DE INVERSIONES, SALAMANCA Y SORIA, S.A.",
-  "bic": "CSPAES2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodecajaespanadeinversionessalamancayso.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSPAES2LXXX"
 }

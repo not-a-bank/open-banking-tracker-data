@@ -8,7 +8,6 @@
   ],
   "name": "UBS AG SINGAPORE BRANCH",
   "legalName": "UBS AG SINGAPORE BRANCH",
-  "bic": "UBSWSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsagsingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWSGSGXXX"
 }

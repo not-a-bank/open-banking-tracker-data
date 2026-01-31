@@ -8,7 +8,6 @@
   ],
   "name": "BANCA CONSULIA",
   "legalName": "BANCA CONSULIA",
-  "bic": "INPIITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaconsulia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INPIITM1XXX"
 }

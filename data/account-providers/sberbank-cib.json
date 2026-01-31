@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK CIB",
   "legalName": "SBERBANK CIB",
-  "bic": "TDICRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbankcib.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TDICRUMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ROMBELL SECURITIES S.A.",
   "legalName": "ROMBELL SECURITIES S.A.",
-  "bic": "ROECROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rombellsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROECROB1XXX"
 }

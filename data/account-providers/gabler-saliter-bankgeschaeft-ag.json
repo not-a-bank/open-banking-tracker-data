@@ -8,7 +8,6 @@
   ],
   "name": "GABLER-SALITER BANKGESCHAEFT AG",
   "legalName": "GABLER-SALITER BANKGESCHAEFT AG",
-  "bic": "GABLDE7GXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gablersaliterbankgeschaeftag.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GABLDE71XXX"
 }

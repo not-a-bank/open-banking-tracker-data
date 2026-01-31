@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS (CANADA) VALEURS MOBILIERES INC",
   "legalName": "BNP PARIBAS (CANADA) VALEURS MOBILIERES INC",
-  "bic": "BNPVCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibascanadavaleursmobilieresinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPVCAM1XXX"
 }

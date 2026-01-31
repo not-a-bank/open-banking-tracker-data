@@ -1,0 +1,32 @@
+{
+  "id": "regiobank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "RegioBank",
+  "legalName": "RegioBank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.regiobank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "NL",
+  "countries": [
+    "NL"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RBRBNL21"
+}

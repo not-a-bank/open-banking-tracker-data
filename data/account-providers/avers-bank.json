@@ -8,7 +8,6 @@
   ],
   "name": "AVERS BANK",
   "legalName": "AVERS BANK",
-  "bic": "BKAVRU2KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aversbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKAVRU2KXXX"
 }

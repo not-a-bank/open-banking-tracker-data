@@ -8,7 +8,6 @@
   ],
   "name": "NUEVO MICRO BANK, S.A.U.",
   "legalName": "NUEVO MICRO BANK, S.A.U.",
-  "bic": "MIKBESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nuevomicrobanksau.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIKBESB1XXX"
 }

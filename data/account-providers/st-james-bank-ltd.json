@@ -8,7 +8,6 @@
   ],
   "name": "ST. JAMES BANK LTD",
   "legalName": "ST. JAMES BANK LTD",
-  "bic": "JAESGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stjamesbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JAESGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VERDIPAPIRFONDET NORDEA LIKVIDITET III",
   "legalName": "VERDIPAPIRFONDET NORDEA LIKVIDITET III",
-  "bic": "VNLINOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.verdipapirfondetnordealikviditetiii.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VNLINOK1XXX"
 }

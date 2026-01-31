@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE LAZARD FINANCIAL PRODUCTS - PARIS BRANCH",
   "legalName": "CREDIT AGRICOLE LAZARD FINANCIAL PRODUCTS - PARIS BRANCH",
-  "bic": "CALFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolelazardfinancialproductsparisbr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CALFFRP1XXX"
 }

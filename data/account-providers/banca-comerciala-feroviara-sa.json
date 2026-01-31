@@ -8,7 +8,6 @@
   ],
   "name": "BANCA COMERCIALA FEROVIARA S.A.",
   "legalName": "BANCA COMERCIALA FEROVIARA S.A.",
-  "bic": "BFERROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancacomercialaferoviarasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFERROBUXXX"
 }

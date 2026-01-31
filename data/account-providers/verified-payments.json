@@ -8,7 +8,6 @@
   ],
   "name": "VERIFIED PAYMENTS",
   "legalName": "VERIFIED PAYMENTS",
-  "bic": "VEPALT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.verifiedpayments.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VEPALT21XXX"
 }

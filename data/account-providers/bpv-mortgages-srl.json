@@ -8,7 +8,6 @@
   ],
   "name": "BPV MORTGAGES S.R.L.",
   "legalName": "BPV MORTGAGES S.R.L.",
-  "bic": "BMOSIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bpvmortgagessrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMOSIT21XXX"
 }

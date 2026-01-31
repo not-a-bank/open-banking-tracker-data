@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "SpareBank 1 \u00d8stlandet",
-  "legalName": "SpareBank 1 \u00d8stlandet",
+  "name": "SpareBank 1 Østlandet",
+  "legalName": "SpareBank 1 Østlandet",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebank-1-ostlandet.com.ico",
@@ -23,10 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "SHEDNO22XXX"
+  "bic": "SHEDNO22"
 }

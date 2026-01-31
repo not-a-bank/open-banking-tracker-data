@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole Charente P\u00e9rigord",
-  "legalName": "Cr\u00e9dit Agricole Charente P\u00e9rigord",
+  "name": "Crédit Agricole Charente Périgord",
+  "legalName": "Crédit Agricole Charente Périgord",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-charente-perigord.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

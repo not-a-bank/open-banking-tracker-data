@@ -8,7 +8,6 @@
   ],
   "name": "QUEST INTERNATIONAL TRADING SA",
   "legalName": "QUEST INTERNATIONAL TRADING SA",
-  "bic": "QUIDCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.questinternationaltradingsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QUIDCHG1XXX"
 }

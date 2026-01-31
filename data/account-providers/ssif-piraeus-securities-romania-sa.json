@@ -8,7 +8,6 @@
   ],
   "name": "S.S.I.F. PIRAEUS SECURITIES ROMANIA S.A.",
   "legalName": "S.S.I.F. PIRAEUS SECURITIES ROMANIA S.A.",
-  "bic": "SPSMROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ssifpiraeussecuritiesromaniasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPSMROB1XXX"
 }

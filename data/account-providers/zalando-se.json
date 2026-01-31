@@ -8,7 +8,6 @@
   ],
   "name": "ZALANDO SE",
   "legalName": "ZALANDO SE",
-  "bic": "ZALADEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zalandose.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZALADEBBXXX"
 }

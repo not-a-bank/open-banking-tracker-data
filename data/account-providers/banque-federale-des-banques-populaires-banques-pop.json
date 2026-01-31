@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE FEDERALE DES BANQUES POPULAIRES (BANQUES POPULAIRES REGIONALES)",
   "legalName": "BANQUE FEDERALE DES BANQUES POPULAIRES (BANQUES POPULAIRES REGIONALES)",
-  "bic": "CCBPFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquefederaledesbanquespopulairesbanquespop.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCBPFRPPXXX"
 }

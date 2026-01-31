@@ -8,7 +8,6 @@
   ],
   "name": "ORIENT EXPRESS BANK",
   "legalName": "ORIENT EXPRESS BANK",
-  "bic": "DALVRU8XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orientexpressbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DALVRU8XXXX"
 }

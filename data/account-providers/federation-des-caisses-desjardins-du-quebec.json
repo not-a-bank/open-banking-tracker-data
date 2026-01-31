@@ -8,7 +8,6 @@
   ],
   "name": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
   "legalName": "FEDERATION DES CAISSES DESJARDINS DU QUEBEC",
-  "bic": "CCDQCAMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.federationdescaissesdesjardinsduquebec.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCDQCAMMXXX"
 }

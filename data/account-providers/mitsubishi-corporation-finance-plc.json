@@ -8,7 +8,6 @@
   ],
   "name": "MITSUBISHI CORPORATION FINANCE PLC",
   "legalName": "MITSUBISHI CORPORATION FINANCE PLC",
-  "bic": "MTCFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mitsubishicorporationfinanceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MTCFGB21XXX"
 }

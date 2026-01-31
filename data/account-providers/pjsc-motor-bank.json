@@ -8,7 +8,6 @@
   ],
   "name": "PJSC 'MOTOR-BANK'",
   "legalName": "PJSC 'MOTOR-BANK'",
-  "bic": "MOOJUA2ZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscmotorbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOOJUA2ZXXX"
 }

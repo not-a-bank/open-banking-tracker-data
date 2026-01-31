@@ -8,7 +8,6 @@
   ],
   "name": "BANK LEUMI ROMANIA-SOFIA BRANCH",
   "legalName": "BANK LEUMI ROMANIA-SOFIA BRANCH",
-  "bic": "LUMIBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankleumiromaniasofiabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LUMIBGS1XXX"
 }

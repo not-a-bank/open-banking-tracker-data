@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL SUD MEDITERRANEE",
   "legalName": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL SUD MEDITERRANEE",
-  "bic": "CGEGFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionaledecreditagricolemutuelsudmed.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGEGFR21XXX"
 }

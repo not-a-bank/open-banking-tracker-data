@@ -8,7 +8,6 @@
   ],
   "name": "AZIMUT BANK",
   "legalName": "AZIMUT BANK",
-  "bic": "AZIMRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.azimutbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZIMRUM1XXX"
 }

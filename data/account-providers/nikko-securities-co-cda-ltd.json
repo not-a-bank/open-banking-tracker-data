@@ -8,7 +8,6 @@
   ],
   "name": "NIKKO SECURITIES CO. CDA, LTD",
   "legalName": "NIKKO SECURITIES CO. CDA, LTD",
-  "bic": "NKSCCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nikkosecuritiescocdaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NKSCCAT1XXX"
 }

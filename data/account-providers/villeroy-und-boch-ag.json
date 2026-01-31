@@ -8,7 +8,6 @@
   ],
   "name": "VILLEROY UND BOCH AG",
   "legalName": "VILLEROY UND BOCH AG",
-  "bic": "VBAGDE55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.villeroyundbochag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VBAGDE55XXX"
 }

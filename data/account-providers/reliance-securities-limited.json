@@ -8,7 +8,6 @@
   ],
   "name": "RELIANCE SECURITIES LIMITED",
   "legalName": "RELIANCE SECURITIES LIMITED",
-  "bic": "RSERINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.reliancesecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RSERINB1XXX"
 }

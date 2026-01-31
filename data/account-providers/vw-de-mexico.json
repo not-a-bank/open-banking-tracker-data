@@ -8,7 +8,6 @@
   ],
   "name": "VW DE MEXICO",
   "legalName": "VW DE MEXICO",
-  "bic": "MEXCMXM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vwdemexico.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEXCMXM1XXX"
 }

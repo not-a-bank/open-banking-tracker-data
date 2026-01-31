@@ -8,7 +8,6 @@
   ],
   "name": "FARBANCA S.P.A.",
   "legalName": "FARBANCA S.P.A.",
-  "bic": "FARBIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.farbancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FARBIT21XXX"
 }

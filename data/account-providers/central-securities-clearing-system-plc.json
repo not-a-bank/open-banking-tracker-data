@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL SECURITIES CLEARING SYSTEM PLC",
   "legalName": "CENTRAL SECURITIES CLEARING SYSTEM PLC",
-  "bic": "CSCYNGLAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralsecuritiesclearingsystemplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSCYNGLAXXX"
 }

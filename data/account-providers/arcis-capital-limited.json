@@ -8,7 +8,6 @@
   ],
   "name": "ARCIS CAPITAL LIMITED",
   "legalName": "ARCIS CAPITAL LIMITED",
-  "bic": "ARCAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arciscapitallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARCAGB21XXX"
 }

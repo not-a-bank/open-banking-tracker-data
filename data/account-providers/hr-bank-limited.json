@@ -8,7 +8,6 @@
   ],
   "name": "HR BANK LIMITED",
   "legalName": "HR BANK LIMITED",
-  "bic": "HRBAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hrbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HRBAGB21XXX"
 }

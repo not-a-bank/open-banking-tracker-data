@@ -8,7 +8,6 @@
   ],
   "name": "FIDELITY BANK LIMITED",
   "legalName": "FIDELITY BANK LIMITED",
-  "bic": "FBLIGHACXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidelitybanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBLIGHACXXX"
 }

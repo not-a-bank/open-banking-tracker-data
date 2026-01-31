@@ -8,7 +8,6 @@
   ],
   "name": "LAZARD ASSET MANAGEMENT (DEUTSCHLAND) GMBH",
   "legalName": "LAZARD ASSET MANAGEMENT (DEUTSCHLAND) GMBH",
-  "bic": "LAMDDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lazardassetmanagementdeutschlandgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAMDDEF1XXX"
 }

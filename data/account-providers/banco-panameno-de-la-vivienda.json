@@ -8,7 +8,6 @@
   ],
   "name": "BANCO PANAMENO DE LA VIVIENDA",
   "legalName": "BANCO PANAMENO DE LA VIVIENDA",
-  "bic": "BPVVPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancopanamenodelavivienda.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPVVPAPAXXX"
 }

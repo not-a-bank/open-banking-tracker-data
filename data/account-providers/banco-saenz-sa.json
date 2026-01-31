@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SAENZ S.A.",
   "legalName": "BANCO SAENZ S.A.",
-  "bic": "BSAEARBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosaenzsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSAEARBAXXX"
 }

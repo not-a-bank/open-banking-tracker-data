@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE D'EPARGNE DE NYON",
   "legalName": "CAISSE D'EPARGNE DE NYON",
-  "bic": "CAGYCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedepargnedenyon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAGYCH21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GARANTIYABANK",
   "legalName": "GARANTIYABANK",
-  "bic": "GARNAZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.garantiyabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GARNAZ21XXX"
 }

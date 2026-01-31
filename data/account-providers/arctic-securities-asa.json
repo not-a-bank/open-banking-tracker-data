@@ -8,7 +8,6 @@
   ],
   "name": "ARCTIC SECURITIES ASA",
   "legalName": "ARCTIC SECURITIES ASA",
-  "bic": "ASEANOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arcticsecuritiesasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASEANOK1XXX"
 }

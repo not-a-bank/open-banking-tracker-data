@@ -8,7 +8,6 @@
   ],
   "name": "UTE",
   "legalName": "UTE",
-  "bic": "UTEUUYM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ute.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UTEUUYM1XXX"
 }

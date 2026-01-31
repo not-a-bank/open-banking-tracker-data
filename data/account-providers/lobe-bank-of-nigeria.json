@@ -8,7 +8,6 @@
   ],
   "name": "LOBE BANK OF NIGERIA",
   "legalName": "LOBE BANK OF NIGERIA",
-  "bic": "LBNINGL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lobebankofnigeria.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LBNINGL1XXX"
 }

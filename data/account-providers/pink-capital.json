@@ -8,7 +8,6 @@
   ],
   "name": "PINK CAPITAL",
   "legalName": "PINK CAPITAL",
-  "bic": "PICPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pinkcapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PICPFRP1XXX"
 }

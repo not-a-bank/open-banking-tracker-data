@@ -8,7 +8,6 @@
   ],
   "name": "POLIS FONDI IMMOBILIARI DI BANCHE P",
   "legalName": "POLIS FONDI IMMOBILIARI DI BANCHE P",
-  "bic": "PFIBITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.polisfondiimmobiliaridibanchep.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PFIBITM1XXX"
 }

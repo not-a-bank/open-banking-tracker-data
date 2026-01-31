@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE LA Pampa S.e.m.",
   "legalName": "BANCO DE LA PAMPA S.E.M.",
-  "bic": "PAMPARBAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAMPARBAXXX"
 }

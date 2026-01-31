@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK BEUERBERG-EURASBURG EG",
   "legalName": "RAIFFEISENBANK BEUERBERG-EURASBURG EG",
-  "bic": "RABGDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankbeuerbergeurasburgeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABGDE71XXX"
 }

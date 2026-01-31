@@ -8,7 +8,6 @@
   ],
   "name": "SLAVYANBANK",
   "legalName": "SLAVYANBANK",
-  "bic": "SLAYRU2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.slavyanbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLAYRU2NXXX"
 }

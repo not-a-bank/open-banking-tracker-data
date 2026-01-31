@@ -8,7 +8,6 @@
   ],
   "name": "Banco Bilbao Vizcaya Argentaria, S.a., Hong Kong Branch",
   "legalName": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A., HONG KONG BRANCH",
-  "bic": "BBVAHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBVAHKHHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "COR JOINT STOCK COMMERCIAL BANK",
   "legalName": "COR JOINT STOCK COMMERCIAL BANK",
-  "bic": "CJSORU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.corjointstockcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CJSORU21XXX"
 }

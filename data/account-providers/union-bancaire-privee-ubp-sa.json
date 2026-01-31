@@ -8,7 +8,6 @@
   ],
   "name": "UNION BANCAIRE PRIVEE, UBP SA",
   "legalName": "UNION BANCAIRE PRIVEE, UBP SA",
-  "bic": "UBPGMCMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unionbancairepriveeubpsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBPGMCMXXXX"
 }

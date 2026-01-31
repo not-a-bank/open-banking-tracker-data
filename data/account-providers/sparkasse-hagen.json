@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE HAGEN",
   "legalName": "SPARKASSE HAGEN",
-  "bic": "WELADE3HXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassehagen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WELADE3HXXX"
 }

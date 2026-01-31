@@ -8,7 +8,6 @@
   ],
   "name": "TRUST BANK LTD",
   "legalName": "TRUST BANK LTD",
-  "bic": "TBLTGMGMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trustbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TBLTGMGMXXX"
 }

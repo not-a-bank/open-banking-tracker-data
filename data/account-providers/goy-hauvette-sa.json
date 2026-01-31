@@ -8,7 +8,6 @@
   ],
   "name": "GOY-HAUVETTE S.A.",
   "legalName": "GOY-HAUVETTE S.A.",
-  "bic": "GOYECHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goyhauvettesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOYECHG1XXX"
 }

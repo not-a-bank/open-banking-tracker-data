@@ -8,7 +8,6 @@
   ],
   "name": "PERSHING SECURITIES CANADA LIMITED",
   "legalName": "PERSHING SECURITIES CANADA LIMITED",
-  "bic": "PRSHCA91XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pershingsecuritiescanadalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRSHCA91XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SSIF STK TRADING S.A.",
   "legalName": "SSIF STK TRADING S.A.",
-  "bic": "SSSRRO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ssifstktradingsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSSRRO21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PACIFIC CITY BANK",
   "legalName": "PACIFIC CITY BANK",
-  "bic": "PACBUS6LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pacificcitybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PACBUS6LXXX"
 }

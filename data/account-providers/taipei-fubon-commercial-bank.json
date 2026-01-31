@@ -8,7 +8,6 @@
   ],
   "name": "TAIPEI FUBON COMMERCIAL BANK",
   "legalName": "TAIPEI FUBON COMMERCIAL BANK",
-  "bic": "TPBKVNVXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.taipeifuboncommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TPBKVNVXXXX"
 }

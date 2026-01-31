@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF MONTREAL, SINGAPORE BRANCH",
   "legalName": "BANK OF MONTREAL, SINGAPORE BRANCH",
-  "bic": "BOFMSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofmontrealsingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFMSGSGXXX"
 }

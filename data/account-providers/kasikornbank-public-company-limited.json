@@ -8,7 +8,6 @@
   ],
   "name": "KASIKORNBANK PUBLIC COMPANY LIMITED",
   "legalName": "KASIKORNBANK PUBLIC COMPANY LIMITED",
-  "bic": "KASIHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kasikornbankpubliccompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KASIHKHHXXX"
 }

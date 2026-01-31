@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE L'HABITAT DU SENEGAL",
   "legalName": "BANQUE DE L'HABITAT DU SENEGAL",
-  "bic": "LHSESNDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedelhabitatdusenegal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LHSESNDAXXX"
 }

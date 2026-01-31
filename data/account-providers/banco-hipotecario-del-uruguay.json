@@ -8,7 +8,6 @@
   ],
   "name": "BANCO HIPOTECARIO DEL URUGUAY",
   "legalName": "BANCO HIPOTECARIO DEL URUGUAY",
-  "bic": "BHUMUYM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancohipotecariodeluruguay.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHUMUYM1XXX"
 }

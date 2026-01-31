@@ -8,7 +8,6 @@
   ],
   "name": "LOUNAIS-SUOMEN OSUUSPANKKI",
   "legalName": "LOUNAIS-SUOMEN OSUUSPANKKI",
-  "bic": "LOOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lounaissuomenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOOPFI21XXX"
 }

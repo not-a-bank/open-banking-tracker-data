@@ -8,7 +8,6 @@
   ],
   "name": "FORTUNE SECURITIES INC.",
   "legalName": "FORTUNE SECURITIES INC.",
-  "bic": "FOTRPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fortunesecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FOTRPHM1XXX"
 }

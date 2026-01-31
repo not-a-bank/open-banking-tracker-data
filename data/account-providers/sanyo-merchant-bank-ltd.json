@@ -8,7 +8,6 @@
   ],
   "name": "SANYO MERCHANT BANK LTD",
   "legalName": "SANYO MERCHANT BANK LTD",
-  "bic": "SAMKSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sanyomerchantbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAMKSGS1XXX"
 }

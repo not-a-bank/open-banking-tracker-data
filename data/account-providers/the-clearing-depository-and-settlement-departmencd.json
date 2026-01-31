@@ -8,7 +8,6 @@
   ],
   "name": "THE CLEARING, DEPOSITORY AND SETTLEMENT DEPARTMEN(CDS)",
   "legalName": "THE CLEARING, DEPOSITORY AND SETTLEMENT DEPARTMEN(CDS)",
-  "bic": "CDSEPS21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theclearingdepositoryandsettlementdepartmencd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDSEPS21XXX"
 }

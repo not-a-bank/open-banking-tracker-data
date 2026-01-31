@@ -8,7 +8,6 @@
   ],
   "name": "LANDESAMT FUR FINANZEN",
   "legalName": "LANDESAMT FUR FINANZEN",
-  "bic": "LAFNDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.landesamtfurfinanzen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAFNDEM1XXX"
 }

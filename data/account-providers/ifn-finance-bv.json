@@ -8,7 +8,6 @@
   ],
   "name": "IFN FINANCE B.V.",
   "legalName": "IFN FINANCE B.V.",
-  "bic": "IFFANL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ifnfinancebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IFFANL21XXX"
 }

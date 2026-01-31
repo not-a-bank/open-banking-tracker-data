@@ -8,7 +8,6 @@
   ],
   "name": "BANK MAJSKIJ",
   "legalName": "BANK MAJSKIJ",
-  "bic": "MAJKRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankmajskij.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAJKRU21XXX"
 }

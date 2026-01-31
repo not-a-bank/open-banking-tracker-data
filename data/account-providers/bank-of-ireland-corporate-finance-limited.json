@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF IRELAND CORPORATE FINANCE LIMITED",
   "legalName": "BANK OF IRELAND CORPORATE FINANCE LIMITED",
-  "bic": "IRCFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofirelandcorporatefinancelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRCFGB21XXX"
 }

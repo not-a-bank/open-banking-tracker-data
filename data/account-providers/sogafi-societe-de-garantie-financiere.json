@@ -8,7 +8,6 @@
   ],
   "name": "SOGAFI - SOCIETE DE GARANTIE FINANCIERE",
   "legalName": "SOGAFI - SOCIETE DE GARANTIE FINANCIERE",
-  "bic": "SSGFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sogafisocietedegarantiefinanciere.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSGFFRP1XXX"
 }

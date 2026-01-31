@@ -8,7 +8,6 @@
   ],
   "name": "HSBC JAMES CAPEL BROKERAGE-EGYPT S.A.E.",
   "legalName": "HSBC JAMES CAPEL BROKERAGE-EGYPT S.A.E.",
-  "bic": "HJCREGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcjamescapelbrokerageegyptsae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HJCREGC1XXX"
 }

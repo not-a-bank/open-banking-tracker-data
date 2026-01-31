@@ -8,7 +8,6 @@
   ],
   "name": "FASTER ANDELSKASSE",
   "legalName": "FASTER ANDELSKASSE",
-  "bic": "FAANDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fasterandelskasse.com.ico",
@@ -24,10 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FAANDK21"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK FRIEDRICHSHAFEN EG",
   "legalName": "VOLKSBANK FRIEDRICHSHAFEN EG",
-  "bic": "VOFEDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankfriedrichshafeneg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOFEDE61XXX"
 }

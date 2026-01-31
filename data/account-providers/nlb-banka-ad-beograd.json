@@ -8,7 +8,6 @@
   ],
   "name": "NLB BANKA A.D. BEOGRAD",
   "legalName": "NLB BANKA A.D. BEOGRAD",
-  "bic": "CONARS22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nlbbankaadbeograd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONARS22XXX"
 }

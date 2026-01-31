@@ -8,7 +8,6 @@
   ],
   "name": "TELECOM ITALIA SPA",
   "legalName": "TELECOM ITALIA SPA",
-  "bic": "TLITITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.telecomitaliaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TLITITMMXXX"
 }

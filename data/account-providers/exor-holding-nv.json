@@ -8,7 +8,6 @@
   ],
   "name": "EXOR HOLDING N.V.",
   "legalName": "EXOR HOLDING N.V.",
-  "bic": "EXHLNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exorholdingnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXHLNL21XXX"
 }

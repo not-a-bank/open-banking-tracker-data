@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SA",
   "legalName": "BNP PARIBAS SA",
-  "bic": "PCMSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassagb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PCMSGB21XXX"
 }

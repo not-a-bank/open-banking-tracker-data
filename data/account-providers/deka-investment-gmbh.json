@@ -8,7 +8,6 @@
   ],
   "name": "DEKA INVESTMENT GMBH",
   "legalName": "DEKA INVESTMENT GMBH",
-  "bic": "DEKADEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dekainvestmentgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEKADEFFXXX"
 }

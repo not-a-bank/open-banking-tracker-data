@@ -8,7 +8,6 @@
   ],
   "name": "MEZZANIN FINANZIERUNGS AG",
   "legalName": "MEZZANIN FINANZIERUNGS AG",
-  "bic": "MEZFATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mezzaninfinanzierungsag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEZFATW1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NONOO EXCHANGE COMPANY BSC (C)",
   "legalName": "NONOO EXCHANGE COMPANY BSC (C)",
-  "bic": "NOEXBHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nonooexchangecompanybscc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOEXBHB1XXX"
 }

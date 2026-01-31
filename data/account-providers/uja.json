@@ -8,7 +8,6 @@
   ],
   "name": "UJA",
   "legalName": "UJA",
-  "bic": "UJAAFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uja.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UJAAFRPPXXX"
 }

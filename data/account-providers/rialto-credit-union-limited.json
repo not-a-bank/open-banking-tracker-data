@@ -8,7 +8,6 @@
   ],
   "name": "RIALTO CREDIT UNION LIMITED",
   "legalName": "RIALTO CREDIT UNION LIMITED",
-  "bic": "RICUIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rialtocreditunionlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RICUIE21XXX"
 }

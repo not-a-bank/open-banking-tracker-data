@@ -8,7 +8,6 @@
   ],
   "name": "KUPERUS EFFECTEN B.V.",
   "legalName": "KUPERUS EFFECTEN B.V.",
-  "bic": "KUPENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kuperuseffectenbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KUPENL21XXX"
 }

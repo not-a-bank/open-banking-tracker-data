@@ -9,7 +9,6 @@
   ],
   "name": "FORNEBU SPAREBANK",
   "legalName": "FORNEBU SPAREBANK",
-  "bic": "TELENO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/01c26bff-39f4-4547-b16b-b8f83d3b879a/-/preview/170x170/-/crop/180x180/center/NO985750378.png",
@@ -60,5 +59,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TELENO21XXX"
 }

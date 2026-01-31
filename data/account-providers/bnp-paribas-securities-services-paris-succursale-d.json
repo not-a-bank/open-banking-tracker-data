@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE DE ZURICH",
   "legalName": "BNP PARIBAS SECURITIES SERVICES, PARIS, SUCCURSALE DE ZURICH",
-  "bic": "PARBCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassecuritiesservicesparissuccursaled.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARBCHZZXXX"
 }

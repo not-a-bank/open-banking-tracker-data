@@ -30,7 +30,8 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge"
   ],
-  "swiftCode": "EUBAITM1"
+  "bic": "EUBAITM1"
 }

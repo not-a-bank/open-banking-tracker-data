@@ -8,7 +8,6 @@
   ],
   "name": "FITCH RATINGS LTD (KOREA BRANCH)",
   "legalName": "FITCH RATINGS LTD (KOREA BRANCH)",
-  "bic": "FRIPKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchratingsltdkoreabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPKRS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PRUDENTIAL BACHE SECURITIES (UK) INC",
   "legalName": "PRUDENTIAL BACHE SECURITIES (UK) INC",
-  "bic": "PBSIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.prudentialbachesecuritiesukinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBSIGB21XXX"
 }

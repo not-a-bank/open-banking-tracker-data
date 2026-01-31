@@ -66,9 +66,10 @@
     }
   ],
   "apiAggregators": [
-    "volt",
+    "gocardless",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

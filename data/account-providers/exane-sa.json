@@ -8,7 +8,6 @@
   ],
   "name": "EXANE S.A.",
   "legalName": "EXANE S.A.",
-  "bic": "EXANFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exanesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXANFRPPXXX"
 }

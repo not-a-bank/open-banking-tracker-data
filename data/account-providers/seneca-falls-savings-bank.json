@@ -8,7 +8,6 @@
   ],
   "name": "SENECA FALLS SAVINGS BANK",
   "legalName": "SENECA FALLS SAVINGS BANK",
-  "bic": "SFSBUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.senecafallssavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFSBUS31XXX"
 }

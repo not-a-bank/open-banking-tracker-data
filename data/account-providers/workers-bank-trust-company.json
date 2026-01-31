@@ -8,7 +8,6 @@
   ],
   "name": "WORKERS BANK TRUST COMPANY",
   "legalName": "WORKERS BANK TRUST COMPANY",
-  "bic": "WBTCJMK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.workersbanktrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WBTCJMK1XXX"
 }

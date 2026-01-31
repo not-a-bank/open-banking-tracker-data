@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF TAIWAN, NEW YORK BRANCH",
   "legalName": "BANK OF TAIWAN, NEW YORK BRANCH",
-  "bic": "BKTWUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankoftaiwannewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKTWUS33XXX"
 }

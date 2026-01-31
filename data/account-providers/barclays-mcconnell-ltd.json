@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS MCCONNELL LTD",
   "legalName": "BARCLAYS MCCONNELL LTD",
-  "bic": "BMCCCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysmcconnellltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMCCCAT1XXX"
 }

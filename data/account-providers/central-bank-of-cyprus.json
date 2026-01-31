@@ -8,7 +8,6 @@
   ],
   "name": "Central Bank OF Cyprus",
   "legalName": "CENTRAL BANK OF CYPRUS",
-  "bic": "CBCYCY2NACC",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBCYCY2NACC"
 }

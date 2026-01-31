@@ -8,7 +8,6 @@
   ],
   "name": "BANCO COMERCIAL PORTUGUES",
   "legalName": "BANCO COMERCIAL PORTUGUES",
-  "bic": "CISFPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocomercialportuguespt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CISFPTP1XXX"
 }

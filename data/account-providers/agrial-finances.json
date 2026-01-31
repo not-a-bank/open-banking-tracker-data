@@ -8,7 +8,6 @@
   ],
   "name": "Agrial Finances",
   "legalName": "AGRIAL FINANCES",
-  "bic": "AGFIFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agrialfinances.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGFIFR22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SEAT BANK GMBH",
   "legalName": "SEAT BANK GMBH",
-  "bic": "SEATDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.seatbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEATDE21XXX"
 }

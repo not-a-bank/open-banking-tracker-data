@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK S.P.A.",
   "legalName": "DEUTSCHE BANK S.P.A.",
-  "bic": "DEUTITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankspait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTITMMXXX"
 }

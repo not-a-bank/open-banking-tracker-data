@@ -8,7 +8,6 @@
   ],
   "name": "CROSSFIRST BANK",
   "legalName": "CROSSFIRST BANK",
-  "bic": "CSFFUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.crossfirstbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSFFUS44XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MUFG SECURITIES AMERICAS INC.",
   "legalName": "MUFG SECURITIES AMERICAS INC.",
-  "bic": "MUSCUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mufgsecuritiesamericasinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUSCUS33XXX"
 }

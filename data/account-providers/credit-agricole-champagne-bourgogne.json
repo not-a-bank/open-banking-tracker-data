@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole Champagne-Bourgogne",
-  "legalName": "Cr\u00e9dit Agricole Champagne-Bourgogne",
+  "name": "Crédit Agricole Champagne-Bourgogne",
+  "legalName": "Crédit Agricole Champagne-Bourgogne",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-champagne-bourgogne.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

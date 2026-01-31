@@ -8,7 +8,6 @@
   ],
   "name": "ECOFERTIL S.A.",
   "legalName": "ECOFERTIL S.A.",
-  "bic": "ECFTCOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecofertilsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECFTCOBBXXX"
 }

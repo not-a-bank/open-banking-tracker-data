@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH INTERNATIONAL BANK LIMIITED",
   "legalName": "MERRILL LYNCH INTERNATIONAL BANK LIMIITED",
-  "bic": "MLIBESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchinternationalbanklimiited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLIBESM1XXX"
 }

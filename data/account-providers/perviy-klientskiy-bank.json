@@ -8,7 +8,6 @@
   ],
   "name": "PERVIY KLIENTSKIY BANK",
   "legalName": "PERVIY KLIENTSKIY BANK",
-  "bic": "FCBRRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.perviyklientskiybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCBRRUMMXXX"
 }

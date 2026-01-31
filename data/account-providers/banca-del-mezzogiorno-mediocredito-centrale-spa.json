@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DEL MEZZOGIORNO - MEDIOCREDITO CENTRALE S.P.A.",
   "legalName": "BANCA DEL MEZZOGIORNO - MEDIOCREDITO CENTRALE S.P.A.",
-  "bic": "MCENITRRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadelmezzogiornomediocreditocentralespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCENITRRXXX"
 }

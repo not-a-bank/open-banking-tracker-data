@@ -8,7 +8,6 @@
   ],
   "name": "CB RUSSIAN MORTGAGE BANK (LLC)",
   "legalName": "CB RUSSIAN MORTGAGE BANK (LLC)",
-  "bic": "RUMORUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbrussianmortgagebankllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RUMORUMMXXX"
 }

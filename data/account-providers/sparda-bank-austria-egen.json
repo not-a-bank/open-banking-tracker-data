@@ -8,7 +8,6 @@
   ],
   "name": "SPARDA-BANK AUSTRIA EGEN",
   "legalName": "SPARDA-BANK AUSTRIA EGEN",
-  "bic": "SPDAAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spardabankaustriaegen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPDAAT21XXX"
 }

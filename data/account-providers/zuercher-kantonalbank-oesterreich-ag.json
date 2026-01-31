@@ -8,7 +8,6 @@
   ],
   "name": "ZUERCHER KANTONALBANK OESTERREICH AG",
   "legalName": "ZUERCHER KANTONALBANK OESTERREICH AG",
-  "bic": "PIAGAT2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zuercherkantonalbankoesterreichag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PIAGAT2SXXX"
 }

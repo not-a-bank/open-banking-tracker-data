@@ -8,7 +8,6 @@
   ],
   "name": "NOVUM SECURITIES LIMITED MARKET MAKING",
   "legalName": "NOVUM SECURITIES LIMITED MARKET MAKING",
-  "bic": "NSMMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novumsecuritieslimitedmarketmaking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSMMGB21XXX"
 }

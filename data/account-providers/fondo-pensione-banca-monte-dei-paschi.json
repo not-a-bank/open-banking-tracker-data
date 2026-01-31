@@ -8,7 +8,6 @@
   ],
   "name": "FONDO PENSIONE BANCA MONTE DEI PASCHI",
   "legalName": "FONDO PENSIONE BANCA MONTE DEI PASCHI",
-  "bic": "FPMPIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fondopensionebancamontedeipaschi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FPMPIT21XXX"
 }

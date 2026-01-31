@@ -29,9 +29,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "salt-edge",
     "volt",
-    "yaxi",
-    "salt-edge"
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

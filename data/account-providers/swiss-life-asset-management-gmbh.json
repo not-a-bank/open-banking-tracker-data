@@ -8,7 +8,6 @@
   ],
   "name": "SWISS LIFE ASSET MANAGEMENT GMBH",
   "legalName": "SWISS LIFE ASSET MANAGEMENT GMBH",
-  "bic": "SLAMDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swisslifeassetmanagementgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLAMDEMMXXX"
 }

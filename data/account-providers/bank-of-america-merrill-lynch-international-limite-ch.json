@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, ZURICH BRANCH",
   "legalName": "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, ZURICH BRANCH",
-  "bic": "BOFACH2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericamerrilllynchinternationallimitech.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFACH2XXXX"
 }

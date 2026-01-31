@@ -8,7 +8,6 @@
   ],
   "name": "JADRANSKA BANKA D.D. SIBENIK",
   "legalName": "JADRANSKA BANKA D.D. SIBENIK",
-  "bic": "JADRHR2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jadranskabankaddsibenik.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JADRHR2XXXX"
 }

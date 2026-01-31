@@ -8,7 +8,6 @@
   ],
   "name": "PFANDBRIEFSTELLE DER OESTERREICHISCHEN LANDES HYPOTHEKKENBANKEN",
   "legalName": "PFANDBRIEFSTELLE DER OESTERREICHISCHEN LANDES HYPOTHEKKENBANKEN",
-  "bic": "POLHATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pfandbriefstellederoesterreichischenlandeshypo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POLHATW1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK ICHENHAUSEN EG",
   "legalName": "RAIFFEISENBANK ICHENHAUSEN EG",
-  "bic": "RAIUDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankichenhauseneg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAIUDE61XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AMERICAN EXPRESS INTERNATIONAL INC (AUSTRALIA BRANCH)",
   "legalName": "AMERICAN EXPRESS INTERNATIONAL INC (AUSTRALIA BRANCH)",
-  "bic": "AEIAAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.americanexpressinternationalincaustraliabranc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEIAAU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS INTERNATIONALE AKTIER",
   "legalName": "INVESTERINGSFORENINGEN NORDEA INVESTENGROS INTERNATIONALE AKTIER",
-  "bic": "IOVIDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investeringsforeningennordeainvestengrosinterna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IOVIDKK1XXX"
 }

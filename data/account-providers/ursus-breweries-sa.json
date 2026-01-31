@@ -8,7 +8,6 @@
   ],
   "name": "URSUS BREWERIES SA",
   "legalName": "URSUS BREWERIES SA",
-  "bic": "SABMROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ursusbreweriessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABMROB1XXX"
 }

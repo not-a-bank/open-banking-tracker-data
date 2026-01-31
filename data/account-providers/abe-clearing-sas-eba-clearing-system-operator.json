@@ -8,7 +8,6 @@
   ],
   "name": "ABE Clearing Sas/eba Clearing (system Operator)",
   "legalName": "ABE CLEARING SAS/EBA CLEARING (SYSTEM OPERATOR)",
-  "bic": "OPERATOR",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPERATOR"
 }

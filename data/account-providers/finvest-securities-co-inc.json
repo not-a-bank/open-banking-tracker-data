@@ -8,7 +8,6 @@
   ],
   "name": "FINVEST SECURITIES CO INC",
   "legalName": "FINVEST SECURITIES CO INC",
-  "bic": "FINUPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finvestsecuritiescoinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FINUPHM1XXX"
 }

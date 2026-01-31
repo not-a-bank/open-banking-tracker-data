@@ -8,7 +8,6 @@
   ],
   "name": "EUROPEAN EQUITIES",
   "legalName": "EUROPEAN EQUITIES",
-  "bic": "EUEQFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.europeanequities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUEQFRP1XXX"
 }

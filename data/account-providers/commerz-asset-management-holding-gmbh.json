@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZ ASSET MANAGEMENT HOLDING GMBH",
   "legalName": "COMMERZ ASSET MANAGEMENT HOLDING GMBH",
-  "bic": "CAMHDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzassetmanagementholdinggmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAMHDEF1XXX"
 }

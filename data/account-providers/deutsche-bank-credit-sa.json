@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK CREDIT S.A.",
   "legalName": "DEUTSCHE BANK CREDIT S.A.",
-  "bic": "DECRESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankcreditsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DECRESM1XXX"
 }

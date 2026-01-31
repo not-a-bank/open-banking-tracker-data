@@ -8,7 +8,6 @@
   ],
   "name": "INCHCAPE FRANCE FINANCE",
   "legalName": "INCHCAPE FRANCE FINANCE",
-  "bic": "ICHCFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.inchcapefrancefinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICHCFR21XXX"
 }

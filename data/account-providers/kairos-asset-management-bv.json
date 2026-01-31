@@ -8,7 +8,6 @@
   ],
   "name": "KAIROS ASSET MANAGEMENT B.V.",
   "legalName": "KAIROS ASSET MANAGEMENT B.V.",
-  "bic": "KAMENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kairosassetmanagementbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAMENL21XXX"
 }

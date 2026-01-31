@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF IRELAND ASSET MANAGEMENT (U.K.) LIMITED",
   "legalName": "BANK OF IRELAND ASSET MANAGEMENT (U.K.) LIMITED",
-  "bic": "IRAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofirelandassetmanagementuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRAMGB21XXX"
 }

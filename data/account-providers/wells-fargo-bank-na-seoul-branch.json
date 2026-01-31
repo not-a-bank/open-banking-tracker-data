@@ -8,7 +8,6 @@
   ],
   "name": "WELLS FARGO BANK, N.A., SEOUL BRANCH",
   "legalName": "WELLS FARGO BANK, N.A., SEOUL BRANCH",
-  "bic": "PNBPKRSXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wellsfargobanknaseoulbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBPKRSXXXX"
 }

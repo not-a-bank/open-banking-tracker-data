@@ -8,7 +8,6 @@
   ],
   "name": "TRADE BANK PLC",
   "legalName": "TRADE BANK PLC",
-  "bic": "TDEBNGL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tradebankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TDEBNGL1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SIGNATURE BANK",
   "legalName": "SIGNATURE BANK",
-  "bic": "SIGNUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.signaturebankus1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIGNUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK MELLI IRAN, BAKU BRANCH",
   "legalName": "BANK MELLI IRAN, BAKU BRANCH",
-  "bic": "MELIAZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankmelliiranbakubranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MELIAZ22XXX"
 }

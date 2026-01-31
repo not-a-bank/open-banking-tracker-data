@@ -8,7 +8,6 @@
   ],
   "name": "ING Bank N.v. Sofia Branch",
   "legalName": "ING BANK N.V. SOFIA BRANCH",
-  "bic": "INGBBGSFXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGBBGSFXXX"
 }

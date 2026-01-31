@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH (AUSTRALIA) PTY LTD",
   "legalName": "MERRILL LYNCH (AUSTRALIA) PTY LTD",
-  "bic": "MELMAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchaustraliaptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MELMAU31XXX"
 }

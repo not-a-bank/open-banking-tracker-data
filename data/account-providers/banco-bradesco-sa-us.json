@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BRADESCO S.A.",
   "legalName": "BANCO BRADESCO S.A.",
-  "bic": "BBDEUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobradescosaus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBDEUS33XXX"
 }

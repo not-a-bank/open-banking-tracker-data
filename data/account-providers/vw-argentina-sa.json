@@ -8,7 +8,6 @@
   ],
   "name": "VW ARGENTINA S.A.",
   "legalName": "VW ARGENTINA S.A.",
-  "bic": "ARGNARB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vwargentinasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARGNARB1XXX"
 }

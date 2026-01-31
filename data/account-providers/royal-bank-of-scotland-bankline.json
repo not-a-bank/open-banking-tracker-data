@@ -1,0 +1,39 @@
+{
+  "id": "royal-bank-of-scotland-bankline",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "private"
+  ],
+  "name": "Royal Bank of Scotland Bankline",
+  "legalName": "Royal Bank of Scotland Bankline",
+  "verified": false,
+  "status": "live",
+  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/rbs_digital_banking_gb.svg",
+  "websiteUrl": "https://personal.rbs.co.uk",
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://openbanking.atlassian.net/wiki/spaces/DZ/overview",
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless",
+    "salt-edge"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RBSSGBKC"
+}

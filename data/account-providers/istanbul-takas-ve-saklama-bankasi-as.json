@@ -8,7 +8,6 @@
   ],
   "name": "ISTANBUL TAKAS VE SAKLAMA BANKASI A.S.",
   "legalName": "ISTANBUL TAKAS VE SAKLAMA BANKASI A.S.",
-  "bic": "TVSBTRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.istanbultakasvesaklamabankasias.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TVSBTRISXXX"
 }

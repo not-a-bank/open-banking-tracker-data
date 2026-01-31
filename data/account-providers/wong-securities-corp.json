@@ -8,7 +8,6 @@
   ],
   "name": "WONG SECURITIES CORP.",
   "legalName": "WONG SECURITIES CORP.",
-  "bic": "WONGPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wongsecuritiescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WONGPHM1XXX"
 }

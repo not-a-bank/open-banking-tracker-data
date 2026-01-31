@@ -8,7 +8,6 @@
   ],
   "name": "SERVICES ET PRETS IMMOBILIERS",
   "legalName": "SERVICES ET PRETS IMMOBILIERS",
-  "bic": "SEPIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.servicesetpretsimmobiliers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEPIFRP1XXX"
 }

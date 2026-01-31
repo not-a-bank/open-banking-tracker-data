@@ -8,7 +8,6 @@
   ],
   "name": "PASAY STOCK AND SHARES LIMITED",
   "legalName": "PASAY STOCK AND SHARES LIMITED",
-  "bic": "PASHHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pasaystockandshareslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PASHHKH1XXX"
 }

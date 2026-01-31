@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA BANK S.A. LUXEMBOURG (TRANSFER AGENCY)",
   "legalName": "NORDEA BANK S.A. LUXEMBOURG (TRANSFER AGENCY)",
-  "bic": "NDEALUL2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeabanksaluxembourgtransferagency.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEALUL2XXX"
 }

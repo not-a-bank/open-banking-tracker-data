@@ -8,7 +8,6 @@
   ],
   "name": "BANK MORGAN STANLEY AG",
   "legalName": "BANK MORGAN STANLEY AG",
-  "bic": "MSSACHZXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankmorganstanleyag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSSACHZXXXX"
 }

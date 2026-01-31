@@ -8,7 +8,6 @@
   ],
   "name": "REGARDBTP SA",
   "legalName": "REGARDBTP SA",
-  "bic": "REGRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.regardbtpsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REGRFRP1XXX"
 }

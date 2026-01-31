@@ -8,7 +8,6 @@
   ],
   "name": "ISTITUTO DI MONETA ELETTRONICA EUROPEO S.P.A.",
   "legalName": "ISTITUTO DI MONETA ELETTRONICA EUROPEO S.P.A.",
-  "bic": "IMEEIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.istitutodimonetaelettronicaeuropeospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMEEIT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CBC BANQUE S.A.",
   "legalName": "CBC BANQUE S.A.",
-  "bic": "CREGBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbcbanquesa.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CREGBEBB"
 }

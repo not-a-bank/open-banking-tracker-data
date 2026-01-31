@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL PACIFIC SECURITIES LIMITED",
   "legalName": "INTERNATIONAL PACIFIC SECURITIES LIMITED",
-  "bic": "INPSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalpacificsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INPSGB21XXX"
 }

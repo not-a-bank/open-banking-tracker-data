@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W KADZIDLE",
   "legalName": "BANK SPOLDZIELCZY W KADZIDLE",
-  "bic": "SPDDPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywkadzidle.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPDDPLP1XXX"
 }

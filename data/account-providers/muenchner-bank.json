@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "M\u00fcnchner Bank",
-  "legalName": "M\u00fcnchner Bank",
+  "name": "Münchner Bank",
+  "legalName": "Münchner Bank",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.muenchner-bank.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

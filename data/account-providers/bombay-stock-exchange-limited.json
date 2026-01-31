@@ -8,7 +8,6 @@
   ],
   "name": "Bombay Stock Exchange Limited",
   "legalName": "BOMBAY STOCK EXCHANGE LIMITED",
-  "bic": "XBOMINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bombaystockexchange.in.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XBOMINBBXXX"
 }

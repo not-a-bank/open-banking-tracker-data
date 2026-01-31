@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS",
   "legalName": "UNICREDIT BANK AG (HYPOVEREINSBANK) ATHENS",
-  "bic": "HYVEGRAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbankaghypovereinsbankathens.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HYVEGRAAXXX"
 }

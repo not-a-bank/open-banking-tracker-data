@@ -8,7 +8,6 @@
   ],
   "name": "STRAUMANN HOLDING AG",
   "legalName": "STRAUMANN HOLDING AG",
-  "bic": "STHOCHBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.straumannholdingag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STHOCHBBXXX"
 }

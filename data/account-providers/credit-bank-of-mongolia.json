@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT BANK OF MONGOLIA",
   "legalName": "CREDIT BANK OF MONGOLIA",
-  "bic": "CRMNMNUBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditbankofmongolia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRMNMNUBXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FINAM BANK",
   "legalName": "FINAM BANK",
-  "bic": "FNMMRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finambank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNMMRUMMXXX"
 }

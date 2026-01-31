@@ -8,7 +8,6 @@
   ],
   "name": "MIZUHO BANK, LTD.(CUSTODY)",
   "legalName": "MIZUHO BANK, LTD.(CUSTODY)",
-  "bic": "MHCBJPJ2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mizuhobankltdcustody.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHCBJPJ2XXX"
 }

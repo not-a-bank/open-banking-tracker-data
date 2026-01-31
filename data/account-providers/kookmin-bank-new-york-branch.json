@@ -8,7 +8,6 @@
   ],
   "name": "KOOKMIN BANK, NEW YORK BRANCH",
   "legalName": "KOOKMIN BANK, NEW YORK BRANCH",
-  "bic": "CZNBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kookminbanknewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CZNBUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SVEA BANK AB",
   "legalName": "SVEA BANK AB",
-  "bic": "SVEASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sveabankab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SVEASES1XXX"
 }

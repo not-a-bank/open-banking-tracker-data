@@ -8,7 +8,6 @@
   ],
   "name": "AUDI INVESTMENT BANK SAL",
   "legalName": "AUDI INVESTMENT BANK SAL",
-  "bic": "INFSLBB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.audiinvestmentbanksallb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INFSLBB1XXX"
 }

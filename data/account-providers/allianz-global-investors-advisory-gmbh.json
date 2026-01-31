@@ -8,7 +8,6 @@
   ],
   "name": "ALLIANZ GLOBAL INVESTORS ADVISORY GMBH",
   "legalName": "ALLIANZ GLOBAL INVESTORS ADVISORY GMBH",
-  "bic": "ADIMDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allianzglobalinvestorsadvisorygmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADIMDEF1XXX"
 }

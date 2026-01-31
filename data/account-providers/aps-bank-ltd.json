@@ -8,7 +8,6 @@
   ],
   "name": "APS BANK LTD.",
   "legalName": "APS BANK LTD.",
-  "bic": "APSBMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.apsbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "APSBMTMTXXX"
 }

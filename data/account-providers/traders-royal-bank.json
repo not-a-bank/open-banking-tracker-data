@@ -8,7 +8,6 @@
   ],
   "name": "TRADERS ROYAL BANK",
   "legalName": "TRADERS ROYAL BANK",
-  "bic": "TRBFPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tradersroyalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRBFPHM1XXX"
 }

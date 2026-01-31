@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA NORDIC FUND",
   "legalName": "NORDEA NORDIC FUND",
-  "bic": "NONFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeanordicfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NONFFIH1XXX"
 }

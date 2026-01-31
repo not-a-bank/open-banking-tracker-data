@@ -8,7 +8,6 @@
   ],
   "name": "HALLMARK BANK PLC",
   "legalName": "HALLMARK BANK PLC",
-  "bic": "HALMNGL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hallmarkbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HALMNGL1XXX"
 }

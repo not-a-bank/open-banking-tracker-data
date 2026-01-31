@@ -8,7 +8,6 @@
   ],
   "name": "HABIB BANK LIMITED",
   "legalName": "HABIB BANK LIMITED",
-  "bic": "HABBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.habibbanklimitedus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HABBUS33XXX"
 }

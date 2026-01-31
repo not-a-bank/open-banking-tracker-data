@@ -8,7 +8,6 @@
   ],
   "name": "LEHMAN BROTHERS AUSTRALIA SECURITIES PTY LIMITED",
   "legalName": "LEHMAN BROTHERS AUSTRALIA SECURITIES PTY LIMITED",
-  "bic": "LBATAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lehmanbrothersaustraliasecuritiesptylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LBATAU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MERKUR BANK KGAA",
   "legalName": "MERKUR BANK KGAA",
-  "bic": "MEKGDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merkurbankkgaa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEKGDE71XXX"
 }

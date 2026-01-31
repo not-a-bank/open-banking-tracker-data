@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIA IMMOBILIARE AZIONARIA SPA",
   "legalName": "COMPAGNIA IMMOBILIARE AZIONARIA SPA",
-  "bic": "CIOZITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniaimmobiliareazionariaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIOZITM1XXX"
 }

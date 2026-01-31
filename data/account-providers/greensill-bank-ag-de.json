@@ -8,7 +8,6 @@
   ],
   "name": "GREENSILL BANK AG",
   "legalName": "GREENSILL BANK AG",
-  "bic": "NFHBDE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.greensillbankagde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NFHBDE22XXX"
 }

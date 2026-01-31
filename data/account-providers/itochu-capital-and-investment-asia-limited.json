@@ -8,7 +8,6 @@
   ],
   "name": "ITOCHU CAPITAL AND INVESTMENT (ASIA) LIMITED",
   "legalName": "ITOCHU CAPITAL AND INVESTMENT (ASIA) LIMITED",
-  "bic": "ICISSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.itochucapitalandinvestmentasialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICISSGS1XXX"
 }

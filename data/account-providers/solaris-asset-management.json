@@ -8,7 +8,6 @@
   ],
   "name": "SOLARIS ASSET MANAGEMENT",
   "legalName": "SOLARIS ASSET MANAGEMENT",
-  "bic": "SOAEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.solarisassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOAEUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCOFAR S.A.",
   "legalName": "BANCOFAR S.A.",
-  "bic": "BAOFESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancofarsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAOFESM1XXX"
 }

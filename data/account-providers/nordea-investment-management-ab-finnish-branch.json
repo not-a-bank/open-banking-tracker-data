@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA INVESTMENT MANAGEMENT AB FINNISH BRANCH",
   "legalName": "NORDEA INVESTMENT MANAGEMENT AB FINNISH BRANCH",
-  "bic": "NIMFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeainvestmentmanagementabfinnishbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIMFFIH1XXX"
 }

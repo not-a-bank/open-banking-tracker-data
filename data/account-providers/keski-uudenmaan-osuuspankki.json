@@ -8,7 +8,6 @@
   ],
   "name": "KESKI-UUDENMAAN OSUUSPANKKI",
   "legalName": "KESKI-UUDENMAAN OSUUSPANKKI",
-  "bic": "KEONFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.keskiuudenmaanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KEONFI21XXX"
 }

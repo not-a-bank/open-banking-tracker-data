@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE PARISIENNE DE FINANCE ET DE CREDIT",
   "legalName": "SOCIETE PARISIENNE DE FINANCE ET DE CREDIT",
-  "bic": "SPFCFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societeparisiennedefinanceetdecredit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPFCFRP1XXX"
 }

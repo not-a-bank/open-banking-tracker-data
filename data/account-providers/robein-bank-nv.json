@@ -8,7 +8,6 @@
   ],
   "name": "ROBEIN BANK N.V.",
   "legalName": "ROBEIN BANK N.V.",
-  "bic": "ROBNNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.robeinbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROBNNL21XXX"
 }

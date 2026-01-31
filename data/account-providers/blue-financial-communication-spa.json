@@ -8,7 +8,6 @@
   ],
   "name": "BLUE FINANCIAL COMMUNICATION SPA",
   "legalName": "BLUE FINANCIAL COMMUNICATION SPA",
-  "bic": "BLFCITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bluefinancialcommunicationspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLFCITM1XXX"
 }

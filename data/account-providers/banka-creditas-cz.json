@@ -8,7 +8,6 @@
   ],
   "name": "BANKA CREDITAS",
   "legalName": "BANKA CREDITAS",
-  "bic": "CTASCZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankacreditascz.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTASCZ22XXX"
 }

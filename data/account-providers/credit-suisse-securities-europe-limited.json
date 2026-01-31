@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE SECURITIES (EUROPE) LIMITED",
   "legalName": "CREDIT SUISSE SECURITIES (EUROPE) LIMITED",
-  "bic": "CSEEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissesecuritieseuropelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSEEFRP1XXX"
 }

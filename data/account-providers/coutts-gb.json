@@ -9,7 +9,6 @@
   ],
   "name": "COUTTS",
   "legalName": "COUTTS",
-  "bic": "COUTGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/coutts_clearspend_gb.svg",
@@ -32,9 +31,11 @@
   "apiAggregators": [
     "plaid",
     "salt-edge",
-    "volt"
+    "volt",
+    "gocardless"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COUTGB22XXX"
 }

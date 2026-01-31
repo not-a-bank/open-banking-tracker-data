@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Andelskassen F\u00e6lleskassen",
-  "legalName": "Andelskassen F\u00e6lleskassen",
+  "name": "Andelskassen Fælleskassen",
+  "legalName": "Andelskassen Fælleskassen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.andelskassen-faelleskassen.com.ico",
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FAELDKK1"
 }

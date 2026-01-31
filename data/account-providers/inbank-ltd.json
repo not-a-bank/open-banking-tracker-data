@@ -8,7 +8,6 @@
   ],
   "name": "INBANK, LTD",
   "legalName": "INBANK, LTD",
-  "bic": "INKNRUM2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.inbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INKNRUM2XXX"
 }

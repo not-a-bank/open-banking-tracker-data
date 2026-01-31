@@ -8,7 +8,6 @@
   ],
   "name": "SG KLEINWORT HAMBROS BANK (CI) LIMITED",
   "legalName": "SG KLEINWORT HAMBROS BANK (CI) LIMITED",
-  "bic": "HAMBJESXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sgkleinworthambrosbankcilimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAMBJESXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AEROPORTS DE PARIS",
   "legalName": "AEROPORTS DE PARIS",
-  "bic": "AEDPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aeroportsdeparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEDPFRP1XXX"
 }

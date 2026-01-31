@@ -8,7 +8,6 @@
   ],
   "name": "JP MORGAN FUTURES INC.",
   "legalName": "JP MORGAN FUTURES INC.",
-  "bic": "MFCSSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganfuturesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MFCSSGS1XXX"
 }

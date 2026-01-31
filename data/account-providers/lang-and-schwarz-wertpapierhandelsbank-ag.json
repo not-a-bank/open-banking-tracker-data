@@ -8,7 +8,6 @@
   ],
   "name": "LANG AND SCHWARZ WERTPAPIERHANDELSBANK AG",
   "legalName": "LANG AND SCHWARZ WERTPAPIERHANDELSBANK AG",
-  "bic": "LSWEDED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.langandschwarzwertpapierhandelsbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LSWEDED1XXX"
 }

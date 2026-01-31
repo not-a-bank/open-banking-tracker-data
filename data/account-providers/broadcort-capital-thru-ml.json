@@ -8,7 +8,6 @@
   ],
   "name": "BROADCORT CAPITAL (THRU ML)",
   "legalName": "BROADCORT CAPITAL (THRU ML)",
-  "bic": "BRCCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.broadcortcapitalthruml.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRCCUS31XXX"
 }

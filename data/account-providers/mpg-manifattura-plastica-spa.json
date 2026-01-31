@@ -8,7 +8,6 @@
   ],
   "name": "MPG MANIFATTURA PLASTICA S.P.A.",
   "legalName": "MPG MANIFATTURA PLASTICA S.P.A.",
-  "bic": "MPMLITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mpgmanifatturaplasticaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MPMLITM1XXX"
 }

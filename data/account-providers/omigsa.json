@@ -8,7 +8,6 @@
   ],
   "name": "OMIGSA",
   "legalName": "OMIGSA",
-  "bic": "OMIGZAJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.omigsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OMIGZAJ1XXX"
 }

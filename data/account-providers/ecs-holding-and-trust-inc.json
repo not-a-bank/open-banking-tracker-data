@@ -8,7 +8,6 @@
   ],
   "name": "ECS HOLDING AND TRUST INC",
   "legalName": "ECS HOLDING AND TRUST INC",
-  "bic": "ECSFUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecsholdingandtrustinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECSFUS33XXX"
 }

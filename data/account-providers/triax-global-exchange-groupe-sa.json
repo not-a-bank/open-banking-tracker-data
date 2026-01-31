@@ -8,7 +8,6 @@
   ],
   "name": "TRIAX GLOBAL EXCHANGE GROUPE S.A.",
   "legalName": "TRIAX GLOBAL EXCHANGE GROUPE S.A.",
-  "bic": "TGEXLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.triaxglobalexchangegroupesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TGEXLUL1XXX"
 }

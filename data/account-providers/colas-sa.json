@@ -8,7 +8,6 @@
   ],
   "name": "COLAS SA",
   "legalName": "COLAS SA",
-  "bic": "CLLAFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.colassa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLLAFR21XXX"
 }

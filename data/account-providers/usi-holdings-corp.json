@@ -8,7 +8,6 @@
   ],
   "name": "USI HOLDINGS CORP.",
   "legalName": "USI HOLDINGS CORP.",
-  "bic": "USIHUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.usiholdingscorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USIHUS33XXX"
 }

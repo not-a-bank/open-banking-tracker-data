@@ -8,7 +8,6 @@
   ],
   "name": "BANCO COMERCIAL DE MACAU S.A.R.L.",
   "legalName": "BANCO COMERCIAL DE MACAU S.A.R.L.",
-  "bic": "CMACPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocomercialdemacausarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMACPTP1XXX"
 }

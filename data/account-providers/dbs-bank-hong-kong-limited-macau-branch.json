@@ -8,7 +8,6 @@
   ],
   "name": "DBS BANK (HONG KONG) LIMITED, MACAU BRANCH",
   "legalName": "DBS BANK (HONG KONG) LIMITED, MACAU BRANCH",
-  "bic": "DBSSMOMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dbsbankhongkonglimitedmacaubranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBSSMOMXXXX"
 }

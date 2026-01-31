@@ -8,7 +8,6 @@
   ],
   "name": "IKB INTERNATIONAL S.A.",
   "legalName": "IKB INTERNATIONAL S.A.",
-  "bic": "IKBDLUA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ikbinternationalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IKBDLUA1XXX"
 }

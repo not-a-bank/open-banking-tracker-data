@@ -6,15 +6,15 @@
   "bankType": [
     "universal"
   ],
-  "name": "Cr\u00e9dit Mutuel de Bretagne (CMB)",
-  "description": "Cr\u00e9dit Mutuel is a French cooperative bank, with headquarters in Strasbourg, Alsace.",
+  "name": "Crédit Mutuel de Bretagne (CMB)",
+  "description": "Crédit Mutuel is a French cooperative bank, with headquarters in Strasbourg, Alsace.",
   "legalName": null,
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
   "aliases": [
     "CMB",
-    "Cr\u00e9dit Mutuel de Bretagne"
+    "Crédit Mutuel de Bretagne"
   ],
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1592996463/radar/icons/cmb-fr.png",
@@ -22,7 +22,7 @@
   "ownership": [
     {
       "providerId": "arkea",
-      "shareholderName": "Cr\u00e9dit Mutuel Ark\u00e9a",
+      "shareholderName": "Crédit Mutuel Arkéa",
       "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
       "percentage": 100
     }
@@ -157,6 +157,7 @@
     "budget-insight",
     "equensworldline",
     "fintecture",
+    "gocardless",
     "ibanity",
     "tink",
     "volt"
@@ -185,5 +186,6 @@
   "partnerships": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "CMBRFR2BXXX"
 }

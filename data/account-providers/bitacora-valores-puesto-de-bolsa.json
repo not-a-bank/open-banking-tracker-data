@@ -8,7 +8,6 @@
   ],
   "name": "BITACORA VALORES PUESTO DE BOLSA",
   "legalName": "BITACORA VALORES PUESTO DE BOLSA",
-  "bic": "BVPODOS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bitacoravalorespuestodebolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BVPODOS1XXX"
 }

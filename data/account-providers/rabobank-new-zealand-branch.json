@@ -8,7 +8,6 @@
   ],
   "name": "RABOBANK NEW ZEALAND BRANCH",
   "legalName": "RABOBANK NEW ZEALAND BRANCH",
-  "bic": "RABONZ2WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rabobanknewzealandbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABONZ2WXXX"
 }

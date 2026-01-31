@@ -8,7 +8,6 @@
   ],
   "name": "BANK ALPINUM AG",
   "legalName": "BANK ALPINUM AG",
-  "bic": "BALPLI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankalpinumag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BALPLI22XXX"
 }

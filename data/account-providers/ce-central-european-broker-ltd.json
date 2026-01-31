@@ -8,7 +8,6 @@
   ],
   "name": "CE CENTRAL EUROPEAN BROKER LTD.",
   "legalName": "CE CENTRAL EUROPEAN BROKER LTD.",
-  "bic": "CEBRHUH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cecentraleuropeanbrokerltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEBRHUH1XXX"
 }

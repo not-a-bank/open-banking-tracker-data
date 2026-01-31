@@ -8,7 +8,6 @@
   ],
   "name": "BARING SECURITIES PTE LTD.",
   "legalName": "BARING SECURITIES PTE LTD.",
-  "bic": "SEBRSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baringsecuritiespteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEBRSGS1XXX"
 }

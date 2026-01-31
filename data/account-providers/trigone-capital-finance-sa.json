@@ -8,7 +8,6 @@
   ],
   "name": "TRIGONE CAPITAL FINANCE SA",
   "legalName": "TRIGONE CAPITAL FINANCE SA",
-  "bic": "TRCFCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trigonecapitalfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRCFCHG1XXX"
 }

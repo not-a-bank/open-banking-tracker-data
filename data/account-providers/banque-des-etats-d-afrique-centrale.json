@@ -8,7 +8,6 @@
   ],
   "name": "Banque DES Etats D'afrique Centrale",
   "legalName": "BANQUE DES ETATS D'AFRIQUE CENTRALE",
-  "bic": "BEACCMCX100",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEACCMCX100"
 }

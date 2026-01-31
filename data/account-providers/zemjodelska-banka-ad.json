@@ -8,7 +8,6 @@
   ],
   "name": "ZEMJODELSKA BANKA A.D.",
   "legalName": "ZEMJODELSKA BANKA A.D.",
-  "bic": "ZEMBMK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zemjodelskabankaad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZEMBMK21XXX"
 }

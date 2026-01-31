@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK AM ROTHSEE EG",
   "legalName": "RAIFFEISENBANK AM ROTHSEE EG",
-  "bic": "RARODE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankamrothseeeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RARODE71XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCLEAR WIRE TRANSFERS INC",
   "legalName": "BANCLEAR WIRE TRANSFERS INC",
-  "bic": "BAWTPAP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banclearwiretransfersinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAWTPAP1XXX"
 }

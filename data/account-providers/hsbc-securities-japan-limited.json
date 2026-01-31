@@ -8,7 +8,6 @@
   ],
   "name": "HSBC SECURITIES (JAPAN) LIMITED",
   "legalName": "HSBC SECURITIES (JAPAN) LIMITED",
-  "bic": "IBJPJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcsecuritiesjapanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBJPJPJTXXX"
 }

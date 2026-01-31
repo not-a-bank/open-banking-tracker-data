@@ -8,7 +8,6 @@
   ],
   "name": "GRAFTON GROUP PLC",
   "legalName": "GRAFTON GROUP PLC",
-  "bic": "GRFTIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.graftongroupplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRFTIE2DXXX"
 }

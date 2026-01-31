@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA CAPITAL MARKETS STOCKBROKING LIMITED",
   "legalName": "DAIWA CAPITAL MARKETS STOCKBROKING LIMITED",
-  "bic": "DWSBAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwacapitalmarketsstockbrokinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DWSBAU31XXX"
 }

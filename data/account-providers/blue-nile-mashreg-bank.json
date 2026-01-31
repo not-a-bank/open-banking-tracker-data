@@ -8,7 +8,6 @@
   ],
   "name": "BLUE NILE MASHREG BANK",
   "legalName": "BLUE NILE MASHREG BANK",
-  "bic": "BLNISDKHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bluenilemashregbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLNISDKHXXX"
 }

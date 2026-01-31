@@ -8,7 +8,6 @@
   ],
   "name": "IMPIVAARA SECURITIES LTD",
   "legalName": "IMPIVAARA SECURITIES LTD",
-  "bic": "IMSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.impivaarasecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMSEGB21XXX"
 }

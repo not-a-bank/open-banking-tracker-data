@@ -8,7 +8,6 @@
   ],
   "name": "SUN'S SECURITIES CO LTD",
   "legalName": "SUN'S SECURITIES CO LTD",
-  "bic": "SUNEHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sunssecuritiescoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SUNEHKH1XXX"
 }

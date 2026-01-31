@@ -8,7 +8,6 @@
   ],
   "name": "AS BLUEORANGE BANK",
   "legalName": "AS BLUEORANGE BANK",
-  "bic": "CBBRLV22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asblueorangebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBBRLV22XXX"
 }

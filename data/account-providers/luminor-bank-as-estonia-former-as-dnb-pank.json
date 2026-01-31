@@ -8,7 +8,6 @@
   ],
   "name": "Luminor Bank AS, Estonia (former AS DNB Pank)",
   "legalName": "LUMINOR BANK AS, ESTONIA (FORMER AS DNB PANK)",
-  "bic": "RIKOEE22CBC",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RIKOEE22CBC"
 }

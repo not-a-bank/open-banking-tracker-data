@@ -8,7 +8,6 @@
   ],
   "name": "TIANJIN RURAL COMMERCIAL BANK",
   "legalName": "TIANJIN RURAL COMMERCIAL BANK",
-  "bic": "TJRCCNBTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tianjinruralcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TJRCCNBTXXX"
 }

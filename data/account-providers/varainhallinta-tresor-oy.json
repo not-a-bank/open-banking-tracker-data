@@ -8,7 +8,6 @@
   ],
   "name": "VARAINHALLINTA TRESOR OY",
   "legalName": "VARAINHALLINTA TRESOR OY",
-  "bic": "VATSFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.varainhallintatresoroy.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VATSFIH1XXX"
 }

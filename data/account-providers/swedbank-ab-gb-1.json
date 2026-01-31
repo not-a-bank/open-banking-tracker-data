@@ -8,7 +8,6 @@
   ],
   "name": "SWEDBANK AB",
   "legalName": "SWEDBANK AB",
-  "bic": "SWEDGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swedbankabgb1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWEDGB21XXX"
 }

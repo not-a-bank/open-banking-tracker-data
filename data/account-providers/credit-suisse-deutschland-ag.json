@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE (DEUTSCHLAND) AG",
   "legalName": "CREDIT SUISSE (DEUTSCHLAND) AG",
-  "bic": "CRESDE55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissedeutschlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESDE55XXX"
 }

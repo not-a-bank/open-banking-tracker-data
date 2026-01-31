@@ -8,7 +8,6 @@
   ],
   "name": "SONKAJARVEN OSUUSPANKKI",
   "legalName": "SONKAJARVEN OSUUSPANKKI",
-  "bic": "SOOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sonkajarvenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOOPFI21XXX"
 }

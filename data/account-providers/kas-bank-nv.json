@@ -8,7 +8,6 @@
   ],
   "name": "KAS BANK N.V.",
   "legalName": "KAS BANK N.V.",
-  "bic": "KSSSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kasbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KSSSGB21XXX"
 }

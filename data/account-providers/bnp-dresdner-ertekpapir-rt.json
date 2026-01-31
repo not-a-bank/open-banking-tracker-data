@@ -8,7 +8,6 @@
   ],
   "name": "BNP DRESDNER ERTEKPAPIR RT",
   "legalName": "BNP DRESDNER ERTEKPAPIR RT",
-  "bic": "BDEKHUH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpdresdnerertekpapirrt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDEKHUH1XXX"
 }

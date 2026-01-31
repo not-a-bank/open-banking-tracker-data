@@ -8,7 +8,6 @@
   ],
   "name": "ALKHALEEJ BANK",
   "legalName": "ALKHALEEJ BANK",
-  "bic": "KHJBSDKHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alkhaleejbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KHJBSDKHXXX"
 }

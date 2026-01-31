@@ -8,7 +8,6 @@
   ],
   "name": "SQUARE 1 BANK",
   "legalName": "SQUARE 1 BANK",
-  "bic": "SQARUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.square1bank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SQARUS33XXX"
 }

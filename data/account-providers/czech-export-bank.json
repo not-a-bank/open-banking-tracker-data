@@ -8,7 +8,6 @@
   ],
   "name": "Czech Export Bank",
   "legalName": "CZECH EXPORT BANK",
-  "bic": "CZEECZPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.czechexport.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CZEECZPPXXX"
 }

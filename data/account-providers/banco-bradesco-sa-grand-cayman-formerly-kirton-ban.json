@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BRADESCO S.A. - GRAND CAYMAN (FORMERLY KIRTON BANK BRASIL S.A. - GRAND CAYMAN BRANCH)",
   "legalName": "BANCO BRADESCO S.A. - GRAND CAYMAN (FORMERLY KIRTON BANK BRASIL S.A. - GRAND CAYMAN BRANCH)",
-  "bic": "BCBBKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobradescosagrandcaymanformerlykirtonban.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCBBKYKYXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FITCH RATINGS (BEIJING) LIMITED",
   "legalName": "FITCH RATINGS (BEIJING) LIMITED",
-  "bic": "FRIPCNB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchratingsbeijinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPCNB1XXX"
 }

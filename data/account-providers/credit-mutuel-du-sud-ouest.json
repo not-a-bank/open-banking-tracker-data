@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Mutuel du Sud-Ouest",
-  "legalName": "Cr\u00e9dit Mutuel du Sud-Ouest",
+  "name": "Crédit Mutuel du Sud-Ouest",
+  "legalName": "Crédit Mutuel du Sud-Ouest",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-mutuel-du-sud-ouest.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "CMBRFR2BXXX"
+  "bic": "CMCIFRP1SBC"
 }

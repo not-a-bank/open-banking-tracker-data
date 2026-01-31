@@ -8,7 +8,6 @@
   ],
   "name": "BANK SEPAH",
   "legalName": "BANK SEPAH",
-  "bic": "SEPBFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banksepah.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEPBFRP1XXX"
 }

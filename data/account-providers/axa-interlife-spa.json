@@ -8,7 +8,6 @@
   ],
   "name": "AXA INTERLIFE S.P.A",
   "legalName": "AXA INTERLIFE S.P.A",
-  "bic": "AXITITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axainterlifespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXITITM1XXX"
 }

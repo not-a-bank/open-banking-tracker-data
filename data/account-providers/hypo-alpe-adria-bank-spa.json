@@ -8,7 +8,6 @@
   ],
   "name": "HYPO ALPE-ADRIA BANK S.P.A.",
   "legalName": "HYPO ALPE-ADRIA BANK S.P.A.",
-  "bic": "HAABIT2UXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hypoalpeadriabankspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAABIT2UXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA STABLE RETURN FUND",
   "legalName": "NORDEA STABLE RETURN FUND",
-  "bic": "NSRFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeastablereturnfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSRFFIH1XXX"
 }

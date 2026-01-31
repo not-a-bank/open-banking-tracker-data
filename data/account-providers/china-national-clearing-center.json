@@ -8,7 +8,6 @@
   ],
   "name": "CHINA NATIONAL CLEARING CENTER",
   "legalName": "CHINA NATIONAL CLEARING CENTER",
-  "bic": "RDCCCNB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chinanationalclearingcenter.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RDCCCNB1XXX"
 }

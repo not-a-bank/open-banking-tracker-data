@@ -8,7 +8,6 @@
   ],
   "name": "SPAREBANK 1 OSTFOLD AKERSHUS",
   "legalName": "SPAREBANK 1 OSTFOLD AKERSHUS",
-  "bic": "RYGSNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebank1ostfoldakershus.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPTRNO22"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SISTEMA COMMERCIAL BANK",
   "legalName": "SISTEMA COMMERCIAL BANK",
-  "bic": "SISERUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sistemacommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SISERUMMXXX"
 }

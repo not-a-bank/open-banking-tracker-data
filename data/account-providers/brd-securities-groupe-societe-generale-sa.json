@@ -8,7 +8,6 @@
   ],
   "name": "BRD SECURITIES-GROUPE SOCIETE GENERALE S.A.",
   "legalName": "BRD SECURITIES-GROUPE SOCIETE GENERALE S.A.",
-  "bic": "BSGSROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brdsecuritiesgroupesocietegeneralesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSGSROB1XXX"
 }

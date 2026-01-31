@@ -8,7 +8,6 @@
   ],
   "name": "ROYAL CREDIT BANK",
   "legalName": "ROYAL CREDIT BANK",
-  "bic": "ROCERU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.royalcreditbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROCERU31XXX"
 }

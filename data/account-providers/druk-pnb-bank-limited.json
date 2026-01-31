@@ -8,7 +8,6 @@
   ],
   "name": "DRUK PNB BANK LIMITED",
   "legalName": "DRUK PNB BANK LIMITED",
-  "bic": "PUNBBTBTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.drukpnbbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PUNBBTBTXXX"
 }

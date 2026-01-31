@@ -8,7 +8,6 @@
   ],
   "name": "GUARDIAN BANK LIMITED",
   "legalName": "GUARDIAN BANK LIMITED",
-  "bic": "GUARKENAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.guardianbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GUARKENAXXX"
 }

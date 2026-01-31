@@ -8,7 +8,6 @@
   ],
   "name": "ASTRA SECURITIES,PT",
   "legalName": "ASTRA SECURITIES,PT",
-  "bic": "ASTSIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.astrasecuritiespt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASTSIDJ1XXX"
 }

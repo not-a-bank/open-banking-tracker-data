@@ -8,7 +8,6 @@
   ],
   "name": "UNITED SECURITIES AND TRUST OF SWITZERLAND AG",
   "legalName": "UNITED SECURITIES AND TRUST OF SWITZERLAND AG",
-  "bic": "USTSCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedsecuritiesandtrustofswitzerlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USTSCH21XXX"
 }

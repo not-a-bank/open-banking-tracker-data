@@ -8,7 +8,6 @@
   ],
   "name": "FITCH CENTROAMERICA (EL SALVADOR BRANCH OF PANAMANIAN ENTITY)",
   "legalName": "FITCH CENTROAMERICA (EL SALVADOR BRANCH OF PANAMANIAN ENTITY)",
-  "bic": "FRIPSVS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchcentroamericaelsalvadorbranchofpanamani.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPSVS1XXX"
 }

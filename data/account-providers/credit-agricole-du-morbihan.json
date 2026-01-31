@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole du Morbihan",
-  "legalName": "Cr\u00e9dit Agricole du Morbihan",
+  "name": "Crédit Agricole du Morbihan",
+  "legalName": "Crédit Agricole du Morbihan",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-du-morbihan.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

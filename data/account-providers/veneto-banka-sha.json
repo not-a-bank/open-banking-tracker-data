@@ -8,7 +8,6 @@
   ],
   "name": "VENETO BANKA SH.A",
   "legalName": "VENETO BANKA SH.A",
-  "bic": "ITSVALTRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.venetobankasha.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITSVALTRXXX"
 }

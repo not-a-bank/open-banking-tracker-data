@@ -8,7 +8,6 @@
   ],
   "name": "KEELUNG INTERNATIONAL SECURITIES CO LTD",
   "legalName": "KEELUNG INTERNATIONAL SECURITIES CO LTD",
-  "bic": "KEISTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.keelunginternationalsecuritiescoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KEISTWT1XXX"
 }

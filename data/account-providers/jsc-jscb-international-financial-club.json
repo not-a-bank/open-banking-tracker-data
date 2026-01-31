@@ -8,7 +8,6 @@
   ],
   "name": "JSC JSCB 'INTERNATIONAL FINANCIAL CLUB'",
   "legalName": "JSC JSCB 'INTERNATIONAL FINANCIAL CLUB'",
-  "bic": "ICFIRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jscjscbinternationalfinancialclub.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICFIRUMMXXX"
 }

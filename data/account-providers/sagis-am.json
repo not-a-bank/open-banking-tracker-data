@@ -8,7 +8,6 @@
   ],
   "name": "SAGIS AM",
   "legalName": "SAGIS AM",
-  "bic": "SGISFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sagisam.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGISFRP1XXX"
 }

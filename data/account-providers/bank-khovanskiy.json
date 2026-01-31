@@ -8,7 +8,6 @@
   ],
   "name": "BANK KHOVANSKIY",
   "legalName": "BANK KHOVANSKIY",
-  "bic": "KHOVRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankkhovanskiy.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KHOVRUMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SPARDA-BANK MUENCHEN EG",
   "legalName": "SPARDA-BANK MUENCHEN EG",
-  "bic": "SPBKDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spardabankmuencheneg.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODEF1S04"
 }

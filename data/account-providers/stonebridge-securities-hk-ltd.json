@@ -8,7 +8,6 @@
   ],
   "name": "STONEBRIDGE SECURITIES (HK) LTD",
   "legalName": "STONEBRIDGE SECURITIES (HK) LTD",
-  "bic": "STECHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stonebridgesecuritieshkltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STECHKH1XXX"
 }

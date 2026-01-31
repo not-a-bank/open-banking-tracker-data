@@ -8,7 +8,6 @@
   ],
   "name": "MARCHE INTERBANCAIRE DES DEVISES M.I.D.",
   "legalName": "MARCHE INTERBANCAIRE DES DEVISES M.I.D.",
-  "bic": "XMDGMGM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.marcheinterbancairedesdevisesmid.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMDGMGM1XXX"
 }

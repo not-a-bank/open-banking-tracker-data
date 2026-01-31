@@ -8,7 +8,6 @@
   ],
   "name": "FINACO SECURITIES S.A.",
   "legalName": "FINACO SECURITIES S.A.",
-  "bic": "FIUEROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finacosecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIUEROB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SCHRODER SECURITIES (SCSE) LIMITED",
   "legalName": "SCHRODER SECURITIES (SCSE) LIMITED",
-  "bic": "SCSCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schrodersecuritiesscselimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCSCGB21XXX"
 }

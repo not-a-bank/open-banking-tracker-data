@@ -8,7 +8,6 @@
   ],
   "name": "SMIFS SECURITIES LTD.",
   "legalName": "SMIFS SECURITIES LTD.",
-  "bic": "SMSEINC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.smifssecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMSEINC1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AL MAWARID BANK S.A.L.",
   "legalName": "AL MAWARID BANK S.A.L.",
-  "bic": "MABALBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.almawaridbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MABALBBEXXX"
 }

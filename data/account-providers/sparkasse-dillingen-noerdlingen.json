@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Dillingen-N\u00f6rdlingen",
-  "legalName": "Sparkasse Dillingen-N\u00f6rdlingen",
+  "name": "Sparkasse Dillingen-Nördlingen",
+  "legalName": "Sparkasse Dillingen-Nördlingen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-dillingen-noerdlingen.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

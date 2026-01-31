@@ -8,7 +8,6 @@
   ],
   "name": "CHARTER ONE",
   "legalName": "CHARTER ONE",
-  "bic": "CTONUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.charterone.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTONUS31XXX"
 }

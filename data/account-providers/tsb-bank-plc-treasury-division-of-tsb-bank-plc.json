@@ -8,7 +8,6 @@
   ],
   "name": "TSB BANK PLC (TREASURY DIVISION OF TSB BANK PLC)",
   "legalName": "TSB BANK PLC (TREASURY DIVISION OF TSB BANK PLC)",
-  "bic": "TSBSGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tsbbankplctreasurydivisionoftsbbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TSBSGB22XXX"
 }

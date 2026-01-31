@@ -8,7 +8,6 @@
   ],
   "name": "TUNIS INTERNATIONAL BANK",
   "legalName": "TUNIS INTERNATIONAL BANK",
-  "bic": "TUIBTNTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tunisinternationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TUIBTNTTXXX"
 }

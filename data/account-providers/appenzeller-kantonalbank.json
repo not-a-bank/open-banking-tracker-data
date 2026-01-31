@@ -8,7 +8,6 @@
   ],
   "name": "APPENZELLER KANTONALBANK",
   "legalName": "APPENZELLER KANTONALBANK",
-  "bic": "AIKACH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.appenzellerkantonalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIKACH22XXX"
 }

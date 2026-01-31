@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W GLINOJECKU",
   "legalName": "BANK SPOLDZIELCZY W GLINOJECKU",
-  "bic": "SPGIPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywglinojecku.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPGIPLP1XXX"
 }

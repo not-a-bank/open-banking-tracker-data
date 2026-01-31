@@ -8,7 +8,6 @@
   ],
   "name": "SCHRODERS INVESTMENT MANAGEMENT AUSTRALIA LTD.",
   "legalName": "SCHRODERS INVESTMENT MANAGEMENT AUSTRALIA LTD.",
-  "bic": "SIASAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schrodersinvestmentmanagementaustralialtd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIASAU21XXX"
 }

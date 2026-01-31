@@ -8,7 +8,6 @@
   ],
   "name": "BANC POST S.A.",
   "legalName": "BANC POST S.A.",
-  "bic": "BPOSROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancpostsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPOSROBUXXX"
 }

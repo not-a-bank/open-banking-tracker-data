@@ -8,7 +8,6 @@
   ],
   "name": "MERRILLYNCH CAPITAL MARKETS PLC",
   "legalName": "MERRILLYNCH CAPITAL MARKETS PLC",
-  "bic": "MECMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrillynchcapitalmarketsplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MECMGB21XXX"
 }

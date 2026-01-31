@@ -8,7 +8,6 @@
   ],
   "name": "ABU DHABI COMMERCIAL BANK",
   "legalName": "ABU DHABI COMMERCIAL BANK",
-  "bic": "ADCBAEAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abudhabicommercialbankae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADCBAEAAXXX"
 }

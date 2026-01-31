@@ -9,7 +9,6 @@
   ],
   "name": "BANCA DEL PIEMONTE",
   "legalName": "BANCA DEL PIEMONTE",
-  "bic": "BDCPITT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_del_piemonte_it.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDCPITT1XXX"
 }

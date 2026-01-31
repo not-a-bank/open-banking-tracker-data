@@ -8,7 +8,6 @@
   ],
   "name": "BC 'MOBIASBANCA-GROUPE SOCIETE GENERALE' S.A.",
   "legalName": "BC 'MOBIASBANCA-GROUPE SOCIETE GENERALE' S.A.",
-  "bic": "MOBBMD22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bcmobiasbancagroupesocietegeneralesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOBBMD22XXX"
 }

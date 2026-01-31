@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
   "legalName": "CITIBANK INTERNATIONAL LIMITED PORTUGAL BRANCH",
-  "bic": "CITIPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankinternationallimitedportugalbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIPTP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "COOK ISLANDS DEVELOPMENT BANK",
   "legalName": "COOK ISLANDS DEVELOPMENT BANK",
-  "bic": "CIDBCKC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cookislandsdevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIDBCKC1XXX"
 }

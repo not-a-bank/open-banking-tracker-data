@@ -8,7 +8,6 @@
   ],
   "name": "STATKRAFT FINANCIAL ENERGY AB",
   "legalName": "STATKRAFT FINANCIAL ENERGY AB",
-  "bic": "STFGSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statkraftfinancialenergyab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STFGSES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK FRANCE S.N.C.",
   "legalName": "DEUTSCHE BANK FRANCE S.N.C.",
-  "bic": "DEUTFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankfrancesnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTFR21XXX"
 }

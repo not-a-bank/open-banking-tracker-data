@@ -8,7 +8,6 @@
   ],
   "name": "IBS ASSET MANAGEMENT B.V.",
   "legalName": "IBS ASSET MANAGEMENT B.V.",
-  "bic": "IBAANL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ibsassetmanagementbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBAANL21XXX"
 }

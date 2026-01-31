@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE LA REPUBLIQUE DU BURUNDI",
   "legalName": "BANQUE DE LA REPUBLIQUE DU BURUNDI",
-  "bic": "BRBUBIBIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedelarepubliqueduburundibi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRBUBIBIXXX"
 }

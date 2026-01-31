@@ -8,7 +8,6 @@
   ],
   "name": "BANK HUGO KAHN AND CO AG",
   "legalName": "BANK HUGO KAHN AND CO AG",
-  "bic": "HKABCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhugokahnandcoag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HKABCHZ1XXX"
 }

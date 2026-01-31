@@ -8,7 +8,6 @@
   ],
   "name": "WARBURG (FORMERLY S.G. WARBURG SECS CORPORATION)",
   "legalName": "WARBURG (FORMERLY S.G. WARBURG SECS CORPORATION)",
-  "bic": "WARBUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.warburgformerlysgwarburgsecscorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WARBUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SMBC NIKKO SECURITIES INC.",
   "legalName": "SMBC NIKKO SECURITIES INC.",
-  "bic": "NKSCJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.smbcnikkosecuritiesincjp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NKSCJPJTXXX"
 }

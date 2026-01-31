@@ -8,7 +8,6 @@
   ],
   "name": "BLOM BANK S.A.L.",
   "legalName": "BLOM BANK S.A.L.",
-  "bic": "BLOMIQBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.blombanksaliq.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLOMIQBAXXX"
 }

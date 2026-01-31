@@ -18,7 +18,7 @@
   "ownership": [
     {
       "providerId": "credit-mutuel",
-      "shareholderName": "Cr\u00e9dit Mutuel",
+      "shareholderName": "Crédit Mutuel",
       "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1568569725/catalog/credit-mutuel/icon128x128.jpg",
       "percentage": 100
     }
@@ -50,6 +50,7 @@
   "apiAggregators": [
     "bankingsdk",
     "budget-insight",
+    "gocardless",
     "ibanity",
     "tink",
     "volt"
@@ -72,5 +73,5 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "bic": "KEYTNL21XXX"
+  "bic": "KEYTBEBB"
 }

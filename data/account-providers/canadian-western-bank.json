@@ -9,7 +9,6 @@
   ],
   "name": "CANADIAN WESTERN BANK",
   "legalName": "CANADIAN WESTERN BANK",
-  "bic": "CWBKCA61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1616119713/icons/cwbank.jpg",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CWBKCA61XXX"
 }

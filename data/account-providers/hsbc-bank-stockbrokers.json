@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK STOCKBROKERS",
   "legalName": "HSBC BANK STOCKBROKERS",
-  "bic": "MIDTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankstockbrokers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIDTGB21XXX"
 }

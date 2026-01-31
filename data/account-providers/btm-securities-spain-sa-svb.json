@@ -8,7 +8,6 @@
   ],
   "name": "BTM SECURITIES (SPAIN) S.A. S.V.B.",
   "legalName": "BTM SECURITIES (SPAIN) S.A. S.V.B.",
-  "bic": "BTMSESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.btmsecuritiesspainsasvb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTMSESM1XXX"
 }

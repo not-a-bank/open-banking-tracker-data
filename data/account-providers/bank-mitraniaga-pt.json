@@ -8,7 +8,6 @@
   ],
   "name": "BANK MITRANIAGA PT",
   "legalName": "BANK MITRANIAGA PT",
-  "bic": "MGABIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankmitraniagapt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MGABIDJ1XXX"
 }

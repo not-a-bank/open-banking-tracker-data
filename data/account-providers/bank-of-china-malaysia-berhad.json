@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA (MALAYSIA) BERHAD",
   "legalName": "BANK OF CHINA (MALAYSIA) BERHAD",
-  "bic": "BKCHMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinamalaysiaberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHMYKLXXX"
 }

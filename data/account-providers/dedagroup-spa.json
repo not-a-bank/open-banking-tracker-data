@@ -8,7 +8,6 @@
   ],
   "name": "DEDAGROUP S.P.A.",
   "legalName": "DEDAGROUP S.P.A.",
-  "bic": "DEDAIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dedagroupspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEDAIT21XXX"
 }

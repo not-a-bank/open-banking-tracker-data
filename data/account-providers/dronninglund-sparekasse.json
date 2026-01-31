@@ -8,7 +8,6 @@
   ],
   "name": "DRONNINGLUND SPAREKASSE",
   "legalName": "DRONNINGLUND SPAREKASSE",
-  "bic": "DRONDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dronninglundsparekasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DRONDK21XXX"
 }

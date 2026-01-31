@@ -8,7 +8,6 @@
   ],
   "name": "Mora Banc Grup, SA (formerly Banc Sabadell D'andorra)",
   "legalName": "MORA BANC GRUP, SA (FORMERLY BANC SABADELL D'ANDORRA)",
-  "bic": "SABADELL",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABADELL"
 }

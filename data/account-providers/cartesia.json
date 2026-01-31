@@ -8,7 +8,6 @@
   ],
   "name": "CARTESIA",
   "legalName": "CARTESIA",
-  "bic": "CTTTFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cartesia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTTTFRP1XXX"
 }

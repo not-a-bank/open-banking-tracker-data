@@ -8,7 +8,6 @@
   ],
   "name": "AUDI PRIVATE BANK S.A.L.",
   "legalName": "AUDI PRIVATE BANK S.A.L.",
-  "bic": "BSARLBBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.audiprivatebanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSARLBBXXXX"
 }

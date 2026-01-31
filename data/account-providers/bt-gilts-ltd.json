@@ -8,7 +8,6 @@
   ],
   "name": "BT GILTS LTD.",
   "legalName": "BT GILTS LTD.",
-  "bic": "GILTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.btgiltsltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GILTGB21XXX"
 }

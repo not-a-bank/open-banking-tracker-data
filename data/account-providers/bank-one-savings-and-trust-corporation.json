@@ -8,7 +8,6 @@
   ],
   "name": "BANK ONE SAVINGS AND TRUST CORPORATION",
   "legalName": "BANK ONE SAVINGS AND TRUST CORPORATION",
-  "bic": "ONSTPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankonesavingsandtrustcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ONSTPHM1XXX"
 }

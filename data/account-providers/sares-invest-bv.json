@@ -8,7 +8,6 @@
   ],
   "name": "SARES INVEST B.V.",
   "legalName": "SARES INVEST B.V.",
-  "bic": "SARNNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saresinvestbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SARNNL21XXX"
 }

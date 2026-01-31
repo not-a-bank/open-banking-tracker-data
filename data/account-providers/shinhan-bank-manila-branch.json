@@ -8,7 +8,6 @@
   ],
   "name": "SHINHAN BANK MANILA BRANCH",
   "legalName": "SHINHAN BANK MANILA BRANCH",
-  "bic": "SHBKPHMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shinhanbankmanilabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHBKPHMMXXX"
 }

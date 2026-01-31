@@ -8,7 +8,6 @@
   ],
   "name": "Armswissbank Cjsc",
   "legalName": "ARMSWISSBANK CJSC",
-  "bic": "ARSJAM22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARSJAM22XXX"
 }

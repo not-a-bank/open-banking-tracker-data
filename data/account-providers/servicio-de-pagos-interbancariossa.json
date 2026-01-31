@@ -8,7 +8,6 @@
   ],
   "name": "SERVICIO DE PAGOS INTERBANCARIOS,S.A.",
   "legalName": "SERVICIO DE PAGOS INTERBANCARIOS,S.A.",
-  "bic": "CAMMES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.serviciodepagosinterbancariossa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAMMES21XXX"
 }

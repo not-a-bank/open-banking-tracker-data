@@ -8,7 +8,6 @@
   ],
   "name": "ANZ BANKING GROUP LTD.",
   "legalName": "ANZ BANKING GROUP LTD.",
-  "bic": "ANZBINBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anzbankinggroupltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBINBXXXX"
 }

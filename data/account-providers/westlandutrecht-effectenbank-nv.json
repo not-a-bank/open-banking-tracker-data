@@ -8,7 +8,6 @@
   ],
   "name": "WESTLANDUTRECHT EFFECTENBANK N.V.",
   "legalName": "WESTLANDUTRECHT EFFECTENBANK N.V.",
-  "bic": "AMSTNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.westlandutrechteffectenbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMSTNL21XXX"
 }

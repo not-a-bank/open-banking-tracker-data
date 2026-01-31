@@ -8,7 +8,6 @@
   ],
   "name": "FORTIUS FINANCE SECURITIES",
   "legalName": "FORTIUS FINANCE SECURITIES",
-  "bic": "FFISGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fortiusfinancesecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FFISGRA1XXX"
 }

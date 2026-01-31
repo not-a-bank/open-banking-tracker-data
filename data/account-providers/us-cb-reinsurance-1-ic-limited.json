@@ -8,7 +8,6 @@
   ],
   "name": "US CB REINSURANCE 1 IC LIMITED",
   "legalName": "US CB REINSURANCE 1 IC LIMITED",
-  "bic": "USCBGGSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uscbreinsurance1iclimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USCBGGSPXXX"
 }

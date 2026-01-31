@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Bergh\u00fclen",
-  "legalName": "Raiffeisenbank Bergh\u00fclen",
+  "name": "Raiffeisenbank Berghülen",
+  "legalName": "Raiffeisenbank Berghülen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-berghuelen.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

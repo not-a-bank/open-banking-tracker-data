@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DEL PAIS,S.A.",
   "legalName": "BANCO DEL PAIS,S.A.",
-  "bic": "PISAHNTEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodelpaissa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PISAHNTEXXX"
 }

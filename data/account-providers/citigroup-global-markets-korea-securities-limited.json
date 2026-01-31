@@ -8,7 +8,6 @@
   ],
   "name": "CITIGROUP GLOBAL MARKETS KOREA SECURITIES LIMITED",
   "legalName": "CITIGROUP GLOBAL MARKETS KOREA SECURITIES LIMITED",
-  "bic": "KBSSKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citigroupglobalmarketskoreasecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBSSKRS1XXX"
 }

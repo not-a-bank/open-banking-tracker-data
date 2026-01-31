@@ -8,7 +8,6 @@
   ],
   "name": "FUND ADVISORS (UK) LIMITED",
   "legalName": "FUND ADVISORS (UK) LIMITED",
-  "bic": "FUADGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fundadvisorsuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUADGB21XXX"
 }

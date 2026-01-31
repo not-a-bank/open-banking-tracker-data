@@ -8,7 +8,6 @@
   ],
   "name": "OYSTRE SLIDRE SPAREBANK",
   "legalName": "OYSTRE SLIDRE SPAREBANK",
-  "bic": "OYSLNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oystreslidresparebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OYSLNO21XXX"
 }

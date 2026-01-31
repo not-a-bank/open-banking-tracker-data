@@ -8,7 +8,6 @@
   ],
   "name": "NBC FINANCIAL (UK) LIMITED",
   "legalName": "NBC FINANCIAL (UK) LIMITED",
-  "bic": "NBFLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nbcfinancialuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBFLGB21XXX"
 }

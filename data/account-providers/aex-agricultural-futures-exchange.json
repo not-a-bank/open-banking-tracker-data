@@ -8,7 +8,6 @@
   ],
   "name": "AEX-AGRICULTURAL FUTURES EXCHANGE",
   "legalName": "AEX-AGRICULTURAL FUTURES EXCHANGE",
-  "bic": "XAEXNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aexagriculturalfuturesexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XAEXNL21XXX"
 }

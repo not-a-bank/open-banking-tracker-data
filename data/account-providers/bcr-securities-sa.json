@@ -8,7 +8,6 @@
   ],
   "name": "B.C.R. SECURITIES S.A.",
   "legalName": "B.C.R. SECURITIES S.A.",
-  "bic": "BCERROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bcrsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCERROB1XXX"
 }

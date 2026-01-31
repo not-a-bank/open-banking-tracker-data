@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA ASSET MANAGEMENT (EUROPE) LTD",
   "legalName": "DAIWA ASSET MANAGEMENT (EUROPE) LTD",
-  "bic": "DAMLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwaassetmanagementeuropeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAMLGB21XXX"
 }

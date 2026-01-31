@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE NATIONALE DE PARIS SUCCURSALE DE POINTE A PITRE",
   "legalName": "BANQUE NATIONALE DE PARIS SUCCURSALE DE POINTE A PITRE",
-  "bic": "BNPAGPGXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquenationaledeparissuccursaledepointeap.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAGPGXXXX"
 }

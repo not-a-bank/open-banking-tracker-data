@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DAVIVIENDA SALVADORENO SA",
   "legalName": "BANCO DAVIVIENDA SALVADORENO SA",
-  "bic": "BSALSVSSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodaviviendasalvadorenosasv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSALSVSSXXX"
 }

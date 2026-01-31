@@ -8,7 +8,6 @@
   ],
   "name": "SKUDENES AND AAKRA SPAREBANK",
   "legalName": "SKUDENES AND AAKRA SPAREBANK",
-  "bic": "SKAANO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.skudenesandaakrasparebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKAANO21XXX"
 }

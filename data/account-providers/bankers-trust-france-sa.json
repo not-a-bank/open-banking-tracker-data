@@ -8,7 +8,6 @@
   ],
   "name": "BANKERS TRUST (FRANCE) SA",
   "legalName": "BANKERS TRUST (FRANCE) SA",
-  "bic": "BKTFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankerstrustfrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKTFFRP1XXX"
 }

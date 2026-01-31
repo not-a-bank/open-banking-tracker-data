@@ -8,7 +8,6 @@
   ],
   "name": "IRON BANK",
   "legalName": "IRON BANK",
-  "bic": "IRONRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ironbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRONRUM1XXX"
 }

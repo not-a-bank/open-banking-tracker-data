@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE HAPOALIM (LUXEMBOURG) S.A",
   "legalName": "BANQUE HAPOALIM (LUXEMBOURG) S.A",
-  "bic": "POALLUL2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquehapoalimluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POALLUL2XXX"
 }

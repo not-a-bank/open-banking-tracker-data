@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AFRICA KENYA LTD",
   "legalName": "BANK OF AFRICA KENYA LTD",
-  "bic": "AFRIKENXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofafricakenyaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFRIKENXXXX"
 }

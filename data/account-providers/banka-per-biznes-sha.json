@@ -8,7 +8,6 @@
   ],
   "name": "BANKA PER BIZNES SH.A.",
   "legalName": "BANKA PER BIZNES SH.A.",
-  "bic": "BPBXXKPRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankaperbiznessha.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPBXXKPRXXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "CREDIT SUISSE",
   "legalName": "CREDIT SUISSE",
-  "bic": "CRESEGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1591344996/icons/credit-suisse.png",
@@ -69,5 +68,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "CS"
+  "stockSymbol": "CS",
+  "bic": "CRESEGC1XXX"
 }

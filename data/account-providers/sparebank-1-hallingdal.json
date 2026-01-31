@@ -8,7 +8,6 @@
   ],
   "name": "SPAREBANK 1 HALLINGDAL",
   "legalName": "SPAREBANK 1 HALLINGDAL",
-  "bic": "HAALNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebank1hallingdal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAALNO21XXX"
 }

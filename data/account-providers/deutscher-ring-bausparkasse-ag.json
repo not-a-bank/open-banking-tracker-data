@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHER RING BAUSPARKASSE AG",
   "legalName": "DEUTSCHER RING BAUSPARKASSE AG",
-  "bic": "DRBKDEHAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutscherringbausparkasseag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DRBKDEHAXXX"
 }

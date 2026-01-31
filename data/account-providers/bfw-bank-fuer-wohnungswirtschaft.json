@@ -8,7 +8,6 @@
   ],
   "name": "BFW-BANK FUER WOHNUNGSWIRTSCHAFT",
   "legalName": "BFW-BANK FUER WOHNUNGSWIRTSCHAFT",
-  "bic": "BFWODE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bfwbankfuerwohnungswirtschaft.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFWODE71XXX"
 }

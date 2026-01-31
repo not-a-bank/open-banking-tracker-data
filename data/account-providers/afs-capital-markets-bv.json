@@ -8,7 +8,6 @@
   ],
   "name": "AFS CAPITAL MARKETS B.V.",
   "legalName": "AFS CAPITAL MARKETS B.V.",
-  "bic": "AFCRNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.afscapitalmarketsbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFCRNL21XXX"
 }

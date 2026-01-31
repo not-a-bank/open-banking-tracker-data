@@ -8,7 +8,6 @@
   ],
   "name": "BT TREASURY",
   "legalName": "BT TREASURY",
-  "bic": "BRUYGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bttreasury.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRUYGB21XXX"
 }

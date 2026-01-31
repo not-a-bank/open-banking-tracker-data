@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Bad K\u00f6tzting",
-  "legalName": "Raiffeisenbank Bad K\u00f6tzting",
+  "name": "Raiffeisenbank Bad Kötzting",
+  "legalName": "Raiffeisenbank Bad Kötzting",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-bad-koetzting.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

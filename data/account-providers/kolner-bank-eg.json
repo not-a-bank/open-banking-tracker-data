@@ -8,7 +8,6 @@
   ],
   "name": "KOLNER BANK EG",
   "legalName": "KOLNER BANK EG",
-  "bic": "KOLEDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kolnerbankeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOLEDE81XXX"
 }

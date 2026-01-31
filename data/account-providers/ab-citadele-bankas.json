@@ -8,7 +8,6 @@
   ],
   "name": "AB CITADELE BANKAS",
   "legalName": "AB CITADELE BANKAS",
-  "bic": "INDULT2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abcitadelebankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INDULT2XXXX"
 }

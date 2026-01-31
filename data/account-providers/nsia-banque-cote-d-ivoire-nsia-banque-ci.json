@@ -8,7 +8,6 @@
   ],
   "name": "Nsia Banque Cote D'ivoire (nsia Banque CI)",
   "legalName": "NSIA BANQUE COTE D'IVOIRE (NSIA BANQUE CI)",
-  "bic": "BIAOCIAB032",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIAOCIAB032"
 }

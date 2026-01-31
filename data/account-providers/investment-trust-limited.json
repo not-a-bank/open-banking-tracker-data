@@ -8,7 +8,6 @@
   ],
   "name": "INVESTMENT TRUST LIMITED",
   "legalName": "INVESTMENT TRUST LIMITED",
-  "bic": "INRSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investmenttrustlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INRSGB21XXX"
 }

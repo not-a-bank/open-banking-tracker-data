@@ -8,7 +8,6 @@
   ],
   "name": "Allo Bank",
   "legalName": "ALLO BANK",
-  "bic": "ALOBIDJAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALOBIDJAXXX"
 }

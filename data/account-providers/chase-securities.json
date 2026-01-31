@@ -8,7 +8,6 @@
   ],
   "name": "CHASE SECURITIES",
   "legalName": "CHASE SECURITIES",
-  "bic": "CHSCJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chasesecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHSCJPJ1XXX"
 }

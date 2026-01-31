@@ -8,7 +8,6 @@
   ],
   "name": "ECOBANK CONGO",
   "legalName": "ECOBANK CONGO",
-  "bic": "ECOCCGCGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecobankcongo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCCGCGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BOCI SECURITIES LIMITED",
   "legalName": "BOCI SECURITIES LIMITED",
-  "bic": "BCGSHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bocisecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCGSHKH1XXX"
 }

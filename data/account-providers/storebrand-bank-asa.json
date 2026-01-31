@@ -8,7 +8,6 @@
   ],
   "name": "STOREBRAND BANK ASA",
   "legalName": "STOREBRAND BANK ASA",
-  "bic": "STFBNOKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.storebrandbankasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STFBNOKKXXX"
 }

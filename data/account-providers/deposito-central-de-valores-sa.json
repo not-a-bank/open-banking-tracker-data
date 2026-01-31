@@ -8,7 +8,6 @@
   ],
   "name": "DEPOSITO CENTRAL DE VALORES S.A.",
   "legalName": "DEPOSITO CENTRAL DE VALORES S.A.",
-  "bic": "DCVVCLRMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.depositocentraldevaloressa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCVVCLRMXXX"
 }

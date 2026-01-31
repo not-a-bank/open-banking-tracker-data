@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL UNION",
   "legalName": "CAPITAL UNION",
-  "bic": "CPUNAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalunion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPUNAEA1XXX"
 }

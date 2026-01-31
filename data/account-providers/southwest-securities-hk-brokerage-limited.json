@@ -8,7 +8,6 @@
   ],
   "name": "SOUTHWEST SECURITIES (HK) BROKERAGE LIMITED",
   "legalName": "SOUTHWEST SECURITIES (HK) BROKERAGE LIMITED",
-  "bic": "SSRKHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southwestsecuritieshkbrokeragelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSRKHKH1XXX"
 }

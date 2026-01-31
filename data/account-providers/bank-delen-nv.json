@@ -8,7 +8,6 @@
   ],
   "name": "Bank Delen NV",
   "legalName": "BANK DELEN NV",
-  "bic": "DELEBE22NRA",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DELEBE22NRA"
 }

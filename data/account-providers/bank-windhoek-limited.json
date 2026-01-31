@@ -8,7 +8,6 @@
   ],
   "name": "BANK WINDHOEK LIMITED",
   "legalName": "BANK WINDHOEK LIMITED",
-  "bic": "BWLINANXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankwindhoeklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BWLINANXXXX"
 }

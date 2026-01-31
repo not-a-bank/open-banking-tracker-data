@@ -8,7 +8,6 @@
   ],
   "name": "MERCANTILE BANK OF MICHIGAN",
   "legalName": "MERCANTILE BANK OF MICHIGAN",
-  "bic": "MEMIUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mercantilebankofmichigan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEMIUS33XXX"
 }

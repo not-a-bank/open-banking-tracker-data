@@ -8,7 +8,6 @@
   ],
   "name": "TORONTO DOMINION SECURITIES INC",
   "legalName": "TORONTO DOMINION SECURITIES INC",
-  "bic": "TDSECAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.torontodominionsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TDSECAT1XXX"
 }

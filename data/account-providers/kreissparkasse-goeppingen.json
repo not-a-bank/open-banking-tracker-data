@@ -8,7 +8,6 @@
   ],
   "name": "KREISSPARKASSE GOEPPINGEN",
   "legalName": "KREISSPARKASSE GOEPPINGEN",
-  "bic": "GOPSDE6GXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkassegoeppingen.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOPSDE6GXXX"
 }

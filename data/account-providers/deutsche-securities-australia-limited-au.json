@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE SECURITIES AUSTRALIA LIMITED",
   "legalName": "DEUTSCHE SECURITIES AUSTRALIA LIMITED",
-  "bic": "DMGSAU2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschesecuritiesaustralialimitedau.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DMGSAU2SXXX"
 }

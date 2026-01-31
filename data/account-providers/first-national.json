@@ -8,7 +8,6 @@
   ],
   "name": "FIRST NATIONAL",
   "legalName": "FIRST NATIONAL",
-  "bic": "FNTIUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstnational.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNTIUS31XXX"
 }

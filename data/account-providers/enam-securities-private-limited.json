@@ -8,7 +8,6 @@
   ],
   "name": "ENAM SECURITIES PRIVATE LIMITED",
   "legalName": "ENAM SECURITIES PRIVATE LIMITED",
-  "bic": "ENSPINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enamsecuritiesprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENSPINB1XXX"
 }

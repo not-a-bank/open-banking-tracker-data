@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
   "legalName": "BANCA DI BOLOGNA CREDITO COOPERATIVO",
-  "bic": "BDBOIT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadibolognacreditocooperativoit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDBOIT22XXX"
 }

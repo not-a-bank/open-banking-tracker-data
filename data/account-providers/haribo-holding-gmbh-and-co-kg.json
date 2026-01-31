@@ -8,7 +8,6 @@
   ],
   "name": "HARIBO HOLDING GMBH AND CO KG",
   "legalName": "HARIBO HOLDING GMBH AND CO KG",
-  "bic": "HRBODE33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hariboholdinggmbhandcokg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HRBODE33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BRUSSELS EXCHANGES CLEARING HOUSE NV",
   "legalName": "BRUSSELS EXCHANGES CLEARING HOUSE NV",
-  "bic": "XBFOBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brusselsexchangesclearinghousenv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XBFOBEB1XXX"
 }

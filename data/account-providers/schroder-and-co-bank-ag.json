@@ -8,7 +8,6 @@
   ],
   "name": "SCHRODER AND CO BANK AG",
   "legalName": "SCHRODER AND CO BANK AG",
-  "bic": "BJHSCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schroderandcobankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BJHSCHZZXXX"
 }

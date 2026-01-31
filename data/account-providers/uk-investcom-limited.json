@@ -8,7 +8,6 @@
   ],
   "name": "UK-INVEST.COM LIMITED",
   "legalName": "UK-INVEST.COM LIMITED",
-  "bic": "UKINGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ukinvestcomlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UKINGB21XXX"
 }

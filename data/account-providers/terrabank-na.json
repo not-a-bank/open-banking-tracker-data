@@ -8,7 +8,6 @@
   ],
   "name": "TERRABANK N.A.",
   "legalName": "TERRABANK N.A.",
-  "bic": "TBNAUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.terrabankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TBNAUS33XXX"
 }

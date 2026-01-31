@@ -8,7 +8,6 @@
   ],
   "name": "LUXBROKERS S.A.",
   "legalName": "LUXBROKERS S.A.",
-  "bic": "LUXBLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.luxbrokerssa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LUXBLUL1XXX"
 }

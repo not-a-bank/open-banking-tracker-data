@@ -8,7 +8,6 @@
   ],
   "name": "ITAU SECURITIES SERVICES COLOMBIA S.A.",
   "legalName": "ITAU SECURITIES SERVICES COLOMBIA S.A.",
-  "bic": "BSCHCOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.itausecuritiesservicescolombiasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHCOBBXXX"
 }

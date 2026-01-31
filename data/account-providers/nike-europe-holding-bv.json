@@ -8,7 +8,6 @@
   ],
   "name": "NIKE EUROPE HOLDING B.V.",
   "legalName": "NIKE EUROPE HOLDING B.V.",
-  "bic": "NIEHNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nikeeuropeholdingbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIEHNL21XXX"
 }

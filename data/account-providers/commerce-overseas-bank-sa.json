@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCE OVERSEAS BANK, S.A.",
   "legalName": "COMMERCE OVERSEAS BANK, S.A.",
-  "bic": "CCIOPAP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerceoverseasbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCIOPAP1XXX"
 }

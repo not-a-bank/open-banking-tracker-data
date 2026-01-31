@@ -8,7 +8,6 @@
   ],
   "name": "COSTCO WHOLESALE CORPORATION",
   "legalName": "COSTCO WHOLESALE CORPORATION",
-  "bic": "COWOUS6IXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.costcowholesalecorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COWOUS6IXXX"
 }

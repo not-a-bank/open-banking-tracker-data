@@ -8,7 +8,6 @@
   ],
   "name": "LYXOR INTERMEDIATION",
   "legalName": "LYXOR INTERMEDIATION",
-  "bic": "LYNTFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lyxorintermediation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LYNTFRP1XXX"
 }

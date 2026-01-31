@@ -8,7 +8,6 @@
   ],
   "name": "SVENSKA HANDELSBANKEN AB",
   "legalName": "SVENSKA HANDELSBANKEN AB",
-  "bic": "HANDLT2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.svenskahandelsbankenablt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HANDLT2XXXX"
 }

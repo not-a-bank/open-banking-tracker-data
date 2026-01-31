@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING",
   "legalName": "CREDIT SUISSE (LUXEMBOURG) S.A., PRIVATE BANKING",
-  "bic": "CRESLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseluxembourgsaprivatebanking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESLULLXXX"
 }

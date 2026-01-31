@@ -8,7 +8,6 @@
   ],
   "name": "BANCA UBAE SPA",
   "legalName": "BANCA UBAE SPA",
-  "bic": "UBAIITRRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaubaespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBAIITRRXXX"
 }

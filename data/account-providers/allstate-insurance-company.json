@@ -8,7 +8,6 @@
   ],
   "name": "ALLSTATE INSURANCE COMPANY",
   "legalName": "ALLSTATE INSURANCE COMPANY",
-  "bic": "AICOUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allstateinsurancecompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AICOUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MITSUI BUSSAN COMMODITIES LIMITED",
   "legalName": "MITSUI BUSSAN COMMODITIES LIMITED",
-  "bic": "MIBCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mitsuibussancommoditieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIBCGB21XXX"
 }

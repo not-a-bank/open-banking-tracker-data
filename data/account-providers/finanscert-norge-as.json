@@ -8,7 +8,6 @@
   ],
   "name": "FINANSCERT NORGE AS",
   "legalName": "FINANSCERT NORGE AS",
-  "bic": "FNOONOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finanscertnorgeas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNOONOK1XXX"
 }

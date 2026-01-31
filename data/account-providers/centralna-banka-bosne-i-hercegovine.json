@@ -8,7 +8,6 @@
   ],
   "name": "CENTRALNA BANKA BOSNE I HERCEGOVINE",
   "legalName": "CENTRALNA BANKA BOSNE I HERCEGOVINE",
-  "bic": "CBBSBA22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralnabankabosneihercegovine.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBBSBA22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EUROSTANDARD BANK AD",
   "legalName": "EUROSTANDARD BANK AD",
-  "bic": "ESWBMK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurostandardbankad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESWBMK22XXX"
 }

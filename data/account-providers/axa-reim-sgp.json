@@ -8,7 +8,6 @@
   ],
   "name": "AXA REIM SGP",
   "legalName": "AXA REIM SGP",
-  "bic": "AXARFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axareimsgp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXARFR21XXX"
 }

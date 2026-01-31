@@ -8,7 +8,6 @@
   ],
   "name": "AXG INVESTMENTBANK AG",
   "legalName": "AXG INVESTMENTBANK AG",
-  "bic": "AXGIDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axginvestmentbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXGIDEF1XXX"
 }

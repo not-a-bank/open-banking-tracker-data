@@ -8,7 +8,6 @@
   ],
   "name": "ARGENTA SPAARBANK-BIJKANTOOR NEDERLAND",
   "legalName": "ARGENTA SPAARBANK-BIJKANTOOR NEDERLAND",
-  "bic": "ARSNNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.argentaspaarbankbijkantoornederland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARSNNL21XXX"
 }

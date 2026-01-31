@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank St\u00f6rmede-H\u00f6rste",
-  "legalName": "Volksbank St\u00f6rmede-H\u00f6rste",
+  "name": "Volksbank Störmede-Hörste",
+  "legalName": "Volksbank Störmede-Hörste",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-stoermede-hoerste.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

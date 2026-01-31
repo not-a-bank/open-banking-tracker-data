@@ -8,7 +8,6 @@
   ],
   "name": "THE NATIONAL BANK PLC (FORMERLY AL RAFAH MICROFINANCE BANK)",
   "legalName": "THE NATIONAL BANK PLC (FORMERLY AL RAFAH MICROFINANCE BANK)",
-  "bic": "TNBCPS22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thenationalbankplcformerlyalrafahmicrofinan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TNBCPS22XXX"
 }

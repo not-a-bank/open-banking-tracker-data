@@ -8,7 +8,6 @@
   ],
   "name": "EGEA SPA",
   "legalName": "EGEA SPA",
-  "bic": "EGEAIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.egeaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EGEAIT21XXX"
 }

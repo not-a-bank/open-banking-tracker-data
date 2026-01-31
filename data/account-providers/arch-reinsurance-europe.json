@@ -8,7 +8,6 @@
   ],
   "name": "ARCH REINSURANCE EUROPE",
   "legalName": "ARCH REINSURANCE EUROPE",
-  "bic": "ARRPIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.archreinsuranceeurope.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARRPIE21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INSTITUT D'EMISSION D'OUTRE-MER",
   "legalName": "INSTITUT D'EMISSION D'OUTRE-MER",
-  "bic": "INDDFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.institutdemissiondoutremer.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INDDFRP1XXX"
 }

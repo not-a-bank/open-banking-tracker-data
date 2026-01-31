@@ -8,7 +8,6 @@
   ],
   "name": "SUOMUSSALMEN OSUUSPANKKI",
   "legalName": "SUOMUSSALMEN OSUUSPANKKI",
-  "bic": "SUOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.suomussalmenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SUOPFI21XXX"
 }

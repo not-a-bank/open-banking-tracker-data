@@ -8,7 +8,6 @@
   ],
   "name": "CHINA CONSTRUCTION BANK",
   "legalName": "CHINA CONSTRUCTION BANK",
-  "bic": "PCBCDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chinaconstructionbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PCBCDEFFXXX"
 }

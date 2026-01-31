@@ -8,7 +8,6 @@
   ],
   "name": "COOPERATIVE BANK OF ACHAIA",
   "legalName": "COOPERATIVE BANK OF ACHAIA",
-  "bic": "STAXGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cooperativebankofachaia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STAXGRA1XXX"
 }

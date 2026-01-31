@@ -8,7 +8,6 @@
   ],
   "name": "MAC CAPITAL LIMITED",
   "legalName": "MAC CAPITAL LIMITED",
-  "bic": "MCCPAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maccapitallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCCPAEA1XXX"
 }

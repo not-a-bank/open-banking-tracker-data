@@ -8,7 +8,6 @@
   ],
   "name": "ALCYONE FINANCE",
   "legalName": "ALCYONE FINANCE",
-  "bic": "ALNIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alcyonefinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALNIFRP1XXX"
 }

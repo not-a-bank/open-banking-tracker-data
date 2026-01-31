@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MACRO S.A.",
   "legalName": "BANCO MACRO S.A.",
-  "bic": "BOSUARBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomacrosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOSUARBAXXX"
 }

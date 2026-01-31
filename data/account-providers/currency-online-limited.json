@@ -8,7 +8,6 @@
   ],
   "name": "CURRENCY ONLINE LIMITED",
   "legalName": "CURRENCY ONLINE LIMITED",
-  "bic": "CURRNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.currencyonlinelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CURRNZ21XXX"
 }

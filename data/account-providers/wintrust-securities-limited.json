@@ -8,7 +8,6 @@
   ],
   "name": "WINTRUST SECURITIES LIMITED",
   "legalName": "WINTRUST SECURITIES LIMITED",
-  "bic": "WISEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wintrustsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WISEGB21XXX"
 }

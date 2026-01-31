@@ -8,7 +8,6 @@
   ],
   "name": "JSC CITADELE BANKA",
   "legalName": "JSC CITADELE BANKA",
-  "bic": "PARXLV22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jsccitadelebanka.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARXLV22XXX"
 }

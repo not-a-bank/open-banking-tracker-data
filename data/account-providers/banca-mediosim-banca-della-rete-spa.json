@@ -8,7 +8,6 @@
   ],
   "name": "BANCA MEDIOSIM BANCA DELLA RETE S.P.A",
   "legalName": "BANCA MEDIOSIM BANCA DELLA RETE S.P.A",
-  "bic": "METEITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancamediosimbancadellaretespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "METEITM1XXX"
 }

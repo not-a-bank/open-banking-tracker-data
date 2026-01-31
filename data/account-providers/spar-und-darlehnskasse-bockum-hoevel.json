@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Spar- und Darlehnskasse Bockum-H\u00f6vel",
-  "legalName": "Spar- und Darlehnskasse Bockum-H\u00f6vel",
+  "name": "Spar- und Darlehnskasse Bockum-Hövel",
+  "legalName": "Spar- und Darlehnskasse Bockum-Hövel",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spar-und-darlehnskasse-bockum-hoevel.com.ico",
@@ -23,10 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "GENODEF1FOY"
+  "bic": "GENODEM1HBH"
 }

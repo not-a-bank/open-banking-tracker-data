@@ -8,7 +8,6 @@
   ],
   "name": "ILOMANTSIN OSUUSPANKKI",
   "legalName": "ILOMANTSIN OSUUSPANKKI",
-  "bic": "ILOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ilomantsinosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ILOSFI21XXX"
 }

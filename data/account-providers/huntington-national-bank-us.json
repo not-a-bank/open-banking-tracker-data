@@ -8,7 +8,6 @@
   ],
   "name": "HUNTINGTON NATIONAL BANK",
   "legalName": "HUNTINGTON NATIONAL BANK",
-  "bic": "HUNTUS3TXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.huntingtonnationalbankus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HUNTUS3TXXX"
 }

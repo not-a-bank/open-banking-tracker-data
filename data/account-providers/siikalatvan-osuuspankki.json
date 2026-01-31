@@ -8,7 +8,6 @@
   ],
   "name": "SIIKALATVAN OSUUSPANKKI",
   "legalName": "SIIKALATVAN OSUUSPANKKI",
-  "bic": "SIONFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.siikalatvanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIONFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "METLIFE EUROPE LIMITED, UK BRANCH",
   "legalName": "METLIFE EUROPE LIMITED, UK BRANCH",
-  "bic": "MEEBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.metlifeeuropelimitedukbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEEBGB21XXX"
 }

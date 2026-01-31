@@ -8,7 +8,6 @@
   ],
   "name": "FXA WORLD PLC",
   "legalName": "FXA WORLD PLC",
-  "bic": "FXAWGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fxaworldplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FXAWGB21XXX"
 }

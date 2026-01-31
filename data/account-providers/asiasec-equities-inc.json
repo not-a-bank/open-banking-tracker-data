@@ -8,7 +8,6 @@
   ],
   "name": "ASIASEC EQUITIES INC.",
   "legalName": "ASIASEC EQUITIES INC.",
-  "bic": "ASESPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asiasecequitiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASESPHM1XXX"
 }

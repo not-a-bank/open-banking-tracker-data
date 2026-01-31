@@ -8,7 +8,6 @@
   ],
   "name": "STICHTING PENSIOENFONDS PGB",
   "legalName": "STICHTING PENSIOENFONDS PGB",
-  "bic": "GRBENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stichtingpensioenfondspgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRBENL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF MONTENEGRO",
   "legalName": "CENTRAL BANK OF MONTENEGRO",
-  "bic": "CBCGMEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankofmontenegro.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBCGMEB1XXX"
 }

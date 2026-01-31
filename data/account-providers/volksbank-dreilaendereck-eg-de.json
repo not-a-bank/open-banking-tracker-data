@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK DREILAENDERECK EG",
   "legalName": "VOLKSBANK DREILAENDERECK EG",
-  "bic": "VOLODE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankdreilaendereckegde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOLODE66XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "COMDIRECT BANK UND GF ONVISTA BANK",
   "legalName": "COMDIRECT BANK UND GF ONVISTA BANK",
-  "bic": "BOURDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.comdirectbankundgfonvistabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOURDEFFXXX"
 }

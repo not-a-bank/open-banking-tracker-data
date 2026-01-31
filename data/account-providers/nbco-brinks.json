@@ -8,7 +8,6 @@
   ],
   "name": "NBCO BRINKS",
   "legalName": "NBCO BRINKS",
-  "bic": "BRNSRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nbcobrinks.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRNSRUM1XXX"
 }

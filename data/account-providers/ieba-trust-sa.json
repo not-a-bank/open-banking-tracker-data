@@ -8,7 +8,6 @@
   ],
   "name": "IEBA TRUST S.A.",
   "legalName": "IEBA TRUST S.A.",
-  "bic": "IETRROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iebatrustsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IETRROB1XXX"
 }

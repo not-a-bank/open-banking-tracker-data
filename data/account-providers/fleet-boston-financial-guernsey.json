@@ -8,7 +8,6 @@
   ],
   "name": "FLEET BOSTON FINANCIAL (GUERNSEY)",
   "legalName": "FLEET BOSTON FINANCIAL (GUERNSEY)",
-  "bic": "FNBBGGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fleetbostonfinancialguernsey.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNBBGGS1XXX"
 }

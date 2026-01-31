@@ -8,7 +8,6 @@
   ],
   "name": "Municipal Bank AD",
   "legalName": "MUNICIPAL BANK AD",
-  "bic": "SOMBBGSFXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOMBBGSFXXX"
 }

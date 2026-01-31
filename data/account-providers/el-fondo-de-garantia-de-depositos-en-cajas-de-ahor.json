@@ -8,7 +8,6 @@
   ],
   "name": "EL FONDO DE GARANTIA DE DEPOSITOS EN CAJAS DE AHORRO",
   "legalName": "EL FONDO DE GARANTIA DE DEPOSITOS EN CAJAS DE AHORRO",
-  "bic": "FGDCESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.elfondodegarantiadedepositosencajasdeahor.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FGDCESM1XXX"
 }

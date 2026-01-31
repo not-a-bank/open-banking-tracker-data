@@ -8,7 +8,6 @@
   ],
   "name": "CLOSE INVESTMENT LIMITED",
   "legalName": "CLOSE INVESTMENT LIMITED",
-  "bic": "CLISGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.closeinvestmentlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLISGB21XXX"
 }

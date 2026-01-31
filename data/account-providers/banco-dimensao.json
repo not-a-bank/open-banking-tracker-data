@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DIMENSAO",
   "legalName": "BANCO DIMENSAO",
-  "bic": "BDAOBRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodimensao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDAOBRR1XXX"
 }

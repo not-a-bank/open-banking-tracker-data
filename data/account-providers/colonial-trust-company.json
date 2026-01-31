@@ -8,7 +8,6 @@
   ],
   "name": "COLONIAL TRUST COMPANY",
   "legalName": "COLONIAL TRUST COMPANY",
-  "bic": "COTCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.colonialtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COTCUS31XXX"
 }

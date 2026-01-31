@@ -8,7 +8,6 @@
   ],
   "name": "AXA ASSURANCE VIE LUXEMBOURG SA",
   "legalName": "AXA ASSURANCE VIE LUXEMBOURG SA",
-  "bic": "AAVULUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axaassurancevieluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AAVULUL1XXX"
 }

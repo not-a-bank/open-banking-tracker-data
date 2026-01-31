@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE INTERNATIONALE A LUXEMBOURG SA",
   "legalName": "BANQUE INTERNATIONALE A LUXEMBOURG SA",
-  "bic": "BILLLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueinternationalealuxembourgsa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BILLLULL"
 }

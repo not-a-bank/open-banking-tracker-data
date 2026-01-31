@@ -36,7 +36,8 @@
   "apiStandards": [],
   "apiAggregators": [
     "bridgeapi-io",
-    "budget-insight"
+    "budget-insight",
+    "gocardless"
   ],
   "collections": [],
   "webApplication": false,
@@ -66,5 +67,6 @@
   ],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "ESCBFRPPXXX"
 }

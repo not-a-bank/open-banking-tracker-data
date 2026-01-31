@@ -8,7 +8,6 @@
   ],
   "name": "KBC BAIL IMMOBILIER FRANCE",
   "legalName": "KBC BAIL IMMOBILIER FRANCE",
-  "bic": "KBIAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcbailimmobilierfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBIAFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BRANDENBURG SECURITIES LIMITED",
   "legalName": "BRANDENBURG SECURITIES LIMITED",
-  "bic": "BRSRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brandenburgsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRSRGB21XXX"
 }

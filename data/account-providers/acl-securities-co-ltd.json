@@ -8,7 +8,6 @@
   ],
   "name": "ACL SECURITIES CO. LTD",
   "legalName": "ACL SECURITIES CO. LTD",
-  "bic": "ACSCTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aclsecuritiescoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACSCTHB1XXX"
 }

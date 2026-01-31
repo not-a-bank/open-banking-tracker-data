@@ -8,7 +8,6 @@
   ],
   "name": "ONAFHANKELIJK VERMOGENSBEHEER 'S GRAVENHAGE B.V.",
   "legalName": "ONAFHANKELIJK VERMOGENSBEHEER 'S GRAVENHAGE B.V.",
-  "bic": "ONVGNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.onafhankelijkvermogensbeheersgravenhagebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ONVGNL21XXX"
 }

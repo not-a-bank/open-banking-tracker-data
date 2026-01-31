@@ -8,7 +8,6 @@
   ],
   "name": "DOLFI FINANCE SAS",
   "legalName": "DOLFI FINANCE SAS",
-  "bic": "DOLFFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dolfifinancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DOLFFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RENTA 4 BANCO, S.A.",
   "legalName": "RENTA 4 BANCO, S.A.",
-  "bic": "RENBESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.renta4bancosa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RENBESMM"
 }

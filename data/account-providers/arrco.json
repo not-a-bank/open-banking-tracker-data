@@ -8,7 +8,6 @@
   ],
   "name": "ARRCO",
   "legalName": "ARRCO",
-  "bic": "ARCCFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arrco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARCCFRP1XXX"
 }

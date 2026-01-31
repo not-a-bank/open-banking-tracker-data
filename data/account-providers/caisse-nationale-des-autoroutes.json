@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE NATIONALE DES AUTOROUTES",
   "legalName": "CAISSE NATIONALE DES AUTOROUTES",
-  "bic": "CANUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissenationaledesautoroutes.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CANUFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MOLSON COORS BREWING COMPANY",
   "legalName": "MOLSON COORS BREWING COMPANY",
-  "bic": "MCBCUS55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.molsoncoorsbrewingcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCBCUS55XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NEONET SECURITIES INC",
   "legalName": "NEONET SECURITIES INC",
-  "bic": "NEFOUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.neonetsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEFOUS31XXX"
 }

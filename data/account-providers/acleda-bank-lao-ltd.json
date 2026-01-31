@@ -8,7 +8,6 @@
   ],
   "name": "ACLEDA BANK (LAO) LTD",
   "legalName": "ACLEDA BANK (LAO) LTD",
-  "bic": "ACLBLALAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.acledabanklaoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACLBLALAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SEQUOIA SCA",
   "legalName": "SEQUOIA SCA",
-  "bic": "SQSCCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sequoiasca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SQSCCH21XXX"
 }

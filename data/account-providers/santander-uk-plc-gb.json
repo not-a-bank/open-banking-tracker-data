@@ -8,7 +8,6 @@
   ],
   "name": "SANTANDER UK PLC",
   "legalName": "SANTANDER UK PLC",
-  "bic": "ABBYGB3EXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santanderukplcgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABBYGB3EXXX"
 }

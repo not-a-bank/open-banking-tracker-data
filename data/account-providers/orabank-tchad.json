@@ -8,7 +8,6 @@
   ],
   "name": "ORABANK TCHAD",
   "legalName": "ORABANK TCHAD",
-  "bic": "ORBKTDNDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orabanktchad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORBKTDNDXXX"
 }

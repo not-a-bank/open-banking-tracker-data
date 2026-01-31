@@ -8,7 +8,6 @@
   ],
   "name": "CAJASUR BANCO, S.A.",
   "legalName": "CAJASUR BANCO, S.A.",
-  "bic": "CSURES2CXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cajasurbancosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSURES2CXXX"
 }

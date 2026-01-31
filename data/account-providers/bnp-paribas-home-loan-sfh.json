@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS HOME LOAN SFH",
   "legalName": "BNP PARIBAS HOME LOAN SFH",
-  "bic": "BNPAFRPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibashomeloansfh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAFRPLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS PERSONAL FINANCE SA POBOCKA ZAHRANICNEJ BANKY",
   "legalName": "BNP PARIBAS PERSONAL FINANCE SA POBOCKA ZAHRANICNEJ BANKY",
-  "bic": "BPPCSKB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibaspersonalfinancesapobockazahranicne.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPPCSKB1XXX"
 }

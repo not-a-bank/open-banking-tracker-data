@@ -8,7 +8,6 @@
   ],
   "name": "THE BANK OF NEW YORK MELLON (INTERNATIONAL) LIMITED",
   "legalName": "THE BANK OF NEW YORK MELLON (INTERNATIONAL) LIMITED",
-  "bic": "NEYEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankofnewyorkmelloninternationallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEYEGB21XXX"
 }

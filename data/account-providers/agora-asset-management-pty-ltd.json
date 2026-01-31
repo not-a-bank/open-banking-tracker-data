@@ -8,7 +8,6 @@
   ],
   "name": "AGORA ASSET MANAGEMENT PTY LTD",
   "legalName": "AGORA ASSET MANAGEMENT PTY LTD",
-  "bic": "AGAMAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agoraassetmanagementptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGAMAU31XXX"
 }

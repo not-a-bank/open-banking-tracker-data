@@ -8,7 +8,6 @@
   ],
   "name": "RESERVE INVEST (CYPRUS) LIMITED",
   "legalName": "RESERVE INVEST (CYPRUS) LIMITED",
-  "bic": "RINCCY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.reserveinvestcypruslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RINCCY21XXX"
 }

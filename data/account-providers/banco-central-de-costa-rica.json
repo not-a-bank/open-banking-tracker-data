@@ -8,7 +8,6 @@
   ],
   "name": "Banco Central DE Costa Rica",
   "legalName": "BANCO CENTRAL DE COSTA RICA",
-  "bic": "BCCRCRSJXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCCRCRSJXXX"
 }

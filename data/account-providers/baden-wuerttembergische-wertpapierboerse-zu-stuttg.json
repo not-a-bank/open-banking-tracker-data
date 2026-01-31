@@ -8,7 +8,6 @@
   ],
   "name": "BADEN-WUERTTEMBERGISCHE WERTPAPIERBOERSE ZU STUTTGART",
   "legalName": "BADEN-WUERTTEMBERGISCHE WERTPAPIERBOERSE ZU STUTTGART",
-  "bic": "XSTUDES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.badenwuerttembergischewertpapierboersezustuttg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSTUDES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TYRNAVAN OSUUSPANKKI",
   "legalName": "TYRNAVAN OSUUSPANKKI",
-  "bic": "TYOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tyrnavanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TYOSFI21XXX"
 }

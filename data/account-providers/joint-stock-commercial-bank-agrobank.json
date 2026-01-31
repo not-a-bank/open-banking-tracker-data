@@ -8,7 +8,6 @@
   ],
   "name": "JOINT STOCK COMMERCIAL BANK 'AGROBANK'",
   "legalName": "JOINT STOCK COMMERCIAL BANK 'AGROBANK'",
-  "bic": "PAKHUZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jointstockcommercialbankagrobank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAKHUZ22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "QT MUTUAL BANK LIMITED",
   "legalName": "QT MUTUAL BANK LIMITED",
-  "bic": "QTMBAU41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qtmutualbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QTMBAU41XXX"
 }

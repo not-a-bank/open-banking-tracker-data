@@ -8,7 +8,6 @@
   ],
   "name": "RENALCO SA",
   "legalName": "RENALCO SA",
-  "bic": "RENLCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.renalcosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RENLCHG1XXX"
 }

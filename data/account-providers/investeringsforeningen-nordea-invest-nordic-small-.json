@@ -8,7 +8,6 @@
   ],
   "name": "INVESTERINGSFORENINGEN NORDEA INVEST NORDIC SMALL CAP",
   "legalName": "INVESTERINGSFORENINGEN NORDEA INVEST NORDIC SMALL CAP",
-  "bic": "IOIODKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investeringsforeningennordeainvestnordicsmall.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IOIODKK1XXX"
 }

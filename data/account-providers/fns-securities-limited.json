@@ -8,7 +8,6 @@
   ],
   "name": "FNS SECURITIES LIMITED",
   "legalName": "FNS SECURITIES LIMITED",
-  "bic": "FINEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fnssecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FINEGB21XXX"
 }

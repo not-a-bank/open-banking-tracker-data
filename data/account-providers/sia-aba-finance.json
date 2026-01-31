@@ -8,7 +8,6 @@
   ],
   "name": "SIA ABA FINANCE",
   "legalName": "SIA ABA FINANCE",
-  "bic": "SIAFLV21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.siaabafinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIAFLV21XXX"
 }

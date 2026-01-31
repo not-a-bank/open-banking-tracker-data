@@ -8,7 +8,6 @@
   ],
   "name": "PIIKKION OSUUSPANKKI",
   "legalName": "PIIKKION OSUUSPANKKI",
-  "bic": "PIIKFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.piikkionosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PIIKFI21XXX"
 }

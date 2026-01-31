@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Schw\u00e4bisch Hall-Crailsheim",
-  "legalName": "Sparkasse Schw\u00e4bisch Hall-Crailsheim",
+  "name": "Sparkasse Schwäbisch Hall-Crailsheim",
+  "legalName": "Sparkasse Schwäbisch Hall-Crailsheim",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-schwaebisch-hall-crailsheim.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

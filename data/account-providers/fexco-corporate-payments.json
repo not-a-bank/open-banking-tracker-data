@@ -8,7 +8,6 @@
   ],
   "name": "FEXCO CORPORATE PAYMENTS",
   "legalName": "FEXCO CORPORATE PAYMENTS",
-  "bic": "FECPIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fexcocorporatepayments.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FECPIE21XXX"
 }

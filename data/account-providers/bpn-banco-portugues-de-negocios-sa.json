@@ -8,7 +8,6 @@
   ],
   "name": "BPN-BANCO PORTUGUES DE NEGOCIOS SA",
   "legalName": "BPN-BANCO PORTUGUES DE NEGOCIOS SA",
-  "bic": "BPNPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bpnbancoportuguesdenegociossa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPNPFRP1XXX"
 }

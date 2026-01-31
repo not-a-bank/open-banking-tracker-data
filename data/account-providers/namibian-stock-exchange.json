@@ -8,7 +8,6 @@
   ],
   "name": "NAMIBIAN STOCK EXCHANGE",
   "legalName": "NAMIBIAN STOCK EXCHANGE",
-  "bic": "XNAMNAN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.namibianstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XNAMNAN1XXX"
 }

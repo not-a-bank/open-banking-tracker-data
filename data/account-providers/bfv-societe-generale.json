@@ -8,7 +8,6 @@
   ],
   "name": "BFV-SOCIETE GENERALE",
   "legalName": "BFV-SOCIETE GENERALE",
-  "bic": "BFAVMGMGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bfvsocietegenerale.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFAVMGMGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PITCAIRN FINANCIAL MANAGEMENT GROUP",
   "legalName": "PITCAIRN FINANCIAL MANAGEMENT GROUP",
-  "bic": "PFMGUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pitcairnfinancialmanagementgroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PFMGUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CASA DE BOLSA SANTANDER, S.A.",
   "legalName": "CASA DE BOLSA SANTANDER, S.A.",
-  "bic": "CABDMXM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.casadebolsasantandersa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CABDMXM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE REGIONALE D'ESCOMPTE ET DE DEPOTS",
   "legalName": "BANQUE REGIONALE D'ESCOMPTE ET DE DEPOTS",
-  "bic": "REDEESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueregionaledescompteetdedepots.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REDEESM1XXX"
 }

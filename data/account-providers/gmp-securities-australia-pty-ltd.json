@@ -8,7 +8,6 @@
   ],
   "name": "GMP SECURITIES AUSTRALIA PTY LTD",
   "legalName": "GMP SECURITIES AUSTRALIA PTY LTD",
-  "bic": "GSAPAU61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gmpsecuritiesaustraliaptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSAPAU61XXX"
 }

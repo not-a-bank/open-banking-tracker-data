@@ -8,7 +8,6 @@
   ],
   "name": "STANDARD BANK INVESTMENT CORP.",
   "legalName": "STANDARD BANK INVESTMENT CORP.",
-  "bic": "SBICIMD1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.standardbankinvestmentcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBICIMD1XXX"
 }

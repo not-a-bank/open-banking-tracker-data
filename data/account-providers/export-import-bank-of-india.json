@@ -8,7 +8,6 @@
   ],
   "name": "EXPORT-IMPORT BANK OF INDIA",
   "legalName": "EXPORT-IMPORT BANK OF INDIA",
-  "bic": "EIBIGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exportimportbankofindia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EIBIGB2LXXX"
 }

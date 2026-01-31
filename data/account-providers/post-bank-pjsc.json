@@ -8,7 +8,6 @@
   ],
   "name": "POST BANK PJSC",
   "legalName": "POST BANK PJSC",
-  "bic": "POSBRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.postbankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POSBRUMMXXX"
 }

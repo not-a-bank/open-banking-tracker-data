@@ -8,7 +8,6 @@
   ],
   "name": "KEITELEEN OSUUSPANKKI",
   "legalName": "KEITELEEN OSUUSPANKKI",
-  "bic": "KEOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.keiteleenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KEOPFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS FINANCE PLC",
   "legalName": "BNP PARIBAS FINANCE PLC",
-  "bic": "BNPAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasfinanceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAGB21XXX"
 }

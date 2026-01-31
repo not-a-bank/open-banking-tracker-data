@@ -8,7 +8,6 @@
   ],
   "name": "REPUBLIC RESERVE BANK",
   "legalName": "REPUBLIC RESERVE BANK",
-  "bic": "RRBORUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.republicreservebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RRBORUM1XXX"
 }

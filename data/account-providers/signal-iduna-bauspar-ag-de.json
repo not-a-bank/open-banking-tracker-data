@@ -8,7 +8,6 @@
   ],
   "name": "SIGNAL IDUNA BAUSPAR AG",
   "legalName": "SIGNAL IDUNA BAUSPAR AG",
-  "bic": "SIBSDEHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.signalidunabausparagde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIBSDEHHXXX"
 }

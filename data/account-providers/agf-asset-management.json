@@ -8,7 +8,6 @@
   ],
   "name": "AGF ASSET MANAGEMENT",
   "legalName": "AGF ASSET MANAGEMENT",
-  "bic": "AGFMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agfassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGFMFRP1XXX"
 }

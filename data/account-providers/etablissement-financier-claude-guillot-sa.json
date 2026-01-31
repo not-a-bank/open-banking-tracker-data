@@ -8,7 +8,6 @@
   ],
   "name": "ETABLISSEMENT FINANCIER CLAUDE GUILLOT S.A.",
   "legalName": "ETABLISSEMENT FINANCIER CLAUDE GUILLOT S.A.",
-  "bic": "EFCGFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.etablissementfinancierclaudeguillotsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFCGFR21XXX"
 }

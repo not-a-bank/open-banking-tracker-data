@@ -8,7 +8,6 @@
   ],
   "name": "BNY MELLON ASSET MANAGEMENT OPERATIONS LLC",
   "legalName": "BNY MELLON ASSET MANAGEMENT OPERATIONS LLC",
-  "bic": "BMAEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnymellonassetmanagementoperationsllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMAEUS31XXX"
 }

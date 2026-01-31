@@ -8,7 +8,6 @@
   ],
   "name": "WINTRUST BANK",
   "legalName": "WINTRUST BANK",
-  "bic": "NSCTUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wintrustbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSCTUS44XXX"
 }

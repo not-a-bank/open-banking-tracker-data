@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA STRATEGA 50",
   "legalName": "NORDEA STRATEGA 50",
-  "bic": "NOGTSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeastratega50.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOGTSES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CENTRALE DE TUNISIE",
   "legalName": "BANQUE CENTRALE DE TUNISIE",
-  "bic": "BCTNTNTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecentraledetunisie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCTNTNTTXXX"
 }

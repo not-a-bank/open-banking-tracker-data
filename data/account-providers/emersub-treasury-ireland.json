@@ -8,7 +8,6 @@
   ],
   "name": "EMERSUB TREASURY IRELAND",
   "legalName": "EMERSUB TREASURY IRELAND",
-  "bic": "EMRTIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.emersubtreasuryireland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EMRTIE2DXXX"
 }

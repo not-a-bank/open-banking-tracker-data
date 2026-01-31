@@ -8,7 +8,6 @@
   ],
   "name": "BANCO NOR PERU",
   "legalName": "BANCO NOR PERU",
-  "bic": "BNPEPEP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banconorperu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPEPEP1XXX"
 }

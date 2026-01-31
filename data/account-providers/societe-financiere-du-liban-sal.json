@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE FINANCIERE DU LIBAN SAL",
   "legalName": "SOCIETE FINANCIERE DU LIBAN SAL",
-  "bic": "LISFLBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societefinancieredulibansal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LISFLBBEXXX"
 }

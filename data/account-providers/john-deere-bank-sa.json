@@ -8,7 +8,6 @@
   ],
   "name": "JOHN DEERE BANK S.A.",
   "legalName": "JOHN DEERE BANK S.A.",
-  "bic": "JODELUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.johndeerebanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JODELUL1XXX"
 }

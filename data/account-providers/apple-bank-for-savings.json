@@ -8,7 +8,6 @@
   ],
   "name": "APPLE BANK FOR SAVINGS",
   "legalName": "APPLE BANK FOR SAVINGS",
-  "bic": "APPAUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.applebankforsavings.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "APPAUS33XXX"
 }

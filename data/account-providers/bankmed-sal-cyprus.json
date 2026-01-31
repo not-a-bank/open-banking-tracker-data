@@ -8,7 +8,6 @@
   ],
   "name": "BANKMED SAL - CYPRUS",
   "legalName": "BANKMED SAL - CYPRUS",
-  "bic": "MEDLCY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankmedsalcyprus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEDLCY21XXX"
 }

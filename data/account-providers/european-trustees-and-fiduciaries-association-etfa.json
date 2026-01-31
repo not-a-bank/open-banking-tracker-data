@@ -8,7 +8,6 @@
   ],
   "name": "EUROPEAN TRUSTEES AND FIDUCIARIES ASSOCIATION (ETFA)",
   "legalName": "EUROPEAN TRUSTEES AND FIDUCIARIES ASSOCIATION (ETFA)",
-  "bic": "ETFASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.europeantrusteesandfiduciariesassociationetfa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETFASES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VW GROUP OF AMERICA",
   "legalName": "VW GROUP OF AMERICA",
-  "bic": "VWAGUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vwgroupofamerica.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VWAGUS33XXX"
 }

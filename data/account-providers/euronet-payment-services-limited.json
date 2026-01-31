@@ -8,7 +8,6 @@
   ],
   "name": "EURONET PAYMENT SERVICES LIMITED",
   "legalName": "EURONET PAYMENT SERVICES LIMITED",
-  "bic": "EUPSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euronetpaymentserviceslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUPSGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BPI GESTAO DE ACTIVOS - SOCIEDADE GESTORA DE FUNDO S DE INVESTIMENTO MOBILIARIO, SA",
   "legalName": "BPI GESTAO DE ACTIVOS - SOCIEDADE GESTORA DE FUNDO S DE INVESTIMENTO MOBILIARIO, SA",
-  "bic": "BPGAPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bpigestaodeactivossociedadegestoradefundos.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPGAPTP1XXX"
 }

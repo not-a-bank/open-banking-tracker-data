@@ -8,7 +8,6 @@
   ],
   "name": "GLOBEOP FINANCIAL SERVICES LLC",
   "legalName": "GLOBEOP FINANCIAL SERVICES LLC",
-  "bic": "GLOPUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globeopfinancialservicesllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GLOPUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TASMAN FOREIGN EXCHANGE PTY LTD",
   "legalName": "TASMAN FOREIGN EXCHANGE PTY LTD",
-  "bic": "TFEPAUS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tasmanforeignexchangeptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFEPAUS1XXX"
 }

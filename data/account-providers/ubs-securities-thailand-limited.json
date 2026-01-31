@@ -8,7 +8,6 @@
   ],
   "name": "UBS SECURITIES (THAILAND) LIMITED",
   "legalName": "UBS SECURITIES (THAILAND) LIMITED",
-  "bic": "SWPSTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubssecuritiesthailandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWPSTHB1XXX"
 }

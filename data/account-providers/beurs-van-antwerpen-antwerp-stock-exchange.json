@@ -8,7 +8,6 @@
   ],
   "name": "BEURS VAN ANTWERPEN (ANTWERP STOCK EXCHANGE)",
   "legalName": "BEURS VAN ANTWERPEN (ANTWERP STOCK EXCHANGE)",
-  "bic": "XANTBE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.beursvanantwerpenantwerpstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XANTBE21XXX"
 }

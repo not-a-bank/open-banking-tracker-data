@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL DEPOSITORY",
   "legalName": "CENTRAL DEPOSITORY",
-  "bic": "CTDTAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centraldepository.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTDTAEA1XXX"
 }

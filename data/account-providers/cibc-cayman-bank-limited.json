@@ -8,7 +8,6 @@
   ],
   "name": "CIBC CAYMAN BANK LIMITED",
   "legalName": "CIBC CAYMAN BANK LIMITED",
-  "bic": "COBVKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cibccaymanbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBVKYKYXXX"
 }

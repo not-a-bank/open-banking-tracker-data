@@ -8,7 +8,6 @@
   ],
   "name": "ANZ BANK (KIRIBATI) LTD",
   "legalName": "ANZ BANK (KIRIBATI) LTD",
-  "bic": "BKIRKIKIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anzbankkiribatiltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKIRKIKIXXX"
 }

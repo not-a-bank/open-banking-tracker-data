@@ -8,7 +8,6 @@
   ],
   "name": "GLOBAL BANK CORPORATION",
   "legalName": "GLOBAL BANK CORPORATION",
-  "bic": "GLBLPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globalbankcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GLBLPAPAXXX"
 }

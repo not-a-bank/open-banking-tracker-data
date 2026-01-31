@@ -8,7 +8,6 @@
   ],
   "name": "TEXAS FIRST STATE BANK",
   "legalName": "TEXAS FIRST STATE BANK",
-  "bic": "TFSTUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.texasfirststatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFSTUS44XXX"
 }

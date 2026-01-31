@@ -8,7 +8,6 @@
   ],
   "name": "SIMONIS STORM SECURITIES (PTY) LTD",
   "legalName": "SIMONIS STORM SECURITIES (PTY) LTD",
-  "bic": "FLMSNANXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.simonisstormsecuritiesptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLMSNANXXXX"
 }

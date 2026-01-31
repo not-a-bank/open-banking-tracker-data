@@ -8,7 +8,6 @@
   ],
   "name": "INVESCO LTD",
   "legalName": "INVESCO LTD",
-  "bic": "IVZLBMHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invescoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVZLBMHHXXX"
 }

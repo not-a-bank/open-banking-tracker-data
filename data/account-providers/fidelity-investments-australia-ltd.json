@@ -8,7 +8,6 @@
   ],
   "name": "FIDELITY INVESTMENTS AUSTRALIA LTD",
   "legalName": "FIDELITY INVESTMENTS AUSTRALIA LTD",
-  "bic": "FIILAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidelityinvestmentsaustralialtd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIILAU21XXX"
 }

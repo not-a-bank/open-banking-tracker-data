@@ -8,7 +8,6 @@
   ],
   "name": "GOFFIN BANK NV",
   "legalName": "GOFFIN BANK NV",
-  "bic": "GOFIFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goffinbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOFIFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Banco Ripley",
   "legalName": "BANCO RIPLEY",
-  "bic": "RPLYCLRMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoripley.cl.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RPLYCLRMXXX"
 }

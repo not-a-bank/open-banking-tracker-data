@@ -8,7 +8,6 @@
   ],
   "name": "AXA BANQUE FINANCEMENT",
   "legalName": "AXA BANQUE FINANCEMENT",
-  "bic": "AXFIFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axabanquefinancementfr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXFIFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ADF SERVICE GMBH",
   "legalName": "ADF SERVICE GMBH",
-  "bic": "PSSAATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.adfservicegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSSAATWWXXX"
 }

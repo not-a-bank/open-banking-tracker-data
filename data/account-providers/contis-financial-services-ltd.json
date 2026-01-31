@@ -8,7 +8,6 @@
   ],
   "name": "CONTIS FINANCIAL SERVICES LTD",
   "legalName": "CONTIS FINANCIAL SERVICES LTD",
-  "bic": "CNFVGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.contisfinancialservicesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNFVGB21XXX"
 }

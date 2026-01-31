@@ -8,7 +8,6 @@
   ],
   "name": "AS INBANK",
   "legalName": "AS INBANK",
-  "bic": "IBBNEE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asinbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBBNEE21XXX"
 }

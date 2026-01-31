@@ -8,7 +8,6 @@
   ],
   "name": "THE BANK OF NEW YORK MELLON, SEOUL BRANCH",
   "legalName": "THE BANK OF NEW YORK MELLON, SEOUL BRANCH",
-  "bic": "IRVTKRSXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankofnewyorkmellonseoulbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRVTKRSXXXX"
 }

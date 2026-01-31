@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA EASTERN EUROPE FUND",
   "legalName": "NORDEA EASTERN EUROPE FUND",
-  "bic": "NEEFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaeasterneuropefund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEEFFIH1XXX"
 }

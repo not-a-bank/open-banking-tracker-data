@@ -8,7 +8,6 @@
   ],
   "name": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
   "legalName": "PUBLIC SECTOR PENSION INVESTMENT BOARD",
-  "bic": "PSPBCA21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.publicsectorpensioninvestmentboard.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSPBCA21XXX"
 }

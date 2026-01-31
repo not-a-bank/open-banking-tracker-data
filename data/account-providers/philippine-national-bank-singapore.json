@@ -8,7 +8,6 @@
   ],
   "name": "PHILIPPINE NATIONAL BANK-SINGAPORE",
   "legalName": "PHILIPPINE NATIONAL BANK-SINGAPORE",
-  "bic": "PNBMSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philippinenationalbanksingapore.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBMSGSGXXX"
 }

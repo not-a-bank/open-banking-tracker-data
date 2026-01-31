@@ -8,7 +8,6 @@
   ],
   "name": "GALATA SECURITIES INC.",
   "legalName": "GALATA SECURITIES INC.",
-  "bic": "GALSTRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.galatasecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GALSTRI1XXX"
 }

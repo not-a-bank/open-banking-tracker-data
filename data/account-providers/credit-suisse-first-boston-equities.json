@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE FIRST BOSTON EQUITIES",
   "legalName": "CREDIT SUISSE FIRST BOSTON EQUITIES",
-  "bic": "FBAEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissefirstbostonequities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBAEGB21XXX"
 }

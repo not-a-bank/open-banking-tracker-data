@@ -8,7 +8,6 @@
   ],
   "name": "SYSPAY LIMITED",
   "legalName": "SYSPAY LIMITED",
-  "bic": "SYSPMTM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.syspaylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SYSPMTM1XXX"
 }

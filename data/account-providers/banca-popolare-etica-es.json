@@ -9,7 +9,6 @@
   ],
   "name": "BANCA POPOLARE ETICA",
   "legalName": "BANCA POPOLARE ETICA",
-  "bic": "ETICES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_popolare_etica_it.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETICES21XXX"
 }

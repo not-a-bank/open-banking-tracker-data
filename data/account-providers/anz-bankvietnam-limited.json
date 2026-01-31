@@ -8,7 +8,6 @@
   ],
   "name": "ANZ BANK(VIETNAM) LIMITED",
   "legalName": "ANZ BANK(VIETNAM) LIMITED",
-  "bic": "ANZBVNVXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anzbankvietnamlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBVNVXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SYGMA HISPANIA",
   "legalName": "BANCO SYGMA HISPANIA",
-  "bic": "SHSAESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosygmahispania.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHSAESM1XXX"
 }

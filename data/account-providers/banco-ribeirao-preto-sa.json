@@ -8,7 +8,6 @@
   ],
   "name": "BANCO RIBEIRAO PRETO S.A",
   "legalName": "BANCO RIBEIRAO PRETO S.A",
-  "bic": "BRPOBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoribeiraopretosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRPOBRS1XXX"
 }

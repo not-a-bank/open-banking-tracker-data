@@ -8,7 +8,6 @@
   ],
   "name": "EBS ASSET MANAGEMENT",
   "legalName": "EBS ASSET MANAGEMENT",
-  "bic": "EBAMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ebsassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBAMUS31XXX"
 }

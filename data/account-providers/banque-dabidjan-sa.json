@@ -8,7 +8,6 @@
   ],
   "name": "Banque Dabidjan, SA.",
   "legalName": "BANQUE DABIDJAN, SA.",
-  "bic": "BDAJCIABXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDAJCIABXXX"
 }

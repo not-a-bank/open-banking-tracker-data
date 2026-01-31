@@ -8,7 +8,6 @@
   ],
   "name": "ASPEN OIL (BROKING) LIMITED",
   "legalName": "ASPEN OIL (BROKING) LIMITED",
-  "bic": "ASOBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aspenoilbrokinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASOBGB21XXX"
 }

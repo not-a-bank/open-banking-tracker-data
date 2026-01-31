@@ -8,7 +8,6 @@
   ],
   "name": "ARCA FONDI SGR S.P.A.",
   "legalName": "ARCA FONDI SGR S.P.A.",
-  "bic": "ARCGITMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arcafondisgrspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARCGITMAXXX"
 }

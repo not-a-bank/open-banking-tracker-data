@@ -8,7 +8,6 @@
   ],
   "name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED NIEDERLASSUNG FRANKFURT AM MAIN",
   "legalName": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED NIEDERLASSUNG FRANKFURT AM MAIN",
-  "bic": "ANZBDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.australiaandnewzealandbankinggrouplimitedni.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBDEFFXXX"
 }

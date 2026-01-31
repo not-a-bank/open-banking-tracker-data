@@ -8,7 +8,6 @@
   ],
   "name": "BOLSA MEXICANA DE VALORES, S.A.B. DE C.V.",
   "legalName": "BOLSA MEXICANA DE VALORES, S.A.B. DE C.V.",
-  "bic": "XMEXMXM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bolsamexicanadevaloressabdecv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMEXMXM1XXX"
 }

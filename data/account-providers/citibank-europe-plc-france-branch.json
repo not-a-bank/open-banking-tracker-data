@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK EUROPE PLC FRANCE BRANCH",
   "legalName": "CITIBANK EUROPE PLC FRANCE BRANCH",
-  "bic": "CITIFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankeuropeplcfrancebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIFRPPXXX"
 }

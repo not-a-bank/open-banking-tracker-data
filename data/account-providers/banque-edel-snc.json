@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE EDEL SNC",
   "legalName": "BANQUE EDEL SNC",
-  "bic": "EDELFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueedelsnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EDELFRP1XXX"
 }

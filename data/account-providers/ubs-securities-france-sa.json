@@ -8,7 +8,6 @@
   ],
   "name": "UBS SECURITIES FRANCE SA",
   "legalName": "UBS SECURITIES FRANCE SA",
-  "bic": "UBSWFR31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubssecuritiesfrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWFR31XXX"
 }

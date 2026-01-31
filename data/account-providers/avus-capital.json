@@ -8,7 +8,6 @@
   ],
   "name": "AVUS CAPITAL",
   "legalName": "AVUS CAPITAL",
-  "bic": "AVCABGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.avuscapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVCABGS1XXX"
 }

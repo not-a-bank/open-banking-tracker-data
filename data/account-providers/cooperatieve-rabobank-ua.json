@@ -8,7 +8,6 @@
   ],
   "name": "COOPERATIEVE RABOBANK U.A.",
   "legalName": "COOPERATIEVE RABOBANK U.A.",
-  "bic": "RABOINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cooperatieverabobankua.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABOINBBXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AL AHALIA MONEY EXCHANGE BUREAU",
   "legalName": "AL AHALIA MONEY EXCHANGE BUREAU",
-  "bic": "AHXBAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alahaliamoneyexchangebureau.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AHXBAEADXXX"
 }

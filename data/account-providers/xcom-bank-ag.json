@@ -8,7 +8,6 @@
   ],
   "name": "XCOM BANK AG",
   "legalName": "XCOM BANK AG",
-  "bic": "CXOMDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.xcombankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CXOMDEM1XXX"
 }

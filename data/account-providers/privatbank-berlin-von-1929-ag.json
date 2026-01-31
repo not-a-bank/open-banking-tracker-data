@@ -8,7 +8,6 @@
   ],
   "name": "PRIVATBANK BERLIN VON 1929 AG",
   "legalName": "PRIVATBANK BERLIN VON 1929 AG",
-  "bic": "MACODEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.privatbankberlinvon1929ag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MACODEB1XXX"
 }

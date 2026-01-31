@@ -8,7 +8,6 @@
   ],
   "name": "HSBC CORPORATE FINANCE LTD.",
   "legalName": "HSBC CORPORATE FINANCE LTD.",
-  "bic": "HSCAHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbccorporatefinanceltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSCAHKH1XXX"
 }

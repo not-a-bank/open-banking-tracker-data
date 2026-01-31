@@ -8,7 +8,6 @@
   ],
   "name": "Banco Central DE Reserva DE EL Salvador",
   "legalName": "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
-  "bic": "SALVADOR",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SALVADOR"
 }

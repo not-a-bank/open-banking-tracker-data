@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF IRELAND (UK TREASURY)",
   "legalName": "BANK OF IRELAND (UK TREASURY)",
-  "bic": "BIGTGB2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofirelanduktreasury.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIGTGB2XXXX"
 }

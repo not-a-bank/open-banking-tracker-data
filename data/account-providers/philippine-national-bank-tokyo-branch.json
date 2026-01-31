@@ -8,7 +8,6 @@
   ],
   "name": "PHILIPPINE NATIONAL BANK TOKYO BRANCH",
   "legalName": "PHILIPPINE NATIONAL BANK TOKYO BRANCH",
-  "bic": "PNBMJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philippinenationalbanktokyobranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBMJPJTXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS METALS LIMITED",
   "legalName": "BARCLAYS METALS LIMITED",
-  "bic": "BAETGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysmetalslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAETGB21XXX"
 }

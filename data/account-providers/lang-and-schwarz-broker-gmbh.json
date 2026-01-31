@@ -8,7 +8,6 @@
   ],
   "name": "LANG AND SCHWARZ BROKER GMBH",
   "legalName": "LANG AND SCHWARZ BROKER GMBH",
-  "bic": "LSBGDED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.langandschwarzbrokergmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LSBGDED1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HETA ASSET RESOLUTION AG",
   "legalName": "HETA ASSET RESOLUTION AG",
-  "bic": "HAABAT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hetaassetresolutionag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAABAT22XXX"
 }

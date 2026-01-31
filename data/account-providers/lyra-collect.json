@@ -8,7 +8,6 @@
   ],
   "name": "LYRA COLLECT",
   "legalName": "LYRA COLLECT",
-  "bic": "LYCOFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lyracollect.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LYCOFR21XXX"
 }

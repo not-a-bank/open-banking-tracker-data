@@ -8,7 +8,6 @@
   ],
   "name": "SUISSE DE REASSURANCES (FRANCE)",
   "legalName": "SUISSE DE REASSURANCES (FRANCE)",
-  "bic": "SWREFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.suissedereassurancesfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWREFRP1XXX"
 }

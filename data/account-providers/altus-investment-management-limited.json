@@ -8,7 +8,6 @@
   ],
   "name": "ALTUS INVESTMENT MANAGEMENT LIMITED",
   "legalName": "ALTUS INVESTMENT MANAGEMENT LIMITED",
-  "bic": "ALTCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.altusinvestmentmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALTCGB21XXX"
 }

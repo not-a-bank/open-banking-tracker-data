@@ -8,7 +8,6 @@
   ],
   "name": "NUMIS SECURITIES LIMITED",
   "legalName": "NUMIS SECURITIES LIMITED",
-  "bic": "NUSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.numissecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NUSEGB21XXX"
 }

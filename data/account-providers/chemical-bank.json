@@ -8,7 +8,6 @@
   ],
   "name": "CHEMICAL BANK",
   "legalName": "CHEMICAL BANK",
-  "bic": "CHEMUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chemicalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHEMUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EBANQ BV",
   "legalName": "EBANQ BV",
-  "bic": "EBAQNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ebanqbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBAQNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TURKLAND BANK A.S. (T-BANK)",
   "legalName": "TURKLAND BANK A.S. (T-BANK)",
-  "bic": "TBNKTRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.turklandbankastbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TBNKTRISXXX"
 }

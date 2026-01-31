@@ -8,7 +8,6 @@
   ],
   "name": "COLORADO NATIONAL BANK-EXCHANGE",
   "legalName": "COLORADO NATIONAL BANK-EXCHANGE",
-  "bic": "CNBEUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.coloradonationalbankexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNBEUS51XXX"
 }

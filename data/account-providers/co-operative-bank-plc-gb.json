@@ -8,7 +8,6 @@
   ],
   "name": "CO-OPERATIVE BANK PLC.",
   "legalName": "CO-OPERATIVE BANK PLC.",
-  "bic": "CPBKGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cooperativebankplcgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPBKGB22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "IDS FINANCIAL SERVICES",
   "legalName": "IDS FINANCIAL SERVICES",
-  "bic": "IDFSUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.idsfinancialservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IDFSUS41XXX"
 }

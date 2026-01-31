@@ -9,7 +9,6 @@
   ],
   "name": "BANKHAUS J. FAISST OHG",
   "legalName": "BANKHAUS J. FAISST OHG",
-  "bic": "FAITDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/bankhaus_faisst_de.svg",
@@ -36,5 +35,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FAITDE66XXX"
 }

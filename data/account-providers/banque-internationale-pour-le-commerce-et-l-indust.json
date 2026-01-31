@@ -8,7 +8,6 @@
   ],
   "name": "Banque Internationale Pour LE Commerce ET L'industrie DE LA Cote D'ivoire",
   "legalName": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA COTE D'IVOIRE",
-  "bic": "BICICIABXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BICICIABXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MARZIO FINANCE SRL",
   "legalName": "MARZIO FINANCE SRL",
-  "bic": "MRFRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.marziofinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MRFRITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF THE KYRGYZ REPUBLIC",
   "legalName": "NATIONAL BANK OF THE KYRGYZ REPUBLIC",
-  "bic": "NBKIKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofthekyrgyzrepublic.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBKIKG22XXX"
 }

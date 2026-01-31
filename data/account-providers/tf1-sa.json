@@ -8,7 +8,6 @@
   ],
   "name": "TF1 SA",
   "legalName": "TF1 SA",
-  "bic": "TFIXFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tf1sa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFIXFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FINANCE SA GESTION PRIVEE",
   "legalName": "FINANCE SA GESTION PRIVEE",
-  "bic": "FIGVFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financesagestionprivee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIGVFR21XXX"
 }

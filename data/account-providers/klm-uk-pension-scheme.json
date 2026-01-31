@@ -8,7 +8,6 @@
   ],
   "name": "KLM UK PENSION SCHEME",
   "legalName": "KLM UK PENSION SCHEME",
-  "bic": "KLPSNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.klmukpensionscheme.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KLPSNL21XXX"
 }

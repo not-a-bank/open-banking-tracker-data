@@ -8,7 +8,6 @@
   ],
   "name": "BANCA PRIVATA LEASING SPA",
   "legalName": "BANCA PRIVATA LEASING SPA",
-  "bic": "PRLEIT23XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaprivataleasingspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRLEIT23XXX"
 }

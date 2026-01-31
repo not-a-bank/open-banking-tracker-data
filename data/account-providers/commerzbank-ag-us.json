@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZBANK AG",
   "legalName": "COMMERZBANK AG",
-  "bic": "COBAUS3XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzbankagus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBAUS3XXXX"
 }

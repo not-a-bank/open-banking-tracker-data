@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CENTRAL DEL PARAGUAY",
   "legalName": "BANCO CENTRAL DEL PARAGUAY",
-  "bic": "BCPAPYPRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocentraldelparaguaypy2.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCPAPYPRXXX"
 }

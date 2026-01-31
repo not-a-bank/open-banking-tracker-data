@@ -8,7 +8,6 @@
   ],
   "name": "SCL SECURITIES LIMITED",
   "legalName": "SCL SECURITIES LIMITED",
-  "bic": "SCSOBDD1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sclsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCSOBDD1XXX"
 }

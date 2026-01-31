@@ -8,7 +8,6 @@
   ],
   "name": "FINAMEX",
   "legalName": "FINAMEX",
-  "bic": "FIAMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finamex.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIAMUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FINEMIRO BANCA S.P.A.",
   "legalName": "FINEMIRO BANCA S.P.A.",
-  "bic": "FIEOIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finemirobancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIEOIT21XXX"
 }

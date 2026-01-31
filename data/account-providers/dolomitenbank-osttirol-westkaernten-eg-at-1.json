@@ -8,7 +8,6 @@
   ],
   "name": "DOLOMITENBANK OSTTIROL-WESTKAERNTEN EG",
   "legalName": "DOLOMITENBANK OSTTIROL-WESTKAERNTEN EG",
-  "bic": "VOKMAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dolomitenbankosttirolwestkaerntenegat1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOKMAT21XXX"
 }

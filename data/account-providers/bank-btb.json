@@ -8,7 +8,6 @@
   ],
   "name": "Bank BTB",
   "legalName": "BANK BTB",
-  "bic": "BBTBAZ22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBTBAZ22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HANG TSUN SECURITIES (PHILS)",
   "legalName": "HANG TSUN SECURITIES (PHILS)",
-  "bic": "HTSPPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hangtsunsecuritiesphils.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HTSPPHM1XXX"
 }

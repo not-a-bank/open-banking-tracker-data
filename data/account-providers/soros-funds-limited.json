@@ -8,7 +8,6 @@
   ],
   "name": "SOROS FUNDS LIMITED",
   "legalName": "SOROS FUNDS LIMITED",
-  "bic": "ASTAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sorosfundslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASTAGB21XXX"
 }

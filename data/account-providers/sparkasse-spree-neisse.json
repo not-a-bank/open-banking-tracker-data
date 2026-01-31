@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Spree-Nei\u00dfe",
-  "legalName": "Sparkasse Spree-Nei\u00dfe",
+  "name": "Sparkasse Spree-Neiße",
+  "legalName": "Sparkasse Spree-Neiße",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-spree-neisse.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

@@ -8,7 +8,6 @@
   ],
   "name": "LGS MONEYBROKERS",
   "legalName": "LGS MONEYBROKERS",
-  "bic": "LGSOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lgsmoneybrokers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LGSOGB21XXX"
 }

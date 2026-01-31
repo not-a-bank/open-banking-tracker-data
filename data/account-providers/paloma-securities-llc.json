@@ -8,7 +8,6 @@
   ],
   "name": "PALOMA SECURITIES L.L.C.",
   "legalName": "PALOMA SECURITIES L.L.C.",
-  "bic": "PSLLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.palomasecuritiesllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSLLUS31XXX"
 }

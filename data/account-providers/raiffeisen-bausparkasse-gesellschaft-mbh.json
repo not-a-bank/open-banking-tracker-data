@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN BAUSPARKASSE GESELLSCHAFT M.B.H.",
   "legalName": "RAIFFEISEN BAUSPARKASSE GESELLSCHAFT M.B.H.",
-  "bic": "RBSKATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbausparkassegesellschaftmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBSKATW1XXX"
 }

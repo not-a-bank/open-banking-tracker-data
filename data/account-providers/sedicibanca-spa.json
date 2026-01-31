@@ -8,7 +8,6 @@
   ],
   "name": "SEDICIBANCA S.P.A.",
   "legalName": "SEDICIBANCA S.P.A.",
-  "bic": "CRADITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sedicibancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRADITR1XXX"
 }

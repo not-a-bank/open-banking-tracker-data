@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERA DE CREDITO S.A",
   "legalName": "FINANCIERA DE CREDITO S.A",
-  "bic": "FCREGTG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financieradecreditosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCREGTG1XXX"
 }

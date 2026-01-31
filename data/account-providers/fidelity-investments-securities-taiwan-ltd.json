@@ -8,7 +8,6 @@
   ],
   "name": "FIDELITY INVESTMENTS SECURITIES (TAIWAN) LTD.",
   "legalName": "FIDELITY INVESTMENTS SECURITIES (TAIWAN) LTD.",
-  "bic": "FIDITWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidelityinvestmentssecuritiestaiwanltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIDITWT1XXX"
 }

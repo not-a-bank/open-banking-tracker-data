@@ -8,7 +8,6 @@
   ],
   "name": "DOBANK S.P.A.",
   "legalName": "DOBANK S.P.A.",
-  "bic": "UNGCIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dobankspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNGCIT21XXX"
 }

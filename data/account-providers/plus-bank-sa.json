@@ -8,7 +8,6 @@
   ],
   "name": "PLUS BANK S.A.",
   "legalName": "PLUS BANK S.A.",
-  "bic": "IVSEPLPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.plusbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVSEPLPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UNITEDHEALTH GROUP",
   "legalName": "UNITEDHEALTH GROUP",
-  "bic": "UNHGUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedhealthgroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNHGUS41XXX"
 }

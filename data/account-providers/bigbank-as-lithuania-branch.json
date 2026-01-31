@@ -8,7 +8,6 @@
   ],
   "name": "BIGBANK AS LITHUANIA BRANCH",
   "legalName": "BIGBANK AS LITHUANIA BRANCH",
-  "bic": "BIGKLT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bigbankaslithuaniabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIGKLT21XXX"
 }

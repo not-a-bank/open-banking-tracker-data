@@ -8,7 +8,6 @@
   ],
   "name": "FINBA MENKUL DEGERLER",
   "legalName": "FINBA MENKUL DEGERLER",
-  "bic": "FIMDTRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finbamenkuldegerler.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIMDTRI1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DEXIA SECURITIES BELGIUM SA",
   "legalName": "DEXIA SECURITIES BELGIUM SA",
-  "bic": "BASCBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dexiasecuritiesbelgiumsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BASCBEB1XXX"
 }

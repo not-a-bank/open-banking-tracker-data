@@ -8,7 +8,6 @@
   ],
   "name": "EFG BANK LUXEMBOURG SA",
   "legalName": "EFG BANK LUXEMBOURG SA",
-  "bic": "EFGBLULXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efgbankluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFGBLULXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TURICAM FUND MANAGEMENT",
   "legalName": "TURICAM FUND MANAGEMENT",
-  "bic": "TUFMCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.turicamfundmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TUFMCHZ1XXX"
 }

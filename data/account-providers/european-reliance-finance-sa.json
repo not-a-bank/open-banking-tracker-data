@@ -8,7 +8,6 @@
   ],
   "name": "EUROPEAN RELIANCE FINANCE S.A.",
   "legalName": "EUROPEAN RELIANCE FINANCE S.A.",
-  "bic": "EURNGR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.europeanreliancefinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EURNGR21XXX"
 }

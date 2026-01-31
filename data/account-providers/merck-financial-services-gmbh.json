@@ -8,7 +8,6 @@
   ],
   "name": "MERCK FINANCIAL SERVICES GMBH",
   "legalName": "MERCK FINANCIAL SERVICES GMBH",
-  "bic": "MRKGDE5DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merckfinancialservicesgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MRKGDE5DXXX"
 }

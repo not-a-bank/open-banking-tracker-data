@@ -8,7 +8,6 @@
   ],
   "name": "HELLENIC BANK (INVESTMENTS) LIMITED",
   "legalName": "HELLENIC BANK (INVESTMENTS) LIMITED",
-  "bic": "HIPCCY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hellenicbankinvestmentslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HIPCCY21XXX"
 }

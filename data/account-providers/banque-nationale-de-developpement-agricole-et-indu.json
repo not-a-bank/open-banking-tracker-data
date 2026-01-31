@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE ET INDUSTRIEL",
   "legalName": "BANQUE NATIONALE DE DEVELOPPEMENT AGRICOLE ET INDUSTRIEL",
-  "bic": "BNDIHT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquenationalededeveloppementagricoleetindu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNDIHT21XXX"
 }

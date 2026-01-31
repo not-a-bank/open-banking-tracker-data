@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE LBLUX S.A.",
   "legalName": "BANQUE LBLUX S.A.",
-  "bic": "BYLALUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquelbluxsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BYLALUL1XXX"
 }

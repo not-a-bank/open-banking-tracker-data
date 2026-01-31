@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "L\u00e4nsf\u00f6rs\u00e4kringar Bank",
-  "legalName": "L\u00e4nsf\u00f6rs\u00e4kringar Bank",
+  "name": "Länsförsäkringar Bank",
+  "legalName": "Länsförsäkringar Bank",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.laensfoersaekringar-bank.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "ELLFSESSXXX"
+  "bic": "ELLFSESS"
 }

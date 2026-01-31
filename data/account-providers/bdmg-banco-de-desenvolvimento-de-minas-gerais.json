@@ -8,7 +8,6 @@
   ],
   "name": "BDMG-BANCO DE DESENVOLVIMENTO DE MINAS GERAIS",
   "legalName": "BDMG-BANCO DE DESENVOLVIMENTO DE MINAS GERAIS",
-  "bic": "BDMGBRRBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bdmgbancodedesenvolvimentodeminasgerais.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDMGBRRBXXX"
 }

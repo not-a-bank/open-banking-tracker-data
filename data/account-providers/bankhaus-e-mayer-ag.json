@@ -9,7 +9,6 @@
   ],
   "name": "BANKHAUS E. MAYER AG",
   "legalName": "BANKHAUS E. MAYER AG",
-  "bic": "MAYRDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
@@ -30,6 +29,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "salt-edge",
     "tink",
     "volt",
@@ -37,5 +37,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKMADE61XXX"
 }

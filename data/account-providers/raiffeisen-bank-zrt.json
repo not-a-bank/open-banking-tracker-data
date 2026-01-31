@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN BANK ZRT.",
   "legalName": "RAIFFEISEN BANK ZRT.",
-  "bic": "UBRTHUHBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankzrt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBRTHUHBXXX"
 }

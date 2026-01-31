@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERE CENTRE-LOIRE",
   "legalName": "FINANCIERE CENTRE-LOIRE",
-  "bic": "FICTFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financierecentreloire.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FICTFR21XXX"
 }

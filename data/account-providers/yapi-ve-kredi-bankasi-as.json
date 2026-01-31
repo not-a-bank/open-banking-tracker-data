@@ -8,7 +8,6 @@
   ],
   "name": "YAPI VE KREDI BANKASI A.S.",
   "legalName": "YAPI VE KREDI BANKASI A.S.",
-  "bic": "YAPITRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.yapivekredibankasias.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YAPITRISXXX"
 }

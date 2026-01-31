@@ -8,7 +8,6 @@
   ],
   "name": "ASSURANCES CREDIT MUTUEL NORD VIE",
   "legalName": "ASSURANCES CREDIT MUTUEL NORD VIE",
-  "bic": "ACMDFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.assurancescreditmutuelnordvie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACMDFRP1XXX"
 }

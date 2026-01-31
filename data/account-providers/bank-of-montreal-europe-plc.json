@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Montreal Europe PLC",
   "legalName": "BANK OF MONTREAL EUROPE PLC",
-  "bic": "BOFMIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFMIE2DXXX"
 }

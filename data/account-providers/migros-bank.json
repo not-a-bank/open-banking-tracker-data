@@ -9,7 +9,6 @@
   ],
   "name": "MIGROS BANK",
   "legalName": "MIGROS BANK",
-  "bic": "MIGRCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1604371959/radar/icons/migrosbank-ch.jpg",
@@ -32,5 +31,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIGRCHZZXXX"
 }

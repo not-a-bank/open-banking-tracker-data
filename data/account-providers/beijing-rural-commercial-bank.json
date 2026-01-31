@@ -8,7 +8,6 @@
   ],
   "name": "BEIJING RURAL COMMERCIAL BANK",
   "legalName": "BEIJING RURAL COMMERCIAL BANK",
-  "bic": "BRCBCNBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.beijingruralcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRCBCNBJXXX"
 }

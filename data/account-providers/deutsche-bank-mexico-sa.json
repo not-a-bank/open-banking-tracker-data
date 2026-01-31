@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK MEXICO, SA",
   "legalName": "DEUTSCHE BANK MEXICO, SA",
-  "bic": "DEUTMXMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankmexicosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTMXMMXXX"
 }

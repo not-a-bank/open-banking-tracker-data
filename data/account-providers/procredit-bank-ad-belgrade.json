@@ -8,7 +8,6 @@
   ],
   "name": "PROCREDIT BANK A.D. BELGRADE",
   "legalName": "PROCREDIT BANK A.D. BELGRADE",
-  "bic": "PRCBRSBGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.procreditbankadbelgrade.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRCBRSBGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK AUDI SAE",
   "legalName": "BANK AUDI SAE",
-  "bic": "AUDBEGCAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankaudisae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUDBEGCAXXX"
 }

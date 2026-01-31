@@ -9,7 +9,6 @@
   ],
   "name": "CUMBERLAND BUILDING SOCIETY",
   "legalName": "CUMBERLAND BUILDING SOCIETY",
-  "bic": "CMBSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/cumberland_gb.svg",
@@ -30,10 +29,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMBSGB2AXXX"
 }

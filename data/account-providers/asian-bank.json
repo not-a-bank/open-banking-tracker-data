@@ -8,7 +8,6 @@
   ],
   "name": "ASIAN BANK",
   "legalName": "ASIAN BANK",
-  "bic": "AIAAUS3PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asianbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIAAUS3PXXX"
 }

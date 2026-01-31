@@ -8,7 +8,6 @@
   ],
   "name": "HABIB BANK OMAN",
   "legalName": "HABIB BANK OMAN",
-  "bic": "HABBOMRXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.habibbankoman.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HABBOMRXXXX"
 }

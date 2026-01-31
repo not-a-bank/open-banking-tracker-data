@@ -8,7 +8,6 @@
   ],
   "name": "CTI CAPITAL GROUP INC",
   "legalName": "CTI CAPITAL GROUP INC",
-  "bic": "CTICCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cticapitalgroupinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTICCAM1XXX"
 }

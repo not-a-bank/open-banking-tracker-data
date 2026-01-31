@@ -8,7 +8,6 @@
   ],
   "name": "BROKERJET CESKE SPORITELNY, A.S.",
   "legalName": "BROKERJET CESKE SPORITELNY, A.S.",
-  "bic": "BRCYCZP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brokerjetceskesporitelnyas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRCYCZP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BOI FINANCE LTD.",
   "legalName": "BOI FINANCE LTD.",
-  "bic": "BOIFINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.boifinanceltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOIFINB1XXX"
 }

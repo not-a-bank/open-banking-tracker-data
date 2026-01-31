@@ -8,7 +8,6 @@
   ],
   "name": "MICEX-FAR EAST REGIONAL EXCHANGE CENTER",
   "legalName": "MICEX-FAR EAST REGIONAL EXCHANGE CENTER",
-  "bic": "XAPIRU81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.micexfareastregionalexchangecenter.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XAPIRU81XXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "BJUGN SPAREBANK",
   "legalName": "BJUGN SPAREBANK",
-  "bic": "BJUGNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/3f565c02-e958-42b2-b305-497359fa1e2b/-/preview/170x170/-/crop/180x180/center/NO937902085.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BJUGNO21"
 }

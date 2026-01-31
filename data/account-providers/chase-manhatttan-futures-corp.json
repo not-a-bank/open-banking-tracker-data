@@ -8,7 +8,6 @@
   ],
   "name": "CHASE MANHATTTAN FUTURES CORP.",
   "legalName": "CHASE MANHATTTAN FUTURES CORP.",
-  "bic": "CHSEUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chasemanhatttanfuturescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHSEUS41XXX"
 }

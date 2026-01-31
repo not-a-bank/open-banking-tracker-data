@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE HAVILLAND (LIECHTENSTEIN) AG",
   "legalName": "BANQUE HAVILLAND (LIECHTENSTEIN) AG",
-  "bic": "SFBALI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquehavillandliechtensteinag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFBALI22XXX"
 }

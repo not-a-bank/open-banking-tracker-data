@@ -8,7 +8,6 @@
   ],
   "name": "OYAK ANKER BANK GMBH",
   "legalName": "OYAK ANKER BANK GMBH",
-  "bic": "OYAKDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oyakankerbankgmbhde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OYAKDE51XXX"
 }

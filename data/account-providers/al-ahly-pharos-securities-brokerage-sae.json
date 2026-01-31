@@ -8,7 +8,6 @@
   ],
   "name": "AL Ahly Pharos Securities Brokerage,sae",
   "legalName": "AL AHLY PHAROS SECURITIES BROKERAGE,SAE",
-  "bic": "PHAREGCAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHAREGCAXXX"
 }

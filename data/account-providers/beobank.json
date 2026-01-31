@@ -48,6 +48,7 @@
   "apiAggregators": [
     "bankingsdk",
     "banqup",
+    "gocardless",
     "ibanity",
     "klarna",
     "plaid",
@@ -112,5 +113,6 @@
   "stack": [
     "oas3",
     "euro-information"
-  ]
+  ],
+  "bic": "CTBKBEBX"
 }

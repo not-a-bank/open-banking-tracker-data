@@ -8,7 +8,6 @@
   ],
   "name": "FSA ASSET MANAGEMENT LLC",
   "legalName": "FSA ASSET MANAGEMENT LLC",
-  "bic": "FSAMUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fsaassetmanagementllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FSAMUS33XXX"
 }

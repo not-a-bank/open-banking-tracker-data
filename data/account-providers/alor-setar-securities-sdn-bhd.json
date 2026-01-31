@@ -8,7 +8,6 @@
   ],
   "name": "ALOR SETAR SECURITIES SDN BHD",
   "legalName": "ALOR SETAR SECURITIES SDN BHD",
-  "bic": "ALOSMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alorsetarsecuritiessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALOSMY21XXX"
 }

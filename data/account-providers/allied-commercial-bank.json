@@ -8,7 +8,6 @@
   ],
   "name": "Allied Commercial Bank",
   "legalName": "ALLIED COMMERCIAL BANK",
-  "bic": "COXICNBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alliedcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COXICNBAXXX"
 }

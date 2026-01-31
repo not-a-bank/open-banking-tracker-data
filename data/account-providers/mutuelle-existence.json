@@ -8,7 +8,6 @@
   ],
   "name": "MUTUELLE EXISTENCE",
   "legalName": "MUTUELLE EXISTENCE",
-  "bic": "MUEXFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mutuelleexistence.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUEXFR21XXX"
 }

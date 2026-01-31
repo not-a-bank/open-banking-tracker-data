@@ -8,7 +8,6 @@
   ],
   "name": "BANCA POPOLARE DI MILANO S.P.A.",
   "legalName": "BANCA POPOLARE DI MILANO S.P.A.",
-  "bic": "BPMIITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolaredimilanospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPMIITM1XXX"
 }

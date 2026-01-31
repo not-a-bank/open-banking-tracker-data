@@ -8,7 +8,6 @@
   ],
   "name": "PHILIPPINE POSTAL SAVINGS BANK, INC",
   "legalName": "PHILIPPINE POSTAL SAVINGS BANK, INC",
-  "bic": "PHSVPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philippinepostalsavingsbankinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHSVPHM1XXX"
 }

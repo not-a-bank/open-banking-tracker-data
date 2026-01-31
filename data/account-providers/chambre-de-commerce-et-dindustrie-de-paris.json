@@ -8,7 +8,6 @@
   ],
   "name": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE PARIS",
   "legalName": "CHAMBRE DE COMMERCE ET D'INDUSTRIE DE PARIS",
-  "bic": "CCEDFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chambredecommerceetdindustriedeparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCEDFRP1XXX"
 }

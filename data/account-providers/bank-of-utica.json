@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF UTICA",
   "legalName": "BANK OF UTICA",
-  "bic": "BAUTUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofutica.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAUTUS31XXX"
 }

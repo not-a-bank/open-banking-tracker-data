@@ -8,7 +8,6 @@
   ],
   "name": "Bank J. Safra Sarasin Ltd, Hong Kong Branch",
   "legalName": "BANK J. SAFRA SARASIN LTD, HONG KONG BRANCH",
-  "bic": "SARAHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SARAHKHHXXX"
 }

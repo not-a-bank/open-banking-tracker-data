@@ -8,7 +8,6 @@
   ],
   "name": "NOVINVEST S/A CVM",
   "legalName": "NOVINVEST S/A CVM",
-  "bic": "NOCVBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novinvestsacvm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOCVBRS1XXX"
 }

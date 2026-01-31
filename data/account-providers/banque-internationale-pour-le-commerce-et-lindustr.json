@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA GUINEE",
   "legalName": "BANQUE INTERNATIONALE POUR LE COMMERCE ET L'INDUSTRIE DE LA GUINEE",
-  "bic": "BICIGNCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueinternationalepourlecommerceetlindustr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BICIGNCXXXX"
 }

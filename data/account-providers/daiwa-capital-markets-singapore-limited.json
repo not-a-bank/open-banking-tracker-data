@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA CAPITAL MARKETS SINGAPORE LIMITED",
   "legalName": "DAIWA CAPITAL MARKETS SINGAPORE LIMITED",
-  "bic": "DASMSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwacapitalmarketssingaporelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DASMSGSGXXX"
 }

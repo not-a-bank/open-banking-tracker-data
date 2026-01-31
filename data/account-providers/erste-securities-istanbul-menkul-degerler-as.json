@@ -8,7 +8,6 @@
   ],
   "name": "ERSTE SECURITIES ISTANBUL MENKUL DEGERLER A.S.",
   "legalName": "ERSTE SECURITIES ISTANBUL MENKUL DEGERLER A.S.",
-  "bic": "ESIETRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.erstesecuritiesistanbulmenkuldegerleras.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESIETRI1XXX"
 }

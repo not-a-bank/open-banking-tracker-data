@@ -8,7 +8,6 @@
   ],
   "name": "ORSAY GMBH",
   "legalName": "ORSAY GMBH",
-  "bic": "ORSGDE6WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orsaygmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORSGDE6WXXX"
 }

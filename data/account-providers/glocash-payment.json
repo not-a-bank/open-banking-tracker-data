@@ -8,7 +8,6 @@
   ],
   "name": "GLOCASH PAYMENT",
   "legalName": "GLOCASH PAYMENT",
-  "bic": "GLPELT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.glocashpayment.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GLPELT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BAIN SECURITIES LIMITED",
   "legalName": "BAIN SECURITIES LIMITED",
-  "bic": "BAINGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bainsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAINGB21XXX"
 }

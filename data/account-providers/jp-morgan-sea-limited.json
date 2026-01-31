@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN (S.E.A.) LIMITED",
   "legalName": "J.P. MORGAN (S.E.A.) LIMITED",
-  "bic": "CMSESGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorgansealimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMSESGSGXXX"
 }

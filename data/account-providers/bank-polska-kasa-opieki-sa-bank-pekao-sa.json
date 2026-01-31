@@ -8,7 +8,6 @@
   ],
   "name": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
   "legalName": "BANK POLSKA KASA OPIEKI SA - BANK PEKAO SA",
-  "bic": "PKOPPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankpolskakasaopiekisabankpekaosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PKOPPLPWXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KUNSHAN RURAL COMMERCIAL BANK",
   "legalName": "KUNSHAN RURAL COMMERCIAL BANK",
-  "bic": "KSRBCNBKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kunshanruralcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KSRBCNBKXXX"
 }

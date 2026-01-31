@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA (MAURITIUS) LIMITED",
   "legalName": "BANK OF CHINA (MAURITIUS) LIMITED",
-  "bic": "BKCHMUMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinamauritiuslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHMUMUXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CASSA LOMBARDA S.P.A.",
   "legalName": "CASSA LOMBARDA S.P.A.",
-  "bic": "LOMCITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cassalombardaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOMCITMMXXX"
 }

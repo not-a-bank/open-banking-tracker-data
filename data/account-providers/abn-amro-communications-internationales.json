@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO COMMUNICATIONS INTERNATIONALES",
   "legalName": "ABN AMRO COMMUNICATIONS INTERNATIONALES",
-  "bic": "AACIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamrocommunicationsinternationales.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AACIFRP1XXX"
 }

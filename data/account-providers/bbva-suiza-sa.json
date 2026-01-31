@@ -8,7 +8,6 @@
   ],
   "name": "BBVA SUIZA SA",
   "legalName": "BBVA SUIZA SA",
-  "bic": "BBVACHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bbvasuizasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBVACHZZXXX"
 }

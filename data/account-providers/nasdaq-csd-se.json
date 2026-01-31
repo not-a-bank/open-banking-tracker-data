@@ -8,7 +8,6 @@
   ],
   "name": "NASDAQ CSD SE",
   "legalName": "NASDAQ CSD SE",
-  "bic": "LCDELV22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nasdaqcsdse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LCDELV22XXX"
 }

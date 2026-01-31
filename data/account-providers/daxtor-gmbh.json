@@ -8,7 +8,6 @@
   ],
   "name": "DAXTOR GMBH",
   "legalName": "DAXTOR GMBH",
-  "bic": "DAXGIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daxtorgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAXGIT21XXX"
 }

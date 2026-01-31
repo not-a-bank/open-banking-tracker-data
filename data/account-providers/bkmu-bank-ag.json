@@ -8,7 +8,6 @@
   ],
   "name": "BKMU BANK AG",
   "legalName": "BKMU BANK AG",
-  "bic": "BKMUDEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bkmubankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKMUDEB1XXX"
 }

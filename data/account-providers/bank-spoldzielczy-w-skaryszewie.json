@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W SKARYSZEWIE",
   "legalName": "BANK SPOLDZIELCZY W SKARYSZEWIE",
-  "bic": "SKARPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywskaryszewie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKARPLP1XXX"
 }

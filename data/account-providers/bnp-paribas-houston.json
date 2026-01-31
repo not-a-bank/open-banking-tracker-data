@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS HOUSTON",
   "legalName": "BNP PARIBAS HOUSTON",
-  "bic": "BNPAUS4HXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibashouston.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAUS4HXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EDGAR LOMAX COMPANY, THE",
   "legalName": "EDGAR LOMAX COMPANY, THE",
-  "bic": "EDLCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.edgarlomaxcompanythe.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EDLCUS31XXX"
 }

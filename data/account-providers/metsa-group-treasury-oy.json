@@ -8,7 +8,6 @@
   ],
   "name": "Metsa Group Treasury OY",
   "legalName": "METSA GROUP TREASURY OY",
-  "bic": "MGRPFI22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MGRPFI22XXX"
 }

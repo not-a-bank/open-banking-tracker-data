@@ -8,7 +8,6 @@
   ],
   "name": "DIE SCHWEIZERISCHE POST AG",
   "legalName": "DIE SCHWEIZERISCHE POST AG",
-  "bic": "POCHCH2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dieschweizerischepostag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POCHCH2BXXX"
 }

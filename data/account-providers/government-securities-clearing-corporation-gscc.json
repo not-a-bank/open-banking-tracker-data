@@ -8,7 +8,6 @@
   ],
   "name": "GOVERNMENT SECURITIES CLEARING CORPORATION (GSCC)",
   "legalName": "GOVERNMENT SECURITIES CLEARING CORPORATION (GSCC)",
-  "bic": "GSCCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.governmentsecuritiesclearingcorporationgscc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSCCUS31XXX"
 }

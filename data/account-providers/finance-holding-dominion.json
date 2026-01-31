@@ -8,7 +8,6 @@
   ],
   "name": "FINANCE HOLDING DOMINION",
   "legalName": "FINANCE HOLDING DOMINION",
-  "bic": "FIHDRU51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financeholdingdominion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIHDRU51XXX"
 }

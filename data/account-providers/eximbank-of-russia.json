@@ -8,7 +8,6 @@
   ],
   "name": "EXIMBANK OF RUSSIA",
   "legalName": "EXIMBANK OF RUSSIA",
-  "bic": "EXIRRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eximbankofrussia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXIRRUMMXXX"
 }

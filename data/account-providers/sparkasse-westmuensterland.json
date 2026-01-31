@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE WESTMUENSTERLAND",
   "legalName": "SPARKASSE WESTMUENSTERLAND",
-  "bic": "WELADE3WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassewestmuensterland.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WELADE3WXXX"
 }

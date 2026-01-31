@@ -8,7 +8,6 @@
   ],
   "name": "STEIERMAERKISCHE BANK UND SPARKASSEN AG",
   "legalName": "STEIERMAERKISCHE BANK UND SPARKASSEN AG",
-  "bic": "STSPAT2GXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.steiermaerkischebankundsparkassenag.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STSPAT2GXXX"
 }

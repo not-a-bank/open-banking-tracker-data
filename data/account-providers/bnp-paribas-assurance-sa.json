@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS ASSURANCE SA",
   "legalName": "BNP PARIBAS ASSURANCE SA",
-  "bic": "BPPAFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasassurancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPPAFR21XXX"
 }

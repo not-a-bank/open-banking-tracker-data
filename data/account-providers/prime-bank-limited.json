@@ -8,7 +8,6 @@
   ],
   "name": "PRIME BANK LIMITED",
   "legalName": "PRIME BANK LIMITED",
-  "bic": "PRBLBDDHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.primebanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRBLBDDHXXX"
 }

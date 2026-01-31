@@ -8,7 +8,6 @@
   ],
   "name": "MITSUBISHI UFJ SECURITIES HOLDINGS CO., LTD.",
   "legalName": "MITSUBISHI UFJ SECURITIES HOLDINGS CO., LTD.",
-  "bic": "MUSHJP22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mitsubishiufjsecuritiesholdingscoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUSHJP22XXX"
 }

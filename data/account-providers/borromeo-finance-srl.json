@@ -8,7 +8,6 @@
   ],
   "name": "BORROMEO FINANCE S.R.L.",
   "legalName": "BORROMEO FINANCE S.R.L.",
-  "bic": "BOFLITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.borromeofinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFLITM1XXX"
 }

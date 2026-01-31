@@ -8,7 +8,6 @@
   ],
   "name": "LEBENSVERSICHERUNG VON 1871",
   "legalName": "LEBENSVERSICHERUNG VON 1871",
-  "bic": "LEBNDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lebensversicherungvon1871.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LEBNDEM1XXX"
 }

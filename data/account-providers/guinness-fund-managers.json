@@ -8,7 +8,6 @@
   ],
   "name": "GUINNESS FUND MANAGERS",
   "legalName": "GUINNESS FUND MANAGERS",
-  "bic": "GUFMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.guinnessfundmanagers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GUFMGB21XXX"
 }

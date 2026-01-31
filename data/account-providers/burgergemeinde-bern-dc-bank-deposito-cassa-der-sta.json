@@ -8,7 +8,6 @@
   ],
   "name": "BURGERGEMEINDE BERN, DC BANK DEPOSITO-CASSA DER STADT BERN",
   "legalName": "BURGERGEMEINDE BERN, DC BANK DEPOSITO-CASSA DER STADT BERN",
-  "bic": "DCBECH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.burgergemeindeberndcbankdepositocassadersta.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCBECH22XXX"
 }

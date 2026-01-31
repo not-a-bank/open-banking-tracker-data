@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE CREDIT MUNICIPAL DE TOULOUSE",
   "legalName": "CAISSE DE CREDIT MUNICIPAL DE TOULOUSE",
-  "bic": "CCUOFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedecreditmunicipaldetoulouse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCUOFR21XXX"
 }

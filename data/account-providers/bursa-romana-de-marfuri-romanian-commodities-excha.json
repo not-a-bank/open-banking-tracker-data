@@ -8,7 +8,6 @@
   ],
   "name": "BURSA ROMANA DE MARFURI (ROMANIAN COMMODITIES EXCHANGE) SA",
   "legalName": "BURSA ROMANA DE MARFURI (ROMANIAN COMMODITIES EXCHANGE) SA",
-  "bic": "BURMROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bursaromanademarfuriromaniancommoditiesexcha.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BURMROB1XXX"
 }

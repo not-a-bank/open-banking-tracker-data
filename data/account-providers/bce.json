@@ -67,11 +67,12 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge"
   ],
-  "swiftCode": "BCOEESMM",
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://apis-i.redsys.es:20443/psd2/xs2a/api-entrada-xs2a/services/BCE/v1.1"
-  }
+  },
+  "bic": "BCOEESMM"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SEVERNY INVESTICIONNY BANK",
   "legalName": "SEVERNY INVESTICIONNY BANK",
-  "bic": "SEVNBY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.severnyinvesticionnybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEVNBY21XXX"
 }

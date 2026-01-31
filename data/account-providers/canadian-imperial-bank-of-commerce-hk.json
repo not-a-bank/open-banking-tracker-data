@@ -8,7 +8,6 @@
   ],
   "name": "CANADIAN IMPERIAL BANK OF COMMERCE",
   "legalName": "CANADIAN IMPERIAL BANK OF COMMERCE",
-  "bic": "CIBCHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.canadianimperialbankofcommercehk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIBCHKHHXXX"
 }

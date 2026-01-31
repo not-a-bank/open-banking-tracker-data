@@ -8,7 +8,6 @@
   ],
   "name": "TOYOTA TSUSHO FINANCE INTERNATIONAL B.V.",
   "legalName": "TOYOTA TSUSHO FINANCE INTERNATIONAL B.V.",
-  "bic": "TTFIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.toyotatsushofinanceinternationalbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TTFIGB21XXX"
 }

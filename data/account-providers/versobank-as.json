@@ -8,7 +8,6 @@
   ],
   "name": "VERSOBANK AS",
   "legalName": "VERSOBANK AS",
-  "bic": "SBMBEE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.versobankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBMBEE22XXX"
 }

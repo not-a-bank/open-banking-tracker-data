@@ -8,7 +8,6 @@
   ],
   "name": "ALBERTA STOCK EXCHANGE, THE",
   "legalName": "ALBERTA STOCK EXCHANGE, THE",
-  "bic": "XALBCA61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.albertastockexchangethe.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XALBCA61XXX"
 }

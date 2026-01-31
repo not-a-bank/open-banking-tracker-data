@@ -8,7 +8,6 @@
   ],
   "name": "TOYOTA FINANCIAL SERVICES SECURITIES CORPORATION",
   "legalName": "TOYOTA FINANCIAL SERVICES SECURITIES CORPORATION",
-  "bic": "TFSCJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.toyotafinancialservicessecuritiescorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFSCJPJ1XXX"
 }

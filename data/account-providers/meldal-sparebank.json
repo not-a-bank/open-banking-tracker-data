@@ -8,7 +8,6 @@
   ],
   "name": "MELDAL SPAREBANK",
   "legalName": "MELDAL SPAREBANK",
-  "bic": "MESPNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.meldalsparebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MESPNO21XXX"
 }

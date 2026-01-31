@@ -8,7 +8,6 @@
   ],
   "name": "COMCAST CAPITAL CORPORATION",
   "legalName": "COMCAST CAPITAL CORPORATION",
-  "bic": "COMCUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.comcastcapitalcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COMCUS33XXX"
 }

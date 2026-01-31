@@ -8,7 +8,6 @@
   ],
   "name": "WELLS FARGO BANK, NA",
   "legalName": "WELLS FARGO BANK, NA",
-  "bic": "PNBPSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wellsfargobankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBPSGSGXXX"
 }

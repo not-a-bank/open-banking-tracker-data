@@ -8,7 +8,6 @@
   ],
   "name": "KOMMUNALKREDIT AUSTRIA AG",
   "legalName": "KOMMUNALKREDIT AUSTRIA AG",
-  "bic": "INVOATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kommunalkreditaustriaag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INVOATWWXXX"
 }

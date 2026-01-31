@@ -8,7 +8,6 @@
   ],
   "name": "FIN-ECO BANCA ICQ S.P.A. (BANCA FIN-ECO S.P.A.)",
   "legalName": "FIN-ECO BANCA ICQ S.P.A. (BANCA FIN-ECO S.P.A.)",
-  "bic": "FEBIITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finecobancaicqspabancafinecospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FEBIITM1XXX"
 }

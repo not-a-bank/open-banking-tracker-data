@@ -8,7 +8,6 @@
   ],
   "name": "UNITED BANK FOR AFRICA PLC",
   "legalName": "UNITED BANK FOR AFRICA PLC",
-  "bic": "UNAFNGLAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedbankforafricaplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNAFNGLAXXX"
 }

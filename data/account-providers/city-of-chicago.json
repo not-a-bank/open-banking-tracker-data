@@ -8,7 +8,6 @@
   ],
   "name": "CITY OF CHICAGO",
   "legalName": "CITY OF CHICAGO",
-  "bic": "CTYCUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cityofchicago.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTYCUS44XXX"
 }

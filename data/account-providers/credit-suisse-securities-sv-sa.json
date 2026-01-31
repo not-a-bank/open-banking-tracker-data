@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE SECURITIES S.V. S.A.",
   "legalName": "CREDIT SUISSE SECURITIES S.V. S.A.",
-  "bic": "CSROESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissesecuritiessvsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSROESM1XXX"
 }

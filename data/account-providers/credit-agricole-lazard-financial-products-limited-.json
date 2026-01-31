@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE LAZARD FINANCIAL PRODUCTS LIMITED (HOLDING) - LONDON",
   "legalName": "CREDIT AGRICOLE LAZARD FINANCIAL PRODUCTS LIMITED (HOLDING) - LONDON",
-  "bic": "CALHGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolelazardfinancialproductslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CALHGB21XXX"
 }

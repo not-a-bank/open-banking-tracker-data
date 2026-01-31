@@ -8,7 +8,6 @@
   ],
   "name": "EURAMERICA SIM",
   "legalName": "EURAMERICA SIM",
-  "bic": "EUCAITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euramericasim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUCAITR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SANWA FINANCIAL PRODUCTS (UK) LTD",
   "legalName": "SANWA FINANCIAL PRODUCTS (UK) LTD",
-  "bic": "SAFOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sanwafinancialproductsukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAFOGB21XXX"
 }

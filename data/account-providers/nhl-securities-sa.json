@@ -8,7 +8,6 @@
   ],
   "name": "NHL SECURITIES S.A.",
   "legalName": "NHL SECURITIES S.A.",
-  "bic": "SMRSROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nhlsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMRSROB1XXX"
 }

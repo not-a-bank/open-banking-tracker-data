@@ -8,7 +8,6 @@
   ],
   "name": "THE EXPORT-IMPORT BANK OF KOREA",
   "legalName": "THE EXPORT-IMPORT BANK OF KOREA",
-  "bic": "EXIKFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theexportimportbankofkorea.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXIKFRP1XXX"
 }

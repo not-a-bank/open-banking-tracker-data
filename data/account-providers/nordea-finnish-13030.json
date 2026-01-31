@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA FINNISH 130/30",
   "legalName": "NORDEA FINNISH 130/30",
-  "bic": "NOFHFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeafinnish13030.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOFHFIH1XXX"
 }

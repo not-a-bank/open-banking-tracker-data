@@ -8,7 +8,6 @@
   ],
   "name": "RENAULT BANK",
   "legalName": "RENAULT BANK",
-  "bic": "RENUATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.renaultbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RENUATW1XXX"
 }

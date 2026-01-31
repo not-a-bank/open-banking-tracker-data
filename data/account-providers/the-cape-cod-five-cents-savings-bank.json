@@ -8,7 +8,6 @@
   ],
   "name": "THE CAPE COD FIVE CENTS SAVINGS BANK",
   "legalName": "THE CAPE COD FIVE CENTS SAVINGS BANK",
-  "bic": "CCFCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thecapecodfivecentssavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCFCUS31XXX"
 }

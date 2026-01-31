@@ -8,7 +8,6 @@
   ],
   "name": "DEXIA ISRAEL BANK LTD",
   "legalName": "DEXIA ISRAEL BANK LTD",
-  "bic": "OTHHILI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dexiaisraelbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OTHHILI1XXX"
 }

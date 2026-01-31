@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
   "legalName": "BANQUE CENTRALE DE LA REPUBLIQUE DE GUINEE",
-  "bic": "REPCGNGAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecentraledelarepubliquedeguinee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REPCGNGAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "IBM DEUTSCHLAND KREDITBANK GESELLSCHAFT MIT BESCHRANKTER HAFTUNG",
   "legalName": "IBM DEUTSCHLAND KREDITBANK GESELLSCHAFT MIT BESCHRANKTER HAFTUNG",
-  "bic": "IBKBDES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ibmdeutschlandkreditbankgesellschaftmitbeschr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBKBDES1XXX"
 }

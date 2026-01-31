@@ -8,7 +8,6 @@
   ],
   "name": "ABE Clearing Sas/eba Clearing",
   "legalName": "ABE CLEARING SAS/EBA CLEARING",
-  "bic": "EBAXBEBBCGS",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBAXBEBBCGS"
 }

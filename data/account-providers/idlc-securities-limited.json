@@ -8,7 +8,6 @@
   ],
   "name": "IDLC SECURITIES LIMITED",
   "legalName": "IDLC SECURITIES LIMITED",
-  "bic": "IDLCBDD1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.idlcsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IDLCBDD1XXX"
 }

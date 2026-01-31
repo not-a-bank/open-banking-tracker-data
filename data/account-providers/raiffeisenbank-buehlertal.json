@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank B\u00fchlertal",
-  "legalName": "Raiffeisenbank B\u00fchlertal",
+  "name": "Raiffeisenbank Bühlertal",
+  "legalName": "Raiffeisenbank Bühlertal",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-buehlertal.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

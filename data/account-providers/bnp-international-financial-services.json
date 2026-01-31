@@ -8,7 +8,6 @@
   ],
   "name": "BNP INTERNATIONAL FINANCIAL SERVICES",
   "legalName": "BNP INTERNATIONAL FINANCIAL SERVICES",
-  "bic": "BNPTUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpinternationalfinancialservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPTUS31XXX"
 }

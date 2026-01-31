@@ -8,7 +8,6 @@
   ],
   "name": "ACCUMULATE AB",
   "legalName": "ACCUMULATE AB",
-  "bic": "ACCMSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.accumulateab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACCMSES1XXX"
 }

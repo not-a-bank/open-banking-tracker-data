@@ -8,7 +8,6 @@
   ],
   "name": "NEW ZEALAND TREASURY",
   "legalName": "NEW ZEALAND TREASURY",
-  "bic": "NZTRNZ2WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newzealandtreasury.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NZTRNZ2WXXX"
 }

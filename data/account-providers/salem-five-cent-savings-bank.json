@@ -8,7 +8,6 @@
   ],
   "name": "SALEM FIVE CENT SAVINGS BANK",
   "legalName": "SALEM FIVE CENT SAVINGS BANK",
-  "bic": "SAVVUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.salemfivecentsavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAVVUS33XXX"
 }

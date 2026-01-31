@@ -8,7 +8,6 @@
   ],
   "name": "BANCO J.P. MORGAN S.A.",
   "legalName": "BANCO J.P. MORGAN S.A.",
-  "bic": "CHASMXMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancojpmorgansamx.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASMXMXXXX"
 }

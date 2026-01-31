@@ -8,7 +8,6 @@
   ],
   "name": "COMPANGIE PARISIENNE DE GESTION FINANCIERE",
   "legalName": "COMPANGIE PARISIENNE DE GESTION FINANCIERE",
-  "bic": "CPGFFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compangieparisiennedegestionfinanciere.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPGFFR21XXX"
 }

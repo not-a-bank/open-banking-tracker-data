@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL HONDURENA DE VALORES Y LIQUIDACION (CEHVAL)",
   "legalName": "CENTRAL HONDURENA DE VALORES Y LIQUIDACION (CEHVAL)",
-  "bic": "CHVLHNT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralhondurenadevaloresyliquidacioncehval.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHVLHNT1XXX"
 }

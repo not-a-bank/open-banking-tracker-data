@@ -8,7 +8,6 @@
   ],
   "name": "PARIBAS FUTURES LTD",
   "legalName": "PARIBAS FUTURES LTD",
-  "bic": "PAFTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paribasfuturesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAFTGB21XXX"
 }

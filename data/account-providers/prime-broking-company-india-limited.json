@@ -8,7 +8,6 @@
   ],
   "name": "PRIME BROKING COMPANY (INDIA) LIMITED",
   "legalName": "PRIME BROKING COMPANY (INDIA) LIMITED",
-  "bic": "PBCIINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.primebrokingcompanyindialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBCIINB1XXX"
 }

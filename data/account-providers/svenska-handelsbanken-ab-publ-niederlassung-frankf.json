@@ -8,7 +8,6 @@
   ],
   "name": "SVENSKA HANDELSBANKEN AB (PUBL), NIEDERLASSUNG FRANKFURT",
   "legalName": "SVENSKA HANDELSBANKEN AB (PUBL), NIEDERLASSUNG FRANKFURT",
-  "bic": "HANDDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.svenskahandelsbankenabpublniederlassungfrankf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HANDDEF1XXX"
 }

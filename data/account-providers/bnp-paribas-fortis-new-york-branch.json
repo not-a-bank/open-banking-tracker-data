@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS FORTIS NEW YORK BRANCH",
   "legalName": "BNP PARIBAS FORTIS NEW YORK BRANCH",
-  "bic": "GEBAUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasfortisnewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEBAUS33XXX"
 }

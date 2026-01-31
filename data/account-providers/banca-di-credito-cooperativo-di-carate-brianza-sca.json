@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DI CREDITO COOPERATIVO DI CARATE BRIANZA S.C.A.R.L.",
   "legalName": "BANCA DI CREDITO COOPERATIVO DI CARATE BRIANZA S.C.A.R.L.",
-  "bic": "CRCBIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadicreditocooperativodicaratebrianzasca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRCBIT21XXX"
 }

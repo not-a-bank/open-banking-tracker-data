@@ -8,7 +8,6 @@
   ],
   "name": "ROINVEST BUCOVINA S.A.",
   "legalName": "ROINVEST BUCOVINA S.A.",
-  "bic": "ROBURO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.roinvestbucovinasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROBURO21XXX"
 }

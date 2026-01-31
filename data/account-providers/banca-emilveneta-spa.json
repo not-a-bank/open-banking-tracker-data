@@ -8,7 +8,6 @@
   ],
   "name": "BANCA EMILVENETA SPA",
   "legalName": "BANCA EMILVENETA SPA",
-  "bic": "EMIVIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaemilvenetaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EMIVIT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PENTA CORREDORES DE BOLSA S.A.",
   "legalName": "PENTA CORREDORES DE BOLSA S.A.",
-  "bic": "PCOLCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pentacorredoresdebolsasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PCOLCLR1XXX"
 }

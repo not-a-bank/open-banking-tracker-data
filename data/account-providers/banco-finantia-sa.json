@@ -8,7 +8,6 @@
   ],
   "name": "BANCO FINANTIA S.A.",
   "legalName": "BANCO FINANTIA S.A.",
-  "bic": "BFIAPTPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancofinantiasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFIAPTPLXXX"
 }

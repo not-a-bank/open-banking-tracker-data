@@ -8,7 +8,6 @@
   ],
   "name": "SMC GLOBAL SECURITIES LIMITED",
   "legalName": "SMC GLOBAL SECURITIES LIMITED",
-  "bic": "SMGSINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.smcglobalsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMGSINB1XXX"
 }

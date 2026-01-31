@@ -8,7 +8,6 @@
   ],
   "name": "FINTECH GROUP BANK AG",
   "legalName": "FINTECH GROUP BANK AG",
-  "bic": "BIWBDE33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fintechgroupbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIWBDE33XXX"
 }

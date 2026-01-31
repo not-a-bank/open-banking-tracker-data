@@ -8,7 +8,6 @@
   ],
   "name": "MBANK HIPOTECZNY SA",
   "legalName": "MBANK HIPOTECZNY SA",
-  "bic": "RHBHPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mbankhipotecznysa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RHBHPLPWXXX"
 }

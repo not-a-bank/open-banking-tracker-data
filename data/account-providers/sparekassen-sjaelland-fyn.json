@@ -54,12 +54,13 @@
     }
   ],
   "apiAggregators": [
-    "volt",
+    "enablebanking",
+    "gocardless",
     "plaid",
-    "enablebanking"
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "SWESDK22XXX"
+  "bic": "SWESDK22"
 }

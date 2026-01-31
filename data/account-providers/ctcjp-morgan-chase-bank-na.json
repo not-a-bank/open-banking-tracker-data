@@ -8,7 +8,6 @@
   ],
   "name": "CTC/JP MORGAN CHASE BANK, NA",
   "legalName": "CTC/JP MORGAN CHASE BANK, NA",
-  "bic": "CUTCUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ctcjpmorganchasebankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CUTCUS33XXX"
 }

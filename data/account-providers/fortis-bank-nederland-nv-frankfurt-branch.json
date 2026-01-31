@@ -8,7 +8,6 @@
   ],
   "name": "FORTIS BANK (NEDERLAND) N.V., FRANKFURT BRANCH",
   "legalName": "FORTIS BANK (NEDERLAND) N.V., FRANKFURT BRANCH",
-  "bic": "FGCFDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fortisbanknederlandnvfrankfurtbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FGCFDEF1XXX"
 }

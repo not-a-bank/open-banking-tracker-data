@@ -8,7 +8,6 @@
   ],
   "name": "MIZUHO BANK, LTD. SINGAPORE BRANCH",
   "legalName": "MIZUHO BANK, LTD. SINGAPORE BRANCH",
-  "bic": "MHCBSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mizuhobankltdsingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHCBSGSGXXX"
 }

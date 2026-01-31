@@ -8,7 +8,6 @@
   ],
   "name": "SHINHAN BANK CANADA",
   "legalName": "SHINHAN BANK CANADA",
-  "bic": "SHBKCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shinhanbankcanada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHBKCATTXXX"
 }

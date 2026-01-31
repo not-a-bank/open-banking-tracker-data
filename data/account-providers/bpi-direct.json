@@ -8,7 +8,6 @@
   ],
   "name": "BPI DIRECT",
   "legalName": "BPI DIRECT",
-  "bic": "BPDIPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bpidirect.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPDIPHM1XXX"
 }

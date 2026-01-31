@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS ISRAEL",
   "legalName": "BNP PARIBAS ISRAEL",
-  "bic": "BNPAILI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasisrael.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAILI1XXX"
 }

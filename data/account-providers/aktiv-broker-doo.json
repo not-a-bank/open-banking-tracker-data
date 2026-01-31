@@ -8,7 +8,6 @@
   ],
   "name": "AKTIV BROKER D.O.O.",
   "legalName": "AKTIV BROKER D.O.O.",
-  "bic": "AKBDHR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aktivbrokerdoo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKBDHR21XXX"
 }

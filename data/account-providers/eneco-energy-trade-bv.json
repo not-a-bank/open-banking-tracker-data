@@ -8,7 +8,6 @@
   ],
   "name": "ENECO ENERGY TRADE B.V.",
   "legalName": "ENECO ENERGY TRADE B.V.",
-  "bic": "ENECNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enecoenergytradebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENECNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MISTO BANK",
   "legalName": "MISTO BANK",
-  "bic": "MIBKUA2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mistobank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIBKUA2DXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER PANAMA, S..A",
   "legalName": "BANCO SANTANDER PANAMA, S..A",
-  "bic": "BSCHPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantanderpanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHPAPAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE (FORMERLY BANQUE INDOSUEZ)",
   "legalName": "CREDIT AGRICOLE (FORMERLY BANQUE INDOSUEZ)",
-  "bic": "BSUIKYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricoleformerlybanqueindosuez.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSUIKYK1XXX"
 }

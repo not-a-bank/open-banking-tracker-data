@@ -8,7 +8,6 @@
   ],
   "name": "TRADE FINANCE BANK",
   "legalName": "TRADE FINANCE BANK",
-  "bic": "TFBCRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tradefinancebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFBCRUMMXXX"
 }

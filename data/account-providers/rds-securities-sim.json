@@ -8,7 +8,6 @@
   ],
   "name": "R.D.S. SECURITIES SIM",
   "legalName": "R.D.S. SECURITIES SIM",
-  "bic": "RDSSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rdssecuritiessim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RDSSITM1XXX"
 }

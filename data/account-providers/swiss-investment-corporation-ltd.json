@@ -8,7 +8,6 @@
   ],
   "name": "SWISS INVESTMENT CORPORATION LTD",
   "legalName": "SWISS INVESTMENT CORPORATION LTD",
-  "bic": "SWICGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swissinvestmentcorporationltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWICGB21XXX"
 }

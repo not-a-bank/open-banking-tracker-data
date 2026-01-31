@@ -8,7 +8,6 @@
   ],
   "name": "BANK SINOPAC (CHINA) LTD.",
   "legalName": "BANK SINOPAC (CHINA) LTD.",
-  "bic": "SINOCNBNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banksinopacchinaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SINOCNBNXXX"
 }

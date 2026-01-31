@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE HUNZIKER S.A.",
   "legalName": "BANQUE HUNZIKER S.A.",
-  "bic": "BHUNCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquehunzikersa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHUNCHG1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANKERS TRUST COMPANY OF CALIFORNIA",
   "legalName": "BANKERS TRUST COMPANY OF CALIFORNIA",
-  "bic": "TRCCUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankerstrustcompanyofcalifornia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRCCUS61XXX"
 }

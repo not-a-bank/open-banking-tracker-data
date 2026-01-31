@@ -8,7 +8,6 @@
   ],
   "name": "PENSAM LIV FORSIKRINGSAKTIESELSKAB",
   "legalName": "PENSAM LIV FORSIKRINGSAKTIESELSKAB",
-  "bic": "PENFDK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pensamlivforsikringsaktieselskab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PENFDK22XXX"
 }

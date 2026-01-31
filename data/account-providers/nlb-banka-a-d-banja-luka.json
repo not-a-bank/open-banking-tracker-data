@@ -8,7 +8,6 @@
   ],
   "name": "NLB Banka A.d. Banja Luka",
   "legalName": "NLB BANKA A.D. BANJA LUKA",
-  "bic": "RAZBBA22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAZBBA22XXX"
 }

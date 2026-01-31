@@ -8,7 +8,6 @@
   ],
   "name": "REPUBLIC BANK (SURINAME) N.V.",
   "legalName": "REPUBLIC BANK (SURINAME) N.V.",
-  "bic": "RBNKSRPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.republicbanksurinamenv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBNKSRPAXXX"
 }

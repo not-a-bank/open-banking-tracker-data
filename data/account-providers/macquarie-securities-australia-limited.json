@@ -8,7 +8,6 @@
   ],
   "name": "MACQUARIE SECURITIES (AUSTRALIA) LIMITED",
   "legalName": "MACQUARIE SECURITIES (AUSTRALIA) LIMITED",
-  "bic": "MSAUAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macquariesecuritiesaustralialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSAUAU21XXX"
 }

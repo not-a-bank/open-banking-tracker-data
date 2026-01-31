@@ -8,7 +8,6 @@
   ],
   "name": "UFINVEST SNC",
   "legalName": "UFINVEST SNC",
-  "bic": "UFSNFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ufinvestsnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UFSNFR21XXX"
 }

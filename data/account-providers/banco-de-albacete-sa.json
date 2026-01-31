@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE ALBACETE, S.A.",
   "legalName": "BANCO DE ALBACETE, S.A.",
-  "bic": "ALACESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodealbacetesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALACESM1XXX"
 }

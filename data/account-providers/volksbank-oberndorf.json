@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK OBERNDORF",
   "legalName": "VOLKSBANK OBERNDORF",
-  "bic": "VOBOAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankoberndorf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOBOAT21XXX"
 }

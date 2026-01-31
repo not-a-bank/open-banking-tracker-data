@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF America, N.a. (guangzhou Branch)",
   "legalName": "BANK OF AMERICA, N.A. (GUANGZHOU BRANCH)",
-  "bic": "BOFACN4XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFACN4XXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ARM CAPITAL ADVISORS",
   "legalName": "ARM CAPITAL ADVISORS",
-  "bic": "ARMAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.armcapitaladvisors.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARMAUS31XXX"
 }

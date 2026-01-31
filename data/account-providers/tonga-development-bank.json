@@ -8,7 +8,6 @@
   ],
   "name": "TONGA DEVELOPMENT BANK",
   "legalName": "TONGA DEVELOPMENT BANK",
-  "bic": "TODETONUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tongadevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TODETONUXXX"
 }

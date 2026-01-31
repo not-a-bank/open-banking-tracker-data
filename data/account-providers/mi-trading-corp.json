@@ -8,7 +8,6 @@
   ],
   "name": "MI TRADING CORP.",
   "legalName": "MI TRADING CORP.",
-  "bic": "MIFXUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mitradingcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIFXUS31XXX"
 }

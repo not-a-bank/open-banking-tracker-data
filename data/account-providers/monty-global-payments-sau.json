@@ -8,7 +8,6 @@
   ],
   "name": "MONTY GLOBAL PAYMENTS, S.A.U.",
   "legalName": "MONTY GLOBAL PAYMENTS, S.A.U.",
-  "bic": "MNTYESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.montyglobalpaymentssau.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MNTYESMMXXX"
 }

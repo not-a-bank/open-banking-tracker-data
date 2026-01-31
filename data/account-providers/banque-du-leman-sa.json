@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DU LEMAN SA",
   "legalName": "BANQUE DU LEMAN SA",
-  "bic": "BLEMCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedulemansa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLEMCHGGXXX"
 }

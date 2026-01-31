@@ -8,7 +8,6 @@
   ],
   "name": "NOVA LJUBLJANSKA BANKA D.D.",
   "legalName": "NOVA LJUBLJANSKA BANKA D.D.",
-  "bic": "LJBASI2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novaljubljanskabankadd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LJBASI2XXXX"
 }

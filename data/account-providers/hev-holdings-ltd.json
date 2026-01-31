@@ -8,7 +8,6 @@
   ],
   "name": "HEV (HOLDINGS) LTD",
   "legalName": "HEV (HOLDINGS) LTD",
-  "bic": "HEHOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hevholdingsltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEHOGB21XXX"
 }

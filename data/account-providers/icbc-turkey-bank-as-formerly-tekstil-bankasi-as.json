@@ -8,7 +8,6 @@
   ],
   "name": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
   "legalName": "ICBC TURKEY BANK A.S. (FORMERLY TEKSTIL BANKASI A.S.)",
-  "bic": "ICBKTRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icbcturkeybankasformerlytekstilbankasias.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICBKTRISXXX"
 }

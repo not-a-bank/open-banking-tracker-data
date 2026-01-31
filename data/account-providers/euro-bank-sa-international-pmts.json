@@ -8,7 +8,6 @@
   ],
   "name": "EURO BANK S.A. INTERNATIONAL PMTS",
   "legalName": "EURO BANK S.A. INTERNATIONAL PMTS",
-  "bic": "EBSAPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurobanksainternationalpmts.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBSAPLPWXXX"
 }

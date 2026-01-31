@@ -8,7 +8,6 @@
   ],
   "name": "TA CHIANG SECURITIES CORP",
   "legalName": "TA CHIANG SECURITIES CORP",
-  "bic": "CHIETWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tachiangsecuritiescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHIETWT1XXX"
 }

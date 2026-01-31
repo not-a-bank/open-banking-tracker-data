@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE POPULAIRE POUR L'EPARGNE ET LE CREDIT (FORMERLY CAISSE D'EPARGNE DU TOGO)",
   "legalName": "BANQUE POPULAIRE POUR L'EPARGNE ET LE CREDIT (FORMERLY CAISSE D'EPARGNE DU TOGO)",
-  "bic": "BPECTGTGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepopulairepourlepargneetlecreditformer.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPECTGTGXXX"
 }

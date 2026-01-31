@@ -8,7 +8,6 @@
   ],
   "name": "GOBIERNO DE NAVARRA",
   "legalName": "GOBIERNO DE NAVARRA",
-  "bic": "CANAES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gobiernodenavarra.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CANAES21XXX"
 }

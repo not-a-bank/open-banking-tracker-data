@@ -8,7 +8,6 @@
   ],
   "name": "FLOW TRADERS B.V.",
   "legalName": "FLOW TRADERS B.V.",
-  "bic": "FLTRNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.flowtradersbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLTRNL21XXX"
 }

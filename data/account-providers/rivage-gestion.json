@@ -8,7 +8,6 @@
   ],
   "name": "RIVAGE GESTION",
   "legalName": "RIVAGE GESTION",
-  "bic": "RIGSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rivagegestion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RIGSFRP1XXX"
 }

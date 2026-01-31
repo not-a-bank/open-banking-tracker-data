@@ -8,7 +8,6 @@
   ],
   "name": "LYNX ASSET MANAGEMENT AB",
   "legalName": "LYNX ASSET MANAGEMENT AB",
-  "bic": "LYAASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lynxassetmanagementab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LYAASES1XXX"
 }

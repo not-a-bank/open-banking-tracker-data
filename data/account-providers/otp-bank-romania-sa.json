@@ -8,7 +8,6 @@
   ],
   "name": "OTP BANK ROMANIA S.A.",
   "legalName": "OTP BANK ROMANIA S.A.",
-  "bic": "OTPVROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.otpbankromaniasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OTPVROBUXXX"
 }

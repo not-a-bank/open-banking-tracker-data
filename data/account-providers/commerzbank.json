@@ -101,6 +101,7 @@
   ],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "salt-edge",
     "tink",
@@ -151,5 +152,5 @@
   ],
   "platforms": [],
   "awards": [],
-  "swiftCode": "COBADEFFXXX"
+  "bic": "COBADEFFXXX"
 }

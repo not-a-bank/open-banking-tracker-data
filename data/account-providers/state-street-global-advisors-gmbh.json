@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET GLOBAL ADVISORS GMBH",
   "legalName": "STATE STREET GLOBAL ADVISORS GMBH",
-  "bic": "STGIDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetglobaladvisorsgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STGIDEM1XXX"
 }

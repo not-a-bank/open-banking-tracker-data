@@ -8,7 +8,6 @@
   ],
   "name": "IFIC BANK LTD",
   "legalName": "IFIC BANK LTD",
-  "bic": "IFBLPKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ificbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IFBLPKK1XXX"
 }

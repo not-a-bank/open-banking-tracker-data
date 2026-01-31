@@ -8,7 +8,6 @@
   ],
   "name": "RAAHEN SEUDUN OSUUSPANKKI",
   "legalName": "RAAHEN SEUDUN OSUUSPANKKI",
-  "bic": "RASUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raahenseudunosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RASUFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MERRION STOCKBROKERS",
   "legalName": "MERRION STOCKBROKERS",
-  "bic": "METTIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrionstockbrokers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "METTIE21XXX"
 }

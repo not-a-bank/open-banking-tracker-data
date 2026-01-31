@@ -8,7 +8,6 @@
   ],
   "name": "MAYBAN SECURITIES SDN BHD",
   "legalName": "MAYBAN SECURITIES SDN BHD",
-  "bic": "MAYSMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maybansecuritiessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAYSMYK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ASIAN-BRITISH BANK PLC",
   "legalName": "ASIAN-BRITISH BANK PLC",
-  "bic": "ASBRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asianbritishbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASBRGB21XXX"
 }

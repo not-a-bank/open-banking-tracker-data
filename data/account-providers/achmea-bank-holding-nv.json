@@ -8,7 +8,6 @@
   ],
   "name": "ACHMEA BANK HOLDING N.V.",
   "legalName": "ACHMEA BANK HOLDING N.V.",
-  "bic": "ACHLNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.achmeabankholdingnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACHLNL21XXX"
 }

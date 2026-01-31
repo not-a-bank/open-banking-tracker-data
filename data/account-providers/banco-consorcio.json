@@ -8,7 +8,6 @@
   ],
   "name": "Banco Consorcio",
   "legalName": "BANCO CONSORCIO",
-  "bic": "MNEXCLRMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoconsorcio.cl.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MNEXCLRMXXX"
 }

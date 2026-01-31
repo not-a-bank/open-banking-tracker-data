@@ -8,7 +8,6 @@
   ],
   "name": "SMART LIVE FINANCIAL SERVICES LTD",
   "legalName": "SMART LIVE FINANCIAL SERVICES LTD",
-  "bic": "SMLIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.smartlivefinancialservicesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMLIGB21XXX"
 }

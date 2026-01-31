@@ -8,7 +8,6 @@
   ],
   "name": "GROUPE ROBECO (FRANCE)",
   "legalName": "GROUPE ROBECO (FRANCE)",
-  "bic": "GROBFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.grouperobecofrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GROBFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PACIFIC COAST BANKERS' BANK",
   "legalName": "PACIFIC COAST BANKERS' BANK",
-  "bic": "PCBBUS66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pacificcoastbankersbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PCBBUS66XXX"
 }

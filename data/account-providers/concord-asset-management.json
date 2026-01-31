@@ -8,7 +8,6 @@
   ],
   "name": "CONCORD ASSET MANAGEMENT",
   "legalName": "CONCORD ASSET MANAGEMENT",
-  "bic": "CNAEBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.concordassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNAEBGS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CRAMER ET CIE SA",
   "legalName": "BANQUE CRAMER ET CIE SA",
-  "bic": "CRAMCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecrameretciesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRAMCHGGXXX"
 }

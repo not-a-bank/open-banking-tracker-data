@@ -35,8 +35,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge",
     "volt"
   ],
-  "swiftCode": ""
+  "bic": "DABAGB2B"
 }

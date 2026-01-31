@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK PJSC",
   "legalName": "SBERBANK PJSC",
-  "bic": "SABRUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABRUAUKXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "IMC OPTIONS B.V., ZWEIGNIEDERLASSUNG MUNCHEN",
   "legalName": "IMC OPTIONS B.V., ZWEIGNIEDERLASSUNG MUNCHEN",
-  "bic": "IMOPDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.imcoptionsbvzweigniederlassungmunchen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMOPDEM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AP ANLAGE UND PRIVATBANK AG",
   "legalName": "AP ANLAGE UND PRIVATBANK AG",
-  "bic": "ANPRCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.apanlageundprivatbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANPRCH22XXX"
 }

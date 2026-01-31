@@ -8,7 +8,6 @@
   ],
   "name": "KIMCO JAPAN LONG SHORT",
   "legalName": "KIMCO JAPAN LONG SHORT",
-  "bic": "KJLSSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kimcojapanlongshort.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KJLSSGS1XXX"
 }

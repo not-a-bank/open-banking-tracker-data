@@ -8,7 +8,6 @@
   ],
   "name": "SPRINGFIELD BANK AND TRUST LTD",
   "legalName": "SPRINGFIELD BANK AND TRUST LTD",
-  "bic": "SPRNGIG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.springfieldbankandtrustltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPRNGIG1XXX"
 }

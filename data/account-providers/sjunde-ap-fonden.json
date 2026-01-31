@@ -8,7 +8,6 @@
   ],
   "name": "SJUNDE AP-FONDEN",
   "legalName": "SJUNDE AP-FONDEN",
-  "bic": "SJAPSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sjundeapfonden.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SJAPSES1XXX"
 }

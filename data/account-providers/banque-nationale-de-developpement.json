@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE NATIONALE DE DEVELOPPEMENT",
   "legalName": "BANQUE NATIONALE DE DEVELOPPEMENT",
-  "bic": "NDEVBFB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquenationalededeveloppement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEVBFB1XXX"
 }

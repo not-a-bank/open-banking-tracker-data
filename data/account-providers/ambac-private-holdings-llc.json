@@ -8,7 +8,6 @@
   ],
   "name": "AMBAC PRIVATE HOLDINGS, LLC",
   "legalName": "AMBAC PRIVATE HOLDINGS, LLC",
-  "bic": "APHOUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ambacprivateholdingsllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "APHOUS31XXX"
 }

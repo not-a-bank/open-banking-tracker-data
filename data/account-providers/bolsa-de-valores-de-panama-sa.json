@@ -8,7 +8,6 @@
   ],
   "name": "BOLSA DE VALORES DE PANAMA S.A.",
   "legalName": "BOLSA DE VALORES DE PANAMA S.A.",
-  "bic": "XPTYPAP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bolsadevaloresdepanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XPTYPAP1XXX"
 }

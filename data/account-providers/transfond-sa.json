@@ -8,7 +8,6 @@
   ],
   "name": "TRANSFOND S.A.",
   "legalName": "TRANSFOND S.A.",
-  "bic": "TRFDROBSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.transfondsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRFDROBSXXX"
 }

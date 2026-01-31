@@ -8,7 +8,6 @@
   ],
   "name": "CONCORDIA SA CVMCC",
   "legalName": "CONCORDIA SA CVMCC",
-  "bic": "CNCVBRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.concordiasacvmcc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNCVBRR1XXX"
 }

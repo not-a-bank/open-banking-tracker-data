@@ -8,7 +8,6 @@
   ],
   "name": "DEVELOPMENT CAPITAL BANK",
   "legalName": "DEVELOPMENT CAPITAL BANK",
-  "bic": "VIZIRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.developmentcapitalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIZIRUMMXXX"
 }

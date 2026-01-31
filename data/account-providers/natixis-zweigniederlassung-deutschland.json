@@ -8,7 +8,6 @@
   ],
   "name": "NATIXIS ZWEIGNIEDERLASSUNG DEUTSCHLAND",
   "legalName": "NATIXIS ZWEIGNIEDERLASSUNG DEUTSCHLAND",
-  "bic": "NATXDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natixiszweigniederlassungdeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NATXDEFFXXX"
 }

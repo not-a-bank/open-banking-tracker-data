@@ -8,7 +8,6 @@
   ],
   "name": "SALOMON BROTHERS ASSET MANAGEMENT LTD",
   "legalName": "SALOMON BROTHERS ASSET MANAGEMENT LTD",
-  "bic": "SBAGGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.salomonbrothersassetmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBAGGB21XXX"
 }

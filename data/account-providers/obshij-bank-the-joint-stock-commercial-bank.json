@@ -8,7 +8,6 @@
   ],
   "name": "OBSHIJ BANK, THE JOINT STOCK COMMERCIAL BANK",
   "legalName": "OBSHIJ BANK, THE JOINT STOCK COMMERCIAL BANK",
-  "bic": "OJSIRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.obshijbankthejointstockcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OJSIRUM1XXX"
 }

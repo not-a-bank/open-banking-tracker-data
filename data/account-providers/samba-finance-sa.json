@@ -8,7 +8,6 @@
   ],
   "name": "SAMBA FINANCE S.A.",
   "legalName": "SAMBA FINANCE S.A.",
-  "bic": "SAFICHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sambafinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAFICHG1XXX"
 }

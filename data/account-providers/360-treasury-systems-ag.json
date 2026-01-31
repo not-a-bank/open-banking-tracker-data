@@ -8,7 +8,6 @@
   ],
   "name": "360 Treasury Systems AG",
   "legalName": "360 TREASURY SYSTEMS AG",
-  "bic": "TRSYDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRSYDEFFXXX"
 }

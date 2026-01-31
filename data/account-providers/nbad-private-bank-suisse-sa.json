@@ -8,7 +8,6 @@
   ],
   "name": "NBAD PRIVATE BANK (SUISSE) S.A.",
   "legalName": "NBAD PRIVATE BANK (SUISSE) S.A.",
-  "bic": "NBPSCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nbadprivatebanksuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBPSCHGGXXX"
 }

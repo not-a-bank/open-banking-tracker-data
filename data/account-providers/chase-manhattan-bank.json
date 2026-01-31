@@ -8,7 +8,6 @@
   ],
   "name": "CHASE MANHATTAN BANK",
   "legalName": "CHASE MANHATTAN BANK",
-  "bic": "CHASKZK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chasemanhattanbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASKZK1XXX"
 }

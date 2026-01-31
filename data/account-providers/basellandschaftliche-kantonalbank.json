@@ -8,7 +8,6 @@
   ],
   "name": "BASELLANDSCHAFTLICHE KANTONALBANK",
   "legalName": "BASELLANDSCHAFTLICHE KANTONALBANK",
-  "bic": "BLKBCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.basellandschaftlichekantonalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLKBCH22XXX"
 }

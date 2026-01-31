@@ -8,7 +8,6 @@
   ],
   "name": "BANCA COMERCIALA ROMANA S.A",
   "legalName": "BANCA COMERCIALA ROMANA S.A",
-  "bic": "RNCBROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancacomercialaromanasa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RNCBROBUXXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "FORTUNEO",
   "legalName": "FORTUNEO",
-  "bic": "FTNOFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1592994849/radar/icons/fortuneo-fr.jpg",
@@ -141,11 +140,12 @@
   "ownership": [
     {
       "providerId": "arkea",
-      "shareholderName": "Cr\u00e9dit Mutuel Ark\u00e9a",
+      "shareholderName": "Crédit Mutuel Arkéa",
       "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
       "percentage": 100
     }
   ],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTNOFRP1XXX"
 }

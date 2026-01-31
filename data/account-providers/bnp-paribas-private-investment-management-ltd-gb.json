@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS PRIVATE INVESTMENT MANAGEMENT LTD",
   "legalName": "BNP PARIBAS PRIVATE INVESTMENT MANAGEMENT LTD",
-  "bic": "PRUMGB31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasprivateinvestmentmanagementltdgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRUMGB31XXX"
 }

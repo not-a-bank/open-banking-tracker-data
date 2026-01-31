@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA GENERATIONSFOND 1970-74",
   "legalName": "NORDEA GENERATIONSFOND 1970-74",
-  "bic": "NOGOSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeagenerationsfond197074.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOGOSES1XXX"
 }

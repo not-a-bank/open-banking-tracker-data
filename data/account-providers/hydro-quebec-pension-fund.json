@@ -8,7 +8,6 @@
   ],
   "name": "HYDRO-QUEBEC PENSION FUND",
   "legalName": "HYDRO-QUEBEC PENSION FUND",
-  "bic": "HQPFCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hydroquebecpensionfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HQPFCAM1XXX"
 }

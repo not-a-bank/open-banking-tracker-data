@@ -8,7 +8,6 @@
   ],
   "name": "MINISTERO DEL TESORO",
   "legalName": "MINISTERO DEL TESORO",
-  "bic": "MTMSITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ministerodeltesoro.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MTMSITR1XXX"
 }

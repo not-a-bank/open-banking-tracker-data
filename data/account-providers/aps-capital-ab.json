@@ -8,7 +8,6 @@
   ],
   "name": "APS CAPITAL AB",
   "legalName": "APS CAPITAL AB",
-  "bic": "APSCSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.apscapitalab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "APSCSES1XXX"
 }

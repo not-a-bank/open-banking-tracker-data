@@ -8,7 +8,6 @@
   ],
   "name": "BANK ''ROSSIYA''",
   "legalName": "BANK ''ROSSIYA''",
-  "bic": "ROSYRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankrossiya.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROSYRU21XXX"
 }

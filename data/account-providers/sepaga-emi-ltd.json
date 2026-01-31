@@ -8,7 +8,6 @@
   ],
   "name": "SEPAGA E.M.I. LTD",
   "legalName": "SEPAGA E.M.I. LTD",
-  "bic": "SEPMCY2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sepagaemiltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEPMCY2NXXX"
 }

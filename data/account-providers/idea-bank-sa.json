@@ -8,7 +8,6 @@
   ],
   "name": "IDEA BANK S.A.",
   "legalName": "IDEA BANK S.A.",
-  "bic": "IEEAPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ideabanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IEEAPLP1XXX"
 }

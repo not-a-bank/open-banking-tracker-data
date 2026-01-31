@@ -8,7 +8,6 @@
   ],
   "name": "ISLAMIC DEVELOPMENT BANK",
   "legalName": "ISLAMIC DEVELOPMENT BANK",
-  "bic": "ISLDSAJEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.islamicdevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISLDSAJEXXX"
 }

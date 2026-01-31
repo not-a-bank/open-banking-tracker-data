@@ -9,7 +9,6 @@
   ],
   "name": "TINKOFF BANK",
   "legalName": "TINKOFF BANK",
-  "bic": "TICSRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1560869727/radar/icons/tinkoff.png",
@@ -44,5 +43,6 @@
     }
   ],
   "stateOwned": false,
-  "stockSymbol": "FRA: 13T1"
+  "stockSymbol": "FRA: 13T1",
+  "bic": "TICSRUMMXXX"
 }

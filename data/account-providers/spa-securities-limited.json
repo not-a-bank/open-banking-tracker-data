@@ -8,7 +8,6 @@
   ],
   "name": "SPA SECURITIES LIMITED",
   "legalName": "SPA SECURITIES LIMITED",
-  "bic": "SESIINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spasecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SESIINB1XXX"
 }

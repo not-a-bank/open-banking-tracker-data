@@ -8,7 +8,6 @@
   ],
   "name": "LONDON STOCK EXCHANGE",
   "legalName": "LONDON STOCK EXCHANGE",
-  "bic": "XLONGB3LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.londonstockexchangegb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XLONGB3LXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W LAPACH",
   "legalName": "BANK SPOLDZIELCZY W LAPACH",
-  "bic": "BSLPPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywlapach.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSLPPLP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE DESENVOLVIMENTO DO ESTADO DA BAHIA S.A.",
   "legalName": "BANCO DE DESENVOLVIMENTO DO ESTADO DA BAHIA S.A.",
-  "bic": "DBAHBRB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodedesenvolvimentodoestadodabahiasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBAHBRB1XXX"
 }

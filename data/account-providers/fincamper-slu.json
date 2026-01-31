@@ -8,7 +8,6 @@
   ],
   "name": "FINCAMPER SLU",
   "legalName": "FINCAMPER SLU",
-  "bic": "CMPRES2MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fincamperslu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMPRES2MXXX"
 }

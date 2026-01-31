@@ -8,7 +8,6 @@
   ],
   "name": "INVESTORS BANK",
   "legalName": "INVESTORS BANK",
-  "bic": "IBNJUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investorsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBNJUS33XXX"
 }

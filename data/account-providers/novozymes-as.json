@@ -8,7 +8,6 @@
   ],
   "name": "NOVOZYMES A/S",
   "legalName": "NOVOZYMES A/S",
-  "bic": "NOVZDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novozymesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOVZDK21XXX"
 }

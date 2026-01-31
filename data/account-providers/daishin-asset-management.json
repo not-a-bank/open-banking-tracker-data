@@ -8,7 +8,6 @@
   ],
   "name": "DAISHIN ASSET MANAGEMENT",
   "legalName": "DAISHIN ASSET MANAGEMENT",
-  "bic": "DAMSKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daishinassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAMSKRS1XXX"
 }

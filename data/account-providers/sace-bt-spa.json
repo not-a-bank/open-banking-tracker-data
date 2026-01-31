@@ -8,7 +8,6 @@
   ],
   "name": "SACE BT S.P.A.",
   "legalName": "SACE BT S.P.A.",
-  "bic": "EACEITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sacebtspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EACEITR1XXX"
 }

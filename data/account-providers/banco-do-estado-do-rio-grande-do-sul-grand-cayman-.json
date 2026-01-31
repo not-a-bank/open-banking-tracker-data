@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL GRAND CAYMAN BRANCH",
   "legalName": "BANCO DO ESTADO DO RIO GRANDE DO SUL GRAND CAYMAN BRANCH",
-  "bic": "BRGSKYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodoestadodoriograndedosulgrandcayman.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRGSKYK1XXX"
 }

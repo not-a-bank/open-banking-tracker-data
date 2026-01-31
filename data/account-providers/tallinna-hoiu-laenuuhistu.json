@@ -8,7 +8,6 @@
   ],
   "name": "TALLINNA HOIU-LAENUUHISTU",
   "legalName": "TALLINNA HOIU-LAENUUHISTU",
-  "bic": "TAHLEE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tallinnahoiulaenuuhistu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAHLEE21XXX"
 }

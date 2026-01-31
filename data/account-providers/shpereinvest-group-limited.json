@@ -8,7 +8,6 @@
   ],
   "name": "SHPEREINVEST GROUP LIMITED",
   "legalName": "SHPEREINVEST GROUP LIMITED",
-  "bic": "SHGRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shpereinvestgrouplimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHGRGB21XXX"
 }

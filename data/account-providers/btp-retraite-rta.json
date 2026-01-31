@@ -8,7 +8,6 @@
   ],
   "name": "BTP RETRAITE RTA",
   "legalName": "BTP RETRAITE RTA",
-  "bic": "BTRTFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.btpretraiterta.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTRTFRP1XXX"
 }

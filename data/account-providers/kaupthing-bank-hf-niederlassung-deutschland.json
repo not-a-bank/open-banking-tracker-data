@@ -8,7 +8,6 @@
   ],
   "name": "KAUPTHING BANK HF. NIEDERLASSUNG DEUTSCHLAND",
   "legalName": "KAUPTHING BANK HF. NIEDERLASSUNG DEUTSCHLAND",
-  "bic": "KAUPDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kaupthingbankhfniederlassungdeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAUPDEF1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA STABIL SVERIGE",
   "legalName": "NORDEA STABIL SVERIGE",
-  "bic": "NOSVSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeastabilsverige.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSVSES1XXX"
 }

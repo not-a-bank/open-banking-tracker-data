@@ -8,7 +8,6 @@
   ],
   "name": "TELSTRA CORPORATION LIMITED",
   "legalName": "TELSTRA CORPORATION LIMITED",
-  "bic": "TLSCAU33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.telstracorporationlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TLSCAU33XXX"
 }

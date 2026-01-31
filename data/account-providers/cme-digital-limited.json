@@ -8,7 +8,6 @@
   ],
   "name": "CME DIGITAL LIMITED",
   "legalName": "CME DIGITAL LIMITED",
-  "bic": "CMDGGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cmedigitallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMDGGB2LXXX"
 }

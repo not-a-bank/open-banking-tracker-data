@@ -8,7 +8,6 @@
   ],
   "name": "INVESTEC BANK (SWITZERLAND) AG",
   "legalName": "INVESTEC BANK (SWITZERLAND) AG",
-  "bic": "IVESCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investecbankswitzerlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVESCHZZXXX"
 }

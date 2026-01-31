@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE INTERNATIONALE DU CONGO",
   "legalName": "BANQUE INTERNATIONALE DU CONGO",
-  "bic": "CONICGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueinternationaleducongo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONICGC1XXX"
 }

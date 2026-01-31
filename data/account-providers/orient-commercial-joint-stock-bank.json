@@ -8,7 +8,6 @@
   ],
   "name": "ORIENT COMMERCIAL JOINT STOCK BANK",
   "legalName": "ORIENT COMMERCIAL JOINT STOCK BANK",
-  "bic": "ORCOVNVXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orientcommercialjointstockbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORCOVNVXXXX"
 }

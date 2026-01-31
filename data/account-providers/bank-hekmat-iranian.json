@@ -8,7 +8,6 @@
   ],
   "name": "BANK HEKMAT IRANIAN",
   "legalName": "BANK HEKMAT IRANIAN",
-  "bic": "HEKMIRTHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhekmatiranian.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEKMIRTHXXX"
 }

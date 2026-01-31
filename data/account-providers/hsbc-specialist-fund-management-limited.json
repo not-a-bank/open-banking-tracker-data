@@ -8,7 +8,6 @@
   ],
   "name": "HSBC SPECIALIST FUND MANAGEMENT LIMITED",
   "legalName": "HSBC SPECIALIST FUND MANAGEMENT LIMITED",
-  "bic": "CSASGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcspecialistfundmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSASGB21XXX"
 }

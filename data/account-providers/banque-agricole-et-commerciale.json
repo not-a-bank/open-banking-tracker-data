@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE AGRICOLE ET COMMERCIALE",
   "legalName": "BANQUE AGRICOLE ET COMMERCIALE",
-  "bic": "BAGCTDNDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueagricoleetcommerciale.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAGCTDNDXXX"
 }

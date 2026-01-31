@@ -8,7 +8,6 @@
   ],
   "name": "BANCO KEB HANA DO BRASIL S.A.",
   "legalName": "BANCO KEB HANA DO BRASIL S.A.",
-  "bic": "KOEXBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancokebhanadobrasilsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOEXBRSPXXX"
 }

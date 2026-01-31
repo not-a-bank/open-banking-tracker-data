@@ -8,7 +8,6 @@
   ],
   "name": "EASTBROKERS",
   "legalName": "EASTBROKERS",
-  "bic": "EASBHUH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eastbrokers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EASBHUH1XXX"
 }

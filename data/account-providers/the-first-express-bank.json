@@ -8,7 +8,6 @@
   ],
   "name": "THE FIRST EXPRESS BANK",
   "legalName": "THE FIRST EXPRESS BANK",
-  "bic": "EXTURU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thefirstexpressbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXTURU21XXX"
 }

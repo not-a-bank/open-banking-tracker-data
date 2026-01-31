@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIABANK (HONG KONG) LIMITED",
   "legalName": "SCOTIABANK (HONG KONG) LIMITED",
-  "bic": "BNHKHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiabankhongkonglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNHKHKH1XXX"
 }

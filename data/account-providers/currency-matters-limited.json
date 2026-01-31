@@ -8,7 +8,6 @@
   ],
   "name": "CURRENCY MATTERS LIMITED",
   "legalName": "CURRENCY MATTERS LIMITED",
-  "bic": "CURMGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.currencymatterslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CURMGB22XXX"
 }

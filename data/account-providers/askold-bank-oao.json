@@ -8,7 +8,6 @@
   ],
   "name": "ASKOLD BANK OAO",
   "legalName": "ASKOLD BANK OAO",
-  "bic": "ASKORU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.askoldbankoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASKORU21XXX"
 }

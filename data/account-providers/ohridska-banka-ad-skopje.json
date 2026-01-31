@@ -8,7 +8,6 @@
   ],
   "name": "OHRIDSKA BANKA A.D. SKOPJE",
   "legalName": "OHRIDSKA BANKA A.D. SKOPJE",
-  "bic": "OHRDMK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ohridskabankaadskopje.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OHRDMK22XXX"
 }

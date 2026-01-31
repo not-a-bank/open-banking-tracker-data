@@ -8,7 +8,6 @@
   ],
   "name": "ST. GEORGES BANK",
   "legalName": "ST. GEORGES BANK",
-  "bic": "STGBPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stgeorgesbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STGBPAPAXXX"
 }

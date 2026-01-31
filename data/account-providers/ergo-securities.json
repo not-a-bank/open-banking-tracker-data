@@ -8,7 +8,6 @@
   ],
   "name": "ERGO SECURITIES",
   "legalName": "ERGO SECURITIES",
-  "bic": "ERGRGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ergosecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERGRGRA1XXX"
 }

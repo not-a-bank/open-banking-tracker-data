@@ -8,7 +8,6 @@
   ],
   "name": "ZURICH COMPAGNIE D'ASSURANCES SUR LA VIE",
   "legalName": "ZURICH COMPAGNIE D'ASSURANCES SUR LA VIE",
-  "bic": "ZCDSCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zurichcompagniedassurancessurlavie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZCDSCHZ1XXX"
 }

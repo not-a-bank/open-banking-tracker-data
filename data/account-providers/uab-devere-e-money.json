@@ -8,7 +8,6 @@
   ],
   "name": "UAB DEVERE E-MONEY",
   "legalName": "UAB DEVERE E-MONEY",
-  "bic": "UADELT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uabdevereemoney.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UADELT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BARNETT CAPITAL BANK",
   "legalName": "BARNETT CAPITAL BANK",
-  "bic": "BCBKDMDMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barnettcapitalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCBKDMDMXXX"
 }

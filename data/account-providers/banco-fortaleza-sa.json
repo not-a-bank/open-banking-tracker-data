@@ -8,7 +8,6 @@
   ],
   "name": "BANCO FORTALEZA SA",
   "legalName": "BANCO FORTALEZA SA",
-  "bic": "BFORBOLPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancofortalezasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFORBOLPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO INDUSTRIAL DE CATALUNA, S.A.",
   "legalName": "BANCO INDUSTRIAL DE CATALUNA, S.A.",
-  "bic": "INALESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoindustrialdecatalunasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INALESM1XXX"
 }

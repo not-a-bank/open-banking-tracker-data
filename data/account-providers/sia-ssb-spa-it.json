@@ -8,7 +8,6 @@
   ],
   "name": "SIA-SSB S.P.A.",
   "legalName": "SIA-SSB S.P.A.",
-  "bic": "SIAUITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.siassbspait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIAUITMMXXX"
 }

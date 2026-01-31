@@ -8,7 +8,6 @@
   ],
   "name": "CITIGROUP PTY LIMITED, SYDNEY",
   "legalName": "CITIGROUP PTY LIMITED, SYDNEY",
-  "bic": "CITIAU2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citigroupptylimitedsydney.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIAU2XXXX"
 }

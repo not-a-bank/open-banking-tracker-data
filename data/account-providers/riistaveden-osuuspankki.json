@@ -8,7 +8,6 @@
   ],
   "name": "RIISTAVEDEN OSUUSPANKKI",
   "legalName": "RIISTAVEDEN OSUUSPANKKI",
-  "bic": "RIOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.riistavedenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RIOSFI21XXX"
 }

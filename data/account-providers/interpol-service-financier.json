@@ -8,7 +8,6 @@
   ],
   "name": "INTERPOL SERVICE FINANCIER",
   "legalName": "INTERPOL SERVICE FINANCIER",
-  "bic": "ICPOFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.interpolservicefinancier.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICPOFR22XXX"
 }

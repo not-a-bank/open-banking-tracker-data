@@ -8,7 +8,6 @@
   ],
   "name": "MODERN BANK N.A.",
   "legalName": "MODERN BANK N.A.",
-  "bic": "EXCLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.modernbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXCLUS31XXX"
 }

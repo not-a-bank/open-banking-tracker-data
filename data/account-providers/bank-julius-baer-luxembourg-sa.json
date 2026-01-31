@@ -8,7 +8,6 @@
   ],
   "name": "BANK JULIUS BAER LUXEMBOURG S.A.",
   "legalName": "BANK JULIUS BAER LUXEMBOURG S.A.",
-  "bic": "BAERLULUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankjuliusbaerluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAERLULUXXX"
 }

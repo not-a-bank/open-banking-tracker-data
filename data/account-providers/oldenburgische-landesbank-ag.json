@@ -9,7 +9,6 @@
   ],
   "name": "OLDENBURGISCHE LANDESBANK AG",
   "legalName": "OLDENBURGISCHE LANDESBANK AG",
-  "bic": "OLBODEH2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/olb_de.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OLBODEH2XXX"
 }

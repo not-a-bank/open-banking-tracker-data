@@ -8,7 +8,6 @@
   ],
   "name": "BANCO NACIONAL DE COMERCIO DE TIMOR-LESTE, S.A.",
   "legalName": "BANCO NACIONAL DE COMERCIO DE TIMOR-LESTE, S.A.",
-  "bic": "BNCTTLDDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banconacionaldecomerciodetimorlestesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNCTTLDDXXX"
 }

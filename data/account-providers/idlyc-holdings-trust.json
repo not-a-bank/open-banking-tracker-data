@@ -8,7 +8,6 @@
   ],
   "name": "IDLYC HOLDINGS TRUST",
   "legalName": "IDLYC HOLDINGS TRUST",
-  "bic": "IDHTNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.idlycholdingstrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IDHTNZ21XXX"
 }

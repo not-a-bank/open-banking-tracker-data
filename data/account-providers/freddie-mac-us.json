@@ -8,7 +8,6 @@
   ],
   "name": "FREDDIE MAC",
   "legalName": "FREDDIE MAC",
-  "bic": "FMACUS3WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.freddiemacus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMACUS3WXXX"
 }

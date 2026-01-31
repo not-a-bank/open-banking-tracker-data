@@ -8,7 +8,6 @@
   ],
   "name": "NEXTAM PARTNERS SIM",
   "legalName": "NEXTAM PARTNERS SIM",
-  "bic": "NEPMITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nextampartnerssim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEPMITM1XXX"
 }

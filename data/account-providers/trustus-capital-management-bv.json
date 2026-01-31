@@ -8,7 +8,6 @@
   ],
   "name": "TRUSTUS CAPITAL MANAGEMENT B.V.",
   "legalName": "TRUSTUS CAPITAL MANAGEMENT B.V.",
-  "bic": "TRPGNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trustuscapitalmanagementbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRPGNL21XXX"
 }

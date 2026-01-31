@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
   "legalName": "BANK OF CHINA (THAI) PUBLIC COMPANY LIMITED",
-  "bic": "BKCHTHBKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinathaipubliccompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHTHBKXXX"
 }

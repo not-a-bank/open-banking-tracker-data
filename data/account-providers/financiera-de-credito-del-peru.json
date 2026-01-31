@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERA DE CREDITO DEL PERU",
   "legalName": "FINANCIERA DE CREDITO DEL PERU",
-  "bic": "FCPEPEP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financieradecreditodelperu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCPEPEP1XXX"
 }

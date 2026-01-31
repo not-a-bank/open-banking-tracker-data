@@ -8,7 +8,6 @@
   ],
   "name": "INVERCAPITAL CASA DE BOLSA C.A.",
   "legalName": "INVERCAPITAL CASA DE BOLSA C.A.",
-  "bic": "ICBOVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invercapitalcasadebolsaca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICBOVEC1XXX"
 }

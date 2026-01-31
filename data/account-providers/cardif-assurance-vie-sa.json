@@ -8,7 +8,6 @@
   ],
   "name": "CARDIF ASSURANCE VIE SA",
   "legalName": "CARDIF ASSURANCE VIE SA",
-  "bic": "CAUVFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cardifassuranceviesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAUVFR21XXX"
 }

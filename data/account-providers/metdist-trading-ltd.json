@@ -8,7 +8,6 @@
   ],
   "name": "METDIST TRADING LTD",
   "legalName": "METDIST TRADING LTD",
-  "bic": "METDGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.metdisttradingltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "METDGB21XXX"
 }

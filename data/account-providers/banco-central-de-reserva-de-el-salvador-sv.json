@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
   "legalName": "BANCO CENTRAL DE RESERVA DE EL SALVADOR",
-  "bic": "CENRSVSSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocentraldereservadeelsalvadorsv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CENRSVSSXXX"
 }

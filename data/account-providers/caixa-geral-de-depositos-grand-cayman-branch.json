@@ -8,7 +8,6 @@
   ],
   "name": "CAIXA GERAL DE DEPOSITOS, GRAND CAYMAN BRANCH",
   "legalName": "CAIXA GERAL DE DEPOSITOS, GRAND CAYMAN BRANCH",
-  "bic": "CGDIKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixageraldedepositosgrandcaymanbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGDIKYKYXXX"
 }

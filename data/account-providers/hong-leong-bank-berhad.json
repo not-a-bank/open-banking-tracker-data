@@ -8,7 +8,6 @@
   ],
   "name": "HONG LEONG BANK BERHAD",
   "legalName": "HONG LEONG BANK BERHAD",
-  "bic": "HLBBMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hongleongbankberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HLBBMYKLXXX"
 }

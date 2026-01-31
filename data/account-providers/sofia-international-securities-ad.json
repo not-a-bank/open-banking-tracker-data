@@ -8,7 +8,6 @@
   ],
   "name": "SOFIA INTERNATIONAL SECURITIES AD",
   "legalName": "SOFIA INTERNATIONAL SECURITIES AD",
-  "bic": "SOIUBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sofiainternationalsecuritiesad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOIUBGS1XXX"
 }

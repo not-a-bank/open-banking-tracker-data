@@ -8,7 +8,6 @@
   ],
   "name": "FITCH FRANCE SA",
   "legalName": "FITCH FRANCE SA",
-  "bic": "FRIPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchfrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UBS FUTURES SINGAPORE LTD.",
   "legalName": "UBS FUTURES SINGAPORE LTD.",
-  "bic": "ABNASGF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsfuturessingaporeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABNASGF1XXX"
 }

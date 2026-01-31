@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERE DE GESTION PRIVEE",
   "legalName": "FINANCIERE DE GESTION PRIVEE",
-  "bic": "FGPRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financieredegestionprivee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FGPRFRP1XXX"
 }

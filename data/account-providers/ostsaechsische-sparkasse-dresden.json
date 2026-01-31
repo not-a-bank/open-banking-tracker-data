@@ -29,13 +29,14 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt",
-    "yaxi",
+    "gocardless",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "OSDDDE81FTL"
+  "bic": "OSDDDE81XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KOMATSU OVERSEAS FINANCE PLC",
   "legalName": "KOMATSU OVERSEAS FINANCE PLC",
-  "bic": "KOVFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.komatsuoverseasfinanceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOVFGB21XXX"
 }

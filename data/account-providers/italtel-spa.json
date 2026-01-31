@@ -8,7 +8,6 @@
   ],
   "name": "ITALTEL S.P.A.",
   "legalName": "ITALTEL S.P.A.",
-  "bic": "ITLLITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.italtelspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITLLITM1XXX"
 }

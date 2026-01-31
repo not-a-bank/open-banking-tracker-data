@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA SWE INSTITUTIONAL SHORT DURATION BOND FUND",
   "legalName": "NORDEA SWE INSTITUTIONAL SHORT DURATION BOND FUND",
-  "bic": "NSISFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeasweinstitutionalshortdurationbondfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSISFIH1XXX"
 }

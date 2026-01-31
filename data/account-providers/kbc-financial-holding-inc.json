@@ -8,7 +8,6 @@
   ],
   "name": "KBC FINANCIAL HOLDING, INC.",
   "legalName": "KBC FINANCIAL HOLDING, INC.",
-  "bic": "KBCFUSN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcfinancialholdinginc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBCFUSN1XXX"
 }

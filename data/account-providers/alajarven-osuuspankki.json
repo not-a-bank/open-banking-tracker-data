@@ -8,7 +8,6 @@
   ],
   "name": "ALAJARVEN OSUUSPANKKI",
   "legalName": "ALAJARVEN OSUUSPANKKI",
-  "bic": "ALOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alajarvenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALOUFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bulgarian National Bank - BGN",
   "legalName": "BULGARIAN NATIONAL BANK - BGN",
-  "bic": "BNBGBGSDXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNBGBGSDXXX"
 }

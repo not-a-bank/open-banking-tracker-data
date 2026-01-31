@@ -8,7 +8,6 @@
   ],
   "name": "TOKYO-MITSUBISHI ASSET MANAGEMENT LTD",
   "legalName": "TOKYO-MITSUBISHI ASSET MANAGEMENT LTD",
-  "bic": "TMAMJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tokyomitsubishiassetmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TMAMJPJ1XXX"
 }

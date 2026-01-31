@@ -8,7 +8,6 @@
   ],
   "name": "TAVIRA SECURITIES LIMITED",
   "legalName": "TAVIRA SECURITIES LIMITED",
-  "bic": "TAVSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tavirasecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAVSGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ICICI BANK UK PLC",
   "legalName": "ICICI BANK UK PLC",
-  "bic": "ICICDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icicibankukplcde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICICDEFFXXX"
 }

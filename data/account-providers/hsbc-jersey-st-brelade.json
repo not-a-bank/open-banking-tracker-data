@@ -8,7 +8,6 @@
   ],
   "name": "HSBC JERSEY ST. BRELADE",
   "legalName": "HSBC JERSEY ST. BRELADE",
-  "bic": "MIDLJEJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcjerseystbrelade.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIDLJEJ1XXX"
 }

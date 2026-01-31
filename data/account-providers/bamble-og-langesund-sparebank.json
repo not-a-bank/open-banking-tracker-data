@@ -8,7 +8,6 @@
   ],
   "name": "BAMBLE OG LANGESUND SPAREBANK",
   "legalName": "BAMBLE OG LANGESUND SPAREBANK",
-  "bic": "BLSPNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bambleoglangesundsparebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLSPNO21XXX"
 }

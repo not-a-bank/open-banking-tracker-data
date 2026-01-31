@@ -8,7 +8,6 @@
   ],
   "name": "SAEN OPTIONS BV",
   "legalName": "SAEN OPTIONS BV",
-  "bic": "SAOPNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saenoptionsbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAOPNL21XXX"
 }

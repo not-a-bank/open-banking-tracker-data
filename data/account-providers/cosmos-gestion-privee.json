@@ -8,7 +8,6 @@
   ],
   "name": "COSMOS GESTION PRIVEE",
   "legalName": "COSMOS GESTION PRIVEE",
-  "bic": "CGEPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cosmosgestionprivee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGEPFRP1XXX"
 }

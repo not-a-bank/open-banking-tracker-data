@@ -8,7 +8,6 @@
   ],
   "name": "VOBA FINANCE S.R.L",
   "legalName": "VOBA FINANCE S.R.L",
-  "bic": "VONSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vobafinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VONSITM1XXX"
 }

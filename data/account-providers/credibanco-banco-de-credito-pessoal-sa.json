@@ -8,7 +8,6 @@
   ],
   "name": "CREDIBANCO - BANCO DE CREDITO PESSOAL SA",
   "legalName": "CREDIBANCO - BANCO DE CREDITO PESSOAL SA",
-  "bic": "CRRSPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credibancobancodecreditopessoalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRRSPTP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CIMB SECURITIES (SINGAPORE) PTE LTD.",
   "legalName": "CIMB SECURITIES (SINGAPORE) PTE LTD.",
-  "bic": "GKGTSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cimbsecuritiessingaporepteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GKGTSGS1XXX"
 }

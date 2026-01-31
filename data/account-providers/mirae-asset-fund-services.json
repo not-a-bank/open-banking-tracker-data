@@ -8,7 +8,6 @@
   ],
   "name": "MIRAE ASSET FUND SERVICES",
   "legalName": "MIRAE ASSET FUND SERVICES",
-  "bic": "MRFSKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.miraeassetfundservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MRFSKRSEXXX"
 }

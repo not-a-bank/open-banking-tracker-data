@@ -8,7 +8,6 @@
   ],
   "name": "SINKO-BANK, LTD",
   "legalName": "SINKO-BANK, LTD",
-  "bic": "SNKBRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sinkobankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SNKBRUMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SECB SWISS EURO CLEARING BANK GMBH",
   "legalName": "SECB SWISS EURO CLEARING BANK GMBH",
-  "bic": "SECGDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.secbswisseuroclearingbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SECGDEFFXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO UBS PACTUAL S.A.",
   "legalName": "BANCO UBS PACTUAL S.A.",
-  "bic": "BOMGBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoubspactualsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOMGBRS1XXX"
 }

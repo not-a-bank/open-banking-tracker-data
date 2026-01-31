@@ -8,7 +8,6 @@
   ],
   "name": "ANDBANK ESPANA S.A.",
   "legalName": "ANDBANK ESPANA S.A.",
-  "bic": "BACAESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.andbankespanasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACAESMMXXX"
 }

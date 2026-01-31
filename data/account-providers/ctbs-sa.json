@@ -8,7 +8,6 @@
   ],
   "name": "CTBS S.A.",
   "legalName": "CTBS S.A.",
-  "bic": "CTBSPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ctbssa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTBSPLP1XXX"
 }

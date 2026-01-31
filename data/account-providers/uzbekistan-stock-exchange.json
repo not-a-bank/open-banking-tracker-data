@@ -8,7 +8,6 @@
   ],
   "name": "UZBEKISTAN STOCK EXCHANGE",
   "legalName": "UZBEKISTAN STOCK EXCHANGE",
-  "bic": "XSTEUZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uzbekistanstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSTEUZ21XXX"
 }

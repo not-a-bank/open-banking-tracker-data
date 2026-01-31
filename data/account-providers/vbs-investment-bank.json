@@ -8,7 +8,6 @@
   ],
   "name": "VBS INVESTMENT BANK",
   "legalName": "VBS INVESTMENT BANK",
-  "bic": "VBINISR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vbsinvestmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VBINISR1XXX"
 }

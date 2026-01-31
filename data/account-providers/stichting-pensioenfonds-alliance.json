@@ -8,7 +8,6 @@
   ],
   "name": "STICHTING PENSIOENFONDS ALLIANCE",
   "legalName": "STICHTING PENSIOENFONDS ALLIANCE",
-  "bic": "STDANL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stichtingpensioenfondsalliance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STDANL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS CANADA INC.",
   "legalName": "GOLDMAN SACHS CANADA INC.",
-  "bic": "GSLTCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachscanadainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSLTCAT1XXX"
 }

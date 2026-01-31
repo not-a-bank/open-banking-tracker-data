@@ -8,7 +8,6 @@
   ],
   "name": "OFI MGA",
   "legalName": "OFI MGA",
-  "bic": "OFMGFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ofimga.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OFMGFRP1XXX"
 }

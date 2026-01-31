@@ -8,7 +8,6 @@
   ],
   "name": "NATIXIS CANADA BRANCH",
   "legalName": "NATIXIS CANADA BRANCH",
-  "bic": "NATXCAMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natixiscanadabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NATXCAMMXXX"
 }

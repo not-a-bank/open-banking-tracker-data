@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE LA REPUBLIQUE D'HAITI",
   "legalName": "BANQUE DE LA REPUBLIQUE D'HAITI",
-  "bic": "BRHAHTPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedelarepubliquedhaiti.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRHAHTPPXXX"
 }

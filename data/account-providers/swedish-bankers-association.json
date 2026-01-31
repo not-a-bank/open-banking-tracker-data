@@ -8,7 +8,6 @@
   ],
   "name": "SWEDISH BANKERS' ASSOCIATION",
   "legalName": "SWEDISH BANKERS' ASSOCIATION",
-  "bic": "SWAISES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swedishbankersassociation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWAISES1XXX"
 }

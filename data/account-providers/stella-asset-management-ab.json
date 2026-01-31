@@ -8,7 +8,6 @@
   ],
   "name": "STELLA ASSET MANAGEMENT AB",
   "legalName": "STELLA ASSET MANAGEMENT AB",
-  "bic": "STTGSEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stellaassetmanagementab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STTGSEM1XXX"
 }

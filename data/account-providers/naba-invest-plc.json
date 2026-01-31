@@ -8,7 +8,6 @@
   ],
   "name": "NABA INVEST PLC",
   "legalName": "NABA INVEST PLC",
-  "bic": "NAIVBG21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nabainvestplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAIVBG21XXX"
 }

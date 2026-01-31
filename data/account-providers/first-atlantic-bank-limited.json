@@ -8,7 +8,6 @@
   ],
   "name": "First Atlantic Bank Limited",
   "legalName": "FIRST ATLANTIC BANK LIMITED",
-  "bic": "FAMCGHACXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstatlanticbank.com.gh.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FAMCGHACXXX"
 }

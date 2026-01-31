@@ -8,7 +8,6 @@
   ],
   "name": "WELLS FARGO ADVISORS, LLC",
   "legalName": "WELLS FARGO ADVISORS, LLC",
-  "bic": "PNBPUS3WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wellsfargoadvisorsllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBPUS3WXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CITICORP MERCHANT BANK LIMITED",
   "legalName": "CITICORP MERCHANT BANK LIMITED",
-  "bic": "CITIBBBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citicorpmerchantbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIBBBBXXX"
 }
