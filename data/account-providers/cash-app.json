@@ -7,10 +7,10 @@
     "challenger"
   ],
   "name": "Cash App",
-  "description": "The #1 finance app in the App Store. Send money for free. Invest in stocks or bitcoin with as little as $1. Get paid early with faster direct deposits. Free debit card with instant discounts.‬",
-  "legalName": "Square, Inc.",
-  "ipoStatus": "private",
-  "stockSymbol": null,
+  "description": "Cash App API empowers developers and businesses to integrate Cash App’s digital wallet, payment solutions, and financial services into their platforms. Cash App (formerly Square Cash), launched by Block, Inc. in 2013, enables API access for sending and receiving money, managing debit cards, and facilitating payments with Cash App Pay. With robust documentation for Cash App API endpoints, merchants can streamline e-commerce payments, access buy now pay later (BNPL) options via Afterpay, offer bitcoin and stock investing, and leverage seamless money movement. Explore how to build with Cash App API for secure, reliable, and scalable financial integrations.",
+  "legalName": "Block, Inc.",
+  "ipoStatus": "public",
+  "stockSymbol": "NYSE:XYZ",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1597877358/radar/icons/cash-app.png",
@@ -18,7 +18,7 @@
   "ownership": [
     {
       "providerId": "square",
-      "shareholderName": "Square",
+      "shareholderName": "Block",
       "shareholderIconUrl": "https://res.cloudinary.com/apideck/image/upload/v1531306175/catalog/square/icon128x128.png"
     }
   ],
@@ -28,7 +28,7 @@
     "US"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developers.cash.app/home",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -36,12 +36,40 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Cash App Pay",
+      "type": "paymentRequest",
+      "categories": ["payments"],
+      "description": "Accept payments from Cash App customers. Enables merchants to offer Cash App as a payment method at checkout for desktop and mobile.",
+      "documentationUrl": "https://developers.cash.app/cash-app-pay-partner-api/guides/welcome",
+      "apiReferenceUrl": "https://developers.cash.app/cash-app-pay-partner-api/api-reference/network-api/list-brands",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Cash App Afterpay",
+      "type": "paymentRequest",
+      "categories": ["payments"],
+      "description": "Buy Now Pay Later integration allowing customers to split purchases into four interest-free installments or Pay Monthly options.",
+      "documentationUrl": "https://developers.cash.app/cash-app-afterpay/guides/welcome/getting-started",
+      "apiReferenceUrl": "https://developers.cash.app/cash-app-afterpay/api-reference/reference/introduction",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
-  "apiStatusUrls": [],
+  "apiStatusUrls": [
+    {
+      "url": "https://status.partners.cash.app/"
+    },
+    {
+      "url": "https://status.cash.app/"
+    }
+  ],
   "apiAggregators": [],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",
@@ -54,7 +82,7 @@
   ],
   "financialReports": [],
   "twitter": "CashApp",
-  "bloomberg": null,
+  "bloomberg": "XYZ:US",
   "alumni": [],
   "stack": [],
   "thirdPartyBankingLicense": null,
@@ -79,6 +107,12 @@
       "name": "Bitcoin",
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1583231620/catalog/bitcoin-org/icon128x128.jpg",
       "websiteUrl": "https://bitcoin.org/"
+    },
+    {
+      "id": "afterpay",
+      "name": "Afterpay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1602640990/radar/icons/afterpay.png",
+      "websiteUrl": "https://www.afterpay.com/"
     }
   ],
   "platforms": [],
