@@ -8,7 +8,6 @@
   ],
   "name": "CHIFLEY FINANCIAL SERVICES LTD",
   "legalName": "CHIFLEY FINANCIAL SERVICES LTD",
-  "bic": "CFSEAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chifleyfinancialservicesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFSEAU21XXX"
 }

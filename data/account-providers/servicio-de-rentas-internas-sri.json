@@ -8,7 +8,6 @@
   ],
   "name": "SERVICIO DE RENTAS INTERNAS (SRI)",
   "legalName": "SERVICIO DE RENTAS INTERNAS (SRI)",
-  "bic": "SRISECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.servicioderentasinternassri.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SRISECE1XXX"
 }

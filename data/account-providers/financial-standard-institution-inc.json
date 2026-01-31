@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIAL STANDARD INSTITUTION, INC",
   "legalName": "FINANCIAL STANDARD INSTITUTION, INC",
-  "bic": "FNSIUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financialstandardinstitutioninc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNSIUS41XXX"
 }

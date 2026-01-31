@@ -8,7 +8,6 @@
   ],
   "name": "JSC ROSSELKHOZBANK",
   "legalName": "JSC ROSSELKHOZBANK",
-  "bic": "RUAGRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jscrosselkhozbankru.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RUAGRUMMXXX"
 }

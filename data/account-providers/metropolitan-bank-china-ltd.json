@@ -8,7 +8,6 @@
   ],
   "name": "METROPOLITAN BANK (CHINA) LTD",
   "legalName": "METROPOLITAN BANK (CHINA) LTD",
-  "bic": "MBTCCNBNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.metropolitanbankchinaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBTCCNBNXXX"
 }

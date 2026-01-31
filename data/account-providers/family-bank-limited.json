@@ -8,7 +8,6 @@
   ],
   "name": "FAMILY BANK LIMITED",
   "legalName": "FAMILY BANK LIMITED",
-  "bic": "FABLKENAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.familybanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FABLKENAXXX"
 }

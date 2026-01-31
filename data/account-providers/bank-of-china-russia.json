@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA (RUSSIA)",
   "legalName": "BANK OF CHINA (RUSSIA)",
-  "bic": "BKCHRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinarussia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHRUMMXXX"
 }

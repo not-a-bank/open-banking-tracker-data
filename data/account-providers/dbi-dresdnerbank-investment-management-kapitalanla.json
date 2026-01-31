@@ -8,7 +8,6 @@
   ],
   "name": "DBI DRESDNERBANK INVESTMENT MANAGEMENT KAPITALANLAGEGESELLSCHAFT MBH",
   "legalName": "DBI DRESDNERBANK INVESTMENT MANAGEMENT KAPITALANLAGEGESELLSCHAFT MBH",
-  "bic": "DBIKDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dbidresdnerbankinvestmentmanagementkapitalanla.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBIKDEF1XXX"
 }

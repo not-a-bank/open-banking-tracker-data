@@ -8,7 +8,6 @@
   ],
   "name": "MONEX, INC.",
   "legalName": "MONEX, INC.",
-  "bic": "MNXIJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.monexinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MNXIJPJ1XXX"
 }

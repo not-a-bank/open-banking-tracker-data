@@ -8,7 +8,6 @@
   ],
   "name": "Unibank CB",
   "legalName": "UNIBANK CB",
-  "bic": "UBAZAZ22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBAZAZ22XXX"
 }

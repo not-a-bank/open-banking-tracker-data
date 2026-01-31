@@ -8,7 +8,6 @@
   ],
   "name": "Banco Davivienda Salvadoreno SA",
   "legalName": "BANCO DAVIVIENDA SALVADORENO SA",
-  "bic": "SALVADORENO",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SALVADORENO"
 }

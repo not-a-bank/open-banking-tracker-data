@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE BOGOTA (NASSAU) LTD.",
   "legalName": "BANCO DE BOGOTA (NASSAU) LTD.",
-  "bic": "BBOGBSNXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodebogotanassaultd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBOGBSNXXXX"
 }

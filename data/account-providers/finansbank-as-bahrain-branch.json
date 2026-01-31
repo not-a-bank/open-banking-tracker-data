@@ -8,7 +8,6 @@
   ],
   "name": "FINANSBANK A.S. BAHRAIN BRANCH",
   "legalName": "FINANSBANK A.S. BAHRAIN BRANCH",
-  "bic": "FNNBBHBMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finansbankasbahrainbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNNBBHBMXXX"
 }

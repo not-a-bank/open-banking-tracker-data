@@ -8,7 +8,6 @@
   ],
   "name": "JOINT-STOCK BANK CAPITAL",
   "legalName": "JOINT-STOCK BANK CAPITAL",
-  "bic": "JSBCRU4NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jointstockbankcapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JSBCRU4NXXX"
 }

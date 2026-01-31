@@ -8,7 +8,6 @@
   ],
   "name": "SOCAR TRADING SA",
   "legalName": "SOCAR TRADING SA",
-  "bic": "SOTDCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.socartradingsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOTDCHG1XXX"
 }

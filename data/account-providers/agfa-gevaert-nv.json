@@ -8,7 +8,6 @@
   ],
   "name": "Agfa-gevaert NV",
   "legalName": "AGFA-GEVAERT NV",
-  "bic": "AGFGBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGFGBEBBXXX"
 }

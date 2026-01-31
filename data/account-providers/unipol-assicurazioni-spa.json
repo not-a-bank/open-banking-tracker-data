@@ -8,7 +8,6 @@
   ],
   "name": "UNIPOL ASSICURAZIONI SPA",
   "legalName": "UNIPOL ASSICURAZIONI SPA",
-  "bic": "UNAUITB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unipolassicurazionispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNAUITB1XXX"
 }

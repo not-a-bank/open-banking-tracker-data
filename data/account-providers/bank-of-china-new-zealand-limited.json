@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA (NEW ZEALAND) LIMITED",
   "legalName": "BANK OF CHINA (NEW ZEALAND) LIMITED",
-  "bic": "BKCHNZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinanewzealandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHNZ22XXX"
 }

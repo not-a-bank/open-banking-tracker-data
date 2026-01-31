@@ -8,7 +8,6 @@
   ],
   "name": "PCCI SECURITIES BROKERS CORPORATION",
   "legalName": "PCCI SECURITIES BROKERS CORPORATION",
-  "bic": "PSBOPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pccisecuritiesbrokerscorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSBOPHM1XXX"
 }

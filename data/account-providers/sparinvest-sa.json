@@ -8,7 +8,6 @@
   ],
   "name": "SPARINVEST S.A.",
   "legalName": "SPARINVEST S.A.",
-  "bic": "SINVLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparinvestsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SINVLULLXXX"
 }

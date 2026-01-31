@@ -8,7 +8,6 @@
   ],
   "name": "NONGHYUP BANK, NEW YORK BRANCH",
   "legalName": "NONGHYUP BANK, NEW YORK BRANCH",
-  "bic": "NACFUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nonghyupbanknewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NACFUS33XXX"
 }

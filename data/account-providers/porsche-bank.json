@@ -1,0 +1,32 @@
+{
+  "id": "porsche-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Porsche Bank",
+  "legalName": "Porsche Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.porsche-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "RO",
+  "countries": [
+    "RO"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "PORLROBU"
+}

@@ -8,7 +8,6 @@
   ],
   "name": "STANDARD CHARTERED BANK",
   "legalName": "STANDARD CHARTERED BANK",
-  "bic": "SCBLVNVHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.standardcharteredbankvn.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCBLVNVHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK NEW TIME",
   "legalName": "COMMERCIAL BANK NEW TIME",
-  "bic": "NTCRRUMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbanknewtime.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NTCRRUMXXXX"
 }

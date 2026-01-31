@@ -8,7 +8,6 @@
   ],
   "name": "NIKOS KOMNINOS SECURITIES S.A.",
   "legalName": "NIKOS KOMNINOS SECURITIES S.A.",
-  "bic": "NIKCGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nikoskomninossecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIKCGRA1XXX"
 }

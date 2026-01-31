@@ -8,7 +8,6 @@
   ],
   "name": "EQUITA SIM S.P.A.",
   "legalName": "EQUITA SIM S.P.A.",
-  "bic": "EMSIITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.equitasimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EMSIITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE SAFRA",
   "legalName": "BANQUE SAFRA",
-  "bic": "BSAFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquesafra.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSAFFRP1XXX"
 }

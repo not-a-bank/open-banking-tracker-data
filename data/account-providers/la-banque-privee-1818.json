@@ -8,7 +8,6 @@
   ],
   "name": "LA BANQUE PRIVEE 1818",
   "legalName": "LA BANQUE PRIVEE 1818",
-  "bic": "COBPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.labanqueprivee1818.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBPFRP1XXX"
 }

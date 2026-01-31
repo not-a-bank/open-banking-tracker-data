@@ -8,7 +8,6 @@
   ],
   "name": "MOELIS AUSTRALIA SECURITIES PTY LTD",
   "legalName": "MOELIS AUSTRALIA SECURITIES PTY LTD",
-  "bic": "MASYAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.moelisaustraliasecuritiesptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MASYAU21XXX"
 }

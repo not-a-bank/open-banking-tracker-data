@@ -8,7 +8,6 @@
   ],
   "name": "M/D TRANS AFRICA BANK",
   "legalName": "M/D TRANS AFRICA BANK",
-  "bic": "TRARUGK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mdtransafricabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRARUGK1XXX"
 }

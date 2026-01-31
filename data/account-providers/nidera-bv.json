@@ -8,7 +8,6 @@
   ],
   "name": "NIDERA B.V.",
   "legalName": "NIDERA B.V.",
-  "bic": "NIHANL2RXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.niderabv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIHANL2RXXX"
 }

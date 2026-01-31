@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF SCOTLAND",
   "legalName": "BANK OF SCOTLAND",
-  "bic": "BOFSIMA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofscotlandim1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFSIMA1XXX"
 }

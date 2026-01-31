@@ -8,7 +8,6 @@
   ],
   "name": "DLR KREDIT A/S",
   "legalName": "DLR KREDIT A/S",
-  "bic": "DLKRDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dlrkreditas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DLKRDKK1XXX"
 }

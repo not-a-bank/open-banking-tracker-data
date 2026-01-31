@@ -83,6 +83,7 @@
   "apiAggregators": [
     "enablebanking",
     "enfuce",
+    "gocardless",
     "neonomics",
     "tink"
   ],
@@ -120,5 +121,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "HELSFIHH"
 }

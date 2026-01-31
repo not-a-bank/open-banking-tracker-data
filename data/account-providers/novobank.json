@@ -8,7 +8,6 @@
   ],
   "name": "NOVOBANK",
   "legalName": "NOVOBANK",
-  "bic": "NVOBRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novobank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NVOBRU21XXX"
 }

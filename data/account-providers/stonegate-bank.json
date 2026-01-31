@@ -8,7 +8,6 @@
   ],
   "name": "STONEGATE BANK",
   "legalName": "STONEGATE BANK",
-  "bic": "STOGUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stonegatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STOGUS33XXX"
 }

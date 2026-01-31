@@ -8,7 +8,6 @@
   ],
   "name": "BP JAPAN TRADING LIMITED",
   "legalName": "BP JAPAN TRADING LIMITED",
-  "bic": "JATRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bpjapantradinglimitedgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JATRGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET BANK AND TRUST CO.",
   "legalName": "STATE STREET BANK AND TRUST CO.",
-  "bic": "SBOSUS3FXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetbankandtrustcous.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBOSUS3FXXX"
 }

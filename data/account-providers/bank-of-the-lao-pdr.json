@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF THE LAO P.D.R.",
   "legalName": "BANK OF THE LAO P.D.R.",
-  "bic": "LPDRLALAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofthelaopdr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LPDRLALAXXX"
 }

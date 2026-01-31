@@ -8,7 +8,6 @@
   ],
   "name": "NORTH AFRICA COMMERCIAL BANK S.A.L.",
   "legalName": "NORTH AFRICA COMMERCIAL BANK S.A.L.",
-  "bic": "NACBLBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.northafricacommercialbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NACBLBBEXXX"
 }

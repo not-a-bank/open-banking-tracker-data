@@ -8,7 +8,6 @@
   ],
   "name": "APTEL INDIA",
   "legalName": "APTEL INDIA",
-  "bic": "APININD1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aptelindia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "APININD1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NATWEST INVESTMENT MANAGEMENT",
   "legalName": "NATWEST INVESTMENT MANAGEMENT",
-  "bic": "NWIMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natwestinvestmentmanagementus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NWIMUS31XXX"
 }

@@ -66,12 +66,13 @@
     }
   ],
   "apiAggregators": [
-    "volt",
+    "gocardless",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "ETICES21XXX"
+  "bic": "ETICES21"
 }

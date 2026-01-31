@@ -8,7 +8,6 @@
   ],
   "name": "FT ASSET MANAGEMENT KB",
   "legalName": "FT ASSET MANAGEMENT KB",
-  "bic": "ASGASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ftassetmanagementkb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASGASES1XXX"
 }

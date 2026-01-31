@@ -8,7 +8,6 @@
   ],
   "name": "HSBC FUND SERVICES (KOREA) LIMITED",
   "legalName": "HSBC FUND SERVICES (KOREA) LIMITED",
-  "bic": "HIFKKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcfundserviceskorealimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HIFKKRSEXXX"
 }

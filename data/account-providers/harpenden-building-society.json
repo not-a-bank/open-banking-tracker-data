@@ -8,7 +8,6 @@
   ],
   "name": "HARPENDEN BUILDING SOCIETY",
   "legalName": "HARPENDEN BUILDING SOCIETY",
-  "bic": "HARBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.harpendenbuildingsociety.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HARBGB21XXX"
 }

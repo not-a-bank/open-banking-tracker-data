@@ -8,7 +8,6 @@
   ],
   "name": "COLLECTE LOCALISATION SATELLITES",
   "legalName": "COLLECTE LOCALISATION SATELLITES",
-  "bic": "COLLFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.collectelocalisationsatellites.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COLLFR22XXX"
 }

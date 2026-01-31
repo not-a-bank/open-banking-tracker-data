@@ -8,7 +8,6 @@
   ],
   "name": "ALPHA SECURITIES CORP.",
   "legalName": "ALPHA SECURITIES CORP.",
-  "bic": "ALPCPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alphasecuritiescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALPCPHM1XXX"
 }

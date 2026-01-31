@@ -8,7 +8,6 @@
   ],
   "name": "VERDIPAPIRFONDET NORDEA KREDITT",
   "legalName": "VERDIPAPIRFONDET NORDEA KREDITT",
-  "bic": "VEOKNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.verdipapirfondetnordeakreditt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VEOKNOK1XXX"
 }

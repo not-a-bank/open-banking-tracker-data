@@ -8,7 +8,6 @@
   ],
   "name": "NAPIER CAPITAL LIMITED",
   "legalName": "NAPIER CAPITAL LIMITED",
-  "bic": "NAAPNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.napiercapitallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAAPNZ21XXX"
 }

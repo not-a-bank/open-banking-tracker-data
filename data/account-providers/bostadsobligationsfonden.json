@@ -8,7 +8,6 @@
   ],
   "name": "BOSTADSOBLIGATIONSFONDEN",
   "legalName": "BOSTADSOBLIGATIONSFONDEN",
-  "bic": "BOTDFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bostadsobligationsfonden.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTDFIH1XXX"
 }

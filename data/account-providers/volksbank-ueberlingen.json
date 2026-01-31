@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank \u00dcberlingen",
-  "legalName": "Volksbank \u00dcberlingen",
+  "name": "Volksbank Überlingen",
+  "legalName": "Volksbank Überlingen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-ueberlingen.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

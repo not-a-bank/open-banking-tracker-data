@@ -8,7 +8,6 @@
   ],
   "name": "KREISSPARKASSE BAUTZEN",
   "legalName": "KREISSPARKASSE BAUTZEN",
-  "bic": "KRBUDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkassebautzen.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOLADES1BAT"
 }

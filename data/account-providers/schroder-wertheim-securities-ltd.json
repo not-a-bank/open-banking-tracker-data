@@ -8,7 +8,6 @@
   ],
   "name": "SCHRODER WERTHEIM SECURITIES LTD",
   "legalName": "SCHRODER WERTHEIM SECURITIES LTD",
-  "bic": "SCWSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schroderwertheimsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCWSGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SICAV A2G",
   "legalName": "SICAV A2G",
-  "bic": "SCAVFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sicava2g.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCAVFRP1XXX"
 }

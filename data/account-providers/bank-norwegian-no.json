@@ -9,7 +9,6 @@
   ],
   "name": "BANK NORWEGIAN",
   "legalName": "BANK NORWEGIAN",
-  "bic": "NORWNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://lh3.googleusercontent.com/ov7tDgHqsSPKCdmCU5aGjGSMYQyNMyQPDOt1ZLtuZcJtpBQgMin7ZUHztTf1nyhThnQ=s360-rw",
@@ -76,5 +75,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NORWNOK1XXX"
 }

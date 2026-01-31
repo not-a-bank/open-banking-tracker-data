@@ -8,7 +8,6 @@
   ],
   "name": "RMB STOCKBROKING (PTY) LTD",
   "legalName": "RMB STOCKBROKING (PTY) LTD",
-  "bic": "FNEQZAJJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rmbstockbrokingptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNEQZAJJXXX"
 }

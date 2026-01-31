@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS DE ZOETE WEDD",
   "legalName": "BARCLAYS DE ZOETE WEDD",
-  "bic": "BZWLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysdezoetewedd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BZWLUS31XXX"
 }

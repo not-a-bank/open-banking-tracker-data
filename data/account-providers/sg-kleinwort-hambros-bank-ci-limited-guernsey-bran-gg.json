@@ -8,7 +8,6 @@
   ],
   "name": "SG KLEINWORT HAMBROS BANK (CI) LIMITED - GUERNSEY BRANCH (FORMERLY KLEINWORT BENSON (CI) LTD)",
   "legalName": "SG KLEINWORT HAMBROS BANK (CI) LIMITED - GUERNSEY BRANCH (FORMERLY KLEINWORT BENSON (CI) LTD)",
-  "bic": "KBENGGSTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sgkleinworthambrosbankcilimitedguernseybrangg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBENGGSTXXX"
 }

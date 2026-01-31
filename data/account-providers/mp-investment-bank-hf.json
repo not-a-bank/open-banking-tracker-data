@@ -8,7 +8,6 @@
   ],
   "name": "MP INVESTMENT BANK HF",
   "legalName": "MP INVESTMENT BANK HF",
-  "bic": "INBHLT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mpinvestmentbankhf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INBHLT21XXX"
 }

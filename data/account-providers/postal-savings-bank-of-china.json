@@ -8,7 +8,6 @@
   ],
   "name": "POSTAL SAVINGS BANK OF CHINA",
   "legalName": "POSTAL SAVINGS BANK OF CHINA",
-  "bic": "PSBCCNBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.postalsavingsbankofchina.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSBCCNBJXXX"
 }

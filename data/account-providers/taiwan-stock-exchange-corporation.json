@@ -8,7 +8,6 @@
   ],
   "name": "TAIWAN STOCK EXCHANGE CORPORATION",
   "legalName": "TAIWAN STOCK EXCHANGE CORPORATION",
-  "bic": "XTAITWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.taiwanstockexchangecorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XTAITWT1XXX"
 }

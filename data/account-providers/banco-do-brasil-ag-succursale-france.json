@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DO BRASIL AG SUCCURSALE FRANCE",
   "legalName": "BANCO DO BRASIL AG SUCCURSALE FRANCE",
-  "bic": "BRASFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodobrasilagsuccursalefrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRASFRPPXXX"
 }

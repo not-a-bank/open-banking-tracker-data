@@ -8,7 +8,6 @@
   ],
   "name": "INCOBANK AND TRUST CORPORATION",
   "legalName": "INCOBANK AND TRUST CORPORATION",
-  "bic": "INCTKYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.incobankandtrustcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INCTKYK1XXX"
 }

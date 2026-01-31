@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIAL CREDIT BANK",
   "legalName": "FINANCIAL CREDIT BANK",
-  "bic": "FIDORUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financialcreditbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIDORUM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HSBC PRIVATE BANK (C.I.) LIMITED",
   "legalName": "HSBC PRIVATE BANK (C.I.) LIMITED",
-  "bic": "BLICGGSXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcprivatebankcilimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLICGGSXXXX"
 }

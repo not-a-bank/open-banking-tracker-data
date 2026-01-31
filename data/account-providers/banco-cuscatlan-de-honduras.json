@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CUSCATLAN DE HONDURAS",
   "legalName": "BANCO CUSCATLAN DE HONDURAS",
-  "bic": "BACUHNT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocuscatlandehonduras.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACUHNT1XXX"
 }

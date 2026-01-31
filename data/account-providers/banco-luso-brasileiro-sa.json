@@ -8,7 +8,6 @@
   ],
   "name": "BANCO LUSO BRASILEIRO S.A.",
   "legalName": "BANCO LUSO BRASILEIRO S.A.",
-  "bic": "BLBCBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancolusobrasileirosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLBCBRSPXXX"
 }

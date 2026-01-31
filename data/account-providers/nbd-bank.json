@@ -8,7 +8,6 @@
   ],
   "name": "NBD-BANK",
   "legalName": "NBD-BANK",
-  "bic": "NBDBRU2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nbdbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBDBRU2NXXX"
 }

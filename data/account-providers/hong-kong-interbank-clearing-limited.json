@@ -8,7 +8,6 @@
   ],
   "name": "HONG KONG INTERBANK CLEARING LIMITED",
   "legalName": "HONG KONG INTERBANK CLEARING LIMITED",
-  "bic": "HKICHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hongkonginterbankclearinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HKICHKHHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HOME STATE BANK, N.A.",
   "legalName": "HOME STATE BANK, N.A.",
-  "bic": "HOTAUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.homestatebankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOTAUS44XXX"
 }

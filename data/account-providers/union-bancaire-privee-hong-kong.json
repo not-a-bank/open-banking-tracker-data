@@ -8,7 +8,6 @@
   ],
   "name": "UNION BANCAIRE PRIVEE, HONG KONG",
   "legalName": "UNION BANCAIRE PRIVEE, HONG KONG",
-  "bic": "UBPGHKHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unionbancairepriveehongkong.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBPGHKHXXXX"
 }

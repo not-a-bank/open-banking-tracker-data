@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN SECURITIES LIMITED SUCURSAL EN ESPANA",
   "legalName": "J.P. MORGAN SECURITIES LIMITED SUCURSAL EN ESPANA",
-  "bic": "JPMSESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorgansecuritieslimitedsucursalenespana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JPMSESM1XXX"
 }

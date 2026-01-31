@@ -8,7 +8,6 @@
   ],
   "name": "BANK LEUMI (UK) PLC",
   "legalName": "BANK LEUMI (UK) PLC",
-  "bic": "LUMIGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankleumiukplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LUMIGB22XXX"
 }

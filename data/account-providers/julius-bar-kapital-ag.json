@@ -8,7 +8,6 @@
   ],
   "name": "JULIUS BAR KAPITAL AG",
   "legalName": "JULIUS BAR KAPITAL AG",
-  "bic": "JBARDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.juliusbarkapitalag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JBARDEF1XXX"
 }

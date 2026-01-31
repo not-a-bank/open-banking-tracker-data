@@ -8,7 +8,6 @@
   ],
   "name": "LOLLANDS BANK A/S",
   "legalName": "LOLLANDS BANK A/S",
-  "bic": "LOBADK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lollandsbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOBADK21XXX"
 }

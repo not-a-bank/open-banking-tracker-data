@@ -8,7 +8,6 @@
   ],
   "name": "AUSTRALIAN CLEARING EXCHANGE PTY LTD",
   "legalName": "AUSTRALIAN CLEARING EXCHANGE PTY LTD",
-  "bic": "RDSPAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.australianclearingexchangeptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RDSPAU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CAIXA GERAL DE ANGOLA",
   "legalName": "BANCO CAIXA GERAL DE ANGOLA",
-  "bic": "BCGAAOLUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocaixageraldeangola.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCGAAOLUXXX"
 }

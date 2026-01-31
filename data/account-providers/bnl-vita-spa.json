@@ -8,7 +8,6 @@
   ],
   "name": "BNL VITA SPA",
   "legalName": "BNL VITA SPA",
-  "bic": "BNVTITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnlvitaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNVTITM1XXX"
 }

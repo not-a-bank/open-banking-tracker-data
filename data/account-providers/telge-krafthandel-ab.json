@@ -8,7 +8,6 @@
   ],
   "name": "TELGE KRAFTHANDEL AB",
   "legalName": "TELGE KRAFTHANDEL AB",
-  "bic": "TEKASE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.telgekrafthandelab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEKASE21XXX"
 }

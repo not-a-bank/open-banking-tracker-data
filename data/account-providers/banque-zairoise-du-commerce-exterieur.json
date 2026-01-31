@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE ZAIROISE DU COMMERCE EXTERIEUR",
   "legalName": "BANQUE ZAIROISE DU COMMERCE EXTERIEUR",
-  "bic": "ZAEXCD31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquezairoiseducommerceexterieur.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZAEXCD31XXX"
 }

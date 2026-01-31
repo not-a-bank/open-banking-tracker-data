@@ -8,7 +8,6 @@
   ],
   "name": "VERDIPAPIRFONDET NORDEA PLAN 65",
   "legalName": "VERDIPAPIRFONDET NORDEA PLAN 65",
-  "bic": "VEDPNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.verdipapirfondetnordeaplan65.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VEDPNOK1XXX"
 }

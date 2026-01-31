@@ -8,7 +8,6 @@
   ],
   "name": "AKIBA COMMERCIAL BANK PLC",
   "legalName": "AKIBA COMMERCIAL BANK PLC",
-  "bic": "AKCOTZTZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.akibacommercialbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKCOTZTZXXX"
 }

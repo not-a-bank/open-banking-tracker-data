@@ -8,7 +8,6 @@
   ],
   "name": "BANKWEST A DIVISION OF COMMONWEALTH BANK OF AUSTRALIA",
   "legalName": "BANKWEST A DIVISION OF COMMONWEALTH BANK OF AUSTRALIA",
-  "bic": "BKWAAU6PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankwestadivisionofcommonwealthbankofaustra.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKWAAU6PXXX"
 }

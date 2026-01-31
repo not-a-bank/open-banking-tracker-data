@@ -8,7 +8,6 @@
   ],
   "name": "CORMARK SECURITIES INC",
   "legalName": "CORMARK SECURITIES INC",
-  "bic": "SPSLCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cormarksecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPSLCAT1XXX"
 }

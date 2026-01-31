@@ -8,7 +8,6 @@
   ],
   "name": "IRIDIAN ASSET MANAGEMENT LLC",
   "legalName": "IRIDIAN ASSET MANAGEMENT LLC",
-  "bic": "IRAAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iridianassetmanagementllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRAAUS31XXX"
 }

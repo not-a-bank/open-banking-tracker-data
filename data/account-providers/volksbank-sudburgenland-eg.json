@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK SUDBURGENLAND EG",
   "legalName": "VOLKSBANK SUDBURGENLAND EG",
-  "bic": "VOPIAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbanksudburgenlandeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOPIAT21XXX"
 }

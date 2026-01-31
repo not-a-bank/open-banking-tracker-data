@@ -8,7 +8,6 @@
   ],
   "name": "SPGP ASSURANCE SARL",
   "legalName": "SPGP ASSURANCE SARL",
-  "bic": "SPASFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spgpassurancesarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPASFRP1XXX"
 }

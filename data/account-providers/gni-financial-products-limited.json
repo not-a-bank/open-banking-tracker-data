@@ -8,7 +8,6 @@
   ],
   "name": "GNI FINANCIAL PRODUCTS LIMITED",
   "legalName": "GNI FINANCIAL PRODUCTS LIMITED",
-  "bic": "GNFPGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gnifinancialproductslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GNFPGB21XXX"
 }

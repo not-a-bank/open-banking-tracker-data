@@ -8,7 +8,6 @@
   ],
   "name": "ASIATRUST BANK",
   "legalName": "ASIATRUST BANK",
-  "bic": "ATDBPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asiatrustbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATDBPHM1XXX"
 }

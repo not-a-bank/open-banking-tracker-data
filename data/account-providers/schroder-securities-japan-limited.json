@@ -8,7 +8,6 @@
   ],
   "name": "SCHRODER SECURITIES JAPAN LIMITED",
   "legalName": "SCHRODER SECURITIES JAPAN LIMITED",
-  "bic": "SSCHJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schrodersecuritiesjapanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSCHJPJ1XXX"
 }

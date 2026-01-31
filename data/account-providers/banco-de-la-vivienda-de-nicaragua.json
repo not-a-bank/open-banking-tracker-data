@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE LA VIVIENDA DE NICARAGUA",
   "legalName": "BANCO DE LA VIVIENDA DE NICARAGUA",
-  "bic": "BVISNIM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodelaviviendadenicaragua.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BVISNIM1XXX"
 }

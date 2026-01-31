@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT SPA SUCURSAL EN ESPANA",
   "legalName": "UNICREDIT SPA SUCURSAL EN ESPANA",
-  "bic": "UNCRESMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditspasucursalenespana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNCRESMAXXX"
 }

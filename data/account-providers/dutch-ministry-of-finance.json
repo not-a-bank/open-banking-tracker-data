@@ -8,7 +8,6 @@
   ],
   "name": "DUTCH MINISTRY OF FINANCE",
   "legalName": "DUTCH MINISTRY OF FINANCE",
-  "bic": "MIFINL2GXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dutchministryoffinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIFINL2GXXX"
 }

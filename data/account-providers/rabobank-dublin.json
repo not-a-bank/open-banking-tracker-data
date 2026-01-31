@@ -8,7 +8,6 @@
   ],
   "name": "RABOBANK DUBLIN",
   "legalName": "RABOBANK DUBLIN",
-  "bic": "RABIIE3DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rabobankdublin.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABIIE3DXXX"
 }

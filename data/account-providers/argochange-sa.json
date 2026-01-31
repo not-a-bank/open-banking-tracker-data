@@ -8,7 +8,6 @@
   ],
   "name": "ARGOCHANGE S.A.",
   "legalName": "ARGOCHANGE S.A.",
-  "bic": "ARGHGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.argochangesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARGHGRA1XXX"
 }

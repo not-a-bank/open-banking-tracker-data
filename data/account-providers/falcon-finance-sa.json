@@ -8,7 +8,6 @@
   ],
   "name": "FALCON FINANCE S.A.",
   "legalName": "FALCON FINANCE S.A.",
-  "bic": "FAFNGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.falconfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FAFNGRA1XXX"
 }

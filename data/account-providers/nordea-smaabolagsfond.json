@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA SMAABOLAGSFOND",
   "legalName": "NORDEA SMAABOLAGSFOND",
-  "bic": "NOSDFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeasmaabolagsfond.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSDFIH1XXX"
 }

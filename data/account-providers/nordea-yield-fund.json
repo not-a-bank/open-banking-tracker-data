@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA YIELD FUND",
   "legalName": "NORDEA YIELD FUND",
-  "bic": "NOYFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeayieldfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOYFFIH1XXX"
 }

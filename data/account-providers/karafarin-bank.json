@@ -8,7 +8,6 @@
   ],
   "name": "KARAFARIN BANK",
   "legalName": "KARAFARIN BANK",
-  "bic": "KBIDIRTHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.karafarinbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBIDIRTHXXX"
 }

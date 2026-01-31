@@ -8,7 +8,6 @@
   ],
   "name": "CA INDOSUEZ WEALTH (EUROPE)",
   "legalName": "CA INDOSUEZ WEALTH (EUROPE)",
-  "bic": "AGRILULAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caindosuezwealtheurope.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRILULAXXX"
 }

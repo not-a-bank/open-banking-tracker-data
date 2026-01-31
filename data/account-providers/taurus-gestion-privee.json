@@ -8,7 +8,6 @@
   ],
   "name": "TAURUS GESTION PRIVEE",
   "legalName": "TAURUS GESTION PRIVEE",
-  "bic": "TAGPFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.taurusgestionprivee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAGPFR21XXX"
 }

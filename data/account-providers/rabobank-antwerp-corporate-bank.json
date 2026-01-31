@@ -8,7 +8,6 @@
   ],
   "name": "RABOBANK ANTWERP (CORPORATE BANK)",
   "legalName": "RABOBANK ANTWERP (CORPORATE BANK)",
-  "bic": "RABOBE23XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rabobankantwerpcorporatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABOBE23XXX"
 }

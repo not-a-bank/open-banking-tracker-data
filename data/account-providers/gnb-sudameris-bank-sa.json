@@ -8,7 +8,6 @@
   ],
   "name": "GNB SUDAMERIS BANK S.A.",
   "legalName": "GNB SUDAMERIS BANK S.A.",
-  "bic": "GNBKPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gnbsudamerisbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GNBKPAPAXXX"
 }

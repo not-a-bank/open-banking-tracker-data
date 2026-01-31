@@ -8,7 +8,6 @@
   ],
   "name": "AGAVE SPV S.R.L.",
   "legalName": "AGAVE SPV S.R.L.",
-  "bic": "AAVSIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agavespvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AAVSIT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ROYAL BANK OF CANADA (BRASIL) S.A.",
   "legalName": "ROYAL BANK OF CANADA (BRASIL) S.A.",
-  "bic": "ROYCBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.royalbankofcanadabrasilsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROYCBRS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "M-DAQ CASHPORT PTE LTD",
   "legalName": "M-DAQ CASHPORT PTE LTD",
-  "bic": "MDCPSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mdaqcashportpteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MDCPSGSGXXX"
 }

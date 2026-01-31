@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER TOTTA, SA",
   "legalName": "BANCO SANTANDER TOTTA, SA",
-  "bic": "TOTAPTPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantandertottasapt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOTAPTPLXXX"
 }

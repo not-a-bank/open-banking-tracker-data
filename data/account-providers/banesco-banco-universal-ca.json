@@ -8,7 +8,6 @@
   ],
   "name": "BANESCO BANCO UNIVERSAL C.A.",
   "legalName": "BANESCO BANCO UNIVERSAL C.A.",
-  "bic": "UNIOVECAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banescobancouniversalca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNIOVECAXXX"
 }

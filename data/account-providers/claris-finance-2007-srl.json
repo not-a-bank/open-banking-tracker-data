@@ -8,7 +8,6 @@
   ],
   "name": "CLARIS FINANCE 2007 SRL",
   "legalName": "CLARIS FINANCE 2007 SRL",
-  "bic": "CSNRITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clarisfinance2007srl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSNRITR1XXX"
 }

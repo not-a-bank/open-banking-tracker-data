@@ -8,7 +8,6 @@
   ],
   "name": "ERMIONE SPV SRL",
   "legalName": "ERMIONE SPV SRL",
-  "bic": "ERSRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ermionespvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERSRITM1XXX"
 }

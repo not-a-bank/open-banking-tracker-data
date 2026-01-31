@@ -8,7 +8,6 @@
   ],
   "name": "SMC CAPITAL",
   "legalName": "SMC CAPITAL",
-  "bic": "SMCPUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.smccapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMCPUS41XXX"
 }

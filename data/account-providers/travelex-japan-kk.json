@@ -8,7 +8,6 @@
   ],
   "name": "TRAVELEX JAPAN KK",
   "legalName": "TRAVELEX JAPAN KK",
-  "bic": "TRAVJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.travelexjapankk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRAVJPJ1XXX"
 }

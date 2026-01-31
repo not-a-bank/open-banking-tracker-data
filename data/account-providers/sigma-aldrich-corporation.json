@@ -8,7 +8,6 @@
   ],
   "name": "SIGMA-ALDRICH CORPORATION",
   "legalName": "SIGMA-ALDRICH CORPORATION",
-  "bic": "SIGIUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sigmaaldrichcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIGIUS44XXX"
 }

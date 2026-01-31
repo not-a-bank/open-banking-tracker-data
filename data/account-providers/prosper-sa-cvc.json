@@ -8,7 +8,6 @@
   ],
   "name": "PROSPER S/A CVC",
   "legalName": "PROSPER S/A CVC",
-  "bic": "PRVVBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.prospersacvc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRVVBRS1XXX"
 }

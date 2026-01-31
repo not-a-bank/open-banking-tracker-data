@@ -8,7 +8,6 @@
   ],
   "name": "BHF BANK (SCHWEIZ) AG",
   "legalName": "BHF BANK (SCHWEIZ) AG",
-  "bic": "BHFBCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bhfbankschweizag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHFBCHZZXXX"
 }

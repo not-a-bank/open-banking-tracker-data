@@ -8,7 +8,6 @@
   ],
   "name": "MP7 ITALIA S.P.A.",
   "legalName": "MP7 ITALIA S.P.A.",
-  "bic": "ITILITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mp7italiaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITILITM1XXX"
 }

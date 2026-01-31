@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS BANK USA (FORMERLY GOLDMAN SACHS CAPITAL MARKETS, L.P.)",
   "legalName": "GOLDMAN SACHS BANK USA (FORMERLY GOLDMAN SACHS CAPITAL MARKETS, L.P.)",
-  "bic": "GSCMUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsbankusaformerlygoldmansachscapi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSCMUS33XXX"
 }

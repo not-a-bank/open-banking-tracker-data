@@ -8,7 +8,6 @@
   ],
   "name": "VAZCORP SOCIEDAD FINANCIERA S.A.",
   "legalName": "VAZCORP SOCIEDAD FINANCIERA S.A.",
-  "bic": "VASFECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vazcorpsociedadfinancierasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VASFECE1XXX"
 }

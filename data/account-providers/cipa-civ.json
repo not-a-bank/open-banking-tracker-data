@@ -8,7 +8,6 @@
   ],
   "name": "CIPA-CIV",
   "legalName": "CIPA-CIV",
-  "bic": "CIPAFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cipaciv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIPAFR21XXX"
 }

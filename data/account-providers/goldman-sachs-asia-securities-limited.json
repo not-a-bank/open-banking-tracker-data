@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS (ASIA) SECURITIES LIMITED",
   "legalName": "GOLDMAN SACHS (ASIA) SECURITIES LIMITED",
-  "bic": "GSASHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsasiasecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSASHKH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PAYBOX BANK AG",
   "legalName": "PAYBOX BANK AG",
-  "bic": "PABXATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.payboxbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PABXATW1XXX"
 }

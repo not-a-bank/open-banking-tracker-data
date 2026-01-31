@@ -8,7 +8,6 @@
   ],
   "name": "ORESUNDSKRAFT ENERGY TRADING AB",
   "legalName": "ORESUNDSKRAFT ENERGY TRADING AB",
-  "bic": "ORETSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oresundskraftenergytradingab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORETSE21XXX"
 }

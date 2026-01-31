@@ -8,7 +8,6 @@
   ],
   "name": "ING BANK NV, SUCURSAL EM PORTUGAL",
   "legalName": "ING BANK NV, SUCURSAL EM PORTUGAL",
-  "bic": "BBRUPTPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingbanknvsucursalemportugal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBRUPTPLXXX"
 }

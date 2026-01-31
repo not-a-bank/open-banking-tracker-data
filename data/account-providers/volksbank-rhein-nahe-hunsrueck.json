@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Rhein-Nahe-Hunsr\u00fcck",
-  "legalName": "Volksbank Rhein-Nahe-Hunsr\u00fcck",
+  "name": "Volksbank Rhein-Nahe-Hunsrück",
+  "legalName": "Volksbank Rhein-Nahe-Hunsrück",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-rhein-nahe-hunsrueck.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

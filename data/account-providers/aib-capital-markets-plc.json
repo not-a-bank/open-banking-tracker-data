@@ -8,7 +8,6 @@
   ],
   "name": "AIB CAPITAL MARKETS PLC",
   "legalName": "AIB CAPITAL MARKETS PLC",
-  "bic": "AICMIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aibcapitalmarketsplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AICMIE21XXX"
 }

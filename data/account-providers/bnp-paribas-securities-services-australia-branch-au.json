@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)",
   "legalName": "BNP PARIBAS SECURITIES SERVICES, (AUSTRALIA BRANCH)",
-  "bic": "PARBAU2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassecuritiesservicesaustraliabranchau.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARBAU2SXXX"
 }

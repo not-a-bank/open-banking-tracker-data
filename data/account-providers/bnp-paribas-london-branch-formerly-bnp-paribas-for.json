@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS LONDON BRANCH (FORMERLY BNP PARIBAS FORTIS SA/NV)",
   "legalName": "BNP PARIBAS LONDON BRANCH (FORMERLY BNP PARIBAS FORTIS SA/NV)",
-  "bic": "GEBAGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibaslondonbranchformerlybnpparibasfor.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEBAGB22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL NORD DE FRANCE",
   "legalName": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL NORD DE FRANCE",
-  "bic": "CGRMFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionaledecreditagricolemutuelnordde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGRMFR21XXX"
 }

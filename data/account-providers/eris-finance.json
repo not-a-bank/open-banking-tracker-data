@@ -8,7 +8,6 @@
   ],
   "name": "ERIS FINANCE",
   "legalName": "ERIS FINANCE",
-  "bic": "ERFIIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.erisfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERFIIT21XXX"
 }

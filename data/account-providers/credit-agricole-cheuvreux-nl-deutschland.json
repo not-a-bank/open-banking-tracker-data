@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE CHEUVREUX NL DEUTSCHLAND",
   "legalName": "CREDIT AGRICOLE CHEUVREUX NL DEUTSCHLAND",
-  "bic": "CACHDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolecheuvreuxnldeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CACHDEF1XXX"
 }

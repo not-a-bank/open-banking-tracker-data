@@ -8,7 +8,6 @@
   ],
   "name": "INTESA SANPAOLO SPA (FORMERLY BANCA INTESA SPA NEW YORK)",
   "legalName": "INTESA SANPAOLO SPA (FORMERLY BANCA INTESA SPA NEW YORK)",
-  "bic": "BCITUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intesasanpaolospaformerlybancaintesaspanew.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCITUS33XXX"
 }

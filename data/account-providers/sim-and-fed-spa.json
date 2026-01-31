@@ -8,7 +8,6 @@
   ],
   "name": "SIM AND FED SPA",
   "legalName": "SIM AND FED SPA",
-  "bic": "SIMFIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.simandfedspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIMFIT31XXX"
 }

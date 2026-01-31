@@ -8,7 +8,6 @@
   ],
   "name": "ILLINOIS FOREX",
   "legalName": "ILLINOIS FOREX",
-  "bic": "IFORUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.illinoisforex.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IFORUS41XXX"
 }

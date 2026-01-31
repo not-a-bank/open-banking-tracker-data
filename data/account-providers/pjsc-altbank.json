@@ -8,7 +8,6 @@
   ],
   "name": "PJSC ALTBANK",
   "legalName": "PJSC ALTBANK",
-  "bic": "AVTOUA22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscaltbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVTOUA22XXX"
 }

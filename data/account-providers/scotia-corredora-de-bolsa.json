@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIA CORREDORA DE BOLSA",
   "legalName": "SCOTIA CORREDORA DE BOLSA",
-  "bic": "CBSCCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiacorredoradebolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBSCCLR1XXX"
 }

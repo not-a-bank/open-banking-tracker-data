@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN TRUSTEE AND DEPOSITARY COMPANY LIMITED",
   "legalName": "J.P. MORGAN TRUSTEE AND DEPOSITARY COMPANY LIMITED",
-  "bic": "CHMTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorgantrusteeanddepositarycompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHMTGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BSI BANK (PANAMA)",
   "legalName": "BSI BANK (PANAMA)",
-  "bic": "BSILPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bsibankpanama.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSILPAPAXXX"
 }

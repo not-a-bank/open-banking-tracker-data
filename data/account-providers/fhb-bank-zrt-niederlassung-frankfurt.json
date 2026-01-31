@@ -8,7 +8,6 @@
   ],
   "name": "FHB BANK ZRT. NIEDERLASSUNG FRANKFURT",
   "legalName": "FHB BANK ZRT. NIEDERLASSUNG FRANKFURT",
-  "bic": "FZNFDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fhbbankzrtniederlassungfrankfurt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FZNFDEF1XXX"
 }

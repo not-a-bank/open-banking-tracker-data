@@ -8,7 +8,6 @@
   ],
   "name": "DISKONTAS FINANSINIO MAKLERIO UAB",
   "legalName": "DISKONTAS FINANSINIO MAKLERIO UAB",
-  "bic": "DISTLT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.diskontasfinansiniomakleriouab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DISTLT21XXX"
 }

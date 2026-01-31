@@ -8,7 +8,6 @@
   ],
   "name": "STET SAS",
   "legalName": "STET SAS",
-  "bic": "STTSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stetsas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STTSFRP1XXX"
 }

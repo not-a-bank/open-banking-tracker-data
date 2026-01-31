@@ -8,7 +8,6 @@
   ],
   "name": "AXA BANK AG",
   "legalName": "AXA BANK AG",
-  "bic": "AXABDE3KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axabankagde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXABDE3KXXX"
 }

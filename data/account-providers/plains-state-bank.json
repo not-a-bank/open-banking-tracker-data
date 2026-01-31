@@ -8,7 +8,6 @@
   ],
   "name": "PLAINS STATE BANK",
   "legalName": "PLAINS STATE BANK",
-  "bic": "PLSTUS4HXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.plainsstatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLSTUS4HXXX"
 }

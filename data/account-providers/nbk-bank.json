@@ -8,7 +8,6 @@
   ],
   "name": "NBK-BANK",
   "legalName": "NBK-BANK",
-  "bic": "HSBKRU4CXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nbkbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSBKRU4CXXX"
 }

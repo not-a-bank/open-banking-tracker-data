@@ -8,7 +8,6 @@
   ],
   "name": "ALPHA RHEINTAL BANK AG",
   "legalName": "ALPHA RHEINTAL BANK AG",
-  "bic": "ARBHCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alpharheintalbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARBHCH22XXX"
 }

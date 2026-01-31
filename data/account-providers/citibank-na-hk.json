@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK N.A.",
   "legalName": "CITIBANK N.A.",
-  "bic": "CITIHKHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibanknahk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIHKHXXXX"
 }

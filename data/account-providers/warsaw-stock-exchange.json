@@ -8,7 +8,6 @@
   ],
   "name": "WARSAW STOCK EXCHANGE",
   "legalName": "WARSAW STOCK EXCHANGE",
-  "bic": "XWARPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.warsawstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XWARPLP1XXX"
 }

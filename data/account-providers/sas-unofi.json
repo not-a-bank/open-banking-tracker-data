@@ -8,7 +8,6 @@
   ],
   "name": "SAS UNOFI",
   "legalName": "SAS UNOFI",
-  "bic": "SAUFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sasunofi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAUFFRP1XXX"
 }

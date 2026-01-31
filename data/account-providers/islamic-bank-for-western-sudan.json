@@ -8,7 +8,6 @@
   ],
   "name": "ISLAMIC BANK FOR WESTERN SUDAN",
   "legalName": "ISLAMIC BANK FOR WESTERN SUDAN",
-  "bic": "IBWSSDK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.islamicbankforwesternsudan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBWSSDK1XXX"
 }

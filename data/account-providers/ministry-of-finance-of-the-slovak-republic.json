@@ -8,7 +8,6 @@
   ],
   "name": "MINISTRY OF FINANCE OF THE SLOVAK REPUBLIC",
   "legalName": "MINISTRY OF FINANCE OF THE SLOVAK REPUBLIC",
-  "bic": "MFSRSKB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ministryoffinanceoftheslovakrepublic.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MFSRSKB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HYUNDAI SECURITIES CO. LTD.",
   "legalName": "HYUNDAI SECURITIES CO. LTD.",
-  "bic": "HYSEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hyundaisecuritiescoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HYSEUS31XXX"
 }

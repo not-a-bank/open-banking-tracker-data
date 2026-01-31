@@ -8,7 +8,6 @@
   ],
   "name": "AQX SECURITIES GMBH",
   "legalName": "AQX SECURITIES GMBH",
-  "bic": "AQSGDEH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aqxsecuritiesgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AQSGDEH1XXX"
 }

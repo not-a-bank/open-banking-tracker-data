@@ -8,7 +8,6 @@
   ],
   "name": "IBL BANK, SAL",
   "legalName": "IBL BANK, SAL",
-  "bic": "INLEIQBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iblbanksaliq.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INLEIQBAXXX"
 }

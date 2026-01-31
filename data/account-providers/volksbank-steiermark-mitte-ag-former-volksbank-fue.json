@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK STEIERMARK MITTE AG (FORMER VOLKSBANK FUER DIE SUED-U.WESTSTEIERMARK EG)",
   "legalName": "VOLKSBANK STEIERMARK MITTE AG (FORMER VOLKSBANK FUER DIE SUED-U.WESTSTEIERMARK EG)",
-  "bic": "VOKKAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbanksteiermarkmitteagformervolksbankfue.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOKKAT21XXX"
 }

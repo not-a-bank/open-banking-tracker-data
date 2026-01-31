@@ -8,7 +8,6 @@
   ],
   "name": "FA SECURITIES SDN. BHD.",
   "legalName": "FA SECURITIES SDN. BHD.",
-  "bic": "FASEMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fasecuritiessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FASEMY21XXX"
 }

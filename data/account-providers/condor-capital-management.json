@@ -8,7 +8,6 @@
   ],
   "name": "CONDOR CAPITAL MANAGEMENT",
   "legalName": "CONDOR CAPITAL MANAGEMENT",
-  "bic": "COPEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.condorcapitalmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COPEUS31XXX"
 }

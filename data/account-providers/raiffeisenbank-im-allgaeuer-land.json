@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank im Allg\u00e4uer Land",
-  "legalName": "Raiffeisenbank im Allg\u00e4uer Land",
+  "name": "Raiffeisenbank im Allgäuer Land",
+  "legalName": "Raiffeisenbank im Allgäuer Land",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-im-allgaeuer-land.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

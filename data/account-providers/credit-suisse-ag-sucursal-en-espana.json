@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE AG, SUCURSAL EN ESPANA",
   "legalName": "CREDIT SUISSE AG, SUCURSAL EN ESPANA",
-  "bic": "CRESESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseagsucursalenespana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESESMMXXX"
 }

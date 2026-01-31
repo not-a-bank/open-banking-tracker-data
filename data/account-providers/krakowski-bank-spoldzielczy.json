@@ -8,7 +8,6 @@
   ],
   "name": "KRAKOWSKI BANK SPOLDZIELCZY",
   "legalName": "KRAKOWSKI BANK SPOLDZIELCZY",
-  "bic": "KRSPPLP2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.krakowskibankspoldzielczy.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRSPPLP2XXX"
 }

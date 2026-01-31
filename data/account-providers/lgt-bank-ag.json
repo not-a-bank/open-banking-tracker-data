@@ -8,7 +8,6 @@
   ],
   "name": "LGT BANK AG",
   "legalName": "LGT BANK AG",
-  "bic": "BLFLLI2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lgtbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLFLLI2XXXX"
 }

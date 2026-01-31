@@ -8,7 +8,6 @@
   ],
   "name": "CADES",
   "legalName": "CADES",
-  "bic": "CADEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cades.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CADEFRP1XXX"
 }

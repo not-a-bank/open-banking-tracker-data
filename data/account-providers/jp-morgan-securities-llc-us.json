@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN SECURITIES LLC",
   "legalName": "J.P. MORGAN SECURITIES LLC",
-  "bic": "JPMSUS3XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorgansecuritiesllcus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JPMSUS3XXXX"
 }

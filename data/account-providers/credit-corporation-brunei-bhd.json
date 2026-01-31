@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT CORPORATION (BRUNEI) BHD",
   "legalName": "CREDIT CORPORATION (BRUNEI) BHD",
-  "bic": "CCBRBNB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditcorporationbruneibhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCBRBNB1XXX"
 }

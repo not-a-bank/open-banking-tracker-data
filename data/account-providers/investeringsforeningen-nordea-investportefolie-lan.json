@@ -8,7 +8,6 @@
   ],
   "name": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE LANGE OBLIGATIONER",
   "legalName": "INVESTERINGSFORENINGEN NORDEA INVESTPORTEFOLIE LANGE OBLIGATIONER",
-  "bic": "IOENDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investeringsforeningennordeainvestportefolielan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IOENDKK1XXX"
 }

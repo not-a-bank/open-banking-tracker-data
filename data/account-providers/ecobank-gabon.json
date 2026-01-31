@@ -8,7 +8,6 @@
   ],
   "name": "ECOBANK GABON",
   "legalName": "ECOBANK GABON",
-  "bic": "ECOCGALIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecobankgabon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCGALIXXX"
 }

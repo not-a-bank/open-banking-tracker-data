@@ -8,7 +8,6 @@
   ],
   "name": "VR BANK SCHLUECHTERN-BIRSTEIN EG",
   "legalName": "VR BANK SCHLUECHTERN-BIRSTEIN EG",
-  "bic": "SCLUDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vrbankschluechternbirsteineg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCLUDEF1XXX"
 }

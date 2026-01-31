@@ -8,7 +8,6 @@
   ],
   "name": "RABOBANK PARIS",
   "legalName": "RABOBANK PARIS",
-  "bic": "RABOFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rabobankparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABOFRPPXXX"
 }

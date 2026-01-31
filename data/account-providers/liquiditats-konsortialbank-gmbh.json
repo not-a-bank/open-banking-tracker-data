@@ -8,7 +8,6 @@
   ],
   "name": "LIQUIDITATS-KONSORTIALBANK GMBH",
   "legalName": "LIQUIDITATS-KONSORTIALBANK GMBH",
-  "bic": "LIKODE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.liquiditatskonsortialbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIKODE51XXX"
 }

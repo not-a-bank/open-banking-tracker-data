@@ -8,7 +8,6 @@
   ],
   "name": "NATWEST SELLIER S.A.",
   "legalName": "NATWEST SELLIER S.A.",
-  "bic": "NWSEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natwestselliersa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NWSEFRP1XXX"
 }

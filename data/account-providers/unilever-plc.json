@@ -8,7 +8,6 @@
   ],
   "name": "UNILEVER PLC",
   "legalName": "UNILEVER PLC",
-  "bic": "UNLENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unileverplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNLENL21XXX"
 }

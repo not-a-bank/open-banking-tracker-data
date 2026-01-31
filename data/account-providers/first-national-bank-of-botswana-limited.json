@@ -8,7 +8,6 @@
   ],
   "name": "FIRST NATIONAL BANK OF BOTSWANA LIMITED",
   "legalName": "FIRST NATIONAL BANK OF BOTSWANA LIMITED",
-  "bic": "FIRNBWGXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstnationalbankofbotswanalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIRNBWGXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VPV BANKIERS NV",
   "legalName": "VPV BANKIERS NV",
-  "bic": "VPVGNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vpvbankiersnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VPVGNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK-GRANITE CITY",
   "legalName": "CENTRAL BANK-GRANITE CITY",
-  "bic": "CBGCUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankgranitecity.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBGCUS41XXX"
 }

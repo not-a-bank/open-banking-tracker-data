@@ -8,7 +8,6 @@
   ],
   "name": "NORTHEAST SECURITIES INC.",
   "legalName": "NORTHEAST SECURITIES INC.",
-  "bic": "NOECUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.northeastsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOECUS31XXX"
 }

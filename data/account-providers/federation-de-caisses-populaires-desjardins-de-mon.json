@@ -8,7 +8,6 @@
   ],
   "name": "FEDERATION DE CAISSES POPULAIRES DESJARDINS DE MONTREAL",
   "legalName": "FEDERATION DE CAISSES POPULAIRES DESJARDINS DE MONTREAL",
-  "bic": "FCPOCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.federationdecaissespopulairesdesjardinsdemon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCPOCAM1XXX"
 }

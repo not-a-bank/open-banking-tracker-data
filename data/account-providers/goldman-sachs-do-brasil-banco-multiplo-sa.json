@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS DO BRASIL BANCO MULTIPLO S.A.",
   "legalName": "GOLDMAN SACHS DO BRASIL BANCO MULTIPLO S.A.",
-  "bic": "GOLDBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsdobrasilbancomultiplosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOLDBRSPXXX"
 }

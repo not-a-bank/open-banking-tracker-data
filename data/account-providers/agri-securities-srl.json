@@ -8,7 +8,6 @@
   ],
   "name": "AGRI SECURITIES S.R.L.",
   "legalName": "AGRI SECURITIES S.R.L.",
-  "bic": "AGERITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agrisecuritiessrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGERITR1XXX"
 }

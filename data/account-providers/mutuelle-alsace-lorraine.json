@@ -8,7 +8,6 @@
   ],
   "name": "MUTUELLE ALSACE LORRAINE",
   "legalName": "MUTUELLE ALSACE LORRAINE",
-  "bic": "MUALFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mutuellealsacelorraine.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUALFR21XXX"
 }

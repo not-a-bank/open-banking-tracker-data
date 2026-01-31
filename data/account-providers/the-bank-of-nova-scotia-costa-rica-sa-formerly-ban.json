@@ -8,7 +8,6 @@
   ],
   "name": "THE BANK OF NOVA SCOTIA (COSTA RICA) S.A. (FORMERLY BANCO CITIBANK DE COSTA RICA S.A.)",
   "legalName": "THE BANK OF NOVA SCOTIA (COSTA RICA) S.A. (FORMERLY BANCO CITIBANK DE COSTA RICA S.A.)",
-  "bic": "BACUCRSJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankofnovascotiacostaricasaformerlyban.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACUCRSJXXX"
 }

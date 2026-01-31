@@ -8,7 +8,6 @@
   ],
   "name": "NHS CREDIT UNION LTD",
   "legalName": "NHS CREDIT UNION LTD",
-  "bic": "NHCUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nhscreditunionltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NHCUGB21XXX"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "mbank-retail",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "mBank Retail",
+  "legalName": "mBank Retail",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.mbank-retail.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "SK",
+  "countries": [
+    "SK"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "BREXSKBX"
+}

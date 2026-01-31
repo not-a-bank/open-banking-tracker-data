@@ -8,7 +8,6 @@
   ],
   "name": "SACICAP DE SAVOIE",
   "legalName": "SACICAP DE SAVOIE",
-  "bic": "SCOSFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sacicapdesavoie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCOSFR21XXX"
 }

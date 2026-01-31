@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SAUDI ARABIA",
   "legalName": "BNP PARIBAS SAUDI ARABIA",
-  "bic": "BNPASARIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassaudiarabia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPASARIXXX"
 }

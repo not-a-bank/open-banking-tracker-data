@@ -8,7 +8,6 @@
   ],
   "name": "Banco Santander DE Negocios Colombia S.a.",
   "legalName": "BANCO SANTANDER DE NEGOCIOS COLOMBIA S.A.",
-  "bic": "NEGOCIOS",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEGOCIOS"
 }

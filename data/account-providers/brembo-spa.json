@@ -8,7 +8,6 @@
   ],
   "name": "BREMBO SPA",
   "legalName": "BREMBO SPA",
-  "bic": "BRMOIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brembospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRMOIT21XXX"
 }

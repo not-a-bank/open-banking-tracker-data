@@ -8,7 +8,6 @@
   ],
   "name": "ANDRA AP-FONDEN",
   "legalName": "ANDRA AP-FONDEN",
-  "bic": "ANAFSEG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.andraapfonden.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANAFSEG1XXX"
 }

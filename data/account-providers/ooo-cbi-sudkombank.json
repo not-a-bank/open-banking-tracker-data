@@ -8,7 +8,6 @@
   ],
   "name": "OOO CBI 'SUDKOMBANK'",
   "legalName": "OOO CBI 'SUDKOMBANK'",
-  "bic": "ICOSRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ooocbisudkombank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICOSRUM1XXX"
 }

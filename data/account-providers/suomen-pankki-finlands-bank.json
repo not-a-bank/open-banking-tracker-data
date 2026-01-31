@@ -8,7 +8,6 @@
   ],
   "name": "SUOMEN PANKKI - FINLANDS BANK",
   "legalName": "SUOMEN PANKKI - FINLANDS BANK",
-  "bic": "SPFBFIHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.suomenpankkifinlandsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPFBFIHHXXX"
 }

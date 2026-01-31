@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE CREDIT AGRICOLE MUTUEL CHAMPAGNE BOURGOGNE",
   "legalName": "CAISSE REGIONALE CREDIT AGRICOLE MUTUEL CHAMPAGNE BOURGOGNE",
-  "bic": "CEEEFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionalecreditagricolemutuelchampagne.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEEEFR21XXX"
 }

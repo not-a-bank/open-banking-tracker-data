@@ -8,7 +8,6 @@
   ],
   "name": "OROMIA INTERNATIONAL BANK S.C.",
   "legalName": "OROMIA INTERNATIONAL BANK S.C.",
-  "bic": "ORIRETAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oromiainternationalbanksc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORIRETAAXXX"
 }

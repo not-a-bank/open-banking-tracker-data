@@ -8,7 +8,6 @@
   ],
   "name": "EURO MID CAPS SECURITIES",
   "legalName": "EURO MID CAPS SECURITIES",
-  "bic": "EMCSFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euromidcapssecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EMCSFR21XXX"
 }

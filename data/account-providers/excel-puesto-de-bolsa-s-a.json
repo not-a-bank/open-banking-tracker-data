@@ -8,7 +8,6 @@
   ],
   "name": "EXCEL PUESTO DE BOLSA, S. A.",
   "legalName": "EXCEL PUESTO DE BOLSA, S. A.",
-  "bic": "EXPLDOD1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.excelpuestodebolsasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXPLDOD1XXX"
 }

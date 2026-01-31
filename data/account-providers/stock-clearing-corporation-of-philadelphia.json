@@ -8,7 +8,6 @@
   ],
   "name": "STOCK CLEARING CORPORATION OF PHILADELPHIA",
   "legalName": "STOCK CLEARING CORPORATION OF PHILADELPHIA",
-  "bic": "STCPUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stockclearingcorporationofphiladelphia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STCPUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SAMSUNG SECURITIES ASIA LTD",
   "legalName": "SAMSUNG SECURITIES ASIA LTD",
-  "bic": "SAMCHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.samsungsecuritiesasialtd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAMCHKH1XXX"
 }

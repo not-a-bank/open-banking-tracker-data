@@ -8,7 +8,6 @@
   ],
   "name": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
   "legalName": "NARODNA BANKA SLOVENSKA (NATIONAL BANK OF SLOVAKIA)",
-  "bic": "NBSBSKBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.narodnabankaslovenskanationalbankofslovakia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBSBSKBXXXX"
 }

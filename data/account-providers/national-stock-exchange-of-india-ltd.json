@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL STOCK EXCHANGE OF INDIA LTD.",
   "legalName": "NATIONAL STOCK EXCHANGE OF INDIA LTD.",
-  "bic": "XNSEINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalstockexchangeofindialtd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XNSEINB1XXX"
 }

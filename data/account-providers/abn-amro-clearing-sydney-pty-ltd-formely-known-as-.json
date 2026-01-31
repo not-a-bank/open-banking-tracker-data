@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO CLEARING SYDNEY PTY LTD. (FORMELY KNOWN AS FORTIS CLEARING SYDNEY PTY LTD)",
   "legalName": "ABN AMRO CLEARING SYDNEY PTY LTD. (FORMELY KNOWN AS FORTIS CLEARING SYDNEY PTY LTD)",
-  "bic": "FCSPAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamroclearingsydneyptyltdformelyknownas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCSPAU21XXX"
 }

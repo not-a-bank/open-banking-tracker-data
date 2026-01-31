@@ -8,7 +8,6 @@
   ],
   "name": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
   "legalName": "UBI BANCA SPA (FORMERLY BANCA POPOLARE DI BERGAMO SPA)",
-  "bic": "BEPOIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubibancaspaformerlybancapopolaredibergamos.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEPOIT21XXX"
 }

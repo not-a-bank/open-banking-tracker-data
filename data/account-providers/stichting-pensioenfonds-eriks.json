@@ -8,7 +8,6 @@
   ],
   "name": "STICHTING PENSIOENFONDS ERIKS",
   "legalName": "STICHTING PENSIOENFONDS ERIKS",
-  "bic": "STNKNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stichtingpensioenfondseriks.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STNKNL21XXX"
 }

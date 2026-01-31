@@ -8,7 +8,6 @@
   ],
   "name": "CORTAL CONSORS FRANCE",
   "legalName": "CORTAL CONSORS FRANCE",
-  "bic": "BCRTFRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cortalconsorsfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCRTFRA1XXX"
 }

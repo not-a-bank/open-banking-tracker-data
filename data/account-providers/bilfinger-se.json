@@ -8,7 +8,6 @@
   ],
   "name": "BILFINGER SE",
   "legalName": "BILFINGER SE",
-  "bic": "BILFDE5MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bilfingerse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BILFDE5MXXX"
 }

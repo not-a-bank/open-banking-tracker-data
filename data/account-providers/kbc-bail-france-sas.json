@@ -8,7 +8,6 @@
   ],
   "name": "KBC BAIL FRANCE SAS",
   "legalName": "KBC BAIL FRANCE SAS",
-  "bic": "KBBFFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcbailfrancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBBFFR21XXX"
 }

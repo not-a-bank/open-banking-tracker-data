@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE SECURITIES INC.",
   "legalName": "DEUTSCHE SECURITIES INC.",
-  "bic": "DEUTJPJ9XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschesecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTJPJ9XXX"
 }

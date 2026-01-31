@@ -8,7 +8,6 @@
   ],
   "name": "BAYBANK NORFOLK COUNTY TRUST CO.",
   "legalName": "BAYBANK NORFOLK COUNTY TRUST CO.",
-  "bic": "BNCYUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baybanknorfolkcountytrustco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNCYUS31XXX"
 }

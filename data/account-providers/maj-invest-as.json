@@ -8,7 +8,6 @@
   ],
   "name": "MAJ INVEST A/S",
   "legalName": "MAJ INVEST A/S",
-  "bic": "MAVVDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.majinvestas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAVVDKK1XXX"
 }

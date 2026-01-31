@@ -8,7 +8,6 @@
   ],
   "name": "PROXENTA FINANCE, O.C.P., A.S.",
   "legalName": "PROXENTA FINANCE, O.C.P., A.S.",
-  "bic": "PRFOSKB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.proxentafinanceocpas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRFOSKB1XXX"
 }

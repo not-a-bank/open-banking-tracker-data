@@ -8,7 +8,6 @@
   ],
   "name": "UBS SWISS FINANCIAL ADVISERS AG",
   "legalName": "UBS SWISS FINANCIAL ADVISERS AG",
-  "bic": "USFACHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsswissfinancialadvisersagch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USFACHZ1XXX"
 }

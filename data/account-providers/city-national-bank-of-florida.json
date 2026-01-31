@@ -8,7 +8,6 @@
   ],
   "name": "CITY NATIONAL BANK OF FLORIDA",
   "legalName": "CITY NATIONAL BANK OF FLORIDA",
-  "bic": "CNBFUS3MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citynationalbankofflorida.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNBFUS3MXXX"
 }

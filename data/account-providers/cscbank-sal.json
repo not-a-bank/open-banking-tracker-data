@@ -8,7 +8,6 @@
   ],
   "name": "CSCBANK SAL",
   "legalName": "CSCBANK SAL",
-  "bic": "CCSCLBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cscbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCSCLBBEXXX"
 }

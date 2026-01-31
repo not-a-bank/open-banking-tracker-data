@@ -8,7 +8,6 @@
   ],
   "name": "BBVA BANCOMER, S.A. HOUSTON",
   "legalName": "BBVA BANCOMER, S.A. HOUSTON",
-  "bic": "BCMRUS4HXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bbvabancomersahouston.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCMRUS4HXXX"
 }

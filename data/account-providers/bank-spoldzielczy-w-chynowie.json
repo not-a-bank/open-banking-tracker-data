@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W CHYNOWIE",
   "legalName": "BANK SPOLDZIELCZY W CHYNOWIE",
-  "bic": "SPCYPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywchynowie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPCYPLP1XXX"
 }

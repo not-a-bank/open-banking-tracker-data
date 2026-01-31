@@ -8,7 +8,6 @@
   ],
   "name": "INDOCHINA BANK LTD",
   "legalName": "INDOCHINA BANK LTD",
-  "bic": "IDCBLALAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indochinabankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IDCBLALAXXX"
 }

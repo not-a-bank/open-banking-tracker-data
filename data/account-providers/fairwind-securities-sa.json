@@ -8,7 +8,6 @@
   ],
   "name": "FAIRWIND SECURITIES S.A.",
   "legalName": "FAIRWIND SECURITIES S.A.",
-  "bic": "UNSUROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fairwindsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNSUROB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INTERCAPITAL BROKERS LTD",
   "legalName": "INTERCAPITAL BROKERS LTD",
-  "bic": "INBEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intercapitalbrokersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INBEGB21XXX"
 }

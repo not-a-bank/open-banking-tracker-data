@@ -8,7 +8,6 @@
   ],
   "name": "PSA BANK DEUTSCHLAND GMBH",
   "legalName": "PSA BANK DEUTSCHLAND GMBH",
-  "bic": "BPNDDE52XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.psabankdeutschlandgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPNDDE52XXX"
 }

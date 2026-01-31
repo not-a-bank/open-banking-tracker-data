@@ -8,7 +8,6 @@
   ],
   "name": "Bank Negara Indonesia - PT (persero)",
   "legalName": "BANK NEGARA INDONESIA - PT (PERSERO)",
-  "bic": "BNINIDJALGS",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNINIDJALGS"
 }

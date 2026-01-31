@@ -8,7 +8,6 @@
   ],
   "name": "BANK SOYUZ",
   "legalName": "BANK SOYUZ",
-  "bic": "JCAMRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banksoyuz.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JCAMRUM1XXX"
 }

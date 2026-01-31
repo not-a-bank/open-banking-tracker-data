@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK SUDHARDT EG",
   "legalName": "RAIFFEISENBANK SUDHARDT EG",
-  "bic": "RAUUDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbanksudhardteg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAUUDE51XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CANADA DEPOSIT INSURANCE CORPORATION",
   "legalName": "CANADA DEPOSIT INSURANCE CORPORATION",
-  "bic": "CDICCAW2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.canadadepositinsurancecorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDICCAW2XXX"
 }

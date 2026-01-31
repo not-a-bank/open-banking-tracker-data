@@ -1,0 +1,37 @@
+{
+  "id": "pleo",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Pleo",
+  "legalName": "Pleo",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.pleo.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "DK",
+  "countries": [
+    "DK",
+    "GB",
+    "DE",
+    "SE",
+    "ES",
+    "IE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "PLEODK00"
+}

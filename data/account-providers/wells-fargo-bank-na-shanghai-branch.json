@@ -8,7 +8,6 @@
   ],
   "name": "WELLS FARGO BANK, NA, SHANGHAI BRANCH",
   "legalName": "WELLS FARGO BANK, NA, SHANGHAI BRANCH",
-  "bic": "PNBPCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wellsfargobanknashanghaibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBPCNSHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. CONGO",
   "legalName": "BANQUE DES ETATS DE L'AFRIQUE CENTRALE D.N. CONGO",
-  "bic": "BEACCGCGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedesetatsdelafriquecentraledncongo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEACCGCGXXX"
 }

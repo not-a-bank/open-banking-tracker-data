@@ -8,7 +8,6 @@
   ],
   "name": "MSD CAPITAL (EUROPE) LLP",
   "legalName": "MSD CAPITAL (EUROPE) LLP",
-  "bic": "MCELGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.msdcapitaleuropellp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCELGB21XXX"
 }

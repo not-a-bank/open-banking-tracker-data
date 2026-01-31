@@ -8,7 +8,6 @@
   ],
   "name": "ASSURANCE DU CREDIT MUTUEL",
   "legalName": "ASSURANCE DU CREDIT MUTUEL",
-  "bic": "ASCTFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.assuranceducreditmutuel.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASCTFRP1XXX"
 }

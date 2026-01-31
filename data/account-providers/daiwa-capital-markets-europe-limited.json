@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA CAPITAL MARKETS EUROPE LIMITED",
   "legalName": "DAIWA CAPITAL MARKETS EUROPE LIMITED",
-  "bic": "DEFLGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwacapitalmarketseuropelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEFLGB22XXX"
 }

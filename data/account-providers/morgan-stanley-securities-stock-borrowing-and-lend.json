@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY SECURITIES (STOCK BORROWING AND LENDING INTERMEDIARY) LTD.",
   "legalName": "MORGAN STANLEY SECURITIES (STOCK BORROWING AND LENDING INTERMEDIARY) LTD.",
-  "bic": "MSSSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleysecuritiesstockborrowingandlend.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSSSGB21XXX"
 }

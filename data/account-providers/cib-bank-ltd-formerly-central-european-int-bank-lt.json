@@ -8,7 +8,6 @@
   ],
   "name": "CIB Bank Ltd. (formerly Central-european Int.bank Ltd.)",
   "legalName": "CIB BANK LTD. (FORMERLY CENTRAL-EUROPEAN INT.BANK LTD.)",
-  "bic": "EUROPEAN",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUROPEAN"
 }

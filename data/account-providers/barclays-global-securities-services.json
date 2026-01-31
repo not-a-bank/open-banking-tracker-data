@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS GLOBAL SECURITIES SERVICES",
   "legalName": "BARCLAYS GLOBAL SECURITIES SERVICES",
-  "bic": "BARCGB31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysglobalsecuritiesservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCGB31XXX"
 }

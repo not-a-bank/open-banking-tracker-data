@@ -9,7 +9,6 @@
   ],
   "name": "LANDESBANK SAAR",
   "legalName": "LANDESBANK SAAR",
-  "bic": "SALADE55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/landesbank_saar_de.svg",
@@ -36,5 +35,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SALADE55XXX"
 }

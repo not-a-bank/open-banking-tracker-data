@@ -8,7 +8,6 @@
   ],
   "name": "BUSINESS DEVELOPMENT BANK OF CANADA",
   "legalName": "BUSINESS DEVELOPMENT BANK OF CANADA",
-  "bic": "FBDBCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.businessdevelopmentbankofcanada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBDBCAM1XXX"
 }

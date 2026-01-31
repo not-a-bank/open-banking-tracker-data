@@ -9,7 +9,6 @@
   ],
   "name": "PSD BANK RHEINNECKARSAAR EG",
   "legalName": "PSD BANK RHEINNECKARSAAR EG",
-  "bic": "PSDRDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_raiffeisen_psd_rheinneckarsaar_client_de.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSDRDE51XXX"
 }

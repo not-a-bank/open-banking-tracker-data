@@ -8,7 +8,6 @@
   ],
   "name": "PROCREDIT BANK CONGO SA",
   "legalName": "PROCREDIT BANK CONGO SA",
-  "bic": "PRCBCDKIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.procreditbankcongosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRCBCDKIXXX"
 }

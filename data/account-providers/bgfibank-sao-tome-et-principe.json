@@ -8,7 +8,6 @@
   ],
   "name": "BGFIBANK SAO TOME ET PRINCIPE",
   "legalName": "BGFIBANK SAO TOME ET PRINCIPE",
-  "bic": "BGFISTSTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bgfibanksaotomeetprincipe.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGFISTSTXXX"
 }

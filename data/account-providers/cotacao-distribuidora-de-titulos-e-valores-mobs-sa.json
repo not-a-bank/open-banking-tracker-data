@@ -8,7 +8,6 @@
   ],
   "name": "COTACAO DISTRIBUIDORA DE TITULOS E VALORES MOBS S/A",
   "legalName": "COTACAO DISTRIBUIDORA DE TITULOS E VALORES MOBS S/A",
-  "bic": "CDTVBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cotacaodistribuidoradetitulosevaloresmobssa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDTVBRS1XXX"
 }

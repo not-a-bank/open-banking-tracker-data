@@ -8,7 +8,6 @@
   ],
   "name": "EVROFINANCE MOSNARBANK",
   "legalName": "EVROFINANCE MOSNARBANK",
-  "bic": "EVRFRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.evrofinancemosnarbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EVRFRUM1XXX"
 }

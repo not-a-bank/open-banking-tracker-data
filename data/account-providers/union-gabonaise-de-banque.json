@@ -8,7 +8,6 @@
   ],
   "name": "UNION GABONAISE DE BANQUE",
   "legalName": "UNION GABONAISE DE BANQUE",
-  "bic": "UGABGALIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uniongabonaisedebanque.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UGABGALIXXX"
 }

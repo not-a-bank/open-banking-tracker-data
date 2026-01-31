@@ -8,7 +8,6 @@
   ],
   "name": "SOFINGEST - SOCIETE FINANCIERE D'INVESTISSEMENT ET DE GESTION",
   "legalName": "SOFINGEST - SOCIETE FINANCIERE D'INVESTISSEMENT ET DE GESTION",
-  "bic": "SFIGFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sofingestsocietefinancieredinvestissementetde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFIGFRP1XXX"
 }

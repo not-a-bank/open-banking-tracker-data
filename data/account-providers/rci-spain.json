@@ -8,7 +8,6 @@
   ],
   "name": "RCI SPAIN",
   "legalName": "RCI SPAIN",
-  "bic": "RCINESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rcispain.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCINESM1XXX"
 }

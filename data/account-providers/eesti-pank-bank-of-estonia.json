@@ -8,7 +8,6 @@
   ],
   "name": "Eesti Pank (bank OF Estonia)",
   "legalName": "EESTI PANK (BANK OF ESTONIA)",
-  "bic": "EPBEEE2XECM",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EPBEEE2XECM"
 }

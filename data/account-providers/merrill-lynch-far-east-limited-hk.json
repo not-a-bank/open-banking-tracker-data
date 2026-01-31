@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH FAR EAST LIMITED",
   "legalName": "MERRILL LYNCH FAR EAST LIMITED",
-  "bic": "MLPFHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchfareastlimitedhk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLPFHKH1XXX"
 }

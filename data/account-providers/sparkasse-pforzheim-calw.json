@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE PFORZHEIM CALW",
   "legalName": "SPARKASSE PFORZHEIM CALW",
-  "bic": "PZHSDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassepforzheimcalw.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PZHSDE66XXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "DEUTSCHE BUNDESBANK",
   "legalName": "DEUTSCHE BUNDESBANK",
-  "bic": "MARKDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/bundesbank_de.svg",
@@ -30,11 +29,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "salt-edge",
     "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MARKDEFFXXX"
 }

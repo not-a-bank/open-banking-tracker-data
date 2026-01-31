@@ -8,7 +8,6 @@
   ],
   "name": "PNB REPUBLIC BANK",
   "legalName": "PNB REPUBLIC BANK",
-  "bic": "RPBAPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pnbrepublicbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RPBAPHM1XXX"
 }

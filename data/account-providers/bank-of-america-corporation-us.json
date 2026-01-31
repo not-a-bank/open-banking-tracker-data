@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA CORPORATION",
   "legalName": "BANK OF AMERICA CORPORATION",
-  "bic": "MLCOUS3BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericacorporationus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLCOUS3BXXX"
 }

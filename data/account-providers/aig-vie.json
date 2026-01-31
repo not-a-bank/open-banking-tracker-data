@@ -8,7 +8,6 @@
   ],
   "name": "AIG VIE",
   "legalName": "AIG VIE",
-  "bic": "AIGVFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aigvie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIGVFR21XXX"
 }

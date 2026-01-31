@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS FINANCE CO (GUERNSEY) LTD",
   "legalName": "BARCLAYS FINANCE CO (GUERNSEY) LTD",
-  "bic": "BGUEGGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysfinancecoguernseyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGUEGGS1XXX"
 }

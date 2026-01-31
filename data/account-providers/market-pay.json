@@ -8,7 +8,6 @@
   ],
   "name": "MARKET PAY",
   "legalName": "MARKET PAY",
-  "bic": "MAKPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.marketpay.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAKPFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FRANKFURTER VOLKSBANK EG",
   "legalName": "FRANKFURTER VOLKSBANK EG",
-  "bic": "FFVBDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.frankfurtervolksbankegde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FFVBDEFFXXX"
 }

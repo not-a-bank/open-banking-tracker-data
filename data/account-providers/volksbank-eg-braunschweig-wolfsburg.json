@@ -9,7 +9,6 @@
   ],
   "name": "VOLKSBANK EG BRAUNSCHWEIG WOLFSBURG",
   "legalName": "VOLKSBANK EG BRAUNSCHWEIG WOLFSBURG",
-  "bic": "VOBFDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOBFDE21XXX"
 }

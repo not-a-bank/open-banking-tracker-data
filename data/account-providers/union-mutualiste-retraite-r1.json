@@ -8,7 +8,6 @@
   ],
   "name": "UNION MUTUALISTE RETRAITE R1",
   "legalName": "UNION MUTUALISTE RETRAITE R1",
-  "bic": "UMURFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unionmutualisteretraiter1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UMURFRP1XXX"
 }

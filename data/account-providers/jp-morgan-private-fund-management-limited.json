@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN PRIVATE FUND MANAGEMENT LIMITED",
   "legalName": "J.P. MORGAN PRIVATE FUND MANAGEMENT LIMITED",
-  "bic": "FPFMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganprivatefundmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FPFMGB21XXX"
 }

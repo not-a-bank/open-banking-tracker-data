@@ -8,7 +8,6 @@
   ],
   "name": "COOPERATIVE BANK OF DODECANESE",
   "legalName": "COOPERATIVE BANK OF DODECANESE",
-  "bic": "STDOGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cooperativebankofdodecanese.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STDOGRA1XXX"
 }

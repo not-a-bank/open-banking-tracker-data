@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK OF DJIBOUTI SA",
   "legalName": "COMMERCIAL BANK OF DJIBOUTI SA",
-  "bic": "CBDJDJJDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankofdjiboutisa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBDJDJJDXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ARTE FRANCE",
   "legalName": "ARTE FRANCE",
-  "bic": "ARFRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.artefrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARFRFRP1XXX"
 }

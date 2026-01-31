@@ -8,7 +8,6 @@
   ],
   "name": "DEXIA KOMMUNALBANK DEUTSCHLAND AG",
   "legalName": "DEXIA KOMMUNALBANK DEUTSCHLAND AG",
-  "bic": "DXIADEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dexiakommunalbankdeutschlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DXIADEBBXXX"
 }

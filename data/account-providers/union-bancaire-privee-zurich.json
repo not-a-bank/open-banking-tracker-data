@@ -8,7 +8,6 @@
   ],
   "name": "UNION BANCAIRE PRIVEE, ZURICH",
   "legalName": "UNION BANCAIRE PRIVEE, ZURICH",
-  "bic": "UBPGCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unionbancairepriveezurich.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBPGCHZZXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BRI ASSET MANAGEMENT PLC",
   "legalName": "BRI ASSET MANAGEMENT PLC",
-  "bic": "BRSMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.briassetmanagementplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRSMGB21XXX"
 }

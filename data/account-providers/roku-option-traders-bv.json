@@ -8,7 +8,6 @@
   ],
   "name": "ROKU OPTION TRADERS B.V.",
   "legalName": "ROKU OPTION TRADERS B.V.",
-  "bic": "ROPTNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rokuoptiontradersbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROPTNL21XXX"
 }

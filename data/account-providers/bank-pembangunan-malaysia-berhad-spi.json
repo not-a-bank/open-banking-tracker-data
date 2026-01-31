@@ -8,7 +8,6 @@
   ],
   "name": "BANK PEMBANGUNAN MALAYSIA BERHAD-SPI",
   "legalName": "BANK PEMBANGUNAN MALAYSIA BERHAD-SPI",
-  "bic": "PEMBMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankpembangunanmalaysiaberhadspi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PEMBMY21XXX"
 }

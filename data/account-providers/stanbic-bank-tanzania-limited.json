@@ -8,7 +8,6 @@
   ],
   "name": "STANBIC BANK TANZANIA LIMITED",
   "legalName": "STANBIC BANK TANZANIA LIMITED",
-  "bic": "SBICTZTXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stanbicbanktanzanialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBICTZTXXXX"
 }

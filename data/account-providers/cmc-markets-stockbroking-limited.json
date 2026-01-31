@@ -8,7 +8,6 @@
   ],
   "name": "CMC MARKETS STOCKBROKING LIMITED",
   "legalName": "CMC MARKETS STOCKBROKING LIMITED",
-  "bic": "CMMTAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cmcmarketsstockbrokinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMMTAU21XXX"
 }

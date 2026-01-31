@@ -8,7 +8,6 @@
   ],
   "name": "DIRECTCASH BANK",
   "legalName": "DIRECTCASH BANK",
-  "bic": "DIEECA66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.directcashbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DIEECA66XXX"
 }

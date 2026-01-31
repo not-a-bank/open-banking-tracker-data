@@ -8,7 +8,6 @@
   ],
   "name": "PENSERRA SECURITIES LLC",
   "legalName": "PENSERRA SECURITIES LLC",
-  "bic": "PESLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.penserrasecuritiesllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PESLUS31XXX"
 }

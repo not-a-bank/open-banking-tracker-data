@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA (SINGAPORE) LTD.",
   "legalName": "BANK OF AMERICA (SINGAPORE) LTD.",
-  "bic": "BOFASG3XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericasingaporeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFASG3XXXX"
 }

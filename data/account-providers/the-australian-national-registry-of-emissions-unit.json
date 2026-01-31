@@ -8,7 +8,6 @@
   ],
   "name": "THE AUSTRALIAN NATIONAL REGISTRY OF EMISSIONS UNITS",
   "legalName": "THE AUSTRALIAN NATIONAL REGISTRY OF EMISSIONS UNITS",
-  "bic": "ANRMAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theaustraliannationalregistryofemissionsunit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANRMAU21XXX"
 }

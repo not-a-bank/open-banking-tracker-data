@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE ASSET MANAGEMENT INVESTMENTGESELLSCHAFT MBH",
   "legalName": "DEUTSCHE ASSET MANAGEMENT INVESTMENTGESELLSCHAFT MBH",
-  "bic": "DGOMDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutscheassetmanagementinvestmentgesellschaftm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DGOMDEF1XXX"
 }

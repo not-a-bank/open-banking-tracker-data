@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO CLEARING BANK N.V., LONDON BRANCH( FORMELY KNOWN AS FORTIS BANK GLOBAL CLEARING N.V.)",
   "legalName": "ABN AMRO CLEARING BANK N.V., LONDON BRANCH( FORMELY KNOWN AS FORTIS BANK GLOBAL CLEARING N.V.)",
-  "bic": "MEESGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamroclearingbanknvlondonbranchformelykn.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEESGB21XXX"
 }

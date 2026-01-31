@@ -8,7 +8,6 @@
   ],
   "name": "CONVENCAO S/A CORRETORA DE VALORES E CAMBIO",
   "legalName": "CONVENCAO S/A CORRETORA DE VALORES E CAMBIO",
-  "bic": "CCVCBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.convencaosacorretoradevaloresecambio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCVCBRS1XXX"
 }

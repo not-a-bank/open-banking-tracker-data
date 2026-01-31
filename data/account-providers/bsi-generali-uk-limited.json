@@ -8,7 +8,6 @@
   ],
   "name": "BSI GENERALI UK LIMITED",
   "legalName": "BSI GENERALI UK LIMITED",
-  "bic": "BSIGGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bsigeneraliuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSIGGB21XXX"
 }

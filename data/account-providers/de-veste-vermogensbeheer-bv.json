@@ -8,7 +8,6 @@
   ],
   "name": "DE VESTE VERMOGENSBEHEER B.V.",
   "legalName": "DE VESTE VERMOGENSBEHEER B.V.",
-  "bic": "VESVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.devestevermogensbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VESVNL21XXX"
 }

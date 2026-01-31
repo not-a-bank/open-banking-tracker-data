@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE FEDERALE DE COMMERCE",
   "legalName": "BANQUE FEDERALE DE COMMERCE",
-  "bic": "BFDCKMKMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquefederaledecommerce.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFDCKMKMXXX"
 }

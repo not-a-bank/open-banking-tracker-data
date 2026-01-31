@@ -8,7 +8,6 @@
   ],
   "name": "VAKIFBANK INTERNATIONAL AG",
   "legalName": "VAKIFBANK INTERNATIONAL AG",
-  "bic": "TVBADEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vakifbankinternationalagde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TVBADEFFXXX"
 }

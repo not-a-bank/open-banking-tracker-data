@@ -8,7 +8,6 @@
   ],
   "name": "BBM BANK LIMITED",
   "legalName": "BBM BANK LIMITED",
-  "bic": "BBINBSNXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bbmbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBINBSNXXXX"
 }

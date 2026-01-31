@@ -8,7 +8,6 @@
   ],
   "name": "FIDELITY BANK (BAHAMAS) LIMITED",
   "legalName": "FIDELITY BANK (BAHAMAS) LIMITED",
-  "bic": "BTAMBSNSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidelitybankbahamaslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTAMBSNSXXX"
 }

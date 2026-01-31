@@ -8,7 +8,6 @@
   ],
   "name": "Imex Banka Ltd.",
   "legalName": "IMEX BANKA LTD.",
-  "bic": "IMXXHR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.imexbanka.hr.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMXXHR22XXX"
 }

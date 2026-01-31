@@ -8,7 +8,6 @@
   ],
   "name": "AS Citadele Banka Eesti Filiaal",
   "legalName": "AS CITADELE BANKA EESTI FILIAAL",
-  "bic": "CITADELE",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITADELE"
 }

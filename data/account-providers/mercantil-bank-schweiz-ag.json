@@ -8,7 +8,6 @@
   ],
   "name": "MERCANTIL BANK (SCHWEIZ) AG",
   "legalName": "MERCANTIL BANK (SCHWEIZ) AG",
-  "bic": "BAMRCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mercantilbankschweizag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAMRCHZZXXX"
 }

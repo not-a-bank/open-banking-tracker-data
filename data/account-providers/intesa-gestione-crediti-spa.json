@@ -8,7 +8,6 @@
   ],
   "name": "INTESA GESTIONE CREDITI S.P.A.",
   "legalName": "INTESA GESTIONE CREDITI S.P.A.",
-  "bic": "INGCITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intesagestionecreditispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGCITM1XXX"
 }

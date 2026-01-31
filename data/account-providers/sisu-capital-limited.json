@@ -8,7 +8,6 @@
   ],
   "name": "SISU CAPITAL LIMITED",
   "legalName": "SISU CAPITAL LIMITED",
-  "bic": "SICTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sisucapitallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SICTGB21XXX"
 }

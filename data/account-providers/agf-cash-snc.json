@@ -8,7 +8,6 @@
   ],
   "name": "AGF CASH SNC",
   "legalName": "AGF CASH SNC",
-  "bic": "AGCSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agfcashsnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGCSFRP1XXX"
 }

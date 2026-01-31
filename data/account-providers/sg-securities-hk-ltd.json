@@ -8,7 +8,6 @@
   ],
   "name": "SG SECURITIES (HK) LTD.",
   "legalName": "SG SECURITIES (HK) LTD.",
-  "bic": "SGSLTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sgsecuritieshkltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGSLTWT1XXX"
 }

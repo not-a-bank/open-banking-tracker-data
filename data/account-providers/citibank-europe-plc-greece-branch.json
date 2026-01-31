@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK EUROPE PLC GREECE BRANCH",
   "legalName": "CITIBANK EUROPE PLC GREECE BRANCH",
-  "bic": "CITIGRAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankeuropeplcgreecebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIGRAAXXX"
 }

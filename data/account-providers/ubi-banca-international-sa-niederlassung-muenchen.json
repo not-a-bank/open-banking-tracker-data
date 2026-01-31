@@ -8,7 +8,6 @@
   ],
   "name": "UBI BANCA INTERNATIONAL S.A., NIEDERLASSUNG MUENCHEN",
   "legalName": "UBI BANCA INTERNATIONAL S.A., NIEDERLASSUNG MUENCHEN",
-  "bic": "BEPODEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubibancainternationalsaniederlassungmuenchen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEPODEMMXXX"
 }

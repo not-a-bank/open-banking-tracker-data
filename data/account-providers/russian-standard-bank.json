@@ -8,7 +8,6 @@
   ],
   "name": "RUSSIAN STANDARD BANK",
   "legalName": "RUSSIAN STANDARD BANK",
-  "bic": "RSJSRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.russianstandardbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RSJSRUMMXXX"
 }

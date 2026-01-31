@@ -8,7 +8,6 @@
   ],
   "name": "INDOSUEZ CAPITAL DTVM S/A",
   "legalName": "INDOSUEZ CAPITAL DTVM S/A",
-  "bic": "DTVMBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indosuezcapitaldtvmsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DTVMBRS1XXX"
 }

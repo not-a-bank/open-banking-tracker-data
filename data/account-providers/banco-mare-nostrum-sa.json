@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MARE NOSTRUM, S.A.",
   "legalName": "BANCO MARE NOSTRUM, S.A.",
-  "bic": "GBMNESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomarenostrumsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GBMNESMMXXX"
 }

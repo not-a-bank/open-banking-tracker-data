@@ -8,7 +8,6 @@
   ],
   "name": "ETC Surety SA",
   "legalName": "ETC SURETY SA",
-  "bic": "ETCSCMC2XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETCSCMC2XXX"
 }

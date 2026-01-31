@@ -8,7 +8,6 @@
   ],
   "name": "Chittagong Stock Exchange Ltd.",
   "legalName": "CHITTAGONG STOCK EXCHANGE LTD.",
-  "bic": "CHSXBDD2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chittagongstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHSXBDD2XXX"
 }

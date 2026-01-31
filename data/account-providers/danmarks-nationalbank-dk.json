@@ -8,7 +8,6 @@
   ],
   "name": "DANMARKS NATIONALBANK",
   "legalName": "DANMARKS NATIONALBANK",
-  "bic": "DKNBDKK3XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.danmarksnationalbankdk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DKNBDKK3XXX"
 }

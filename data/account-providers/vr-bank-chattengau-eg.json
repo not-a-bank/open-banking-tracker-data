@@ -8,7 +8,6 @@
   ],
   "name": "VR-BANK CHATTENGAU EG",
   "legalName": "VR-BANK CHATTENGAU EG",
-  "bic": "VRCHDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vrbankchattengaueg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VRCHDE51XXX"
 }

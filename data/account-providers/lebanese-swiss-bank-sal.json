@@ -8,7 +8,6 @@
   ],
   "name": "LEBANESE SWISS BANK SAL",
   "legalName": "LEBANESE SWISS BANK SAL",
-  "bic": "LEBSLBBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lebaneseswissbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LEBSLBBXXXX"
 }

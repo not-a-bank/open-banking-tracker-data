@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERA UNO S.A.",
   "legalName": "FINANCIERA UNO S.A.",
-  "bic": "FIUNGTG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financieraunosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIUNGTG1XXX"
 }

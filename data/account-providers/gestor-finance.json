@@ -8,7 +8,6 @@
   ],
   "name": "GESTOR FINANCE",
   "legalName": "GESTOR FINANCE",
-  "bic": "GESFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gestorfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GESFFRP1XXX"
 }

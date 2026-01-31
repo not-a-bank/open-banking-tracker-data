@@ -8,7 +8,6 @@
   ],
   "name": "GEL S.P.A.",
   "legalName": "GEL S.P.A.",
-  "bic": "GELGIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gelspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GELGIT21XXX"
 }

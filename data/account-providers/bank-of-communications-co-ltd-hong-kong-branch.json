@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Communications Co., Ltd. Hong Kong Branch",
   "legalName": "BANK OF COMMUNICATIONS CO., LTD. HONG KONG BRANCH",
-  "bic": "COMMHKHHMTG",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COMMHKHHMTG"
 }

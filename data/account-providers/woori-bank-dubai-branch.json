@@ -8,7 +8,6 @@
   ],
   "name": "WOORI BANK DUBAI BRANCH",
   "legalName": "WOORI BANK DUBAI BRANCH",
-  "bic": "HVBKAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wooribankdubaibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HVBKAEADXXX"
 }

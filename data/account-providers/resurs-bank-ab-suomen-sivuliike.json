@@ -8,7 +8,6 @@
   ],
   "name": "RESURS BANK AB SUOMEN SIVULIIKE",
   "legalName": "RESURS BANK AB SUOMEN SIVULIIKE",
-  "bic": "RESKFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.resursbankabsuomensivuliike.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RESKFIH1XXX"
 }

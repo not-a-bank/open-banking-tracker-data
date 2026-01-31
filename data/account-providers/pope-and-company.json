@@ -8,7 +8,6 @@
   ],
   "name": "POPE AND COMPANY",
   "legalName": "POPE AND COMPANY",
-  "bic": "PPECCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.popeandcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PPECCAT1XXX"
 }

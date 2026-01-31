@@ -8,7 +8,6 @@
   ],
   "name": "HANWHA SECURITIES SEOUL",
   "legalName": "HANWHA SECURITIES SEOUL",
-  "bic": "HNWSKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hanwhasecuritiesseoul.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HNWSKRS1XXX"
 }

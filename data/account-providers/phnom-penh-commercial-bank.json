@@ -8,7 +8,6 @@
   ],
   "name": "PHNOM PENH COMMERCIAL BANK",
   "legalName": "PHNOM PENH COMMERCIAL BANK",
-  "bic": "PPCBKHPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.phnompenhcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PPCBKHPPXXX"
 }

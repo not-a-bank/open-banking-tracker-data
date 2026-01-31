@@ -8,7 +8,6 @@
   ],
   "name": "BELFIUS BANK SA/NV, DUBLIN BRANCH",
   "legalName": "BELFIUS BANK SA/NV, DUBLIN BRANCH",
-  "bic": "DXIAIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.belfiusbanksanvdublinbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DXIAIE2DXXX"
 }

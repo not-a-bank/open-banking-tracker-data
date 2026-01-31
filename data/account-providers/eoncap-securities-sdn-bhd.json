@@ -8,7 +8,6 @@
   ],
   "name": "EONCAP SECURITIES SDN BHD",
   "legalName": "EONCAP SECURITIES SDN BHD",
-  "bic": "ESSHMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eoncapsecuritiessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESSHMYK1XXX"
 }

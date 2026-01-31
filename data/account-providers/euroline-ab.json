@@ -8,7 +8,6 @@
   ],
   "name": "EUROLINE AB",
   "legalName": "EUROLINE AB",
-  "bic": "EUOLSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurolineab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUOLSES1XXX"
 }

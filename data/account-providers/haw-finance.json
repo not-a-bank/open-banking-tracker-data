@@ -8,7 +8,6 @@
   ],
   "name": "HAW FINANCE",
   "legalName": "HAW FINANCE",
-  "bic": "HAFIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hawfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAFIFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO AUTOFIN MEXICO",
   "legalName": "BANCO AUTOFIN MEXICO",
-  "bic": "AUMCMXMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoautofinmexico.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUMCMXMMXXX"
 }

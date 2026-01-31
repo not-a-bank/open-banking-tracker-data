@@ -8,7 +8,6 @@
   ],
   "name": "EVO BANCO S.A.",
   "legalName": "EVO BANCO S.A.",
-  "bic": "EVOBESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.evobancosa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EVOBESMM"
 }

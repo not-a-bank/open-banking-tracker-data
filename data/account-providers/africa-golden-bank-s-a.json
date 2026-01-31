@@ -8,7 +8,6 @@
   ],
   "name": "Africa Golden Bank S.A",
   "legalName": "AFRICA GOLDEN BANK S.A",
-  "bic": "AGBDCMCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.africagoldenbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGBDCMCXXXX"
 }

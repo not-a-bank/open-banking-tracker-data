@@ -8,7 +8,6 @@
   ],
   "name": "EUROWIRE CLEARING CORPORATION",
   "legalName": "EUROWIRE CLEARING CORPORATION",
-  "bic": "EULOKNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurowireclearingcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EULOKNS1XXX"
 }

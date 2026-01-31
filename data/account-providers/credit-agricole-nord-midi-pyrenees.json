@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole Nord Midi-Pyr\u00e9n\u00e9es",
-  "legalName": "Cr\u00e9dit Agricole Nord Midi-Pyr\u00e9n\u00e9es",
+  "name": "Crédit Agricole Nord Midi-Pyrénées",
+  "legalName": "Crédit Agricole Nord Midi-Pyrénées",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-nord-midi-pyrenees.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

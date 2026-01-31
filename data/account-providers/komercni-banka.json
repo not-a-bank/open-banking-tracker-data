@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Komer\u010dn\u00ed banka",
-  "legalName": "Komer\u010dn\u00ed banka",
+  "name": "Komerční banka",
+  "legalName": "Komerční banka",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.komercni-banka.com.ico",
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOMBCZPPXXX"
 }

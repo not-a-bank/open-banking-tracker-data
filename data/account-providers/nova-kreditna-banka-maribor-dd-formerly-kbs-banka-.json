@@ -8,7 +8,6 @@
   ],
   "name": "NOVA KREDITNA BANKA MARIBOR D.D. (FORMERLY KBS BANKA D.D.)",
   "legalName": "NOVA KREDITNA BANKA MARIBOR D.D. (FORMERLY KBS BANKA D.D.)",
-  "bic": "KREKSI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novakreditnabankamariborddformerlykbsbanka.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KREKSI22XXX"
 }

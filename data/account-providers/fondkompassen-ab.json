@@ -8,7 +8,6 @@
   ],
   "name": "FONDKOMPASSEN AB",
   "legalName": "FONDKOMPASSEN AB",
-  "bic": "FONNSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fondkompassenab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FONNSES1XXX"
 }

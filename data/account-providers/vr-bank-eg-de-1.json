@@ -8,7 +8,6 @@
   ],
   "name": "VR-BANK EG",
   "legalName": "VR-BANK EG",
-  "bic": "VRNADE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vrbankegde1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VRNADE81XXX"
 }

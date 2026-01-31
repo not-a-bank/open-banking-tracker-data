@@ -8,7 +8,6 @@
   ],
   "name": "BANCA UCB S.P.A.",
   "legalName": "BANCA UCB S.P.A.",
-  "bic": "UCBUITT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaucbspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UCBUITT1XXX"
 }

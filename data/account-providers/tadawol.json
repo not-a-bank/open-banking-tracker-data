@@ -8,7 +8,6 @@
   ],
   "name": "TADAWOL",
   "legalName": "TADAWOL",
-  "bic": "TADAJOA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tadawol.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TADAJOA1XXX"
 }

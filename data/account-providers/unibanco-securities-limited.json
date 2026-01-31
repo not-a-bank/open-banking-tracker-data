@@ -8,7 +8,6 @@
   ],
   "name": "UNIBANCO SECURITIES LIMITED",
   "legalName": "UNIBANCO SECURITIES LIMITED",
-  "bic": "STRPGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unibancosecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STRPGB21XXX"
 }

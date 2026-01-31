@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN SECURITIES PHILIPPINES INC.",
   "legalName": "J.P. MORGAN SECURITIES PHILIPPINES INC.",
-  "bic": "CHASPHS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorgansecuritiesphilippinesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASPHS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PRUDENTIAL-BACHE FOREX (USA) INC",
   "legalName": "PRUDENTIAL-BACHE FOREX (USA) INC",
-  "bic": "PBIBUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.prudentialbacheforexusainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBIBUS31XXX"
 }

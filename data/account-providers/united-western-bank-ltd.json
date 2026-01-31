@@ -8,7 +8,6 @@
   ],
   "name": "UNITED WESTERN BANK LTD.",
   "legalName": "UNITED WESTERN BANK LTD.",
-  "bic": "UWBAINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedwesternbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UWBAINB1XXX"
 }

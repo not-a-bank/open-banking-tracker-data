@@ -8,7 +8,6 @@
   ],
   "name": "EBANK GF CASH",
   "legalName": "EBANK GF CASH",
-  "bic": "EDECDEH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ebankgfcash.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EDECDEH1XXX"
 }

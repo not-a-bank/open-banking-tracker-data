@@ -8,7 +8,6 @@
   ],
   "name": "SOBHAG STOCKBROKING LTD.",
   "legalName": "SOBHAG STOCKBROKING LTD.",
-  "bic": "SOBSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sobhagstockbrokingltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOBSGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CASSA DEL TRENTINO SPA SOC.FINANZ.P",
   "legalName": "CASSA DEL TRENTINO SPA SOC.FINANZ.P",
-  "bic": "CTRFIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cassadeltrentinospasocfinanzp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTRFIT21XXX"
 }

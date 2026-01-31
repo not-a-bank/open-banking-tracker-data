@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CENTRAL DEL URUGUAY",
   "legalName": "BANCO CENTRAL DEL URUGUAY",
-  "bic": "CBCUUYMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocentraldeluruguayuy1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBCUUYMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SIA 'SEMFOPAY'",
   "legalName": "SIA 'SEMFOPAY'",
-  "bic": "SEFMLV2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.siasemfopay.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEFMLV2XXXX"
 }

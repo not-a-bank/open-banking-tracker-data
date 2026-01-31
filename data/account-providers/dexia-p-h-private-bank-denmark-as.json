@@ -8,7 +8,6 @@
   ],
   "name": "DEXIA P-H PRIVATE BANK DENMARK A/S",
   "legalName": "DEXIA P-H PRIVATE BANK DENMARK A/S",
-  "bic": "BILLDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dexiaphprivatebankdenmarkas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BILLDK21XXX"
 }

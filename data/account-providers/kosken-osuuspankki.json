@@ -8,7 +8,6 @@
   ],
   "name": "KOSKEN OSUUSPANKKI",
   "legalName": "KOSKEN OSUUSPANKKI",
-  "bic": "KOOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.koskenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOOSFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT LYONNAIS ROUSE (FRANCE) SNC",
   "legalName": "CREDIT LYONNAIS ROUSE (FRANCE) SNC",
-  "bic": "ROUSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditlyonnaisrousefrancesnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROUSFRP1XXX"
 }

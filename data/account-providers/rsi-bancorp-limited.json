@@ -8,7 +8,6 @@
   ],
   "name": "RSI BANCORP LIMITED",
   "legalName": "RSI BANCORP LIMITED",
-  "bic": "RSBCHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rsibancorplimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RSBCHKH1XXX"
 }

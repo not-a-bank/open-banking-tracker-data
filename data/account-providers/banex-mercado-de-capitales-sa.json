@@ -8,7 +8,6 @@
   ],
   "name": "BANEX MERCADO DE CAPITALES SA",
   "legalName": "BANEX MERCADO DE CAPITALES SA",
-  "bic": "BMDCVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banexmercadodecapitalessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMDCVEC1XXX"
 }

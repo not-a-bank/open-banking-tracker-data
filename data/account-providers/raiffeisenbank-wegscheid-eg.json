@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK WEGSCHEID EG",
   "legalName": "RAIFFEISENBANK WEGSCHEID EG",
-  "bic": "RAWCDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankwegscheideg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAWCDE71XXX"
 }

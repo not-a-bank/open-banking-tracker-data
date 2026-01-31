@@ -8,7 +8,6 @@
   ],
   "name": "AIG FINANCIAL PRODUCTS CORP.",
   "legalName": "AIG FINANCIAL PRODUCTS CORP.",
-  "bic": "AIGFUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aigfinancialproductscorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIGFUS33XXX"
 }

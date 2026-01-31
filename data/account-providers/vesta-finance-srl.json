@@ -8,7 +8,6 @@
   ],
   "name": "VESTA FINANCE SRL",
   "legalName": "VESTA FINANCE SRL",
-  "bic": "VEFSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vestafinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VEFSITM1XXX"
 }

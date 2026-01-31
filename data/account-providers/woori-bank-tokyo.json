@@ -8,7 +8,6 @@
   ],
   "name": "WOORI BANK, TOKYO",
   "legalName": "WOORI BANK, TOKYO",
-  "bic": "HVBKJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wooribanktokyo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HVBKJPJTXXX"
 }

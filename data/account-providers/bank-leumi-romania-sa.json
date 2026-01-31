@@ -8,7 +8,6 @@
   ],
   "name": "BANK LEUMI ROMANIA S.A.",
   "legalName": "BANK LEUMI ROMANIA S.A.",
-  "bic": "DAFBRO22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankleumiromaniasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAFBRO22XXX"
 }

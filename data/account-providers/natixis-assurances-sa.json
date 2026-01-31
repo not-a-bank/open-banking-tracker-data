@@ -8,7 +8,6 @@
   ],
   "name": "NATIXIS ASSURANCES SA",
   "legalName": "NATIXIS ASSURANCES SA",
-  "bic": "NASUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natixisassurancessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NASUFRP1XXX"
 }

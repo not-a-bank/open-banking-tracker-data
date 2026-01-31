@@ -106,7 +106,7 @@
     {
       "label": "ATM Locator",
       "type": "atmLocator",
-      "description": "The Barclays ATM Finder API allows users to locate all Barclays Automated Teller Machines across the UK. Users will be able to view the town, street name and postcode the ATM is located on and the \u2026",
+      "description": "The Barclays ATM Finder API allows users to locate all Barclays Automated Teller Machines across the UK. Users will be able to view the town, street name and postcode the ATM is located on and the …",
       "categories": [
         "locators"
       ],
@@ -160,6 +160,7 @@
     "budget-insight",
     "equensworldline",
     "friendlyscore",
+    "gocardless",
     "klarna",
     "moneyhub-enterprise",
     "openwrks",
@@ -219,7 +220,7 @@
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1565432654/catalog/tryflux/icon128x128.png",
       "websiteUrl": "https://tryflux.com",
       "title": "Barclays adds itemised digital receipts to its banking app in partnership with fintech Flux",
-      "description": "Flux, the London fintech that has built a technology platform for banks and merchants to power itemised digital receipts and more, has seen its lengthy pilot with Barclays bear fruit. Announced formally today \u2014 but actually quietly rolled out a few months ago \u2014 Flux-powered digital rece\u2026",
+      "description": "Flux, the London fintech that has built a technology platform for banks and merchants to power itemised digital receipts and more, has seen its lengthy pilot with Barclays bear fruit. Announced formally today — but actually quietly rolled out a few months ago — Flux-powered digital rece…",
       "sourceUrl": "https://techcrunch.com/2021/02/04/barclays-flux/",
       "features": [
         "itemised-digital-receipts"
@@ -230,5 +231,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "BARCIE2D"
 }

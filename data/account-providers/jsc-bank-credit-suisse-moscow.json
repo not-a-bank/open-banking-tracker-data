@@ -8,7 +8,6 @@
   ],
   "name": "JSC BANK CREDIT SUISSE (MOSCOW)",
   "legalName": "JSC BANK CREDIT SUISSE (MOSCOW)",
-  "bic": "CRESRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jscbankcreditsuissemoscow.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESRUMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT D'INVESTISSEMENT",
   "legalName": "CREDIT D'INVESTISSEMENT",
-  "bic": "CRDNCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditdinvestissement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRDNCHG1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT",
   "legalName": "ALLGEMEINE SPARKASSE OBEROESTERREICH BANKAKTIENGESELLSCHAFT",
-  "bic": "ASPKAT2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allgemeinesparkasseoberoesterreichbankaktienges.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASPKAT2LXXX"
 }

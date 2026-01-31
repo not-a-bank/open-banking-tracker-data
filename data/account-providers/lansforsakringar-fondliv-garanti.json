@@ -8,7 +8,6 @@
   ],
   "name": "LANSFORSAKRINGAR FONDLIV GARANTI",
   "legalName": "LANSFORSAKRINGAR FONDLIV GARANTI",
-  "bic": "LAOGSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lansforsakringarfondlivgaranti.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAOGSES1XXX"
 }

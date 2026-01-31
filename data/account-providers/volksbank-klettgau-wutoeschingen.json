@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Klettgau-Wut\u00f6schingen",
-  "legalName": "Volksbank Klettgau-Wut\u00f6schingen",
+  "name": "Volksbank Klettgau-Wutöschingen",
+  "legalName": "Volksbank Klettgau-Wutöschingen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-klettgau-wutoeschingen.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

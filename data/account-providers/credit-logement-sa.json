@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT LOGEMENT SA",
   "legalName": "CREDIT LOGEMENT SA",
-  "bic": "CRLGFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditlogementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRLGFRP1XXX"
 }

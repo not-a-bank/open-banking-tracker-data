@@ -8,7 +8,6 @@
   ],
   "name": "BARING ASSET MANAGEMENT (JAPAN) LIMITED",
   "legalName": "BARING ASSET MANAGEMENT (JAPAN) LIMITED",
-  "bic": "BAMJJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baringassetmanagementjapanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAMJJPJ1XXX"
 }

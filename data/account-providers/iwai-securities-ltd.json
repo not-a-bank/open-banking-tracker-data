@@ -8,7 +8,6 @@
   ],
   "name": "IWAI SECURITIES LTD.",
   "legalName": "IWAI SECURITIES LTD.",
-  "bic": "IWAIJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iwaisecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IWAIJPJ1XXX"
 }

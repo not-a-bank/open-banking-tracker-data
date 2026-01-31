@@ -8,7 +8,6 @@
   ],
   "name": "Banco DEL Chubut S.a.",
   "legalName": "BANCO DEL CHUBUT S.A.",
-  "bic": "BPCHARBAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPCHARBAXXX"
 }

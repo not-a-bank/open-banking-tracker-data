@@ -8,7 +8,6 @@
   ],
   "name": "BNC INTERNATIONAL BANKING CORPORATION",
   "legalName": "BNC INTERNATIONAL BANKING CORPORATION",
-  "bic": "CIBPPRSJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bncinternationalbankingcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIBPPRSJXXX"
 }

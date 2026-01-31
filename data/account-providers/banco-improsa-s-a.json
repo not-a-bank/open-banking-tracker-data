@@ -8,7 +8,6 @@
   ],
   "name": "Banco Improsa, S.a.",
   "legalName": "BANCO IMPROSA, S.A.",
-  "bic": "BIMPCRSJXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIMPCRSJXXX"
 }

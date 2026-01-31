@@ -8,7 +8,6 @@
   ],
   "name": "Banco Santander S.a. Beijing Branch",
   "legalName": "BANCO SANTANDER S.A. BEIJING BRANCH",
-  "bic": "BSCHCNBJXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHCNBJXXX"
 }

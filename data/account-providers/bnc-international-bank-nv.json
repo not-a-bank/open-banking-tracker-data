@@ -8,7 +8,6 @@
   ],
   "name": "BNC INTERNATIONAL BANK NV",
   "legalName": "BNC INTERNATIONAL BANK NV",
-  "bic": "SKYBCWCUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bncinternationalbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKYBCWCUXXX"
 }

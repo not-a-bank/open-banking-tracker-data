@@ -8,7 +8,6 @@
   ],
   "name": "MAGLIANO S.A. CORRETORA DE CAMBIO E VALORES MOBILIARIOS",
   "legalName": "MAGLIANO S.A. CORRETORA DE CAMBIO E VALORES MOBILIARIOS",
-  "bic": "MCALBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maglianosacorretoradecambioevaloresmobiliar.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCALBRS1XXX"
 }

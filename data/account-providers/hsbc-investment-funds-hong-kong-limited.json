@@ -8,7 +8,6 @@
   ],
   "name": "HSBC INVESTMENT FUNDS (HONG KONG) LIMITED",
   "legalName": "HSBC INVESTMENT FUNDS (HONG KONG) LIMITED",
-  "bic": "HSMHHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcinvestmentfundshongkonglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSMHHKHHXXX"
 }

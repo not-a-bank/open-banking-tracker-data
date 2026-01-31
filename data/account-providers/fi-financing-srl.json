@@ -8,7 +8,6 @@
   ],
   "name": "FI FINANCING SRL",
   "legalName": "FI FINANCING SRL",
-  "bic": "FNRLITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fifinancingsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNRLITR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK 'SIR'",
   "legalName": "BANK 'SIR'",
-  "bic": "SIRSRU81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banksir.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIRSRU81XXX"
 }

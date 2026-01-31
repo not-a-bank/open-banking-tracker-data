@@ -8,7 +8,6 @@
   ],
   "name": "PES S.R.L.",
   "legalName": "PES S.R.L.",
-  "bic": "PELRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pessrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PELRITM1XXX"
 }

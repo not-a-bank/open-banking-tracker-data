@@ -8,7 +8,6 @@
   ],
   "name": "OCBC BULLION AND FUTURES LTD.",
   "legalName": "OCBC BULLION AND FUTURES LTD.",
-  "bic": "OCBCSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ocbcbullionandfuturesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OCBCSGS1XXX"
 }

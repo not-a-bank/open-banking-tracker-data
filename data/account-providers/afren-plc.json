@@ -8,7 +8,6 @@
   ],
   "name": "AFREN PLC",
   "legalName": "AFREN PLC",
-  "bic": "AFREGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.afrenplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFREGB21XXX"
 }

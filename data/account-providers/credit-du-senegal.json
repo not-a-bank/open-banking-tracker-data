@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT DU SENEGAL",
   "legalName": "CREDIT DU SENEGAL",
-  "bic": "BCMASNDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditdusenegal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCMASNDAXXX"
 }

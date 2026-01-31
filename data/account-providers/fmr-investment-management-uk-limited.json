@@ -8,7 +8,6 @@
   ],
   "name": "FMR INVESTMENT MANAGEMENT (UK) LIMITED",
   "legalName": "FMR INVESTMENT MANAGEMENT (UK) LIMITED",
-  "bic": "FMIAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fmrinvestmentmanagementuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMIAGB21XXX"
 }

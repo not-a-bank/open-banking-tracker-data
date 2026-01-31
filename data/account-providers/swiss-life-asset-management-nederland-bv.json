@@ -8,7 +8,6 @@
   ],
   "name": "SWISS LIFE ASSET MANAGEMENT (NEDERLAND) B.V.",
   "legalName": "SWISS LIFE ASSET MANAGEMENT (NEDERLAND) B.V.",
-  "bic": "SLSNNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swisslifeassetmanagementnederlandbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLSNNL21XXX"
 }

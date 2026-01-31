@@ -8,7 +8,6 @@
   ],
   "name": "ING BARINGS SINGAPORE",
   "legalName": "ING BARINGS SINGAPORE",
-  "bic": "INBNSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingbaringssingapore.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INBNSGS1XXX"
 }

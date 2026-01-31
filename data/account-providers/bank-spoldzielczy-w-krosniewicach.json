@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W KROSNIEWICACH",
   "legalName": "BANK SPOLDZIELCZY W KROSNIEWICACH",
-  "bic": "BSKRPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywkrosniewicach.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSKRPLP1XXX"
 }

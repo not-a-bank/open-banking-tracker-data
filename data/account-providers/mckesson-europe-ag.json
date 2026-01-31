@@ -8,7 +8,6 @@
   ],
   "name": "MCKESSON EUROPE AG",
   "legalName": "MCKESSON EUROPE AG",
-  "bic": "CELEDESTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mckessoneuropeag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CELEDESTXXX"
 }

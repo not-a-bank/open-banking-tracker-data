@@ -9,7 +9,6 @@
   ],
   "name": "TRIODOS BANK",
   "legalName": "TRIODOS BANK",
-  "bic": "TRIOBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1566957825/radar/icons/triodos-bank.png",
@@ -86,5 +85,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRIOBEBBXXX"
 }

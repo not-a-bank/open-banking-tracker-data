@@ -8,7 +8,6 @@
   ],
   "name": "UNI GESTION SARL",
   "legalName": "UNI GESTION SARL",
-  "bic": "UNGIFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unigestionsarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNGIFR21XXX"
 }

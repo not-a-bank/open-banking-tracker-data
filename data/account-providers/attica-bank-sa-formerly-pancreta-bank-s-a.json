@@ -8,7 +8,6 @@
   ],
   "name": "Attica Bank SA (formerly Pancreta Bank S.a.)",
   "legalName": "ATTICA BANK SA (FORMERLY PANCRETA BANK S.A.)",
-  "bic": "STPGGRAAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STPGGRAAXXX"
 }

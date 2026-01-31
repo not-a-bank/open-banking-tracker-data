@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE Chile",
   "legalName": "BANCO DE CHILE",
-  "bic": "BCHICLRMCUS",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCHICLRMCUS"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MICOS BANCA S.P.A",
   "legalName": "MICOS BANCA S.P.A",
-  "bic": "MICSFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.micosbancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MICSFR21XXX"
 }

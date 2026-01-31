@@ -8,7 +8,6 @@
   ],
   "name": "ALPHA BROKERS (METALS) LIMITED",
   "legalName": "ALPHA BROKERS (METALS) LIMITED",
-  "bic": "ALBMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alphabrokersmetalslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALBMGB21XXX"
 }

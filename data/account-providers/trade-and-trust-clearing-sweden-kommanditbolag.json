@@ -8,7 +8,6 @@
   ],
   "name": "TRADE AND TRUST CLEARING SWEDEN KOMMANDITBOLAG",
   "legalName": "TRADE AND TRUST CLEARING SWEDEN KOMMANDITBOLAG",
-  "bic": "TTCWSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tradeandtrustclearingswedenkommanditbolag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TTCWSES1XXX"
 }

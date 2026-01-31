@@ -8,7 +8,6 @@
   ],
   "name": "SPAREBANK 1 NORDVEST",
   "legalName": "SPAREBANK 1 NORDVEST",
-  "bic": "NORVNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebank1nordvest.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NORVNO21"
 }

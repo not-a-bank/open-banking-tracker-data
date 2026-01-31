@@ -8,7 +8,6 @@
   ],
   "name": "POLAR SECURITIES INC",
   "legalName": "POLAR SECURITIES INC",
-  "bic": "POSUCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.polarsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POSUCAT1XXX"
 }

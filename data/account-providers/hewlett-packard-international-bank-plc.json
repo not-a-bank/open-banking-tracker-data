@@ -8,7 +8,6 @@
   ],
   "name": "HEWLETT PACKARD INTERNATIONAL BANK PLC",
   "legalName": "HEWLETT PACKARD INTERNATIONAL BANK PLC",
-  "bic": "HEPIIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hewlettpackardinternationalbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEPIIE21XXX"
 }

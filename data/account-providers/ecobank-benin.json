@@ -8,7 +8,6 @@
   ],
   "name": "Ecobank Benin",
   "legalName": "ECOBANK BENIN",
-  "bic": "ECOCBJBJXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCBJBJXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ACCI SECURITIES INC.",
   "legalName": "ACCI SECURITIES INC.",
-  "bic": "ACSEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.accisecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACSEUS31XXX"
 }

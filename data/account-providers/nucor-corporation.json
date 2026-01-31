@@ -8,7 +8,6 @@
   ],
   "name": "NUCOR CORPORATION",
   "legalName": "NUCOR CORPORATION",
-  "bic": "NUCRUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nucorcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NUCRUS33XXX"
 }

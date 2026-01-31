@@ -8,7 +8,6 @@
   ],
   "name": "CIRSIC FONDS DU REGIME CC PF",
   "legalName": "CIRSIC FONDS DU REGIME CC PF",
-  "bic": "CIDRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cirsicfondsduregimeccpf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIDRFRP1XXX"
 }

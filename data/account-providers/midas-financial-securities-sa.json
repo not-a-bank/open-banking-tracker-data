@@ -8,7 +8,6 @@
   ],
   "name": "MIDAS FINANCIAL SECURITIES S.A.",
   "legalName": "MIDAS FINANCIAL SECURITIES S.A.",
-  "bic": "MIFUGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.midasfinancialsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIFUGRA1XXX"
 }

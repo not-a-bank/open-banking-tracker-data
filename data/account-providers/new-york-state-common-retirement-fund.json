@@ -8,7 +8,6 @@
   ],
   "name": "NEW YORK STATE COMMON RETIREMENT FUND",
   "legalName": "NEW YORK STATE COMMON RETIREMENT FUND",
-  "bic": "NYSCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newyorkstatecommonretirementfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NYSCUS31XXX"
 }

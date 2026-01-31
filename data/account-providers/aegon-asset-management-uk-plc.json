@@ -8,7 +8,6 @@
   ],
   "name": "AEGON ASSET MANAGEMENT UK PLC",
   "legalName": "AEGON ASSET MANAGEMENT UK PLC",
-  "bic": "AEAGGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aegonassetmanagementukplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEAGGB21XXX"
 }

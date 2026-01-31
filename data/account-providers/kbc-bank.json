@@ -121,6 +121,7 @@
   "apiAggregators": [
     "banqup",
     "equensworldline",
+    "gocardless",
     "ibanity",
     "klarna",
     "plaid",
@@ -199,5 +200,6 @@
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "KREDBEBB"
 }

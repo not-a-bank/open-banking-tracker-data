@@ -8,7 +8,6 @@
   ],
   "name": "MACQUARIE EQUITIES LTD",
   "legalName": "MACQUARIE EQUITIES LTD",
-  "bic": "MACUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macquarieequitiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MACUGB21XXX"
 }

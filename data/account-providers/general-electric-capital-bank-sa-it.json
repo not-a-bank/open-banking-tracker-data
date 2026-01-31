@@ -8,7 +8,6 @@
   ],
   "name": "GENERAL ELECTRIC CAPITAL BANK SA",
   "legalName": "GENERAL ELECTRIC CAPITAL BANK SA",
-  "bic": "GEECITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.generalelectriccapitalbanksait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEECITM1XXX"
 }

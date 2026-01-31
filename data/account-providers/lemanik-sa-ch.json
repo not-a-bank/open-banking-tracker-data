@@ -8,7 +8,6 @@
   ],
   "name": "LEMANIK S.A.",
   "legalName": "LEMANIK S.A.",
-  "bic": "LEMACHA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lemaniksach.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LEMACHA1XXX"
 }

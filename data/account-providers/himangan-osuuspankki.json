@@ -8,7 +8,6 @@
   ],
   "name": "HIMANGAN OSUUSPANKKI",
   "legalName": "HIMANGAN OSUUSPANKKI",
-  "bic": "HIOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.himanganosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HIOSFI21XXX"
 }

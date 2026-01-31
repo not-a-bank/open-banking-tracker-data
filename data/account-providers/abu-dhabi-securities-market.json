@@ -8,7 +8,6 @@
   ],
   "name": "ABU DHABI SECURITIES MARKET",
   "legalName": "ABU DHABI SECURITIES MARKET",
-  "bic": "ADSEAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abudhabisecuritiesmarket.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADSEAEA1XXX"
 }

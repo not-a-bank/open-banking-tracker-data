@@ -8,7 +8,6 @@
   ],
   "name": "JORDAN GULF BANK",
   "legalName": "JORDAN GULF BANK",
-  "bic": "JGBAPS21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jordangulfbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JGBAPS21XXX"
 }

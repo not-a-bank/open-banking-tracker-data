@@ -8,7 +8,6 @@
   ],
   "name": "QATAR NATIONAL BANK SAQ",
   "legalName": "QATAR NATIONAL BANK SAQ",
-  "bic": "QNBAYESAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qatarnationalbanksaqye.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QNBAYESAXXX"
 }

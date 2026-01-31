@@ -8,7 +8,6 @@
   ],
   "name": "HERMES BANK LIMITED",
   "legalName": "HERMES BANK LIMITED",
-  "bic": "HEMMLCL2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hermesbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEMMLCL2XXX"
 }

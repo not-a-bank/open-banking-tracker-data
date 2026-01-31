@@ -8,7 +8,6 @@
   ],
   "name": "HBF - BANCO FINANCIERO SA",
   "legalName": "HBF - BANCO FINANCIERO SA",
-  "bic": "HBFIPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hbfbancofinancierosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBFIPTP1XXX"
 }

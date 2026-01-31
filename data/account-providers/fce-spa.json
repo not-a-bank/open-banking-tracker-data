@@ -8,7 +8,6 @@
   ],
   "name": "FCE SPA",
   "legalName": "FCE SPA",
-  "bic": "FEECITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fcespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FEECITM1XXX"
 }

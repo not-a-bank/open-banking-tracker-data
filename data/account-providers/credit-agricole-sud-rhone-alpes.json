@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole Sud Rh\u00f4ne Alpes",
-  "legalName": "Cr\u00e9dit Agricole Sud Rh\u00f4ne Alpes",
+  "name": "Crédit Agricole Sud Rhône Alpes",
+  "legalName": "Crédit Agricole Sud Rhône Alpes",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-sud-rhone-alpes.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

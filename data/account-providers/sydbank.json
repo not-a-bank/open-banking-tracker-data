@@ -39,6 +39,7 @@
   "apiReferenceUrl": "https://developers.bankdata.dk",
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "klarna",
     "neonomics",
     "plaid",
@@ -116,5 +117,6 @@
   "articles": [],
   "stack": [
     "bankdata-dk"
-  ]
+  ],
+  "bic": "SYBKDE22XXX"
 }

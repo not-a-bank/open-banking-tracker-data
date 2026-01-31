@@ -8,7 +8,6 @@
   ],
   "name": "ETEX S.A.",
   "legalName": "ETEX S.A.",
-  "bic": "ETEXBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.etexsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETEXBEBBXXX"
 }

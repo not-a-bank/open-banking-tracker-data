@@ -8,7 +8,6 @@
   ],
   "name": "SAXO PAYMENTS A/S",
   "legalName": "SAXO PAYMENTS A/S",
-  "bic": "SXPYDEHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saxopaymentsas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SXPYDEHHXXX"
 }

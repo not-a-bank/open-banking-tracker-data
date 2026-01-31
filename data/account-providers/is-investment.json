@@ -8,7 +8,6 @@
   ],
   "name": "IS INVESTMENT",
   "legalName": "IS INVESTMENT",
-  "bic": "IVSMTRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.isinvestment.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVSMTRI1XXX"
 }

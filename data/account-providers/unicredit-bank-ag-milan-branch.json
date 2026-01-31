@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BANK AG MILAN BRANCH",
   "legalName": "UNICREDIT BANK AG MILAN BRANCH",
-  "bic": "HYVEIT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbankagmilanbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HYVEIT22XXX"
 }

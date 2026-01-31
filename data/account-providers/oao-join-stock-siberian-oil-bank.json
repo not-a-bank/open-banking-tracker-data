@@ -8,7 +8,6 @@
   ],
   "name": "OAO JOIN-STOCK SIBERIAN OIL BANK",
   "legalName": "OAO JOIN-STOCK SIBERIAN OIL BANK",
-  "bic": "SBNBRU41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oaojoinstocksiberianoilbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBNBRU41XXX"
 }

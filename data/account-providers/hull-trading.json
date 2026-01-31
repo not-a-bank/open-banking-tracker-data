@@ -8,7 +8,6 @@
   ],
   "name": "HULL TRADING",
   "legalName": "HULL TRADING",
-  "bic": "HULLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hulltrading.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HULLGB21XXX"
 }

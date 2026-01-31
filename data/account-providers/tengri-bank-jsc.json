@@ -8,7 +8,6 @@
   ],
   "name": "TENGRI BANK JSC",
   "legalName": "TENGRI BANK JSC",
-  "bic": "TNGRKZKXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tengribankjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TNGRKZKXXXX"
 }

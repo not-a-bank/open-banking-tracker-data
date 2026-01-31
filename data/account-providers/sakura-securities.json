@@ -8,7 +8,6 @@
   ],
   "name": "SAKURA SECURITIES",
   "legalName": "SAKURA SECURITIES",
-  "bic": "KUSEJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sakurasecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KUSEJPJ1XXX"
 }

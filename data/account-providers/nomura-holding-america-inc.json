@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA HOLDING AMERICA INC.",
   "legalName": "NOMURA HOLDING AMERICA INC.",
-  "bic": "NHAIUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomuraholdingamericainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NHAIUS33XXX"
 }

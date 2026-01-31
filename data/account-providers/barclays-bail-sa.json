@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS BAIL SA",
   "legalName": "BARCLAYS BAIL SA",
-  "bic": "BABLFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysbailsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BABLFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK (URUGUAY) S.A.I.F.E.",
   "legalName": "DEUTSCHE BANK (URUGUAY) S.A.I.F.E.",
-  "bic": "DEUTUYM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankuruguaysaife.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTUYM1XXX"
 }

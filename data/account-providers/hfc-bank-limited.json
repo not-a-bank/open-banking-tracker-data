@@ -8,7 +8,6 @@
   ],
   "name": "HFC BANK LIMITED",
   "legalName": "HFC BANK LIMITED",
-  "bic": "HTSLIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hfcbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HTSLIE21XXX"
 }

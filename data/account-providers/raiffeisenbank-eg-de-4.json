@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK EG",
   "legalName": "RAIFFEISENBANK EG",
-  "bic": "RAEFDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankegde4.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAEFDE61XXX"
 }

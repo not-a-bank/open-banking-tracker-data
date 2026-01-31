@@ -8,7 +8,6 @@
   ],
   "name": "UBS SECURITIES ASIA LIMITED",
   "legalName": "UBS SECURITIES ASIA LIMITED",
-  "bic": "UBSWHKH2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubssecuritiesasialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWHKH2XXX"
 }

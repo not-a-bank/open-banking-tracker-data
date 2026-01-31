@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DO BRASIL S.A",
   "legalName": "BANCO DO BRASIL S.A",
-  "bic": "BRASUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodobrasilsaus1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRASUS33XXX"
 }

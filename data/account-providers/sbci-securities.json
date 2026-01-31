@@ -8,7 +8,6 @@
   ],
   "name": "SBCI SECURITIES",
   "legalName": "SBCI SECURITIES",
-  "bic": "SBCCCNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sbcisecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBCCCNS1XXX"
 }

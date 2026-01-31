@@ -8,7 +8,6 @@
   ],
   "name": "ANDROPAN ASSET MANAGEMENT B.V.",
   "legalName": "ANDROPAN ASSET MANAGEMENT B.V.",
-  "bic": "AAMMNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.andropanassetmanagementbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AAMMNL21XXX"
 }

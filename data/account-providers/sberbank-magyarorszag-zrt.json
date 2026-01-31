@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK MAGYARORSZAG ZRT",
   "legalName": "SBERBANK MAGYARORSZAG ZRT",
-  "bic": "MAVOHUHBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbankmagyarorszagzrt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAVOHUHBXXX"
 }

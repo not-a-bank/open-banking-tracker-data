@@ -8,7 +8,6 @@
   ],
   "name": "HELLWIG WERTPAPIERHANDELSBANK GMBH",
   "legalName": "HELLWIG WERTPAPIERHANDELSBANK GMBH",
-  "bic": "HEWGDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hellwigwertpapierhandelsbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEWGDEF1XXX"
 }

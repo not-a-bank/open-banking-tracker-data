@@ -8,7 +8,6 @@
   ],
   "name": "PEOPLES BANK AND TRUST COMPANY",
   "legalName": "PEOPLES BANK AND TRUST COMPANY",
-  "bic": "PETCUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.peoplesbankandtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PETCUS41XXX"
 }

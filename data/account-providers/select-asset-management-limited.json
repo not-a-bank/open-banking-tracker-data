@@ -8,7 +8,6 @@
   ],
   "name": "SELECT ASSET MANAGEMENT LIMITED",
   "legalName": "SELECT ASSET MANAGEMENT LIMITED",
-  "bic": "SESMAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.selectassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SESMAU21XXX"
 }

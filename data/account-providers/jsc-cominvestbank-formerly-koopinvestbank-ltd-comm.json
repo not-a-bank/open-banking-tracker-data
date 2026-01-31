@@ -8,7 +8,6 @@
   ],
   "name": "JSC 'COMINVESTBANK' (FORMERLY KOOPINVESTBANK LTD COMMERCIAL BANK)",
   "legalName": "JSC 'COMINVESTBANK' (FORMERLY KOOPINVESTBANK LTD COMMERCIAL BANK)",
-  "bic": "KOOPUAUXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jsccominvestbankformerlykoopinvestbankltdcomm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOOPUAUXXXX"
 }

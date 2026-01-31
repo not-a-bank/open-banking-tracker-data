@@ -8,7 +8,6 @@
   ],
   "name": "QUONIAM ASSET MANAGEMENT GMBH",
   "legalName": "QUONIAM ASSET MANAGEMENT GMBH",
-  "bic": "QANTDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.quoniamassetmanagementgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QANTDEFFXXX"
 }

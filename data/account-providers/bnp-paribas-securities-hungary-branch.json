@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SECURITIES HUNGARY BRANCH",
   "legalName": "BNP PARIBAS SECURITIES HUNGARY BRANCH",
-  "bic": "PARBHUHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassecuritieshungarybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARBHUHXXXX"
 }

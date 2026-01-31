@@ -8,7 +8,6 @@
   ],
   "name": "FCT EQUITIES (UK) LIMITED",
   "legalName": "FCT EQUITIES (UK) LIMITED",
-  "bic": "FEBHGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fctequitiesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FEBHGB21XXX"
 }

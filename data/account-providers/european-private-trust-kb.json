@@ -8,7 +8,6 @@
   ],
   "name": "EUROPEAN PRIVATE TRUST KB",
   "legalName": "EUROPEAN PRIVATE TRUST KB",
-  "bic": "EUPTSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.europeanprivatetrustkb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUPTSES1XXX"
 }

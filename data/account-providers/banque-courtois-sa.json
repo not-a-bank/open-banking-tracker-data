@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE COURTOIS S.A.",
   "legalName": "BANQUE COURTOIS S.A.",
-  "bic": "COURFR2TXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecourtoissa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COURFR2TXXX"
 }

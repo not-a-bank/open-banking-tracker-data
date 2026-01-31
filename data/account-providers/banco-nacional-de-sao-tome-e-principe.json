@@ -8,7 +8,6 @@
   ],
   "name": "BANCO NACIONAL DE SAO TOME E PRINCIPE",
   "legalName": "BANCO NACIONAL DE SAO TOME E PRINCIPE",
-  "bic": "BNSTSTS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banconacionaldesaotomeeprincipe.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNSTSTS1XXX"
 }

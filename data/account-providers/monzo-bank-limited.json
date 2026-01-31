@@ -8,7 +8,6 @@
   ],
   "name": "MONZO BANK LIMITED",
   "legalName": "MONZO BANK LIMITED",
-  "bic": "MONZGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.monzobanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MONZGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "WH TRADING LLC",
   "legalName": "WH TRADING LLC",
-  "bic": "TALLUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.whtradingllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TALLUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FINANTIA SECURITIES LIMITED",
   "legalName": "FINANTIA SECURITIES LIMITED",
-  "bic": "FISCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finantiasecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FISCGB21XXX"
 }

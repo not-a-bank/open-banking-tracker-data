@@ -8,7 +8,6 @@
   ],
   "name": "B.F. HOLDING S.P.A.",
   "legalName": "B.F. HOLDING S.P.A.",
-  "bic": "HODDITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bfholdingspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HODDITM1XXX"
 }

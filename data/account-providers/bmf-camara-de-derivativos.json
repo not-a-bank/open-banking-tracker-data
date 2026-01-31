@@ -8,7 +8,6 @@
   ],
   "name": "BMF - CAMARA DE DERIVATIVOS",
   "legalName": "BMF - CAMARA DE DERIVATIVOS",
-  "bic": "XBMFBRBRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bmfcamaradederivativos.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XBMFBRBRXXX"
 }

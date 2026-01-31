@@ -8,7 +8,6 @@
   ],
   "name": "LEGAZPI SAVINGS BANK",
   "legalName": "LEGAZPI SAVINGS BANK",
-  "bic": "LESIPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.legazpisavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LESIPHM1XXX"
 }

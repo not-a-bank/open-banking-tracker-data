@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DELLA PROVINCIA DI MACERATA SPA",
   "legalName": "BANCA DELLA PROVINCIA DI MACERATA SPA",
-  "bic": "PRACIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadellaprovinciadimacerataspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRACIT31XXX"
 }

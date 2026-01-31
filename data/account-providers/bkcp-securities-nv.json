@@ -8,7 +8,6 @@
   ],
   "name": "BKCP SECURITIES NV",
   "legalName": "BKCP SECURITIES NV",
-  "bic": "BUSSBE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bkcpsecuritiesnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BUSSBE81XXX"
 }

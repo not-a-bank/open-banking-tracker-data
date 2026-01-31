@@ -8,7 +8,6 @@
   ],
   "name": "THE LONDON METAL EXCHANGE LIMITED",
   "legalName": "THE LONDON METAL EXCHANGE LIMITED",
-  "bic": "XLMEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thelondonmetalexchangelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XLMEGB21XXX"
 }

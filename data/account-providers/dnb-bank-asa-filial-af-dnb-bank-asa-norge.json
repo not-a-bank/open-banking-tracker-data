@@ -8,7 +8,6 @@
   ],
   "name": "DNB BANK ASA, FILIAL AF DNB BANK ASA, NORGE",
   "legalName": "DNB BANK ASA, FILIAL AF DNB BANK ASA, NORGE",
-  "bic": "DNBADKKXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dnbbankasafilialafdnbbankasanorge.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNBADKKXXXX"
 }

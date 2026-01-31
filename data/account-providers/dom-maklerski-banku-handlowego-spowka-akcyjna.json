@@ -8,7 +8,6 @@
   ],
   "name": "DOM MAKLERSKI BANKU HANDLOWEGO SPOWKA AKCYJNA",
   "legalName": "DOM MAKLERSKI BANKU HANDLOWEGO SPOWKA AKCYJNA",
-  "bic": "DOMHPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dommaklerskibankuhandlowegospowkaakcyjna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DOMHPLP1XXX"
 }

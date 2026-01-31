@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DES DEPOTS ET CONSIGNATIONS",
   "legalName": "CAISSE DES DEPOTS ET CONSIGNATIONS",
-  "bic": "CDCGFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedesdepotsetconsignations.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDCGFRPPXXX"
 }

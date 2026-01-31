@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS GRECE",
   "legalName": "BNP PARIBAS GRECE",
-  "bic": "BNPAGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasgrece.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAGRA1XXX"
 }

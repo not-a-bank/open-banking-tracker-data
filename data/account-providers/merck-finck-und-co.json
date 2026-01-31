@@ -8,7 +8,6 @@
   ],
   "name": "MERCK, FINCK UND CO",
   "legalName": "MERCK, FINCK UND CO",
-  "bic": "MEFIDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merckfinckundco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEFIDE21XXX"
 }

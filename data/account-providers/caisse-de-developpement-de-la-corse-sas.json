@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE DEVELOPPEMENT DE LA CORSE SAS",
   "legalName": "CAISSE DE DEVELOPPEMENT DE LA CORSE SAS",
-  "bic": "CADCFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissededeveloppementdelacorsesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CADCFR21XXX"
 }

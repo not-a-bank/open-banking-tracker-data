@@ -8,7 +8,6 @@
   ],
   "name": "B2V",
   "legalName": "B2V",
-  "bic": "BTVPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.b2v.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTVPFRP1XXX"
 }

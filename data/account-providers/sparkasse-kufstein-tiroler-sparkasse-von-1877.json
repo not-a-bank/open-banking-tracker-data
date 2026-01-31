@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE KUFSTEIN TIROLER SPARKASSE VON 1877",
   "legalName": "SPARKASSE KUFSTEIN TIROLER SPARKASSE VON 1877",
-  "bic": "SPKUAT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassekufsteintirolersparkassevon1877.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPKUAT22"
 }

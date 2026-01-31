@@ -8,7 +8,6 @@
   ],
   "name": "STEDBANKA D.D.",
   "legalName": "STEDBANKA D.D.",
-  "bic": "STEDHR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stedbankadd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STEDHR22XXX"
 }

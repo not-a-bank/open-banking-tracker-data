@@ -8,7 +8,6 @@
   ],
   "name": "PARSEC TRADING CORP",
   "legalName": "PARSEC TRADING CORP",
-  "bic": "PTRNBMH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.parsectradingcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PTRNBMH1XXX"
 }

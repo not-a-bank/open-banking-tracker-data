@@ -8,7 +8,6 @@
   ],
   "name": "BANKIA S.A.",
   "legalName": "BANKIA S.A.",
-  "bic": "CAHMESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankiasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAHMESMMXXX"
 }

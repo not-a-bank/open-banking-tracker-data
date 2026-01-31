@@ -8,7 +8,6 @@
   ],
   "name": "UOB BULLION AND FUTURES LIMITED",
   "legalName": "UOB BULLION AND FUTURES LIMITED",
-  "bic": "UOBFSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uobbullionandfutureslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UOBFSGS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "WEGAGEN BANK S.C.",
   "legalName": "WEGAGEN BANK S.C.",
-  "bic": "WEGAETAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wegagenbanksc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WEGAETAAXXX"
 }

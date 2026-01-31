@@ -8,7 +8,6 @@
   ],
   "name": "BANK FIRST NATIONAL",
   "legalName": "BANK FIRST NATIONAL",
-  "bic": "FRNIUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankfirstnational.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRNIUS44XXX"
 }

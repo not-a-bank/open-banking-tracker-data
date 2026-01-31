@@ -8,7 +8,6 @@
   ],
   "name": "SCT BANKERS",
   "legalName": "SCT BANKERS",
-  "bic": "SCTSAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sctbankers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCTSAEA1XXX"
 }

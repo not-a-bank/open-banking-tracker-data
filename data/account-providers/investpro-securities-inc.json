@@ -8,7 +8,6 @@
   ],
   "name": "INVESTPRO SECURITIES INC.",
   "legalName": "INVESTPRO SECURITIES INC.",
-  "bic": "INVTCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investprosecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INVTCAM1XXX"
 }

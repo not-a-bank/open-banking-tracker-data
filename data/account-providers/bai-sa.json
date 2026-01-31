@@ -8,7 +8,6 @@
   ],
   "name": "BAI SA",
   "legalName": "BAI SA",
-  "bic": "BAIIFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baisa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAIIFR22XXX"
 }

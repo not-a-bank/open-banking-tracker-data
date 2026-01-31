@@ -8,7 +8,6 @@
   ],
   "name": "BANCO METROPOLITANO S.A.",
   "legalName": "BANCO METROPOLITANO S.A.",
-  "bic": "BMETGTG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancometropolitanosagt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMETGTG1XXX"
 }

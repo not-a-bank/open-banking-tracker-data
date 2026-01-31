@@ -8,7 +8,6 @@
   ],
   "name": "AMERICAS UNITED BANK",
   "legalName": "AMERICAS UNITED BANK",
-  "bic": "AMUNUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.americasunitedbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMUNUS61XXX"
 }

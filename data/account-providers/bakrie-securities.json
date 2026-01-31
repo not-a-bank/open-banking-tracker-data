@@ -8,7 +8,6 @@
   ],
   "name": "BAKRIE SECURITIES",
   "legalName": "BAKRIE SECURITIES",
-  "bic": "BAKSIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bakriesecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAKSIDJ1XXX"
 }

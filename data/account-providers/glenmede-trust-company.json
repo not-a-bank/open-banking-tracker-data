@@ -8,7 +8,6 @@
   ],
   "name": "GLENMEDE TRUST COMPANY",
   "legalName": "GLENMEDE TRUST COMPANY",
-  "bic": "GLTCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.glenmedetrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GLTCUS31XXX"
 }

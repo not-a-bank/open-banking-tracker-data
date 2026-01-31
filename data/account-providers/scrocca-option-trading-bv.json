@@ -8,7 +8,6 @@
   ],
   "name": "SCROCCA OPTION TRADING B.V.",
   "legalName": "SCROCCA OPTION TRADING B.V.",
-  "bic": "SCOGNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scroccaoptiontradingbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCOGNL21XXX"
 }

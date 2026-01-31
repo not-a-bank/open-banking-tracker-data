@@ -8,7 +8,6 @@
   ],
   "name": "WIN TRADING B.V.",
   "legalName": "WIN TRADING B.V.",
-  "bic": "WITRNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wintradingbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WITRNL21XXX"
 }

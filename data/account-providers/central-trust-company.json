@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL TRUST COMPANY",
   "legalName": "CENTRAL TRUST COMPANY",
-  "bic": "CETCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centraltrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CETCUS31XXX"
 }

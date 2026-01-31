@@ -8,7 +8,6 @@
   ],
   "name": "MS BANK SA BANCO DE CAMBIO",
   "legalName": "MS BANK SA BANCO DE CAMBIO",
-  "bic": "MSBOBRPRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.msbanksabancodecambio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSBOBRPRXXX"
 }

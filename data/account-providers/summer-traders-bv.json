@@ -8,7 +8,6 @@
   ],
   "name": "SUMMER TRADERS B.V.",
   "legalName": "SUMMER TRADERS B.V.",
-  "bic": "SUMRNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.summertradersbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SUMRNL21XXX"
 }

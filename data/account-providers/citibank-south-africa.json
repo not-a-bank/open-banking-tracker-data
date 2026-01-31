@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK SOUTH AFRICA",
   "legalName": "CITIBANK SOUTH AFRICA",
-  "bic": "CITIZAJXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibanksouthafrica.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIZAJXXXX"
 }

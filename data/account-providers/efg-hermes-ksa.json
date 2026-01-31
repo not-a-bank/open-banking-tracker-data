@@ -8,7 +8,6 @@
   ],
   "name": "EFG-HERMES KSA",
   "legalName": "EFG-HERMES KSA",
-  "bic": "EFKSSAR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efghermesksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFKSSAR1XXX"
 }

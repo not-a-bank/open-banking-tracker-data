@@ -8,7 +8,6 @@
   ],
   "name": "AACHENER BAUSPARKASSE AKTIENGESELLSCHAFT",
   "legalName": "AACHENER BAUSPARKASSE AKTIENGESELLSCHAFT",
-  "bic": "AABSDE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aachenerbausparkasseaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AABSDE31XXX"
 }

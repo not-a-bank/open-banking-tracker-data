@@ -8,7 +8,6 @@
   ],
   "name": "BRADESCO S/A CTVM",
   "legalName": "BRADESCO S/A CTVM",
-  "bic": "BRCTBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bradescosactvmbr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRCTBRS1XXX"
 }

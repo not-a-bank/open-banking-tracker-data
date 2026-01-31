@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF MAURITIUS",
   "legalName": "BANK OF MAURITIUS",
-  "bic": "BOMMMUPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofmauritiusmu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOMMMUPLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SUHYUP BANK",
   "legalName": "SUHYUP BANK",
-  "bic": "NFFCKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.suhyupbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NFFCKRSEXXX"
 }

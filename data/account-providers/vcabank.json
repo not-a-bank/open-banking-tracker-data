@@ -8,7 +8,6 @@
   ],
   "name": "VCABANK",
   "legalName": "VCABANK",
-  "bic": "VCJVRU3AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vcabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VCJVRU3AXXX"
 }

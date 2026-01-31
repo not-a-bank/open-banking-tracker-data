@@ -8,7 +8,6 @@
   ],
   "name": "CENTER-INVEST BANK",
   "legalName": "CENTER-INVEST BANK",
-  "bic": "CCIVRU2RXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centerinvestbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCIVRU2RXXX"
 }

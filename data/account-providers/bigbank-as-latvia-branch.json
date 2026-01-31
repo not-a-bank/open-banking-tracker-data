@@ -8,7 +8,6 @@
   ],
   "name": "BIGBANK AS LATVIA BRANCH",
   "legalName": "BIGBANK AS LATVIA BRANCH",
-  "bic": "BIGKLV21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bigbankaslatviabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIGKLV21XXX"
 }

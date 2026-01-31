@@ -8,7 +8,6 @@
   ],
   "name": "A.T. EQUITIES SPAIN A.V. S.A.",
   "legalName": "A.T. EQUITIES SPAIN A.V. S.A.",
-  "bic": "ATECESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.atequitiesspainavsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATECESM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA INVEST BOLIG 2",
   "legalName": "NORDEA INVEST BOLIG 2",
-  "bic": "NONLDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeainvestbolig2.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NONLDKK1XXX"
 }

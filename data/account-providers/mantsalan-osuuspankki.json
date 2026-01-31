@@ -8,7 +8,6 @@
   ],
   "name": "MANTSALAN OSUUSPANKKI",
   "legalName": "MANTSALAN OSUUSPANKKI",
-  "bic": "MAOKFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mantsalanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAOKFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS LEASING SOLUTIONS S.A.",
   "legalName": "BNP PARIBAS LEASING SOLUTIONS S.A.",
-  "bic": "LSHLLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasleasingsolutionssa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LSHLLULLXXX"
 }

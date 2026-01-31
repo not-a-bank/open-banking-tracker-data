@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BULBANK AD",
   "legalName": "UNICREDIT BULBANK AD",
-  "bic": "UNCRBGSFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbulbankad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNCRBGSFXXX"
 }

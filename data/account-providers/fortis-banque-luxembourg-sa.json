@@ -8,7 +8,6 @@
   ],
   "name": "FORTIS BANQUE LUXEMBOURG SA",
   "legalName": "FORTIS BANQUE LUXEMBOURG SA",
-  "bic": "BGLLDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fortisbanqueluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGLLDEF1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "JSB ROSEVROBANK (JSC)",
   "legalName": "JSB ROSEVROBANK (JSC)",
-  "bic": "COMKRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jsbrosevrobankjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COMKRUMMXXX"
 }

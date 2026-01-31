@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE EFFEKTEN GMBH",
   "legalName": "SOCIETE GENERALE EFFEKTEN GMBH",
-  "bic": "SGEGDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneraleeffektengmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGEGDEF1XXX"
 }

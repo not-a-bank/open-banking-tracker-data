@@ -1,0 +1,32 @@
+{
+  "id": "finnair-mastercard",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Finnair Mastercard",
+  "legalName": "Finnair Mastercard",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.finnair-mastercard.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "SE",
+  "countries": [
+    "SE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "SKHSFI21"
+}

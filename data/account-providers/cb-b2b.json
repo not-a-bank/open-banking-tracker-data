@@ -8,7 +8,6 @@
   ],
   "name": "CB B2B",
   "legalName": "CB B2B",
-  "bic": "CBBTRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbb2b.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBBTRU21XXX"
 }

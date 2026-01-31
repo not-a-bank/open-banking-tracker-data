@@ -8,7 +8,6 @@
   ],
   "name": "ROYAL BANK OF CANADA",
   "legalName": "ROYAL BANK OF CANADA",
-  "bic": "ROYCJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.royalbankofcanadajp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROYCJPJTXXX"
 }

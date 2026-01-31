@@ -8,7 +8,6 @@
   ],
   "name": "OKCI BANK, PJSC",
   "legalName": "OKCI BANK, PJSC",
-  "bic": "OKCIUA2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.okcibankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OKCIUA2XXXX"
 }

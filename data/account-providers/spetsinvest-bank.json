@@ -8,7 +8,6 @@
   ],
   "name": "SPETSINVEST BANK",
   "legalName": "SPETSINVEST BANK",
-  "bic": "SPEIRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spetsinvestbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPEIRUM1XXX"
 }

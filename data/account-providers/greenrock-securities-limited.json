@@ -8,7 +8,6 @@
   ],
   "name": "GREENROCK SECURITIES LIMITED",
   "legalName": "GREENROCK SECURITIES LIMITED",
-  "bic": "GRCRVUV1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.greenrocksecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRCRVUV1XXX"
 }

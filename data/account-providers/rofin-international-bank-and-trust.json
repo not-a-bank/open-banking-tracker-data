@@ -8,7 +8,6 @@
   ],
   "name": "ROFIN INTERNATIONAL BANK AND TRUST",
   "legalName": "ROFIN INTERNATIONAL BANK AND TRUST",
-  "bic": "ROIBKYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rofininternationalbankandtrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROIBKYK1XXX"
 }

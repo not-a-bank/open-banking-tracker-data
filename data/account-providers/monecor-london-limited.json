@@ -8,7 +8,6 @@
   ],
   "name": "MONECOR (LONDON) LIMITED",
   "legalName": "MONECOR (LONDON) LIMITED",
-  "bic": "MOLOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.monecorlondonlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOLOGB21XXX"
 }

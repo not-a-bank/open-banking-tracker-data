@@ -8,7 +8,6 @@
   ],
   "name": "HAITONG BANK, SA SUCURSAL ESPANA",
   "legalName": "HAITONG BANK, SA SUCURSAL ESPANA",
-  "bic": "ESSIESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.haitongbanksasucursalespana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESSIESMMXXX"
 }

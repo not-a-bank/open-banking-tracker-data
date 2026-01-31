@@ -8,7 +8,6 @@
   ],
   "name": "EUROSIC SA",
   "legalName": "EUROSIC SA",
-  "bic": "EUOSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurosicsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUOSFRP1XXX"
 }

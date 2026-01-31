@@ -8,7 +8,6 @@
   ],
   "name": "JARVIS INVESTMENT MANAGEMENT PLC",
   "legalName": "JARVIS INVESTMENT MANAGEMENT PLC",
-  "bic": "JAIMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jarvisinvestmentmanagementplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JAIMGB21XXX"
 }

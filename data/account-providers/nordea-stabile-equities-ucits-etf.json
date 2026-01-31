@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA STABILE EQUITIES UCITS ETF",
   "legalName": "NORDEA STABILE EQUITIES UCITS ETF",
-  "bic": "NSEUFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeastabileequitiesucitsetf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSEUFIH1XXX"
 }

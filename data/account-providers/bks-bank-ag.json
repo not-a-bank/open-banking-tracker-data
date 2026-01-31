@@ -8,7 +8,6 @@
   ],
   "name": "BKS Bank AG",
   "legalName": "BKS BANK AG",
-  "bic": "BFKKAT2KGRA",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bksbank.com.ico",
@@ -24,11 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFKKAT2K"
 }

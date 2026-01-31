@@ -8,7 +8,6 @@
   ],
   "name": "TRADER FONDKOMMISSION TFK AB",
   "legalName": "TRADER FONDKOMMISSION TFK AB",
-  "bic": "TRFTSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.traderfondkommissiontfkab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRFTSES1XXX"
 }

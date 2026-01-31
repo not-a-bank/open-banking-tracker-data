@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Caixa de Cr\u00e9dito Agr\u00edcola Mutuo de Bombarral",
-  "legalName": "Caixa de Cr\u00e9dito Agr\u00edcola Mutuo de Bombarral",
+  "name": "Caixa de Crédito Agrícola Mutuo de Bombarral",
+  "legalName": "Caixa de Crédito Agrícola Mutuo de Bombarral",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixa-de-credito-agricola-mutuo-de-bombarral.com.ico",
@@ -23,10 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "CERTPTP1XXX"
+  "bic": "CERTPTP1"
 }

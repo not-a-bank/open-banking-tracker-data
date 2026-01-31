@@ -67,14 +67,15 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "salt-edge",
     "tink",
     "volt"
   ],
-  "swiftCode": "CLPEES2M",
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/laboralkutxa"
-  }
+  },
+  "bic": "CLPEES2M"
 }

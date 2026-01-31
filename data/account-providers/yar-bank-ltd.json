@@ -8,7 +8,6 @@
   ],
   "name": "YAR BANK LTD.",
   "legalName": "YAR BANK LTD.",
-  "bic": "OBIBRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.yarbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OBIBRUMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "STANBIC BANK BOTSWANA LIMITED",
   "legalName": "STANBIC BANK BOTSWANA LIMITED",
-  "bic": "SBICBWGXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stanbicbankbotswanalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBICBWGXXXX"
 }

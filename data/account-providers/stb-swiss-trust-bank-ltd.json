@@ -8,7 +8,6 @@
   ],
   "name": "STB SWISS TRUST BANK LTD",
   "legalName": "STB SWISS TRUST BANK LTD",
-  "bic": "STBSVCV1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stbswisstrustbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBSVCV1XXX"
 }

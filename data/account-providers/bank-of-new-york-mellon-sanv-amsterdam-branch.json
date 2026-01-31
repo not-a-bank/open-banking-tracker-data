@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF NEW YORK MELLON SA/NV, AMSTERDAM BRANCH",
   "legalName": "BANK OF NEW YORK MELLON SA/NV, AMSTERDAM BRANCH",
-  "bic": "BNYMNL22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofnewyorkmellonsanvamsterdambranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNYMNL22XXX"
 }

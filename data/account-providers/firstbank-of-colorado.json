@@ -8,7 +8,6 @@
   ],
   "name": "FIRSTBANK OF COLORADO",
   "legalName": "FIRSTBANK OF COLORADO",
-  "bic": "FBCRUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstbankofcolorado.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBCRUS51XXX"
 }

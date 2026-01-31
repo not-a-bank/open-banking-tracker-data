@@ -8,7 +8,6 @@
   ],
   "name": "AKTIVBANK AKTIENGESELLSCHAFT",
   "legalName": "AKTIVBANK AKTIENGESELLSCHAFT",
-  "bic": "AKBADES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aktivbankaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKBADES1XXX"
 }

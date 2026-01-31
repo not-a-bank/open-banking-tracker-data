@@ -8,7 +8,6 @@
   ],
   "name": "FIRST NATIONAL BANK OF PENNSYLVANIA",
   "legalName": "FIRST NATIONAL BANK OF PENNSYLVANIA",
-  "bic": "FNBPUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstnationalbankofpennsylvaniaus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNBPUS33XXX"
 }

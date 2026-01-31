@@ -8,7 +8,6 @@
   ],
   "name": "BANK NEGARA INDONESIA SEOUL BRANCH",
   "legalName": "BANK NEGARA INDONESIA SEOUL BRANCH",
-  "bic": "BNINKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banknegaraindonesiaseoulbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNINKRSEXXX"
 }

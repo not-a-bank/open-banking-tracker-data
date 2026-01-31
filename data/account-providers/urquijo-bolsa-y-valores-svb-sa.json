@@ -8,7 +8,6 @@
   ],
   "name": "URQUIJO BOLSA Y VALORES S.V.B., S.A",
   "legalName": "URQUIJO BOLSA Y VALORES S.V.B., S.A",
-  "bic": "UBAVESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.urquijobolsayvaloressvbsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBAVESM1XXX"
 }

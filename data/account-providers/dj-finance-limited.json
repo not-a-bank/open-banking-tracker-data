@@ -8,7 +8,6 @@
   ],
   "name": "DJ FINANCE LIMITED",
   "legalName": "DJ FINANCE LIMITED",
-  "bic": "FNNCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.djfinancelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNNCGB21XXX"
 }

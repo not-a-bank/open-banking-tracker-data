@@ -8,7 +8,6 @@
   ],
   "name": "AIRBUS GROUP S.E.",
   "legalName": "AIRBUS GROUP S.E.",
-  "bic": "EADSDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.airbusgroupse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EADSDEMMXXX"
 }

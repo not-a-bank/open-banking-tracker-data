@@ -8,7 +8,6 @@
   ],
   "name": "UBS ASSET MANAGEMENT AG",
   "legalName": "UBS ASSET MANAGEMENT AG",
-  "bic": "UBSACHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsassetmanagementag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSACHZZXXX"
 }

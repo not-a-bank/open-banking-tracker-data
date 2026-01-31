@@ -8,7 +8,6 @@
   ],
   "name": "SCHRODERS (C.I.) LIMITED",
   "legalName": "SCHRODERS (C.I.) LIMITED",
-  "bic": "SCHDGGSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schroderscilimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCHDGGSPXXX"
 }

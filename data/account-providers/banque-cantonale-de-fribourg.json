@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CANTONALE DE FRIBOURG",
   "legalName": "BANQUE CANTONALE DE FRIBOURG",
-  "bic": "BEFRCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecantonaledefribourg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEFRCH22XXX"
 }

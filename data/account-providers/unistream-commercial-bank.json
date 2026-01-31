@@ -8,7 +8,6 @@
   ],
   "name": "UNISTREAM COMMERCIAL BANK",
   "legalName": "UNISTREAM COMMERCIAL BANK",
-  "bic": "UMTNRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unistreamcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UMTNRUMMXXX"
 }

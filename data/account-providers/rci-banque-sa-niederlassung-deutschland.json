@@ -8,7 +8,6 @@
   ],
   "name": "RCI BANQUE S.A. NIEDERLASSUNG DEUTSCHLAND",
   "legalName": "RCI BANQUE S.A. NIEDERLASSUNG DEUTSCHLAND",
-  "bic": "RCIDDE3NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rcibanquesaniederlassungdeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCIDDE3NXXX"
 }

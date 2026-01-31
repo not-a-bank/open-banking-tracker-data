@@ -8,7 +8,6 @@
   ],
   "name": "BOLSA DE VALORES DO RIO DE JANEIRO",
   "legalName": "BOLSA DE VALORES DO RIO DE JANEIRO",
-  "bic": "XRIOBRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bolsadevaloresdoriodejaneiro.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XRIOBRR1XXX"
 }

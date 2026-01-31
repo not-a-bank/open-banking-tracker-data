@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET WMS LONDON",
   "legalName": "STATE STREET WMS LONDON",
-  "bic": "SSWLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetwmslondon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSWLGB21XXX"
 }

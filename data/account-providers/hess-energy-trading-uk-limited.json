@@ -8,7 +8,6 @@
   ],
   "name": "HESS ENERGY TRADING (UK) LIMITED",
   "legalName": "HESS ENERGY TRADING (UK) LIMITED",
-  "bic": "HEETGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hessenergytradinguklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEETGB21XXX"
 }

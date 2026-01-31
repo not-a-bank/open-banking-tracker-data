@@ -8,7 +8,6 @@
   ],
   "name": "BBVA - BANCO FRANCES S.A.",
   "legalName": "BBVA - BANCO FRANCES S.A.",
-  "bic": "BFRPARB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bbvabancofrancessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFRPARB1XXX"
 }

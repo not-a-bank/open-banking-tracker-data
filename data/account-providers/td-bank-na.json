@@ -8,7 +8,6 @@
   ],
   "name": "TD BANK, N.A.",
   "legalName": "TD BANK, N.A.",
-  "bic": "NRTHUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tdbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NRTHUS33XXX"
 }

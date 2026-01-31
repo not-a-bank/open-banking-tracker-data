@@ -8,7 +8,6 @@
   ],
   "name": "BANKHAUS NEELMEYER AG",
   "legalName": "BANKHAUS NEELMEYER AG",
-  "bic": "NEELDE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhausneelmeyerag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEELDE22XXX"
 }

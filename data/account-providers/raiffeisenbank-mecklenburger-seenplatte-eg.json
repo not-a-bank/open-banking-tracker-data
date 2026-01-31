@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK MECKLENBURGER SEENPLATTE EG",
   "legalName": "RAIFFEISENBANK MECKLENBURGER SEENPLATTE EG",
-  "bic": "RAENDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankmecklenburgerseenplatteeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAENDE21XXX"
 }

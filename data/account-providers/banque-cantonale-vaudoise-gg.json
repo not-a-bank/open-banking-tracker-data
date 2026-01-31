@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CANTONALE VAUDOISE",
   "legalName": "BANQUE CANTONALE VAUDOISE",
-  "bic": "BCVLGGSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecantonalevaudoisegg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCVLGGSPXXX"
 }

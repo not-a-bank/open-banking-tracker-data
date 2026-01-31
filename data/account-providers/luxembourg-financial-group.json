@@ -8,7 +8,6 @@
   ],
   "name": "LUXEMBOURG FINANCIAL GROUP",
   "legalName": "LUXEMBOURG FINANCIAL GROUP",
-  "bic": "LUFGLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.luxembourgfinancialgroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LUFGLUL1XXX"
 }

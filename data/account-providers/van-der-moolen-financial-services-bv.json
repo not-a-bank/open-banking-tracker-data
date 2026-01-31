@@ -8,7 +8,6 @@
   ],
   "name": "VAN DER MOOLEN FINANCIAL SERVICES B.V.",
   "legalName": "VAN DER MOOLEN FINANCIAL SERVICES B.V.",
-  "bic": "MOFVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vandermoolenfinancialservicesbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOFVNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ASSURANCES BANQUE POPULAIRE IARD",
   "legalName": "ASSURANCES BANQUE POPULAIRE IARD",
-  "bic": "ASPRFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.assurancesbanquepopulaireiard.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASPRFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "JERNBANEPERSONALETS SPAREBANK",
   "legalName": "JERNBANEPERSONALETS SPAREBANK",
-  "bic": "JERNNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jernbanepersonaletssparebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JERNNO21XXX"
 }

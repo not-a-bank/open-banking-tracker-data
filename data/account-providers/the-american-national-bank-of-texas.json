@@ -8,7 +8,6 @@
   ],
   "name": "THE AMERICAN NATIONAL BANK OF TEXAS",
   "legalName": "THE AMERICAN NATIONAL BANK OF TEXAS",
-  "bic": "ANBTUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theamericannationalbankoftexas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANBTUS44XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MAIF-MUTUELLE ASSURANCE INSTITUTEUR FRANCE",
   "legalName": "MAIF-MUTUELLE ASSURANCE INSTITUTEUR FRANCE",
-  "bic": "MMAIFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maifmutuelleassuranceinstituteurfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MMAIFR21XXX"
 }

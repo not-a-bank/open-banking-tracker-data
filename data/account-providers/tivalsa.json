@@ -8,7 +8,6 @@
   ],
   "name": "TIVALSA",
   "legalName": "TIVALSA",
-  "bic": "TIVADOS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tivalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TIVADOS1XXX"
 }

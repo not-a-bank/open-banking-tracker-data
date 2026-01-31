@@ -8,7 +8,6 @@
   ],
   "name": "AVTOVAZBANK JOINT-STOCK COMPANY",
   "legalName": "AVTOVAZBANK JOINT-STOCK COMPANY",
-  "bic": "AVBKRU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.avtovazbankjointstockcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVBKRU31XXX"
 }

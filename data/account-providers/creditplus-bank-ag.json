@@ -8,7 +8,6 @@
   ],
   "name": "CREDITPLUS BANK AG",
   "legalName": "CREDITPLUS BANK AG",
-  "bic": "CPLUDES2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditplusbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPLUDES2XXX"
 }

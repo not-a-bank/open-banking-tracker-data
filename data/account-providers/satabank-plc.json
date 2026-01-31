@@ -8,7 +8,6 @@
   ],
   "name": "SATABANK P.L.C.",
   "legalName": "SATABANK P.L.C.",
-  "bic": "STBAMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.satabankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBAMTMTXXX"
 }

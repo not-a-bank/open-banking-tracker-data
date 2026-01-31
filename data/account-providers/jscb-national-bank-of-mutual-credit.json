@@ -8,7 +8,6 @@
   ],
   "name": "JSCB NATIONAL BANK OF MUTUAL CREDIT",
   "legalName": "JSCB NATIONAL BANK OF MUTUAL CREDIT",
-  "bic": "NAMDRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jscbnationalbankofmutualcredit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAMDRUMMXXX"
 }

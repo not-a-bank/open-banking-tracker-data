@@ -8,7 +8,6 @@
   ],
   "name": "CEDEF FINANCE LIMITED",
   "legalName": "CEDEF FINANCE LIMITED",
-  "bic": "CEFIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cedeffinancelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEFIGB21XXX"
 }

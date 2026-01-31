@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF India",
   "legalName": "BANK OF INDIA",
-  "bic": "SBINBE2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofindia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBINBE2XXXX"
 }

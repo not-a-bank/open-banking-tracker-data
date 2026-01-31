@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE (CRCAM SUD MEDITERRANEE - ARIEGE - PYRENEES ORIENTALES S.E.)",
   "legalName": "CREDIT AGRICOLE (CRCAM SUD MEDITERRANEE - ARIEGE - PYRENEES ORIENTALES S.E.)",
-  "bic": "AGRIESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolecrcamsudmediterraneeariegepyre.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRIESB1XXX"
 }

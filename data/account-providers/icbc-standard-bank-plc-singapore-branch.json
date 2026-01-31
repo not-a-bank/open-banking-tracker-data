@@ -8,7 +8,6 @@
   ],
   "name": "ICBC STANDARD BANK PLC, SINGAPORE BRANCH",
   "legalName": "ICBC STANDARD BANK PLC, SINGAPORE BRANCH",
-  "bic": "SBSASGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icbcstandardbankplcsingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBSASGSGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FIRST SHANGHAI SECURITIES LTD",
   "legalName": "FIRST SHANGHAI SECURITIES LTD",
-  "bic": "FIHSHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstshanghaisecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIHSHKH1XXX"
 }

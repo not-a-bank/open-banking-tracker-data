@@ -8,7 +8,6 @@
   ],
   "name": "CORE FINANCIAL PRODUCTS PLC",
   "legalName": "CORE FINANCIAL PRODUCTS PLC",
-  "bic": "CONRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.corefinancialproductsplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONRGB21XXX"
 }

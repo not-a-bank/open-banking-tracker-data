@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA BANK (CAPITAL MANAGEMENT) PLC",
   "legalName": "DAIWA BANK (CAPITAL MANAGEMENT) PLC",
-  "bic": "DCAPGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwabankcapitalmanagementplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCAPGB21XXX"
 }

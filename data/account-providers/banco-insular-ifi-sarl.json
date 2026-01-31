@@ -8,7 +8,6 @@
   ],
   "name": "BANCO INSULAR (I.F.I) S.A.R.L.",
   "legalName": "BANCO INSULAR (I.F.I) S.A.R.L.",
-  "bic": "BILRCVC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoinsularifisarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BILRCVC1XXX"
 }

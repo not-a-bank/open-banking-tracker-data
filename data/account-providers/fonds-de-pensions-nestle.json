@@ -8,7 +8,6 @@
   ],
   "name": "FONDS DE PENSIONS NESTLE",
   "legalName": "FONDS DE PENSIONS NESTLE",
-  "bic": "FPNECH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fondsdepensionsnestle.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FPNECH22XXX"
 }

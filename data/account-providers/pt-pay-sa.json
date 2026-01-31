@@ -8,7 +8,6 @@
   ],
   "name": "PT PAY SA",
   "legalName": "PT PAY SA",
-  "bic": "PAYYPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptpaysa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAYYPTP1XXX"
 }

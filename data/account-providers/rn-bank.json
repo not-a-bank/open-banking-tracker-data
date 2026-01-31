@@ -8,7 +8,6 @@
   ],
   "name": "RN BANK",
   "legalName": "RN BANK",
-  "bic": "RNBKRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rnbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RNBKRUMMXXX"
 }

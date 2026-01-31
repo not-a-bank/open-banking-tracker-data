@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE LA Republica Oriental DEL Uruguay",
   "legalName": "BANCO DE LA REPUBLICA ORIENTAL DEL URUGUAY",
-  "bic": "BROUARBAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BROUARBAXXX"
 }

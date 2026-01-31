@@ -8,7 +8,6 @@
   ],
   "name": "BANCO COOPERATIVO DEL ESTE ARGENTINO LTDO.",
   "legalName": "BANCO COOPERATIVO DEL ESTE ARGENTINO LTDO.",
-  "bic": "CESTARB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocooperativodelesteargentinoltdo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CESTARB1XXX"
 }

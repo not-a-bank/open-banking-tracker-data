@@ -8,7 +8,6 @@
   ],
   "name": "TIS FINANCIAL SERVICES",
   "legalName": "TIS FINANCIAL SERVICES",
-  "bic": "TIFSUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tisfinancialservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TIFSUS61XXX"
 }

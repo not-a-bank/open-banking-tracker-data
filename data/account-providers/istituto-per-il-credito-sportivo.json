@@ -9,7 +9,6 @@
   ],
   "name": "ISTITUTO PER IL CREDITO SPORTIVO",
   "legalName": "ISTITUTO PER IL CREDITO SPORTIVO",
-  "bic": "ISCSITRRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/credito_valtellinese_oauth_client_it.svg",
@@ -30,9 +29,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISCSITRR"
 }

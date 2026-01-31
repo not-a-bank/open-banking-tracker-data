@@ -8,7 +8,6 @@
   ],
   "name": "ZAO CITIGROUP GLOBAL MARKETS",
   "legalName": "ZAO CITIGROUP GLOBAL MARKETS",
-  "bic": "ZCGMRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zaocitigroupglobalmarkets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZCGMRUM1XXX"
 }

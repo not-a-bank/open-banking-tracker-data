@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN KAPITALANLAGE GMBH",
   "legalName": "RAIFFEISEN KAPITALANLAGE GMBH",
-  "bic": "RKAGATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenkapitalanlagegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RKAGATWWXXX"
 }

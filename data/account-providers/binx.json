@@ -8,7 +8,6 @@
   ],
   "name": "Binx",
   "legalName": "BINX",
-  "bic": "BBIXHUHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.binx.hu.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBIXHUHHXXX"
 }

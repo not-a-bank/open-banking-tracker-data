@@ -8,7 +8,6 @@
   ],
   "name": "Carnegie Investment Bank, DK",
   "legalName": "CARNEGIE INVESTMENT BANK, DK",
-  "bic": "CARNEGIE",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CARNEGIE"
 }

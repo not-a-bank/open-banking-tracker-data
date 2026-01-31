@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK MUTUI S.P.A.",
   "legalName": "DEUTSCHE BANK MUTUI S.P.A.",
-  "bic": "DEMUITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankmutuispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEMUITM1XXX"
 }

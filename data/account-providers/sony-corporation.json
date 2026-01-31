@@ -8,7 +8,6 @@
   ],
   "name": "SONY CORPORATION",
   "legalName": "SONY CORPORATION",
-  "bic": "SONYJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sonycorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SONYJPJTXXX"
 }

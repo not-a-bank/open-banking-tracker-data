@@ -8,7 +8,6 @@
   ],
   "name": "PRIM FINANCE",
   "legalName": "PRIM FINANCE",
-  "bic": "PRMFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.primfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRMFFRP1XXX"
 }

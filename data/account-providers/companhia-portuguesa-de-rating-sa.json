@@ -8,7 +8,6 @@
   ],
   "name": "COMPANHIA PORTUGUESA DE RATING, S.A",
   "legalName": "COMPANHIA PORTUGUESA DE RATING, S.A",
-  "bic": "COOGPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.companhiaportuguesaderatingsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COOGPTP1XXX"
 }

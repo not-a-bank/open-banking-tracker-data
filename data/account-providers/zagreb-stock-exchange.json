@@ -8,7 +8,6 @@
   ],
   "name": "ZAGREB STOCK EXCHANGE",
   "legalName": "ZAGREB STOCK EXCHANGE",
-  "bic": "XZAGHR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zagrebstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XZAGHR21XXX"
 }

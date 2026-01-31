@@ -9,7 +9,6 @@
   ],
   "name": "SPAREBANKEN NARVIK",
   "legalName": "SPAREBANKEN NARVIK",
-  "bic": "NARVNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/2f4cf3cb-9a34-40f0-856d-fb5a504626f9/-/preview/170x170/-/crop/180x180/center/NO937903979.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NARVNO21"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AMSECURITIES SDN BHD",
   "legalName": "AMSECURITIES SDN BHD",
-  "bic": "AMSDMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amsecuritiessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMSDMYK1XXX"
 }

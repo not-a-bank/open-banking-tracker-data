@@ -1,0 +1,32 @@
+{
+  "id": "signet-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Signet Bank",
+  "legalName": "Signet Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.signet-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "LV",
+  "countries": [
+    "LV"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "LLBBLV2X"
+}

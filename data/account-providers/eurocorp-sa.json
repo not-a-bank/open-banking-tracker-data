@@ -8,7 +8,6 @@
   ],
   "name": "EUROCORP S.A.",
   "legalName": "EUROCORP S.A.",
-  "bic": "EUORGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurocorpsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUORGRA1XXX"
 }

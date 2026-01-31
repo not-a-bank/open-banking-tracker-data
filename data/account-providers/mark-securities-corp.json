@@ -8,7 +8,6 @@
   ],
   "name": "MARK SECURITIES CORP",
   "legalName": "MARK SECURITIES CORP",
-  "bic": "MAKCPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.marksecuritiescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAKCPHM1XXX"
 }

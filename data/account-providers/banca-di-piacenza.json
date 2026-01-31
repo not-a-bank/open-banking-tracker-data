@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DI PIACENZA",
   "legalName": "BANCA DI PIACENZA",
-  "bic": "BCPCIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadipiacenza.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCPCIT21XXX"
 }

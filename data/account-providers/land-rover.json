@@ -8,7 +8,6 @@
   ],
   "name": "LAND ROVER",
   "legalName": "LAND ROVER",
-  "bic": "JLRXGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.landrover.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JLRXGB22XXX"
 }

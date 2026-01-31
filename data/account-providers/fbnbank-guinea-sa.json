@@ -8,7 +8,6 @@
   ],
   "name": "FBNBANK GUINEA SA",
   "legalName": "FBNBANK GUINEA SA",
-  "bic": "ICMOGNCNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fbnbankguineasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICMOGNCNXXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "VOLKSBANK IM BERGISCHEN LAND EG",
   "legalName": "VOLKSBANK IM BERGISCHEN LAND EG",
-  "bic": "VBRSDE33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VBRSDE33XXX"
 }

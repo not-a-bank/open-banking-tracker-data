@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS S.A.-THE NETHERLANDS BRANCH",
   "legalName": "BNP PARIBAS S.A.-THE NETHERLANDS BRANCH",
-  "bic": "BNPANL2HXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassathenetherlandsbranchnl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPANL2HXXX"
 }

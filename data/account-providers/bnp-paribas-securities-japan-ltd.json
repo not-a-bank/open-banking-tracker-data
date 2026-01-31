@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SECURITIES (JAPAN) LTD.",
   "legalName": "BNP PARIBAS SECURITIES (JAPAN) LTD.",
-  "bic": "BNPAJPJ2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassecuritiesjapanltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAJPJ2XXX"
 }

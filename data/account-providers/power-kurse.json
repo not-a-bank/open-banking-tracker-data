@@ -8,7 +8,6 @@
   ],
   "name": "POWER-KURSE",
   "legalName": "POWER-KURSE",
-  "bic": "POWRDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.powerkurse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POWRDE71XXX"
 }

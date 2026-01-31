@@ -8,7 +8,6 @@
   ],
   "name": "UCPB SAVINGS BANK, INC.",
   "legalName": "UCPB SAVINGS BANK, INC.",
-  "bic": "UCSVPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ucpbsavingsbankinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UCSVPHM1XXX"
 }

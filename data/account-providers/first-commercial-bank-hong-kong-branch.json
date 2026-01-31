@@ -8,7 +8,6 @@
   ],
   "name": "FIRST COMMERCIAL BANK, HONG KONG BRANCH",
   "legalName": "FIRST COMMERCIAL BANK, HONG KONG BRANCH",
-  "bic": "FCBKHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstcommercialbankhongkongbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCBKHKHHXXX"
 }

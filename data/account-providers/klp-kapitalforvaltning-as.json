@@ -8,7 +8,6 @@
   ],
   "name": "KLP KAPITALFORVALTNING AS",
   "legalName": "KLP KAPITALFORVALTNING AS",
-  "bic": "KLPANOKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.klpkapitalforvaltningas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KLPANOKKXXX"
 }

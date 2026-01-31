@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA, PARIS BRANCH",
   "legalName": "BANK OF CHINA, PARIS BRANCH",
-  "bic": "BKCHFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinaparisbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHFRPPXXX"
 }

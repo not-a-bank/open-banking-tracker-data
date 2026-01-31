@@ -8,7 +8,6 @@
   ],
   "name": "JPM CCTVM S/A",
   "legalName": "JPM CCTVM S/A",
-  "bic": "JPCCBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmcctvmsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JPCCBRS1XXX"
 }

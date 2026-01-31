@@ -8,7 +8,6 @@
   ],
   "name": "NEWCASTLE BUILDING SOCIETY",
   "legalName": "NEWCASTLE BUILDING SOCIETY",
-  "bic": "NCLEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newcastlebuildingsociety.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NCLEGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ABBEY NATIONAL TREASURY SERVICES LTD US BRANCH",
   "legalName": "ABBEY NATIONAL TREASURY SERVICES LTD US BRANCH",
-  "bic": "ANTSUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abbeynationaltreasuryservicesltdusbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANTSUS33XXX"
 }

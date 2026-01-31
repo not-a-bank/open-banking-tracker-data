@@ -8,7 +8,6 @@
   ],
   "name": "AMERICAN EXPRESS BANK",
   "legalName": "AMERICAN EXPRESS BANK",
-  "bic": "AEIBZAJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.americanexpressbank.com.ico",
@@ -24,10 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AESUGB21"
 }

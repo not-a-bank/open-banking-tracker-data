@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL PYRENEES GASCOGNE",
   "legalName": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL PYRENEES GASCOGNE",
-  "bic": "CGRTFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionaledecreditagricolemutuelpyrenee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGRTFR21XXX"
 }

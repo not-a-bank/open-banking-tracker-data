@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE AG,LOS ANGELES REPRESENTATIVE OFFICE",
   "legalName": "CREDIT SUISSE AG,LOS ANGELES REPRESENTATIVE OFFICE",
-  "bic": "CRESUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseaglosangelesrepresentativeoffice.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESUS61XXX"
 }

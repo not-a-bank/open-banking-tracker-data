@@ -8,7 +8,6 @@
   ],
   "name": "TECNO SPA",
   "legalName": "TECNO SPA",
-  "bic": "TENOITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tecnospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TENOITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK GABORONE LIMITED",
   "legalName": "BANK GABORONE LIMITED",
-  "bic": "BGLIBWGXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankgaboronelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGLIBWGXXXX"
 }

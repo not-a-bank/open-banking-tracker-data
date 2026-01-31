@@ -9,7 +9,6 @@
   ],
   "name": "NATIONAL-BANK AG",
   "legalName": "NATIONAL-BANK AG",
-  "bic": "NBAGDE3EXXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/au/national_bank_of_australia_au.svg",
@@ -37,5 +36,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBAGDE3EXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TRANSATLANTIQUE FINANCE",
   "legalName": "TRANSATLANTIQUE FINANCE",
-  "bic": "TRFNFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.transatlantiquefinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRFNFRP1XXX"
 }

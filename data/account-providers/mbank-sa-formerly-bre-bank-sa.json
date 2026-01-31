@@ -8,7 +8,6 @@
   ],
   "name": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
   "legalName": "MBANK S.A. (FORMERLY BRE BANK S.A.)",
-  "bic": "BREXPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mbanksaformerlybrebanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BREXPLPWXXX"
 }

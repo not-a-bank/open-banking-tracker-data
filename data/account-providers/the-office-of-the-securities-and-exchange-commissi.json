@@ -8,7 +8,6 @@
   ],
   "name": "THE OFFICE OF THE SECURITIES AND EXCHANGE COMMISSION",
   "legalName": "THE OFFICE OF THE SECURITIES AND EXCHANGE COMMISSION",
-  "bic": "OSECTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theofficeofthesecuritiesandexchangecommissi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OSECTHB1XXX"
 }

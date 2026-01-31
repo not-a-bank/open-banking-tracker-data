@@ -8,7 +8,6 @@
   ],
   "name": "AIB Bank",
   "legalName": "AIB BANK",
-  "bic": "AIBKIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aib.ie.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIBKIE2DXXX"
 }

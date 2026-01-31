@@ -8,7 +8,6 @@
   ],
   "name": "EDMOND DE ROTHSCHILD (SUISSE) S.A.",
   "legalName": "EDMOND DE ROTHSCHILD (SUISSE) S.A.",
-  "bic": "PRIBCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.edmondderothschildsuissesach.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRIBCHGGXXX"
 }

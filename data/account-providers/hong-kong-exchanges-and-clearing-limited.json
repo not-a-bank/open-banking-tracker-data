@@ -8,7 +8,6 @@
   ],
   "name": "HONG KONG EXCHANGES AND CLEARING LIMITED",
   "legalName": "HONG KONG EXCHANGES AND CLEARING LIMITED",
-  "bic": "HKEXHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hongkongexchangesandclearinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HKEXHKHHXXX"
 }

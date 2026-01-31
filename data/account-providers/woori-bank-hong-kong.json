@@ -8,7 +8,6 @@
   ],
   "name": "WOORI BANK, HONG KONG",
   "legalName": "WOORI BANK, HONG KONG",
-  "bic": "HVBKHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wooribankhongkong.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HVBKHKHHXXX"
 }

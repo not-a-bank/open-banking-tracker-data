@@ -8,7 +8,6 @@
   ],
   "name": "LONDON TRUST BANK PLC",
   "legalName": "LONDON TRUST BANK PLC",
-  "bic": "LOTBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.londontrustbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOTBGB21XXX"
 }

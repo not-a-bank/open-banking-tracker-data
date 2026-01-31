@@ -8,7 +8,6 @@
   ],
   "name": "SET AG",
   "legalName": "SET AG",
-  "bic": "SESWCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.setag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SESWCH21XXX"
 }

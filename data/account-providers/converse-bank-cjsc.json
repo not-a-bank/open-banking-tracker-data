@@ -8,7 +8,6 @@
   ],
   "name": "Converse Bank Cjsc",
   "legalName": "CONVERSE BANK CJSC",
-  "bic": "COVBAM22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COVBAM22XXX"
 }

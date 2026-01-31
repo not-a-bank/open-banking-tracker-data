@@ -8,7 +8,6 @@
   ],
   "name": "CORIOLIS BANKING CORPORATION",
   "legalName": "CORIOLIS BANKING CORPORATION",
-  "bic": "CLORKMK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.coriolisbankingcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLORKMK1XXX"
 }

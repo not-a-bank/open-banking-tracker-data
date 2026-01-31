@@ -8,7 +8,6 @@
   ],
   "name": "TIR SECURITIES (AUSTRALIA) PTY. LTD.",
   "legalName": "TIR SECURITIES (AUSTRALIA) PTY. LTD.",
-  "bic": "STIRAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tirsecuritiesaustraliaptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STIRAU31XXX"
 }

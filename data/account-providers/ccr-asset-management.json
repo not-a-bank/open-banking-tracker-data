@@ -8,7 +8,6 @@
   ],
   "name": "CCR ASSET MANAGEMENT",
   "legalName": "CCR ASSET MANAGEMENT",
-  "bic": "UGAAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ccrassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UGAAFRP1XXX"
 }

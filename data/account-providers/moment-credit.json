@@ -8,7 +8,6 @@
   ],
   "name": "MOMENT CREDIT",
   "legalName": "MOMENT CREDIT",
-  "bic": "MMCRLT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.momentcredit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MMCRLT21XXX"
 }

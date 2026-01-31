@@ -8,7 +8,6 @@
   ],
   "name": "TURICUM PRIVATE BANK LIMITED",
   "legalName": "TURICUM PRIVATE BANK LIMITED",
-  "bic": "TURCGIGIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.turicumprivatebanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TURCGIGIXXX"
 }

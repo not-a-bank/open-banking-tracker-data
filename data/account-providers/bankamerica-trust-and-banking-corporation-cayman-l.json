@@ -8,7 +8,6 @@
   ],
   "name": "BANKAMERICA TRUST AND BANKING CORPORATION (CAYMAN) LIMITED",
   "legalName": "BANKAMERICA TRUST AND BANKING CORPORATION (CAYMAN) LIMITED",
-  "bic": "BOFAKYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankamericatrustandbankingcorporationcaymanl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAKYK1XXX"
 }

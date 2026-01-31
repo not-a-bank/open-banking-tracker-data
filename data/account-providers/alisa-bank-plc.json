@@ -8,7 +8,6 @@
   ],
   "name": "Alisa Bank PLC",
   "legalName": "ALISA BANK PLC",
-  "bic": "EVSEFIHHFND",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alisabank.fi.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EVSEFIHHFND"
 }

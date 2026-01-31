@@ -8,7 +8,6 @@
   ],
   "name": "ERSTE BANK A.D. NOVI SAD",
   "legalName": "ERSTE BANK A.D. NOVI SAD",
-  "bic": "GIBARS22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.erstebankadnovisad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIBARS22XXX"
 }

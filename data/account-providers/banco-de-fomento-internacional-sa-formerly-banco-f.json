@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE FOMENTO INTERNACIONAL, S.A. (FORMERLY BANCO FIDUCIARIO INTERNACIONAL (I.F.I.), S.A.)",
   "legalName": "BANCO DE FOMENTO INTERNACIONAL, S.A. (FORMERLY BANCO FIDUCIARIO INTERNACIONAL (I.F.I.), S.A.)",
-  "bic": "BFIICVCVXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodefomentointernacionalsaformerlybancof.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFIICVCVXXX"
 }

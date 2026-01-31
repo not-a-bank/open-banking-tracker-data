@@ -8,7 +8,6 @@
   ],
   "name": "FOREX BANK AB, FILIAL I FINLAND",
   "legalName": "FOREX BANK AB, FILIAL I FINLAND",
-  "bic": "FORXFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.forexbankabfilialifinland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FORXFIH1XXX"
 }

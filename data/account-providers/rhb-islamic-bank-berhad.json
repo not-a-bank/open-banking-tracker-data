@@ -8,7 +8,6 @@
   ],
   "name": "RHB ISLAMIC BANK BERHAD",
   "legalName": "RHB ISLAMIC BANK BERHAD",
-  "bic": "RHBAMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rhbislamicbankberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RHBAMYKLXXX"
 }

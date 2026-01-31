@@ -8,7 +8,6 @@
   ],
   "name": "EDWARD JONES LIMITED",
   "legalName": "EDWARD JONES LIMITED",
-  "bic": "EDJOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.edwardjoneslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EDJOGB21XXX"
 }

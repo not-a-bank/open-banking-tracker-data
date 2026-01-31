@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY MENKUL DEGERLER ANONIM SIRKETI",
   "legalName": "MORGAN STANLEY MENKUL DEGERLER ANONIM SIRKETI",
-  "bic": "MSMDTRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleymenkuldegerleranonimsirketi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSMDTRISXXX"
 }

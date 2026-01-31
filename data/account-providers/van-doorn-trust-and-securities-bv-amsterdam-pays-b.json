@@ -8,7 +8,6 @@
   ],
   "name": "VAN DOORN TRUST AND SECURITIES B.V. AMSTERDAM (PAYS-BAS), SUCCURSALE DE LUXEMBOURG",
   "legalName": "VAN DOORN TRUST AND SECURITIES B.V. AMSTERDAM (PAYS-BAS), SUCCURSALE DE LUXEMBOURG",
-  "bic": "VDTSLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vandoorntrustandsecuritiesbvamsterdampaysb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VDTSLUL1XXX"
 }

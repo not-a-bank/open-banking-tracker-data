@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BPI",
   "legalName": "BANCO BPI",
-  "bic": "BBPIKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobpi.com.ico",
@@ -24,11 +23,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBPIPTPL"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CETIP / CENTRAL DE CUSTODIA E DE LIQUIDACAO FINANCEIRA DE TITULOS",
   "legalName": "CETIP / CENTRAL DE CUSTODIA E DE LIQUIDACAO FINANCEIRA DE TITULOS",
-  "bic": "CETIBRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cetipcentraldecustodiaedeliquidacaofinancei.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CETIBRR1XXX"
 }

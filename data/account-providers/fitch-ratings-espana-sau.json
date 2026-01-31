@@ -8,7 +8,6 @@
   ],
   "name": "FITCH RATINGS ESPANA. S.A.U.",
   "legalName": "FITCH RATINGS ESPANA. S.A.U.",
-  "bic": "FRIPESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchratingsespanasau.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPESB1XXX"
 }

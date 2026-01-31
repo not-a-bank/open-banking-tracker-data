@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE DU CREDIT MUTUEL MEDITERRANEEN SOCIETE COOPERATIVE DE CREDIT",
   "legalName": "CAISSE REGIONALE DU CREDIT MUTUEL MEDITERRANEEN SOCIETE COOPERATIVE DE CREDIT",
-  "bic": "CFITFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionaleducreditmutuelmediterraneenso.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFITFR21XXX"
 }

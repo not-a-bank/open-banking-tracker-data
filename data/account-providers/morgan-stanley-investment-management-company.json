@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY INVESTMENT MANAGEMENT COMPANY",
   "legalName": "MORGAN STANLEY INVESTMENT MANAGEMENT COMPANY",
-  "bic": "MSAMSGSXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleyinvestmentmanagementcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSAMSGSXXXX"
 }

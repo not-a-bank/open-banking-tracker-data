@@ -8,7 +8,6 @@
   ],
   "name": "VENCAP INTERNATIONAL PLC",
   "legalName": "VENCAP INTERNATIONAL PLC",
-  "bic": "VEINGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vencapinternationalplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VEINGB21XXX"
 }

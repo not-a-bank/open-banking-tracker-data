@@ -9,7 +9,6 @@
   ],
   "name": "OFOTEN SPAREBANK",
   "legalName": "OFOTEN SPAREBANK",
-  "bic": "OFSPNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/bedb711e-b36e-4c07-87fd-c8806073ebe9/-/preview/170x170/-/crop/180x180/center/NO955008863.png",
@@ -61,5 +60,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OFSPNO21XXX"
 }

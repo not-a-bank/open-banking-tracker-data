@@ -8,7 +8,6 @@
   ],
   "name": "VIA BOURSE S.A.",
   "legalName": "VIA BOURSE S.A.",
-  "bic": "VIBOFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.viaboursesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIBOFRP1XXX"
 }

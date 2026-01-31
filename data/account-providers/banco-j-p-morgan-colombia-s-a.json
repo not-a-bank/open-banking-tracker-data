@@ -8,7 +8,6 @@
   ],
   "name": "Banco J.p. Morgan Colombia S.a.",
   "legalName": "BANCO J.P. MORGAN COLOMBIA S.A.",
-  "bic": "CHASCOBBLIM",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASCOBBLIM"
 }

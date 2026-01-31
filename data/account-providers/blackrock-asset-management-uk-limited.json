@@ -8,7 +8,6 @@
   ],
   "name": "BLACKROCK ASSET MANAGEMENT UK LIMITED",
   "legalName": "BLACKROCK ASSET MANAGEMENT UK LIMITED",
-  "bic": "MLAAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.blackrockassetmanagementuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLAAGB21XXX"
 }

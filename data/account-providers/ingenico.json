@@ -8,7 +8,6 @@
   ],
   "name": "INGENICO",
   "legalName": "INGENICO",
-  "bic": "IGENFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingenico.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IGENFR22XXX"
 }

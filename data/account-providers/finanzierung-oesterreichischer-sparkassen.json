@@ -8,7 +8,6 @@
   ],
   "name": "FINANZIERUNG OESTERREICHISCHER SPARKASSEN",
   "legalName": "FINANZIERUNG OESTERREICHISCHER SPARKASSEN",
-  "bic": "FIOPATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finanzierungoesterreichischersparkassen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIOPATW1XXX"
 }

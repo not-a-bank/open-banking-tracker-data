@@ -8,7 +8,6 @@
   ],
   "name": "SPAR- UND DARLEHNSKASSE BOERDE LAMSTEDT-HECHTHAUSEN EG",
   "legalName": "SPAR- UND DARLEHNSKASSE BOERDE LAMSTEDT-HECHTHAUSEN EG",
-  "bic": "SDBTDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparunddarlehnskasseboerdelamstedthechthausen.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODEF1LAS"
 }

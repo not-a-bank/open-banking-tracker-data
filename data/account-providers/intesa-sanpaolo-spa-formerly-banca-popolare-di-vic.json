@@ -8,7 +8,6 @@
   ],
   "name": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
   "legalName": "INTESA SANPAOLO SPA (FORMERLY BANCA POPOLARE DI VICENZA)",
-  "bic": "BPVIIT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intesasanpaolospaformerlybancapopolaredivic.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPVIIT22XXX"
 }

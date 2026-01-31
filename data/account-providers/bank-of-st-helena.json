@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF ST. HELENA",
   "legalName": "BANK OF ST. HELENA",
-  "bic": "BHELSHJJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofsthelena.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHELSHJJXXX"
 }

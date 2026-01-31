@@ -8,7 +8,6 @@
   ],
   "name": "NPEX B.V.",
   "legalName": "NPEX B.V.",
-  "bic": "NPEXNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.npexbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NPEXNL21XXX"
 }

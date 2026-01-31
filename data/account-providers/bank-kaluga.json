@@ -8,7 +8,6 @@
   ],
   "name": "BANK KALUGA",
   "legalName": "BANK KALUGA",
-  "bic": "KALGRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankkaluga.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KALGRU21XXX"
 }

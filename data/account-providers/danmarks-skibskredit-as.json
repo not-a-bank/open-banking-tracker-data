@@ -8,7 +8,6 @@
   ],
   "name": "DANMARKS SKIBSKREDIT A/S",
   "legalName": "DANMARKS SKIBSKREDIT A/S",
-  "bic": "SKIBDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.danmarksskibskreditas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKIBDKK1XXX"
 }

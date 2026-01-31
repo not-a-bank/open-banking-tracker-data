@@ -8,7 +8,6 @@
   ],
   "name": "IBL BANK S.A.L.(FORMERLY INTERCONTINENTAL BANK OF LEBANON S.A.L.)",
   "legalName": "IBL BANK S.A.L.(FORMERLY INTERCONTINENTAL BANK OF LEBANON S.A.L.)",
-  "bic": "INLELBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iblbanksalformerlyintercontinentalbankofleba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INLELBBEXXX"
 }

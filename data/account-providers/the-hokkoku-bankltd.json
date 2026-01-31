@@ -8,7 +8,6 @@
   ],
   "name": "THE HOKKOKU BANK,LTD",
   "legalName": "THE HOKKOKU BANK,LTD",
-  "bic": "HKOKSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thehokkokubankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HKOKSGSGXXX"
 }

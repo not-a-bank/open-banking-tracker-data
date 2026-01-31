@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE AG, GUERNSEY BRANCH",
   "legalName": "CREDIT SUISSE AG, GUERNSEY BRANCH",
-  "bic": "CRESGGSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseagguernseybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESGGSPXXX"
 }

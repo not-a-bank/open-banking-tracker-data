@@ -9,7 +9,6 @@
   ],
   "name": "BANKHAUS LAMPE KG",
   "legalName": "BANKHAUS LAMPE KG",
-  "bic": "LAMPDEDDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/bankhaus_lampe_de.svg",
@@ -37,5 +36,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAMPDEDDXXX"
 }

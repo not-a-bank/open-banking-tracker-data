@@ -8,7 +8,6 @@
   ],
   "name": "AFI EUROPE SAS",
   "legalName": "AFI EUROPE SAS",
-  "bic": "AFERFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.afieuropesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFERFR21XXX"
 }

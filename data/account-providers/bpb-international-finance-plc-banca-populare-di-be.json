@@ -8,7 +8,6 @@
   ],
   "name": "BPB INTERNATIONAL FINANCE PLC (BANCA POPULARE DI BERGAMO - CV BANKING GROUP)",
   "legalName": "BPB INTERNATIONAL FINANCE PLC (BANCA POPULARE DI BERGAMO - CV BANKING GROUP)",
-  "bic": "BEPOIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bpbinternationalfinanceplcbancapopularedibe.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEPOIE21XXX"
 }

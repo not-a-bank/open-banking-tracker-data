@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE BANK AND TRUST (ACTING AS FIDUCIARY)",
   "legalName": "SOCIETE GENERALE BANK AND TRUST (ACTING AS FIDUCIARY)",
-  "bic": "SGABLU23XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralebankandtrustactingasfiduciar.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGABLU23XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANKHAUS C.L. SEELIGER KG",
   "legalName": "BANKHAUS C.L. SEELIGER KG",
-  "bic": "BCLSDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhausclseeligerkg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCLSDE21XXX"
 }

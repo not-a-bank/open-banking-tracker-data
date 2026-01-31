@@ -8,7 +8,6 @@
   ],
   "name": "SCHLUMBERGER FINANCE BV",
   "legalName": "SCHLUMBERGER FINANCE BV",
-  "bic": "SFBVNL2GXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schlumbergerfinancebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFBVNL2GXXX"
 }

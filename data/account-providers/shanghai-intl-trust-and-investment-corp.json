@@ -8,7 +8,6 @@
   ],
   "name": "SHANGHAI INT'L TRUST AND INVESTMENT CORP.",
   "legalName": "SHANGHAI INT'L TRUST AND INVESTMENT CORP.",
-  "bic": "SITICNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shanghaiintltrustandinvestmentcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SITICNS1XXX"
 }

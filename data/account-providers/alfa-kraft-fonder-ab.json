@@ -8,7 +8,6 @@
   ],
   "name": "ALFA KRAFT FONDER AB",
   "legalName": "ALFA KRAFT FONDER AB",
-  "bic": "ALKFSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alfakraftfonderab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALKFSES1XXX"
 }

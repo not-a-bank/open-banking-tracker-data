@@ -8,7 +8,6 @@
   ],
   "name": "NIKKO ASSET MANAGEMENT SINGAPORE LIMITED",
   "legalName": "NIKKO ASSET MANAGEMENT SINGAPORE LIMITED",
-  "bic": "NCMSSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nikkoassetmanagementsingaporelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NCMSSGS1XXX"
 }

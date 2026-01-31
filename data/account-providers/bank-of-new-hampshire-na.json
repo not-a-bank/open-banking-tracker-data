@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF NEW HAMPSHIRE NA",
   "legalName": "BANK OF NEW HAMPSHIRE NA",
-  "bic": "BNHAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofnewhampshirena.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNHAUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ODB EQUITIES",
   "legalName": "ODB EQUITIES",
-  "bic": "ODEQFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.odbequities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ODEQFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BANKA SLOVENIJA D.D.",
   "legalName": "UNICREDIT BANKA SLOVENIJA D.D.",
-  "bic": "BACXSI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbankaslovenijadd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACXSI22XXX"
 }

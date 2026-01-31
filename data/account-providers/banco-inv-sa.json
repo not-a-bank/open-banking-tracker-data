@@ -8,7 +8,6 @@
   ],
   "name": "BANCO INV, S.A.",
   "legalName": "BANCO INV, S.A.",
-  "bic": "FIVNGTG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoinvsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIVNGTG1XXX"
 }

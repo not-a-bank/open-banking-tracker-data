@@ -8,7 +8,6 @@
   ],
   "name": "AGENTE DE CAMBIO EL EFECTIVO C.POR.A",
   "legalName": "AGENTE DE CAMBIO EL EFECTIVO C.POR.A",
-  "bic": "ACECDOS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agentedecambioelefectivocpora.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACECDOS1XXX"
 }

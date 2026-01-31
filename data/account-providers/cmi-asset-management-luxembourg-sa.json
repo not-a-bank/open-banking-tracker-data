@@ -8,7 +8,6 @@
   ],
   "name": "CMI ASSET MANAGEMENT (LUXEMBOURG) S.A.",
   "legalName": "CMI ASSET MANAGEMENT (LUXEMBOURG) S.A.",
-  "bic": "CMIALUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cmiassetmanagementluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMIALUL1XXX"
 }

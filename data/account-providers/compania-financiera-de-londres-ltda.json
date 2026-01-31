@@ -8,7 +8,6 @@
   ],
   "name": "COMPANIA FINANCIERA DE LONDRES LTDA.",
   "legalName": "COMPANIA FINANCIERA DE LONDRES LTDA.",
-  "bic": "FILOCRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.companiafinancieradelondresltda.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FILOCRS1XXX"
 }

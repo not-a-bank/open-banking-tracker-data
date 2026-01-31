@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA AKTIEFONDEN SVERIGE",
   "legalName": "NORDEA AKTIEFONDEN SVERIGE",
-  "bic": "NOKVFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaaktiefondensverige.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOKVFIH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY HONG KONG SECURITIES LIMITED",
   "legalName": "MORGAN STANLEY HONG KONG SECURITIES LIMITED",
-  "bic": "MSSEHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleyhongkongsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSSEHKH1XXX"
 }

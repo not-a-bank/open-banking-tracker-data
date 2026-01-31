@@ -8,7 +8,6 @@
   ],
   "name": "DBS TRADING (PTE) LTD.",
   "legalName": "DBS TRADING (PTE) LTD.",
-  "bic": "DBSTSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dbstradingpteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBSTSGS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
   "legalName": "BANCO DE RESERVAS DE LA REPUBLICA DOMINICANA",
-  "bic": "BRRDDOSDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodereservasdelarepublicadominicana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRRDDOSDXXX"
 }

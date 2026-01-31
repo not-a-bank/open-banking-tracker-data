@@ -8,7 +8,6 @@
   ],
   "name": "GLAXOSMITHKLINE  FINANCE PLC",
   "legalName": "GLAXOSMITHKLINE  FINANCE PLC",
-  "bic": "GSKFGB2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.glaxosmithklinefinanceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSKFGB2AXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN CAPITAL AND INVESTMENT S.A.",
   "legalName": "RAIFFEISEN CAPITAL AND INVESTMENT S.A.",
-  "bic": "RACIROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisencapitalandinvestmentsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RACIROB1XXX"
 }

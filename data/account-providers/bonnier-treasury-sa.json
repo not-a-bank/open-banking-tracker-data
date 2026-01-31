@@ -8,7 +8,6 @@
   ],
   "name": "BONNIER TREASURY S.A.",
   "legalName": "BONNIER TREASURY S.A.",
-  "bic": "BOTELUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bonniertreasurysa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTELUL1XXX"
 }

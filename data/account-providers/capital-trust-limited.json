@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL TRUST LIMITED",
   "legalName": "CAPITAL TRUST LIMITED",
-  "bic": "CATUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitaltrustlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CATUGB21XXX"
 }

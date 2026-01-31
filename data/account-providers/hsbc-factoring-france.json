@@ -8,7 +8,6 @@
   ],
   "name": "HSBC FACTORING FRANCE",
   "legalName": "HSBC FACTORING FRANCE",
-  "bic": "ELFAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcfactoringfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ELFAFRP1XXX"
 }

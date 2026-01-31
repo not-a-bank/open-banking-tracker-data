@@ -8,7 +8,6 @@
   ],
   "name": "RESURS BANK AKTIEBOLAG",
   "legalName": "RESURS BANK AKTIEBOLAG",
-  "bic": "RESUSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.resursbankaktiebolag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RESUSE21XXX"
 }

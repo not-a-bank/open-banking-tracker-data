@@ -8,7 +8,6 @@
   ],
   "name": "AXIS BANK LIMITED(FORMERLY UTI BANK)",
   "legalName": "AXIS BANK LIMITED(FORMERLY UTI BANK)",
-  "bic": "UTIBSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axisbanklimitedformerlyutibank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UTIBSGS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KREFIMA N.V./S.A.",
   "legalName": "KREFIMA N.V./S.A.",
-  "bic": "KREFBE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.krefimanvsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KREFBE21XXX"
 }

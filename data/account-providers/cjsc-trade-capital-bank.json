@@ -8,7 +8,6 @@
   ],
   "name": "CJSC TRADE CAPITAL BANK",
   "legalName": "CJSC TRADE CAPITAL BANK",
-  "bic": "BBTKBY2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cjsctradecapitalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBTKBY2XXXX"
 }

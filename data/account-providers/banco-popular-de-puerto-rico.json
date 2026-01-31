@@ -8,7 +8,6 @@
   ],
   "name": "BANCO POPULAR DE PUERTO RICO",
   "legalName": "BANCO POPULAR DE PUERTO RICO",
-  "bic": "BPPRPRSBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancopopulardepuertorico.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPPRPRSBXXX"
 }

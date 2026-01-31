@@ -1,7 +1,12 @@
 {
   "id": "bancoestado",
-  "type": ["account"],
-  "bankType": ["retail", "universal"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "universal"
+  ],
   "status": "live",
   "name": "BancoEstado",
   "legalName": "Banco del Estado de Chile",
@@ -12,12 +17,13 @@
   "ownership": [],
   "stateOwned": true,
   "countryHQ": "CL",
-  "countries": ["CL"],
+  "countries": [
+    "CL"
+  ],
   "compliance": [],
   "sandbox": {
     "status": "unavailable"
   },
-  "bic": "BABORCLRMXXX",
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
@@ -45,5 +51,6 @@
   "twitter": "bancoestado",
   "crunchbase": null,
   "github": null,
-  "articles": []
+  "articles": [],
+  "bic": "BABORCLRMXXX"
 }

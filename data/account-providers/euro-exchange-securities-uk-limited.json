@@ -8,7 +8,6 @@
   ],
   "name": "EURO EXCHANGE SECURITIES UK LIMITED",
   "legalName": "EURO EXCHANGE SECURITIES UK LIMITED",
-  "bic": "EUETGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euroexchangesecuritiesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUETGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ANTIQUE STOCK BROKING LTD",
   "legalName": "ANTIQUE STOCK BROKING LTD",
-  "bic": "ANSRINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.antiquestockbrokingltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANSRINB1XXX"
 }

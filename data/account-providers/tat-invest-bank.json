@@ -8,7 +8,6 @@
   ],
   "name": "TAT INVEST BANK",
   "legalName": "TAT INVEST BANK",
-  "bic": "TANVRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tatinvestbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TANVRU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCA IFIS SPA",
   "legalName": "BANCA IFIS SPA",
-  "bic": "IFISIT2VXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaifisspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IFISIT2VXXX"
 }

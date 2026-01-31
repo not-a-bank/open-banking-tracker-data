@@ -8,7 +8,6 @@
   ],
   "name": "PLAZA PARK STATE BANK",
   "legalName": "PLAZA PARK STATE BANK",
-  "bic": "PLPSUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.plazaparkstatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLPSUS41XXX"
 }

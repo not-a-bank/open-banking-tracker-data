@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY TRUST COMPANY",
   "legalName": "MORGAN STANLEY TRUST COMPANY",
-  "bic": "MSGSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleytrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSGSGB21XXX"
 }

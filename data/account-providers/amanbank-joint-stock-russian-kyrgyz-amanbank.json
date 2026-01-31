@@ -8,7 +8,6 @@
   ],
   "name": "AMANBANK (JOINT-STOCK RUSSIAN-KYRGYZ AMANBANK)",
   "legalName": "AMANBANK (JOINT-STOCK RUSSIAN-KYRGYZ AMANBANK)",
-  "bic": "AJRAKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amanbankjointstockrussiankyrgyzamanbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AJRAKG22XXX"
 }

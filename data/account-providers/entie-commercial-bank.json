@@ -8,7 +8,6 @@
   ],
   "name": "ENTIE COMMERCIAL BANK",
   "legalName": "ENTIE COMMERCIAL BANK",
-  "bic": "ENTITWTPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.entiecommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENTITWTPXXX"
 }

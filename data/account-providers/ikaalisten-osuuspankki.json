@@ -8,7 +8,6 @@
   ],
   "name": "IKAALISTEN OSUUSPANKKI",
   "legalName": "IKAALISTEN OSUUSPANKKI",
-  "bic": "IKOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ikaalistenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IKOSFI21XXX"
 }

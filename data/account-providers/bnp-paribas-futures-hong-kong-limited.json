@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS FUTURES (HONG KONG) LIMITED",
   "legalName": "BNP PARIBAS FUTURES (HONG KONG) LIMITED",
-  "bic": "BFHOHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasfutureshongkonglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFHOHKH1XXX"
 }

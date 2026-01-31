@@ -8,7 +8,6 @@
   ],
   "name": "PRIMMA VALORES, S.A. PUESTO DE BOLSA",
   "legalName": "PRIMMA VALORES, S.A. PUESTO DE BOLSA",
-  "bic": "PVPODOS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.primmavaloressapuestodebolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PVPODOS1XXX"
 }

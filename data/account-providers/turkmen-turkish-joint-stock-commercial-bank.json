@@ -8,7 +8,6 @@
   ],
   "name": "TURKMEN TURKISH JOINT STOCK COMMERCIAL BANK",
   "legalName": "TURKMEN TURKISH JOINT STOCK COMMERCIAL BANK",
-  "bic": "TUTCTM2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.turkmenturkishjointstockcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TUTCTM2XXXX"
 }

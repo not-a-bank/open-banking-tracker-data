@@ -8,7 +8,6 @@
   ],
   "name": "OCCIDENTAL BANK BARBADOS (LTD)",
   "legalName": "OCCIDENTAL BANK BARBADOS (LTD)",
-  "bic": "OCCIBBBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.occidentalbankbarbadosltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OCCIBBBBXXX"
 }

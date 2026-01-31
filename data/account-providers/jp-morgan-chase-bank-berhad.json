@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN CHASE BANK BERHAD",
   "legalName": "J.P. MORGAN CHASE BANK BERHAD",
-  "bic": "CHASMYL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganchasebankberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASMYL1XXX"
 }

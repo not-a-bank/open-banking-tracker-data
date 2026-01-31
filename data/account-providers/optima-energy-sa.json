@@ -8,7 +8,6 @@
   ],
   "name": "OPTIMA ENERGY SA",
   "legalName": "OPTIMA ENERGY SA",
-  "bic": "OPERCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.optimaenergysa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPERCHG1XXX"
 }

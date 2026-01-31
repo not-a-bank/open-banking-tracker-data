@@ -8,7 +8,6 @@
   ],
   "name": "KUUSAMON OSUUSPANKKI",
   "legalName": "KUUSAMON OSUUSPANKKI",
-  "bic": "KUSSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kuusamonosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KUSSFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CA INDOSUEZ (SWITZERLAND) SA",
   "legalName": "CA INDOSUEZ (SWITZERLAND) SA",
-  "bic": "AGRICHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caindosuezswitzerlandsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRICHGGXXX"
 }

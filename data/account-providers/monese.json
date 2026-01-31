@@ -1,7 +1,11 @@
 {
   "id": "monese",
-  "type": ["account"],
-  "bankType": ["challenger"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
   "name": "Monese",
   "legalName": "Monese Ltd",
   "ipoStatus": "private",
@@ -11,25 +15,30 @@
   "websiteUrl": "https://monese.com/",
   "ownership": [],
   "compliance": [
-    { 
+    {
       "regulation": "OB",
       "status": "inProgress"
     },
-    { 
+    {
       "regulation": "PSD2",
       "status": "inProgress"
     }
   ],
   "stateOwned": false,
   "countryHQ": "GB",
-  "countries": ["EU","GB"],
+  "countries": [
+    "EU",
+    "GB"
+  ],
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://developer.ob.monese.com/perry/developer/documentation?resource=monese-portal&document=docs/40-sandbox.md"
   },
   "developerPortalUrl": "https://developer.ob.monese.com/",
   "apiProducts": [],
-  "apiStandards": ["OBIE"],
+  "apiStandards": [
+    "OBIE"
+  ],
   "webApplication": false,
   "mobileApps": [
     {
@@ -119,5 +128,9 @@
       "sourceUrl": "https://www.talkingretail.com/news/industry-news/paypoint-extends-monese-partnership-19-02-2020/",
       "sourceDate": "2020-02-19"
     }
-  ]
+  ],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "bic": "MNEEGB21"
 }

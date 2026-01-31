@@ -8,7 +8,6 @@
   ],
   "name": "PSECU - PA STATE EMPLOYEES CU",
   "legalName": "PSECU - PA STATE EMPLOYEES CU",
-  "bic": "PSEMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.psecupastateemployeescu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSEMUS31XXX"
 }

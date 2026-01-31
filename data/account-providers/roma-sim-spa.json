@@ -8,7 +8,6 @@
   ],
   "name": "ROMA SIM S.P.A.",
   "legalName": "ROMA SIM S.P.A.",
-  "bic": "ROIMITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.romasimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROIMITM1XXX"
 }

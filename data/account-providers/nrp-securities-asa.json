@@ -8,7 +8,6 @@
   ],
   "name": "NRP SECURITIES ASA",
   "legalName": "NRP SECURITIES ASA",
-  "bic": "NRSANOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nrpsecuritiesasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NRSANOK1XXX"
 }

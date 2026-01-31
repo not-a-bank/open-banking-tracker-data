@@ -1,0 +1,32 @@
+{
+  "id": "podravska-banka",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Podravska Banka",
+  "legalName": "Podravska Banka",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.podravska-banka.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "HR",
+  "countries": [
+    "HR"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "PDKCHR2X"
+}

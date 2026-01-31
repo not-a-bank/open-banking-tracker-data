@@ -8,7 +8,6 @@
   ],
   "name": "EAST LONDON CREDIT UNION",
   "legalName": "EAST LONDON CREDIT UNION",
-  "bic": "ELRUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eastlondoncreditunion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ELRUGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VOLGOINVESTBANK",
   "legalName": "VOLGOINVESTBANK",
-  "bic": "VOLIRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volgoinvestbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOLIRU21XXX"
 }

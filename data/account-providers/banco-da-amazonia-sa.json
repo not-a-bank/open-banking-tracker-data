@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DA AMAZONIA S.A.",
   "legalName": "BANCO DA AMAZONIA S.A.",
-  "bic": "AMABBRABXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodaamazoniasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMABBRABXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NOVA BANKA AD PODGORICA",
   "legalName": "NOVA BANKA AD PODGORICA",
-  "bic": "AZMNMEPGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novabankaadpodgorica.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZMNMEPGXXX"
 }

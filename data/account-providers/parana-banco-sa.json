@@ -8,7 +8,6 @@
   ],
   "name": "PARANA BANCO S.A.",
   "legalName": "PARANA BANCO S.A.",
-  "bic": "PARABRPRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paranabancosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARABRPRXXX"
 }

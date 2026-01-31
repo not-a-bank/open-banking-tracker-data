@@ -8,7 +8,6 @@
   ],
   "name": "CA INDOSUEZ WEALTH (FRANCE)",
   "legalName": "CA INDOSUEZ WEALTH (FRANCE)",
-  "bic": "SIBLFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caindosuezwealthfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIBLFRPPXXX"
 }

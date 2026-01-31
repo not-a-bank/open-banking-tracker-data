@@ -8,7 +8,6 @@
   ],
   "name": "GOG SECURITIES LIMITED",
   "legalName": "GOG SECURITIES LIMITED",
-  "bic": "GOSCHUH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gogsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOSCHUH1XXX"
 }

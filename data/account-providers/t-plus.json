@@ -8,7 +8,6 @@
   ],
   "name": "T PLUS",
   "legalName": "T PLUS",
-  "bic": "TPLSISR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tplus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TPLSISR1XXX"
 }

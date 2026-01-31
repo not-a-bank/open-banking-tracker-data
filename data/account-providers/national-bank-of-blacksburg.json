@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF BLACKSBURG",
   "legalName": "NATIONAL BANK OF BLACKSBURG",
-  "bic": "NBBLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofblacksburg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBBLUS31XXX"
 }

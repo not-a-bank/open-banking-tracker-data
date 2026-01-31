@@ -8,7 +8,6 @@
   ],
   "name": "WAERDEVELDT B.V. ASSET MANAGEMENT AMSTERDAMSE EFFECTENBEURS",
   "legalName": "WAERDEVELDT B.V. ASSET MANAGEMENT AMSTERDAMSE EFFECTENBEURS",
-  "bic": "WAMMNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.waerdeveldtbvassetmanagementamsterdamseeffect.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WAMMNL21XXX"
 }

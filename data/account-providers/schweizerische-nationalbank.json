@@ -8,7 +8,6 @@
   ],
   "name": "SCHWEIZERISCHE NATIONALBANK",
   "legalName": "SCHWEIZERISCHE NATIONALBANK",
-  "bic": "SNBZCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schweizerischenationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SNBZCHZZXXX"
 }

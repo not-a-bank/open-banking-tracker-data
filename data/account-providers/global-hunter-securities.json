@@ -8,7 +8,6 @@
   ],
   "name": "GLOBAL HUNTER SECURITIES",
   "legalName": "GLOBAL HUNTER SECURITIES",
-  "bic": "GLHSUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globalhuntersecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GLHSUS41XXX"
 }

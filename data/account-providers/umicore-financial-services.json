@@ -8,7 +8,6 @@
   ],
   "name": "UMICORE FINANCIAL SERVICES",
   "legalName": "UMICORE FINANCIAL SERVICES",
-  "bic": "UMSFBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.umicorefinancialservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UMSFBEBBXXX"
 }

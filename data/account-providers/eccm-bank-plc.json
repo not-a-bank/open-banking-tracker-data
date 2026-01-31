@@ -8,7 +8,6 @@
   ],
   "name": "ECCM BANK PLC",
   "legalName": "ECCM BANK PLC",
-  "bic": "ECMBMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eccmbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECMBMTMTXXX"
 }

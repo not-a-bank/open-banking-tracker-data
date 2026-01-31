@@ -8,7 +8,6 @@
   ],
   "name": "OCBC AL-AMIN BANK BERHAD",
   "legalName": "OCBC AL-AMIN BANK BERHAD",
-  "bic": "OABBMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ocbcalaminbankberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OABBMYKLXXX"
 }

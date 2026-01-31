@@ -8,7 +8,6 @@
   ],
   "name": "HSBC CASA DE BOLSA, S.A. DE C.V., GRUPO FINANCIERHSBC",
   "legalName": "HSBC CASA DE BOLSA, S.A. DE C.V., GRUPO FINANCIERHSBC",
-  "bic": "BITLMXM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbccasadebolsasadecvgrupofinancierhsbc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BITLMXM1XXX"
 }

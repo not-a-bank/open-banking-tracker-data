@@ -8,7 +8,6 @@
   ],
   "name": "MEP S.P.A.",
   "legalName": "MEP S.P.A.",
-  "bic": "MEPEITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mepspait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEPEITM1XXX"
 }

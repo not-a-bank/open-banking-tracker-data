@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET BANK AND TRUST COMPANY, SYDNEY BRANCH",
   "legalName": "STATE STREET BANK AND TRUST COMPANY, SYDNEY BRANCH",
-  "bic": "SBOSAU2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetbankandtrustcompanysydneybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBOSAU2XXXX"
 }

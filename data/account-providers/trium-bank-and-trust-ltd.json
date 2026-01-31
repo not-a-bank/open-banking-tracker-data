@@ -8,7 +8,6 @@
   ],
   "name": "TRIUM BANK AND TRUST LTD.",
   "legalName": "TRIUM BANK AND TRUST LTD.",
-  "bic": "TBTLAGAGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.triumbankandtrustltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TBTLAGAGXXX"
 }

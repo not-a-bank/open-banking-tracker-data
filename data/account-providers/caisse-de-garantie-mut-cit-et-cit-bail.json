@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE GARANTIE MUT. CIT ET CIT BAIL",
   "legalName": "CAISSE DE GARANTIE MUT. CIT ET CIT BAIL",
-  "bic": "CGMCFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedegarantiemutcitetcitbail.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGMCFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CIRNASE FONDS DU REGIME CC PF",
   "legalName": "CIRNASE FONDS DU REGIME CC PF",
-  "bic": "CIOGFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cirnasefondsduregimeccpf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIOGFRP1XXX"
 }

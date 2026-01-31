@@ -8,7 +8,6 @@
   ],
   "name": "VONTOBEL FINANCIAL PRODUCTS GMBH",
   "legalName": "VONTOBEL FINANCIAL PRODUCTS GMBH",
-  "bic": "VFPGDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vontobelfinancialproductsgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VFPGDEF1XXX"
 }

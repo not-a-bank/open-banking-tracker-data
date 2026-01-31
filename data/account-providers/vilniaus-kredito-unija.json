@@ -8,7 +8,6 @@
   ],
   "name": "VILNIAUS KREDITO UNIJA",
   "legalName": "VILNIAUS KREDITO UNIJA",
-  "bic": "VIKULT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vilniauskreditounija.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIKULT21XXX"
 }

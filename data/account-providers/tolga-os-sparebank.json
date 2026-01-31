@@ -9,7 +9,6 @@
   ],
   "name": "TOLGA-OS SPAREBANK",
   "legalName": "TOLGA-OS SPAREBANK",
-  "bic": "TOSPNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/dff610c4-18e3-459f-bcaa-478d401b3739/-/preview/170x170/-/crop/180x180/center/NO816793432.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOSPNO21"
 }

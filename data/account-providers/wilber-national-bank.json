@@ -8,7 +8,6 @@
   ],
   "name": "WILBER NATIONAL BANK",
   "legalName": "WILBER NATIONAL BANK",
-  "bic": "WNBAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wilbernationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WNBAUS31XXX"
 }

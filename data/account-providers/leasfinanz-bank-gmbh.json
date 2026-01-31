@@ -8,7 +8,6 @@
   ],
   "name": "LEASFINANZ BANK GMBH",
   "legalName": "LEASFINANZ BANK GMBH",
-  "bic": "LEGMATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.leasfinanzbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LEGMATW1XXX"
 }

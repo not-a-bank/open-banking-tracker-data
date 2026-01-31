@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND (FORMERLY CORTAL CONSORS S.A. DEUTSCHLAND)",
   "legalName": "BNP PARIBAS S.A. NIEDERLASSUNG DEUTSCHLAND (FORMERLY CORTAL CONSORS S.A. DEUTSCHLAND)",
-  "bic": "CSDBDE7NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassaniederlassungdeutschlandformerlyde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSDBDE7NXXX"
 }

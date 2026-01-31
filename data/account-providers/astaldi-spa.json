@@ -8,7 +8,6 @@
   ],
   "name": "ASTALDI SPA",
   "legalName": "ASTALDI SPA",
-  "bic": "ASTDITRRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.astaldispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASTDITRRXXX"
 }

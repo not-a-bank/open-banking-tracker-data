@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA, MACAU BRANCH",
   "legalName": "BANK OF CHINA, MACAU BRANCH",
-  "bic": "BKCHMOMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinamacaubranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHMOMXXXX"
 }

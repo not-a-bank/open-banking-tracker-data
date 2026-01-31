@@ -8,7 +8,6 @@
   ],
   "name": "NIBC MARKETS N.V.",
   "legalName": "NIBC MARKETS N.V.",
-  "bic": "NIBQNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nibcmarketsnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIBQNL2AXXX"
 }

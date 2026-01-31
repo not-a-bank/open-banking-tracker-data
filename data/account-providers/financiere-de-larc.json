@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERE DE L'ARC",
   "legalName": "FINANCIERE DE L'ARC",
-  "bic": "FILRFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financieredelarc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FILRFR21XXX"
 }

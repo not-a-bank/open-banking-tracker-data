@@ -8,7 +8,6 @@
   ],
   "name": "IBERDROLA S.A.",
   "legalName": "IBERDROLA S.A.",
-  "bic": "IBDLES2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iberdrolasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBDLES2BXXX"
 }

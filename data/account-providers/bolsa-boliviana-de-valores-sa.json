@@ -8,7 +8,6 @@
   ],
   "name": "BOLSA BOLIVIANA DE VALORES S.A.",
   "legalName": "BOLSA BOLIVIANA DE VALORES S.A.",
-  "bic": "XBOLBOL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bolsabolivianadevaloressa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XBOLBOL1XXX"
 }

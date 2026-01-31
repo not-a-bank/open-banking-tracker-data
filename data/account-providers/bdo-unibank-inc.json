@@ -8,7 +8,6 @@
   ],
   "name": "BDO UNIBANK, INC.",
   "legalName": "BDO UNIBANK, INC.",
-  "bic": "BNORHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bdounibankinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNORHKHHXXX"
 }

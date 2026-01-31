@@ -8,7 +8,6 @@
   ],
   "name": "TIFFANY AND COMPANY",
   "legalName": "TIFFANY AND COMPANY",
-  "bic": "TIFFUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tiffanyandcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TIFFUS33XXX"
 }

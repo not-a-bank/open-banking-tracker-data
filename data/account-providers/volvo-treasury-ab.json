@@ -8,7 +8,6 @@
   ],
   "name": "VOLVO TREASURY AB",
   "legalName": "VOLVO TREASURY AB",
-  "bic": "VOTRSEG2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volvotreasuryab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOTRSEG2XXX"
 }

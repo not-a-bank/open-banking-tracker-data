@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT DU CONGO",
   "legalName": "CREDIT DU CONGO",
-  "bic": "BCMACGCGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditducongo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCMACGCGXXX"
 }

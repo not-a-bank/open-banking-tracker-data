@@ -8,7 +8,6 @@
   ],
   "name": "STATE BANK",
   "legalName": "STATE BANK",
-  "bic": "STBMMNUBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBMMNUBXXX"
 }

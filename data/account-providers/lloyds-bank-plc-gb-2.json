@@ -8,7 +8,6 @@
   ],
   "name": "LLOYDS BANK PLC",
   "legalName": "LLOYDS BANK PLC",
-  "bic": "LLTPGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lloydsbankplcgb2.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LLTPGB21XXX"
 }

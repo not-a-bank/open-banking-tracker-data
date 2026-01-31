@@ -8,7 +8,6 @@
   ],
   "name": "LLC CREDIT SUISSE SECURITIES (MOSCOW)",
   "legalName": "LLC CREDIT SUISSE SECURITIES (MOSCOW)",
-  "bic": "CRESRUMSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.llccreditsuissesecuritiesmoscow.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESRUMSXXX"
 }

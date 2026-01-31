@@ -8,7 +8,6 @@
   ],
   "name": "BROWN SHIPLEY STOCKBROKING LTD.",
   "legalName": "BROWN SHIPLEY STOCKBROKING LTD.",
-  "bic": "BRSTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brownshipleystockbrokingltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRSTGB21XXX"
 }

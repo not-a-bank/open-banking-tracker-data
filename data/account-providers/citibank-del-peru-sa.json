@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK DEL PERU S.A.",
   "legalName": "CITIBANK DEL PERU S.A.",
-  "bic": "CITIPEPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankdelperusa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIPEPLXXX"
 }

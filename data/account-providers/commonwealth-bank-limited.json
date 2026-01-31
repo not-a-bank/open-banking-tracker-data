@@ -8,7 +8,6 @@
   ],
   "name": "COMMONWEALTH BANK LIMITED",
   "legalName": "COMMONWEALTH BANK LIMITED",
-  "bic": "COMWBSNSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commonwealthbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COMWBSNSXXX"
 }

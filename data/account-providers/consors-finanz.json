@@ -31,8 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge",
     "tink"
   ],
-  "swiftCode": "GEBAATWW"
+  "bic": "GEBAATWW"
 }

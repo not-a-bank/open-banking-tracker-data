@@ -8,7 +8,6 @@
   ],
   "name": "BARING SECURITIES BRAZIL",
   "legalName": "BARING SECURITIES BRAZIL",
-  "bic": "BSECBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baringsecuritiesbrazil.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSECBRS1XXX"
 }

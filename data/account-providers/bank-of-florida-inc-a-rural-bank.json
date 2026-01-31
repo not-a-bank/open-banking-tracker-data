@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF FLORIDA, INC. (A RURAL BANK)",
   "legalName": "BANK OF FLORIDA, INC. (A RURAL BANK)",
-  "bic": "FLRUPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankoffloridaincaruralbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLRUPHM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT IMMOBILIER DES ALPES",
   "legalName": "CREDIT IMMOBILIER DES ALPES",
-  "bic": "SCMLFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditimmobilierdesalpes.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCMLFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MORSKOI COMMERCIAL BANK OF KALININGRAD",
   "legalName": "MORSKOI COMMERCIAL BANK OF KALININGRAD",
-  "bic": "MOCKRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morskoicommercialbankofkaliningrad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOCKRU21XXX"
 }

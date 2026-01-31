@@ -8,7 +8,6 @@
   ],
   "name": "RECKITT BENCKISER TREASURY SERVICES",
   "legalName": "RECKITT BENCKISER TREASURY SERVICES",
-  "bic": "RBTSGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.reckittbenckisertreasuryservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBTSGB22XXX"
 }

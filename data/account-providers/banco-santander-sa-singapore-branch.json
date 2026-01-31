@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER, S.A. SINGAPORE BRANCH",
   "legalName": "BANCO SANTANDER, S.A. SINGAPORE BRANCH",
-  "bic": "BSCHSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantandersasingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHSGSGXXX"
 }

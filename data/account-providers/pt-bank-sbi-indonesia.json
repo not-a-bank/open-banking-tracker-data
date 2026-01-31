@@ -8,7 +8,6 @@
   ],
   "name": "PT. BANK SBI INDONESIA",
   "legalName": "PT. BANK SBI INDONESIA",
-  "bic": "SBIDIDJAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbanksbiindonesia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBIDIDJAXXX"
 }

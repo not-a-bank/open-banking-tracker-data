@@ -8,7 +8,6 @@
   ],
   "name": "HSBC PRIVATE BANK (UK) LIMITED",
   "legalName": "HSBC PRIVATE BANK (UK) LIMITED",
-  "bic": "SMCOGB2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcprivatebankuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMCOGB2PXXX"
 }

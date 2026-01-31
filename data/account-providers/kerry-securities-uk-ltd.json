@@ -8,7 +8,6 @@
   ],
   "name": "KERRY SECURITIES (UK) LTD",
   "legalName": "KERRY SECURITIES (UK) LTD",
-  "bic": "KESRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kerrysecuritiesukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KESRGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BAIKALCREDOBANK",
   "legalName": "BAIKALCREDOBANK",
-  "bic": "BACKRU61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baikalcredobank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACKRU61XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCA SAMMARINESE DI INVESTIMENTO S.P.A.",
   "legalName": "BANCA SAMMARINESE DI INVESTIMENTO S.P.A.",
-  "bic": "BSDISMSDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancasammarinesediinvestimentospasm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSDISMSDXXX"
 }

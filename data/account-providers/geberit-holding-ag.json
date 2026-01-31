@@ -8,7 +8,6 @@
   ],
   "name": "GEBERIT HOLDING AG",
   "legalName": "GEBERIT HOLDING AG",
-  "bic": "GBRICH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.geberitholdingag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GBRICH22XXX"
 }

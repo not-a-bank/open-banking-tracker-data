@@ -8,7 +8,6 @@
   ],
   "name": "TEXAS TREASURY SAFEKEEPING TRUST COMPANY",
   "legalName": "TEXAS TREASURY SAFEKEEPING TRUST COMPANY",
-  "bic": "TTSRUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.texastreasurysafekeepingtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TTSRUS41XXX"
 }

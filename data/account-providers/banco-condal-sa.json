@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CONDAL, S.A.",
   "legalName": "BANCO CONDAL, S.A.",
-  "bic": "BCNDESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocondalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCNDESM1XXX"
 }

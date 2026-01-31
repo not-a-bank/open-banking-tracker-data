@@ -8,7 +8,6 @@
   ],
   "name": "VINCI",
   "legalName": "VINCI",
-  "bic": "VINCFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vinci.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VINCFRPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
   "legalName": "CASSA DI RISPARMIO DEL VENETO S.P.A.",
-  "bic": "IBSPIT2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cassadirisparmiodelvenetospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBSPIT2PXXX"
 }

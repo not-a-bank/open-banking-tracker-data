@@ -8,7 +8,6 @@
   ],
   "name": "BANK GPB INTERNATIONAL S.A.",
   "legalName": "BANK GPB INTERNATIONAL S.A.",
-  "bic": "GAZPLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankgpbinternationalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GAZPLULLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "IFM HESTA BUYBACK PORTFOLIO",
   "legalName": "IFM HESTA BUYBACK PORTFOLIO",
-  "bic": "IHBOAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ifmhestabuybackportfolio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IHBOAU31XXX"
 }

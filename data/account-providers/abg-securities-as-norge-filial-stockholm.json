@@ -8,7 +8,6 @@
   ],
   "name": "ABG SECURITIES AS (NORGE), FILIAL STOCKHOLM",
   "legalName": "ABG SECURITIES AS (NORGE), FILIAL STOCKHOLM",
-  "bic": "ASNFSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abgsecuritiesasnorgefilialstockholm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASNFSES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NIXGROUP",
   "legalName": "NIXGROUP",
-  "bic": "NIXGLV21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nixgroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIXGLV21XXX"
 }

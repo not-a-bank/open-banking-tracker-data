@@ -8,7 +8,6 @@
   ],
   "name": "DARUMA ASSET MANAGEMENT",
   "legalName": "DARUMA ASSET MANAGEMENT",
-  "bic": "DAAMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.darumaassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAAMUS31XXX"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "slatinska-banka",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Slatinska Banka",
+  "legalName": "Slatinska Banka",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.slatinska-banka.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "HR",
+  "countries": [
+    "HR"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "SBSLHR2XXXX"
+}

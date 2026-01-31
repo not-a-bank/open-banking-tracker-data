@@ -8,7 +8,6 @@
   ],
   "name": "HOF HOORNEMAN BANKIERS NV",
   "legalName": "HOF HOORNEMAN BANKIERS NV",
-  "bic": "HHBANL22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hofhoornemanbankiersnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HHBANL22XXX"
 }

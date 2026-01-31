@@ -8,7 +8,6 @@
   ],
   "name": "SWISS PB AG",
   "legalName": "SWISS PB AG",
-  "bic": "WWISCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swisspbag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WWISCHZ1XXX"
 }

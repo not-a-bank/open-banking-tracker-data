@@ -8,7 +8,6 @@
   ],
   "name": "SEAPORT SECURITIES CORP",
   "legalName": "SEAPORT SECURITIES CORP",
-  "bic": "SEUCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.seaportsecuritiescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEUCUS31XXX"
 }

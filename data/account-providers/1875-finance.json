@@ -8,7 +8,6 @@
   ],
   "name": "1875 FINANCE",
   "legalName": "1875 FINANCE",
-  "bic": "FNECCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.1875finance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNECCHG1XXX"
 }

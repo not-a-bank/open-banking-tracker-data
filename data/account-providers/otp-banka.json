@@ -1,0 +1,32 @@
+{
+  "id": "otp-banka",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "OTP Banka",
+  "legalName": "OTP Banka",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.otp-banka.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "SI",
+  "countries": [
+    "SI"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "KBMASI2X"
+}

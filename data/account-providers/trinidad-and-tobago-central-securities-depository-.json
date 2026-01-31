@@ -8,7 +8,6 @@
   ],
   "name": "TRINIDAD AND TOBAGO CENTRAL SECURITIES DEPOSITORY LIMITED",
   "legalName": "TRINIDAD AND TOBAGO CENTRAL SECURITIES DEPOSITORY LIMITED",
-  "bic": "TTCSTTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trinidadandtobagocentralsecuritiesdepository.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TTCSTTP1XXX"
 }

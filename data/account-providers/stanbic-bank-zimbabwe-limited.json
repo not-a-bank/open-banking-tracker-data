@@ -8,7 +8,6 @@
   ],
   "name": "STANBIC BANK ZIMBABWE LIMITED",
   "legalName": "STANBIC BANK ZIMBABWE LIMITED",
-  "bic": "SBICZWHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stanbicbankzimbabwelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBICZWHXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GPM ASSURANCE",
   "legalName": "GPM ASSURANCE",
-  "bic": "GPASFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gpmassurance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GPASFRP1XXX"
 }

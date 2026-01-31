@@ -8,7 +8,6 @@
   ],
   "name": "BANCA NETWORK INVESTIMENTI S.P.A.",
   "legalName": "BANCA NETWORK INVESTIMENTI S.P.A.",
-  "bic": "BNETITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancanetworkinvestimentispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNETITM1XXX"
 }

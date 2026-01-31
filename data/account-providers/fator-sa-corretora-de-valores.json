@@ -8,7 +8,6 @@
   ],
   "name": "FATOR S.A. CORRETORA DE VALORES",
   "legalName": "FATOR S.A. CORRETORA DE VALORES",
-  "bic": "FATOBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fatorsacorretoradevalores.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FATOBRS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK (CHINA) CO. LTD.",
   "legalName": "DEUTSCHE BANK (CHINA) CO. LTD.",
-  "bic": "DEUTCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankchinacoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTCNSHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CENTRE FOR EXCHANGE AND CLEARING",
   "legalName": "CENTRE FOR EXCHANGE AND CLEARING",
-  "bic": "BCSMBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centreforexchangeandclearing.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCSMBEB1XXX"
 }

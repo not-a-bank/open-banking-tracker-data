@@ -8,7 +8,6 @@
   ],
   "name": "SHENZHEN STOCK EXCHANGE",
   "legalName": "SHENZHEN STOCK EXCHANGE",
-  "bic": "XSHECNB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shenzhenstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSHECNB1XXX"
 }

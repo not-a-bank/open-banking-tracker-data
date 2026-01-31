@@ -9,7 +9,6 @@
   ],
   "name": "FIFTH THIRD BANK",
   "legalName": "FIFTH THIRD BANK",
-  "bic": "FTBCUS3CXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1630111441/radar/icons/fifth-third-bank.jpg",
@@ -30,5 +29,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "FITB"
+  "stockSymbol": "FITB",
+  "bic": "FTBCUS3CXXX"
 }

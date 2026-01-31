@@ -8,7 +8,6 @@
   ],
   "name": "AFRIPACK",
   "legalName": "AFRIPACK",
-  "bic": "AFRPZAJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.afripack.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFRPZAJ1XXX"
 }

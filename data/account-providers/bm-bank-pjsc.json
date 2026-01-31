@@ -8,7 +8,6 @@
   ],
   "name": "BM BANK, PJSC",
   "legalName": "BM BANK, PJSC",
-  "bic": "BMLTUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bmbankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMLTUAUKXXX"
 }

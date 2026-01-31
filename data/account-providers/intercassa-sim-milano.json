@@ -8,7 +8,6 @@
   ],
   "name": "INTERCASSA SIM - MILANO",
   "legalName": "INTERCASSA SIM - MILANO",
-  "bic": "INCAITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intercassasimmilano.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INCAITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS WEALTH MANAGEMENT MONACO",
   "legalName": "BNP PARIBAS WEALTH MANAGEMENT MONACO",
-  "bic": "BPPBMCMCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibaswealthmanagementmonaco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPPBMCMCXXX"
 }

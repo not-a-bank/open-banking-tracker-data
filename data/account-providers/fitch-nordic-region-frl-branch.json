@@ -8,7 +8,6 @@
   ],
   "name": "FITCH NORDIC REGION (FRL BRANCH)",
   "legalName": "FITCH NORDIC REGION (FRL BRANCH)",
-  "bic": "FRIPSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchnordicregionfrlbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPSES1XXX"
 }

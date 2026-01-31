@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK STEIRISCHES SALZKAMMERGUT REGISTRIERTE  GENOSSENSCHAFT MIT BESCHRAENKTER HAFTUNG",
   "legalName": "VOLKSBANK STEIRISCHES SALZKAMMERGUT REGISTRIERTE  GENOSSENSCHAFT MIT BESCHRAENKTER HAFTUNG",
-  "bic": "VOSSAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbanksteirischessalzkammergutregistrierteg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOSSAT21XXX"
 }

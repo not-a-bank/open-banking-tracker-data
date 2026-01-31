@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE RETRAITE DES NOTAIRES",
   "legalName": "CAISSE DE RETRAITE DES NOTAIRES",
-  "bic": "CIRAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissederetraitedesnotaires.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIRAFRP1XXX"
 }

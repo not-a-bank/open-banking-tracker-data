@@ -8,7 +8,6 @@
   ],
   "name": "BANCO GENERAL (OVERSEAS) INC.",
   "legalName": "BANCO GENERAL (OVERSEAS) INC.",
-  "bic": "BGOSKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancogeneraloverseasinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGOSKYKYXXX"
 }

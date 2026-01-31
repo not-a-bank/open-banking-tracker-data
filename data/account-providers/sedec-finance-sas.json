@@ -8,7 +8,6 @@
   ],
   "name": "SEDEC FINANCE SAS",
   "legalName": "SEDEC FINANCE SAS",
-  "bic": "SEDFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sedecfinancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEDFFRP1XXX"
 }

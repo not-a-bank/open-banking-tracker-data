@@ -8,7 +8,6 @@
   ],
   "name": "ST. WENDELER VOLKSBANK EG",
   "legalName": "ST. WENDELER VOLKSBANK EG",
-  "bic": "WEVODE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stwendelervolksbankeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WEVODE51XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MIRAE ASSET SECURITIES (USA) INC",
   "legalName": "MIRAE ASSET SECURITIES (USA) INC",
-  "bic": "MIAEUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.miraeassetsecuritiesusainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIAEUS33XXX"
 }

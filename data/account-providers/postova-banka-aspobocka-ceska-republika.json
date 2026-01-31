@@ -8,7 +8,6 @@
   ],
   "name": "POSTOVA BANKA, A.S.,POBOCKA CESKA REPUBLIKA",
   "legalName": "POSTOVA BANKA, A.S.,POBOCKA CESKA REPUBLIKA",
-  "bic": "POBNCZPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.postovabankaaspobockaceskarepublika.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POBNCZPPXXX"
 }

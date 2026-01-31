@@ -8,7 +8,6 @@
   ],
   "name": "PHILIPPINE DEPOSITORY TRUST CORP",
   "legalName": "PHILIPPINE DEPOSITORY TRUST CORP",
-  "bic": "PHCDPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philippinedepositorytrustcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHCDPHM1XXX"
 }

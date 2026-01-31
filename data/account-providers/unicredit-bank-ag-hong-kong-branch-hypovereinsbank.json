@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BANK AG HONG KONG BRANCH (HYPOVEREINSBANK HONG KONG BRANCH)",
   "legalName": "UNICREDIT BANK AG HONG KONG BRANCH (HYPOVEREINSBANK HONG KONG BRANCH)",
-  "bic": "BVBEHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbankaghongkongbranchhypovereinsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BVBEHKHHXXX"
 }

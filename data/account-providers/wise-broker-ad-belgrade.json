@@ -8,7 +8,6 @@
   ],
   "name": "WISE BROKER AD BELGRADE",
   "legalName": "WISE BROKER AD BELGRADE",
-  "bic": "WIBBRSB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wisebrokeradbelgrade.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WIBBRSB1XXX"
 }

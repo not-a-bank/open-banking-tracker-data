@@ -8,7 +8,6 @@
   ],
   "name": "ION ASSET ARCHITECTURE UK",
   "legalName": "ION ASSET ARCHITECTURE UK",
-  "bic": "IOARGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ionassetarchitectureuk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IOARGB21XXX"
 }

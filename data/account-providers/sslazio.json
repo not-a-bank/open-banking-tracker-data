@@ -8,7 +8,6 @@
   ],
   "name": "S.S.LAZIO",
   "legalName": "S.S.LAZIO",
-  "bic": "SSLAIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sslazio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSLAIT21XXX"
 }

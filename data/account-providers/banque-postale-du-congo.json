@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE POSTALE DU CONGO",
   "legalName": "BANQUE POSTALE DU CONGO",
-  "bic": "CNNGCGCGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepostaleducongo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNNGCGCGXXX"
 }

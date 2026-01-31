@@ -8,7 +8,6 @@
   ],
   "name": "POS MALAYSIA BERHAD",
   "legalName": "POS MALAYSIA BERHAD",
-  "bic": "POSMMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.posmalaysiaberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POSMMYKLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DOM FINANCE",
   "legalName": "DOM FINANCE",
-  "bic": "DOFAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.domfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DOFAFRP1XXX"
 }

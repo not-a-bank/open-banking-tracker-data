@@ -30,7 +30,8 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge"
   ],
-  "swiftCode": "BARMIT2FXXX"
+  "bic": "BARMIT2FXXX"
 }

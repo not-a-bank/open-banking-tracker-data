@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE PARIS ILE DE FR.",
   "legalName": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DE PARIS ILE DE FR.",
-  "bic": "CGRGFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionaledecreditagricolemutueldepari.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGRGFRP1XXX"
 }

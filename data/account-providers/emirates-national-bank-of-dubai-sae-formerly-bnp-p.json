@@ -8,7 +8,6 @@
   ],
   "name": "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)",
   "legalName": "EMIRATES NATIONAL BANK OF DUBAI SAE (FORMERLY BNP PARIBAS SAE,EGYPT)",
-  "bic": "EBILEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.emiratesnationalbankofdubaisaeformerlybnpp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBILEGCXXXX"
 }

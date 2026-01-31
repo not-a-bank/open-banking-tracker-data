@@ -8,7 +8,6 @@
   ],
   "name": "OP-POHJOLA GROUP (SECURITIES TRANSACTION REPORTINGOP BRANCHES)",
   "legalName": "OP-POHJOLA GROUP (SECURITIES TRANSACTION REPORTINGOP BRANCHES)",
-  "bic": "POHGFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oppohjolagroupsecuritiestransactionreportingo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POHGFIH1XXX"
 }

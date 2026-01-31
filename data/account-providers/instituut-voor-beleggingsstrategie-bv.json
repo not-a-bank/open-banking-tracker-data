@@ -8,7 +8,6 @@
   ],
   "name": "INSTITUUT VOOR BELEGGINGSSTRATEGIE B.V.",
   "legalName": "INSTITUUT VOOR BELEGGINGSSTRATEGIE B.V.",
-  "bic": "INLGNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.instituutvoorbeleggingsstrategiebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INLGNL21XXX"
 }

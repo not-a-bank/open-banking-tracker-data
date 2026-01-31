@@ -8,7 +8,6 @@
   ],
   "name": "CIBC OFFSHORE BANKING SERVICES CORPORATION",
   "legalName": "CIBC OFFSHORE BANKING SERVICES CORPORATION",
-  "bic": "COBVBBBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cibcoffshorebankingservicescorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBVBBBBXXX"
 }

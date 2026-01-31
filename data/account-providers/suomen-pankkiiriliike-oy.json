@@ -8,7 +8,6 @@
   ],
   "name": "SUOMEN PANKKIIRILIIKE OY",
   "legalName": "SUOMEN PANKKIIRILIIKE OY",
-  "bic": "SUPNFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.suomenpankkiiriliikeoy.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SUPNFIH1XXX"
 }

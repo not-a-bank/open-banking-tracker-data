@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA SHANGHAI TRUST AND CONSULTANCY CO.",
   "legalName": "BANK OF CHINA SHANGHAI TRUST AND CONSULTANCY CO.",
-  "bic": "BCSTCNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinashanghaitrustandconsultancyco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCSTCNS1XXX"
 }

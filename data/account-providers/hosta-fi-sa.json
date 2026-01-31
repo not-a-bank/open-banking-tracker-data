@@ -8,7 +8,6 @@
   ],
   "name": "HOSTA FI SA",
   "legalName": "HOSTA FI SA",
-  "bic": "HOSTFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hostafisa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOSTFRP1XXX"
 }

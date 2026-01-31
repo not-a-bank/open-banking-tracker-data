@@ -8,7 +8,6 @@
   ],
   "name": "INSPARO ASSET MANAGEMENT",
   "legalName": "INSPARO ASSET MANAGEMENT",
-  "bic": "ISAAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.insparoassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISAAGB21XXX"
 }

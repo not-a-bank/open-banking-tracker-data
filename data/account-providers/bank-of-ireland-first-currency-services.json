@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF IRELAND (FIRST CURRENCY SERVICES)",
   "legalName": "BANK OF IRELAND (FIRST CURRENCY SERVICES)",
-  "bic": "BOFIGB3LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofirelandfirstcurrencyservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFIGB3LXXX"
 }

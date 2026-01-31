@@ -8,7 +8,6 @@
   ],
   "name": "GREAT PACIFIC SECURITIES",
   "legalName": "GREAT PACIFIC SECURITIES",
-  "bic": "GRPEUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.greatpacificsecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRPEUS61XXX"
 }

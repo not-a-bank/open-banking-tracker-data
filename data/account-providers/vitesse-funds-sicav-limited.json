@@ -8,7 +8,6 @@
   ],
   "name": "VITESSE FUNDS SICAV LIMITED",
   "legalName": "VITESSE FUNDS SICAV LIMITED",
-  "bic": "VIFSMTM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vitessefundssicavlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIFSMTM1XXX"
 }

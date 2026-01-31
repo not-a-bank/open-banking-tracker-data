@@ -8,7 +8,6 @@
   ],
   "name": "TAI PO SECURITIES CO",
   "legalName": "TAI PO SECURITIES CO",
-  "bic": "TAIRHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.taiposecuritiesco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAIRHKH1XXX"
 }

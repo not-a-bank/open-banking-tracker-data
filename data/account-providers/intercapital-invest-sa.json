@@ -8,7 +8,6 @@
   ],
   "name": "INTERCAPITAL INVEST S.A.",
   "legalName": "INTERCAPITAL INVEST S.A.",
-  "bic": "ITINROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intercapitalinvestsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITINROB1XXX"
 }

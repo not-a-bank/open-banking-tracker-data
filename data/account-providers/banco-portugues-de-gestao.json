@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Banco Portugu\u00eas De Gest\u00e3o",
-  "legalName": "Banco Portugu\u00eas De Gest\u00e3o",
+  "name": "Banco Português De Gestão",
+  "legalName": "Banco Português De Gestão",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banco-portugues-de-gestao.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "tink",
     "volt"
@@ -30,5 +31,5 @@
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "BPGPPTPLXXX"
+  "bic": "BPGPPTPL"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE D'EPARGNE RIVIERA, SOCIETE COOPERATIVE",
   "legalName": "CAISSE D'EPARGNE RIVIERA, SOCIETE COOPERATIVE",
-  "bic": "CDDVCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedepargnerivierasocietecooperative.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDDVCH21XXX"
 }

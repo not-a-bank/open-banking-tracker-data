@@ -8,7 +8,6 @@
   ],
   "name": "BANCO HONDURENO DEL CAFE",
   "legalName": "BANCO HONDURENO DEL CAFE",
-  "bic": "BHCAHNTHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancohondurenodelcafe.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHCAHNTHXXX"
 }

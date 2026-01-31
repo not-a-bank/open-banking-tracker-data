@@ -8,7 +8,6 @@
   ],
   "name": "ALLIANCE BANK AND TRUST",
   "legalName": "ALLIANCE BANK AND TRUST",
-  "bic": "ABATBSN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alliancebankandtrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABATBSN1XXX"
 }

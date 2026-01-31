@@ -9,7 +9,6 @@
   ],
   "name": "BANCA POPOLARE VESUVIANA",
   "legalName": "BANCA POPOLARE VESUVIANA",
-  "bic": "POVEIT33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_popolare_vesuviana_it.svg",
@@ -34,5 +33,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POVEIT33XXX"
 }

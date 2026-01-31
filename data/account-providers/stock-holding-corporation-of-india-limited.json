@@ -8,7 +8,6 @@
   ],
   "name": "STOCK HOLDING CORPORATION OF INDIA LIMITED",
   "legalName": "STOCK HOLDING CORPORATION OF INDIA LIMITED",
-  "bic": "SHCIINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stockholdingcorporationofindialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHCIINBBXXX"
 }

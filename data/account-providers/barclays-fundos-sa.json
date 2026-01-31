@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS FUNDOS, SA",
   "legalName": "BARCLAYS FUNDOS, SA",
-  "bic": "BAUUPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysfundossa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAUUPTP1XXX"
 }

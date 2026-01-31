@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT IMMOBILIER DE FRANCE NORD-PAS-DE-CALAIS",
   "legalName": "CREDIT IMMOBILIER DE FRANCE NORD-PAS-DE-CALAIS",
-  "bic": "CIRNFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditimmobilierdefrancenordpasdecalais.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIRNFR21XXX"
 }

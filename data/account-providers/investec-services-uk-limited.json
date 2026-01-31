@@ -8,7 +8,6 @@
   ],
   "name": "INVESTEC SERVICES UK LIMITED",
   "legalName": "INVESTEC SERVICES UK LIMITED",
-  "bic": "INSVGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investecservicesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INSVGB21XXX"
 }

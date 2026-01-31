@@ -8,7 +8,6 @@
   ],
   "name": "CHINA DEVELOPMENT BANK",
   "legalName": "CHINA DEVELOPMENT BANK",
-  "bic": "SDBCCNBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chinadevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SDBCCNBJXXX"
 }

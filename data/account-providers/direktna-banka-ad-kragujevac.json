@@ -8,7 +8,6 @@
   ],
   "name": "DIREKTNA BANKA AD KRAGUJEVAC",
   "legalName": "DIREKTNA BANKA AD KRAGUJEVAC",
-  "bic": "KRAGRS22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.direktnabankaadkragujevac.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRAGRS22XXX"
 }

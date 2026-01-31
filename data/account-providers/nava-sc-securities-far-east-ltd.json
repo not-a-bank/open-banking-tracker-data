@@ -8,7 +8,6 @@
   ],
   "name": "NAVA S.C. SECURITIES FAR EAST LTD",
   "legalName": "NAVA S.C. SECURITIES FAR EAST LTD",
-  "bic": "NSFEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.navascsecuritiesfareastltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSFEGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SAKHA DIAMOND BANK AO",
   "legalName": "SAKHA DIAMOND BANK AO",
-  "bic": "SADCRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sakhadiamondbankao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SADCRUM1XXX"
 }

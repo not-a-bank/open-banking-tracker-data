@@ -8,7 +8,6 @@
   ],
   "name": "ROYAL LONDON ASSET MANAGEMENT LIMITED",
   "legalName": "ROYAL LONDON ASSET MANAGEMENT LIMITED",
-  "bic": "RLAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.royallondonassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RLAMGB21XXX"
 }

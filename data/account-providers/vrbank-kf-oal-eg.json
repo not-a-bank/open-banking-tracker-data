@@ -8,7 +8,6 @@
   ],
   "name": "VRBANK KF-OAL EG",
   "legalName": "VRBANK KF-OAL EG",
-  "bic": "KAUFDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vrbankkfoaleg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAUFDE81XXX"
 }

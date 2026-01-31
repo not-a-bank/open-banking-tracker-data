@@ -8,7 +8,6 @@
   ],
   "name": "ENTERPRISE BANK AND TRUST COMPANY",
   "legalName": "ENTERPRISE BANK AND TRUST COMPANY",
-  "bic": "EBTCUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enterprisebankandtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBTCUS33XXX"
 }

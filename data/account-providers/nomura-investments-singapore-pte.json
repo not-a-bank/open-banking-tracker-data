@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA INVESTMENTS (SINGAPORE) PTE",
   "legalName": "NOMURA INVESTMENTS (SINGAPORE) PTE",
-  "bic": "NOISSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomurainvestmentssingaporepte.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOISSGSGXXX"
 }

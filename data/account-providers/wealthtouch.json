@@ -8,7 +8,6 @@
   ],
   "name": "WEALTHTOUCH",
   "legalName": "WEALTHTOUCH",
-  "bic": "WEAHUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wealthtouch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WEAHUS51XXX"
 }

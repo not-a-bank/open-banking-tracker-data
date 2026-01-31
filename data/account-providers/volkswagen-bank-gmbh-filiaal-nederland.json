@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSWAGEN BANK GMBH FILIAAL NEDERLAND",
   "legalName": "VOLKSWAGEN BANK GMBH FILIAAL NEDERLAND",
-  "bic": "VOWANL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volkswagenbankgmbhfiliaalnederland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOWANL21XXX"
 }

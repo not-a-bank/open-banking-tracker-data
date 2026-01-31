@@ -8,7 +8,6 @@
   ],
   "name": "UBS CLEARING AND EXECUTION SERVICES LIMITED",
   "legalName": "UBS CLEARING AND EXECUTION SERVICES LIMITED",
-  "bic": "AACCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsclearingandexecutionserviceslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AACCGB21XXX"
 }

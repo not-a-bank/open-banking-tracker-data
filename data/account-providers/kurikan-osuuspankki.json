@@ -8,7 +8,6 @@
   ],
   "name": "KURIKAN OSUUSPANKKI",
   "legalName": "KURIKAN OSUUSPANKKI",
-  "bic": "KUOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kurikanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KUOUFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH AND COMPANY INC.",
   "legalName": "MERRILL LYNCH AND COMPANY INC.",
-  "bic": "MLCOKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchandcompanyinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLCOKRS1XXX"
 }

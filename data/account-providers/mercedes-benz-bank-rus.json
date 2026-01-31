@@ -8,7 +8,6 @@
   ],
   "name": "MERCEDES-BENZ BANK RUS",
   "legalName": "MERCEDES-BENZ BANK RUS",
-  "bic": "DCBRRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mercedesbenzbankrus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCBRRUM1XXX"
 }

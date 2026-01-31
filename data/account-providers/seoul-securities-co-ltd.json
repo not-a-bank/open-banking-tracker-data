@@ -8,7 +8,6 @@
   ],
   "name": "SEOUL SECURITIES CO LTD",
   "legalName": "SEOUL SECURITIES CO LTD",
-  "bic": "SEOSHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.seoulsecuritiescoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEOSHKH1XXX"
 }

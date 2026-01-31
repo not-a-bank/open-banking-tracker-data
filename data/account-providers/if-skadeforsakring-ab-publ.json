@@ -8,7 +8,6 @@
   ],
   "name": "IF Skadeforsakring AB (publ)",
   "legalName": "IF SKADEFORSAKRING AB (PUBL)",
-  "bic": "IFPCFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IFPCFIH1XXX"
 }

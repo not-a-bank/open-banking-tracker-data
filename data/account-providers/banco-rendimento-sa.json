@@ -8,7 +8,6 @@
   ],
   "name": "Banco Rendimento",
   "legalName": "BANCO RENDIMENTO S/A",
-  "bic": "RENDBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rendimento.com.br.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RENDBRSPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA PRIVATE BANKING LIKVIDITET FUND",
   "legalName": "NORDEA PRIVATE BANKING LIKVIDITET FUND",
-  "bic": "NPLFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaprivatebankinglikviditetfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NPLFFIH1XXX"
 }

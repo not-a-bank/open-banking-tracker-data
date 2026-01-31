@@ -8,7 +8,6 @@
   ],
   "name": "TIR SECURITIES INCORPORATED",
   "legalName": "TIR SECURITIES INCORPORATED",
-  "bic": "STIRUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tirsecuritiesincorporated.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STIRUS31XXX"
 }

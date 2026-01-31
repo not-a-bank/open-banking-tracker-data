@@ -8,7 +8,6 @@
   ],
   "name": "CENTROKREDIT BANK",
   "legalName": "CENTROKREDIT BANK",
-  "bic": "CKBBRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centrokreditbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CKBBRUMMXXX"
 }

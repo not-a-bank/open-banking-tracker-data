@@ -8,7 +8,6 @@
   ],
   "name": "UFJ BANK NEDERLAND N.V.",
   "legalName": "UFJ BANK NEDERLAND N.V.",
-  "bic": "UFJNNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ufjbanknederlandnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UFJNNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CITCO BANK NEDERLAND N.V.",
   "legalName": "CITCO BANK NEDERLAND N.V.",
-  "bic": "CITCNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citcobanknederlandnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITCNL2AXXX"
 }

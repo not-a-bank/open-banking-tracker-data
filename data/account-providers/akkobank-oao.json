@@ -8,7 +8,6 @@
   ],
   "name": "AKKOBANK OAO",
   "legalName": "AKKOBANK OAO",
-  "bic": "AKKORU51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.akkobankoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKKORU51XXX"
 }

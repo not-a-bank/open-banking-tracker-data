@@ -8,7 +8,6 @@
   ],
   "name": "THE ROYAL BANK",
   "legalName": "THE ROYAL BANK",
-  "bic": "TRBGGHACXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theroyalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRBGGHACXXX"
 }

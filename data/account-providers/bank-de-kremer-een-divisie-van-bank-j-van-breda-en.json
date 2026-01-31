@@ -8,7 +8,6 @@
   ],
   "name": "Bank DE Kremer, EEN Divisie VAN Bank J. VAN Breda EN CO NV",
   "legalName": "BANK DE KREMER, EEN DIVISIE VAN BANK J. VAN BREDA EN CO NV",
-  "bic": "ABERBE22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABERBE22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
   "legalName": "CLEARSTREAM BANKING S.A., LUXEMBOURG",
-  "bic": "CEDELULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clearstreambankingsaluxembourg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEDELULLXXX"
 }

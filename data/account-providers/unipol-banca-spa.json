@@ -8,7 +8,6 @@
   ],
   "name": "UNIPOL BANCA SPA",
   "legalName": "UNIPOL BANCA SPA",
-  "bic": "BAECIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unipolbancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAECIT21XXX"
 }

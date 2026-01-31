@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER CENTRAL HISPANO",
   "legalName": "BANCO SANTANDER CENTRAL HISPANO",
-  "bic": "BSCHBEBRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantandercentralhispano.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHBEBRXXX"
 }

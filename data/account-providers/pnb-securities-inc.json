@@ -8,7 +8,6 @@
   ],
   "name": "PNB SECURITIES INC.",
   "legalName": "PNB SECURITIES INC.",
-  "bic": "PNBBPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pnbsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBBPHM1XXX"
 }

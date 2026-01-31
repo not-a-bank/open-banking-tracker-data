@@ -8,7 +8,6 @@
   ],
   "name": "POLTI SPA",
   "legalName": "POLTI SPA",
-  "bic": "GPOLIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.poltispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GPOLIT21XXX"
 }

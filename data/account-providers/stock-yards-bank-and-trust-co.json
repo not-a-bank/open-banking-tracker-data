@@ -8,7 +8,6 @@
   ],
   "name": "STOCK YARDS BANK AND TRUST CO.",
   "legalName": "STOCK YARDS BANK AND TRUST CO.",
-  "bic": "STYTUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stockyardsbankandtrustco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STYTUS41XXX"
 }

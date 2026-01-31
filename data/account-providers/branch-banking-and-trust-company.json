@@ -8,7 +8,6 @@
   ],
   "name": "BRANCH BANKING AND TRUST COMPANY",
   "legalName": "BRANCH BANKING AND TRUST COMPANY",
-  "bic": "BRBTUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.branchbankingandtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRBTUS33XXX"
 }

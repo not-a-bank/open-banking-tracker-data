@@ -8,7 +8,6 @@
   ],
   "name": "BANCA IFIS S.P.A. (FORMERLY INTERBANCA S.P.A.)",
   "legalName": "BANCA IFIS S.P.A. (FORMERLY INTERBANCA S.P.A.)",
-  "bic": "IBFIITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaifisspaformerlyinterbancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBFIITMMXXX"
 }

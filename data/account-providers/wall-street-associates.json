@@ -8,7 +8,6 @@
   ],
   "name": "WALL STREET ASSOCIATES",
   "legalName": "WALL STREET ASSOCIATES",
-  "bic": "WASOUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wallstreetassociates.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WASOUS61XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BILBAO VIZCAYA ARGENTARIA, NEW YORK",
   "legalName": "BANCO BILBAO VIZCAYA ARGENTARIA, NEW YORK",
-  "bic": "BBVAUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobilbaovizcayaargentarianewyork.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBVAUS33XXX"
 }

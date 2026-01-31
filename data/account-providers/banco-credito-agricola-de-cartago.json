@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CREDITO AGRICOLA DE CARTAGO",
   "legalName": "BANCO CREDITO AGRICOLA DE CARTAGO",
-  "bic": "BCACCRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocreditoagricoladecartago.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCACCRS1XXX"
 }

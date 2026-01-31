@@ -8,7 +8,6 @@
   ],
   "name": "BORSA ITALIANA S.P.A.",
   "legalName": "BORSA ITALIANA S.P.A.",
-  "bic": "XMILITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.borsaitalianaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMILITM1XXX"
 }

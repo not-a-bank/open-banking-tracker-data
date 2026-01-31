@@ -8,7 +8,6 @@
   ],
   "name": "GOLD COMMODITIES FOREX",
   "legalName": "GOLD COMMODITIES FOREX",
-  "bic": "GOCFBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldcommoditiesforex.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOCFBEB1XXX"
 }

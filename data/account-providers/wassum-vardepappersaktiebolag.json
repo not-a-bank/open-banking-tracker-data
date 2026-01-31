@@ -8,7 +8,6 @@
   ],
   "name": "WASSUM VARDEPAPPERSAKTIEBOLAG",
   "legalName": "WASSUM VARDEPAPPERSAKTIEBOLAG",
-  "bic": "WAVASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wassumvardepappersaktiebolag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WAVASES1XXX"
 }

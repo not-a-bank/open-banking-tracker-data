@@ -8,7 +8,6 @@
   ],
   "name": "PFC-BANK",
   "legalName": "PFC-BANK",
-  "bic": "PFCBRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pfcbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PFCBRUM1XXX"
 }

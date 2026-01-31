@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE PRIVEE EUROPEENNE SA",
   "legalName": "BANQUE PRIVEE EUROPEENNE SA",
-  "bic": "PREUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepriveeeuropeennesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PREUFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "LA FINANCIERE DE L'EUROPE",
   "legalName": "LA FINANCIERE DE L'EUROPE",
-  "bic": "FNLUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lafinancieredeleurope.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNLUFRP1XXX"
 }

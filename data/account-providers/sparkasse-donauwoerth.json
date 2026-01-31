@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Donauw\u00f6rth",
-  "legalName": "Sparkasse Donauw\u00f6rth",
+  "name": "Sparkasse Donauwörth",
+  "legalName": "Sparkasse Donauwörth",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-donauwoerth.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

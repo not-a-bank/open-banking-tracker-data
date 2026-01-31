@@ -8,7 +8,6 @@
   ],
   "name": "RINK BANK JOINT STOCK BANK",
   "legalName": "RINK BANK JOINT STOCK BANK",
-  "bic": "RINKRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rinkbankjointstockbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RINKRUM1XXX"
 }

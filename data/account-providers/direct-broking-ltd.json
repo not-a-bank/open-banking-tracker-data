@@ -8,7 +8,6 @@
   ],
   "name": "DIRECT BROKING LTD",
   "legalName": "DIRECT BROKING LTD",
-  "bic": "DIRBNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.directbrokingltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DIRBNZ21XXX"
 }

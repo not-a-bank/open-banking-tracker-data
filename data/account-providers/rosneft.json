@@ -8,7 +8,6 @@
   ],
   "name": "ROSNEFT",
   "legalName": "ROSNEFT",
-  "bic": "ROSNRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rosneft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROSNRUMMXXX"
 }

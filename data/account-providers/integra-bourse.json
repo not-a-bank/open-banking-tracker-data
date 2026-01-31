@@ -8,7 +8,6 @@
   ],
   "name": "INTEGRA BOURSE",
   "legalName": "INTEGRA BOURSE",
-  "bic": "ITBOMAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.integrabourse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITBOMAM1XXX"
 }

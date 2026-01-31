@@ -8,7 +8,6 @@
   ],
   "name": "SANTANDER CONSUMER BANK AS, DENMARK",
   "legalName": "SANTANDER CONSUMER BANK AS, DENMARK",
-  "bic": "SAODDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santanderconsumerbankasdenmark.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAODDK21XXX"
 }

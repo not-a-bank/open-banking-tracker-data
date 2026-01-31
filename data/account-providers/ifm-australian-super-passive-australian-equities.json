@@ -8,7 +8,6 @@
   ],
   "name": "IFM AUSTRALIAN SUPER PASSIVE AUSTRALIAN EQUITIES",
   "legalName": "IFM AUSTRALIAN SUPER PASSIVE AUSTRALIAN EQUITIES",
-  "bic": "IASPAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ifmaustraliansuperpassiveaustralianequities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IASPAU31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SOULIE-TELLIER S.A.",
   "legalName": "SOULIE-TELLIER S.A.",
-  "bic": "TELLFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.soulietelliersa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TELLFRP1XXX"
 }

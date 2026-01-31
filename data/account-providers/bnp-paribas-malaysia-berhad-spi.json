@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS MALAYSIA BERHAD-SPI",
   "legalName": "BNP PARIBAS MALAYSIA BERHAD-SPI",
-  "bic": "BNPAMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasmalaysiaberhadspi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAMY21XXX"
 }

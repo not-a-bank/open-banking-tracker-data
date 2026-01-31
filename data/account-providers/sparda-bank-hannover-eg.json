@@ -9,7 +9,6 @@
   ],
   "name": "SPARDA-BANK HANNOVER EG",
   "legalName": "SPARDA-BANK HANNOVER EG",
-  "bic": "SPHRDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
@@ -30,10 +29,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "salt-edge",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODEF1S09"
 }

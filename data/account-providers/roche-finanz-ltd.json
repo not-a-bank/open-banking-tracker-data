@@ -8,7 +8,6 @@
   ],
   "name": "ROCHE FINANZ LTD",
   "legalName": "ROCHE FINANZ LTD",
-  "bic": "ROCHCHBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rochefinanzltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROCHCHBBXXX"
 }

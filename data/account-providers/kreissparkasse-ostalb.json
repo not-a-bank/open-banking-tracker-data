@@ -8,7 +8,6 @@
   ],
   "name": "KREISSPARKASSE OSTALB",
   "legalName": "KREISSPARKASSE OSTALB",
-  "bic": "OASPDE6AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasseostalb.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OASPDE6AXXX"
 }

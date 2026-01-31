@@ -8,7 +8,6 @@
   ],
   "name": "CREDICORP BANK S.A",
   "legalName": "CREDICORP BANK S.A",
-  "bic": "CRLDPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credicorpbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRLDPAPAXXX"
 }

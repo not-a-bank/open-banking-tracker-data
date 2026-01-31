@@ -8,7 +8,6 @@
   ],
   "name": "ST.GALLER KANTONALBANK AG - SUCURSAL EM PORTUGAL",
   "legalName": "ST.GALLER KANTONALBANK AG - SUCURSAL EM PORTUGAL",
-  "bic": "CCIEPTPXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stgallerkantonalbankagsucursalemportugal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCIEPTPXXXX"
 }

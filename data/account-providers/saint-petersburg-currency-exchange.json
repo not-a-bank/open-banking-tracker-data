@@ -8,7 +8,6 @@
   ],
   "name": "SAINT-PETERSBURG CURRENCY EXCHANGE",
   "legalName": "SAINT-PETERSBURG CURRENCY EXCHANGE",
-  "bic": "XPICRU2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saintpetersburgcurrencyexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XPICRU2PXXX"
 }

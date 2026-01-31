@@ -8,7 +8,6 @@
   ],
   "name": "QVT FINANCIAL LP",
   "legalName": "QVT FINANCIAL LP",
-  "bic": "QVTFUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qvtfinanciallp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QVTFUS33XXX"
 }

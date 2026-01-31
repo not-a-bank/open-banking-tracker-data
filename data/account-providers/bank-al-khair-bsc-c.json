@@ -8,7 +8,6 @@
   ],
   "name": "BANK AL-KHAIR B.S.C. (C)",
   "legalName": "BANK AL-KHAIR B.S.C. (C)",
-  "bic": "UINSBHBNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankalkhairbscc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UINSBHBNXXX"
 }

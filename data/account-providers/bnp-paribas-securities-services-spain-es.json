@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
   "legalName": "BNP PARIBAS SECURITIES SERVICES, SPAIN",
-  "bic": "PARBESX1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassecuritiesservicesspaines.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARBESX1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CHO OPTION TRADERS B.V.",
   "legalName": "CHO OPTION TRADERS B.V.",
-  "bic": "CHOTNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chooptiontradersbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHOTNL21XXX"
 }

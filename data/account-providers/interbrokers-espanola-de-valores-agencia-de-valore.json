@@ -8,7 +8,6 @@
   ],
   "name": "INTERBROKERS ESPANOLA DE VALORES, AGENCIA DE VALORES, S.A.",
   "legalName": "INTERBROKERS ESPANOLA DE VALORES, AGENCIA DE VALORES, S.A.",
-  "bic": "IEVAESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.interbrokersespanoladevaloresagenciadevalore.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IEVAESB1XXX"
 }

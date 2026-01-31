@@ -8,7 +8,6 @@
   ],
   "name": "BALTICPAY CORPORATION SIA",
   "legalName": "BALTICPAY CORPORATION SIA",
-  "bic": "BLOILV21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.balticpaycorporationsia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLOILV21XXX"
 }

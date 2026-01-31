@@ -8,7 +8,6 @@
   ],
   "name": "CBRE GLOBAL REAL ESTATE SECURITIES, LLC",
   "legalName": "CBRE GLOBAL REAL ESTATE SECURITIES, LLC",
-  "bic": "CGREUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbreglobalrealestatesecuritiesllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGREUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BUDA-CASH ZRT.-POBOCKA BRATISLAVA",
   "legalName": "BUDA-CASH ZRT.-POBOCKA BRATISLAVA",
-  "bic": "BUZBSKB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.budacashzrtpobockabratislava.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BUZBSKB1XXX"
 }

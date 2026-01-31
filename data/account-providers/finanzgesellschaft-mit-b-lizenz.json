@@ -8,7 +8,6 @@
   ],
   "name": "FINANZGESELLSCHAFT MIT B-LIZENZ",
   "legalName": "FINANZGESELLSCHAFT MIT B-LIZENZ",
-  "bic": "FLDECHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finanzgesellschaftmitblizenz.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLDECHZ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CTT-CORREIOS DE PORTUGAL, S.A.",
   "legalName": "CTT-CORREIOS DE PORTUGAL, S.A.",
-  "bic": "CTTPPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cttcorreiosdeportugalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTTPPTP1XXX"
 }

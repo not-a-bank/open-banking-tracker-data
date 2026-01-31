@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "SpareBank 1 S\u00f8r\u00f8st-Norge",
-  "legalName": "SpareBank 1 S\u00f8r\u00f8st-Norge",
+  "name": "SpareBank 1 Sørøst-Norge",
+  "legalName": "SpareBank 1 Sørøst-Norge",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebank-1-sorost-norge.com.ico",
@@ -23,10 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "VEFONO21XXX"
+  "bic": "SPTRNO22"
 }

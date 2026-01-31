@@ -8,7 +8,6 @@
   ],
   "name": "KBC BANK N.V. BC DIAMANT",
   "legalName": "KBC BANK N.V. BC DIAMANT",
-  "bic": "ADIABE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcbanknvbcdiamant.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADIABE22XXX"
 }

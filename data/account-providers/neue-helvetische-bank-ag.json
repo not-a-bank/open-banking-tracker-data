@@ -8,7 +8,6 @@
   ],
   "name": "NEUE HELVETISCHE BANK AG",
   "legalName": "NEUE HELVETISCHE BANK AG",
-  "bic": "SFBFCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.neuehelvetischebankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFBFCH22XXX"
 }

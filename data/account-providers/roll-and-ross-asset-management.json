@@ -8,7 +8,6 @@
   ],
   "name": "ROLL AND ROSS ASSET MANAGEMENT",
   "legalName": "ROLL AND ROSS ASSET MANAGEMENT",
-  "bic": "RRAMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rollandrossassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RRAMUS31XXX"
 }

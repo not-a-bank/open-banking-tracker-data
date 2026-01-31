@@ -8,7 +8,6 @@
   ],
   "name": "UNITED ARAB BANK",
   "legalName": "UNITED ARAB BANK",
-  "bic": "UARBAEAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedarabbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UARBAEAAXXX"
 }

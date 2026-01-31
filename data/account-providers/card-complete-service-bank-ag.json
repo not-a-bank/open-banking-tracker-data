@@ -8,7 +8,6 @@
   ],
   "name": "CARD COMPLETE SERVICE BANK AG",
   "legalName": "CARD COMPLETE SERVICE BANK AG",
-  "bic": "VIAUATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cardcompleteservicebankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIAUATW1XXX"
 }

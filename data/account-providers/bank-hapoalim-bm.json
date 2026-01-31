@@ -8,7 +8,6 @@
   ],
   "name": "BANK HAPOALIM B.M.",
   "legalName": "BANK HAPOALIM B.M.",
-  "bic": "POALGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankhapoalimbm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POALGB21XXX"
 }

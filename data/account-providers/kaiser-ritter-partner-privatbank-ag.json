@@ -8,7 +8,6 @@
   ],
   "name": "KAISER RITTER PARTNER PRIVATBANK AG",
   "legalName": "KAISER RITTER PARTNER PRIVATBANK AG",
-  "bic": "SERBLI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kaiserritterpartnerprivatbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SERBLI22XXX"
 }

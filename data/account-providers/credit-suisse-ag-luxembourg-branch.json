@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE AG, LUXEMBOURG BRANCH",
   "legalName": "CREDIT SUISSE AG, LUXEMBOURG BRANCH",
-  "bic": "CRESLULXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseagluxembourgbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESLULXXXX"
 }

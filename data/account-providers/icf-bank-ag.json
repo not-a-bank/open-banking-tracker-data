@@ -8,7 +8,6 @@
   ],
   "name": "ICF BANK AG",
   "legalName": "ICF BANK AG",
-  "bic": "ICFFDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icfbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICFFDEF1XXX"
 }

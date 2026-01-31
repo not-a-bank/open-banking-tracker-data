@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR-Bank NordRh\u00f6n",
-  "legalName": "VR-Bank NordRh\u00f6n",
+  "name": "VR-Bank NordRhön",
+  "legalName": "VR-Bank NordRhön",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-nordrhoen.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

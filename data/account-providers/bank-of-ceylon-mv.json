@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CEYLON",
   "legalName": "BANK OF CEYLON",
-  "bic": "BCEYMVMVXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofceylonmv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCEYMVMVXXX"
 }

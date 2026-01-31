@@ -8,7 +8,6 @@
   ],
   "name": "Bank INA",
   "legalName": "BANK INA",
-  "bic": "IAPTIDJAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankina.co.id.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IAPTIDJAXXX"
 }

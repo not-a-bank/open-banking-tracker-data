@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE IVOIRIENNE DE BANQUE",
   "legalName": "SOCIETE IVOIRIENNE DE BANQUE",
-  "bic": "SIVBCIABXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societeivoiriennedebanque.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIVBCIABXXX"
 }

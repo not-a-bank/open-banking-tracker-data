@@ -8,7 +8,6 @@
   ],
   "name": "TEKA B.V.",
   "legalName": "TEKA B.V.",
-  "bic": "TEBVNL22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tekabv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEBVNL22XXX"
 }

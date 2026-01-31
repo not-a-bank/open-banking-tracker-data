@@ -8,7 +8,6 @@
   ],
   "name": "CIRCLE TRUST COMPANY",
   "legalName": "CIRCLE TRUST COMPANY",
-  "bic": "CIRCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.circletrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIRCUS31XXX"
 }

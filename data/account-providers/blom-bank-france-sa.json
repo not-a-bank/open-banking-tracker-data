@@ -8,7 +8,6 @@
   ],
   "name": "BLOM BANK FRANCE S.A.",
   "legalName": "BLOM BANK FRANCE S.A.",
-  "bic": "BLOMAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.blombankfrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLOMAEADXXX"
 }

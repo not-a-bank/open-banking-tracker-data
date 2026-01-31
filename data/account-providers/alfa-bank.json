@@ -8,7 +8,6 @@
   ],
   "name": "Alfa-bank",
   "legalName": "ALFA-BANK",
-  "bic": "ALFABY2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/alfabank.by.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALFABY2XXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH BANK AND TRUST COMPANY (CAYMAN) LTD",
   "legalName": "MERRILL LYNCH BANK AND TRUST COMPANY (CAYMAN) LTD",
-  "bic": "MLBCKYKXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchbankandtrustcompanycaymanltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLBCKYKXXXX"
 }

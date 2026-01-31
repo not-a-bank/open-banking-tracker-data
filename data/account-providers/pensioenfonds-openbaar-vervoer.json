@@ -8,7 +8,6 @@
   ],
   "name": "PENSIOENFONDS OPENBAAR VERVOER",
   "legalName": "PENSIOENFONDS OPENBAAR VERVOER",
-  "bic": "PEOVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pensioenfondsopenbaarvervoer.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PEOVNL21XXX"
 }

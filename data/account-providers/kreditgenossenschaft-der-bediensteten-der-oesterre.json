@@ -8,7 +8,6 @@
   ],
   "name": "KREDITGENOSSENSCHAFT DER BEDIENSTETEN DER OESTERREICHISCHEN POSTSPARKASSE REGISTRIERTE GENOSSENSCHAFT MBH",
   "legalName": "KREDITGENOSSENSCHAFT DER BEDIENSTETEN DER OESTERREICHISCHEN POSTSPARKASSE REGISTRIERTE GENOSSENSCHAFT MBH",
-  "bic": "KRBOATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreditgenossenschaftderbedienstetenderoesterre.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRBOATW1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INTESA SANPAOLO PRIVATE BANKING SPA",
   "legalName": "INTESA SANPAOLO PRIVATE BANKING SPA",
-  "bic": "BCITITM3XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intesasanpaoloprivatebankingspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCITITM3XXX"
 }

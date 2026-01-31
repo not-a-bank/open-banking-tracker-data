@@ -8,7 +8,6 @@
   ],
   "name": "SOUTHWEST SECURITIES",
   "legalName": "SOUTHWEST SECURITIES",
-  "bic": "SOUSUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southwestsecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOUSUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CSC SECURITIES (HK) LTD.",
   "legalName": "CSC SECURITIES (HK) LTD.",
-  "bic": "CSSTHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cscsecuritieshkltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSSTHKH1XXX"
 }

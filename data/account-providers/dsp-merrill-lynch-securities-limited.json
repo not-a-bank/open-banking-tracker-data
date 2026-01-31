@@ -8,7 +8,6 @@
   ],
   "name": "DSP MERRILL LYNCH SECURITIES LIMITED",
   "legalName": "DSP MERRILL LYNCH SECURITIES LIMITED",
-  "bic": "DMLSINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dspmerrilllynchsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DMLSINB1XXX"
 }

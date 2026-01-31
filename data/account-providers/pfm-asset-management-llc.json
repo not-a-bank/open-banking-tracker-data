@@ -8,7 +8,6 @@
   ],
   "name": "PFM ASSET MANAGEMENT LLC",
   "legalName": "PFM ASSET MANAGEMENT LLC",
-  "bic": "PFMTUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pfmassetmanagementllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PFMTUS33XXX"
 }

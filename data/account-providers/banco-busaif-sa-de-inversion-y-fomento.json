@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BUSAIF S.A. DE INVERSION Y FOMENTO",
   "legalName": "BANCO BUSAIF S.A. DE INVERSION Y FOMENTO",
-  "bic": "BOUIPYP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobusaifsadeinversionyfomento.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOUIPYP1XXX"
 }

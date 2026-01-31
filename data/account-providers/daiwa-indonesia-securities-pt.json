@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA INDONESIA SECURITIES, PT",
   "legalName": "DAIWA INDONESIA SECURITIES, PT",
-  "bic": "DAIUIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwaindonesiasecuritiespt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAIUIDJ1XXX"
 }

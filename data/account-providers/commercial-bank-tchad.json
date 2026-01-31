@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK TCHAD",
   "legalName": "COMMERCIAL BANK TCHAD",
-  "bic": "CBTNTDNDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbanktchad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBTNTDNDXXX"
 }

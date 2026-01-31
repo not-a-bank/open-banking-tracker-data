@@ -8,7 +8,6 @@
   ],
   "name": "UBS SECURITIES INDIA PRIVATE LIMITED",
   "legalName": "UBS SECURITIES INDIA PRIVATE LIMITED",
-  "bic": "WDRSINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubssecuritiesindiaprivatelimitedin.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WDRSINB1XXX"
 }

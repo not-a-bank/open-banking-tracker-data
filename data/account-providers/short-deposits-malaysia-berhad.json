@@ -8,7 +8,6 @@
   ],
   "name": "SHORT DEPOSITS (MALAYSIA) BERHAD",
   "legalName": "SHORT DEPOSITS (MALAYSIA) BERHAD",
-  "bic": "SDMBMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shortdepositsmalaysiaberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SDMBMYK1XXX"
 }

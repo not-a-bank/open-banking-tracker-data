@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA BANK S.A. LUXEMBOURG",
   "legalName": "NORDEA BANK S.A. LUXEMBOURG",
-  "bic": "NDEALULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeabanksaluxembourg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEALULLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS PERSONAL INVESTORS",
   "legalName": "BNP PARIBAS PERSONAL INVESTORS",
-  "bic": "BPPVLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibaspersonalinvestors.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPPVLUL1XXX"
 }

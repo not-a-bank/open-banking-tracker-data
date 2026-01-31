@@ -8,7 +8,6 @@
   ],
   "name": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
   "legalName": "VOEB-ZVD BANK FUER ZAHLUNGSVERKEHRSDIENSTLEISTUNGEN GMBH",
-  "bic": "VZVDDED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.voebzvdbankfuerzahlungsverkehrsdienstleistunge.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VZVDDED1XXX"
 }

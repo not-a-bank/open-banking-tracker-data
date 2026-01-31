@@ -8,7 +8,6 @@
   ],
   "name": "TELIA COMPANY AB (PUBL)",
   "legalName": "TELIA COMPANY AB (PUBL)",
-  "bic": "TLSNSESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.teliacompanyabpubl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TLSNSESSXXX"
 }

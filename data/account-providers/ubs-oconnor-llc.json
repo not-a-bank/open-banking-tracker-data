@@ -8,7 +8,6 @@
   ],
   "name": "UBS O'CONNOR LLC",
   "legalName": "UBS O'CONNOR LLC",
-  "bic": "UBSAUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsoconnorllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSAUS44XXX"
 }

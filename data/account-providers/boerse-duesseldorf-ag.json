@@ -8,7 +8,6 @@
   ],
   "name": "BOERSE DUESSELDORF AG",
   "legalName": "BOERSE DUESSELDORF AG",
-  "bic": "XQTXDED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.boerseduesseldorfag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XQTXDED1XXX"
 }

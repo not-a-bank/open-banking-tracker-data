@@ -8,7 +8,6 @@
   ],
   "name": "ZLATCOMBANK, JSC",
   "legalName": "ZLATCOMBANK, JSC",
-  "bic": "ZLATRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zlatcombankjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZLATRUMMXXX"
 }

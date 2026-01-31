@@ -8,7 +8,6 @@
   ],
   "name": "EXT B.V.",
   "legalName": "EXT B.V.",
-  "bic": "EXTXNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.extbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXTXNL21XXX"
 }

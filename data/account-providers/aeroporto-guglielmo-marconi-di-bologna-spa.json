@@ -8,7 +8,6 @@
   ],
   "name": "AEROPORTO GUGLIELMO MARCONI DI BOLOGNA SPA",
   "legalName": "AEROPORTO GUGLIELMO MARCONI DI BOLOGNA SPA",
-  "bic": "AGMBIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aeroportoguglielmomarconidibolognaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGMBIT21XXX"
 }

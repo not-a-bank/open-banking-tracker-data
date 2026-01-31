@@ -70,9 +70,9 @@
     "plaid",
     "salt-edge"
   ],
-  "swiftCode": "BCOEESMM150",
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://apis-i.redsys.es:20443/psd2/xs2a/api-entrada-xs2a/services/BCE/v1.1"
-  }
+  },
+  "bic": "BCOEESMM150"
 }

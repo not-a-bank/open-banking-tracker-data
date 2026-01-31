@@ -8,7 +8,6 @@
   ],
   "name": "PARK SQUARE STOCKBROKERS LTD",
   "legalName": "PARK SQUARE STOCKBROKERS LTD",
-  "bic": "PARKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.parksquarestockbrokersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARKGB21XXX"
 }

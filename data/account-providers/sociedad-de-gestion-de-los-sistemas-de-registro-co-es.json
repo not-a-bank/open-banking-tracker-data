@@ -8,7 +8,6 @@
   ],
   "name": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
   "legalName": "SOCIEDAD DE GESTION DE LOS SISTEMAS DE REGISTRO, COMPENSACION Y LIQUIDACION DE VALORES, S.A. (IBERCLEAR)",
-  "bic": "IBRCESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sociedaddegestiondelossistemasderegistrocoes.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBRCESM1XXX"
 }

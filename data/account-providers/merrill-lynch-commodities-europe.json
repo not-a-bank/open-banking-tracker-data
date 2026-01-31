@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH COMMODITIES (EUROPE)",
   "legalName": "MERRILL LYNCH COMMODITIES (EUROPE)",
-  "bic": "MLCUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchcommoditieseurope.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLCUGB21XXX"
 }

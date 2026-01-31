@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZBANK FINANCE AND COVERED BOND S.A.",
   "legalName": "COMMERZBANK FINANCE AND COVERED BOND S.A.",
-  "bic": "EEPKLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzbankfinanceandcoveredbondsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EEPKLULLXXX"
 }

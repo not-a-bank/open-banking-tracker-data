@@ -8,7 +8,6 @@
   ],
   "name": "SARATOGA CAPITAL",
   "legalName": "SARATOGA CAPITAL",
-  "bic": "SATAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saratogacapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SATAUS31XXX"
 }

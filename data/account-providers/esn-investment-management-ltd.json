@@ -8,7 +8,6 @@
   ],
   "name": "ESN INVESTMENT MANAGEMENT LTD",
   "legalName": "ESN INVESTMENT MANAGEMENT LTD",
-  "bic": "ESIAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.esninvestmentmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESIAGB21XXX"
 }

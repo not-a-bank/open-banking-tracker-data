@@ -8,7 +8,6 @@
   ],
   "name": "UAB MEDICINOS BANKAS",
   "legalName": "UAB MEDICINOS BANKAS",
-  "bic": "MDBALT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uabmedicinosbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MDBALT22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCA REGIONALE EUROPEA S.P.A.",
   "legalName": "BANCA REGIONALE EUROPEA S.P.A.",
-  "bic": "BREUFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaregionaleeuropeaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BREUFR22XXX"
 }

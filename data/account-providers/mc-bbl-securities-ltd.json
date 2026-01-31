@@ -8,7 +8,6 @@
   ],
   "name": "MC-BBL SECURITIES LTD",
   "legalName": "MC-BBL SECURITIES LTD",
-  "bic": "MCSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mcbblsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCSEGB21XXX"
 }

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR-Bank Westm\u00fcnsterland",
-  "legalName": "VR-Bank Westm\u00fcnsterland",
+  "name": "VR-Bank Westmünsterland",
+  "legalName": "VR-Bank Westmünsterland",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-westmuensterland.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

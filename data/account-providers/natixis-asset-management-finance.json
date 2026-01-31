@@ -8,7 +8,6 @@
   ],
   "name": "NATIXIS ASSET MANAGEMENT FINANCE",
   "legalName": "NATIXIS ASSET MANAGEMENT FINANCE",
-  "bic": "NAMIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natixisassetmanagementfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAMIFRP1XXX"
 }

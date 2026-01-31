@@ -8,7 +8,6 @@
   ],
   "name": "ANCHOR BANK, N.A.",
   "legalName": "ANCHOR BANK, N.A.",
-  "bic": "ANCRUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anchorbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANCRUS44XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
   "legalName": "INTERNATIONAL BANK OF QATAR (Q.S.C.)",
-  "bic": "IBOQQAQAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalbankofqatarqsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBOQQAQAXXX"
 }

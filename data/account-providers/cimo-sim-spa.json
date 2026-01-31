@@ -8,7 +8,6 @@
   ],
   "name": "C.I.M.O. SIM SPA",
   "legalName": "C.I.M.O. SIM SPA",
-  "bic": "CIMOITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cimosimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIMOITM1XXX"
 }

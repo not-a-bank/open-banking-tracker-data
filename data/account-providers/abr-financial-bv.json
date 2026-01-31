@@ -8,7 +8,6 @@
   ],
   "name": "ABR FINANCIAL B.V.",
   "legalName": "ABR FINANCIAL B.V.",
-  "bic": "ABRFNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abrfinancialbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABRFNL21XXX"
 }

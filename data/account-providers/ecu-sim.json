@@ -8,7 +8,6 @@
   ],
   "name": "ECU SIM",
   "legalName": "ECU SIM",
-  "bic": "ECUMITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecusim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECUMITM1XXX"
 }

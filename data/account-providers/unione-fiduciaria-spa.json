@@ -8,7 +8,6 @@
   ],
   "name": "UNIONE FIDUCIARIA SPA",
   "legalName": "UNIONE FIDUCIARIA SPA",
-  "bic": "UNFUITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unionefiduciariaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNFUITM1XXX"
 }

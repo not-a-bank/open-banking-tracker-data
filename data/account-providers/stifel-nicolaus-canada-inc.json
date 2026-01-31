@@ -8,7 +8,6 @@
   ],
   "name": "STIFEL NICOLAUS CANADA INC",
   "legalName": "STIFEL NICOLAUS CANADA INC",
-  "bic": "WBASCAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stifelnicolauscanadainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WBASCAM1XXX"
 }

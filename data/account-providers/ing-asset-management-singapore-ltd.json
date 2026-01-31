@@ -8,7 +8,6 @@
   ],
   "name": "ING ASSET MANAGEMENT (SINGAPORE) LTD",
   "legalName": "ING ASSET MANAGEMENT (SINGAPORE) LTD",
-  "bic": "INAASGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingassetmanagementsingaporeltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INAASGS1XXX"
 }

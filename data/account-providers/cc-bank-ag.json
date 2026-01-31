@@ -8,7 +8,6 @@
   ],
   "name": "CC-BANK AG",
   "legalName": "CC-BANK AG",
-  "bic": "CCAKATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ccbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCAKATW1XXX"
 }

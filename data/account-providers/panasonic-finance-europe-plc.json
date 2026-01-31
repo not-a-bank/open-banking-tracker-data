@@ -8,7 +8,6 @@
   ],
   "name": "PANASONIC FINANCE (EUROPE) PLC",
   "legalName": "PANASONIC FINANCE (EUROPE) PLC",
-  "bic": "PANAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.panasonicfinanceeuropeplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PANAGB21XXX"
 }

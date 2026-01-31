@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL BANK LIMITED",
   "legalName": "CAPITAL BANK LIMITED",
-  "bic": "CAPLBWGAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAPLBWGAXXX"
 }

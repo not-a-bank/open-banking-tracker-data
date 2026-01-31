@@ -8,7 +8,6 @@
   ],
   "name": "UNITY TRUST BANK PLC",
   "legalName": "UNITY TRUST BANK PLC",
-  "bic": "UYTBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitytrustbankplc.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UYTBGB22"
 }

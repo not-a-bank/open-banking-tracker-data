@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK (BULGARIA) EAD",
   "legalName": "RAIFFEISENBANK (BULGARIA) EAD",
-  "bic": "RZBBBGSFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankbulgariaead.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RZBBBGSFXXX"
 }

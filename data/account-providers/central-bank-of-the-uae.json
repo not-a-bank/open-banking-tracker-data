@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF THE U.A.E.",
   "legalName": "CENTRAL BANK OF THE U.A.E.",
-  "bic": "CBAUAEAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankoftheuae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBAUAEAAXXX"
 }

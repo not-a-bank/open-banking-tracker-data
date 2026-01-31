@@ -8,7 +8,6 @@
   ],
   "name": "VF EUROPE BVBA",
   "legalName": "VF EUROPE BVBA",
-  "bic": "VFCOBE2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vfeuropebvba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VFCOBE2BXXX"
 }

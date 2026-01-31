@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE DEVELOPPEMENT DU MALI - S.A.",
   "legalName": "BANQUE DE DEVELOPPEMENT DU MALI - S.A.",
-  "bic": "BDMAMLBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquededeveloppementdumalisa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDMAMLBAXXX"
 }

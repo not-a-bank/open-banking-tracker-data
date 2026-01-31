@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE LUXEMBOURG MULTIGESTION",
   "legalName": "CREDIT AGRICOLE LUXEMBOURG MULTIGESTION",
-  "bic": "CAUILUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricoleluxembourgmultigestion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAUILUL1XXX"
 }

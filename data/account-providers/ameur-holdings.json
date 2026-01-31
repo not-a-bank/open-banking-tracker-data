@@ -8,7 +8,6 @@
   ],
   "name": "AMEUR HOLDINGS",
   "legalName": "AMEUR HOLDINGS",
-  "bic": "AMEHUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ameurholdings.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMEHUS61XXX"
 }

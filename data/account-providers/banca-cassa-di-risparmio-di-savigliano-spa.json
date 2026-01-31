@@ -8,7 +8,6 @@
   ],
   "name": "BANCA CASSA DI RISPARMIO DI SAVIGLIANO S.P.A.",
   "legalName": "BANCA CASSA DI RISPARMIO DI SAVIGLIANO S.P.A.",
-  "bic": "SARCIT2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancacassadirisparmiodisaviglianospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SARCIT2SXXX"
 }

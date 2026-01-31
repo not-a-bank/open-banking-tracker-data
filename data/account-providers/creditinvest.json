@@ -8,7 +8,6 @@
   ],
   "name": "CREDITINVEST",
   "legalName": "CREDITINVEST",
-  "bic": "BKCIRU22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditinvest.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCIRU22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MINERO DE BOLIVIA",
   "legalName": "BANCO MINERO DE BOLIVIA",
-  "bic": "BAMIBOL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancominerodebolivia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAMIBOL1XXX"
 }

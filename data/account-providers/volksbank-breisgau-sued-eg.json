@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK BREISGAU-SUED EG",
   "legalName": "VOLKSBANK BREISGAU-SUED EG",
-  "bic": "VOBSDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankbreisgausuedeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOBSDE61XXX"
 }

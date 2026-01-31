@@ -8,7 +8,6 @@
   ],
   "name": "MORRISON SECURITIES PTY LIMITED",
   "legalName": "MORRISON SECURITIES PTY LIMITED",
-  "bic": "MOEPAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morrisonsecuritiesptylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOEPAU21XXX"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "optima-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Optima Bank",
+  "legalName": "Optima Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.optima-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "GR",
+  "countries": [
+    "GR"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "IBOGGRAA"
+}

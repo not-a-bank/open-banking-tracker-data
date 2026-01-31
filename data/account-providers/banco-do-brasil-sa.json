@@ -8,7 +8,6 @@
   ],
   "name": "Banco do Brasil",
   "legalName": "BANCO DO BRASIL S.A.",
-  "bic": "BRASBRRJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bb.com.br.ico",
@@ -30,5 +29,6 @@
   ],
   "ownership": [],
   "stateOwned": true,
-  "stockSymbol": "BBAS3"
+  "stockSymbol": "BBAS3",
+  "bic": "BRASBRRJXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF BEIRUT S.A.L.- OMAN BRANCH",
   "legalName": "BANK OF BEIRUT S.A.L.- OMAN BRANCH",
-  "bic": "BABEOMRXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofbeirutsalomanbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BABEOMRXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GRENKE BANK AG",
   "legalName": "GRENKE BANK AG",
-  "bic": "GREBDEHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.grenkebankag.com.ico",
@@ -24,10 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GREBDEH1XXX"
 }

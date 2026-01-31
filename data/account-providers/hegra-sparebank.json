@@ -9,7 +9,6 @@
   ],
   "name": "HEGRA SPAREBANK",
   "legalName": "HEGRA SPAREBANK",
-  "bic": "HESPNOB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/94bc2505-ca5d-4630-ab55-66bd2854b3fd/-/preview/170x170/-/crop/180x180/center/NO937903235.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HESPNOB1"
 }

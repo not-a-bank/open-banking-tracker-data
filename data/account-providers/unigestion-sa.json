@@ -8,7 +8,6 @@
   ],
   "name": "UNIGESTION S.A.",
   "legalName": "UNIGESTION S.A.",
-  "bic": "UNIGCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unigestionsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNIGCHGGXXX"
 }

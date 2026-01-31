@@ -9,7 +9,6 @@
   ],
   "name": "ONEY BANK",
   "legalName": "ONEY BANK",
-  "bic": "BACCFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1605187017/icons/oney-fr.jpg",
@@ -34,5 +33,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACCFR22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SUODENNIEMEN SAASTOPANKKI",
   "legalName": "SUODENNIEMEN SAASTOPANKKI",
-  "bic": "SUSOFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.suodenniemensaastopankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SUSOFI21XXX"
 }

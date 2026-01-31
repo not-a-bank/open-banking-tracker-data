@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE FIRST BOSTON FIXED INCOME",
   "legalName": "CREDIT SUISSE FIRST BOSTON FIXED INCOME",
-  "bic": "CSFOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissefirstbostonfixedincome.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSFOGB21XXX"
 }

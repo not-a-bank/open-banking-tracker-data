@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE BANK AND TRUST (HELLAS)",
   "legalName": "SOCIETE GENERALE BANK AND TRUST (HELLAS)",
-  "bic": "SGBTGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralebankandtrusthellas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGBTGRA1XXX"
 }

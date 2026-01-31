@@ -8,7 +8,6 @@
   ],
   "name": "RHINE SECURITIES LTD",
   "legalName": "RHINE SECURITIES LTD",
-  "bic": "RHSCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rhinesecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RHSCGB21XXX"
 }

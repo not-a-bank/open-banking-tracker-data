@@ -8,7 +8,6 @@
   ],
   "name": "BC PROCREDIT BANK S.A.",
   "legalName": "BC PROCREDIT BANK S.A.",
-  "bic": "PRCBMD22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bcprocreditbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRCBMD22XXX"
 }

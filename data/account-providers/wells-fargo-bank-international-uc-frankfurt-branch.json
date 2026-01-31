@@ -8,7 +8,6 @@
   ],
   "name": "WELLS FARGO BANK INTERNATIONAL UC FRANKFURT BRANCH",
   "legalName": "WELLS FARGO BANK INTERNATIONAL UC FRANKFURT BRANCH",
-  "bic": "PNBPDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wellsfargobankinternationalucfrankfurtbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBPDEFFXXX"
 }

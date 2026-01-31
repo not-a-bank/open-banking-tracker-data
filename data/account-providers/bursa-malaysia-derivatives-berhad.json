@@ -8,7 +8,6 @@
   ],
   "name": "BURSA MALAYSIA DERIVATIVES BERHAD",
   "legalName": "BURSA MALAYSIA DERIVATIVES BERHAD",
-  "bic": "XLOFMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bursamalaysiaderivativesberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XLOFMYK1XXX"
 }

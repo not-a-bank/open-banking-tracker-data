@@ -8,7 +8,6 @@
   ],
   "name": "SUDAMERIS BANK S.A.E.C.A.",
   "legalName": "SUDAMERIS BANK S.A.E.C.A.",
-  "bic": "BSUDPYPXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sudamerisbanksaeca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSUDPYPXXXX"
 }

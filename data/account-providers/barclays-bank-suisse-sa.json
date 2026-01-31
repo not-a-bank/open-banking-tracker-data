@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS BANK (SUISSE) S.A.",
   "legalName": "BARCLAYS BANK (SUISSE) S.A.",
-  "bic": "BARCCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysbanksuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCCHGGXXX"
 }

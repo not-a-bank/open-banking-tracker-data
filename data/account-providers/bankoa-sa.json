@@ -8,7 +8,6 @@
   ],
   "name": "BANKOA SA",
   "legalName": "BANKOA SA",
-  "bic": "BKOAFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankoasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKOAFR21XXX"
 }

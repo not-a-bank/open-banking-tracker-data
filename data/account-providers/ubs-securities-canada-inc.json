@@ -8,7 +8,6 @@
   ],
   "name": "UBS SECURITIES CANADA INC",
   "legalName": "UBS SECURITIES CANADA INC",
-  "bic": "UBSWCATSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubssecuritiescanadainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWCATSXXX"
 }

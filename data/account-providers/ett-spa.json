@@ -8,7 +8,6 @@
   ],
   "name": "ETT S.P.A.",
   "legalName": "ETT S.P.A.",
-  "bic": "ETTEITG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ettspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETTEITG1XXX"
 }

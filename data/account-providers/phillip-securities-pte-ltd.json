@@ -8,7 +8,6 @@
   ],
   "name": "PHILLIP SECURITIES PTE LTD",
   "legalName": "PHILLIP SECURITIES PTE LTD",
-  "bic": "PHSESGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.phillipsecuritiespteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHSESGS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "G.P.BORSMAGLERSELSKAB A/S",
   "legalName": "G.P.BORSMAGLERSELSKAB A/S",
-  "bic": "GPBSDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gpborsmaglerselskabas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GPBSDKK1XXX"
 }

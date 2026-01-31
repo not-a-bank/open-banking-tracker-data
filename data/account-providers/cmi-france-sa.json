@@ -8,7 +8,6 @@
   ],
   "name": "CMI FRANCE SA",
   "legalName": "CMI FRANCE SA",
-  "bic": "CMFRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cmifrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMFRFRP1XXX"
 }

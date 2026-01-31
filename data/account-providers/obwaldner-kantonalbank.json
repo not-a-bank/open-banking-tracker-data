@@ -8,7 +8,6 @@
   ],
   "name": "OBWALDNER KANTONALBANK",
   "legalName": "OBWALDNER KANTONALBANK",
-  "bic": "OBWKCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.obwaldnerkantonalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OBWKCH22XXX"
 }

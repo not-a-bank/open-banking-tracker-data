@@ -8,7 +8,6 @@
   ],
   "name": "BANESTO BANCO DE EMISIONES S.A.",
   "legalName": "BANESTO BANCO DE EMISIONES S.A.",
-  "bic": "BAEMESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banestobancodeemisionessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAEMESM1XXX"
 }

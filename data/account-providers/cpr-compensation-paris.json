@@ -8,7 +8,6 @@
   ],
   "name": "CPR COMPENSATION PARIS",
   "legalName": "CPR COMPENSATION PARIS",
-  "bic": "SCHPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cprcompensationparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCHPFRP1XXX"
 }

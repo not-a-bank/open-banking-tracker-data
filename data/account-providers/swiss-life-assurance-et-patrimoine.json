@@ -8,7 +8,6 @@
   ],
   "name": "SWISS LIFE ASSURANCE ET PATRIMOINE",
   "legalName": "SWISS LIFE ASSURANCE ET PATRIMOINE",
-  "bic": "SLARFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swisslifeassuranceetpatrimoine.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLARFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SAR FINANCE",
   "legalName": "SAR FINANCE",
-  "bic": "FNAEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sarfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNAEUS31XXX"
 }

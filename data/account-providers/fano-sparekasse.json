@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Fan\u00f8 Sparekasse",
-  "legalName": "Fan\u00f8 Sparekasse",
+  "name": "Fanø Sparekasse",
+  "legalName": "Fanø Sparekasse",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fano-sparekasse.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "FASLDK21XXX"
+  "bic": "FASLDK21"
 }

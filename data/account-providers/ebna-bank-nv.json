@@ -8,7 +8,6 @@
   ],
   "name": "EBNA BANK N.V.",
   "legalName": "EBNA BANK N.V.",
-  "bic": "EBNVCWCUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ebnabanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBNVCWCUXXX"
 }

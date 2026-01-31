@@ -8,7 +8,6 @@
   ],
   "name": "NPJ ASSET MANAGEMENT",
   "legalName": "NPJ ASSET MANAGEMENT",
-  "bic": "NPAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.npjassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NPAMGB21XXX"
 }

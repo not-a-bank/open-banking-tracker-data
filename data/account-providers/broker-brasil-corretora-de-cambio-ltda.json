@@ -8,7 +8,6 @@
   ],
   "name": "BROKER BRASIL CORRETORA DE CAMBIO LTDA",
   "legalName": "BROKER BRASIL CORRETORA DE CAMBIO LTDA",
-  "bic": "BBRCBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brokerbrasilcorretoradecambioltda.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBRCBRS1XXX"
 }

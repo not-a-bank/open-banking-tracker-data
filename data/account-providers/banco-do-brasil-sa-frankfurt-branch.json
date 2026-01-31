@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DO BRASIL S.A. FRANKFURT BRANCH",
   "legalName": "BANCO DO BRASIL S.A. FRANKFURT BRANCH",
-  "bic": "BRASDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodobrasilsafrankfurtbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRASDEFFXXX"
 }

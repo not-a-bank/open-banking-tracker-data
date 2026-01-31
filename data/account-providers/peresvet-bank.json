@@ -8,7 +8,6 @@
   ],
   "name": "PERESVET BANK",
   "legalName": "PERESVET BANK",
-  "bic": "PERSRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.peresvetbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PERSRUMMXXX"
 }

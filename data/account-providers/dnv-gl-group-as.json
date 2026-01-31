@@ -8,7 +8,6 @@
   ],
   "name": "DNV GL GROUP AS",
   "legalName": "DNV GL GROUP AS",
-  "bic": "DNVGNO22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dnvglgroupas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNVGNO22XXX"
 }

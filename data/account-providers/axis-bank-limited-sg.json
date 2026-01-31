@@ -8,7 +8,6 @@
   ],
   "name": "AXIS BANK LIMITED",
   "legalName": "AXIS BANK LIMITED",
-  "bic": "AXISSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axisbanklimitedsg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXISSGSGXXX"
 }

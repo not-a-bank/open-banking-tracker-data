@@ -8,7 +8,6 @@
   ],
   "name": "NORVIK BANKA, JSC",
   "legalName": "NORVIK BANKA, JSC",
-  "bic": "LATBLV22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.norvikbankajsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LATBLV22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO AZTECA DE HONDURAS, SA",
   "legalName": "BANCO AZTECA DE HONDURAS, SA",
-  "bic": "AZTKHNTEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoaztecadehondurassa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZTKHNTEXXX"
 }

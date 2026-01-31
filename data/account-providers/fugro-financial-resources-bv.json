@@ -8,7 +8,6 @@
   ],
   "name": "FUGRO FINANCIAL RESOURCES B.V.",
   "legalName": "FUGRO FINANCIAL RESOURCES B.V.",
-  "bic": "FUGRNL22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fugrofinancialresourcesbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUGRNL22XXX"
 }

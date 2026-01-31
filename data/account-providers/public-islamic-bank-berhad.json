@@ -8,7 +8,6 @@
   ],
   "name": "PUBLIC ISLAMIC BANK BERHAD",
   "legalName": "PUBLIC ISLAMIC BANK BERHAD",
-  "bic": "PIBEMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.publicislamicbankberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PIBEMYK1XXX"
 }

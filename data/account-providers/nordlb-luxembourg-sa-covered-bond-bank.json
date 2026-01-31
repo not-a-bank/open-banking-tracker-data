@@ -8,7 +8,6 @@
   ],
   "name": "NORD/LB LUXEMBOURG S.A. COVERED BOND BANK",
   "legalName": "NORD/LB LUXEMBOURG S.A. COVERED BOND BANK",
-  "bic": "NOLALULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordlbluxembourgsacoveredbondbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOLALULLXXX"
 }

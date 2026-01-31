@@ -8,7 +8,6 @@
   ],
   "name": "TFS-ICAP LTD",
   "legalName": "TFS-ICAP LTD",
-  "bic": "TFICGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tfsicapltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFICGB21XXX"
 }

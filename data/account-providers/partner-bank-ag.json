@@ -8,7 +8,6 @@
   ],
   "name": "PARTNER BANK AG",
   "legalName": "PARTNER BANK AG",
-  "bic": "IBAGAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.partnerbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBAGAT21XXX"
 }

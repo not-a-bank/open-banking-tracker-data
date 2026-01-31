@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE BREMEN AG, DIE",
   "legalName": "SPARKASSE BREMEN AG, DIE",
-  "bic": "SBREDE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassebremenagdie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBREDE22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CATHAY UNITED BANK",
   "legalName": "CATHAY UNITED BANK",
-  "bic": "TFITTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cathayunitedbanktw.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFITTWT1XXX"
 }

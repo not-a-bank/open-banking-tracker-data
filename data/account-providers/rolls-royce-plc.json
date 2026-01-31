@@ -8,7 +8,6 @@
   ],
   "name": "ROLLS-ROYCE PLC",
   "legalName": "ROLLS-ROYCE PLC",
-  "bic": "ROLLGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rollsroyceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROLLGB2LXXX"
 }

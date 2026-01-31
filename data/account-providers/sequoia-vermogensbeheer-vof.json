@@ -8,7 +8,6 @@
   ],
   "name": "SEQUOIA VERMOGENSBEHEER V.O.F.",
   "legalName": "SEQUOIA VERMOGENSBEHEER V.O.F.",
-  "bic": "SEVONL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sequoiavermogensbeheervof.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEVONL21XXX"
 }

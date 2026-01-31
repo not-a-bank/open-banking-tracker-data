@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DES MASCAREIGNES LTEE",
   "legalName": "BANQUE DES MASCAREIGNES LTEE",
-  "bic": "BAIMMUMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedesmascareignesltee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAIMMUMUXXX"
 }

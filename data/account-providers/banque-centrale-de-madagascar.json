@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CENTRALE DE MADAGASCAR",
   "legalName": "BANQUE CENTRALE DE MADAGASCAR",
-  "bic": "REPUMGMGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecentraledemadagascar.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REPUMGMGXXX"
 }

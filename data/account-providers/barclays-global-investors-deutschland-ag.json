@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS GLOBAL INVESTORS (DEUTSCHLAND) AG",
   "legalName": "BARCLAYS GLOBAL INVESTORS (DEUTSCHLAND) AG",
-  "bic": "INXDDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysglobalinvestorsdeutschlandag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INXDDEM1XXX"
 }

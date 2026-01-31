@@ -8,7 +8,6 @@
   ],
   "name": "ORKLA FINANS KAPITALFORVALTNING AS",
   "legalName": "ORKLA FINANS KAPITALFORVALTNING AS",
-  "bic": "ORFFNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orklafinanskapitalforvaltningas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORFFNOK1XXX"
 }

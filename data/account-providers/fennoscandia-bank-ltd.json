@@ -8,7 +8,6 @@
   ],
   "name": "FENNOSCANDIA BANK LTD.",
   "legalName": "FENNOSCANDIA BANK LTD.",
-  "bic": "FENNGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fennoscandiabankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FENNGB21XXX"
 }

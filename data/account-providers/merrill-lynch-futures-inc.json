@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH FUTURES, INC.",
   "legalName": "MERRILL LYNCH FUTURES, INC.",
-  "bic": "MLFIUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchfuturesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLFIUS31XXX"
 }

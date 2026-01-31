@@ -8,7 +8,6 @@
   ],
   "name": "WEDBUSH SECURITIES INC",
   "legalName": "WEDBUSH SECURITIES INC",
-  "bic": "WEDCUS66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wedbushsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WEDCUS66XXX"
 }

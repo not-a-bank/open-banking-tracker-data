@@ -1,0 +1,32 @@
+{
+  "id": "ica-banken-decoupled",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "ICA Banken Decoupled",
+  "legalName": "ICA Banken Decoupled",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.ica-banken-decoupled.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "SE",
+  "countries": [
+    "SE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "IBCASES1XXX"
+}

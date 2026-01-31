@@ -8,7 +8,6 @@
   ],
   "name": "MAYBANK HONG KONG",
   "legalName": "MAYBANK HONG KONG",
-  "bic": "MBBEHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maybankhongkong.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBBEHKHHXXX"
 }

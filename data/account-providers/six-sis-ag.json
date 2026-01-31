@@ -8,7 +8,6 @@
   ],
   "name": "SIX SIS AG",
   "legalName": "SIX SIS AG",
-  "bic": "INSECHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sixsisag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INSECHZZXXX"
 }

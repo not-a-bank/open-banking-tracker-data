@@ -8,7 +8,6 @@
   ],
   "name": "LANTMANNEN EK",
   "legalName": "LANTMANNEN EK",
-  "bic": "LANTSESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lantmannenek.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LANTSESSXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TOYO SECURITIES ASIA LIMITED",
   "legalName": "TOYO SECURITIES ASIA LIMITED",
-  "bic": "TYSCHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.toyosecuritiesasialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TYSCHKH1XXX"
 }

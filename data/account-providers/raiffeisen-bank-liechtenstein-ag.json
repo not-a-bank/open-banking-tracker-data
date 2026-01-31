@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN BANK (LIECHTENSTEIN) AG",
   "legalName": "RAIFFEISEN BANK (LIECHTENSTEIN) AG",
-  "bic": "RAIBLI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankliechtensteinag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAIBLI22XXX"
 }

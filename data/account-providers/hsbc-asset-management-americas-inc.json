@@ -8,7 +8,6 @@
   ],
   "name": "HSBC ASSET MANAGEMENT AMERICAS INC.",
   "legalName": "HSBC ASSET MANAGEMENT AMERICAS INC.",
-  "bic": "HSMUUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcassetmanagementamericasinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSMUUS31XXX"
 }

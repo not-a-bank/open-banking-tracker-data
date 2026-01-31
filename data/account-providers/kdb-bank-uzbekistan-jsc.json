@@ -8,7 +8,6 @@
   ],
   "name": "KDB BANK UZBEKISTAN JSC",
   "legalName": "KDB BANK UZBEKISTAN JSC",
-  "bic": "KODBUZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kdbbankuzbekistanjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KODBUZ22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO TOPAZIO S.A.",
   "legalName": "BANCO TOPAZIO S.A.",
-  "bic": "TOPZBRRSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancotopaziosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOPZBRRSXXX"
 }

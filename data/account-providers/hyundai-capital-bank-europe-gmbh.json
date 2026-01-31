@@ -8,7 +8,6 @@
   ],
   "name": "HYUNDAI CAPITAL BANK EUROPE GMBH",
   "legalName": "HYUNDAI CAPITAL BANK EUROPE GMBH",
-  "bic": "HCSEDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hyundaicapitalbankeuropegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HCSEDEF1XXX"
 }

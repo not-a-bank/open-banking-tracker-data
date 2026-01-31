@@ -8,7 +8,6 @@
   ],
   "name": "HSBC TRUST COMPANY (CANADA)",
   "legalName": "HSBC TRUST COMPANY (CANADA)",
-  "bic": "METCCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbctrustcompanycanada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "METCCAT1XXX"
 }

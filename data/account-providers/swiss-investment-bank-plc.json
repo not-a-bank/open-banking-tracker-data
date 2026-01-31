@@ -8,7 +8,6 @@
   ],
   "name": "SWISS INVESTMENT BANK PLC",
   "legalName": "SWISS INVESTMENT BANK PLC",
-  "bic": "FIWSAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swissinvestmentbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIWSAEA1XXX"
 }

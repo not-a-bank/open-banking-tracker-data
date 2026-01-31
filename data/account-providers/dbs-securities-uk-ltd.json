@@ -8,7 +8,6 @@
   ],
   "name": "DBS SECURITIES UK LTD",
   "legalName": "DBS SECURITIES UK LTD",
-  "bic": "DBEEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dbssecuritiesukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBEEGB21XXX"
 }

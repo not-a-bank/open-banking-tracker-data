@@ -8,7 +8,6 @@
   ],
   "name": "TOPEKA CAPITAL MARKETS",
   "legalName": "TOPEKA CAPITAL MARKETS",
-  "bic": "TOCKUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.topekacapitalmarkets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOCKUS31XXX"
 }

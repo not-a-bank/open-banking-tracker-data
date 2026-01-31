@@ -8,7 +8,6 @@
   ],
   "name": "NPL SECURITISATION EUROPE SPV S.R.L",
   "legalName": "NPL SECURITISATION EUROPE SPV S.R.L",
-  "bic": "NSESITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nplsecuritisationeuropespvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSESITM1XXX"
 }

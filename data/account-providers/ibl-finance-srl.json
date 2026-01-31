@@ -8,7 +8,6 @@
   ],
   "name": "IBL FINANCE SRL",
   "legalName": "IBL FINANCE SRL",
-  "bic": "IBFSITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iblfinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBFSITR1XXX"
 }

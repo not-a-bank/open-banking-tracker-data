@@ -8,7 +8,6 @@
   ],
   "name": "MIRABANK A.D. BEOGRAD NOVI BEOGRAD",
   "legalName": "MIRABANK A.D. BEOGRAD NOVI BEOGRAD",
-  "bic": "MRBNRSBGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mirabankadbeogradnovibeograd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MRBNRSBGXXX"
 }

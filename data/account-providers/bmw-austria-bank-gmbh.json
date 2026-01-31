@@ -8,7 +8,6 @@
   ],
   "name": "BMW AUSTRIA BANK GMBH",
   "legalName": "BMW AUSTRIA BANK GMBH",
-  "bic": "BMASGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bmwaustriabankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMASGRA1XXX"
 }

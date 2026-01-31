@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE COMMERCIALE DU MAROC",
   "legalName": "BANQUE COMMERCIALE DU MAROC",
-  "bic": "BCMAESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecommercialedumaroc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCMAESM1XXX"
 }

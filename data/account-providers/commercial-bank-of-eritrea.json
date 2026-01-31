@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK OF ERITREA",
   "legalName": "COMMERCIAL BANK OF ERITREA",
-  "bic": "CBERERAIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankoferitrea.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBERERAIXXX"
 }

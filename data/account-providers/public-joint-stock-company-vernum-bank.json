@@ -8,7 +8,6 @@
   ],
   "name": "PUBLIC JOINT-STOCK COMPANY VERNUM BANK",
   "legalName": "PUBLIC JOINT-STOCK COMPANY VERNUM BANK",
-  "bic": "VERNUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.publicjointstockcompanyvernumbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VERNUAUKXXX"
 }

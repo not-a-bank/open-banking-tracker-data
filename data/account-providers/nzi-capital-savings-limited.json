@@ -8,7 +8,6 @@
   ],
   "name": "NZI CAPITAL SAVINGS LIMITED",
   "legalName": "NZI CAPITAL SAVINGS LIMITED",
-  "bic": "NZCANZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nzicapitalsavingslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NZCANZ21XXX"
 }

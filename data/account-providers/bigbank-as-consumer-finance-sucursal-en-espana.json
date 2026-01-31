@@ -8,7 +8,6 @@
   ],
   "name": "BIGBANK AS CONSUMER FINANCE SUCURSAL EN ESPANA",
   "legalName": "BIGBANK AS CONSUMER FINANCE SUCURSAL EN ESPANA",
-  "bic": "BIGKESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bigbankasconsumerfinancesucursalenespana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIGKESM1XXX"
 }

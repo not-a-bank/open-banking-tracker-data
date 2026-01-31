@@ -8,7 +8,6 @@
   ],
   "name": "BANCA PRIVADA D'ANDORRA (PANAMA) SA",
   "legalName": "BANCA PRIVADA D'ANDORRA (PANAMA) SA",
-  "bic": "BPANPAP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaprivadadandorrapanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPANPAP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIABANK (PANAMA) S.A. (FORMERLY BANCO CITIBANK (PANAMA), S.A.)",
   "legalName": "SCOTIABANK (PANAMA) S.A. (FORMERLY BANCO CITIBANK (PANAMA), S.A.)",
-  "bic": "BACUPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiabankpanamasaformerlybancocitibankpanam.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACUPAPAXXX"
 }

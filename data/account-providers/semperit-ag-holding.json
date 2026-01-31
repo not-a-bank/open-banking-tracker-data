@@ -8,7 +8,6 @@
   ],
   "name": "SEMPERIT AG HOLDING",
   "legalName": "SEMPERIT AG HOLDING",
-  "bic": "SEMPATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.semperitagholding.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEMPATWWXXX"
 }

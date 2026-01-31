@@ -8,7 +8,6 @@
   ],
   "name": "ARBUTHNOT BANK AG",
   "legalName": "ARBUTHNOT BANK AG",
-  "bic": "ARBUCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arbuthnotbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARBUCHZ1XXX"
 }

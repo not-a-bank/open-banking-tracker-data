@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Str\u00fccklingen-Idafehn",
-  "legalName": "Raiffeisenbank Str\u00fccklingen-Idafehn",
+  "name": "Raiffeisenbank Strücklingen-Idafehn",
+  "legalName": "Raiffeisenbank Strücklingen-Idafehn",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-struecklingen-idafehn.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

@@ -8,7 +8,6 @@
   ],
   "name": "ANDBANK LUXEMBOURG S.A.",
   "legalName": "ANDBANK LUXEMBOURG S.A.",
-  "bic": "BACALULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.andbankluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACALULLXXX"
 }

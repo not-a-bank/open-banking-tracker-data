@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CANARIAS DE VENEZUELA C.A.",
   "legalName": "BANCO CANARIAS DE VENEZUELA C.A.",
-  "bic": "BOCAVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocanariasdevenezuelacave.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOCAVEC1XXX"
 }

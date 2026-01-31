@@ -8,7 +8,6 @@
   ],
   "name": "COSTA CROCIERE S.P.A.",
   "legalName": "COSTA CROCIERE S.P.A.",
-  "bic": "CCRRITG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.costacrocierespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCRRITG1XXX"
 }

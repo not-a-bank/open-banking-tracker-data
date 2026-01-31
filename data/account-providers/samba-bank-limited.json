@@ -8,7 +8,6 @@
   ],
   "name": "SAMBA BANK LIMITED",
   "legalName": "SAMBA BANK LIMITED",
-  "bic": "SAMBPKKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sambabanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAMBPKKAXXX"
 }

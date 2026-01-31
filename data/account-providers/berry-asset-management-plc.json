@@ -8,7 +8,6 @@
   ],
   "name": "BERRY ASSET MANAGEMENT PLC",
   "legalName": "BERRY ASSET MANAGEMENT PLC",
-  "bic": "BEAGGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.berryassetmanagementplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEAGGB21XXX"
 }

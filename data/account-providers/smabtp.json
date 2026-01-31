@@ -8,7 +8,6 @@
   ],
   "name": "SMABTP",
   "legalName": "SMABTP",
-  "bic": "SMBPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.smabtp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMBPFRP1XXX"
 }

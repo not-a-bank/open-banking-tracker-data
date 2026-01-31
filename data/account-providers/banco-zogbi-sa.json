@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ZOGBI SA",
   "legalName": "BANCO ZOGBI SA",
-  "bic": "BCRSBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancozogbisa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCRSBRS1XXX"
 }

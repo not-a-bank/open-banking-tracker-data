@@ -8,7 +8,6 @@
   ],
   "name": "BANK GOSPODARSTWA KRAJOWEGO",
   "legalName": "BANK GOSPODARSTWA KRAJOWEGO",
-  "bic": "GOSKPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankgospodarstwakrajowego.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOSKPLPWXXX"
 }

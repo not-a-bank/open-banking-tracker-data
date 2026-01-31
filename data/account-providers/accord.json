@@ -8,7 +8,6 @@
   ],
   "name": "ACCORD",
   "legalName": "ACCORD",
-  "bic": "ACCOBEB3XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.accord.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACCOBEB3XXX"
 }

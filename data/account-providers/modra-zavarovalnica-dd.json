@@ -8,7 +8,6 @@
   ],
   "name": "MODRA ZAVAROVALNICA, D.D.",
   "legalName": "MODRA ZAVAROVALNICA, D.D.",
-  "bic": "MOZVSI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.modrazavarovalnicadd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOZVSI21XXX"
 }

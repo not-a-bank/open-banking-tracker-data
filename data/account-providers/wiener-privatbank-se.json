@@ -8,7 +8,6 @@
   ],
   "name": "WIENER PRIVATBANK SE",
   "legalName": "WIENER PRIVATBANK SE",
-  "bic": "VLRTATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wienerprivatbankse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VLRTATWWXXX"
 }

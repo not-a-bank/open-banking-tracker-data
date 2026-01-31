@@ -8,7 +8,6 @@
   ],
   "name": "TEMASEK HOLDINGS (PRIVATE) LIMITED",
   "legalName": "TEMASEK HOLDINGS (PRIVATE) LIMITED",
-  "bic": "TEHOSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.temasekholdingsprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEHOSGS1XXX"
 }

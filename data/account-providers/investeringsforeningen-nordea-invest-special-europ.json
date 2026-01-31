@@ -8,7 +8,6 @@
   ],
   "name": "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL      EUROPEAN HIGH YIELD BOND",
   "legalName": "INVESTERINGSFORENINGEN NORDEA INVEST SPECIAL      EUROPEAN HIGH YIELD BOND",
-  "bic": "IOISDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investeringsforeningennordeainvestspecialeurop.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IOISDKK1XXX"
 }

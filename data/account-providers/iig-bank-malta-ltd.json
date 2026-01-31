@@ -8,7 +8,6 @@
   ],
   "name": "IIG BANK (MALTA) LTD",
   "legalName": "IIG BANK (MALTA) LTD",
-  "bic": "IIGBMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iigbankmaltaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IIGBMTMTXXX"
 }

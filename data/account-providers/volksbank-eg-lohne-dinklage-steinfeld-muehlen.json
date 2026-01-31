@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank eG Lohne-Dinklage-Steinfeld-M\u00fchlen",
-  "legalName": "Volksbank eG Lohne-Dinklage-Steinfeld-M\u00fchlen",
+  "name": "Volksbank eG Lohne-Dinklage-Steinfeld-Mühlen",
+  "legalName": "Volksbank eG Lohne-Dinklage-Steinfeld-Mühlen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-eg-lohne-dinklage-steinfeld-muehlen.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

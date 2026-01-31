@@ -8,7 +8,6 @@
   ],
   "name": "PFIZER INTERNATIONAL BANK EUROPE",
   "legalName": "PFIZER INTERNATIONAL BANK EUROPE",
-  "bic": "PFIEIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pfizerinternationalbankeurope.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PFIEIE21XXX"
 }

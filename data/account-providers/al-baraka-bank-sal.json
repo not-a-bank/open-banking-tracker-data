@@ -8,7 +8,6 @@
   ],
   "name": "AL BARAKA BANK S.A.L.",
   "legalName": "AL BARAKA BANK S.A.L.",
-  "bic": "ALCVLBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.albarakabanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALCVLBBEXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CARIBBEAN MERCANTILE BANK N.V.",
   "legalName": "CARIBBEAN MERCANTILE BANK N.V.",
-  "bic": "CMBAAWAXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caribbeanmercantilebanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMBAAWAXXXX"
 }

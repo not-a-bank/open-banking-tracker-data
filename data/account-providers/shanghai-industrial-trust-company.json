@@ -8,7 +8,6 @@
   ],
   "name": "SHANGHAI INDUSTRIAL TRUST COMPANY",
   "legalName": "SHANGHAI INDUSTRIAL TRUST COMPANY",
-  "bic": "SITCCNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shanghaiindustrialtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SITCCNS1XXX"
 }

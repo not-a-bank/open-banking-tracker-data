@@ -8,7 +8,6 @@
   ],
   "name": "SUMITOMO MITSUI TRUST BANK (LUXEMBOURG) S.A.",
   "legalName": "SUMITOMO MITSUI TRUST BANK (LUXEMBOURG) S.A.",
-  "bic": "STBCLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sumitomomitsuitrustbankluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBCLULLXXX"
 }

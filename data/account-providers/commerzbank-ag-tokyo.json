@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZBANK AG TOKYO",
   "legalName": "COMMERZBANK AG TOKYO",
-  "bic": "COBAJPJXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzbankagtokyo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBAJPJXXXX"
 }

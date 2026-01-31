@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE KONTOR PRIVATBANK AG",
   "legalName": "DEUTSCHE KONTOR PRIVATBANK AG",
-  "bic": "DEKTDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschekontorprivatbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEKTDE71XXX"
 }

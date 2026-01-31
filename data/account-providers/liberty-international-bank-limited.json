@@ -8,7 +8,6 @@
   ],
   "name": "LIBERTY INTERNATIONAL BANK LIMITED",
   "legalName": "LIBERTY INTERNATIONAL BANK LIMITED",
-  "bic": "LIBLAEAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.libertyinternationalbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIBLAEAAXXX"
 }

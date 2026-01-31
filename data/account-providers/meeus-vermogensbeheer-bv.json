@@ -8,7 +8,6 @@
   ],
   "name": "MEEUS VERMOGENSBEHEER B.V.",
   "legalName": "MEEUS VERMOGENSBEHEER B.V.",
-  "bic": "MEEVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.meeusvermogensbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEEVNL21XXX"
 }

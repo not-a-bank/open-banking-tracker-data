@@ -8,7 +8,6 @@
   ],
   "name": "U.S. CLEARING CORP.",
   "legalName": "U.S. CLEARING CORP.",
-  "bic": "CLEIUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.usclearingcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLEIUS31XXX"
 }

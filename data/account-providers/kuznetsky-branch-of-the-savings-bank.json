@@ -8,7 +8,6 @@
   ],
   "name": "KUZNETSKY BRANCH OF THE SAVINGS BANK",
   "legalName": "KUZNETSKY BRANCH OF THE SAVINGS BANK",
-  "bic": "KRSBRU51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kuznetskybranchofthesavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRSBRU51XXX"
 }

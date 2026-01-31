@@ -8,7 +8,6 @@
   ],
   "name": "24MONEY PAYMENTS AB (PUBL)",
   "legalName": "24MONEY PAYMENTS AB (PUBL)",
-  "bic": "MPABSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.24moneypaymentsabpubl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MPABSE21XXX"
 }

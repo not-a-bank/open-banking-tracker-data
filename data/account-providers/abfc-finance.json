@@ -8,7 +8,6 @@
   ],
   "name": "ABFC FINANCE",
   "legalName": "ABFC FINANCE",
-  "bic": "ABFCLT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abfcfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABFCLT21XXX"
 }

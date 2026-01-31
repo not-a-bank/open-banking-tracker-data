@@ -8,7 +8,6 @@
   ],
   "name": "THREADNEEDLE INTERNATIONAL FUND MANAGEMENT S.A.",
   "legalName": "THREADNEEDLE INTERNATIONAL FUND MANAGEMENT S.A.",
-  "bic": "THIFLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.threadneedleinternationalfundmanagementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "THIFLUL1XXX"
 }

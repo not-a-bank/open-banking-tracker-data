@@ -8,7 +8,6 @@
   ],
   "name": "PACIFIC MERCANTILE BANK",
   "legalName": "PACIFIC MERCANTILE BANK",
-  "bic": "PMERUS66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pacificmercantilebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PMERUS66XXX"
 }

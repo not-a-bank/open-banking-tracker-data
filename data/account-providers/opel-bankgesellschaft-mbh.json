@@ -8,7 +8,6 @@
   ],
   "name": "OPEL BANKGESELLSCHAFT M.B.H",
   "legalName": "OPEL BANKGESELLSCHAFT M.B.H",
-  "bic": "OPMBATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.opelbankgesellschaftmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPMBATW1XXX"
 }

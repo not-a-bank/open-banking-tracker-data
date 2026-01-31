@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE ROBECO SA",
   "legalName": "BANQUE ROBECO SA",
-  "bic": "ROBOFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquerobecosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROBOFRP1XXX"
 }

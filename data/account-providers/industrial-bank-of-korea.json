@@ -8,7 +8,6 @@
   ],
   "name": "INDUSTRIAL BANK OF KOREA",
   "legalName": "INDUSTRIAL BANK OF KOREA",
-  "bic": "IBKOKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.industrialbankofkorea.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBKOKRSEXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF SCOTLAND PLC",
   "legalName": "BANK OF SCOTLAND PLC",
-  "bic": "BOFSGBS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofscotlandplcgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFSGBS1XXX"
 }

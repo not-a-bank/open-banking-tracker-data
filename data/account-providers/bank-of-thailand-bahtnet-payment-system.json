@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF THAILAND, BAHTNET PAYMENT SYSTEM",
   "legalName": "BANK OF THAILAND, BAHTNET PAYMENT SYSTEM",
-  "bic": "BOTHTHBPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofthailandbahtnetpaymentsystem.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTHTHBPXXX"
 }

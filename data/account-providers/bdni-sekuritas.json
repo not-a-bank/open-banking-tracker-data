@@ -8,7 +8,6 @@
   ],
   "name": "BDNI SEKURITAS",
   "legalName": "BDNI SEKURITAS",
-  "bic": "BDNSIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bdnisekuritas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDNSIDJ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BGFIBANK MADAGASCAR",
   "legalName": "BGFIBANK MADAGASCAR",
-  "bic": "BGFIMGMGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bgfibankmadagascar.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGFIMGMGXXX"
 }

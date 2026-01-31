@@ -8,7 +8,6 @@
   ],
   "name": "AMAZON PAYMENTS EUROPE S.C.A",
   "legalName": "AMAZON PAYMENTS EUROPE S.C.A",
-  "bic": "AEUSLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amazonpaymentseuropesca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEUSLUL1XXX"
 }

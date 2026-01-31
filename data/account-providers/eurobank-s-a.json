@@ -8,7 +8,6 @@
   ],
   "name": "Eurobank S.a.",
   "legalName": "EUROBANK S.A.",
-  "bic": "EUROBANK",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurobank.com.ico",
@@ -27,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUROBANK"
 }

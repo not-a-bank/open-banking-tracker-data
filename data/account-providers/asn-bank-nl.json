@@ -8,7 +8,6 @@
   ],
   "name": "ASN BANK",
   "legalName": "ASN BANK",
-  "bic": "ASNBNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1568416006/radar/icons/asn-bank.jpg",
@@ -94,5 +93,6 @@
     }
   ],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASNBNL21XXX"
 }

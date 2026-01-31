@@ -9,7 +9,6 @@
   ],
   "name": "TOTENS SPAREBANK",
   "legalName": "TOTENS SPAREBANK",
-  "bic": "TOTENO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/6dd03da4-8782-4b39-9ea0-6f8f43276bad/-/preview/170x170/-/crop/180x180/center/NO995883422.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOTENO21"
 }

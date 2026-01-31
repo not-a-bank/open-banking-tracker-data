@@ -8,7 +8,6 @@
   ],
   "name": "MONTEMAR COMPANIA FINANCIERA S.A.",
   "legalName": "MONTEMAR COMPANIA FINANCIERA S.A.",
-  "bic": "MCFIARBMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.montemarcompaniafinancierasaar.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCFIARBMXXX"
 }

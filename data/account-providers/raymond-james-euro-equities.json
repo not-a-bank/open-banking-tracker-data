@@ -8,7 +8,6 @@
   ],
   "name": "RAYMOND JAMES EURO EQUITIES",
   "legalName": "RAYMOND JAMES EURO EQUITIES",
-  "bic": "RJEEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raymondjameseuroequities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RJEEFRP1XXX"
 }

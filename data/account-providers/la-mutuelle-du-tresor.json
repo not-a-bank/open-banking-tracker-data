@@ -8,7 +8,6 @@
   ],
   "name": "LA MUTUELLE DU TRESOR",
   "legalName": "LA MUTUELLE DU TRESOR",
-  "bic": "MUTSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lamutuelledutresor.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUTSFRP1XXX"
 }

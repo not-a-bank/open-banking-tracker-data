@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA, N.A. MILITARY BANK",
   "legalName": "BANK OF AMERICA, N.A. MILITARY BANK",
-  "bic": "MNBIDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericanamilitarybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MNBIDEF1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OAO NIZHNY NOVGOROD COMMERCIAL BANK 'RADIOTEHBANK'",
   "legalName": "OAO NIZHNY NOVGOROD COMMERCIAL BANK 'RADIOTEHBANK'",
-  "bic": "ROJSRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oaonizhnynovgorodcommercialbankradiotehbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROJSRU21XXX"
 }

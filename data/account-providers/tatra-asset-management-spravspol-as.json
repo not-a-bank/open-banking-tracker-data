@@ -8,7 +8,6 @@
   ],
   "name": "TATRA ASSET MANAGEMENT, SPRAV.SPOL. A.S.",
   "legalName": "TATRA ASSET MANAGEMENT, SPRAV.SPOL. A.S.",
-  "bic": "TAMPSKB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tatraassetmanagementspravspolas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAMPSKB1XXX"
 }

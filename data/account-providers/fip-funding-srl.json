@@ -8,7 +8,6 @@
   ],
   "name": "FIP FUNDING SRL",
   "legalName": "FIP FUNDING SRL",
-  "bic": "FPFSITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fipfundingsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FPFSITR1XXX"
 }

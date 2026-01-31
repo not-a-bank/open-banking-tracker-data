@@ -8,7 +8,6 @@
   ],
   "name": "BGC BROKERS LP",
   "legalName": "BGC BROKERS LP",
-  "bic": "MIEQGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bgcbrokerslpgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIEQGB21XXX"
 }

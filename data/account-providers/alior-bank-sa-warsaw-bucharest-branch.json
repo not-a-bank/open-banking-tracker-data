@@ -8,7 +8,6 @@
   ],
   "name": "ALIOR BANK SA WARSAW BUCHAREST BRANCH",
   "legalName": "ALIOR BANK SA WARSAW BUCHAREST BRANCH",
-  "bic": "ALBPROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aliorbanksawarsawbucharestbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALBPROBUXXX"
 }

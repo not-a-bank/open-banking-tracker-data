@@ -8,7 +8,6 @@
   ],
   "name": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
   "legalName": "HRVATSKA NARODNA BANKA (CROATIAN NATIONAL BANK)",
-  "bic": "NBHRHR2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hrvatskanarodnabankacroatiannationalbankhr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBHRHR2DXXX"
 }

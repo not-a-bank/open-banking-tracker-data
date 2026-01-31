@@ -8,7 +8,6 @@
   ],
   "name": "HSBC INTERNATIONAL TRUSTEE LIMITED",
   "legalName": "HSBC INTERNATIONAL TRUSTEE LIMITED",
-  "bic": "HINTHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcinternationaltrusteelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HINTHKH1XXX"
 }

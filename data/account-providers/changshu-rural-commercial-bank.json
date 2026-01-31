@@ -8,7 +8,6 @@
   ],
   "name": "CHANGSHU RURAL COMMERCIAL BANK",
   "legalName": "CHANGSHU RURAL COMMERCIAL BANK",
-  "bic": "CSCBCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.changshururalcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSCBCNSHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OCBC WING HANG BANK LIMITED",
   "legalName": "OCBC WING HANG BANK LIMITED",
-  "bic": "WIHBMOMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ocbcwinghangbanklimitedmo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WIHBMOMXXXX"
 }

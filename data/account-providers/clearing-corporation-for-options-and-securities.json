@@ -8,7 +8,6 @@
   ],
   "name": "CLEARING CORPORATION FOR OPTIONS AND SECURITIES",
   "legalName": "CLEARING CORPORATION FOR OPTIONS AND SECURITIES",
-  "bic": "CCOSUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clearingcorporationforoptionsandsecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCOSUS41XXX"
 }

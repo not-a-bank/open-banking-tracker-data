@@ -8,7 +8,6 @@
   ],
   "name": "BANK SINOPAC (FORMERLY INT'L BANK OF TAIPEI)",
   "legalName": "BANK SINOPAC (FORMERLY INT'L BANK OF TAIPEI)",
-  "bic": "SINOMOMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banksinopacformerlyintlbankoftaipei.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SINOMOMXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "LOMBARD ODIER ASSET MANAGEMENT (SWITZERLAND) SA",
   "legalName": "LOMBARD ODIER ASSET MANAGEMENT (SWITZERLAND) SA",
-  "bic": "LOAMCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lombardodierassetmanagementswitzerlandsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOAMCHGGXXX"
 }

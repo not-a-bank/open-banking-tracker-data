@@ -8,7 +8,6 @@
   ],
   "name": "FINNCAP LTD MARKET MAKING",
   "legalName": "FINNCAP LTD MARKET MAKING",
-  "bic": "FCMMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finncapltdmarketmaking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCMMGB21XXX"
 }

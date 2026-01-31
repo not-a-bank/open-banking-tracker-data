@@ -8,7 +8,6 @@
   ],
   "name": "MIDAS ASSET MANAGEMENT S.A.",
   "legalName": "MIDAS ASSET MANAGEMENT S.A.",
-  "bic": "MIAALUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.midasassetmanagementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIAALUL1XXX"
 }

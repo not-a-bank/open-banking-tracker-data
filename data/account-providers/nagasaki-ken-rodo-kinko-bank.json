@@ -8,7 +8,6 @@
   ],
   "name": "NAGASAKI-KEN RODO KINKO BANK",
   "legalName": "NAGASAKI-KEN RODO KINKO BANK",
-  "bic": "NARKJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nagasakikenrodokinkobank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NARKJPJ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CORPORACION BURSATIL SA",
   "legalName": "CORPORACION BURSATIL SA",
-  "bic": "CORRGTG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.corporacionbursatilsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CORRGTG1XXX"
 }

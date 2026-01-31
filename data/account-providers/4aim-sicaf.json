@@ -8,7 +8,6 @@
   ],
   "name": "4AIM SICAF",
   "legalName": "4AIM SICAF",
-  "bic": "AIMFITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.4aimsicaf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIMFITM1XXX"
 }

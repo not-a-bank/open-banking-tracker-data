@@ -8,7 +8,6 @@
   ],
   "name": "ESSENCE INTERNATIONAL SECURITIES (HK) LIMITED",
   "legalName": "ESSENCE INTERNATIONAL SECURITIES (HK) LIMITED",
-  "bic": "ESISHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.essenceinternationalsecuritieshklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESISHKH1XXX"
 }

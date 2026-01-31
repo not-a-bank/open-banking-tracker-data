@@ -1,0 +1,32 @@
+{
+  "id": "barclaycard-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Barclaycard UK",
+  "legalName": "Barclaycard UK",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.barclaycard-uk.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "BUKBGB22"
+}

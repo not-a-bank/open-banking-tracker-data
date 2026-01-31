@@ -8,7 +8,6 @@
   ],
   "name": "ASCOR DEALER S.A.",
   "legalName": "ASCOR DEALER S.A.",
-  "bic": "ASDEPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ascordealersa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASDEPTP1XXX"
 }

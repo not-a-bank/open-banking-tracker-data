@@ -8,7 +8,6 @@
   ],
   "name": "CALIFORNIA REPUBLIC BANK",
   "legalName": "CALIFORNIA REPUBLIC BANK",
-  "bic": "CRBKUS6LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.californiarepublicbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRBKUS6LXXX"
 }

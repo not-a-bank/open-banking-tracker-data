@@ -8,7 +8,6 @@
   ],
   "name": "YPI",
   "legalName": "YPI",
-  "bic": "YPIIFR2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ypi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YPIIFR2NXXX"
 }

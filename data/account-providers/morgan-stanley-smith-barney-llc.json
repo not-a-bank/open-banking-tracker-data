@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY SMITH BARNEY LLC",
   "legalName": "MORGAN STANLEY SMITH BARNEY LLC",
-  "bic": "DWRIUS3AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleysmithbarneyllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DWRIUS3AXXX"
 }

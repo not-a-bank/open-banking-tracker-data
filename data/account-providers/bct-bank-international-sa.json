@@ -8,7 +8,6 @@
   ],
   "name": "BCT BANK INTERNATIONAL, S.A.",
   "legalName": "BCT BANK INTERNATIONAL, S.A.",
-  "bic": "BCTBPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bctbankinternationalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCTBPAPAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AHLI BROKERAGE COMPANY",
   "legalName": "AHLI BROKERAGE COMPANY",
-  "bic": "AHBOJOA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ahlibrokeragecompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AHBOJOA1XXX"
 }

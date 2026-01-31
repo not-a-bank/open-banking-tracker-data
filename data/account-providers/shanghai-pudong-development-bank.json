@@ -8,7 +8,6 @@
   ],
   "name": "SHANGHAI PUDONG DEVELOPMENT BANK",
   "legalName": "SHANGHAI PUDONG DEVELOPMENT BANK",
-  "bic": "SPDBCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shanghaipudongdevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPDBCNSHXXX"
 }

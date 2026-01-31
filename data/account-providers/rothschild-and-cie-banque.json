@@ -8,7 +8,6 @@
   ],
   "name": "ROTHSCHILD AND CIE BANQUE",
   "legalName": "ROTHSCHILD AND CIE BANQUE",
-  "bic": "RCBPFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rothschildandciebanque.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCBPFRPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AKTIETORGET",
   "legalName": "AKTIETORGET",
-  "bic": "XSATSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aktietorget.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSATSES1XXX"
 }

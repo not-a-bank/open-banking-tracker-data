@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DEL CERESIO SA",
   "legalName": "BANCA DEL CERESIO SA",
-  "bic": "BACECH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadelceresiosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACECH22XXX"
 }

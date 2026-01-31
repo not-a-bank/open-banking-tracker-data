@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MAXIMA S.A.",
   "legalName": "BANCO MAXIMA S.A.",
-  "bic": "BMAXBRRJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomaximasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMAXBRRJXXX"
 }

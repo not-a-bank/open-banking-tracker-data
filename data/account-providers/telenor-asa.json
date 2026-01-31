@@ -8,7 +8,6 @@
   ],
   "name": "TELENOR ASA",
   "legalName": "TELENOR ASA",
-  "bic": "TEORNO22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.telenorasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEORNO22XXX"
 }

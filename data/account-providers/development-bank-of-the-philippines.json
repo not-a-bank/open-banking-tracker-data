@@ -8,7 +8,6 @@
   ],
   "name": "DEVELOPMENT BANK OF THE PHILIPPINES",
   "legalName": "DEVELOPMENT BANK OF THE PHILIPPINES",
-  "bic": "DBPHPHMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.developmentbankofthephilippines.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBPHPHMMXXX"
 }

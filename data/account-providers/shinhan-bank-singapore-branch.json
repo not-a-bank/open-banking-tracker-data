@@ -8,7 +8,6 @@
   ],
   "name": "SHINHAN BANK, SINGAPORE BRANCH",
   "legalName": "SHINHAN BANK, SINGAPORE BRANCH",
-  "bic": "SHBKSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shinhanbanksingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHBKSGSGXXX"
 }

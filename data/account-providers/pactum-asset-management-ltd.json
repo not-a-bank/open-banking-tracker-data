@@ -8,7 +8,6 @@
   ],
   "name": "PACTUM ASSET MANAGEMENT LTD",
   "legalName": "PACTUM ASSET MANAGEMENT LTD",
-  "bic": "PAEAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pactumassetmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAEAGB21XXX"
 }

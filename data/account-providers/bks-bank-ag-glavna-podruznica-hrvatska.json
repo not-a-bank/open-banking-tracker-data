@@ -8,7 +8,6 @@
   ],
   "name": "BKS Bank AG, Glavna Podruznica Hrvatska",
   "legalName": "BKS BANK AG, GLAVNA PODRUZNICA HRVATSKA",
-  "bic": "BFKKHR22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BFKKHR22XXX"
 }

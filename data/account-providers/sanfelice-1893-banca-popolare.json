@@ -8,7 +8,6 @@
   ],
   "name": "SANFELICE 1893 BANCA POPOLARE",
   "legalName": "SANFELICE 1893 BANCA POPOLARE",
-  "bic": "SFSPIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sanfelice1893bancapopolare.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFSPIT22"
 }

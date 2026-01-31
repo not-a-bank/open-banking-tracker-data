@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH",
   "legalName": "MORGAN STANLEY AND CO. INTERNATIONAL PLC, SEOUL BRANCH",
-  "bic": "MSKRKRSXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleyandcointernationalplcseoulbran.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSKRKRSXXXX"
 }

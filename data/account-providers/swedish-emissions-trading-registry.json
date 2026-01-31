@@ -8,7 +8,6 @@
   ],
   "name": "SWEDISH EMISSIONS TRADING REGISTRY",
   "legalName": "SWEDISH EMISSIONS TRADING REGISTRY",
-  "bic": "SETGSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swedishemissionstradingregistry.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SETGSE21XXX"
 }

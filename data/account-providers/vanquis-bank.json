@@ -101,6 +101,7 @@
     }
   ],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "salt-edge",
     "tink",
@@ -109,5 +110,5 @@
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "VQISGB21XXX"
+  "bic": "VQISGB21"
 }

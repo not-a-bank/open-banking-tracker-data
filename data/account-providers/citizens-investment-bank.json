@@ -8,7 +8,6 @@
   ],
   "name": "CITIZENS INVESTMENT BANK",
   "legalName": "CITIZENS INVESTMENT BANK",
-  "bic": "CIINGHA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citizensinvestmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIINGHA1XXX"
 }

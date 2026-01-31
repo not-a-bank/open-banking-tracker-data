@@ -8,7 +8,6 @@
   ],
   "name": "Banco Safra",
   "legalName": "BANCO SAFRA S.A.",
-  "bic": "SAFRBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1594860008/radar/icons/safra-br.png",
@@ -73,10 +72,12 @@
     }
   ],
   "apiAggregators": [
+    "gocardless",
     "klavi",
     "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSAFLULL"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "COMPASS BANK",
   "legalName": "COMPASS BANK",
-  "bic": "CPASUS4FXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compassbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPASUS4FXXX"
 }

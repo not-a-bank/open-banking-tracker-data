@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE BRETAGNE DE CREDIT AGRICOLE MUTUEL SOCIETE COOPERATIVE A CAPITAL VARIABLE",
   "legalName": "CAISSE DE BRETAGNE DE CREDIT AGRICOLE MUTUEL SOCIETE COOPERATIVE A CAPITAL VARIABLE",
-  "bic": "CBCRFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedebretagnedecreditagricolemutuelsocie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBCRFR21XXX"
 }

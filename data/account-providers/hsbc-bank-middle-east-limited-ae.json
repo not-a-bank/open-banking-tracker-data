@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK MIDDLE EAST LIMITED",
   "legalName": "HSBC BANK MIDDLE EAST LIMITED",
-  "bic": "HBMEAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankmiddleeastlimitedae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBMEAEADXXX"
 }

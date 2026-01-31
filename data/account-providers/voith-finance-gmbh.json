@@ -8,7 +8,6 @@
   ],
   "name": "VOITH FINANCE GMBH",
   "legalName": "VOITH FINANCE GMBH",
-  "bic": "VOITDE68XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.voithfinancegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOITDE68XXX"
 }

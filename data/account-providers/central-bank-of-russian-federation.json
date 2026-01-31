@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF RUSSIAN FEDERATION",
   "legalName": "CENTRAL BANK OF RUSSIAN FEDERATION",
-  "bic": "CBRFRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankofrussianfederation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBRFRUMMXXX"
 }

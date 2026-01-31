@@ -8,7 +8,6 @@
   ],
   "name": "AZL VERMOGENSBEHEER B.V.",
   "legalName": "AZL VERMOGENSBEHEER B.V.",
-  "bic": "AZLVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.azlvermogensbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZLVNL21XXX"
 }

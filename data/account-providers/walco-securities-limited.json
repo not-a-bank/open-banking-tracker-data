@@ -8,7 +8,6 @@
   ],
   "name": "WALCO SECURITIES LIMITED",
   "legalName": "WALCO SECURITIES LIMITED",
-  "bic": "WALSHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.walcosecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WALSHKH1XXX"
 }

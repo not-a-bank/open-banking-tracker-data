@@ -8,7 +8,6 @@
   ],
   "name": "RBC DOMINION SECURITIES INC.",
   "legalName": "RBC DOMINION SECURITIES INC.",
-  "bic": "RBCDGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbcdominionsecuritiesincgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBCDGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ORSAY ASSET MANAGEMENT",
   "legalName": "ORSAY ASSET MANAGEMENT",
-  "bic": "ORSSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orsayassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORSSFRP1XXX"
 }

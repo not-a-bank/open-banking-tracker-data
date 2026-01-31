@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SUL AMERICA S.A.",
   "legalName": "BANCO SUL AMERICA S.A.",
-  "bic": "BSUABRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosulamericasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSUABRS1XXX"
 }

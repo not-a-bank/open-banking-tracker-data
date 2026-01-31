@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT EUROPE BANK N.V. NIEDERLASSUNG DEUTSCHLAND",
   "legalName": "CREDIT EUROPE BANK N.V. NIEDERLASSUNG DEUTSCHLAND",
-  "bic": "FBHLDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.crediteuropebanknvniederlassungdeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBHLDEFFXXX"
 }

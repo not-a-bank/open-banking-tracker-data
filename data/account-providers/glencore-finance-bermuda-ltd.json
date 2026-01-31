@@ -8,7 +8,6 @@
   ],
   "name": "GLENCORE FINANCE (BERMUDA) LTD",
   "legalName": "GLENCORE FINANCE (BERMUDA) LTD",
-  "bic": "GFBEBMH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.glencorefinancebermudaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GFBEBMH1XXX"
 }

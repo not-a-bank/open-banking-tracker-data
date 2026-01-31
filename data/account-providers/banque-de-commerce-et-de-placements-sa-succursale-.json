@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE COMMERCE ET DE PLACEMENTS S.A. SUCCURSALE DE LUXEMBOURG",
   "legalName": "BANQUE DE COMMERCE ET DE PLACEMENTS S.A. SUCCURSALE DE LUXEMBOURG",
-  "bic": "BPCPLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedecommerceetdeplacementssasuccursale.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPCPLULLXXX"
 }

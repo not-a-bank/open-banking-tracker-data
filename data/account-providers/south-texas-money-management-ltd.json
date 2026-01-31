@@ -8,7 +8,6 @@
   ],
   "name": "SOUTH TEXAS MONEY MANAGEMENT LTD",
   "legalName": "SOUTH TEXAS MONEY MANAGEMENT LTD",
-  "bic": "STMGUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southtexasmoneymanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STMGUS41XXX"
 }

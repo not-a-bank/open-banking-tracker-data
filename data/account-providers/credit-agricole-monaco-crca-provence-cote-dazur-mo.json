@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE MONACO (CRCA PROVENCE COTE D'AZUR MONACO)",
   "legalName": "CREDIT AGRICOLE MONACO (CRCA PROVENCE COTE D'AZUR MONACO)",
-  "bic": "AGRIMCM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolemonacocrcaprovencecotedazurmo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRIMCM1XXX"
 }

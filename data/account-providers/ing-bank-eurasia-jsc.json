@@ -8,7 +8,6 @@
   ],
   "name": "ING BANK (EURASIA) JSC",
   "legalName": "ING BANK (EURASIA) JSC",
-  "bic": "INGBRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingbankeurasiajsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGBRUMMXXX"
 }

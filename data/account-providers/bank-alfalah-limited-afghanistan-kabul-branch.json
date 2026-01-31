@@ -8,7 +8,6 @@
   ],
   "name": "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)",
   "legalName": "BANK ALFALAH LIMITED (AFGHANISTAN - KABUL BRANCH)",
-  "bic": "ALFHAFKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankalfalahlimitedafghanistankabulbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALFHAFKAXXX"
 }

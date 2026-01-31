@@ -8,7 +8,6 @@
   ],
   "name": "RBC CAPITAL MARKETS CORPORATION",
   "legalName": "RBC CAPITAL MARKETS CORPORATION",
-  "bic": "RBDSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbccapitalmarketscorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBDSFRP1XXX"
 }

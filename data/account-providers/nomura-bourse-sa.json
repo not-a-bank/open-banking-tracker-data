@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA BOURSE S.A.",
   "legalName": "NOMURA BOURSE S.A.",
-  "bic": "NOMBFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomuraboursesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOMBFRP1XXX"
 }

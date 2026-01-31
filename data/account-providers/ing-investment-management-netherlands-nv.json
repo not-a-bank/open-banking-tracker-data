@@ -8,7 +8,6 @@
   ],
   "name": "ING INVESTMENT MANAGEMENT NETHERLANDS N.V.",
   "legalName": "ING INVESTMENT MANAGEMENT NETHERLANDS N.V.",
-  "bic": "INGONL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.inginvestmentmanagementnetherlandsnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGONL21XXX"
 }

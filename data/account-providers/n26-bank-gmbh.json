@@ -8,7 +8,6 @@
   ],
   "name": "N26 BANK GMBH",
   "legalName": "N26 BANK GMBH",
-  "bic": "NTSBDEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.n26bankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NTSBDEB1XXX"
 }

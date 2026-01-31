@@ -8,7 +8,6 @@
   ],
   "name": "SWISS GLOBAL ASSET MANAG SGR M TO GPM",
   "legalName": "SWISS GLOBAL ASSET MANAG SGR M TO GPM",
-  "bic": "SGSAITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swissglobalassetmanagsgrmtogpm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGSAITM1XXX"
 }

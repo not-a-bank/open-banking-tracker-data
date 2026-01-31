@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE POPULAIRE CASA-EST",
   "legalName": "BANQUE POPULAIRE CASA-EST",
-  "bic": "BCPOMAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepopulairecasaest.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCPOMAM1XXX"
 }

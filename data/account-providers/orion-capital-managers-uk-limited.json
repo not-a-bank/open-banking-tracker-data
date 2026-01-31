@@ -8,7 +8,6 @@
   ],
   "name": "ORION CAPITAL MANAGERS (UK) LIMITED",
   "legalName": "ORION CAPITAL MANAGERS (UK) LIMITED",
-  "bic": "ORCMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orioncapitalmanagersuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORCMGB21XXX"
 }

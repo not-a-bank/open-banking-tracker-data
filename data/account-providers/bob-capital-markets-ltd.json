@@ -8,7 +8,6 @@
   ],
   "name": "BOB CAPITAL MARKETS LTD",
   "legalName": "BOB CAPITAL MARKETS LTD",
-  "bic": "BOCEINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bobcapitalmarketsltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOCEINB1XXX"
 }

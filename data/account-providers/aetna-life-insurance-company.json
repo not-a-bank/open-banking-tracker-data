@@ -8,7 +8,6 @@
   ],
   "name": "AETNA LIFE INSURANCE COMPANY",
   "legalName": "AETNA LIFE INSURANCE COMPANY",
-  "bic": "AETNUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aetnalifeinsurancecompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AETNUS33XXX"
 }

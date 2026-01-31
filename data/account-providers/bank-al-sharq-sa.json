@@ -8,7 +8,6 @@
   ],
   "name": "BANK AL-SHARQ S.A.",
   "legalName": "BANK AL-SHARQ S.A.",
-  "bic": "SHRQSYDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankalsharqsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHRQSYDAXXX"
 }

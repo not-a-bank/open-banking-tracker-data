@@ -8,7 +8,6 @@
   ],
   "name": "NESTE OYJ",
   "legalName": "NESTE OYJ",
-  "bic": "NSTEFI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nesteoyj.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSTEFI22XXX"
 }

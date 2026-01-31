@@ -8,7 +8,6 @@
   ],
   "name": "NIKE GLOBAL TRADING B.V. SINGAPORE BRANCH",
   "legalName": "NIKE GLOBAL TRADING B.V. SINGAPORE BRANCH",
-  "bic": "NIKESG21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nikeglobaltradingbvsingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIKESG21XXX"
 }

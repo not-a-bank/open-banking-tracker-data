@@ -8,7 +8,6 @@
   ],
   "name": "COMMONWEALTH BANK/SAVINGS AND LOAN",
   "legalName": "COMMONWEALTH BANK/SAVINGS AND LOAN",
-  "bic": "CBSLPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commonwealthbanksavingsandloan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBSLPHM1XXX"
 }

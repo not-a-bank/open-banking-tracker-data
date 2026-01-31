@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIE FINANCIERE AVAL",
   "legalName": "COMPAGNIE FINANCIERE AVAL",
-  "bic": "CMFACHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniefinanciereaval.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMFACHG1XXX"
 }

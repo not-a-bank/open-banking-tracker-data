@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE SAUDI ARABIA",
   "legalName": "CREDIT SUISSE SAUDI ARABIA",
-  "bic": "CRESSARAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissesaudiarabia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESSARAXXX"
 }

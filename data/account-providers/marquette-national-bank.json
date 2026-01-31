@@ -8,7 +8,6 @@
   ],
   "name": "MARQUETTE NATIONAL BANK",
   "legalName": "MARQUETTE NATIONAL BANK",
-  "bic": "MARQUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.marquettenationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MARQUS41XXX"
 }

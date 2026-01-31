@@ -8,7 +8,6 @@
   ],
   "name": "ORIMATTILAN OSUUSPANKKI",
   "legalName": "ORIMATTILAN OSUUSPANKKI",
-  "bic": "OROSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orimattilanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OROSFI21XXX"
 }

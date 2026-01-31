@@ -8,7 +8,6 @@
   ],
   "name": "PAYTIPPER S.P.A.",
   "legalName": "PAYTIPPER S.P.A.",
-  "bic": "PAYTITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paytipperspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAYTITM1XXX"
 }

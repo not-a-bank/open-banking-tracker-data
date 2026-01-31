@@ -8,7 +8,6 @@
   ],
   "name": "THE UNITED BANK",
   "legalName": "THE UNITED BANK",
-  "bic": "UBOEEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theunitedbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBOEEGCXXXX"
 }

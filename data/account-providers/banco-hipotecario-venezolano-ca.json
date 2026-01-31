@@ -8,7 +8,6 @@
   ],
   "name": "BANCO HIPOTECARIO VENEZOLANO, C.A.",
   "legalName": "BANCO HIPOTECARIO VENEZOLANO, C.A.",
-  "bic": "BHVEVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancohipotecariovenezolanoca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHVEVEC1XXX"
 }

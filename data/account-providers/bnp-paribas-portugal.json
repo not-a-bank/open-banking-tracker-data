@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS PORTUGAL",
   "legalName": "BNP PARIBAS PORTUGAL",
-  "bic": "BNPAPTPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasportugal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAPTPLXXX"
 }

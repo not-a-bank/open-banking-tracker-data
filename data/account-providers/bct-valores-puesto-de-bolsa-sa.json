@@ -8,7 +8,6 @@
   ],
   "name": "BCT VALORES PUESTO DE BOLSA SA",
   "legalName": "BCT VALORES PUESTO DE BOLSA SA",
-  "bic": "BVPBCRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bctvalorespuestodebolsasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BVPBCRS1XXX"
 }

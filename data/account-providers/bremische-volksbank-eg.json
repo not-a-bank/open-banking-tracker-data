@@ -8,7 +8,6 @@
   ],
   "name": "BREMISCHE VOLKSBANK EG",
   "legalName": "BREMISCHE VOLKSBANK EG",
-  "bic": "BRVLDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bremischevolksbankeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRVLDE81XXX"
 }

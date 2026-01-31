@@ -8,7 +8,6 @@
   ],
   "name": "CRDB BANK LIMITED",
   "legalName": "CRDB BANK LIMITED",
-  "bic": "CORUTZT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.crdbbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CORUTZT1XXX"
 }

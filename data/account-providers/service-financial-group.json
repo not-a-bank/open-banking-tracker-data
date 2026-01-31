@@ -8,7 +8,6 @@
   ],
   "name": "SERVICE FINANCIAL GROUP",
   "legalName": "SERVICE FINANCIAL GROUP",
-  "bic": "SEFGUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.servicefinancialgroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEFGUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ARCADIS PENSIOENFONDS",
   "legalName": "ARCADIS PENSIOENFONDS",
-  "bic": "ACPFNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arcadispensioenfonds.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACPFNL21XXX"
 }

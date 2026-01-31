@@ -8,7 +8,6 @@
   ],
   "name": "EXIM BANK (DJIBOUTI) S.A.",
   "legalName": "EXIM BANK (DJIBOUTI) S.A.",
-  "bic": "EXTNDJJDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eximbankdjiboutisa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXTNDJJDXXX"
 }

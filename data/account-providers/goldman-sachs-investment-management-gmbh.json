@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS INVESTMENT MANAGEMENT GMBH",
   "legalName": "GOLDMAN SACHS INVESTMENT MANAGEMENT GMBH",
-  "bic": "GSIMDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsinvestmentmanagementgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSIMDEF1XXX"
 }

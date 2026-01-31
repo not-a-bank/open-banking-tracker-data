@@ -8,7 +8,6 @@
   ],
   "name": "AXA MULTIMANAGER LIMITED",
   "legalName": "AXA MULTIMANAGER LIMITED",
-  "bic": "AXMLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axamultimanagerlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXMLGB21XXX"
 }

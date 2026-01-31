@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA LIMITED KARACHI BRANCH",
   "legalName": "BANK OF CHINA LIMITED KARACHI BRANCH",
-  "bic": "BKCHPKKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinalimitedkarachibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHPKKAXXX"
 }

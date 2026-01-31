@@ -8,7 +8,6 @@
   ],
   "name": "SJ SECURITIES SDN BHD",
   "legalName": "SJ SECURITIES SDN BHD",
-  "bic": "SJSEMY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sjsecuritiessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SJSEMY21XXX"
 }

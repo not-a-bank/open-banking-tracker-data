@@ -8,7 +8,6 @@
   ],
   "name": "SUPREMA SECURITIES S.A.",
   "legalName": "SUPREMA SECURITIES S.A.",
-  "bic": "SUSRPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.supremasecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SUSRPLP1XXX"
 }

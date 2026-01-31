@@ -8,7 +8,6 @@
   ],
   "name": "BAI-TUSHUM BANK CJSC",
   "legalName": "BAI-TUSHUM BANK CJSC",
-  "bic": "BBTPKG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baitushumbankcjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBTPKG22XXX"
 }

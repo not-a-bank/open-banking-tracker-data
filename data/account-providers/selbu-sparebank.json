@@ -9,7 +9,6 @@
   ],
   "name": "SELBU SPAREBANK",
   "legalName": "SELBU SPAREBANK",
-  "bic": "SELSNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/2575d9f5-1862-4cd7-8690-a4eebf43380f/-/preview/170x170/-/crop/180x180/center/NO937901836.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SELSNO21"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ING ASSET MANAGEMENT B.V.",
   "legalName": "ING ASSET MANAGEMENT B.V.",
-  "bic": "INGVSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingassetmanagementbvse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGVSES1XXX"
 }

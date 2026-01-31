@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO HOARE GOVETT SECURITIES",
   "legalName": "ABN AMRO HOARE GOVETT SECURITIES",
-  "bic": "AAHOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamrohoaregovettsecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AAHOGB21XXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "EVJE OG HORNNES SPAREBANK",
   "legalName": "EVJE OG HORNNES SPAREBANK",
-  "bic": "EVJENO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/4297364d-081d-4fd5-a6cb-91ef60e4e3a9/-/preview/170x170/-/crop/180x180/center/NO937894171.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EVJENO21"
 }

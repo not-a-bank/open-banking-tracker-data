@@ -8,7 +8,6 @@
   ],
   "name": "FDH BANK LIMITED",
   "legalName": "FDH BANK LIMITED",
-  "bic": "FDHFMWMWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fdhbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDHFMWMWXXX"
 }

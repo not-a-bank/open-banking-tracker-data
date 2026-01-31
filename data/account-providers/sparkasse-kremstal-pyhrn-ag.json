@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE KREMSTAL-PYHRN AG",
   "legalName": "SPARKASSE KREMSTAL-PYHRN AG",
-  "bic": "SPKPAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassekremstalpyhrnag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPKPAT21XXX"
 }

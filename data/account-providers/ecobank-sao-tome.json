@@ -8,7 +8,6 @@
   ],
   "name": "ECOBANK SAO TOME",
   "legalName": "ECOBANK SAO TOME",
-  "bic": "ECOCSTSTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecobanksaotome.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCSTSTXXX"
 }

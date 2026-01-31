@@ -8,7 +8,6 @@
   ],
   "name": "GABON-POSTE",
   "legalName": "GABON-POSTE",
-  "bic": "CCPGGALIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gabonposte.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCPGGALIXXX"
 }

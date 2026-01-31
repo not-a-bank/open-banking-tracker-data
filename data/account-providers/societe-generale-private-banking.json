@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE PRIVATE BANKING",
   "legalName": "SOCIETE GENERALE PRIVATE BANKING",
-  "bic": "SOGTFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneraleprivatebanking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGTFRP1XXX"
 }

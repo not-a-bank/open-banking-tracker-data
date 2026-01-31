@@ -8,7 +8,6 @@
   ],
   "name": "BABYLON BANK",
   "legalName": "BABYLON BANK",
-  "bic": "BABKIQBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.babylonbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BABKIQBAXXX"
 }

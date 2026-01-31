@@ -8,7 +8,6 @@
   ],
   "name": "CITIFINANCIAL EUROPE PLC",
   "legalName": "CITIFINANCIAL EUROPE PLC",
-  "bic": "CIEUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citifinancialeuropeplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIEUGB21XXX"
 }

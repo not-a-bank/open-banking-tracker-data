@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE SECURITIES KOREA CO.",
   "legalName": "DEUTSCHE SECURITIES KOREA CO.",
-  "bic": "DSALKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschesecuritieskoreaco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DSALKRS1XXX"
 }

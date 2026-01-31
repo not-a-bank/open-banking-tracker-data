@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
   "legalName": "UNICREDIT BANK AG (HYPOVEREINSBANK)",
-  "bic": "HYVECHZUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbankaghypovereinsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HYVECHZUXXX"
 }

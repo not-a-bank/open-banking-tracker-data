@@ -8,7 +8,6 @@
   ],
   "name": "ECONOSTAT UK LIMITED",
   "legalName": "ECONOSTAT UK LIMITED",
-  "bic": "ECONGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.econostatuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECONGB21XXX"
 }

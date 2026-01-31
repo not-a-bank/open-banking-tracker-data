@@ -8,7 +8,6 @@
   ],
   "name": "Procredit Bank SH. A. Albania (formerly Fefad Bank)",
   "legalName": "PROCREDIT BANK SH. A. ALBANIA (FORMERLY FEFAD BANK)",
-  "bic": "FEFAALTRXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FEFAALTRXXX"
 }

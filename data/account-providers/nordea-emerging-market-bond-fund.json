@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA EMERGING MARKET BOND FUND",
   "legalName": "NORDEA EMERGING MARKET BOND FUND",
-  "bic": "NEMOFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaemergingmarketbondfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEMOFIH1XXX"
 }

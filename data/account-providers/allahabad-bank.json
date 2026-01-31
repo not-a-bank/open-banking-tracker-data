@@ -8,7 +8,6 @@
   ],
   "name": "ALLAHABAD BANK",
   "legalName": "ALLAHABAD BANK",
-  "bic": "ALLAHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allahabadbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALLAHKHHXXX"
 }

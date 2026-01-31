@@ -8,7 +8,6 @@
   ],
   "name": "CL SECURITIES TAIWAN COMPANY LIMITED",
   "legalName": "CL SECURITIES TAIWAN COMPANY LIMITED",
-  "bic": "CYSITWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clsecuritiestaiwancompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CYSITWT1XXX"
 }

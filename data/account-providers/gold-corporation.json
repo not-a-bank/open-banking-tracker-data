@@ -8,7 +8,6 @@
   ],
   "name": "GOLD CORPORATION",
   "legalName": "GOLD CORPORATION",
-  "bic": "GCOPAU61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GCOPAU61XXX"
 }

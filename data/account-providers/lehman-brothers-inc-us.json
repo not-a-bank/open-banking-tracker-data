@@ -8,7 +8,6 @@
   ],
   "name": "LEHMAN BROTHERS INC.",
   "legalName": "LEHMAN BROTHERS INC.",
-  "bic": "SLHIUS3XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lehmanbrothersincus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLHIUS3XXXX"
 }

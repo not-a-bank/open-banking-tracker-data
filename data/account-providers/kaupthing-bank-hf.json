@@ -8,7 +8,6 @@
   ],
   "name": "KAUPTHING BANK HF",
   "legalName": "KAUPTHING BANK HF",
-  "bic": "KAUPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kaupthingbankhf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAUPFRP1XXX"
 }

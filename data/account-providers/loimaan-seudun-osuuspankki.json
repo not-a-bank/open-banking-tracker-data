@@ -8,7 +8,6 @@
   ],
   "name": "LOIMAAN SEUDUN OSUUSPANKKI",
   "legalName": "LOIMAAN SEUDUN OSUUSPANKKI",
-  "bic": "LOSOFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.loimaanseudunosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOSOFI21XXX"
 }

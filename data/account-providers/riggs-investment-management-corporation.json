@@ -8,7 +8,6 @@
   ],
   "name": "RIGGS INVESTMENT MANAGEMENT CORPORATION",
   "legalName": "RIGGS INVESTMENT MANAGEMENT CORPORATION",
-  "bic": "RIMCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.riggsinvestmentmanagementcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RIMCUS31XXX"
 }

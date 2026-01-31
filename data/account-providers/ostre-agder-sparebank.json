@@ -8,7 +8,6 @@
   ],
   "name": "OSTRE AGDER SPAREBANK",
   "legalName": "OSTRE AGDER SPAREBANK",
-  "bic": "GJSPNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ostreagdersparebank.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GJSPNO21"
 }

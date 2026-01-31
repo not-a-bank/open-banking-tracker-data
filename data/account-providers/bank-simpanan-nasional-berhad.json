@@ -8,7 +8,6 @@
   ],
   "name": "BANK SIMPANAN NASIONAL BERHAD",
   "legalName": "BANK SIMPANAN NASIONAL BERHAD",
-  "bic": "BSNAMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banksimpanannasionalberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSNAMYK1XXX"
 }

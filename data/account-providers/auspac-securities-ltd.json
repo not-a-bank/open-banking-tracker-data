@@ -8,7 +8,6 @@
   ],
   "name": "AUSPAC SECURITIES LTD.",
   "legalName": "AUSPAC SECURITIES LTD.",
-  "bic": "AUSEAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.auspacsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUSEAU21XXX"
 }

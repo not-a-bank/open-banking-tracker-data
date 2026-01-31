@@ -8,7 +8,6 @@
   ],
   "name": "STUDIO SIM",
   "legalName": "STUDIO SIM",
-  "bic": "STUDITT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.studiosim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STUDITT1XXX"
 }

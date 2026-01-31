@@ -8,7 +8,6 @@
   ],
   "name": "MACQUARIE BANK LIMITED",
   "legalName": "MACQUARIE BANK LIMITED",
-  "bic": "MACQHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macquariebanklimitedhk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MACQHKHHXXX"
 }

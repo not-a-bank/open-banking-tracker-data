@@ -8,7 +8,6 @@
   ],
   "name": "MB FINANCIAL BANK, N.A.",
   "legalName": "MB FINANCIAL BANK, N.A.",
-  "bic": "MBFIUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mbfinancialbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBFIUS44XXX"
 }

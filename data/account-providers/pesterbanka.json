@@ -8,7 +8,6 @@
   ],
   "name": "PESTERBANKA",
   "legalName": "PESTERBANKA",
-  "bic": "PESTRS21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pesterbanka.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PESTRS21XXX"
 }

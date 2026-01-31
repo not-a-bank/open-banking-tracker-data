@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)",
   "legalName": "COMMERCIAL BANK 'RBA' (LIMITED LIABILITY COMPANY)",
-  "bic": "IRBARU22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankrbalimitedliabilitycompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRBARU22XXX"
 }

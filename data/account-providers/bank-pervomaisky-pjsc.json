@@ -8,7 +8,6 @@
   ],
   "name": "BANK PERVOMAISKY (PJSC)",
   "legalName": "BANK PERVOMAISKY (PJSC)",
-  "bic": "PEJCRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankpervomaiskypjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PEJCRU21XXX"
 }

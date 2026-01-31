@@ -8,7 +8,6 @@
   ],
   "name": "CANARA BANK SHANGHAI BRANCH",
   "legalName": "CANARA BANK SHANGHAI BRANCH",
-  "bic": "CNRBCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.canarabankshanghaibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNRBCNSHXXX"
 }

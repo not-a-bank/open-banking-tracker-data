@@ -8,7 +8,6 @@
   ],
   "name": "Union Banka D.d. Sarajevo",
   "legalName": "UNION BANKA D.D. SARAJEVO",
-  "bic": "UBKSBA22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBKSBA22XXX"
 }

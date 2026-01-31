@@ -8,7 +8,6 @@
   ],
   "name": "SUUR-SAVON OSUUSPANKKI",
   "legalName": "SUUR-SAVON OSUUSPANKKI",
-  "bic": "SUONFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.suursavonosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SUONFI21XXX"
 }

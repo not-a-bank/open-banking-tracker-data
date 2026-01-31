@@ -8,7 +8,6 @@
   ],
   "name": "BANK SCHILLING AND CO AKTIENGESELLSCHAFT",
   "legalName": "BANK SCHILLING AND CO AKTIENGESELLSCHAFT",
-  "bic": "BSHADE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankschillingandcoaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSHADE71XXX"
 }

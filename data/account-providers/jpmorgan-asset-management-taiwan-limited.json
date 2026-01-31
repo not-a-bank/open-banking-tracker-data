@@ -8,7 +8,6 @@
   ],
   "name": "JPMORGAN ASSET MANAGEMENT (TAIWAN) LIMITED",
   "legalName": "JPMORGAN ASSET MANAGEMENT (TAIWAN) LIMITED",
-  "bic": "JPMATWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganassetmanagementtaiwanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JPMATWT1XXX"
 }

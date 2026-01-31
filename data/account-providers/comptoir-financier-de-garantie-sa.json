@@ -8,7 +8,6 @@
   ],
   "name": "COMPTOIR FINANCIER DE GARANTIE SA",
   "legalName": "COMPTOIR FINANCIER DE GARANTIE SA",
-  "bic": "CONGFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.comptoirfinancierdegarantiesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONGFR21XXX"
 }

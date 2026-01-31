@@ -8,7 +8,6 @@
   ],
   "name": "MARSH FINANCES S.A.",
   "legalName": "MARSH FINANCES S.A.",
-  "bic": "MAENFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.marshfinancessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAENFR21XXX"
 }

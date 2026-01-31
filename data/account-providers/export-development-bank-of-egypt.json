@@ -8,7 +8,6 @@
   ],
   "name": "EXPORT DEVELOPMENT BANK OF EGYPT",
   "legalName": "EXPORT DEVELOPMENT BANK OF EGYPT",
-  "bic": "EXDEEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exportdevelopmentbankofegypt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXDEEGCXXXX"
 }

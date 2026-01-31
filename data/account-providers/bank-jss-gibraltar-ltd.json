@@ -8,7 +8,6 @@
   ],
   "name": "BANK JSS (GIBRALTAR) LTD",
   "legalName": "BANK JSS (GIBRALTAR) LTD",
-  "bic": "CRESGIGIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankjssgibraltarltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESGIGIXXX"
 }

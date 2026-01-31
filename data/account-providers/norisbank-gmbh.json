@@ -8,7 +8,6 @@
   ],
   "name": "NORISBANK GMBH",
   "legalName": "NORISBANK GMBH",
-  "bic": "NORSDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.norisbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NORSDE51XXX"
 }

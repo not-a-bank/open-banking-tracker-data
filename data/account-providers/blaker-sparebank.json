@@ -9,7 +9,6 @@
   ],
   "name": "BLAKER SPAREBANK",
   "legalName": "BLAKER SPAREBANK",
-  "bic": "BLSANO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/ed292bc3-a93e-4810-bf88-216fb0140c00/-/preview/170x170/-/crop/180x180/center/NO837886252.png",
@@ -55,11 +54,13 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "enablebanking",
-    "neonomics"
+    "gocardless",
+    "neonomics",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLSANO21"
 }

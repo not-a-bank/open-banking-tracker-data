@@ -8,7 +8,6 @@
   ],
   "name": "RMG HOLDING LIMITED",
   "legalName": "RMG HOLDING LIMITED",
-  "bic": "RMHLCY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rmgholdinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RMHLCY21XXX"
 }

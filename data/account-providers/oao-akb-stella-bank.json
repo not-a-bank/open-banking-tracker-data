@@ -8,7 +8,6 @@
   ],
   "name": "OAO AKB 'STELLA-BANK.'",
   "legalName": "OAO AKB 'STELLA-BANK.'",
-  "bic": "SJSORU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oaoakbstellabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SJSORU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CITICORP INTERNATIONAL SECURITIES LTD",
   "legalName": "CITICORP INTERNATIONAL SECURITIES LTD",
-  "bic": "CTISTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citicorpinternationalsecuritiesltdtw.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTISTWT1XXX"
 }

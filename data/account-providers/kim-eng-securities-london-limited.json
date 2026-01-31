@@ -8,7 +8,6 @@
   ],
   "name": "KIM ENG SECURITIES (LONDON) LIMITED",
   "legalName": "KIM ENG SECURITIES (LONDON) LIMITED",
-  "bic": "KESLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kimengsecuritieslondonlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KESLGB21XXX"
 }

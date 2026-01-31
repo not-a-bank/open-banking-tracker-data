@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK SECURITIES INC.",
   "legalName": "CITIBANK SECURITIES INC.",
-  "bic": "CIVPPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibanksecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIVPPHM1XXX"
 }

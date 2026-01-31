@@ -8,7 +8,6 @@
   ],
   "name": "IMI FABI S.P.A.",
   "legalName": "IMI FABI S.P.A.",
-  "bic": "IMFAITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.imifabispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMFAITM1XXX"
 }

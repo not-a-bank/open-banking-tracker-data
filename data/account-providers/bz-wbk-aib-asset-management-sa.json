@@ -8,7 +8,6 @@
   ],
   "name": "BZ WBK AIB ASSET MANAGEMENT S.A.",
   "legalName": "BZ WBK AIB ASSET MANAGEMENT S.A.",
-  "bic": "WASMPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bzwbkaibassetmanagementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WASMPLP1XXX"
 }

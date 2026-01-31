@@ -8,7 +8,6 @@
   ],
   "name": "ALLIANZ BANQUE S.A. (FORMER BANQUE AGF S.A.)",
   "legalName": "ALLIANZ BANQUE S.A. (FORMER BANQUE AGF S.A.)",
-  "bic": "AGFBFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allianzbanquesaformerbanqueagfsafr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGFBFRPPXXX"
 }

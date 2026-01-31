@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DI CREDITO COOPERATIVO DI ROMA",
   "legalName": "BANCA DI CREDITO COOPERATIVO DI ROMA",
-  "bic": "ROMAITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadicreditocooperativodiroma.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROMAITR1XXX"
 }

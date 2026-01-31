@@ -8,7 +8,6 @@
   ],
   "name": "UBS BRASIL BANCO DE INVESTIMENTO S.A.",
   "legalName": "UBS BRASIL BANCO DE INVESTIMENTO S.A.",
-  "bic": "UBSWBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsbrasilbancodeinvestimentosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWBRSPXXX"
 }

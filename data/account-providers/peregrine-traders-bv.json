@@ -8,7 +8,6 @@
   ],
   "name": "PEREGRINE TRADERS B.V.",
   "legalName": "PEREGRINE TRADERS B.V.",
-  "bic": "PTRENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.peregrinetradersbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PTRENL21XXX"
 }

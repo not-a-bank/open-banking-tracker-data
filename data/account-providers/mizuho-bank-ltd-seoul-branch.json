@@ -8,7 +8,6 @@
   ],
   "name": "MIZUHO BANK, LTD., SEOUL BRANCH",
   "legalName": "MIZUHO BANK, LTD., SEOUL BRANCH",
-  "bic": "MHCBKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mizuhobankltdseoulbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHCBKRSEXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SOUTH AFRICAN RESERVE BANK PCH",
   "legalName": "SOUTH AFRICAN RESERVE BANK PCH",
-  "bic": "SRCRZAJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southafricanreservebankpch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SRCRZAJ1XXX"
 }

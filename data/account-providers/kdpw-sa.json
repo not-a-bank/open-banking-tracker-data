@@ -8,7 +8,6 @@
   ],
   "name": "KDPW S.A.",
   "legalName": "KDPW S.A.",
-  "bic": "KDPWPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kdpwsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KDPWPLPWXXX"
 }

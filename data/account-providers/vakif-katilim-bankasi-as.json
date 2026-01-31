@@ -8,7 +8,6 @@
   ],
   "name": "VAKIF KATILIM BANKASI A.S.",
   "legalName": "VAKIF KATILIM BANKASI A.S.",
-  "bic": "VAKFTRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vakifkatilimbankasias.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VAKFTRISXXX"
 }

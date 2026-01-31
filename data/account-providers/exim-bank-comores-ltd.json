@@ -8,7 +8,6 @@
   ],
   "name": "EXIM BANK COMORES LTD",
   "legalName": "EXIM BANK COMORES LTD",
-  "bic": "EXTNKMKMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eximbankcomoresltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXTNKMKMXXX"
 }

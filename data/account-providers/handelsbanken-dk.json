@@ -9,7 +9,6 @@
   ],
   "name": "HANDELSBANKEN",
   "legalName": "HANDELSBANKEN",
-  "bic": "HANDDKKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296089/radar/icons/Svenska_Handelsbanken.jpg",
@@ -87,5 +86,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "STO:SHB-A"
+  "stockSymbol": "STO:SHB-A",
+  "bic": "HANDDKKKXXX"
 }

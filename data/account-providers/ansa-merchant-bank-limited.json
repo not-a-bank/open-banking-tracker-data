@@ -8,7 +8,6 @@
   ],
   "name": "ANSA MERCHANT BANK LIMITED",
   "legalName": "ANSA MERCHANT BANK LIMITED",
-  "bic": "ANFMTTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ansamerchantbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANFMTTP1XXX"
 }

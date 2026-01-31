@@ -8,7 +8,6 @@
   ],
   "name": "HRT FINANCIAL LLC",
   "legalName": "HRT FINANCIAL LLC",
-  "bic": "HRFLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hrtfinancialllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HRFLUS31XXX"
 }

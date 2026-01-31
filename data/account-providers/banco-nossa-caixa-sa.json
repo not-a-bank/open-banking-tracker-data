@@ -8,7 +8,6 @@
   ],
   "name": "BANCO NOSSA CAIXA S/A",
   "legalName": "BANCO NOSSA CAIXA S/A",
-  "bic": "NCXXBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banconossacaixasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NCXXBRS1XXX"
 }

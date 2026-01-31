@@ -8,7 +8,6 @@
   ],
   "name": "Baxter Credit Union",
   "legalName": "Baxter Credit Union",
-  "bic": null,
   "verified": false,
   "status": "live",
   "icon": "https://www.bcu.org/themes/custom/bcu/images/bcu_logo_blue.svg",
@@ -34,5 +33,6 @@
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1614098937/icons/temenos.jpg",
       "websiteUrl": "https://www.temenos.com/"
     }
-  ]
+  ],
+  "bic": null
 }

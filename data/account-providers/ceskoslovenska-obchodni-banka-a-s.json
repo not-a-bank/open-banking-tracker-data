@@ -8,7 +8,6 @@
   ],
   "name": "Ceskoslovenska Obchodni Banka, A.s.",
   "legalName": "CESKOSLOVENSKA OBCHODNI BANKA, A.S.",
-  "bic": "CEKOCZPPXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEKOCZPPXXX"
 }

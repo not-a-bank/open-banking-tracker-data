@@ -8,7 +8,6 @@
   ],
   "name": "SAUDI ARAMCO MOBIL REFINERY COMPANY LIMITED (SAMREF)",
   "legalName": "SAUDI ARAMCO MOBIL REFINERY COMPANY LIMITED (SAMREF)",
-  "bic": "SRMRSADBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saudiaramcomobilrefinerycompanylimitedsamref.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SRMRSADBXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE MAROCAINE DE BANQUES",
   "legalName": "SOCIETE GENERALE MAROCAINE DE BANQUES",
-  "bic": "SGMBMAMCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralemarocainedebanques.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGMBMAMCXXX"
 }

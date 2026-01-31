@@ -8,7 +8,6 @@
   ],
   "name": "AGJ SECURITIES CORP.",
   "legalName": "AGJ SECURITIES CORP.",
-  "bic": "AGJSPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agjsecuritiescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGJSPHM1XXX"
 }

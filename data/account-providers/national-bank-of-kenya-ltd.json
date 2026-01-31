@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF KENYA LTD.",
   "legalName": "NATIONAL BANK OF KENYA LTD.",
-  "bic": "NBKEKENXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofkenyaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBKEKENXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MIZUHO BANK, LTD., CANADA BRANCH",
   "legalName": "MIZUHO BANK, LTD., CANADA BRANCH",
-  "bic": "MHCBCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mizuhobankltdcanadabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHCBCATTXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BERENBERG BANK (SCHWEIZ) AG",
   "legalName": "BERENBERG BANK (SCHWEIZ) AG",
-  "bic": "BEGOCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.berenbergbankschweizagch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEGOCHZZXXX"
 }

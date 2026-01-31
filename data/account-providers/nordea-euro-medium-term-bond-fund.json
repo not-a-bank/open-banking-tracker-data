@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA EURO MEDIUM TERM BOND FUND",
   "legalName": "NORDEA EURO MEDIUM TERM BOND FUND",
-  "bic": "NEMTFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaeuromediumtermbondfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEMTFIH1XXX"
 }

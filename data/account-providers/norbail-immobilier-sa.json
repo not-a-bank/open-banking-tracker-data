@@ -8,7 +8,6 @@
   ],
   "name": "NORBAIL-IMMOBILIER SA",
   "legalName": "NORBAIL-IMMOBILIER SA",
-  "bic": "NOIMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.norbailimmobiliersa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOIMFRP1XXX"
 }

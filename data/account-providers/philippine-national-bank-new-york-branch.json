@@ -8,7 +8,6 @@
   ],
   "name": "PHILIPPINE NATIONAL BANK (NEW YORK BRANCH)",
   "legalName": "PHILIPPINE NATIONAL BANK (NEW YORK BRANCH)",
-  "bic": "PNBMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philippinenationalbanknewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBMUS31XXX"
 }

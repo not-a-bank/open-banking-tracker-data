@@ -8,7 +8,6 @@
   ],
   "name": "Partner Banka D.d. Zagreb",
   "legalName": "PARTNER BANKA D.D. ZAGREB",
-  "bic": "PAZGHR2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAZGHR2XXXX"
 }

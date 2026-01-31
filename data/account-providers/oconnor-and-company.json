@@ -8,7 +8,6 @@
   ],
   "name": "O'CONNOR AND COMPANY",
   "legalName": "O'CONNOR AND COMPANY",
-  "bic": "OCONUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oconnorandcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OCONUS41XXX"
 }

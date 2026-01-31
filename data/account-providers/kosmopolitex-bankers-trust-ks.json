@@ -8,7 +8,6 @@
   ],
   "name": "KOSMOPOLITEX BANKERS TRUST K/S",
   "legalName": "KOSMOPOLITEX BANKERS TRUST K/S",
-  "bic": "KOTUDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kosmopolitexbankerstrustks.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOTUDKK1XXX"
 }

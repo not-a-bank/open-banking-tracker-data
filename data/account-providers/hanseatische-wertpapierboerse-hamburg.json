@@ -8,7 +8,6 @@
   ],
   "name": "HANSEATISCHE WERTPAPIERBOERSE HAMBURG",
   "legalName": "HANSEATISCHE WERTPAPIERBOERSE HAMBURG",
-  "bic": "XHAMDEH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hanseatischewertpapierboersehamburg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XHAMDEH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NAOS ASSET MANAGEMENT LIMITED",
   "legalName": "NAOS ASSET MANAGEMENT LIMITED",
-  "bic": "NAOSAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.naosassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAOSAU21XXX"
 }

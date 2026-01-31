@@ -8,7 +8,6 @@
   ],
   "name": "TEXIM ASSET MANAGEMENT",
   "legalName": "TEXIM ASSET MANAGEMENT",
-  "bic": "TESMBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.teximassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TESMBGS1XXX"
 }

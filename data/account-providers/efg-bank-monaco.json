@@ -8,7 +8,6 @@
   ],
   "name": "EFG BANK (MONACO)",
   "legalName": "EFG BANK (MONACO)",
-  "bic": "EFGBMCMCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efgbankmonaco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFGBMCMCXXX"
 }

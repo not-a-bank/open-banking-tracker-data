@@ -8,7 +8,6 @@
   ],
   "name": "WESTROCK COMPANY",
   "legalName": "WESTROCK COMPANY",
-  "bic": "WRKCUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.westrockcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WRKCUS33XXX"
 }

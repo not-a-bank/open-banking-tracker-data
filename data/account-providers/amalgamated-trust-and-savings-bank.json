@@ -8,7 +8,6 @@
   ],
   "name": "AMALGAMATED TRUST AND SAVINGS BANK",
   "legalName": "AMALGAMATED TRUST AND SAVINGS BANK",
-  "bic": "ATSBUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amalgamatedtrustandsavingsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATSBUS41XXX"
 }

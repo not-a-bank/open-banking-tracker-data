@@ -8,7 +8,6 @@
   ],
   "name": "JORDAN ISLAMIC BANK",
   "legalName": "JORDAN ISLAMIC BANK",
-  "bic": "JIBAJOAMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jordanislamicbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JIBAJOAMXXX"
 }

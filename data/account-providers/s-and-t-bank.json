@@ -8,7 +8,6 @@
   ],
   "name": "S AND T BANK",
   "legalName": "S AND T BANK",
-  "bic": "SATBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sandtbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SATBUS33XXX"
 }

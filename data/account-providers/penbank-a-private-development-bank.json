@@ -8,7 +8,6 @@
   ],
   "name": "PENBANK A PRIVATE DEVELOPMENT BANK",
   "legalName": "PENBANK A PRIVATE DEVELOPMENT BANK",
-  "bic": "PEPDPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.penbankaprivatedevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PEPDPHM1XXX"
 }

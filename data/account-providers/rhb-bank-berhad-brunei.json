@@ -8,7 +8,6 @@
   ],
   "name": "RHB BANK BERHAD, BRUNEI",
   "legalName": "RHB BANK BERHAD, BRUNEI",
-  "bic": "RHBBBNBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rhbbankberhadbrunei.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RHBBBNBBXXX"
 }

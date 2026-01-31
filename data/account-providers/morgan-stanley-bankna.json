@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY BANK,N.A.",
   "legalName": "MORGAN STANLEY BANK,N.A.",
-  "bic": "MSBKUS5WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleybankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSBKUS5WXXX"
 }

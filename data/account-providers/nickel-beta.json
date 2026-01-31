@@ -1,0 +1,36 @@
+{
+  "id": "nickel-beta",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Nickel Beta",
+  "legalName": "Nickel Beta",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.nickel-beta.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "FR",
+  "countries": [
+    "FR",
+    "DE",
+    "BE",
+    "ES",
+    "PT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "FPELFR21"
+}

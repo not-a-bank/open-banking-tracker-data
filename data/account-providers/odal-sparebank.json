@@ -9,7 +9,6 @@
   ],
   "name": "ODAL SPAREBANK",
   "legalName": "ODAL SPAREBANK",
-  "bic": "ODASNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/b5b57ebe-2dda-4e17-a31f-060d1df87cbd/-/preview/170x170/-/crop/180x180/center/NO937887043.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ODASNO21"
 }

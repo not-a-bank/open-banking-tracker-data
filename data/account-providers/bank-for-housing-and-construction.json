@@ -8,7 +8,6 @@
   ],
   "name": "BANK FOR HOUSING AND CONSTRUCTION",
   "legalName": "BANK FOR HOUSING AND CONSTRUCTION",
-  "bic": "HCONGHA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankforhousingandconstruction.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HCONGHA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INVESTEC BANK PLC (IRISH BRANCH)",
   "legalName": "INVESTEC BANK PLC (IRISH BRANCH)",
-  "bic": "TRIBIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investecbankplcirishbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRIBIE2DXXX"
 }

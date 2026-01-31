@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA GLOBAL FINANCIAL PRODUCTS INC",
   "legalName": "NOMURA GLOBAL FINANCIAL PRODUCTS INC",
-  "bic": "NGFPUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomuraglobalfinancialproductsinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NGFPUS33XXX"
 }

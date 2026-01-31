@@ -8,7 +8,6 @@
   ],
   "name": "FIRST MIDWEST BANK",
   "legalName": "FIRST MIDWEST BANK",
-  "bic": "FMIDUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstmidwestbankus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMIDUS44XXX"
 }

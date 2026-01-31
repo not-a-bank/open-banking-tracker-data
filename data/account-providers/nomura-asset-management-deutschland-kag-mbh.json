@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA ASSET MANAGEMENT DEUTSCHLAND KAG MBH",
   "legalName": "NOMURA ASSET MANAGEMENT DEUTSCHLAND KAG MBH",
-  "bic": "MATRDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomuraassetmanagementdeutschlandkagmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MATRDEF1XXX"
 }

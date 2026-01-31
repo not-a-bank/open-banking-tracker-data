@@ -8,7 +8,6 @@
   ],
   "name": "HAPPY STATE BANK",
   "legalName": "HAPPY STATE BANK",
-  "bic": "HAPEUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.happystatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAPEUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OFEK SECURITIES AND INVESTMENTS LIMITED",
   "legalName": "OFEK SECURITIES AND INVESTMENTS LIMITED",
-  "bic": "OFSIILI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ofeksecuritiesandinvestmentslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OFSIILI1XXX"
 }

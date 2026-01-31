@@ -8,7 +8,6 @@
   ],
   "name": "AXA FRANCE FINANCE",
   "legalName": "AXA FRANCE FINANCE",
-  "bic": "AXFFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axafrancefinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXFFFRP1XXX"
 }

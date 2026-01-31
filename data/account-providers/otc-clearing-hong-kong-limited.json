@@ -8,7 +8,6 @@
   ],
   "name": "OTC CLEARING HONG KONG LIMITED",
   "legalName": "OTC CLEARING HONG KONG LIMITED",
-  "bic": "OCCPHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.otcclearinghongkonglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OCCPHKHHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "African Export Import Bank",
   "legalName": "AFRICAN EXPORT IMPORT BANK",
-  "bic": "AFXMEGCAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFXMEGCAXXX"
 }

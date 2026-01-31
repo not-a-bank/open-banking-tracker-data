@@ -8,7 +8,6 @@
   ],
   "name": "Guaranty Trust Bank Cote D'ivoire",
   "legalName": "GUARANTY TRUST BANK COTE D'IVOIRE",
-  "bic": "GTBICIABXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GTBICIABXXX"
 }

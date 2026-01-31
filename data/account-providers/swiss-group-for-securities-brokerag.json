@@ -8,7 +8,6 @@
   ],
   "name": "SWISS GROUP FOR SECURITIES BROKERAG",
   "legalName": "SWISS GROUP FOR SECURITIES BROKERAG",
-  "bic": "SGFBEGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swissgroupforsecuritiesbrokerag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGFBEGC1XXX"
 }

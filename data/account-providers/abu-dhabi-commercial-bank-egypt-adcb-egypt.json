@@ -8,7 +8,6 @@
   ],
   "name": "ABU Dhabi Commercial Bank - Egypt Adcb Egypt",
   "legalName": "ABU DHABI COMMERCIAL BANK - EGYPT ADCB EGYPT",
-  "bic": "ADCBEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADCBEGCXXXX"
 }

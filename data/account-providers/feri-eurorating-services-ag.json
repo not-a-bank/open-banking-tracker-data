@@ -8,7 +8,6 @@
   ],
   "name": "FERI EURORATING SERVICES AG",
   "legalName": "FERI EURORATING SERVICES AG",
-  "bic": "FESVDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ferieuroratingservicesag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FESVDEF1XXX"
 }

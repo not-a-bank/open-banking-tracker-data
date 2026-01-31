@@ -8,7 +8,6 @@
   ],
   "name": "CMC MARKETS UK PLC",
   "legalName": "CMC MARKETS UK PLC",
-  "bic": "CMCGGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cmcmarketsukplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMCGGB21XXX"
 }

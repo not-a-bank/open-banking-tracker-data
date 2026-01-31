@@ -8,7 +8,6 @@
   ],
   "name": "ARTON BANK CORPORATION",
   "legalName": "ARTON BANK CORPORATION",
-  "bic": "ARTNDMDMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.artonbankcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARTNDMDMXXX"
 }

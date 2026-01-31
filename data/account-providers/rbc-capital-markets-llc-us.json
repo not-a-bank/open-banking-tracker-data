@@ -8,7 +8,6 @@
   ],
   "name": "RBC CAPITAL MARKETS, LLC",
   "legalName": "RBC CAPITAL MARKETS, LLC",
-  "bic": "RCMCUS3NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbccapitalmarketsllcus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCMCUS3NXXX"
 }

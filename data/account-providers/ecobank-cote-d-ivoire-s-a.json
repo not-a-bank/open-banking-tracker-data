@@ -8,7 +8,6 @@
   ],
   "name": "Ecobank - Cote D'ivoire S.a.",
   "legalName": "ECOBANK - COTE D'IVOIRE S.A.",
-  "bic": "ECOCCIABXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCCIABXXX"
 }

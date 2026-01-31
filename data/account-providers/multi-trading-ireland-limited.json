@@ -8,7 +8,6 @@
   ],
   "name": "MULTI TRADING (IRELAND) LIMITED",
   "legalName": "MULTI TRADING (IRELAND) LIMITED",
-  "bic": "MUTRCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.multitradingirelandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUTRCHG1XXX"
 }

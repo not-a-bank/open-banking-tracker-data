@@ -8,7 +8,6 @@
   ],
   "name": "VERDIPAPIRFONDET NORDEA NORGE VERDI",
   "legalName": "VERDIPAPIRFONDET NORDEA NORGE VERDI",
-  "bic": "VNNVNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.verdipapirfondetnordeanorgeverdi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VNNVNOK1XXX"
 }

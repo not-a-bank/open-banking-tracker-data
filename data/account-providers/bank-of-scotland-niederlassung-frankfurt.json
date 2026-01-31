@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF SCOTLAND - NIEDERLASSUNG FRANKFURT",
   "legalName": "BANK OF SCOTLAND - NIEDERLASSUNG FRANKFURT",
-  "bic": "BOFSDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofscotlandniederlassungfrankfurt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFSDEF1XXX"
 }

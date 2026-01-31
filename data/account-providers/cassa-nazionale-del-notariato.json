@@ -8,7 +8,6 @@
   ],
   "name": "CASSA NAZIONALE DEL NOTARIATO",
   "legalName": "CASSA NAZIONALE DEL NOTARIATO",
-  "bic": "CAZOITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cassanazionaledelnotariato.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAZOITR1XXX"
 }

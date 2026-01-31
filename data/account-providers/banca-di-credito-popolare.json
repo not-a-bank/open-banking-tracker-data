@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DI CREDITO POPOLARE",
   "legalName": "BANCA DI CREDITO POPOLARE",
-  "bic": "BCPTITN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadicreditopopolare.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCPTITN1XXX"
 }

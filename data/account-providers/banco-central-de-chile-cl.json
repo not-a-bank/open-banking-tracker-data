@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CENTRAL DE CHILE",
   "legalName": "BANCO CENTRAL DE CHILE",
-  "bic": "BCECCLA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocentraldechilecl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCECCLA1XXX"
 }

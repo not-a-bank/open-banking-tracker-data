@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MULTIPLE BHD LEON S.A.",
   "legalName": "BANCO MULTIPLE BHD LEON S.A.",
-  "bic": "BCBHDOSDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomultiplebhdleonsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCBHDOSDXXX"
 }

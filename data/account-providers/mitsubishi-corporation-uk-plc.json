@@ -8,7 +8,6 @@
   ],
   "name": "MITSUBISHI CORPORATION (UK) PLC",
   "legalName": "MITSUBISHI CORPORATION (UK) PLC",
-  "bic": "CMITGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mitsubishicorporationukplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMITGB21XXX"
 }

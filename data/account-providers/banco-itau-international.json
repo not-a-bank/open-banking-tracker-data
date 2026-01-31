@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ITAU INTERNATIONAL",
   "legalName": "BANCO ITAU INTERNATIONAL",
-  "bic": "ITAUUS3MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoitauinternational.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITAUUS3MXXX"
 }

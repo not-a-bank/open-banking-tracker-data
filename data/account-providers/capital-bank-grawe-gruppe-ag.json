@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL BANK GRAWE GRUPPE AG",
   "legalName": "CAPITAL BANK GRAWE GRUPPE AG",
-  "bic": "RSBUAT2KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalbankgrawegruppeag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RSBUAT2KXXX"
 }

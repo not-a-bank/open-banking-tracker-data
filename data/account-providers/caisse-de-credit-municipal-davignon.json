@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE CREDIT MUNICIPAL D'AVIGNON",
   "legalName": "CAISSE DE CREDIT MUNICIPAL D'AVIGNON",
-  "bic": "CSCAFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedecreditmunicipaldavignon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSCAFR21XXX"
 }

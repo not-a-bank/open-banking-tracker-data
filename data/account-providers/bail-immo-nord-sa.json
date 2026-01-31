@@ -8,7 +8,6 @@
   ],
   "name": "BAIL IMMO NORD SA",
   "legalName": "BAIL IMMO NORD SA",
-  "bic": "BIIOFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bailimmonordsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIIOFR21XXX"
 }

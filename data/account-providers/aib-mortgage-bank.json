@@ -8,7 +8,6 @@
   ],
   "name": "AIB MORTGAGE BANK",
   "legalName": "AIB MORTGAGE BANK",
-  "bic": "AIMBIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aibmortgagebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIMBIE21XXX"
 }

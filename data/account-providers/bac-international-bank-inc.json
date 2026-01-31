@@ -8,7 +8,6 @@
   ],
   "name": "BAC INTERNATIONAL BANK, INC.",
   "legalName": "BAC INTERNATIONAL BANK, INC.",
-  "bic": "BCINPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bacinternationalbankinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCINPAPAXXX"
 }

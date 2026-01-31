@@ -1,0 +1,32 @@
+{
+  "id": "alior-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Alior Bank",
+  "legalName": "Alior Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.alior-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "PL",
+  "countries": [
+    "PL"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "ALBPPLPW"
+}

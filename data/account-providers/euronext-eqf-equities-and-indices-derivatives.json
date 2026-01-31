@@ -8,7 +8,6 @@
   ],
   "name": "EURONEXT EQF, EQUITIES AND INDICES DERIVATIVES",
   "legalName": "EURONEXT EQF, EQUITIES AND INDICES DERIVATIVES",
-  "bic": "XEUENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euronexteqfequitiesandindicesderivatives.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XEUENL21XXX"
 }

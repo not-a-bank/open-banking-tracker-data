@@ -8,7 +8,6 @@
   ],
   "name": "FAIRFAX I.S. PLC",
   "legalName": "FAIRFAX I.S. PLC",
-  "bic": "FRFXGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fairfaxisplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRFXGB21XXX"
 }

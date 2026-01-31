@@ -8,7 +8,6 @@
   ],
   "name": "ICCI (UK) LTD.",
   "legalName": "ICCI (UK) LTD.",
-  "bic": "ISCIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icciukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISCIGB21XXX"
 }

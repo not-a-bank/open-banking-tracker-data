@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR Bank Metropolregion N\u00fcrnberg",
-  "legalName": "VR Bank Metropolregion N\u00fcrnberg",
+  "name": "VR Bank Metropolregion Nürnberg",
+  "legalName": "VR Bank Metropolregion Nürnberg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-metropolregion-nuernberg.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

@@ -8,7 +8,6 @@
   ],
   "name": "TYOTTOMYYSVAKUUTUSRAHASTO",
   "legalName": "TYOTTOMYYSVAKUUTUSRAHASTO",
-  "bic": "TYOTFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tyottomyysvakuutusrahasto.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TYOTFIH1XXX"
 }

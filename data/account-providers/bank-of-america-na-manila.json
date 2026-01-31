@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA, N.A. MANILA",
   "legalName": "BANK OF AMERICA, N.A. MANILA",
-  "bic": "BOFAPH2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericanamanila.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAPH2XXXX"
 }

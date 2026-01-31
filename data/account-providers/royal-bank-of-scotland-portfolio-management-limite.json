@@ -8,7 +8,6 @@
   ],
   "name": "ROYAL BANK OF SCOTLAND PORTFOLIO MANAGEMENT LIMITED",
   "legalName": "ROYAL BANK OF SCOTLAND PORTFOLIO MANAGEMENT LIMITED",
-  "bic": "RSPMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.royalbankofscotlandportfoliomanagementlimite.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RSPMGB21XXX"
 }

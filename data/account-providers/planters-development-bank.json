@@ -8,7 +8,6 @@
   ],
   "name": "PLANTERS DEVELOPMENT BANK",
   "legalName": "PLANTERS DEVELOPMENT BANK",
-  "bic": "PLDEPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.plantersdevelopmentbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLDEPHM1XXX"
 }

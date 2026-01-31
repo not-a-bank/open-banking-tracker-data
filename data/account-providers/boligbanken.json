@@ -1,0 +1,32 @@
+{
+  "id": "boligbanken",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "BoligBanken",
+  "legalName": "BoligBanken",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.boligbanken.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "NO",
+  "countries": [
+    "NO"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "PRBONO22"
+}

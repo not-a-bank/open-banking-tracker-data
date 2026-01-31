@@ -8,7 +8,6 @@
   ],
   "name": "OPEC FUND FOR INTERNATIONAL DEVELOPMENT (OFID)",
   "legalName": "OPEC FUND FOR INTERNATIONAL DEVELOPMENT (OFID)",
-  "bic": "OFIDATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.opecfundforinternationaldevelopmentofid.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OFIDATWWXXX"
 }

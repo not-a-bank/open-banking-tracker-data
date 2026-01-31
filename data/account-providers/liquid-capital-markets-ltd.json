@@ -8,7 +8,6 @@
   ],
   "name": "LIQUID CAPITAL MARKETS LTD",
   "legalName": "LIQUID CAPITAL MARKETS LTD",
-  "bic": "LICRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.liquidcapitalmarketsltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LICRGB21XXX"
 }

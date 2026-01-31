@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK SELIGENSTADT E. G.",
   "legalName": "VOLKSBANK SELIGENSTADT E. G.",
-  "bic": "VOELDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankseligenstadteg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOELDE51XXX"
 }

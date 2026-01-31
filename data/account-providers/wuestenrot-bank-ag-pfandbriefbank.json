@@ -8,7 +8,6 @@
   ],
   "name": "WUESTENROT BANK AG PFANDBRIEFBANK",
   "legalName": "WUESTENROT BANK AG PFANDBRIEFBANK",
-  "bic": "WBAGDEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wuestenrotbankagpfandbriefbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WBAGDEA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF America, N.a. Chennai",
   "legalName": "BANK OF AMERICA, N.A. CHENNAI",
-  "bic": "BOFAIN4XMAA",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAIN4XMAA"
 }

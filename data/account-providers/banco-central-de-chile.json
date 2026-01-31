@@ -8,7 +8,6 @@
   ],
   "name": "Banco Central DE Chile",
   "legalName": "BANCO CENTRAL DE CHILE",
-  "bic": "BCECCLRMFRP",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCECCLRMFRP"
 }

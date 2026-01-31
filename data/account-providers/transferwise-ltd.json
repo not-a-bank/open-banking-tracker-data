@@ -8,7 +8,6 @@
   ],
   "name": "TRANSFERWISE LTD.",
   "legalName": "TRANSFERWISE LTD.",
-  "bic": "TRAWGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.transferwiseltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRAWGB21XXX"
 }

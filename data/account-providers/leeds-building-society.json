@@ -8,7 +8,6 @@
   ],
   "name": "LEEDS BUILDING SOCIETY",
   "legalName": "LEEDS BUILDING SOCIETY",
-  "bic": "LEEDGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.leedsbuildingsociety.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LEEDGB21XXX"
 }

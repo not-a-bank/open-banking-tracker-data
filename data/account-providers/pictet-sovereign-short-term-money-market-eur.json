@@ -8,7 +8,6 @@
   ],
   "name": "PICTET-SOVEREIGN SHORT -TERM MONEY MARKET EUR",
   "legalName": "PICTET-SOVEREIGN SHORT -TERM MONEY MARKET EUR",
-  "bic": "FUCMLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pictetsovereignshorttermmoneymarketeur.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FUCMLUL1XXX"
 }

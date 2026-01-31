@@ -8,7 +8,6 @@
   ],
   "name": "NATIXIS (BROKERAGE DIVISION)",
   "legalName": "NATIXIS (BROKERAGE DIVISION)",
-  "bic": "IXIRFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natixisbrokeragedivision.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IXIRFRPPXXX"
 }

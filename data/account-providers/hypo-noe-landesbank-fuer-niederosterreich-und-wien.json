@@ -8,7 +8,6 @@
   ],
   "name": "HYPO NOE LANDESBANK FUER NIEDEROSTERREICH UND WIEN AG",
   "legalName": "HYPO NOE LANDESBANK FUER NIEDEROSTERREICH UND WIEN AG",
-  "bic": "HYPNATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hyponoelandesbankfuerniederosterreichundwien.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HYPNATWWXXX"
 }

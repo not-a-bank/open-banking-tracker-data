@@ -8,7 +8,6 @@
   ],
   "name": "NATIONS TRUST BANK PLC",
   "legalName": "NATIONS TRUST BANK PLC",
-  "bic": "NTBCLKLXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationstrustbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NTBCLKLXXXX"
 }

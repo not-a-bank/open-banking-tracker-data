@@ -8,7 +8,6 @@
   ],
   "name": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
   "legalName": "CJSC INTERNATIONAL BANK OF TAJIKISTAN",
-  "bic": "IBTKTJ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cjscinternationalbankoftajikistan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBTKTJ22XXX"
 }

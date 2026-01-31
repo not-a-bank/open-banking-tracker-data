@@ -8,7 +8,6 @@
   ],
   "name": "SPAREBANKEN SOGN OG FJORDANE",
   "legalName": "SPAREBANKEN SOGN OG FJORDANE",
-  "bic": "SOFJNO22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebankensognogfjordane.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOFJNO22"
 }

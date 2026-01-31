@@ -8,7 +8,6 @@
   ],
   "name": "DEMIR-HALK BANK (NEDERLAND) N.V.",
   "legalName": "DEMIR-HALK BANK (NEDERLAND) N.V.",
-  "bic": "DHBNNL2RXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.demirhalkbanknederlandnvnl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DHBNNL2RXXX"
 }

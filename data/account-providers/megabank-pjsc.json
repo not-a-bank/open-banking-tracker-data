@@ -8,7 +8,6 @@
   ],
   "name": "MEGABANK PJSC",
   "legalName": "MEGABANK PJSC",
-  "bic": "DBBKUA2KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.megabankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBBKUA2KXXX"
 }

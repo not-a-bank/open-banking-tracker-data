@@ -8,7 +8,6 @@
   ],
   "name": "WSB SECURITIES CAPITAL TRUST KB",
   "legalName": "WSB SECURITIES CAPITAL TRUST KB",
-  "bic": "WSCTSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wsbsecuritiescapitaltrustkb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WSCTSES1XXX"
 }

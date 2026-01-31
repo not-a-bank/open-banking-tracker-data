@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN CORREDORES DE BOLSA SPA",
   "legalName": "J.P. MORGAN CORREDORES DE BOLSA SPA",
-  "bic": "MOCBCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorgancorredoresdebolsaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOCBCLR1XXX"
 }

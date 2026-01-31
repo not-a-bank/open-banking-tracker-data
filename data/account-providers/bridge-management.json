@@ -8,7 +8,6 @@
   ],
   "name": "BRIDGE MANAGEMENT",
   "legalName": "BRIDGE MANAGEMENT",
-  "bic": "BRMMITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bridgemanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRMMITM1XXX"
 }

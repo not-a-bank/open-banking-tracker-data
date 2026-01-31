@@ -8,7 +8,6 @@
   ],
   "name": "UBS AG LONDON BRANCH",
   "legalName": "UBS AG LONDON BRANCH",
-  "bic": "UBSWGB55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubsaglondonbranchgb1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWGB55XXX"
 }

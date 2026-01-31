@@ -8,7 +8,6 @@
   ],
   "name": "CO-OP MONEY NZ",
   "legalName": "CO-OP MONEY NZ",
-  "bic": "CPNZNZA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.coopmoneynz.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPNZNZA1XXX"
 }

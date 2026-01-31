@@ -8,7 +8,6 @@
   ],
   "name": "SONIVAL, CASA DE BOLSA, S. A",
   "legalName": "SONIVAL, CASA DE BOLSA, S. A",
-  "bic": "SOABHNT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sonivalcasadebolsasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOABHNT1XXX"
 }

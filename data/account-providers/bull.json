@@ -8,7 +8,6 @@
   ],
   "name": "BULL",
   "legalName": "BULL",
-  "bic": "BUSAFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bull.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BUSAFRPPXXX"
 }

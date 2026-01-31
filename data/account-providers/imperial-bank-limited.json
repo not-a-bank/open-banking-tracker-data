@@ -8,7 +8,6 @@
   ],
   "name": "IMPERIAL BANK LIMITED",
   "legalName": "IMPERIAL BANK LIMITED",
-  "bic": "IMPLKENAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.imperialbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMPLKENAXXX"
 }

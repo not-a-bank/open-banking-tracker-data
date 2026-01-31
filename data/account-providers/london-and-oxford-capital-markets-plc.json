@@ -8,7 +8,6 @@
   ],
   "name": "LONDON AND OXFORD CAPITAL MARKETS PLC",
   "legalName": "LONDON AND OXFORD CAPITAL MARKETS PLC",
-  "bic": "LOCMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.londonandoxfordcapitalmarketsplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOCMGB21XXX"
 }

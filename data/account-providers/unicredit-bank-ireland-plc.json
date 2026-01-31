@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT BANK IRELAND PLC",
   "legalName": "UNICREDIT BANK IRELAND PLC",
-  "bic": "UNCRIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditbankirelandplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNCRIE2DXXX"
 }

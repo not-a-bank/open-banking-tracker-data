@@ -8,7 +8,6 @@
   ],
   "name": "UAB FMI FINVESTA",
   "legalName": "UAB FMI FINVESTA",
-  "bic": "UAFFLT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uabfmifinvesta.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UAFFLT22XXX"
 }

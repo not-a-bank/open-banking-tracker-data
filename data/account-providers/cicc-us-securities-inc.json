@@ -8,7 +8,6 @@
   ],
   "name": "CICC US SECURITIES, INC.",
   "legalName": "CICC US SECURITIES, INC.",
-  "bic": "CICRUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ciccussecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CICRUS31XXX"
 }

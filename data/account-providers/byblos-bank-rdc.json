@@ -8,7 +8,6 @@
   ],
   "name": "BYBLOS BANK RDC",
   "legalName": "BYBLOS BANK RDC",
-  "bic": "BYBACDKIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.byblosbankrdc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BYBACDKIXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CBPE HOLDINGS LIMITED",
   "legalName": "CBPE HOLDINGS LIMITED",
-  "bic": "CBPEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbpeholdingslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBPEGB21XXX"
 }

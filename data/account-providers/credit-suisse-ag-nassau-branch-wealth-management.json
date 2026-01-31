@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE AG, NASSAU BRANCH, WEALTH MANAGEMENT",
   "legalName": "CREDIT SUISSE AG, NASSAU BRANCH, WEALTH MANAGEMENT",
-  "bic": "CRESBSNXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseagnassaubranchwealthmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESBSNXXXX"
 }

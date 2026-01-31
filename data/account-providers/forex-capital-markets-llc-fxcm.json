@@ -8,7 +8,6 @@
   ],
   "name": "FOREX CAPITAL MARKETS LLC (FXCM)",
   "legalName": "FOREX CAPITAL MARKETS LLC (FXCM)",
-  "bic": "FXCMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.forexcapitalmarketsllcfxcm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FXCMUS31XXX"
 }

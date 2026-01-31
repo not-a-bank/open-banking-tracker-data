@@ -8,7 +8,6 @@
   ],
   "name": "SPILTAN FONDER AB",
   "legalName": "SPILTAN FONDER AB",
-  "bic": "SPFDSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spiltanfonderab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPFDSES1XXX"
 }

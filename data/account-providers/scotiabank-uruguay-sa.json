@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIABANK URUGUAY S.A.",
   "legalName": "SCOTIABANK URUGUAY S.A.",
-  "bic": "COMEUYMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiabankuruguaysa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COMEUYMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Prival Bank (costa Rica) S.a.",
   "legalName": "PRIVAL BANK (COSTA RICA) S.A.",
-  "bic": "BDSOCRSJXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDSOCRSJXXX"
 }

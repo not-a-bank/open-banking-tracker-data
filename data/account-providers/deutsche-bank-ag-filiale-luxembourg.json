@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK AG, FILIALE LUXEMBOURG",
   "legalName": "DEUTSCHE BANK AG, FILIALE LUXEMBOURG",
-  "bic": "DEUTLULBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankagfilialeluxembourg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTLULBXXX"
 }

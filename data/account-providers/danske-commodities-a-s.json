@@ -8,7 +8,6 @@
   ],
   "name": "Danske Commodities A/S",
   "legalName": "DANSKE COMMODITIES A/S",
-  "bic": "DACDDK2AXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DACDDK2AXXX"
 }

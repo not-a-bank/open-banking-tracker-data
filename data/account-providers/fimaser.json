@@ -8,7 +8,6 @@
   ],
   "name": "FIMASER",
   "legalName": "FIMASER",
-  "bic": "FMMSBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fimaser.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMMSBEB1XXX"
 }

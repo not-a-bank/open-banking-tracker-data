@@ -8,7 +8,6 @@
   ],
   "name": "OTB S.P.A.",
   "legalName": "OTB S.P.A.",
-  "bic": "OTBBIT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.otbspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OTBBIT22XXX"
 }

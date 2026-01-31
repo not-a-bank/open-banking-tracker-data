@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS INTERNATIONAL",
   "legalName": "GOLDMAN SACHS INTERNATIONAL",
-  "bic": "GSIZHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsinternationalhk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSIZHKH1XXX"
 }

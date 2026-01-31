@@ -8,7 +8,6 @@
   ],
   "name": "STERLING BANK OF ASIA INC.",
   "legalName": "STERLING BANK OF ASIA INC.",
-  "bic": "STLAPH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sterlingbankofasiainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STLAPH22XXX"
 }

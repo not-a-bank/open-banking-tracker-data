@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Markgr\u00e4flerland",
-  "legalName": "Sparkasse Markgr\u00e4flerland",
+  "name": "Sparkasse Markgräflerland",
+  "legalName": "Sparkasse Markgräflerland",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-markgraeflerland.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

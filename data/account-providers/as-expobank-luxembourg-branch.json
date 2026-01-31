@@ -8,7 +8,6 @@
   ],
   "name": "AS EXPOBANK LUXEMBOURG BRANCH",
   "legalName": "AS EXPOBANK LUXEMBOURG BRANCH",
-  "bic": "EXPOLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.asexpobankluxembourgbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXPOLULLXXX"
 }

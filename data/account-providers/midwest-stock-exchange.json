@@ -8,7 +8,6 @@
   ],
   "name": "MIDWEST STOCK EXCHANGE",
   "legalName": "MIDWEST STOCK EXCHANGE",
-  "bic": "XMIDUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.midweststockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMIDUS41XXX"
 }

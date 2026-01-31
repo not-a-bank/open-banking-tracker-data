@@ -8,7 +8,6 @@
   ],
   "name": "NORTHERN BANK AND TRUST COMPANY",
   "legalName": "NORTHERN BANK AND TRUST COMPANY",
-  "bic": "NOTCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.northernbankandtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOTCUS31XXX"
 }

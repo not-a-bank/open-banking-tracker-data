@@ -8,7 +8,6 @@
   ],
   "name": "TALORCAN PLC",
   "legalName": "TALORCAN PLC",
-  "bic": "TALOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.talorcanplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TALOGB21XXX"
 }

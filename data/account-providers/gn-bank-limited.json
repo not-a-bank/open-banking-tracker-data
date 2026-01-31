@@ -8,7 +8,6 @@
   ],
   "name": "GN BANK LIMITED",
   "legalName": "GN BANK LIMITED",
-  "bic": "GNBGGHACXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gnbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GNBGGHACXXX"
 }

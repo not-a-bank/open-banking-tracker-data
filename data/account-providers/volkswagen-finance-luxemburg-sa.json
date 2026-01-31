@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSWAGEN FINANCE LUXEMBURG S.A.",
   "legalName": "VOLKSWAGEN FINANCE LUXEMBURG S.A.",
-  "bic": "VOFLLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volkswagenfinanceluxemburgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOFLLUL1XXX"
 }

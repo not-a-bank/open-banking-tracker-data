@@ -8,7 +8,6 @@
   ],
   "name": "CCP Austria Abwicklungsstelle Fuer Boersengeschaefte Gmbh",
   "legalName": "CCP AUSTRIA ABWICKLUNGSSTELLE FUER BOERSENGESCHAEFTE GMBH",
-  "bic": "CAAHATWWXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAAHATWWXXX"
 }

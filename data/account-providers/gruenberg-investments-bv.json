@@ -8,7 +8,6 @@
   ],
   "name": "GRUENBERG INVESTMENTS B.V.",
   "legalName": "GRUENBERG INVESTMENTS B.V.",
-  "bic": "GRNVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gruenberginvestmentsbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRNVNL21XXX"
 }

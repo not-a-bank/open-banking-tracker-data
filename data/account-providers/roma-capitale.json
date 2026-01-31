@@ -8,7 +8,6 @@
   ],
   "name": "ROMA CAPITALE",
   "legalName": "ROMA CAPITALE",
-  "bic": "ROAPITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.romacapitale.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROAPITR1XXX"
 }

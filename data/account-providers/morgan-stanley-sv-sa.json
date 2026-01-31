@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY SV. SA.",
   "legalName": "MORGAN STANLEY SV. SA.",
-  "bic": "MSTAESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleysvsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSTAESM1XXX"
 }

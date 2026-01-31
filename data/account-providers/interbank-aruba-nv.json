@@ -8,7 +8,6 @@
   ],
   "name": "INTERBANK ARUBA NV",
   "legalName": "INTERBANK ARUBA NV",
-  "bic": "IARUAWA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.interbankarubanv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IARUAWA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ZAVAROVALNICA MARBOR",
   "legalName": "ZAVAROVALNICA MARBOR",
-  "bic": "ZAMASI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zavarovalnicamarbor.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZAMASI21XXX"
 }

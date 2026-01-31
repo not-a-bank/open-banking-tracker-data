@@ -8,7 +8,6 @@
   ],
   "name": "CARGILL FINANCIAL SERVICES EUROPE LIMITED",
   "legalName": "CARGILL FINANCIAL SERVICES EUROPE LIMITED",
-  "bic": "CAFMGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cargillfinancialserviceseuropelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAFMGB22XXX"
 }

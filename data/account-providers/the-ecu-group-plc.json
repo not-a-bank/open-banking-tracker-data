@@ -8,7 +8,6 @@
   ],
   "name": "THE ECU GROUP PLC",
   "legalName": "THE ECU GROUP PLC",
-  "bic": "EGPCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.theecugroupplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EGPCGB21XXX"
 }

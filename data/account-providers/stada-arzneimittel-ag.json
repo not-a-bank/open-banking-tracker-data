@@ -8,7 +8,6 @@
   ],
   "name": "STADA ARZNEIMITTEL AG",
   "legalName": "STADA ARZNEIMITTEL AG",
-  "bic": "STAZDE55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stadaarzneimittelag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STAZDE55XXX"
 }

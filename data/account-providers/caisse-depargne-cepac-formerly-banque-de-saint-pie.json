@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DE SAINT-PIERRE ET MIQUELON)",
   "legalName": "CAISSE D'EPARGNE CEPAC (FORMERLY BANQUE DE SAINT-PIERRE ET MIQUELON)",
-  "bic": "BDILPMPMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedepargnecepacformerlybanquedesaintpie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDILPMPMXXX"
 }

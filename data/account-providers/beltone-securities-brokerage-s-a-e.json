@@ -8,7 +8,6 @@
   ],
   "name": "Beltone Securities Brokerage S.a.e",
   "legalName": "BELTONE SECURITIES BROKERAGE S.A.E",
-  "bic": "BELTEGCABAM",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BELTEGCABAM"
 }

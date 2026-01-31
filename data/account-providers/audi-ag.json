@@ -8,7 +8,6 @@
   ],
   "name": "AUDI AG",
   "legalName": "AUDI AG",
-  "bic": "AUIIDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.audiag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUIIDE71XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANC OF CALIFORNIA NA",
   "legalName": "BANC OF CALIFORNIA NA",
-  "bic": "BCLFUS66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancofcaliforniana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCLFUS66XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NATWEST - ISLE OF MAN",
   "legalName": "NATWEST - ISLE OF MAN",
-  "bic": "RBOSIM31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natwestisleofman.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBOSIM31XXX"
 }

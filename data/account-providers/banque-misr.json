@@ -8,7 +8,6 @@
   ],
   "name": "Banque Misr",
   "legalName": "BANQUE MISR",
-  "bic": "BMISEGCXFCC",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquemisr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMISEGCXFCC"
 }

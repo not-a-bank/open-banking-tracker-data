@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF THE REPUBLIC UZBEKISTAN",
   "legalName": "CENTRAL BANK OF THE REPUBLIC UZBEKISTAN",
-  "bic": "CBUZUZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankoftherepublicuzbekistan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBUZUZ22XXX"
 }

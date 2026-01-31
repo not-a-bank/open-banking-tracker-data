@@ -8,7 +8,6 @@
   ],
   "name": "KAMCHATKOMAGROPROMBANK PJSC",
   "legalName": "KAMCHATKOMAGROPROMBANK PJSC",
-  "bic": "KAMCRUPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kamchatkomagroprombankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAMCRUPPXXX"
 }

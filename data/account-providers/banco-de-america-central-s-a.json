@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE America Central, S.a.",
   "legalName": "BANCO DE AMERICA CENTRAL, S.A.",
-  "bic": "BAMCSVSSXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAMCSVSSXXX"
 }

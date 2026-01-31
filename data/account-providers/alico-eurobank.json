@@ -8,7 +8,6 @@
   ],
   "name": "ALICO EUROBANK",
   "legalName": "ALICO EUROBANK",
-  "bic": "ALEEGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alicoeurobank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALEEGRA1XXX"
 }

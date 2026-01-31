@@ -8,7 +8,6 @@
   ],
   "name": "ABU DHABI INVESTMENT AUTHORITY",
   "legalName": "ABU DHABI INVESTMENT AUTHORITY",
-  "bic": "ADINAEAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abudhabiinvestmentauthority.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADINAEAAXXX"
 }

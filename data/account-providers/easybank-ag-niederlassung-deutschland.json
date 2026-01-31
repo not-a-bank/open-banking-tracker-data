@@ -8,7 +8,6 @@
   ],
   "name": "EASYBANK AG NIEDERLASSUNG DEUTSCHLAND",
   "legalName": "EASYBANK AG NIEDERLASSUNG DEUTSCHLAND",
-  "bic": "QLCKDED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.easybankagniederlassungdeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QLCKDED1XXX"
 }

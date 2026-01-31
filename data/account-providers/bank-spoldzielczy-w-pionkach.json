@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W PIONKACH",
   "legalName": "BANK SPOLDZIELCZY W PIONKACH",
-  "bic": "BSPIPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywpionkach.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSPIPLP1XXX"
 }

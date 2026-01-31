@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DI CREDITO PELORITANO S.P.A.",
   "legalName": "BANCA DI CREDITO PELORITANO S.P.A.",
-  "bic": "CEEPIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadicreditopeloritanospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEEPIT21XXX"
 }

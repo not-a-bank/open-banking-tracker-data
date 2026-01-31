@@ -8,7 +8,6 @@
   ],
   "name": "Banque DU Caire",
   "legalName": "BANQUE DU CAIRE",
-  "bic": "BCAIEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCAIEGCXXXX"
 }

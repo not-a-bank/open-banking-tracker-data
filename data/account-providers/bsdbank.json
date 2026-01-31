@@ -8,7 +8,6 @@
   ],
   "name": "BSDBANK",
   "legalName": "BSDBANK",
-  "bic": "BSDAGE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bsdbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSDAGE21XXX"
 }

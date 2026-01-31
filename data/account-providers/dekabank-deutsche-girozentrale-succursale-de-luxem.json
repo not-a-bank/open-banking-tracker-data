@@ -8,7 +8,6 @@
   ],
   "name": "DEKABANK DEUTSCHE GIROZENTRALE SUCCURSALE DE LUXEMBOURG",
   "legalName": "DEKABANK DEUTSCHE GIROZENTRALE SUCCURSALE DE LUXEMBOURG",
-  "bic": "DGZFLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dekabankdeutschegirozentralesuccursaledeluxem.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DGZFLULLXXX"
 }

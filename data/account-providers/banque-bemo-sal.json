@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE BEMO SAL",
   "legalName": "BANQUE BEMO SAL",
-  "bic": "EUMOCY2IXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquebemosal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUMOCY2IXXX"
 }

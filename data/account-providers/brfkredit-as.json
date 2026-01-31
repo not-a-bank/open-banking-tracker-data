@@ -8,7 +8,6 @@
   ],
   "name": "BRFKREDIT A/S",
   "legalName": "BRFKREDIT A/S",
-  "bic": "BRFKDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brfkreditas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRFKDK21XXX"
 }

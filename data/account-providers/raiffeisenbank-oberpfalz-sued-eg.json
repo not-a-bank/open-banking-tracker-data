@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK OBERPFALZ SUED EG",
   "legalName": "RAIFFEISENBANK OBERPFALZ SUED EG",
-  "bic": "RAEUDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankoberpfalzsuedeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAEUDE71XXX"
 }

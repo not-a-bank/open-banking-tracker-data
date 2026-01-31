@@ -8,7 +8,6 @@
   ],
   "name": "GASS CAPITAL MARKETS GMBH",
   "legalName": "GASS CAPITAL MARKETS GMBH",
-  "bic": "GCMGDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gasscapitalmarketsgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GCMGDEF1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NYKREDIT PORTFOLIO",
   "legalName": "NYKREDIT PORTFOLIO",
-  "bic": "NYPODKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nykreditportfolio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NYPODKK1XXX"
 }

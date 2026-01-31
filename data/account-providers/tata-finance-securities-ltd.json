@@ -8,7 +8,6 @@
   ],
   "name": "TATA FINANCE SECURITIES LTD",
   "legalName": "TATA FINANCE SECURITIES LTD",
-  "bic": "TAFSINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tatafinancesecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAFSINB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF SOMALIA",
   "legalName": "CENTRAL BANK OF SOMALIA",
-  "bic": "CBSOSOSMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankofsomalia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBSOSOSMXXX"
 }

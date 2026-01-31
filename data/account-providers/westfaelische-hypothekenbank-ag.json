@@ -8,7 +8,6 @@
   ],
   "name": "WESTFAELISCHE HYPOTHEKENBANK AG",
   "legalName": "WESTFAELISCHE HYPOTHEKENBANK AG",
-  "bic": "WHYPDE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.westfaelischehypothekenbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WHYPDE31XXX"
 }

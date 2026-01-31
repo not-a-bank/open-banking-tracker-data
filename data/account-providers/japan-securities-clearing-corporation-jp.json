@@ -8,7 +8,6 @@
   ],
   "name": "JAPAN SECURITIES CLEARING CORPORATION",
   "legalName": "JAPAN SECURITIES CLEARING CORPORATION",
-  "bic": "JSCCJPJKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.japansecuritiesclearingcorporationjp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JSCCJPJKXXX"
 }

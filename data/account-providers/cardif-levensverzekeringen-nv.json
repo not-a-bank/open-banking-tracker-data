@@ -8,7 +8,6 @@
   ],
   "name": "CARDIF LEVENSVERZEKERINGEN NV",
   "legalName": "CARDIF LEVENSVERZEKERINGEN NV",
-  "bic": "CARZNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cardiflevensverzekeringennv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CARZNL21XXX"
 }

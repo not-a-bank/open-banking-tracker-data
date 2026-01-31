@@ -8,7 +8,6 @@
   ],
   "name": "U.S. BANK TRUST",
   "legalName": "U.S. BANK TRUST",
-  "bic": "USBKUS4TXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.usbanktrust.com.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USBKUS4TXXX"
 }

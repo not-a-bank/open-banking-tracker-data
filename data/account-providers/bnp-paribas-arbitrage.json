@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS ARBITRAGE",
   "legalName": "BNP PARIBAS ARBITRAGE",
-  "bic": "BNABFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasarbitrage.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNABFRPPXXX"
 }

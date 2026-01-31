@@ -8,7 +8,6 @@
   ],
   "name": "YAHATA SECURITIES CO",
   "legalName": "YAHATA SECURITIES CO",
-  "bic": "YAHSJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.yahatasecuritiesco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YAHSJPJ1XXX"
 }

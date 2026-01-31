@@ -8,7 +8,6 @@
   ],
   "name": "CIMB FUTURES SDN. BHD.",
   "legalName": "CIMB FUTURES SDN. BHD.",
-  "bic": "CIMFMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cimbfuturessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIMFMYK1XXX"
 }

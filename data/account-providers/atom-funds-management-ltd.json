@@ -8,7 +8,6 @@
   ],
   "name": "ATOM FUNDS MANAGEMENT LTD",
   "legalName": "ATOM FUNDS MANAGEMENT LTD",
-  "bic": "ATFAAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.atomfundsmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATFAAU21XXX"
 }

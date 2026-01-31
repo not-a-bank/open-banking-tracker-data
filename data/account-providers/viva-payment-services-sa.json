@@ -8,7 +8,6 @@
   ],
   "name": "VIVA PAYMENT SERVICES S.A.",
   "legalName": "VIVA PAYMENT SERVICES S.A.",
-  "bic": "VPAYGRAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vivapaymentservicessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VPAYGRAAXXX"
 }

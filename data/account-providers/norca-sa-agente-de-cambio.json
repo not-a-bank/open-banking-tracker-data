@@ -8,7 +8,6 @@
   ],
   "name": "NORCA S.A. AGENTE DE CAMBIO",
   "legalName": "NORCA S.A. AGENTE DE CAMBIO",
-  "bic": "NOABDOS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.norcasaagentedecambio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOABDOS1XXX"
 }

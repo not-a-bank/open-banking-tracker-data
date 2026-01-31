@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER S.A. FORMERLY BANCO BANIF S.A.",
   "legalName": "BANCO SANTANDER S.A. FORMERLY BANCO BANIF S.A.",
-  "bic": "NORTESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantandersaformerlybancobanifsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NORTESMMXXX"
 }

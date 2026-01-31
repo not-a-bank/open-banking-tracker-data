@@ -8,7 +8,6 @@
   ],
   "name": "BANCO GNB PERU SA",
   "legalName": "BANCO GNB PERU SA",
-  "bic": "HBPEPEPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancognbperusa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBPEPEPLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BOUYGUES SA",
   "legalName": "BOUYGUES SA",
-  "bic": "BOUYFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bouyguessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOUYFRP1XXX"
 }

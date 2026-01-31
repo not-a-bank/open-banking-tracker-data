@@ -8,7 +8,6 @@
   ],
   "name": "SOUFFLET FINANCES",
   "legalName": "SOUFFLET FINANCES",
-  "bic": "FSOUFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.souffletfinances.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FSOUFR22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GT OBLIPLUS",
   "legalName": "GT OBLIPLUS",
-  "bic": "OBLIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gtobliplus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OBLIFRP1XXX"
 }

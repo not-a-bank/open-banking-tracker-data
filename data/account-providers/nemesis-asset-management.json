@@ -8,7 +8,6 @@
   ],
   "name": "NEMESIS ASSET MANAGEMENT",
   "legalName": "NEMESIS ASSET MANAGEMENT",
-  "bic": "NEAEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nemesisassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEAEGB21XXX"
 }

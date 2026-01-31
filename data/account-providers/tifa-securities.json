@@ -8,7 +8,6 @@
   ],
   "name": "TIFA SECURITIES",
   "legalName": "TIFA SECURITIES",
-  "bic": "TIFAIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tifasecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TIFAIDJ1XXX"
 }

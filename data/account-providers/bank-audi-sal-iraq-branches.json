@@ -8,7 +8,6 @@
   ],
   "name": "BANK AUDI S.A.L. (IRAQ BRANCHES)",
   "legalName": "BANK AUDI S.A.L. (IRAQ BRANCHES)",
-  "bic": "AUDBIQBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankaudisaliraqbranches.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUDBIQBAXXX"
 }

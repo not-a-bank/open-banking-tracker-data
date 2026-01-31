@@ -8,7 +8,6 @@
   ],
   "name": "TAI FUNG BANK LIMITED",
   "legalName": "TAI FUNG BANK LIMITED",
-  "bic": "TFBLMOMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.taifungbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TFBLMOMXXXX"
 }

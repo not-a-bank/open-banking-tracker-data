@@ -8,7 +8,6 @@
   ],
   "name": "DZ BANK AG (FORMERLY WGZ BANK AG)",
   "legalName": "DZ BANK AG (FORMERLY WGZ BANK AG)",
-  "bic": "GENODEDDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dzbankagformerlywgzbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODEDDXXX"
 }

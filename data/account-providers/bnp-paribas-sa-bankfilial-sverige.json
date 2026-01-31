@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS S.A., BANKFILIAL SVERIGE",
   "legalName": "BNP PARIBAS S.A., BANKFILIAL SVERIGE",
-  "bic": "FTSBSESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassabankfilialsverige.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTSBSESSXXX"
 }

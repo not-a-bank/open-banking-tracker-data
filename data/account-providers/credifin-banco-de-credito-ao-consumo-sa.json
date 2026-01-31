@@ -8,7 +8,6 @@
   ],
   "name": "CREDIFIN - BANCO DE CREDITO AO CONSUMO S.A.",
   "legalName": "CREDIFIN - BANCO DE CREDITO AO CONSUMO S.A.",
-  "bic": "CRRCPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credifinbancodecreditoaoconsumosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRRCPTP1XXX"
 }

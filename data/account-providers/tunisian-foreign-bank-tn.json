@@ -8,7 +8,6 @@
   ],
   "name": "TUNISIAN FOREIGN BANK",
   "legalName": "TUNISIAN FOREIGN BANK",
-  "bic": "UTUBTNTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tunisianforeignbanktn.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UTUBTNTTXXX"
 }

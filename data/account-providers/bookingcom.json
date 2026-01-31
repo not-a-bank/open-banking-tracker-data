@@ -8,7 +8,6 @@
   ],
   "name": "BOOKING.COM",
   "legalName": "BOOKING.COM",
-  "bic": "BOOKNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bookingcom.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOOKNL2AXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FRANKFURTER BANKGESELLSCHAFT (SCHWEIZ) AG",
   "legalName": "FRANKFURTER BANKGESELLSCHAFT (SCHWEIZ) AG",
-  "bic": "FBGSCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.frankfurterbankgesellschaftschweizag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBGSCHZZXXX"
 }

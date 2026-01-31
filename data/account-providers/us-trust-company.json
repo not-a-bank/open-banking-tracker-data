@@ -8,7 +8,6 @@
   ],
   "name": "U.S. TRUST COMPANY",
   "legalName": "U.S. TRUST COMPANY",
-  "bic": "TRCOUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ustrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRCOUS31XXX"
 }

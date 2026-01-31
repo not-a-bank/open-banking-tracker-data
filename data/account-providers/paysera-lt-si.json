@@ -8,7 +8,6 @@
   ],
   "name": "PAYSERA LT",
   "legalName": "PAYSERA LT",
-  "bic": "PAYESI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.payseraltsi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAYESI21XXX"
 }

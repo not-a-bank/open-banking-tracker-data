@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK SECURITIES LIMITED",
   "legalName": "DEUTSCHE BANK SECURITIES LIMITED",
-  "bic": "MCMICAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebanksecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCMICAT1XXX"
 }

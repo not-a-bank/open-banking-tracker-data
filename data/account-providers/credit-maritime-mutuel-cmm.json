@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT MARITIME MUTUEL-CMM",
   "legalName": "CREDIT MARITIME MUTUEL-CMM",
-  "bic": "CMMUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditmaritimemutuelcmm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMMUFRP1XXX"
 }

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Rh\u00f6n-Rennsteig-Sparkasse",
-  "legalName": "Rh\u00f6n-Rennsteig-Sparkasse",
+  "name": "Rhön-Rennsteig-Sparkasse",
+  "legalName": "Rhön-Rennsteig-Sparkasse",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rhoen-rennsteig-sparkasse.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

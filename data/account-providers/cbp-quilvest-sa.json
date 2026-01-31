@@ -8,7 +8,6 @@
   ],
   "name": "CBP QUILVEST S.A.",
   "legalName": "CBP QUILVEST S.A.",
-  "bic": "CBPXLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbpquilvestsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBPXLULLXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE CREDITO DEL PERU SUCURSAL PANAMA",
   "legalName": "BANCO DE CREDITO DEL PERU SUCURSAL PANAMA",
-  "bic": "BCPLPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodecreditodelperusucursalpanama.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCPLPAPAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OUTOTEC OYJ",
   "legalName": "OUTOTEC OYJ",
-  "bic": "OUTCFI22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.outotecoyj.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OUTCFI22XXX"
 }

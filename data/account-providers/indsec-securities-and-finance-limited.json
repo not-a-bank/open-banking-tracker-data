@@ -8,7 +8,6 @@
   ],
   "name": "INDSEC SECURITIES AND FINANCE LIMITED",
   "legalName": "INDSEC SECURITIES AND FINANCE LIMITED",
-  "bic": "INSFINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indsecsecuritiesandfinancelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INSFINB1XXX"
 }

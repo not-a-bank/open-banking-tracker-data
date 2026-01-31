@@ -8,7 +8,6 @@
   ],
   "name": "VTB BANK (AUSTRIA) AG",
   "legalName": "VTB BANK (AUSTRIA) AG",
-  "bic": "DOBADEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vtbbankaustriaagde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DOBADEF1XXX"
 }

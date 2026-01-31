@@ -8,7 +8,6 @@
   ],
   "name": "PRUDENTIAL UNIT TRUSTS LIMITED",
   "legalName": "PRUDENTIAL UNIT TRUSTS LIMITED",
-  "bic": "PRUTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.prudentialunittrustslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRUTGB21XXX"
 }

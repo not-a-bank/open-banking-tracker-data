@@ -8,7 +8,6 @@
   ],
   "name": "LAPPO ANDELSBANK",
   "legalName": "LAPPO ANDELSBANK",
-  "bic": "LAADFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lappoandelsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAADFI21XXX"
 }

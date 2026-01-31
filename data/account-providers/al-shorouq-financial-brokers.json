@@ -8,7 +8,6 @@
   ],
   "name": "AL-SHOROUQ FINANCIAL BROKERS",
   "legalName": "AL-SHOROUQ FINANCIAL BROKERS",
-  "bic": "ALNBJOA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alshorouqfinancialbrokers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALNBJOA1XXX"
 }

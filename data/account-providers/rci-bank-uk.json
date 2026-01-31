@@ -8,7 +8,6 @@
   ],
   "name": "RCI BANK UK",
   "legalName": "RCI BANK UK",
-  "bic": "RCINGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rcibankuk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCINGB21XXX"
 }

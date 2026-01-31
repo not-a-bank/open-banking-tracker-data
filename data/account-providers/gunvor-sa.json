@@ -8,7 +8,6 @@
   ],
   "name": "GUNVOR SA",
   "legalName": "GUNVOR SA",
-  "bic": "GUNVCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gunvorsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GUNVCHGGXXX"
 }

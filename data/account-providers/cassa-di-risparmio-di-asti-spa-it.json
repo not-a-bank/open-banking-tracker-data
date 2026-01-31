@@ -8,7 +8,6 @@
   ],
   "name": "CASSA DI RISPARMIO DI ASTI SPA",
   "legalName": "CASSA DI RISPARMIO DI ASTI SPA",
-  "bic": "CASRIT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cassadirisparmiodiastispait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CASRIT22XXX"
 }

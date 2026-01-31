@@ -8,7 +8,6 @@
   ],
   "name": "L1 CAPITAL",
   "legalName": "L1 CAPITAL",
-  "bic": "CTPAAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.l1capital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTPAAU31XXX"
 }

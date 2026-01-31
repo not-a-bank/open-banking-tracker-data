@@ -8,7 +8,6 @@
   ],
   "name": "BECHTLE AG",
   "legalName": "BECHTLE AG",
-  "bic": "BEHTDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bechtleag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEHTDE66XXX"
 }

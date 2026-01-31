@@ -8,7 +8,6 @@
   ],
   "name": "SA STOCK BROKERS (PTY) LTD",
   "legalName": "SA STOCK BROKERS (PTY) LTD",
-  "bic": "SBPTZAJJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sastockbrokersptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBPTZAJJXXX"
 }

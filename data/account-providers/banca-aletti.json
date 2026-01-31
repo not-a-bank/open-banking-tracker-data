@@ -29,9 +29,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt",
+    "gocardless",
     "ibanity",
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
   "ownership": [
     {
@@ -42,5 +43,5 @@
   ],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "ALETITMMXXX"
+  "bic": "ALETITMM"
 }

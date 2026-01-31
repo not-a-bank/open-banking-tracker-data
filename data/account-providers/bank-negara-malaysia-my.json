@@ -8,7 +8,6 @@
   ],
   "name": "BANK NEGARA MALAYSIA",
   "legalName": "BANK NEGARA MALAYSIA",
-  "bic": "BNMAMY2KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banknegaramalaysiamy.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNMAMY2KXXX"
 }

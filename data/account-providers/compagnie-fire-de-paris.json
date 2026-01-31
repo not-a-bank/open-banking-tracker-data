@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIE FIRE DE PARIS",
   "legalName": "COMPAGNIE FIRE DE PARIS",
-  "bic": "COFPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniefiredeparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COFPFRP1XXX"
 }

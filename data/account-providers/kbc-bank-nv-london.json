@@ -8,7 +8,6 @@
   ],
   "name": "KBC BANK NV LONDON",
   "legalName": "KBC BANK NV LONDON",
-  "bic": "KREDGB2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcbanknvlondon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KREDGB2XXXX"
 }

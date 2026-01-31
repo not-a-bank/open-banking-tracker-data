@@ -8,7 +8,6 @@
   ],
   "name": "SENATSVERWALTUNG FUER FINANZEN DES LANDES BERLIN",
   "legalName": "SENATSVERWALTUNG FUER FINANZEN DES LANDES BERLIN",
-  "bic": "SFLEDEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.senatsverwaltungfuerfinanzendeslandesberlin.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFLEDEB1XXX"
 }

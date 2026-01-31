@@ -8,7 +8,6 @@
   ],
   "name": "NOTAR TREUHANDBANK AG",
   "legalName": "NOTAR TREUHANDBANK AG",
-  "bic": "NTBAATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.notartreuhandbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NTBAATWWXXX"
 }

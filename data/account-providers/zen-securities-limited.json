@@ -8,7 +8,6 @@
   ],
   "name": "ZEN SECURITIES LIMITED",
   "legalName": "ZEN SECURITIES LIMITED",
-  "bic": "ZESCINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zensecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZESCINB1XXX"
 }

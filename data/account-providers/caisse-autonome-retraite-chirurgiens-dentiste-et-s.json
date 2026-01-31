@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE AUTONOME RETRAITE CHIRURGIENS DENTISTE ET SAGES-FEMMES",
   "legalName": "CAISSE AUTONOME RETRAITE CHIRURGIENS DENTISTE ET SAGES-FEMMES",
-  "bic": "CURIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseautonomeretraitechirurgiensdentisteets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CURIFRP1XXX"
 }

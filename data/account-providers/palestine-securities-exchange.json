@@ -8,7 +8,6 @@
   ],
   "name": "PALESTINE SECURITIES EXCHANGE",
   "legalName": "PALESTINE SECURITIES EXCHANGE",
-  "bic": "XPAEPS21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.palestinesecuritiesexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XPAEPS21XXX"
 }

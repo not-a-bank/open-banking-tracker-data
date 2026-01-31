@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Caisse d'Epargne \u00cele-de-France",
-  "legalName": "Caisse d'Epargne \u00cele-de-France",
+  "name": "Caisse d'Epargne Île-de-France",
+  "legalName": "Caisse d'Epargne Île-de-France",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisse-depargne-ile-de-france.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

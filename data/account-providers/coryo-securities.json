@@ -8,7 +8,6 @@
   ],
   "name": "CORYO SECURITIES",
   "legalName": "CORYO SECURITIES",
-  "bic": "CORSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.coryosecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CORSUS31XXX"
 }

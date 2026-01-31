@@ -8,7 +8,6 @@
   ],
   "name": "TODAY'S BEHEER B.V.",
   "legalName": "TODAY'S BEHEER B.V.",
-  "bic": "TODBNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.todaysbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TODBNL21XXX"
 }

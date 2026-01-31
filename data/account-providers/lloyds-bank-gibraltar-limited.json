@@ -8,7 +8,6 @@
   ],
   "name": "LLOYDS BANK (GIBRALTAR) LIMITED",
   "legalName": "LLOYDS BANK (GIBRALTAR) LIMITED",
-  "bic": "LOYDGIB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lloydsbankgibraltarlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOYDGIB1XXX"
 }

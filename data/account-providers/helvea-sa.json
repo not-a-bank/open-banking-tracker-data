@@ -8,7 +8,6 @@
   ],
   "name": "HELVEA SA",
   "legalName": "HELVEA SA",
-  "bic": "HELECHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.helveasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HELECHG1XXX"
 }

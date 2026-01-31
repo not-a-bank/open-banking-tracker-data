@@ -8,7 +8,6 @@
   ],
   "name": "TRADEGATE AG WERTPAPIERHANDELSBANK",
   "legalName": "TRADEGATE AG WERTPAPIERHANDELSBANK",
-  "bic": "TRDADEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tradegateagwertpapierhandelsbankde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRDADEBBXXX"
 }

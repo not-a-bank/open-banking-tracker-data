@@ -8,7 +8,6 @@
   ],
   "name": "BGFIBANK BENIN",
   "legalName": "BGFIBANK BENIN",
-  "bic": "BGFIBJBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bgfibankbenin.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGFIBJBJXXX"
 }

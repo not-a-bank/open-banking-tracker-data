@@ -8,7 +8,6 @@
   ],
   "name": "GE BANK GMBH",
   "legalName": "GE BANK GMBH",
-  "bic": "GBBHDE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gebankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GBBHDE31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ITALSIM",
   "legalName": "ITALSIM",
-  "bic": "ITAMITN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.italsim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITAMITN1XXX"
 }

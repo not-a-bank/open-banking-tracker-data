@@ -8,7 +8,6 @@
   ],
   "name": "UBA GABON",
   "legalName": "UBA GABON",
-  "bic": "UNAFGALIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubagabon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNAFGALIXXX"
 }

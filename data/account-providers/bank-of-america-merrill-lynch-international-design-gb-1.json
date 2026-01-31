@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY, LONDON BRANCH",
   "legalName": "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY, LONDON BRANCH",
-  "bic": "MLIBGB5XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericamerrilllynchinternationaldesigngb1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLIBGB5XXXX"
 }

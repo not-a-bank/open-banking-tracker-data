@@ -93,11 +93,12 @@
     "bankingsdk",
     "bridgeapi-io",
     "equensworldline",
+    "gocardless",
     "ibanity",
     "klarna",
     "plaid",
-    "volt",
-    "tink"
+    "tink",
+    "volt"
   ],
   "collections": [],
   "webApplication": true,
@@ -155,5 +156,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "BSABESBB"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GREAT LAKES BANKERS BANK",
   "legalName": "GREAT LAKES BANKERS BANK",
-  "bic": "GRLKUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.greatlakesbankersbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRLKUS33XXX"
 }

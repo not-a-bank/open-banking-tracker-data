@@ -8,7 +8,6 @@
   ],
   "name": "JOINT STOCK COMPANY BBR BANK",
   "legalName": "JOINT STOCK COMPANY BBR BANK",
-  "bic": "BADJRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jointstockcompanybbrbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BADJRUM1XXX"
 }

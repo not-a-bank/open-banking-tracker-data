@@ -8,7 +8,6 @@
   ],
   "name": "MACSF ASSURANCES",
   "legalName": "MACSF ASSURANCES",
-  "bic": "MCAUFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macsfassurances.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCAUFR21XXX"
 }

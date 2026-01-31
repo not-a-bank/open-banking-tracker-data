@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE INTERNATIONALE DU CAMEROUN POUR L'EPARGNE ET LE CREDIT",
   "legalName": "BANQUE INTERNATIONALE DU CAMEROUN POUR L'EPARGNE ET LE CREDIT",
-  "bic": "ICLRCMCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueinternationaleducamerounpourlepargneet.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICLRCMCXXXX"
 }

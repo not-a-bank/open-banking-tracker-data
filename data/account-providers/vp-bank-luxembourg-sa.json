@@ -8,7 +8,6 @@
   ],
   "name": "VP BANK (LUXEMBOURG) SA",
   "legalName": "VP BANK (LUXEMBOURG) SA",
-  "bic": "VPBVLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vpbankluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VPBVLULLXXX"
 }

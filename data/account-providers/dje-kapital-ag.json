@@ -8,7 +8,6 @@
   ],
   "name": "DJE KAPITAL AG",
   "legalName": "DJE KAPITAL AG",
-  "bic": "DJEKDE7PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.djekapitalag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DJEKDE7PXXX"
 }

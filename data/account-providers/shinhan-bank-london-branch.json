@@ -8,7 +8,6 @@
   ],
   "name": "SHINHAN BANK LONDON BRANCH",
   "legalName": "SHINHAN BANK LONDON BRANCH",
-  "bic": "SHBKGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shinhanbanklondonbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHBKGB2LXXX"
 }

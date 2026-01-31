@@ -8,7 +8,6 @@
   ],
   "name": "CMC MARKETS NZ LIMITED",
   "legalName": "CMC MARKETS NZ LIMITED",
-  "bic": "CMCKNZ2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cmcmarketsnzlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMCKNZ2AXXX"
 }

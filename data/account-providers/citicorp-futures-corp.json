@@ -8,7 +8,6 @@
   ],
   "name": "CITICORP FUTURES CORP.",
   "legalName": "CITICORP FUTURES CORP.",
-  "bic": "CTFTUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citicorpfuturescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTFTUS31XXX"
 }

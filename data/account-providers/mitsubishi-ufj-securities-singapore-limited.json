@@ -8,7 +8,6 @@
   ],
   "name": "MITSUBISHI UFJ SECURITIES (SINGAPORE), LIMITED",
   "legalName": "MITSUBISHI UFJ SECURITIES (SINGAPORE), LIMITED",
-  "bic": "BOISSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mitsubishiufjsecuritiessingaporelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOISSGS1XXX"
 }

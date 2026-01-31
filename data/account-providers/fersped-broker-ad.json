@@ -8,7 +8,6 @@
   ],
   "name": "FERSPED - BROKER AD",
   "legalName": "FERSPED - BROKER AD",
-  "bic": "FLAMMK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ferspedbrokerad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLAMMK21XXX"
 }

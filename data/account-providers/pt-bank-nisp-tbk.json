@@ -8,7 +8,6 @@
   ],
   "name": "PT. BANK NISP TBK",
   "legalName": "PT. BANK NISP TBK",
-  "bic": "NISPID61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbanknisptbk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NISPID61XXX"
 }

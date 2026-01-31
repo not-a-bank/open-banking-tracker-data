@@ -8,7 +8,6 @@
   ],
   "name": "AL BARID BANK",
   "legalName": "AL BARID BANK",
-  "bic": "ABBMMAMCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.albaridbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABBMMAMCXXX"
 }

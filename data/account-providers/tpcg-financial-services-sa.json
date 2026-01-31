@@ -8,7 +8,6 @@
   ],
   "name": "TPCG FINANCIAL SERVICES S.A.",
   "legalName": "TPCG FINANCIAL SERVICES S.A.",
-  "bic": "TPFSUYM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tpcgfinancialservicessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TPFSUYM1XXX"
 }

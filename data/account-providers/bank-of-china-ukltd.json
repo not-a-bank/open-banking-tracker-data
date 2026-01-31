@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA (UK)LTD",
   "legalName": "BANK OF CHINA (UK)LTD",
-  "bic": "BKCHIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinaukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHIE2DXXX"
 }

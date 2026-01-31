@@ -8,7 +8,6 @@
   ],
   "name": "BANCA CAMBIANO 1884 SPA",
   "legalName": "BANCA CAMBIANO 1884 SPA",
-  "bic": "CRACIT33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancacambiano1884spait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRACIT33XXX"
 }

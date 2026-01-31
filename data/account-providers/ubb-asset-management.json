@@ -8,7 +8,6 @@
   ],
   "name": "UBB ASSET MANAGEMENT",
   "legalName": "UBB ASSET MANAGEMENT",
-  "bic": "UBATBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubbassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBATBGS1XXX"
 }

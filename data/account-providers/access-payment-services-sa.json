@@ -8,7 +8,6 @@
   ],
   "name": "ACCESS PAYMENT SERVICES S.A.",
   "legalName": "ACCESS PAYMENT SERVICES S.A.",
-  "bic": "ACPEGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.accesspaymentservicessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACPEGRA1XXX"
 }

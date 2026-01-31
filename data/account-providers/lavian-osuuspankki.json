@@ -8,7 +8,6 @@
   ],
   "name": "LAVIAN OSUUSPANKKI",
   "legalName": "LAVIAN OSUUSPANKKI",
-  "bic": "LAOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lavianosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAOUFI21XXX"
 }

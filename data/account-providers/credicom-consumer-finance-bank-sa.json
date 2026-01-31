@@ -8,7 +8,6 @@
   ],
   "name": "CREDICOM CONSUMER FINANCE BANK S.A.",
   "legalName": "CREDICOM CONSUMER FINANCE BANK S.A.",
-  "bic": "EMCRGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credicomconsumerfinancebanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EMCRGRA1XXX"
 }

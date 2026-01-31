@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS CAPITAL INC",
   "legalName": "BARCLAYS CAPITAL INC",
-  "bic": "BARCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclayscapitalinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCUS31XXX"
 }

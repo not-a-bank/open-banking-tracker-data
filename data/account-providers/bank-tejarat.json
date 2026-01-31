@@ -8,7 +8,6 @@
   ],
   "name": "BANK TEJARAT",
   "legalName": "BANK TEJARAT",
-  "bic": "BTEJFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banktejarat.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTEJFRPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "WOLFSBURG AG",
   "legalName": "WOLFSBURG AG",
-  "bic": "WOLGDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wolfsburgag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WOLGDE21XXX"
 }

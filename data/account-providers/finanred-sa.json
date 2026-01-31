@@ -8,7 +8,6 @@
   ],
   "name": "FINANRED S.A.",
   "legalName": "FINANRED S.A.",
-  "bic": "FIAAECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finanredsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIAAECE1XXX"
 }

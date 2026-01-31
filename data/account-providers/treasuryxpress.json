@@ -8,7 +8,6 @@
   ],
   "name": "TREASURYXPRESS",
   "legalName": "TREASURYXPRESS",
-  "bic": "BOXXFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.treasuryxpress.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOXXFRPPXXX"
 }

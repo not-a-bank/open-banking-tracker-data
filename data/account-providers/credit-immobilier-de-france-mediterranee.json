@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT IMMOBILIER DE FRANCE MEDITERRANEE",
   "legalName": "CREDIT IMMOBILIER DE FRANCE MEDITERRANEE",
-  "bic": "CIRDFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditimmobilierdefrancemediterranee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIRDFR21XXX"
 }

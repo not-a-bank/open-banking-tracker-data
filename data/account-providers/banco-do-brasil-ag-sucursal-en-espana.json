@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DO BRASIL AG - SUCURSAL EN ESPANA",
   "legalName": "BANCO DO BRASIL AG - SUCURSAL EN ESPANA",
-  "bic": "BRASESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodobrasilagsucursalenespana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRASESMMXXX"
 }

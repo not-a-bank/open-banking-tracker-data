@@ -8,7 +8,6 @@
   ],
   "name": "SNIA SPA",
   "legalName": "SNIA SPA",
-  "bic": "SNIAITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sniaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SNIAITM1XXX"
 }

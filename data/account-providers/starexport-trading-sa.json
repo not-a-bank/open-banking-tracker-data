@@ -8,7 +8,6 @@
   ],
   "name": "STAREXPORT TRADING S.A.",
   "legalName": "STAREXPORT TRADING S.A.",
-  "bic": "DATRBRSXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.starexporttradingsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DATRBRSXXXX"
 }

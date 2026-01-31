@@ -8,7 +8,6 @@
   ],
   "name": "AAREAL BANK AG, PARIS BRANCH",
   "legalName": "AAREAL BANK AG, PARIS BRANCH",
-  "bic": "AARBFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aarealbankagparisbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AARBFRP1XXX"
 }

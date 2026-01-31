@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE NATIONALE DE CREDIT AGRICOLE DU SENEGAL (C.N.C.A.S.)",
   "legalName": "CAISSE NATIONALE DE CREDIT AGRICOLE DU SENEGAL (C.N.C.A.S.)",
-  "bic": "CADKSNDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissenationaledecreditagricoledusenegalcnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CADKSNDAXXX"
 }

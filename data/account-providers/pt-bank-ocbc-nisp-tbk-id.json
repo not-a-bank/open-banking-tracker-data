@@ -8,7 +8,6 @@
   ],
   "name": "PT BANK OCBC NISP TBK",
   "legalName": "PT BANK OCBC NISP TBK",
-  "bic": "NISPIDJAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbankocbcnisptbkid.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NISPIDJAXXX"
 }

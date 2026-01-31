@@ -8,7 +8,6 @@
   ],
   "name": "UMWELTBANK AG",
   "legalName": "UMWELTBANK AG",
-  "bic": "UMWEDE7NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.umweltbankag.com.ico",
@@ -24,10 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UMWEDE7NXXX"
 }

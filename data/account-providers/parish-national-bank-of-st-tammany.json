@@ -8,7 +8,6 @@
   ],
   "name": "PARISH NATIONAL BANK OF ST. TAMMANY",
   "legalName": "PARISH NATIONAL BANK OF ST. TAMMANY",
-  "bic": "PNBTUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.parishnationalbankofsttammany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNBTUS41XXX"
 }

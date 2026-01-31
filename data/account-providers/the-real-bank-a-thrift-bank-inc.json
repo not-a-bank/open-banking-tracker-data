@@ -8,7 +8,6 @@
   ],
   "name": "THE REAL BANK (A THRIFT BANK), INC.",
   "legalName": "THE REAL BANK (A THRIFT BANK), INC.",
-  "bic": "RETHPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.therealbankathriftbankinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RETHPHM1XXX"
 }

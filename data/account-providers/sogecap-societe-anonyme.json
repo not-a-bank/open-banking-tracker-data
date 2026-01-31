@@ -8,7 +8,6 @@
   ],
   "name": "SOGECAP SOCIETE ANONYME",
   "legalName": "SOGECAP SOCIETE ANONYME",
-  "bic": "SOGCFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sogecapsocieteanonyme.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGCFR21XXX"
 }

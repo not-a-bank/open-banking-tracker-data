@@ -8,7 +8,6 @@
   ],
   "name": "MAPLE BANK GMBH",
   "legalName": "MAPLE BANK GMBH",
-  "bic": "MPBKCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maplebankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MPBKCAT1XXX"
 }

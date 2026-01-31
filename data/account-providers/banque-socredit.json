@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE SOCREDIT",
   "legalName": "BANQUE SOCREDIT",
-  "bic": "BASOFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquesocredit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BASOFRP1XXX"
 }

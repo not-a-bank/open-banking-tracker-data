@@ -8,7 +8,6 @@
   ],
   "name": "KBC BANK N.V.",
   "legalName": "KBC BANK N.V.",
-  "bic": "KREDUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcbanknvus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KREDUS33XXX"
 }

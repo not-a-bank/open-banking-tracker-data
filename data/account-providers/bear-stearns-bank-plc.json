@@ -8,7 +8,6 @@
   ],
   "name": "BEAR STEARNS BANK PLC",
   "legalName": "BEAR STEARNS BANK PLC",
-  "bic": "BESNIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bearstearnsbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BESNIE21XXX"
 }

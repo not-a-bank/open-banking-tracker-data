@@ -8,7 +8,6 @@
   ],
   "name": "SHARJAH ISLAMIC BANK",
   "legalName": "SHARJAH ISLAMIC BANK",
-  "bic": "NBSHAEASXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sharjahislamicbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBSHAEASXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GENERAL FINANCING",
   "legalName": "GENERAL FINANCING",
-  "bic": "GRFNLT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.generalfinancing.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRFNLT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "A.T. DE CASTRO SECURITIES CORPORATION",
   "legalName": "A.T. DE CASTRO SECURITIES CORPORATION",
-  "bic": "CASUPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.atdecastrosecuritiescorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CASUPHM1XXX"
 }

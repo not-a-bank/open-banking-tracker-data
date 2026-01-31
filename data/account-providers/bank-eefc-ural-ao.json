@@ -8,7 +8,6 @@
   ],
   "name": "BANK EEFC-URAL AO",
   "legalName": "BANK EEFC-URAL AO",
-  "bic": "MDURRU41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankeefcuralao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MDURRU41XXX"
 }

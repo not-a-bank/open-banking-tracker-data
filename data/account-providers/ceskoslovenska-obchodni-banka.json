@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
-  "legalName": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+  "name": "Československá obchodní banka",
+  "legalName": "Československá obchodní banka",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ceskoslovenska-obchodni-banka.com.ico",
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEKOSKBXXXX"
 }

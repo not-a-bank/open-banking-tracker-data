@@ -8,7 +8,6 @@
   ],
   "name": "TONO SHINKIN BANK",
   "legalName": "TONO SHINKIN BANK",
-  "bic": "TOSKJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tonoshinkinbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOSKJPJ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF MONTSERRAT LIMITED",
   "legalName": "BANK OF MONTSERRAT LIMITED",
-  "bic": "BKMOMSMSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofmontserratlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKMOMSMSXXX"
 }

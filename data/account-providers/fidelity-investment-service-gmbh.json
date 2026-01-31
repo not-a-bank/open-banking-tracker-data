@@ -8,7 +8,6 @@
   ],
   "name": "FIDELITY INVESTMENT SERVICE GMBH",
   "legalName": "FIDELITY INVESTMENT SERVICE GMBH",
-  "bic": "FDIMDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidelityinvestmentservicegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDIMDEF1XXX"
 }

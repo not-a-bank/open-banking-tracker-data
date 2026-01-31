@@ -8,7 +8,6 @@
   ],
   "name": "NARODNY CENTRALNY DEPOZITAR CENNYCH PAPIEROV, A.S.",
   "legalName": "NARODNY CENTRALNY DEPOZITAR CENNYCH PAPIEROV, A.S.",
-  "bic": "NCDCSKBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.narodnycentralnydepozitarcennychpapierovas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NCDCSKBAXXX"
 }

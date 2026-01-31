@@ -8,7 +8,6 @@
   ],
   "name": "PRITCHARD STOCKBROKERS LIMITED",
   "legalName": "PRITCHARD STOCKBROKERS LIMITED",
-  "bic": "PRSKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pritchardstockbrokerslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRSKGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OSTRA KORSHOLMS ANDELSBANK",
   "legalName": "OSTRA KORSHOLMS ANDELSBANK",
-  "bic": "OSKNFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ostrakorsholmsandelsbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OSKNFI21XXX"
 }

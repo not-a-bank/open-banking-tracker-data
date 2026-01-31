@@ -8,7 +8,6 @@
   ],
   "name": "ANDCAPITAL BANK INTERNATIONAL CORP",
   "legalName": "ANDCAPITAL BANK INTERNATIONAL CORP",
-  "bic": "ACBIPR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.andcapitalbankinternationalcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACBIPR22XXX"
 }

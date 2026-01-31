@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE AG, TORONTO BRANCH",
   "legalName": "CREDIT SUISSE AG, TORONTO BRANCH",
-  "bic": "CRESCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseagtorontobranchca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRESCATTXXX"
 }

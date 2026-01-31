@@ -8,7 +8,6 @@
   ],
   "name": "HERMES SECURITIES S.A..",
   "legalName": "HERMES SECURITIES S.A..",
-  "bic": "HERMGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hermessecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HERMGRA1XXX"
 }

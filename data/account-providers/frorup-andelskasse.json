@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Fr\u00f8rup Andelskasse",
-  "legalName": "Fr\u00f8rup Andelskasse",
+  "name": "Frørup Andelskasse",
+  "legalName": "Frørup Andelskasse",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.frorup-andelskasse.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "FROPDK21XXX"
+  "bic": "FROPDK21"
 }

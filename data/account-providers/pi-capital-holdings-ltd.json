@@ -8,7 +8,6 @@
   ],
   "name": "PI CAPITAL (HOLDINGS) LTD",
   "legalName": "PI CAPITAL (HOLDINGS) LTD",
-  "bic": "VECEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.picapitalholdingsltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VECEGB21XXX"
 }

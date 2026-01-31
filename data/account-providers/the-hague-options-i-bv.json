@@ -8,7 +8,6 @@
   ],
   "name": "THE HAGUE OPTIONS I B.V.",
   "legalName": "THE HAGUE OPTIONS I B.V.",
-  "bic": "HAOPNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thehagueoptionsibv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAOPNL21XXX"
 }

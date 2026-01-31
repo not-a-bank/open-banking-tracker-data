@@ -8,7 +8,6 @@
   ],
   "name": "ELECA SPA",
   "legalName": "ELECA SPA",
-  "bic": "ELACIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.elecaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ELACIT21XXX"
 }

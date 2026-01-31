@@ -8,7 +8,6 @@
   ],
   "name": "NIIGATA STOCK EXCHANGE",
   "legalName": "NIIGATA STOCK EXCHANGE",
-  "bic": "XNIIJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.niigatastockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XNIIJPJ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DO ESTADO DE GOIAS S A",
   "legalName": "BANCO DO ESTADO DE GOIAS S A",
-  "bic": "BESGBRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodoestadodegoiassa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BESGBRR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, HARBIN BRANCH",
   "legalName": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED, HARBIN BRANCH",
-  "bic": "CHASCNBHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganchasebankchinacompanylimitedharbinb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASCNBHXXX"
 }

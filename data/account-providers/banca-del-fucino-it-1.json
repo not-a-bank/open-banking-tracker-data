@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DEL FUCINO",
   "legalName": "BANCA DEL FUCINO",
-  "bic": "BAFUITRRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadelfucinoit1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAFUITRRXXX"
 }

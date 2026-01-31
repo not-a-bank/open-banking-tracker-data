@@ -8,7 +8,6 @@
   ],
   "name": "ALLIANZ BANK FINANCIAL ADVISORS SPA",
   "legalName": "ALLIANZ BANK FINANCIAL ADVISORS SPA",
-  "bic": "BKRAITMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allianzbankfinancialadvisorsspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKRAITMAXXX"
 }

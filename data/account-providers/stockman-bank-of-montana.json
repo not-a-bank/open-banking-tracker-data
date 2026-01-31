@@ -8,7 +8,6 @@
   ],
   "name": "STOCKMAN BANK OF MONTANA",
   "legalName": "STOCKMAN BANK OF MONTANA",
-  "bic": "STKMUS55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stockmanbankofmontana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STKMUS55XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CITIC SECURITIES BROKERAGE (HK) LTD",
   "legalName": "CITIC SECURITIES BROKERAGE (HK) LTD",
-  "bic": "CSCLHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citicsecuritiesbrokeragehkltdhk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSCLHKHHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH GOVERNMENT SECURITIES INC.",
   "legalName": "MERRILL LYNCH GOVERNMENT SECURITIES INC.",
-  "bic": "MLGSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchgovernmentsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLGSUS31XXX"
 }

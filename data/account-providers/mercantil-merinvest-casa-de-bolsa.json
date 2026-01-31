@@ -8,7 +8,6 @@
   ],
   "name": "MERCANTIL MERINVEST CASA DE BOLSA",
   "legalName": "MERCANTIL MERINVEST CASA DE BOLSA",
-  "bic": "MMCBVECAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mercantilmerinvestcasadebolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MMCBVECAXXX"
 }

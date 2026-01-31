@@ -8,7 +8,6 @@
   ],
   "name": "CNH CAPITAL EUROPE SAS",
   "legalName": "CNH CAPITAL EUROPE SAS",
-  "bic": "CNCUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cnhcapitaleuropesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNCUFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INTELIGO BANK LTD",
   "legalName": "INTELIGO BANK LTD",
-  "bic": "IBNKPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.inteligobankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBNKPAPAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CONSORCIO DE COMPENSACION DE SEGUROS",
   "legalName": "CONSORCIO DE COMPENSACION DE SEGUROS",
-  "bic": "CDCSESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.consorciodecompensaciondeseguros.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDCSESM1XXX"
 }

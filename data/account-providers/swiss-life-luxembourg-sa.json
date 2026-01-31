@@ -8,7 +8,6 @@
   ],
   "name": "SWISS LIFE (LUXEMBOURG) S.A.",
   "legalName": "SWISS LIFE (LUXEMBOURG) S.A.",
-  "bic": "SLLULULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swisslifeluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLLULULLXXX"
 }

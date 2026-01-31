@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BTG PACTUAL SA LUXEMBOURG BRA",
   "legalName": "BANCO BTG PACTUAL SA LUXEMBOURG BRA",
-  "bic": "BTGBLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobtgpactualsaluxembourgbra.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTGBLULLXXX"
 }

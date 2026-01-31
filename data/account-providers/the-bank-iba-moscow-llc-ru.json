@@ -8,7 +8,6 @@
   ],
   "name": "THE BANK 'IBA-MOSCOW' LLC",
   "legalName": "THE BANK 'IBA-MOSCOW' LLC",
-  "bic": "IBAZRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankibamoscowllcru.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBAZRUMMXXX"
 }

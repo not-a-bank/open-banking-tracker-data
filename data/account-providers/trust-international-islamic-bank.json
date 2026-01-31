@@ -8,7 +8,6 @@
   ],
   "name": "TRUST INTERNATIONAL ISLAMIC BANK",
   "legalName": "TRUST INTERNATIONAL ISLAMIC BANK",
-  "bic": "MCFTIQBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trustinternationalislamicbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCFTIQBAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "THE NATIONAL EMISSIONS TRADING REGISTRY OF LIECHTENSTEIN",
   "legalName": "THE NATIONAL EMISSIONS TRADING REGISTRY OF LIECHTENSTEIN",
-  "bic": "NETILI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thenationalemissionstradingregistryofliechte.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NETILI21XXX"
 }

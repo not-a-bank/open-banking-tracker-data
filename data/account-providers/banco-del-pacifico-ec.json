@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DEL PACIFICO",
   "legalName": "BANCO DEL PACIFICO",
-  "bic": "PACIECEGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodelpacificoec.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PACIECEGXXX"
 }

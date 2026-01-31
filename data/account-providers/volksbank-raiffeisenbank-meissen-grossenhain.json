@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Raiffeisenbank Mei\u00dfen Gro\u00dfenhain",
-  "legalName": "Volksbank Raiffeisenbank Mei\u00dfen Gro\u00dfenhain",
+  "name": "Volksbank Raiffeisenbank Meißen Großenhain",
+  "legalName": "Volksbank Raiffeisenbank Meißen Großenhain",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-raiffeisenbank-meissen-grossenhain.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

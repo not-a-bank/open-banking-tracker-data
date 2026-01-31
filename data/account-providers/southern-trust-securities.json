@@ -8,7 +8,6 @@
   ],
   "name": "SOUTHERN TRUST SECURITIES",
   "legalName": "SOUTHERN TRUST SECURITIES",
-  "bic": "SOTIZWH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southerntrustsecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOTIZWH1XXX"
 }

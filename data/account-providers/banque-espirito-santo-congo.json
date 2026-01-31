@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE ESPIRITO SANTO CONGO",
   "legalName": "BANQUE ESPIRITO SANTO CONGO",
-  "bic": "BESCCGCGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueespiritosantocongo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BESCCGCGXXX"
 }

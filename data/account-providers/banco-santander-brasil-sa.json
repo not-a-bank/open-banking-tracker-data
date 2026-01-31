@@ -8,7 +8,6 @@
   ],
   "name": "Santander Brasil",
   "legalName": "BANCO SANTANDER (BRASIL) S.A.",
-  "bic": "BSCHBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santander.com.br.ico",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "SANB11"
+  "stockSymbol": "SANB11",
+  "bic": "BSCHBRSPXXX"
 }

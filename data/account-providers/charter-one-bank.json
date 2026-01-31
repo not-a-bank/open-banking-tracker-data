@@ -8,7 +8,6 @@
   ],
   "name": "CHARTER ONE BANK",
   "legalName": "CHARTER ONE BANK",
-  "bic": "COBJSSJBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.charteronebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBJSSJBXXX"
 }

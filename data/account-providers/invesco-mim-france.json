@@ -8,7 +8,6 @@
   ],
   "name": "INVESCO MIM FRANCE",
   "legalName": "INVESCO MIM FRANCE",
-  "bic": "IMIFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invescomimfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMIFFRP1XXX"
 }

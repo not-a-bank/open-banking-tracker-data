@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W OPOCZNIE",
   "legalName": "BANK SPOLDZIELCZY W OPOCZNIE",
-  "bic": "SPOPPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywopocznie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPOPPLP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Astrobank Public Company Limited",
   "legalName": "ASTROBANK PUBLIC COMPANY LIMITED",
-  "bic": "PIRBCY2NXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PIRBCY2NXXX"
 }

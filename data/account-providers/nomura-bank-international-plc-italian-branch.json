@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA BANK INTERNATIONAL PLC-ITALIAN BRANCH",
   "legalName": "NOMURA BANK INTERNATIONAL PLC-ITALIAN BRANCH",
-  "bic": "NBILITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomurabankinternationalplcitalianbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBILITMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AA CORPORATION LIMITED",
   "legalName": "AA CORPORATION LIMITED",
-  "bic": "CPRTGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aacorporationlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPRTGB22XXX"
 }

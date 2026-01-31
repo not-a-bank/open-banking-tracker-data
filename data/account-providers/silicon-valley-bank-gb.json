@@ -9,7 +9,6 @@
   ],
   "name": "SILICON VALLEY BANK",
   "legalName": "SILICON VALLEY BANK",
-  "bic": "SVBKGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1616003484/icons/silicon-valley-bank.jpg",
@@ -132,5 +131,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "SIVB"
+  "stockSymbol": "SIVB",
+  "bic": "SVBKGB2LXXX"
 }

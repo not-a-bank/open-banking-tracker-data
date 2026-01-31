@@ -8,7 +8,6 @@
   ],
   "name": "FITCH DEUTSCHLAND GMBH",
   "legalName": "FITCH DEUTSCHLAND GMBH",
-  "bic": "FRIPDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchdeutschlandgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPDEF1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK,FRANKFURT BRANCH",
   "legalName": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK,FRANKFURT BRANCH",
-  "bic": "GENODE6KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dzbankagdeutschezentralgenossenschaftsbankfra.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODE6KXXX"
 }

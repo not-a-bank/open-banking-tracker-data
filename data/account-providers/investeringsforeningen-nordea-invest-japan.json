@@ -8,7 +8,6 @@
   ],
   "name": "INVESTERINGSFORENINGEN NORDEA INVEST JAPAN",
   "legalName": "INVESTERINGSFORENINGEN NORDEA INVEST JAPAN",
-  "bic": "IVNVDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investeringsforeningennordeainvestjapan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVNVDKK1XXX"
 }

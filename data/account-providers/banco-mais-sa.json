@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MAIS, SA",
   "legalName": "BANCO MAIS, SA",
-  "bic": "MAISMZMAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomaissa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAISMZMAXXX"
 }

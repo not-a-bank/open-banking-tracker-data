@@ -8,7 +8,6 @@
   ],
   "name": "FIRST FINANCIAL BANK",
   "legalName": "FIRST FINANCIAL BANK",
-  "bic": "FFBEUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstfinancialbankus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FFBEUS51XXX"
 }

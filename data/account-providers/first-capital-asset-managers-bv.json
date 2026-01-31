@@ -8,7 +8,6 @@
   ],
   "name": "FIRST CAPITAL ASSET MANAGERS B.V.",
   "legalName": "FIRST CAPITAL ASSET MANAGERS B.V.",
-  "bic": "FCAMNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstcapitalassetmanagersbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCAMNL21XXX"
 }

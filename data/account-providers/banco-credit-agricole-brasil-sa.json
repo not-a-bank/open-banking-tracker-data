@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CREDIT AGRICOLE BRASIL SA",
   "legalName": "BANCO CREDIT AGRICOLE BRASIL SA",
-  "bic": "BAGBBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocreditagricolebrasilsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAGBBRSPXXX"
 }

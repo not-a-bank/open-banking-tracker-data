@@ -8,7 +8,6 @@
   ],
   "name": "AMERICAN CHARTERED BANK",
   "legalName": "AMERICAN CHARTERED BANK",
-  "bic": "AMCDUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.americancharteredbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMCDUS44XXX"
 }

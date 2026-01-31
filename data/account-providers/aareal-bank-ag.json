@@ -8,7 +8,6 @@
   ],
   "name": "Aareal Bank AG",
   "legalName": "AAREAL BANK AG",
-  "bic": "AARBDE5W100",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aarealbank.de.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AARBDE5WXXX"
 }

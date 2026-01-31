@@ -8,7 +8,6 @@
   ],
   "name": "NADYOZHNYJ BANK",
   "legalName": "NADYOZHNYJ BANK",
-  "bic": "NADYRU91XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nadyozhnyjbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NADYRU91XXX"
 }

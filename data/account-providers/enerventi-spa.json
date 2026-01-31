@@ -8,7 +8,6 @@
   ],
   "name": "ENERVENTI S.P.A.",
   "legalName": "ENERVENTI S.P.A.",
-  "bic": "ENRVITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enerventispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENRVITM1XXX"
 }

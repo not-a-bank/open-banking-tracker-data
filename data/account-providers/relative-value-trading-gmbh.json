@@ -8,7 +8,6 @@
   ],
   "name": "RELATIVE VALUE TRADING GMBH",
   "legalName": "RELATIVE VALUE TRADING GMBH",
-  "bic": "RVTMDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.relativevaluetradinggmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RVTMDEF1XXX"
 }

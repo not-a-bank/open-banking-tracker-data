@@ -8,7 +8,6 @@
   ],
   "name": "JOINT STOCK COMPANY 'OTP BANK'",
   "legalName": "JOINT STOCK COMPANY 'OTP BANK'",
-  "bic": "OTPVRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jointstockcompanyotpbankru.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OTPVRUMMXXX"
 }

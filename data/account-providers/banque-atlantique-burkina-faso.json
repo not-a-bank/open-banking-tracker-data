@@ -8,7 +8,6 @@
   ],
   "name": "Banque Atlantique Burkina Faso",
   "legalName": "BANQUE ATLANTIQUE BURKINA FASO",
-  "bic": "ATBFBFBFXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATBFBFBFXXX"
 }

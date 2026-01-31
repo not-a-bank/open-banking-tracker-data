@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE SECURITIES CORREDORES DE BOLSA LIMITADA",
   "legalName": "DEUTSCHE SECURITIES CORREDORES DE BOLSA LIMITADA",
-  "bic": "DSCBCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschesecuritiescorredoresdebolsalimitada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DSCBCLR1XXX"
 }

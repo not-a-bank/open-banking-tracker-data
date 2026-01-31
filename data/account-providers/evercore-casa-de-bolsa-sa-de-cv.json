@@ -8,7 +8,6 @@
   ],
   "name": "EVERCORE CASA DE BOLSA SA DE CV",
   "legalName": "EVERCORE CASA DE BOLSA SA DE CV",
-  "bic": "EVCBMXMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.evercorecasadebolsasadecv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EVCBMXMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PJSC TOMSKPROMSTROYBANK",
   "legalName": "PJSC TOMSKPROMSTROYBANK",
-  "bic": "TMKPRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjsctomskpromstroybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TMKPRU21XXX"
 }

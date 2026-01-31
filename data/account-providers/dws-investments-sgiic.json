@@ -8,7 +8,6 @@
   ],
   "name": "DWS INVESTMENTS SGIIC",
   "legalName": "DWS INVESTMENTS SGIIC",
-  "bic": "DWISESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dwsinvestmentssgiic.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DWISESM1XXX"
 }

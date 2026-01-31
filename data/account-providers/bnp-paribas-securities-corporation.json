@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SECURITIES CORPORATION",
   "legalName": "BNP PARIBAS SECURITIES CORPORATION",
-  "bic": "BNPAUS3CXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassecuritiescorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAUS3CXXX"
 }

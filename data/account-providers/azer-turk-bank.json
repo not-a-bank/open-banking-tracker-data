@@ -8,7 +8,6 @@
   ],
   "name": "Azer-turk Bank",
   "legalName": "AZER-TURK BANK",
-  "bic": "AZRTAZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.azerturkbank.az.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZRTAZ22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MAYBANK INTERNATIONAL (L) LTD.",
   "legalName": "MAYBANK INTERNATIONAL (L) LTD.",
-  "bic": "MBBEMYKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maybankinternationallltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBBEMYKAXXX"
 }

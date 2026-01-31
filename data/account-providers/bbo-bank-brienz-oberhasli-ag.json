@@ -8,7 +8,6 @@
   ],
   "name": "BBO BANK BRIENZ OBERHASLI AG",
   "legalName": "BBO BANK BRIENZ OBERHASLI AG",
-  "bic": "BBOBCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bbobankbrienzoberhasliag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBOBCH22XXX"
 }

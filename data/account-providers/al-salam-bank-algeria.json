@@ -8,7 +8,6 @@
   ],
   "name": "AL SALAM BANK ALGERIA",
   "legalName": "AL SALAM BANK ALGERIA",
-  "bic": "SALGDZALXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alsalambankalgeria.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SALGDZALXXX"
 }

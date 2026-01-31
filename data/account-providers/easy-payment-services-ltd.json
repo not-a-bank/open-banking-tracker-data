@@ -8,7 +8,6 @@
   ],
   "name": "Easy Payment Services LTD",
   "legalName": "EASY PAYMENT SERVICES LTD",
-  "bic": "EAPSBGS2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.easypaymentservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EAPSBGS2XXX"
 }

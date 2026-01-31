@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole Atlantique Vend\u00e9e",
-  "legalName": "Cr\u00e9dit Agricole Atlantique Vend\u00e9e",
+  "name": "Crédit Agricole Atlantique Vendée",
+  "legalName": "Crédit Agricole Atlantique Vendée",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-atlantique-vendee.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

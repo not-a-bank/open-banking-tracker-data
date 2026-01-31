@@ -8,7 +8,6 @@
   ],
   "name": "FIMA VRIJEDNOSNICE D.O.O.",
   "legalName": "FIMA VRIJEDNOSNICE D.O.O.",
-  "bic": "FIJDBA21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fimavrijednosnicedoo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIJDBA21XXX"
 }

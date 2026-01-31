@@ -8,7 +8,6 @@
   ],
   "name": "SUMITOMO MITSUI TRUST BANK, LIMITED",
   "legalName": "SUMITOMO MITSUI TRUST BANK, LIMITED",
-  "bic": "STBCSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sumitomomitsuitrustbanklimitedsg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBCSGSGXXX"
 }

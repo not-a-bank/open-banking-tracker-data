@@ -8,7 +8,6 @@
   ],
   "name": "SMBC TRUST BANK LTD.",
   "legalName": "SMBC TRUST BANK LTD.",
-  "bic": "SMTCJPJ2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.smbctrustbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMTCJPJ2XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KREISSPARKASSE BOEBLINGEN",
   "legalName": "KREISSPARKASSE BOEBLINGEN",
-  "bic": "BBKRDE6BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasseboeblingen.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBKRDE6BXXX"
 }

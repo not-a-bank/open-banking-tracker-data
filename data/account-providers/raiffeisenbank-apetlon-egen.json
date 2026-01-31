@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK APETLON EGEN",
   "legalName": "RAIFFEISENBANK APETLON EGEN",
-  "bic": "RLBBAT2EXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankapetlonegen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RLBBAT2EXXX"
 }

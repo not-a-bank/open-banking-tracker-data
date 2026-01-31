@@ -8,7 +8,6 @@
   ],
   "name": "LANDES-HYPOTHEKENBANK STEIERMARK AKTIENGESELLSCHAFT",
   "legalName": "LANDES-HYPOTHEKENBANK STEIERMARK AKTIENGESELLSCHAFT",
-  "bic": "HYSTAT2GXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.landeshypothekenbanksteiermarkaktiengesellschaf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HYSTAT2GXXX"
 }

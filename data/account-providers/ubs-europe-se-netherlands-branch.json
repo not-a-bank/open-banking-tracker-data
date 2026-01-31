@@ -8,7 +8,6 @@
   ],
   "name": "UBS EUROPE SE, NETHERLANDS BRANCH",
   "legalName": "UBS EUROPE SE, NETHERLANDS BRANCH",
-  "bic": "UBSWNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubseuropesenetherlandsbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWNL2AXXX"
 }

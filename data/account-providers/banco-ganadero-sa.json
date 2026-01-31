@@ -8,7 +8,6 @@
   ],
   "name": "BANCO GANADERO S.A.",
   "legalName": "BANCO GANADERO S.A.",
-  "bic": "GNDRBO22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoganaderosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GNDRBO22XXX"
 }

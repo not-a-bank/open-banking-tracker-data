@@ -8,7 +8,6 @@
   ],
   "name": "STANBIC BANK KENYA LIMITED",
   "legalName": "STANBIC BANK KENYA LIMITED",
-  "bic": "SBICKEN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stanbicbankkenyalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBICKEN1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DU CREDIT AGRICOLE 'B.C.A.'",
   "legalName": "BANQUE DU CREDIT AGRICOLE 'B.C.A.'",
-  "bic": "ACRBCDK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueducreditagricolebca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACRBCDK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NEUE AARGAUER BANK AG",
   "legalName": "NEUE AARGAUER BANK AG",
-  "bic": "AHHBCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.neueaargauerbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AHHBCH22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HK SECURITIES, INC.",
   "legalName": "HK SECURITIES, INC.",
-  "bic": "SEREPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hksecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEREPHM1XXX"
 }

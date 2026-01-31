@@ -8,7 +8,6 @@
   ],
   "name": "KARVIAN OSUUSPANKKI",
   "legalName": "KARVIAN OSUUSPANKKI",
-  "bic": "KAOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.karvianosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAOPFI21XXX"
 }

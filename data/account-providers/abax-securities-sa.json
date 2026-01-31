@@ -8,7 +8,6 @@
   ],
   "name": "ABAX SECURITIES S.A.",
   "legalName": "ABAX SECURITIES S.A.",
-  "bic": "ABXEGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abaxsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABXEGRA1XXX"
 }

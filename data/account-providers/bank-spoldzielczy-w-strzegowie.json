@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W STRZEGOWIE",
   "legalName": "BANK SPOLDZIELCZY W STRZEGOWIE",
-  "bic": "BSSTPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywstrzegowie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSSTPLP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCOLOMBIA (PANAMA), S.A.",
   "legalName": "BANCOLOMBIA (PANAMA), S.A.",
-  "bic": "COLOPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancolombiapanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COLOPAPAXXX"
 }

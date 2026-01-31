@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK D.D.",
   "legalName": "SBERBANK D.D.",
-  "bic": "VBCRHR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbankdd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VBCRHR22XXX"
 }

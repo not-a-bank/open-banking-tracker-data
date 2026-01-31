@@ -8,7 +8,6 @@
   ],
   "name": "SACICAP VALLEE DU RHONE",
   "legalName": "SACICAP VALLEE DU RHONE",
-  "bic": "SCLAFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sacicapvalleedurhone.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCLAFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE PFANDBRIEFBANK AG BRANCH PARIS",
   "legalName": "DEUTSCHE PFANDBRIEFBANK AG BRANCH PARIS",
-  "bic": "DPBBFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschepfandbriefbankagbranchparis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DPBBFRP1XXX"
 }

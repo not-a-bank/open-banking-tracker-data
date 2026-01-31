@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA, N.A. TAIPEI",
   "legalName": "BANK OF AMERICA, N.A. TAIPEI",
-  "bic": "BOFATW2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericanataipei.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFATW2XXXX"
 }

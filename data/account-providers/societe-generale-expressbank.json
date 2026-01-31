@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE EXPRESSBANK",
   "legalName": "SOCIETE GENERALE EXPRESSBANK",
-  "bic": "TTBBBG22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneraleexpressbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TTBBBG22XXX"
 }

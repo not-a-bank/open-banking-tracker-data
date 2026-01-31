@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
   "legalName": "BNP PARIBAS FORTIS (FORTIS BANK SA/NV)",
-  "bic": "GEBABEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasfortisfortisbanksanv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GEBABEBBXXX"
 }

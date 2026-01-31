@@ -8,7 +8,6 @@
   ],
   "name": "ALNAIR AB",
   "legalName": "ALNAIR AB",
-  "bic": "ANNISES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alnairab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANNISES1XXX"
 }

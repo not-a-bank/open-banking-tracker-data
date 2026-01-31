@@ -9,7 +9,6 @@
   ],
   "name": "ETNEDAL SPAREBANK",
   "legalName": "ETNEDAL SPAREBANK",
-  "bic": "ETSPNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/5d9c2417-c2d9-455b-8d88-951bee6fbee8/-/preview/170x170/-/crop/180x180/center/NO937888570.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETSPNO21"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ING BANK NV, SYDNEY BRANCH",
   "legalName": "ING BANK NV, SYDNEY BRANCH",
-  "bic": "INGAAU2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingbanknvsydneybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGAAU2SXXX"
 }

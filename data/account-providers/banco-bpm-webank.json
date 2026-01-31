@@ -1,0 +1,32 @@
+{
+  "id": "banco-bpm-webank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Banco BPM WeBank",
+  "legalName": "Banco BPM WeBank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banco-bpm-webank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "IT",
+  "countries": [
+    "IT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "PASCITMM"
+}

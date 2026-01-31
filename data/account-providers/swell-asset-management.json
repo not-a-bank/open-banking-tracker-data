@@ -8,7 +8,6 @@
   ],
   "name": "SWELL ASSET MANAGEMENT",
   "legalName": "SWELL ASSET MANAGEMENT",
-  "bic": "SWAAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swellassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWAAFRP1XXX"
 }

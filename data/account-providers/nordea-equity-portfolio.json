@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA EQUITY PORTFOLIO",
   "legalName": "NORDEA EQUITY PORTFOLIO",
-  "bic": "NOELFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaequityportfolio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOELFIH1XXX"
 }

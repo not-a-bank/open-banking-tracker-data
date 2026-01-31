@@ -8,7 +8,6 @@
   ],
   "name": "CITIGROUP PTY LIMITED",
   "legalName": "CITIGROUP PTY LIMITED",
-  "bic": "CITIAU3XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citigroupptylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIAU3XXXX"
 }

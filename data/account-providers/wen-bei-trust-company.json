@@ -8,7 +8,6 @@
   ],
   "name": "WEN BEI TRUST COMPANY",
   "legalName": "WEN BEI TRUST COMPANY",
-  "bic": "WBTOCNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wenbeitrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WBTOCNS1XXX"
 }

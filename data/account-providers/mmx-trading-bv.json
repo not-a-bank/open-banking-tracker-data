@@ -8,7 +8,6 @@
   ],
   "name": "MMX TRADING BV",
   "legalName": "MMX TRADING BV",
-  "bic": "MMXTNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mmxtradingbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MMXTNL21XXX"
 }

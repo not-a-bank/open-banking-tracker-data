@@ -8,7 +8,6 @@
   ],
   "name": "SAVINGS AND INVESTMENT TRUST",
   "legalName": "SAVINGS AND INVESTMENT TRUST",
-  "bic": "SAVICAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.savingsandinvestmenttrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAVICAM1XXX"
 }

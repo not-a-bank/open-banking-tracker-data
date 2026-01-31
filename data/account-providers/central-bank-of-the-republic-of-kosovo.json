@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF THE REPUBLIC OF KOSOVO",
   "legalName": "CENTRAL BANK OF THE REPUBLIC OF KOSOVO",
-  "bic": "CBRKXKPRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankoftherepublicofkosovo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBRKXKPRXXX"
 }

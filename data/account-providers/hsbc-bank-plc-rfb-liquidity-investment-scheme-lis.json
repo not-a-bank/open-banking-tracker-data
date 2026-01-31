@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK PLC (RFB) LIQUIDITY INVESTMENT SCHEME (LIS)",
   "legalName": "HSBC BANK PLC (RFB) LIQUIDITY INVESTMENT SCHEME (LIS)",
-  "bic": "HBUKGB2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankplcrfbliquidityinvestmentschemelis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBUKGB2AXXX"
 }

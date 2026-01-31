@@ -8,7 +8,6 @@
   ],
   "name": "BANK MELLI IRAN",
   "legalName": "BANK MELLI IRAN",
-  "bic": "MELIOMRXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankmelliiranom.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MELIOMRXXXX"
 }

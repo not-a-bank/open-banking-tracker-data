@@ -8,7 +8,6 @@
   ],
   "name": "KREISSPARKASSE HEILBRONN",
   "legalName": "KREISSPARKASSE HEILBRONN",
-  "bic": "HEISDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasseheilbronn.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEISDE66XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FINAM LIMITED",
   "legalName": "FINAM LIMITED",
-  "bic": "FNMACY21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finamlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNMACY21XXX"
 }

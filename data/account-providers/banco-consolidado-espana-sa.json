@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CONSOLIDADO ESPANA, S.A..",
   "legalName": "BANCO CONSOLIDADO ESPANA, S.A..",
-  "bic": "CONSESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoconsolidadoespanasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONSESM1XXX"
 }

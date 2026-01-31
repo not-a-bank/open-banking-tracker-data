@@ -8,7 +8,6 @@
   ],
   "name": "MICEX VOLGA REGION ZAO",
   "legalName": "MICEX VOLGA REGION ZAO",
-  "bic": "NNCSRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.micexvolgaregionzao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NNCSRU21XXX"
 }

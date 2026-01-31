@@ -8,7 +8,6 @@
   ],
   "name": "CJSC AGROPROMBANK'",
   "legalName": "CJSC AGROPROMBANK'",
-  "bic": "AGRRMD21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cjscagroprombank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRRMD21XXX"
 }

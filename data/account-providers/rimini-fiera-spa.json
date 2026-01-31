@@ -8,7 +8,6 @@
   ],
   "name": "RIMINI FIERA S.P.A.",
   "legalName": "RIMINI FIERA S.P.A.",
-  "bic": "RIMIIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.riminifieraspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RIMIIT21XXX"
 }

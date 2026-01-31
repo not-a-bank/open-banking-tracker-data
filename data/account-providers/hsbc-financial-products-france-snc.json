@@ -8,7 +8,6 @@
   ],
   "name": "HSBC FINANCIAL PRODUCTS (FRANCE) SNC",
   "legalName": "HSBC FINANCIAL PRODUCTS (FRANCE) SNC",
-  "bic": "HFPFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcfinancialproductsfrancesnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HFPFFRP1XXX"
 }

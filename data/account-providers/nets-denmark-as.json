@@ -8,7 +8,6 @@
   ],
   "name": "NETS DENMARK A/S",
   "legalName": "NETS DENMARK A/S",
-  "bic": "PBSEDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.netsdenmarkas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBSEDK21XXX"
 }

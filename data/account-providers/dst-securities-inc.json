@@ -8,7 +8,6 @@
   ],
   "name": "DST SECURITIES INC",
   "legalName": "DST SECURITIES INC",
-  "bic": "DSTSUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dstsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DSTSUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF SUDAN",
   "legalName": "NATIONAL BANK OF SUDAN",
-  "bic": "NBSUSDKHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofsudan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBSUSDKHXXX"
 }

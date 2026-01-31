@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK BALINGEN EG",
   "legalName": "VOLKSBANK BALINGEN EG",
-  "bic": "VOBLDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankbalingeneg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOBLDE61XXX"
 }

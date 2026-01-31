@@ -8,7 +8,6 @@
   ],
   "name": "BELGORODSOCBANK",
   "legalName": "BELGORODSOCBANK",
-  "bic": "BELORU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.belgorodsocbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BELORU21XXX"
 }

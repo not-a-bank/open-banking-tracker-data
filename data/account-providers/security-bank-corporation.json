@@ -8,7 +8,6 @@
   ],
   "name": "SECURITY BANK CORPORATION",
   "legalName": "SECURITY BANK CORPORATION",
-  "bic": "SETCPHMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.securitybankcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SETCPHMMXXX"
 }

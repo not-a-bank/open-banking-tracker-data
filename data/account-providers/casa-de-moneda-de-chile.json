@@ -8,7 +8,6 @@
   ],
   "name": "CASA DE MONEDA DE CHILE",
   "legalName": "CASA DE MONEDA DE CHILE",
-  "bic": "CAMCCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.casademonedadechile.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAMCCLR1XXX"
 }

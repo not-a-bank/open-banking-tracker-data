@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA, MALAYSIA BERHAD",
   "legalName": "BANK OF AMERICA, MALAYSIA BERHAD",
-  "bic": "BOFAMY2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericamalaysiaberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAMY2XXXX"
 }

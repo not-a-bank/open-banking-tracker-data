@@ -8,7 +8,6 @@
   ],
   "name": "HOMESTREET BANK",
   "legalName": "HOMESTREET BANK",
-  "bic": "HOMSUS6SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.homestreetbank.com.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOMSUS6SXXX"
 }

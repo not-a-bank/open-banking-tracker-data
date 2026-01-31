@@ -8,7 +8,6 @@
   ],
   "name": "THE LONDON CLEARING HOUSE LIMITED",
   "legalName": "THE LONDON CLEARING HOUSE LIMITED",
-  "bic": "LCHLGB2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thelondonclearinghouselimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LCHLGB2XXXX"
 }

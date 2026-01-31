@@ -8,7 +8,6 @@
   ],
   "name": "WLM SECURITIES LIMITED",
   "legalName": "WLM SECURITIES LIMITED",
-  "bic": "WLSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wlmsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WLSEGB21XXX"
 }

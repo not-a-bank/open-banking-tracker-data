@@ -8,7 +8,6 @@
   ],
   "name": "NOOR BANK P.J.S.C.",
   "legalName": "NOOR BANK P.J.S.C.",
-  "bic": "NISLAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.noorbankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NISLAEADXXX"
 }

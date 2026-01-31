@@ -8,7 +8,6 @@
   ],
   "name": "CHIARA FINANCE S.R.L.",
   "legalName": "CHIARA FINANCE S.R.L.",
-  "bic": "CIELITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chiarafinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIELITR1XXX"
 }

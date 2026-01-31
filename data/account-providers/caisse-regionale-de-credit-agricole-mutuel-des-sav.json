@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DES SAVOIE",
   "legalName": "CAISSE REGIONALE DE CREDIT AGRICOLE MUTUEL DES SAVOIE",
-  "bic": "CGCUFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseregionaledecreditagricolemutueldessav.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGCUFR21XXX"
 }

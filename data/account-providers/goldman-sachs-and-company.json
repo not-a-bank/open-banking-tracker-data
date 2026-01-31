@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS AND COMPANY",
   "legalName": "GOLDMAN SACHS AND COMPANY",
-  "bic": "GSCOHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsandcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSCOHKH1XXX"
 }

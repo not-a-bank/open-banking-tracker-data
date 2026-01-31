@@ -8,7 +8,6 @@
   ],
   "name": "2I2C ASSET MANAGEMENT",
   "legalName": "2I2C ASSET MANAGEMENT",
-  "bic": "AMATFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.2i2cassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMATFRP1XXX"
 }

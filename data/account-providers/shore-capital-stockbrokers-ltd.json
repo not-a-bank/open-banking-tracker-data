@@ -8,7 +8,6 @@
   ],
   "name": "SHORE CAPITAL STOCKBROKERS LTD.",
   "legalName": "SHORE CAPITAL STOCKBROKERS LTD.",
-  "bic": "SHOCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shorecapitalstockbrokersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHOCGB21XXX"
 }

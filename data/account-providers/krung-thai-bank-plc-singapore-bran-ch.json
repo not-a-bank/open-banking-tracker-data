@@ -8,7 +8,6 @@
   ],
   "name": "KRUNG THAI BANK PLC, SINGAPORE BRAN CH",
   "legalName": "KRUNG THAI BANK PLC, SINGAPORE BRAN CH",
-  "bic": "KRTHSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.krungthaibankplcsingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KRTHSGSGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "COSMOREX S.A. GENEVE",
   "legalName": "COSMOREX S.A. GENEVE",
-  "bic": "COGECHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cosmorexsageneve.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COGECHG1XXX"
 }

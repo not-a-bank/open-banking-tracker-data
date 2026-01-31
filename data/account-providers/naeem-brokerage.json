@@ -8,7 +8,6 @@
   ],
   "name": "NAEEM BROKERAGE",
   "legalName": "NAEEM BROKERAGE",
-  "bic": "NAEEEGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.naeembrokerage.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAEEEGC1XXX"
 }

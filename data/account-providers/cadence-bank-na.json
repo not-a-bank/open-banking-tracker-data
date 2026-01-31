@@ -8,7 +8,6 @@
   ],
   "name": "CADENCE BANK, N.A.",
   "legalName": "CADENCE BANK, N.A.",
-  "bic": "CDBKUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cadencebankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDBKUS44XXX"
 }

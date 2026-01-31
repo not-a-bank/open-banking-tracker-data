@@ -8,7 +8,6 @@
   ],
   "name": "SPIRICA",
   "legalName": "SPIRICA",
-  "bic": "SIIRFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spirica.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIIRFRP1XXX"
 }

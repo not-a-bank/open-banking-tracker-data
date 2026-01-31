@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF TAIWAN (EUROPE) N.V.",
   "legalName": "BANK OF TAIWAN (EUROPE) N.V.",
-  "bic": "TAIPNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankoftaiwaneuropenv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAIPNL21XXX"
 }

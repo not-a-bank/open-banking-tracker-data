@@ -8,7 +8,6 @@
   ],
   "name": "METSAMAAN OSUUSPANKKI",
   "legalName": "METSAMAAN OSUUSPANKKI",
-  "bic": "MEOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.metsamaanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEOUFI21XXX"
 }

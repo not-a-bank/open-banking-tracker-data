@@ -8,7 +8,6 @@
   ],
   "name": "MERCATO CONTINUO ESPANOL",
   "legalName": "MERCATO CONTINUO ESPANOL",
-  "bic": "XMCEESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mercatocontinuoespanol.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMCEESB1XXX"
 }

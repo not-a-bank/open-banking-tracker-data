@@ -8,7 +8,6 @@
   ],
   "name": "PRIVATBANK REITHINGER GMBH AND CO. KG",
   "legalName": "PRIVATBANK REITHINGER GMBH AND CO. KG",
-  "bic": "REITDE61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.privatbankreithingergmbhandcokg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REITDE61XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ALLOZY FINANCIAL TRUST",
   "legalName": "ALLOZY FINANCIAL TRUST",
-  "bic": "ALIUNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allozyfinancialtrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALIUNZ21XXX"
 }

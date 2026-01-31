@@ -9,7 +9,6 @@
   ],
   "name": "PACIFIC WESTERN BANK",
   "legalName": "PACIFIC WESTERN BANK",
-  "bic": "FNSDUS6DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1616012196/radar/icons/pacwest.png",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNSDUS6DXXX"
 }

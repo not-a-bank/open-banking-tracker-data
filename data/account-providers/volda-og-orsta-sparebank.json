@@ -8,7 +8,6 @@
   ],
   "name": "VOLDA OG ORSTA SPAREBANK",
   "legalName": "VOLDA OG ORSTA SPAREBANK",
-  "bic": "VOLDNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.voldaogorstasparebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOLDNO21XXX"
 }

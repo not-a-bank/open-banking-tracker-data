@@ -8,7 +8,6 @@
   ],
   "name": "ARROCHE",
   "legalName": "ARROCHE",
-  "bic": "ARROFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arroche.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARROFRP1XXX"
 }

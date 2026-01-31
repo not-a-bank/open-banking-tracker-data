@@ -8,7 +8,6 @@
   ],
   "name": "VW GROUP RUS",
   "legalName": "VW GROUP RUS",
-  "bic": "GRUURU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vwgrouprus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRUURU21XXX"
 }

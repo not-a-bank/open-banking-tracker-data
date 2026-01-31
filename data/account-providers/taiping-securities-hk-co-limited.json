@@ -8,7 +8,6 @@
   ],
   "name": "TAIPING SECURITIES (HK) CO LIMITED",
   "legalName": "TAIPING SECURITIES (HK) CO LIMITED",
-  "bic": "TSECHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.taipingsecuritieshkcolimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TSECHKH1XXX"
 }

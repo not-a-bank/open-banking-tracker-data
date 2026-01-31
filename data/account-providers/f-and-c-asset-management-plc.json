@@ -8,7 +8,6 @@
   ],
   "name": "F AND C ASSET MANAGEMENT PLC",
   "legalName": "F AND C ASSET MANAGEMENT PLC",
-  "bic": "FRISGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fandcassetmanagementplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRISGB21XXX"
 }

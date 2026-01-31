@@ -8,7 +8,6 @@
   ],
   "name": "SCHRODER INVESTMENT MANAGEMENT (UK) LTD",
   "legalName": "SCHRODER INVESTMENT MANAGEMENT (UK) LTD",
-  "bic": "SIMUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schroderinvestmentmanagementukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIMUGB21XXX"
 }

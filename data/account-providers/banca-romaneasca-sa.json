@@ -8,7 +8,6 @@
   ],
   "name": "BANCA ROMANEASCA S.A.",
   "legalName": "BANCA ROMANEASCA S.A.",
-  "bic": "BRMAROBUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaromaneascasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRMAROBUXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CAJA DE VALORES S.A.",
   "legalName": "CAJA DE VALORES S.A.",
-  "bic": "CAVLARBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cajadevaloressa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAVLARBAXXX"
 }

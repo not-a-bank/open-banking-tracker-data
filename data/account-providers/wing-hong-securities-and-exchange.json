@@ -8,7 +8,6 @@
   ],
   "name": "WING HONG SECURITIES AND EXCHANGE",
   "legalName": "WING HONG SECURITIES AND EXCHANGE",
-  "bic": "WHSEHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.winghongsecuritiesandexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WHSEHKH1XXX"
 }

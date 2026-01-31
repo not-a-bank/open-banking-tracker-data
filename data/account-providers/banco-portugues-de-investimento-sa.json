@@ -8,7 +8,6 @@
   ],
   "name": "BANCO PORTUGUES DE INVESTIMENTO S.A.",
   "legalName": "BANCO PORTUGUES DE INVESTIMENTO S.A.",
-  "bic": "BPIPPTPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoportuguesdeinvestimentosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPIPPTPLXXX"
 }

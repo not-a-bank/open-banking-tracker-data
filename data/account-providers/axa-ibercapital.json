@@ -8,7 +8,6 @@
   ],
   "name": "AXA IBERCAPITAL",
   "legalName": "AXA IBERCAPITAL",
-  "bic": "AXIBESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axaibercapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXIBESM1XXX"
 }

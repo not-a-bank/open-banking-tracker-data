@@ -8,7 +8,6 @@
   ],
   "name": "CERDO BANKPARTNER AB",
   "legalName": "CERDO BANKPARTNER AB",
-  "bic": "CERDSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cerdobankpartnerab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CERDSE21XXX"
 }

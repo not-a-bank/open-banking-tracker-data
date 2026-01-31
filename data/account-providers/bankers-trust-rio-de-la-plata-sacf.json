@@ -8,7 +8,6 @@
   ],
   "name": "BANKERS TRUST RIO DE LA PLATA SACF",
   "legalName": "BANKERS TRUST RIO DE LA PLATA SACF",
-  "bic": "BKTRARB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankerstrustriodelaplatasacf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKTRARB1XXX"
 }

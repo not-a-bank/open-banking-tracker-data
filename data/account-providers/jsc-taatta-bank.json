@@ -8,7 +8,6 @@
   ],
   "name": "JSC TAATTA BANK",
   "legalName": "JSC TAATTA BANK",
-  "bic": "TAAARU81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jsctaattabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TAAARU81XXX"
 }

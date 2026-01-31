@@ -8,7 +8,6 @@
   ],
   "name": "SANWA SECURITIES CO LP",
   "legalName": "SANWA SECURITIES CO LP",
-  "bic": "SAECGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sanwasecuritiescolp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAECGB21XXX"
 }

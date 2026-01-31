@@ -8,7 +8,6 @@
   ],
   "name": "FIDE SPA",
   "legalName": "FIDE SPA",
-  "bic": "FDDEIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDDEIT31XXX"
 }

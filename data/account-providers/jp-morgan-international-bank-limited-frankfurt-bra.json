@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN INTERNATIONAL BANK LIMITED, FRANKFURT BRANCH",
   "legalName": "J.P. MORGAN INTERNATIONAL BANK LIMITED, FRANKFURT BRANCH",
-  "bic": "JPMGDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganinternationalbanklimitedfrankfurtbra.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JPMGDEFFXXX"
 }

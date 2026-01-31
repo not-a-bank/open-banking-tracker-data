@@ -8,7 +8,6 @@
   ],
   "name": "AGCO FINANCE SNC",
   "legalName": "AGCO FINANCE SNC",
-  "bic": "AGFCFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agcofinancesnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGFCFR21XXX"
 }

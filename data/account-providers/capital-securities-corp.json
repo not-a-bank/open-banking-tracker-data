@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL SECURITIES CORP.",
   "legalName": "CAPITAL SECURITIES CORP.",
-  "bic": "CAPUHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalsecuritiescorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAPUHKH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EVEN FINANCE",
   "legalName": "EVEN FINANCE",
-  "bic": "EVFIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.evenfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EVFIFRP1XXX"
 }

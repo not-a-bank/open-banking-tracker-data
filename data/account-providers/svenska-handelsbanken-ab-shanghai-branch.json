@@ -8,7 +8,6 @@
   ],
   "name": "SVENSKA HANDELSBANKEN AB, SHANGHAI BRANCH",
   "legalName": "SVENSKA HANDELSBANKEN AB, SHANGHAI BRANCH",
-  "bic": "HANDCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.svenskahandelsbankenabshanghaibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HANDCNSHXXX"
 }

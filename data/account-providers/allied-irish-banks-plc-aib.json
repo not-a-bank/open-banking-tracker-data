@@ -8,7 +8,6 @@
   ],
   "name": "ALLIED IRISH BANKS PLC (AIB)",
   "legalName": "ALLIED IRISH BANKS PLC (AIB)",
-  "bic": "ALRBFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alliedirishbanksplcaib.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALRBFRP1XXX"
 }

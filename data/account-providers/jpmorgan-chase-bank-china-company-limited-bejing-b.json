@@ -8,7 +8,6 @@
   ],
   "name": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED BEJING BRANCH",
   "legalName": "JPMORGAN CHASE BANK (CHINA) COMPANY LIMITED BEJING BRANCH",
-  "bic": "CHASCN22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganchasebankchinacompanylimitedbejingb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASCN22XXX"
 }

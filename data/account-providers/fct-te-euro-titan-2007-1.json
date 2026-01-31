@@ -8,7 +8,6 @@
   ],
   "name": "FCT TE EURO (TITAN 2007-1)",
   "legalName": "FCT TE EURO (TITAN 2007-1)",
-  "bic": "FCETFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fctteeurotitan20071.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCETFRP1XXX"
 }

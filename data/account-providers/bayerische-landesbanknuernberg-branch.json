@@ -8,7 +8,6 @@
   ],
   "name": "BAYERISCHE LANDESBANK,NUERNBERG BRANCH",
   "legalName": "BAYERISCHE LANDESBANK,NUERNBERG BRANCH",
-  "bic": "BYLADE77XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bayerischelandesbanknuernbergbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BYLADE77XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HSBC PRIVATE BANK INTERNATIONAL",
   "legalName": "HSBC PRIVATE BANK INTERNATIONAL",
-  "bic": "HSBCUS3MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcprivatebankinternational.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSBCUS3MXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FIIG SECURITIES LIMITED",
   "legalName": "FIIG SECURITIES LIMITED",
-  "bic": "FIURAU41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fiigsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIURAU41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "IDEA BANK",
   "legalName": "IDEA BANK",
-  "bic": "SOMABY22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ideabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOMABY22XXX"
 }

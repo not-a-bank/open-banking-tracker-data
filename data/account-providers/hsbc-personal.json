@@ -1,0 +1,32 @@
+{
+  "id": "hsbc-personal",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "HSBC Personal",
+  "legalName": "HSBC Personal",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.hsbc-personal.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "HBUKGB4B"
+}

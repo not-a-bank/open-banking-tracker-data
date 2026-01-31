@@ -8,7 +8,6 @@
   ],
   "name": "NAVA SC SECURITIES RESEARCH (M) SDN BHD.",
   "legalName": "NAVA SC SECURITIES RESEARCH (M) SDN BHD.",
-  "bic": "SCSEMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.navascsecuritiesresearchmsdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCSEMYK1XXX"
 }

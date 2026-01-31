@@ -8,7 +8,6 @@
   ],
   "name": "TELESIS SECURITIES SA",
   "legalName": "TELESIS SECURITIES SA",
-  "bic": "TESCGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.telesissecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TESCGRA1XXX"
 }

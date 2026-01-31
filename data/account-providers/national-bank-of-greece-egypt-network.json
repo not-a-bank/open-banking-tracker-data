@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF GREECE, (EGYPT NETWORK)",
   "legalName": "NATIONAL BANK OF GREECE, (EGYPT NETWORK)",
-  "bic": "ETHNEGCAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofgreeceegyptnetwork.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETHNEGCAXXX"
 }

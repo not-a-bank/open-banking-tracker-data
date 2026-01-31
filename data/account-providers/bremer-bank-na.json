@@ -8,7 +8,6 @@
   ],
   "name": "BREMER BANK N.A.",
   "legalName": "BREMER BANK N.A.",
-  "bic": "BRFSUS4TXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bremerbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRFSUS4TXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ROYAL BANK OJSC",
   "legalName": "ROYAL BANK OJSC",
-  "bic": "ROBKAZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.royalbankojsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROBKAZ21XXX"
 }

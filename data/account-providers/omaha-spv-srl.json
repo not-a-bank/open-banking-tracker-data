@@ -8,7 +8,6 @@
   ],
   "name": "OMAHA SPV SRL",
   "legalName": "OMAHA SPV SRL",
-  "bic": "OMSSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.omahaspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OMSSITM1XXX"
 }

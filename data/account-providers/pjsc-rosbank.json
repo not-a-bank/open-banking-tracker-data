@@ -8,7 +8,6 @@
   ],
   "name": "PJSC ROSBANK",
   "legalName": "PJSC ROSBANK",
-  "bic": "RSBNRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscrosbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RSBNRUM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL COOPERATIVE BANK AD SKOPJE",
   "legalName": "CENTRAL COOPERATIVE BANK AD SKOPJE",
-  "bic": "CECBMK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralcooperativebankadskopje.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CECBMK22XXX"
 }

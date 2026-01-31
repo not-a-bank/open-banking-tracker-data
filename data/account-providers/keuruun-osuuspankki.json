@@ -8,7 +8,6 @@
   ],
   "name": "KEURUUN OSUUSPANKKI",
   "legalName": "KEURUUN OSUUSPANKKI",
-  "bic": "KEOAFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.keuruunosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KEOAFI21XXX"
 }

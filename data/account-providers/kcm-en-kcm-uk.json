@@ -8,7 +8,6 @@
   ],
   "name": "KCM EN KCM (UK)",
   "legalName": "KCM EN KCM (UK)",
-  "bic": "KCKCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kcmenkcmuk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KCKCGB21XXX"
 }

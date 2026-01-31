@@ -8,7 +8,6 @@
   ],
   "name": "CAIXA ECONOMICA SOCIAL",
   "legalName": "CAIXA ECONOMICA SOCIAL",
-  "bic": "CAEOPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixaeconomicasocial.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAEOPTP1XXX"
 }

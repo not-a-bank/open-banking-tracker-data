@@ -8,7 +8,6 @@
   ],
   "name": "GOOGLE IRELAND HOLDINGS",
   "legalName": "GOOGLE IRELAND HOLDINGS",
-  "bic": "GOOGIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.googleirelandholdings.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOOGIE21XXX"
 }

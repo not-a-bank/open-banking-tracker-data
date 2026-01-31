@@ -8,7 +8,6 @@
   ],
   "name": "TMCI PADOVAN S.P.A.",
   "legalName": "TMCI PADOVAN S.P.A.",
-  "bic": "TMPAIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tmcipadovanspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TMPAIT21XXX"
 }

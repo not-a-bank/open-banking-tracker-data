@@ -8,7 +8,6 @@
   ],
   "name": "MACQUARIE CAPITAL LIMITED, TAIWAN SECURITIES BRANCH",
   "legalName": "MACQUARIE CAPITAL LIMITED, TAIWAN SECURITIES BRANCH",
-  "bic": "BSECTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macquariecapitallimitedtaiwansecuritiesbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSECTWT1XXX"
 }

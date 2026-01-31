@@ -8,7 +8,6 @@
   ],
   "name": "ARGON SPV SRL",
   "legalName": "ARGON SPV SRL",
-  "bic": "ARVLITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.argonspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARVLITM1XXX"
 }

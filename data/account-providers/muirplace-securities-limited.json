@@ -8,7 +8,6 @@
   ],
   "name": "MUIRPLACE SECURITIES LIMITED",
   "legalName": "MUIRPLACE SECURITIES LIMITED",
-  "bic": "MUISGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.muirplacesecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUISGB21XXX"
 }

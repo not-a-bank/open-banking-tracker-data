@@ -8,7 +8,6 @@
   ],
   "name": "WAH TAT BANK BERHAD",
   "legalName": "WAH TAT BANK BERHAD",
-  "bic": "WTBBMY31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wahtatbankberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WTBBMY31XXX"
 }

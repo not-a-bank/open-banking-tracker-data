@@ -8,7 +8,6 @@
   ],
   "name": "BANCA POPOLARE DI SPOLETO SPA",
   "legalName": "BANCA POPOLARE DI SPOLETO SPA",
-  "bic": "BPSPIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancapopolaredispoletospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPSPIT31XXX"
 }

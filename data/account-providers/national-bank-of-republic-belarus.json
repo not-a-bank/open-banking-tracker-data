@@ -8,7 +8,6 @@
   ],
   "name": "National Bank OF Republic Belarus",
   "legalName": "NATIONAL BANK OF REPUBLIC BELARUS",
-  "bic": "NBRBBY2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBRBBY2XXXX"
 }

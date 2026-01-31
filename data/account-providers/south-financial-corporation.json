@@ -8,7 +8,6 @@
   ],
   "name": "SOUTH FINANCIAL CORPORATION",
   "legalName": "SOUTH FINANCIAL CORPORATION",
-  "bic": "SFCOUYM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southfinancialcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFCOUYM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA SAVINGS 75",
   "legalName": "NORDEA SAVINGS 75",
-  "bic": "NOVVFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeasavings75.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOVVFIH1XXX"
 }

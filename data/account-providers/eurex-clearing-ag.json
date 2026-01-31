@@ -8,7 +8,6 @@
   ],
   "name": "EUREX CLEARING AG",
   "legalName": "EUREX CLEARING AG",
-  "bic": "EUXCDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurexclearingag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUXCDEFFXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIABANK EUROPE PLC",
   "legalName": "SCOTIABANK EUROPE PLC",
-  "bic": "NOSCGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiabankeuropeplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSCGB2LXXX"
 }

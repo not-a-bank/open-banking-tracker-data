@@ -8,7 +8,6 @@
   ],
   "name": "SHARQ FINANCIAL BROKERAGE CO.",
   "legalName": "SHARQ FINANCIAL BROKERAGE CO.",
-  "bic": "SHFBKWK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sharqfinancialbrokerageco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHFBKWK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UBS SECURITIES PTE. LTD.",
   "legalName": "UBS SECURITIES PTE. LTD.",
-  "bic": "WSSPSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubssecuritiespteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WSSPSGS1XXX"
 }

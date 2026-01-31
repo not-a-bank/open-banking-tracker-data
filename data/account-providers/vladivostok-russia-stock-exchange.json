@@ -8,7 +8,6 @@
   ],
   "name": "VLADIVOSTOK (RUSSIA) STOCK EXCHANGE",
   "legalName": "VLADIVOSTOK (RUSSIA) STOCK EXCHANGE",
-  "bic": "XVLARU81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vladivostokrussiastockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XVLARU81XXX"
 }

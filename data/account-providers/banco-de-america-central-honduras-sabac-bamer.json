@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE AMERICA CENTRAL HONDURAS, S.A.(BAC BAMER)",
   "legalName": "BANCO DE AMERICA CENTRAL HONDURAS, S.A.(BAC BAMER)",
-  "bic": "BMILHNTEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodeamericacentralhondurassabacbamer.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMILHNTEXXX"
 }

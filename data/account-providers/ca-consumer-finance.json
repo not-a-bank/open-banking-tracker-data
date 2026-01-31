@@ -8,7 +8,6 @@
   ],
   "name": "CA CONSUMER FINANCE",
   "legalName": "CA CONSUMER FINANCE",
-  "bic": "AGRLFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caconsumerfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRLFR22XXX"
 }

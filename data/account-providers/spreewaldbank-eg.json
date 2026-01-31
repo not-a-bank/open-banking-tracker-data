@@ -9,7 +9,6 @@
   ],
   "name": "SPREEWALDBANK EG",
   "legalName": "SPREEWALDBANK EG",
-  "bic": "SPWNDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPWNDE51XXX"
 }

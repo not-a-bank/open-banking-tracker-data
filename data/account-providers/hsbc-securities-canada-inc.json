@@ -8,7 +8,6 @@
   ],
   "name": "HSBC SECURITIES (CANADA) INC.",
   "legalName": "HSBC SECURITIES (CANADA) INC.",
-  "bic": "HJCCCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcsecuritiescanadainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HJCCCAT1XXX"
 }

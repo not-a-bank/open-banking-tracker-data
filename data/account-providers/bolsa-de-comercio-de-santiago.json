@@ -8,7 +8,6 @@
   ],
   "name": "BOLSA DE COMERCIO DE SANTIAGO",
   "legalName": "BOLSA DE COMERCIO DE SANTIAGO",
-  "bic": "XSGOCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bolsadecomerciodesantiago.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSGOCLR1XXX"
 }

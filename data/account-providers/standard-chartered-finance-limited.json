@@ -8,7 +8,6 @@
   ],
   "name": "STANDARD CHARTERED FINANCE LIMITED",
   "legalName": "STANDARD CHARTERED FINANCE LIMITED",
-  "bic": "STCHHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.standardcharteredfinancelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STCHHKH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ORIVEDEN SEUDUN OSUUSPANKKI",
   "legalName": "ORIVEDEN SEUDUN OSUUSPANKKI",
-  "bic": "ORSOFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orivedenseudunosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORSOFI21XXX"
 }

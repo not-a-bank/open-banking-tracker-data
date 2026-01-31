@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE Comercio Exterior DE Colombia S.a.",
   "legalName": "BANCO DE COMERCIO EXTERIOR DE COLOMBIA S.A.",
-  "bic": "BCEXCOBBXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCEXCOBBXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ENI S.P.A.",
   "legalName": "ENI S.P.A.",
-  "bic": "ENIEITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENIEITR1XXX"
 }

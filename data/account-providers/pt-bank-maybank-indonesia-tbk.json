@@ -8,7 +8,6 @@
   ],
   "name": "PT BANK MAYBANK INDONESIA TBK",
   "legalName": "PT BANK MAYBANK INDONESIA TBK",
-  "bic": "IBBKINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbankmaybankindonesiatbk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBBKINBBXXX"
 }

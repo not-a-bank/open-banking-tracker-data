@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE NATIONALE DE BELGIQUE",
   "legalName": "BANQUE NATIONALE DE BELGIQUE",
-  "bic": "NBBEBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquenationaledebelgique.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBBEBEBBXXX"
 }

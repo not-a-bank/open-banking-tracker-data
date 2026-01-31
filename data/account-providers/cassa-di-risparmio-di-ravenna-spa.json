@@ -8,7 +8,6 @@
   ],
   "name": "CASSA DI RISPARMIO DI RAVENNA S.P.A.",
   "legalName": "CASSA DI RISPARMIO DI RAVENNA S.P.A.",
-  "bic": "CRRAIT2RXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cassadirisparmiodiravennaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRRAIT2RXXX"
 }

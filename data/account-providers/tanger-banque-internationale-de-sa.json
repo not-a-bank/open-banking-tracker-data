@@ -8,7 +8,6 @@
   ],
   "name": "TANGER (BANQUE INTERNATIONALE DE) SA",
   "legalName": "TANGER (BANQUE INTERNATIONALE DE) SA",
-  "bic": "ITABMAM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tangerbanqueinternationaledesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITABMAM1XXX"
 }

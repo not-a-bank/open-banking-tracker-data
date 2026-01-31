@@ -8,7 +8,6 @@
   ],
   "name": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
   "legalName": "EUROCLEAR BELGIUM (PREVIOUSLY KNOWN AS CIK BELGIUM)",
-  "bic": "CIKBBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euroclearbelgiumpreviouslyknownascikbelgium.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIKBBEBBXXX"
 }

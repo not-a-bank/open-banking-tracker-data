@@ -8,7 +8,6 @@
   ],
   "name": "SPLITSKA BANKA DD",
   "legalName": "SPLITSKA BANKA DD",
-  "bic": "SOGEHR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.splitskabankadd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGEHR22XXX"
 }

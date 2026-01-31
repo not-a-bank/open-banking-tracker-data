@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE D'EPARGNE DE NOUVELLE CALEDONIE",
   "legalName": "CAISSE D'EPARGNE DE NOUVELLE CALEDONIE",
-  "bic": "CDNCNCN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedepargnedenouvellecaledonie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDNCNCN1XXX"
 }

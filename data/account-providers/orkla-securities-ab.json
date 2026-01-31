@@ -8,7 +8,6 @@
   ],
   "name": "ORKLA SECURITIES AB",
   "legalName": "ORKLA SECURITIES AB",
-  "bic": "ORKESES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orklasecuritiesab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORKESES1XXX"
 }

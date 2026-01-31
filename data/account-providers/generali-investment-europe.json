@@ -8,7 +8,6 @@
   ],
   "name": "GENERALI INVESTMENT EUROPE",
   "legalName": "GENERALI INVESTMENT EUROPE",
-  "bic": "GIEUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.generaliinvestmenteurope.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIEUFRP1XXX"
 }

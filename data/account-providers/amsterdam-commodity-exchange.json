@@ -8,7 +8,6 @@
   ],
   "name": "AMSTERDAM COMMODITY EXCHANGE",
   "legalName": "AMSTERDAM COMMODITY EXCHANGE",
-  "bic": "XACENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amsterdamcommodityexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XACENL21XXX"
 }

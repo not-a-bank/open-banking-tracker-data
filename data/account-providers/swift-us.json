@@ -8,7 +8,6 @@
   ],
   "name": "SWIFT",
   "legalName": "SWIFT",
-  "bic": "SWHQUS3NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swiftus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWHQUS3NXXX"
 }

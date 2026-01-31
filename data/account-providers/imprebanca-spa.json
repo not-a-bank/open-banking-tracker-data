@@ -8,7 +8,6 @@
   ],
   "name": "IMPREBANCA S.P.A.",
   "legalName": "IMPREBANCA S.P.A.",
-  "bic": "IMPAITRRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.imprebancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMPAITRRXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MANULIFE FINANCIAL CORPORATION",
   "legalName": "MANULIFE FINANCIAL CORPORATION",
-  "bic": "MFCTCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.manulifefinancialcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MFCTCATTXXX"
 }

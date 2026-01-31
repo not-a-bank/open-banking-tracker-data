@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER S.A.",
   "legalName": "BANCO SANTANDER S.A.",
-  "bic": "BSCHFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantandersafr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHFRPPXXX"
 }

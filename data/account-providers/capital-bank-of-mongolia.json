@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL BANK OF MONGOLIA",
   "legalName": "CAPITAL BANK OF MONGOLIA",
-  "bic": "CBMNMNUBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalbankofmongolia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBMNMNUBXXX"
 }

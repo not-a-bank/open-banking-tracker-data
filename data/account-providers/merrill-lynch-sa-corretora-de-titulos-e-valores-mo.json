@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH S.A. CORRETORA DE TITULOS E VALORES MOBILIARIOS",
   "legalName": "MERRILL LYNCH S.A. CORRETORA DE TITULOS E VALORES MOBILIARIOS",
-  "bic": "MLCVBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchsacorretoradetitulosevaloresmo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLCVBRS1XXX"
 }

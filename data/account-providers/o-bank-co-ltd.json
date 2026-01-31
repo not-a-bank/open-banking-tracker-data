@@ -8,7 +8,6 @@
   ],
   "name": "O-BANK CO., LTD",
   "legalName": "O-BANK CO., LTD",
-  "bic": "IBOTHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.obankcoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBOTHKHHXXX"
 }

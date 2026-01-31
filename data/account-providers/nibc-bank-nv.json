@@ -8,7 +8,6 @@
   ],
   "name": "NIBC BANK N.V",
   "legalName": "NIBC BANK N.V",
-  "bic": "DNIBBE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nibcbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNIBBE21XXX"
 }

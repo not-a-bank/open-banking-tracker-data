@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE CANTONALE DU JURA SA",
   "legalName": "BANQUE CANTONALE DU JURA SA",
-  "bic": "BCJUCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecantonaledujurasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCJUCH22XXX"
 }

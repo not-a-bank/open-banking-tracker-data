@@ -8,7 +8,6 @@
   ],
   "name": "PT BANK MANDIRI (PERSERO) HK BRANCH",
   "legalName": "PT BANK MANDIRI (PERSERO) HK BRANCH",
-  "bic": "BMRIHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbankmandiriperserohkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMRIHKHHXXX"
 }

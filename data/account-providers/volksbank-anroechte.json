@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Anr\u00f6chte",
-  "legalName": "Volksbank Anr\u00f6chte",
+  "name": "Volksbank Anröchte",
+  "legalName": "Volksbank Anröchte",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-anroechte.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

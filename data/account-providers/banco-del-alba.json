@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DEL ALBA",
   "legalName": "BANCO DEL ALBA",
-  "bic": "LLBAVECAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodelalba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LLBAVECAXXX"
 }

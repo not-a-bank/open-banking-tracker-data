@@ -8,7 +8,6 @@
   ],
   "name": "LE SOU MEDICAL",
   "legalName": "LE SOU MEDICAL",
-  "bic": "SOUMFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lesoumedical.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOUMFR21XXX"
 }

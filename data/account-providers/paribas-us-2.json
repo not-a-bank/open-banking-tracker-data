@@ -8,7 +8,6 @@
   ],
   "name": "PARIBAS",
   "legalName": "PARIBAS",
-  "bic": "PARBUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paribasus2.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARBUS61XXX"
 }

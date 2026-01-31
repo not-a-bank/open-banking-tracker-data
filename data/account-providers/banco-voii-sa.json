@@ -8,7 +8,6 @@
   ],
   "name": "BANCO VOII S.A.",
   "legalName": "BANCO VOII S.A.",
-  "bic": "VOIBARBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancovoiisa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOIBARBAXXX"
 }

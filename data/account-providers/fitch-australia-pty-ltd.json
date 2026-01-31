@@ -8,7 +8,6 @@
   ],
   "name": "FITCH AUSTRALIA PTY LTD.",
   "legalName": "FITCH AUSTRALIA PTY LTD.",
-  "bic": "FRIPAUS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchaustraliaptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPAUS1XXX"
 }

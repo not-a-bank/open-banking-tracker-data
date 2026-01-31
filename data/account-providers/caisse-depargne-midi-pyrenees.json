@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Caisse d'Epargne Midi Pyr\u00e9n\u00e9es",
-  "legalName": "Caisse d'Epargne Midi Pyr\u00e9n\u00e9es",
+  "name": "Caisse d'Epargne Midi Pyrénées",
+  "legalName": "Caisse d'Epargne Midi Pyrénées",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisse-depargne-midi-pyrenees.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

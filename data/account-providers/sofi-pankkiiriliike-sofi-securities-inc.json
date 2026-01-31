@@ -8,7 +8,6 @@
   ],
   "name": "SOFI PANKKIIRILIIKE SOFI SECURITIES INC",
   "legalName": "SOFI PANKKIIRILIIKE SOFI SECURITIES INC",
-  "bic": "SOPAFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sofipankkiiriliikesofisecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOPAFIH1XXX"
 }

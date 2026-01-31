@@ -8,7 +8,6 @@
   ],
   "name": "AIG ASSET MANAGEMENT (IRELAND) LIMITED",
   "legalName": "AIG ASSET MANAGEMENT (IRELAND) LIMITED",
-  "bic": "AGITIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aigassetmanagementirelandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGITIE21XXX"
 }

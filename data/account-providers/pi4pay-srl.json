@@ -8,7 +8,6 @@
   ],
   "name": "PI4PAY S.R.L.",
   "legalName": "PI4PAY S.R.L.",
-  "bic": "PIRLITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pi4paysrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PIRLITM1XXX"
 }

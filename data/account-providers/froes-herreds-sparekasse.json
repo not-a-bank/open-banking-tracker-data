@@ -8,7 +8,6 @@
   ],
   "name": "FROES HERREDS SPAREKASSE",
   "legalName": "FROES HERREDS SPAREKASSE",
-  "bic": "FROSDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.froesherredssparekasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FROSDK21XXX"
 }

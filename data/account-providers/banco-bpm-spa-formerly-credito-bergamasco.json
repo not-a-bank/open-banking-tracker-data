@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
   "legalName": "BANCO BPM SPA (FORMERLY CREDITO BERGAMASCO)",
-  "bic": "CREBIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobpmspaformerlycreditobergamasco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CREBIT21XXX"
 }

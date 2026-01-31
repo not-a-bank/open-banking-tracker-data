@@ -8,7 +8,6 @@
   ],
   "name": "IC CASH",
   "legalName": "IC CASH",
-  "bic": "CSHHDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.iccash.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSHHDE71XXX"
 }

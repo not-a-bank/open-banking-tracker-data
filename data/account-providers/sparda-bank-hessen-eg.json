@@ -9,7 +9,6 @@
   ],
   "name": "SPARDA-BANK HESSEN EG",
   "legalName": "SPARDA-BANK HESSEN EG",
-  "bic": "SPBKDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/sparda_de.svg",
@@ -30,11 +29,13 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "salt-edge",
     "volt",
     "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODEF1S12"
 }

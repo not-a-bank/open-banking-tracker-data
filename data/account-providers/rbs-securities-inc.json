@@ -8,7 +8,6 @@
   ],
   "name": "RBS SECURITIES INC.",
   "legalName": "RBS SECURITIES INC.",
-  "bic": "GRNWUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbssecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRNWUS33XXX"
 }

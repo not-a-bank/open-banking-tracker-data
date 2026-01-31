@@ -8,7 +8,6 @@
   ],
   "name": "QUAERO CAPITAL (FRANCE) S.A.S.",
   "legalName": "QUAERO CAPITAL (FRANCE) S.A.S.",
-  "bic": "QCFSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.quaerocapitalfrancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QCFSFRP1XXX"
 }

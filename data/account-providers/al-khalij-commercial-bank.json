@@ -8,7 +8,6 @@
   ],
   "name": "AL KHALIJ COMMERCIAL BANK",
   "legalName": "AL KHALIJ COMMERCIAL BANK",
-  "bic": "KLJIQAQAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alkhalijcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KLJIQAQAXXX"
 }

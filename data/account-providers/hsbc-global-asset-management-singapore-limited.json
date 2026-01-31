@@ -8,7 +8,6 @@
   ],
   "name": "HSBC GLOBAL ASSET MANAGEMENT (SINGAPORE) LIMITED",
   "legalName": "HSBC GLOBAL ASSET MANAGEMENT (SINGAPORE) LIMITED",
-  "bic": "HSMSSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcglobalassetmanagementsingaporelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSMSSGS1XXX"
 }

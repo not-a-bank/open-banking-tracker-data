@@ -8,7 +8,6 @@
   ],
   "name": "ING-DIBA AG (COMMERCIAL BANKING)",
   "legalName": "ING-DIBA AG (COMMERCIAL BANKING)",
-  "bic": "INGBDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingdibaagcommercialbanking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGBDEFFXXX"
 }

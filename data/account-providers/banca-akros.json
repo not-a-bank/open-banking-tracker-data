@@ -29,10 +29,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "plaid",
-    "volt",
+    "gocardless",
     "ibanity",
-    "salt-edge"
+    "plaid",
+    "salt-edge",
+    "volt"
   ],
   "ownership": [
     {
@@ -43,5 +44,5 @@
   ],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "AKROITMMXXX"
+  "bic": "AKROITMM"
 }

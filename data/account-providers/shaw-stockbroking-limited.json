@@ -8,7 +8,6 @@
   ],
   "name": "SHAW STOCKBROKING LIMITED",
   "legalName": "SHAW STOCKBROKING LIMITED",
-  "bic": "SHSGAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shawstockbrokinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHSGAU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NATEXIS ASSET SQUARE",
   "legalName": "NATEXIS ASSET SQUARE",
-  "bic": "NASQFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natexisassetsquare.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NASQFRP1XXX"
 }

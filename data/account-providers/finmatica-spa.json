@@ -8,7 +8,6 @@
   ],
   "name": "FINMATICA SPA",
   "legalName": "FINMATICA SPA",
-  "bic": "FNMTIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finmaticaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNMTIT21XXX"
 }

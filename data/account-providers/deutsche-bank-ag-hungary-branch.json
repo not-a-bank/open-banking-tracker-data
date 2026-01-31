@@ -8,7 +8,6 @@
   ],
   "name": "Deutsche Bank AG Hungary Branch",
   "legalName": "DEUTSCHE BANK AG HUNGARY BRANCH",
-  "bic": "DEUTHU2BXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTHU2BXXX"
 }

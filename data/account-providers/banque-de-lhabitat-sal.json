@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE L'HABITAT S.A.L.",
   "legalName": "BANQUE DE L'HABITAT S.A.L.",
-  "bic": "LHBALBBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedelhabitatsal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LHBALBBXXXX"
 }

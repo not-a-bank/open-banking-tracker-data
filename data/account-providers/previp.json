@@ -8,7 +8,6 @@
   ],
   "name": "PREVIP",
   "legalName": "PREVIP",
-  "bic": "PEEVITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.previp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PEEVITM1XXX"
 }

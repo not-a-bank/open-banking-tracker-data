@@ -8,7 +8,6 @@
   ],
   "name": "DOHA BANK",
   "legalName": "DOHA BANK",
-  "bic": "DOHBAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dohabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DOHBAEADXXX"
 }

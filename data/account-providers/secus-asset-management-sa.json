@@ -8,7 +8,6 @@
   ],
   "name": "SECUS ASSET MANAGEMENT SA",
   "legalName": "SECUS ASSET MANAGEMENT SA",
-  "bic": "SESNPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.secusassetmanagementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SESNPLP1XXX"
 }

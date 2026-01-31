@@ -8,7 +8,6 @@
   ],
   "name": "MOLLIE B.V.",
   "legalName": "MOLLIE B.V.",
-  "bic": "MLLENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.molliebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLLENL21XXX"
 }

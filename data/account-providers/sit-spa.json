@@ -8,7 +8,6 @@
   ],
   "name": "SIT S.P.A.",
   "legalName": "SIT S.P.A.",
-  "bic": "STTIIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sitspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STTIIT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "WIZINK BANK S.A.",
   "legalName": "WIZINK BANK S.A.",
-  "bic": "POPLESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wizinkbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POPLESMMXXX"
 }

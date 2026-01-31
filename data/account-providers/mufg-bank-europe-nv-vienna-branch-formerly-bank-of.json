@@ -8,7 +8,6 @@
   ],
   "name": "MUFG BANK (EUROPE) N.V. VIENNA BRANCH (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (HOLLAND) N.V.)",
   "legalName": "MUFG BANK (EUROPE) N.V. VIENNA BRANCH (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (HOLLAND) N.V.)",
-  "bic": "BOTKATWXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mufgbankeuropenvviennabranchformerlybankof.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTKATWXXXX"
 }

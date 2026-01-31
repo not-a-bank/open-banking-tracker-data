@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA LIFE ASSURANCE FINLAND LTD, NORDEA MAAILMA OSAKE",
   "legalName": "NORDEA LIFE ASSURANCE FINLAND LTD, NORDEA MAAILMA OSAKE",
-  "bic": "NLSDFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordealifeassurancefinlandltdnordeamaailmao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NLSDFIH1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "WHIDBEY ISLAND BANK",
   "legalName": "WHIDBEY ISLAND BANK",
-  "bic": "WBCOUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.whidbeyislandbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WBCOUS61XXX"
 }

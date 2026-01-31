@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE NIEDEROESTERREICH MITTE WEST AG",
   "legalName": "SPARKASSE NIEDEROESTERREICH MITTE WEST AG",
-  "bic": "SPSPAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasseniederoesterreichmittewestag.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPSPAT21XXX"
 }

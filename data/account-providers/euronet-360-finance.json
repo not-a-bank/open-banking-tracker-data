@@ -8,7 +8,6 @@
   ],
   "name": "EURONET 360 FINANCE",
   "legalName": "EURONET 360 FINANCE",
-  "bic": "EPCSGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euronet360finance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EPCSGB2LXXX"
 }

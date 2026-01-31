@@ -8,7 +8,6 @@
   ],
   "name": "TURKIYE CUMHURIYET MERKEZ BANKASI (CENTRAL BANK OF THE REPUBLIC OF TURKEY)",
   "legalName": "TURKIYE CUMHURIYET MERKEZ BANKASI (CENTRAL BANK OF THE REPUBLIC OF TURKEY)",
-  "bic": "TCMBTR2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.turkiyecumhuriyetmerkezbankasicentralbankof.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TCMBTR2AXXX"
 }

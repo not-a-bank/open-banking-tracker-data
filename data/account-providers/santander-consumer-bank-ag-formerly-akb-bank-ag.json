@@ -8,7 +8,6 @@
   ],
   "name": "SANTANDER CONSUMER BANK AG (FORMERLY AKB BANK AG)",
   "legalName": "SANTANDER CONSUMER BANK AG (FORMERLY AKB BANK AG)",
-  "bic": "AKBCDE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santanderconsumerbankagformerlyakbbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKBCDE31XXX"
 }

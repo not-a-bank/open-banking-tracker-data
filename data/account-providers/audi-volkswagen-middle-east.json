@@ -8,7 +8,6 @@
   ],
   "name": "AUDI VOLKSWAGEN MIDDLE EAST",
   "legalName": "AUDI VOLKSWAGEN MIDDLE EAST",
-  "bic": "AVMEAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.audivolkswagenmiddleeast.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AVMEAEA1XXX"
 }

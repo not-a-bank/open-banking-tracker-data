@@ -8,7 +8,6 @@
   ],
   "name": "SELECTRA INVESTMENTS SICAV",
   "legalName": "SELECTRA INVESTMENTS SICAV",
-  "bic": "SEVALUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.selectrainvestmentssicav.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEVALUL1XXX"
 }

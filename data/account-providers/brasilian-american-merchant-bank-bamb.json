@@ -8,7 +8,6 @@
   ],
   "name": "BRASILIAN AMERICAN MERCHANT BANK (BAMB)",
   "legalName": "BRASILIAN AMERICAN MERCHANT BANK (BAMB)",
-  "bic": "BAMBKYKXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brasilianamericanmerchantbankbamb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAMBKYKXXXX"
 }

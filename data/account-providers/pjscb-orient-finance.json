@@ -8,7 +8,6 @@
   ],
   "name": "PJSCB 'ORIENT FINANCE'",
   "legalName": "PJSCB 'ORIENT FINANCE'",
-  "bic": "ORFBUZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscborientfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORFBUZ22XXX"
 }

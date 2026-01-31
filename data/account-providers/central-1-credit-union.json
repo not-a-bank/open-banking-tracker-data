@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL 1 CREDIT UNION",
   "legalName": "CENTRAL 1 CREDIT UNION",
-  "bic": "CUCXCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.central1creditunion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CUCXCATTXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "STERLING (A DIVISION OF NATIONAL CITY BANK)",
   "legalName": "STERLING (A DIVISION OF NATIONAL CITY BANK)",
-  "bic": "SDNCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sterlingadivisionofnationalcitybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SDNCUS31XXX"
 }

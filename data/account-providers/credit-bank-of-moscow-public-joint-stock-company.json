@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT BANK OF MOSCOW (PUBLIC JOINT STOCK COMPANY)",
   "legalName": "CREDIT BANK OF MOSCOW (PUBLIC JOINT STOCK COMPANY)",
-  "bic": "MCRBRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditbankofmoscowpublicjointstockcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCRBRUMMXXX"
 }

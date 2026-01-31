@@ -8,7 +8,6 @@
   ],
   "name": "BRIDGEHAMPTON NATIONAL BANK",
   "legalName": "BRIDGEHAMPTON NATIONAL BANK",
-  "bic": "BHNBUS3BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bridgehamptonnationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHNBUS3BXXX"
 }

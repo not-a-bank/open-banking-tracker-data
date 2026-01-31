@@ -8,7 +8,6 @@
   ],
   "name": "CAP MUTUELLE",
   "legalName": "CAP MUTUELLE",
-  "bic": "CPPMFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capmutuelle.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPPMFR21XXX"
 }

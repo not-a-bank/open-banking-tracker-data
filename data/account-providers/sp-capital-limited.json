@@ -8,7 +8,6 @@
   ],
   "name": "SP CAPITAL LIMITED",
   "legalName": "SP CAPITAL LIMITED",
-  "bic": "CTLISGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spcapitallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTLISGS1XXX"
 }

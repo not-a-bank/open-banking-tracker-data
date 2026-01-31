@@ -8,7 +8,6 @@
   ],
   "name": "LLOYDS BANK PLC-JERSEY",
   "legalName": "LLOYDS BANK PLC-JERSEY",
-  "bic": "LOYDJESHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lloydsbankplcjerseyje1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOYDJESHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA, S.A. SANTIAGO",
   "legalName": "BANK OF AMERICA, S.A. SANTIAGO",
-  "bic": "BOFACLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericasasantiago.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFACLR1XXX"
 }

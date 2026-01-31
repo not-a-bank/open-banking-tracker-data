@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA BANK (SWITZERLAND) LTD.",
   "legalName": "NOMURA BANK (SWITZERLAND) LTD.",
-  "bic": "NBSZCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomurabankswitzerlandltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBSZCHZZXXX"
 }

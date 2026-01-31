@@ -8,7 +8,6 @@
   ],
   "name": "KREDITBANK SEGEBERG EG",
   "legalName": "KREDITBANK SEGEBERG EG",
-  "bic": "KBSBDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreditbanksegebergeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBSBDE21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ISDIN SA",
   "legalName": "ISDIN SA",
-  "bic": "ISDIESBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.isdinsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISDIESBBXXX"
 }

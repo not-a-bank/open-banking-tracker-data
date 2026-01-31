@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE CREDIT NATIONAL S.A.L.",
   "legalName": "BANQUE DE CREDIT NATIONAL S.A.L.",
-  "bic": "BCNBLBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedecreditnationalsal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCNBLBBEXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BP FINANCE SARL",
   "legalName": "BP FINANCE SARL",
-  "bic": "FNCEFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bpfinancesarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNCEFR21XXX"
 }

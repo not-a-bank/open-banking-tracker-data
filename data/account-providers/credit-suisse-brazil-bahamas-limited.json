@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE BRAZIL (BAHAMAS) LIMITED",
   "legalName": "CREDIT SUISSE BRAZIL (BAHAMAS) LIMITED",
-  "bic": "BIGABSNSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissebrazilbahamaslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIGABSNSXXX"
 }

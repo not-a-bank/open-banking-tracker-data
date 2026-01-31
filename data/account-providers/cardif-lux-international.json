@@ -8,7 +8,6 @@
   ],
   "name": "CARDIF LUX INTERNATIONAL",
   "legalName": "CARDIF LUX INTERNATIONAL",
-  "bic": "CLUILUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cardifluxinternational.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLUILUL1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SABIC CAPITAL BV",
   "legalName": "SABIC CAPITAL BV",
-  "bic": "SBBVNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sabiccapitalbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBBVNL2AXXX"
 }

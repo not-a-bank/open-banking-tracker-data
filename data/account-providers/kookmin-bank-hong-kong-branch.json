@@ -8,7 +8,6 @@
   ],
   "name": "KOOKMIN BANK, HONG KONG BRANCH",
   "legalName": "KOOKMIN BANK, HONG KONG BRANCH",
-  "bic": "KHBAHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kookminbankhongkongbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KHBAHKHHXXX"
 }

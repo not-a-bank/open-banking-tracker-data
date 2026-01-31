@@ -8,7 +8,6 @@
   ],
   "name": "BANCREDITO PANAMA S.A.",
   "legalName": "BANCREDITO PANAMA S.A.",
-  "bic": "NCREPAP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancreditopanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NCREPAP1XXX"
 }

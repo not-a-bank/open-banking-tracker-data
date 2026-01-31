@@ -8,7 +8,6 @@
   ],
   "name": "CHESTERTON STRUCTURED FINANCE LTD",
   "legalName": "CHESTERTON STRUCTURED FINANCE LTD",
-  "bic": "CHSFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chestertonstructuredfinanceltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHSFGB21XXX"
 }

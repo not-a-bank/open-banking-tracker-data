@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE COMMERCIALE DU NIGER",
   "legalName": "BANQUE COMMERCIALE DU NIGER",
-  "bic": "BCDNNENIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecommercialeduniger.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCDNNENIXXX"
 }

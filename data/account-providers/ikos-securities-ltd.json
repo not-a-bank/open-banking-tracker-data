@@ -8,7 +8,6 @@
   ],
   "name": "IKOS SECURITIES LTD",
   "legalName": "IKOS SECURITIES LTD",
-  "bic": "IKSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ikossecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IKSEGB21XXX"
 }

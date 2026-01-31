@@ -8,7 +8,6 @@
   ],
   "name": "ALL IPO PLC",
   "legalName": "ALL IPO PLC",
-  "bic": "ALIPGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allipoplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALIPGB21XXX"
 }

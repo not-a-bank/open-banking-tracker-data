@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE COMMERCIALE DU CHARI",
   "legalName": "BANQUE COMMERCIALE DU CHARI",
-  "bic": "BCCXTDNDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecommercialeduchari.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCCXTDNDXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANGKO SENTRAL NG PILIPINAS",
   "legalName": "BANGKO SENTRAL NG PILIPINAS",
-  "bic": "PHCBPHMCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bangkosentralngpilipinas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHCBPHMCXXX"
 }

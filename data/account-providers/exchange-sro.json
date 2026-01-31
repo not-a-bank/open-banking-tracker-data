@@ -8,7 +8,6 @@
   ],
   "name": "EXCHANGE S.R.O.",
   "legalName": "EXCHANGE S.R.O.",
-  "bic": "EXSOCZP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exchangesro.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXSOCZP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DELPHI AUTOMOTIVE PLC",
   "legalName": "DELPHI AUTOMOTIVE PLC",
-  "bic": "DLPHUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.delphiautomotiveplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DLPHUS33XXX"
 }

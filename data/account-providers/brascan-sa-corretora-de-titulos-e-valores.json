@@ -8,7 +8,6 @@
   ],
   "name": "BRASCAN S/A CORRETORA DE TITULOS E VALORES",
   "legalName": "BRASCAN S/A CORRETORA DE TITULOS E VALORES",
-  "bic": "BCDTBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brascansacorretoradetitulosevalores.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCDTBRS1XXX"
 }

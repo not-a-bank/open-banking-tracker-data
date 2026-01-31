@@ -8,7 +8,6 @@
   ],
   "name": "PORTUGUESE EMISSION TRADING REGISTRY",
   "legalName": "PORTUGUESE EMISSION TRADING REGISTRY",
-  "bic": "PETGPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.portugueseemissiontradingregistry.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PETGPTP1XXX"
 }

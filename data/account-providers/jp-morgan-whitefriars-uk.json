@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN WHITEFRIARS (UK)",
   "legalName": "J.P. MORGAN WHITEFRIARS (UK)",
-  "bic": "MOWHGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganwhitefriarsuk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOWHGB21XXX"
 }

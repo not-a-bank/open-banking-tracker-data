@@ -8,7 +8,6 @@
   ],
   "name": "ING TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH S.A.",
   "legalName": "ING TOWARZYSTWO FUNDUSZY INWESTYCYJNYCH S.A.",
-  "bic": "ITFIPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingtowarzystwofunduszyinwestycyjnychsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ITFIPLP1XXX"
 }

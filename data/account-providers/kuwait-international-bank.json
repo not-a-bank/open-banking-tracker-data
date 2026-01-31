@@ -8,7 +8,6 @@
   ],
   "name": "KUWAIT INTERNATIONAL BANK",
   "legalName": "KUWAIT INTERNATIONAL BANK",
-  "bic": "KWIBKWKWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kuwaitinternationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KWIBKWKWXXX"
 }

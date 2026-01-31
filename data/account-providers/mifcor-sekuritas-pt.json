@@ -8,7 +8,6 @@
   ],
   "name": "MIFCOR SEKURITAS, PT",
   "legalName": "MIFCOR SEKURITAS, PT",
-  "bic": "MIFSIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mifcorsekuritaspt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIFSIDJ1XXX"
 }

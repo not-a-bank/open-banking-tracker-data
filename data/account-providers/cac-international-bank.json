@@ -8,7 +8,6 @@
   ],
   "name": "CAC INTERNATIONAL BANK",
   "legalName": "CAC INTERNATIONAL BANK",
-  "bic": "CACDDJJDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cacinternationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CACDDJJDXXX"
 }

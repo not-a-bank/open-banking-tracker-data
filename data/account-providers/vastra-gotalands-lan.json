@@ -8,7 +8,6 @@
   ],
   "name": "VASTRA GOTALANDS LAN",
   "legalName": "VASTRA GOTALANDS LAN",
-  "bic": "VAGLSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vastragotalandslan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VAGLSE21XXX"
 }

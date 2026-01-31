@@ -9,7 +9,6 @@
   ],
   "name": "SAALESPARKASSE",
   "legalName": "SAALESPARKASSE",
-  "bic": "SARKDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/saalesparkasse_de.svg",
@@ -37,5 +36,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SARKDE81XXX"
 }

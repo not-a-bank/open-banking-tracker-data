@@ -8,7 +8,6 @@
   ],
   "name": "KBC EURO CREDIT LIMITED",
   "legalName": "KBC EURO CREDIT LIMITED",
-  "bic": "KBCEMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbceurocreditlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBCEMTMTXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK PRIME FINANCE",
   "legalName": "BANK PRIME FINANCE",
-  "bic": "PRFNRU2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankprimefinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRFNRU2PXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TENE EFFECTEN B.V.",
   "legalName": "TENE EFFECTEN B.V.",
-  "bic": "TENENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.teneeffectenbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TENENL21XXX"
 }

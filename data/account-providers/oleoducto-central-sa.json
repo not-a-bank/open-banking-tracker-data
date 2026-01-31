@@ -8,7 +8,6 @@
   ],
   "name": "OLEODUCTO CENTRAL S.A.",
   "legalName": "OLEODUCTO CENTRAL S.A.",
-  "bic": "OCENCOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oleoductocentralsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OCENCOBBXXX"
 }

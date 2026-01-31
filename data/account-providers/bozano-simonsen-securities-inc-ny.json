@@ -8,7 +8,6 @@
   ],
   "name": "BOZANO SIMONSEN SECURITIES INC. NY",
   "legalName": "BOZANO SIMONSEN SECURITIES INC. NY",
-  "bic": "BOSEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bozanosimonsensecuritiesincny.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOSEUS31XXX"
 }

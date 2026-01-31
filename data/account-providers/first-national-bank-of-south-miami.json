@@ -8,7 +8,6 @@
   ],
   "name": "FIRST NATIONAL BANK OF SOUTH MIAMI",
   "legalName": "FIRST NATIONAL BANK OF SOUTH MIAMI",
-  "bic": "FNSMUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstnationalbankofsouthmiami.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNSMUS41XXX"
 }

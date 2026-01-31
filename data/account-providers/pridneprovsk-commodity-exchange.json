@@ -8,7 +8,6 @@
   ],
   "name": "PRIDNEPROVSK COMMODITY EXCHANGE",
   "legalName": "PRIDNEPROVSK COMMODITY EXCHANGE",
-  "bic": "XPRIUA21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pridneprovskcommodityexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XPRIUA21XXX"
 }

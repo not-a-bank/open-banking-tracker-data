@@ -8,7 +8,6 @@
   ],
   "name": "FIDELITY TRUST BANK INTERNATIONAL",
   "legalName": "FIDELITY TRUST BANK INTERNATIONAL",
-  "bic": "FDTIGMG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidelitytrustbankinternational.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDTIGMG1XXX"
 }

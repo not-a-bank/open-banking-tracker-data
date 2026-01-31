@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF SYRIA AND OVERSEAS",
   "legalName": "BANK OF SYRIA AND OVERSEAS",
-  "bic": "BSOMSYDAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofsyriaandoverseas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSOMSYDAXXX"
 }

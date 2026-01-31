@@ -8,7 +8,6 @@
   ],
   "name": "GLOBAL SECURITIES CORPORATION",
   "legalName": "GLOBAL SECURITIES CORPORATION",
-  "bic": "GSECCA81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globalsecuritiescorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSECCA81XXX"
 }

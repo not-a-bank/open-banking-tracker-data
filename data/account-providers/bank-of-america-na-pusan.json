@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA, N.A. PUSAN",
   "legalName": "BANK OF AMERICA, N.A. PUSAN",
-  "bic": "BOFAKR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericanapusan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAKR21XXX"
 }

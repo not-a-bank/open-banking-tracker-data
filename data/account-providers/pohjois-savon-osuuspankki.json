@@ -8,7 +8,6 @@
   ],
   "name": "POHJOIS-SAVON OSUUSPANKKI",
   "legalName": "POHJOIS-SAVON OSUUSPANKKI",
-  "bic": "POOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pohjoissavonosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POOSFI21XXX"
 }

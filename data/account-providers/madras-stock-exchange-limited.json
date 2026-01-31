@@ -8,7 +8,6 @@
   ],
   "name": "MADRAS STOCK EXCHANGE LIMITED",
   "legalName": "MADRAS STOCK EXCHANGE LIMITED",
-  "bic": "XMDSIN51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.madrasstockexchangelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMDSIN51XXX"
 }

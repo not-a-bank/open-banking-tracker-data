@@ -8,7 +8,6 @@
   ],
   "name": "KLINKENBERG TRADERS B.V.",
   "legalName": "KLINKENBERG TRADERS B.V.",
-  "bic": "KLTRNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.klinkenbergtradersbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KLTRNL21XXX"
 }

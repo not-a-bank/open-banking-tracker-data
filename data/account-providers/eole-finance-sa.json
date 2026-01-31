@@ -8,7 +8,6 @@
   ],
   "name": "EOLE FINANCE SA",
   "legalName": "EOLE FINANCE SA",
-  "bic": "EOFIFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eolefinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EOFIFR21XXX"
 }

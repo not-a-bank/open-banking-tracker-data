@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "DKM Darlehnskasse M\u00fcnster",
-  "legalName": "DKM Darlehnskasse M\u00fcnster",
+  "name": "DKM Darlehnskasse Münster",
+  "legalName": "DKM Darlehnskasse Münster",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dkm-darlehnskasse-muenster.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],

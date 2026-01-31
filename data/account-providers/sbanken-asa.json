@@ -8,7 +8,6 @@
   ],
   "name": "SBANKEN ASA",
   "legalName": "SBANKEN ASA",
-  "bic": "SKIANOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sbankenasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKIANOBBXXX"
 }

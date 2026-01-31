@@ -8,7 +8,6 @@
   ],
   "name": "ROST BANK",
   "legalName": "ROST BANK",
-  "bic": "JORORU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rostbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JORORU21XXX"
 }

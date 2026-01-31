@@ -8,7 +8,6 @@
   ],
   "name": "FITCH RATINGS BRASIL LTDA",
   "legalName": "FITCH RATINGS BRASIL LTDA",
-  "bic": "FRIPBRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchratingsbrasilltda.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPBRR1XXX"
 }

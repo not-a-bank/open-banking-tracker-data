@@ -8,7 +8,6 @@
   ],
   "name": "EFG PRIVATE BANK (CHANNEL ISLANDS) LIMITED",
   "legalName": "EFG PRIVATE BANK (CHANNEL ISLANDS) LIMITED",
-  "bic": "EFGBGGSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efgprivatebankchannelislandslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFGBGGSPXXX"
 }

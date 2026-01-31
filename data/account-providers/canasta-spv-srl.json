@@ -8,7 +8,6 @@
   ],
   "name": "CANASTA SPV SRL",
   "legalName": "CANASTA SPV SRL",
-  "bic": "CSVRIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.canastaspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSVRIT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UNICREDIT SPA-LONDON BRANCH",
   "legalName": "UNICREDIT SPA-LONDON BRANCH",
-  "bic": "UNCRGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unicreditspalondonbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNCRGB22XXX"
 }

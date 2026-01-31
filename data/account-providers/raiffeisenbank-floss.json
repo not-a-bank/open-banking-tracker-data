@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Flo\u00df",
-  "legalName": "Raiffeisenbank Flo\u00df",
+  "name": "Raiffeisenbank Floß",
+  "legalName": "Raiffeisenbank Floß",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-floss.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

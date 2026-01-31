@@ -8,7 +8,6 @@
   ],
   "name": "CANTOR FITZGERALD INTERNATIONAL (CAFZ - IDB)",
   "legalName": "CANTOR FITZGERALD INTERNATIONAL (CAFZ - IDB)",
-  "bic": "CAFZGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cantorfitzgeraldinternationalcafzidb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAFZGB21XXX"
 }

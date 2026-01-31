@@ -8,7 +8,6 @@
   ],
   "name": "PAYONEER (EU) LIMITED",
   "legalName": "PAYONEER (EU) LIMITED",
-  "bic": "PAYNGIG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.payoneereulimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAYNGIG1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET BANK INTERNATIONAL GMBH",
   "legalName": "STATE STREET BANK INTERNATIONAL GMBH",
-  "bic": "SBOSDEMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetbankinternationalgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBOSDEMXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE LAZARD INVESTMENT COMPANY - LONDON",
   "legalName": "CREDIT AGRICOLE LAZARD INVESTMENT COMPANY - LONDON",
-  "bic": "CLICGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolelazardinvestmentcompanylondon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLICGB21XXX"
 }

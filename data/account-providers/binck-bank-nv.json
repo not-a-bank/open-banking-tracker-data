@@ -8,7 +8,6 @@
   ],
   "name": "BINCK BANK N.V.",
   "legalName": "BINCK BANK N.V.",
-  "bic": "BICKITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.binckbanknv.com.ico",
@@ -27,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BICKITM1XXX"
 }

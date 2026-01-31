@@ -8,7 +8,6 @@
   ],
   "name": "Enex Clearing House Single Member S.a.",
   "legalName": "ENEX CLEARING HOUSE SINGLE MEMBER S.A.",
-  "bic": "ENCHGRAAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENCHGRAAXXX"
 }

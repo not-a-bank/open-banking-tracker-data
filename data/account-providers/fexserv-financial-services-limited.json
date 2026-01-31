@@ -8,7 +8,6 @@
   ],
   "name": "FEXSERV FINANCIAL SERVICES LIMITED",
   "legalName": "FEXSERV FINANCIAL SERVICES LIMITED",
-  "bic": "FFSMMTM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fexservfinancialserviceslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FFSMMTM1XXX"
 }

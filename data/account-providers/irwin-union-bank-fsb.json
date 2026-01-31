@@ -8,7 +8,6 @@
   ],
   "name": "IRWIN UNION BANK, FSB",
   "legalName": "IRWIN UNION BANK, FSB",
-  "bic": "IRUSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.irwinunionbankfsb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IRUSUS31XXX"
 }

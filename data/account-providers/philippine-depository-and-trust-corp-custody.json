@@ -8,7 +8,6 @@
   ],
   "name": "PHILIPPINE DEPOSITORY AND TRUST CORP. (CUSTODY)",
   "legalName": "PHILIPPINE DEPOSITORY AND TRUST CORP. (CUSTODY)",
-  "bic": "PDTUPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philippinedepositoryandtrustcorpcustody.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PDTUPHM1XXX"
 }

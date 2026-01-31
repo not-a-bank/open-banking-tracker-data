@@ -8,7 +8,6 @@
   ],
   "name": "SOUTHERN BANK AND TRUST COMPANY",
   "legalName": "SOUTHERN BANK AND TRUST COMPANY",
-  "bic": "SOTMUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southernbankandtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOTMUS33XXX"
 }

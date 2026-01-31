@@ -8,7 +8,6 @@
   ],
   "name": "MILLI IRAN BANK",
   "legalName": "MILLI IRAN BANK",
-  "bic": "MILIAZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.milliiranbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MILIAZ21XXX"
 }

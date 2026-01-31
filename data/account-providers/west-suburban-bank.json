@@ -8,7 +8,6 @@
   ],
   "name": "WEST SUBURBAN BANK",
   "legalName": "WEST SUBURBAN BANK",
-  "bic": "WSUBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.westsuburbanbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WSUBUS33XXX"
 }

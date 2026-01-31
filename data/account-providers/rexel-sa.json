@@ -8,7 +8,6 @@
   ],
   "name": "REXEL SA",
   "legalName": "REXEL SA",
-  "bic": "REXSFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rexelsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REXSFRPPXXX"
 }

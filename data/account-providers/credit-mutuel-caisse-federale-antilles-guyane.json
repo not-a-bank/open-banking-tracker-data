@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT MUTUEL-CAISSE FEDERALE ANTILLES GUYANE",
   "legalName": "CREDIT MUTUEL-CAISSE FEDERALE ANTILLES GUYANE",
-  "bic": "CMCIMQM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditmutuelcaissefederaleantillesguyane.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMCIMQM1XXX"
 }

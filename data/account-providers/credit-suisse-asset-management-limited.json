@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE ASSET MANAGEMENT LIMITED",
   "legalName": "CREDIT SUISSE ASSET MANAGEMENT LIMITED",
-  "bic": "CSEAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSEAGB21XXX"
 }

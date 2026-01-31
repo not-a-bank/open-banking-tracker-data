@@ -8,7 +8,6 @@
   ],
   "name": "HAMINAN SEUDUN OSUUSPANKKI",
   "legalName": "HAMINAN SEUDUN OSUUSPANKKI",
-  "bic": "HAEPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.haminanseudunosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAEPFI21XXX"
 }

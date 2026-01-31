@@ -8,7 +8,6 @@
   ],
   "name": "HAK SECURITIES LTD",
   "legalName": "HAK SECURITIES LTD",
-  "bic": "HAKSKEN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.haksecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAKSKEN1XXX"
 }

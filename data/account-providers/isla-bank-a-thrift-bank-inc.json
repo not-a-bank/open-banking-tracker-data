@@ -8,7 +8,6 @@
   ],
   "name": "ISLA BANK (A THRIFT BANK), INC.",
   "legalName": "ISLA BANK (A THRIFT BANK), INC.",
-  "bic": "ISTHPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.islabankathriftbankinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISTHPHM1XXX"
 }

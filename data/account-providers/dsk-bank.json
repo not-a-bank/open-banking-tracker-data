@@ -1,0 +1,32 @@
+{
+  "id": "dsk-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "DSK Bank",
+  "legalName": "DSK Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.dsk-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "BG",
+  "countries": [
+    "BG"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "STSABGSFXXX"
+}

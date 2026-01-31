@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE BCP",
   "legalName": "BANQUE BCP",
-  "bic": "BPSMFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquebcp.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPSMFRPPXXX"
 }

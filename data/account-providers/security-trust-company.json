@@ -8,7 +8,6 @@
   ],
   "name": "SECURITY TRUST COMPANY",
   "legalName": "SECURITY TRUST COMPANY",
-  "bic": "SETPUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.securitytrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SETPUS51XXX"
 }

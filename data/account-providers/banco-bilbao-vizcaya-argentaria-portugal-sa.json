@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BILBAO VIZCAYA ARGENTARIA (PORTUGAL) S.A.",
   "legalName": "BANCO BILBAO VIZCAYA ARGENTARIA (PORTUGAL) S.A.",
-  "bic": "BBVAPTPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobilbaovizcayaargentariaportugalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBVAPTPLXXX"
 }

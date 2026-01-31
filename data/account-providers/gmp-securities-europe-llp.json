@@ -8,7 +8,6 @@
   ],
   "name": "GMP SECURITIES EUROPE LLP",
   "legalName": "GMP SECURITIES EUROPE LLP",
-  "bic": "GMPSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gmpsecuritieseuropellp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GMPSGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VW GROUP OF AMERICA FINANCE",
   "legalName": "VW GROUP OF AMERICA FINANCE",
-  "bic": "GRMFUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vwgroupofamericafinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRMFUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CAIXA ECONOMICA DO PORTO",
   "legalName": "CAIXA ECONOMICA DO PORTO",
-  "bic": "CAEPPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixaeconomicadoporto.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAEPPTP1XXX"
 }

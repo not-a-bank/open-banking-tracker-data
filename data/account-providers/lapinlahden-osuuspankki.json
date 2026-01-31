@@ -8,7 +8,6 @@
   ],
   "name": "LAPINLAHDEN OSUUSPANKKI",
   "legalName": "LAPINLAHDEN OSUUSPANKKI",
-  "bic": "LAPLFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lapinlahdenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAPLFI21XXX"
 }

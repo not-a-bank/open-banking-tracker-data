@@ -8,7 +8,6 @@
   ],
   "name": "EIS EINLAGENSICHERUNGSBANK GMBH",
   "legalName": "EIS EINLAGENSICHERUNGSBANK GMBH",
-  "bic": "EIEGDEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eiseinlagensicherungsbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EIEGDEB1XXX"
 }

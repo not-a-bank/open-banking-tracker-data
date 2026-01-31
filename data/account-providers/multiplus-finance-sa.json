@@ -8,7 +8,6 @@
   ],
   "name": "MULTIPLUS FINANCE SA",
   "legalName": "MULTIPLUS FINANCE SA",
-  "bic": "MUFECHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.multiplusfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUFECHG1XXX"
 }

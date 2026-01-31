@@ -8,7 +8,6 @@
   ],
   "name": "P.T.A. CLEARING HOUSE",
   "legalName": "P.T.A. CLEARING HOUSE",
-  "bic": "PTAHZWH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptaclearinghouse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PTAHZWH1XXX"
 }

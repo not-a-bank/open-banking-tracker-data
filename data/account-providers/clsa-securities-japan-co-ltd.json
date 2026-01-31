@@ -8,7 +8,6 @@
   ],
   "name": "CLSA SECURITIES JAPAN CO., LTD.",
   "legalName": "CLSA SECURITIES JAPAN CO., LTD.",
-  "bic": "CLEJJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clsasecuritiesjapancoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLEJJPJ1XXX"
 }

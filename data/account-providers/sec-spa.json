@@ -8,7 +8,6 @@
   ],
   "name": "SEC SPA",
   "legalName": "SEC SPA",
-  "bic": "EECSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.secspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EECSITM1XXX"
 }

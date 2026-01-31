@@ -8,7 +8,6 @@
   ],
   "name": "ADYEN INTERNATIONAL B.V.",
   "legalName": "ADYEN INTERNATIONAL B.V.",
-  "bic": "ADYENL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.adyeninternationalbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ADYENL2AXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CASSA DI RISPARMIO DI CESENA S.P.A.",
   "legalName": "CASSA DI RISPARMIO DI CESENA S.P.A.",
-  "bic": "CECRIT2CXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cassadirisparmiodicesenaspait.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CECRIT2CXXX"
 }

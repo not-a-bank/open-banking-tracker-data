@@ -8,7 +8,6 @@
   ],
   "name": "GARANTI BANK, MALTA BRANCH",
   "legalName": "GARANTI BANK, MALTA BRANCH",
-  "bic": "TGBAMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.garantibankmaltabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TGBAMTMTXXX"
 }

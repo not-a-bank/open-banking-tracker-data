@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE ROMANDE DE GESTION DE PATRIMOINE (SRGP)",
   "legalName": "SOCIETE ROMANDE DE GESTION DE PATRIMOINE (SRGP)",
-  "bic": "SRGPCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societeromandedegestiondepatrimoinesrgp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SRGPCHG1XXX"
 }

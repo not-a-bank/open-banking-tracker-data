@@ -8,7 +8,6 @@
   ],
   "name": "SWISS RE FINANCIAL PRODUCTS CORPORATION",
   "legalName": "SWISS RE FINANCIAL PRODUCTS CORPORATION",
-  "bic": "SFPCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swissrefinancialproductscorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFPCUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SHINHAN BANK AMERICA",
   "legalName": "SHINHAN BANK AMERICA",
-  "bic": "SHBKUS6LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shinhanbankamerica.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHBKUS6LXXX"
 }

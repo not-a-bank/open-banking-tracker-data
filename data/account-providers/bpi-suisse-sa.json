@@ -8,7 +8,6 @@
   ],
   "name": "BPI SUISSE SA",
   "legalName": "BPI SUISSE SA",
-  "bic": "BPUUCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bpisuissesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPUUCHG1XXX"
 }

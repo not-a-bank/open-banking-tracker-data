@@ -8,7 +8,6 @@
   ],
   "name": "ABCBANK GMBH",
   "legalName": "ABCBANK GMBH",
-  "bic": "WWBADE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abcbankgmbhde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WWBADE31XXX"
 }

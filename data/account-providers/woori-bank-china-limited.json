@@ -8,7 +8,6 @@
   ],
   "name": "WOORI BANK (CHINA) LIMITED",
   "legalName": "WOORI BANK (CHINA) LIMITED",
-  "bic": "HVBKCNBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wooribankchinalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HVBKCNBJXXX"
 }

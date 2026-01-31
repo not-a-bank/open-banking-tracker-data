@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH PORTFOLIO MANAGERS LTD PARIS BRANCH",
   "legalName": "MERRILL LYNCH PORTFOLIO MANAGERS LTD PARIS BRANCH",
-  "bic": "MLPMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchportfoliomanagersltdparisbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLPMFRP1XXX"
 }

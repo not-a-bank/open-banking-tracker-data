@@ -8,7 +8,6 @@
   ],
   "name": "LONDON STONE SECURITIES",
   "legalName": "LONDON STONE SECURITIES",
-  "bic": "LOSUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.londonstonesecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOSUGB21XXX"
 }

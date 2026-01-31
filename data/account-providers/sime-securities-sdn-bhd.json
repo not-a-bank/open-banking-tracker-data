@@ -8,7 +8,6 @@
   ],
   "name": "SIME SECURITIES SDN BHD",
   "legalName": "SIME SECURITIES SDN BHD",
-  "bic": "UMSSMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.simesecuritiessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UMSSMYK1XXX"
 }

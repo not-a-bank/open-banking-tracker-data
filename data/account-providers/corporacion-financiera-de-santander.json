@@ -8,7 +8,6 @@
   ],
   "name": "CORPORACION FINANCIERA DE SANTANDER",
   "legalName": "CORPORACION FINANCIERA DE SANTANDER",
-  "bic": "CORFCOB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.corporacionfinancieradesantander.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CORFCOB1XXX"
 }

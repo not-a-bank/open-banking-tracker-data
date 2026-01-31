@@ -8,7 +8,6 @@
   ],
   "name": "Bulgarian-american Credit Bank",
   "legalName": "BULGARIAN-AMERICAN CREDIT BANK",
-  "bic": "BGUSBGSFXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGUSBGSFXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UNITED BANKERS BANK",
   "legalName": "UNITED BANKERS BANK",
-  "bic": "UBBKUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedbankersbankus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBBKUS44XXX"
 }

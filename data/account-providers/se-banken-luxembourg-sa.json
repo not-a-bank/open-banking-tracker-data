@@ -8,7 +8,6 @@
   ],
   "name": "S.E. BANKEN LUXEMBOURG S.A.",
   "legalName": "S.E. BANKEN LUXEMBOURG S.A.",
-  "bic": "LUXEES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sebankenluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LUXEES21XXX"
 }

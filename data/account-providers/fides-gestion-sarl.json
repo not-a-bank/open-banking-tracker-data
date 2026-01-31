@@ -8,7 +8,6 @@
   ],
   "name": "FIDES GESTION SARL",
   "legalName": "FIDES GESTION SARL",
-  "bic": "FIDGFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidesgestionsarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIDGFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PARAGON SECURITIES LTD",
   "legalName": "PARAGON SECURITIES LTD",
-  "bic": "PAEEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paragonsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAEEGB21XXX"
 }

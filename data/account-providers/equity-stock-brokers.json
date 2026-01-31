@@ -8,7 +8,6 @@
   ],
   "name": "EQUITY STOCK BROKERS",
   "legalName": "EQUITY STOCK BROKERS",
-  "bic": "EQSBUGK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.equitystockbrokers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EQSBUGK1XXX"
 }

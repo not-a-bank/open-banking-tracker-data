@@ -8,7 +8,6 @@
   ],
   "name": "ALE1 BV",
   "legalName": "ALE1 BV",
-  "bic": "AEELITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ale1bv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEELITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PRIVATE BANK 'DAVR BANK'",
   "legalName": "PRIVATE BANK 'DAVR BANK'",
-  "bic": "DVRBUZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.privatebankdavrbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DVRBUZ22XXX"
 }

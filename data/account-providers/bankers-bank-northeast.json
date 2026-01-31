@@ -8,7 +8,6 @@
   ],
   "name": "BANKERS' BANK NORTHEAST",
   "legalName": "BANKERS' BANK NORTHEAST",
-  "bic": "NORHUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankersbanknortheast.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NORHUS33XXX"
 }

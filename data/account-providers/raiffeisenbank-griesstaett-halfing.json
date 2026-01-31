@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Griesst\u00e4tt-Halfing",
-  "legalName": "Raiffeisenbank Griesst\u00e4tt-Halfing",
+  "name": "Raiffeisenbank Griesstätt-Halfing",
+  "legalName": "Raiffeisenbank Griesstätt-Halfing",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-griesstaett-halfing.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

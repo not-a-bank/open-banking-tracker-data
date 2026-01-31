@@ -8,7 +8,6 @@
   ],
   "name": "INVESTEC BANK (CHANNEL ISLANDS) LIMITED",
   "legalName": "INVESTEC BANK (CHANNEL ISLANDS) LIMITED",
-  "bic": "GMGUGGSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investecbankchannelislandslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GMGUGGSPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "US CENTRAL CREDIT UNION",
   "legalName": "US CENTRAL CREDIT UNION",
-  "bic": "CCUNUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uscentralcreditunion.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCUNUS51XXX"
 }

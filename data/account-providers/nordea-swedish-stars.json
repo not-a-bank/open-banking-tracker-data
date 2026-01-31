@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA SWEDISH STARS",
   "legalName": "NORDEA SWEDISH STARS",
-  "bic": "NOWSFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaswedishstars.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOWSFIH1XXX"
 }

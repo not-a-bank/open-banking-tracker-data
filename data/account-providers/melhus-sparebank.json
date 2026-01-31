@@ -9,7 +9,6 @@
   ],
   "name": "MELHUS SPAREBANK",
   "legalName": "MELHUS SPAREBANK",
-  "bic": "MELHNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/108009ee-17f0-447e-8c01-cd7d8c21f308/-/preview/170x170/-/crop/180x180/center/NO937901291.png",
@@ -55,11 +54,13 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "enablebanking",
-    "neonomics"
+    "gocardless",
+    "neonomics",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MELHNO21"
 }

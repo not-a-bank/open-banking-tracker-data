@@ -8,7 +8,6 @@
   ],
   "name": "SECURITIES FINANCE TRUST COMPANY",
   "legalName": "SECURITIES FINANCE TRUST COMPANY",
-  "bic": "ESECUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.securitiesfinancetrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESECUS33XXX"
 }

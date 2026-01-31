@@ -8,7 +8,6 @@
   ],
   "name": "CREST DEPOSITORY LIMITED",
   "legalName": "CREST DEPOSITORY LIMITED",
-  "bic": "CRDYGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.crestdepositorylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRDYGB21XXX"
 }

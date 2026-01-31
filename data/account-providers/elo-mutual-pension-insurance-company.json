@@ -8,7 +8,6 @@
   ],
   "name": "ELO Mutual Pension Insurance Company",
   "legalName": "ELO MUTUAL PENSION INSURANCE COMPANY",
-  "bic": "EMPNFI2EXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EMPNFI2EXXX"
 }

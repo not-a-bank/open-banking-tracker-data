@@ -8,7 +8,6 @@
   ],
   "name": "MAINFIRST BANK AG, ASSET MANAGEMENT",
   "legalName": "MAINFIRST BANK AG, ASSET MANAGEMENT",
-  "bic": "MAIFDEFAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mainfirstbankagassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAIFDEFAXXX"
 }

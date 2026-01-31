@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS PARIS INC. ET CIE",
   "legalName": "GOLDMAN SACHS PARIS INC. ET CIE",
-  "bic": "GOLDFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsparisincetcie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOLDFRPPXXX"
 }

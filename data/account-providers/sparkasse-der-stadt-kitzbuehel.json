@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE DER STADT KITZBUEHEL",
   "legalName": "SPARKASSE DER STADT KITZBUEHEL",
-  "bic": "SPKIAT2KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassederstadtkitzbuehel.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPKIAT2K"
 }

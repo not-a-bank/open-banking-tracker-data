@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF CHINA KAZAKHSTAN",
   "legalName": "BANK OF CHINA KAZAKHSTAN",
-  "bic": "BKCHKZKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchinakazakhstan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHKZKAXXX"
 }

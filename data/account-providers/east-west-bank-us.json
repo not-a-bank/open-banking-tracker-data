@@ -8,7 +8,6 @@
   ],
   "name": "EAST-WEST BANK",
   "legalName": "EAST-WEST BANK",
-  "bic": "EWBKUS66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eastwestbankus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EWBKUS66XXX"
 }

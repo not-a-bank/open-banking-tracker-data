@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DES TUILERIES",
   "legalName": "BANQUE DES TUILERIES",
-  "bic": "TUILFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedestuileries.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TUILFRP1XXX"
 }

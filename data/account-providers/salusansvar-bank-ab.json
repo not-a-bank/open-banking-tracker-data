@@ -8,7 +8,6 @@
   ],
   "name": "SALUSANSVAR BANK AB",
   "legalName": "SALUSANSVAR BANK AB",
-  "bic": "SALUSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.salusansvarbankab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SALUSES1XXX"
 }

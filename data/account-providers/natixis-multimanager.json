@@ -8,7 +8,6 @@
   ],
   "name": "NATIXIS MULTIMANAGER",
   "legalName": "NATIXIS MULTIMANAGER",
-  "bic": "NMULFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natixismultimanager.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NMULFRP1XXX"
 }

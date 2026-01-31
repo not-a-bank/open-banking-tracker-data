@@ -8,7 +8,6 @@
   ],
   "name": "SAGIT STOCKBROKERS (PRIVATE) LIMITED",
   "legalName": "SAGIT STOCKBROKERS (PRIVATE) LIMITED",
-  "bic": "SAGSZWH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sagitstockbrokersprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAGSZWH1XXX"
 }

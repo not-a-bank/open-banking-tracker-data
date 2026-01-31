@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF CAMBODIA",
   "legalName": "NATIONAL BANK OF CAMBODIA",
-  "bic": "NCAMKHPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofcambodia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NCAMKHPPXXX"
 }

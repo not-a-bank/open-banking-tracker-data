@@ -8,7 +8,6 @@
   ],
   "name": "SOFIA SGR",
   "legalName": "SOFIA SGR",
-  "bic": "SFSGITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sofiasgr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFSGITM1XXX"
 }

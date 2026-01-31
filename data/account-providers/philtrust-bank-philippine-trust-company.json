@@ -8,7 +8,6 @@
   ],
   "name": "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)",
   "legalName": "PHILTRUST BANK (PHILIPPINE TRUST COMPANY)",
-  "bic": "PHTBPHMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philtrustbankphilippinetrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHTBPHMMXXX"
 }

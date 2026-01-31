@@ -8,7 +8,6 @@
   ],
   "name": "INVESTEC SECURITIES (PTY) LIMITED",
   "legalName": "INVESTEC SECURITIES (PTY) LIMITED",
-  "bic": "IVESZA31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investecsecuritiesptylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVESZA31XXX"
 }

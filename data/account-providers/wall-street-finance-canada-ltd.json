@@ -8,7 +8,6 @@
   ],
   "name": "WALL STREET FINANCE (CANADA) LTD.",
   "legalName": "WALL STREET FINANCE (CANADA) LTD.",
-  "bic": "WSFACAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wallstreetfinancecanadaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WSFACAT1XXX"
 }

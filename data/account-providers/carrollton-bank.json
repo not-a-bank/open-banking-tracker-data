@@ -8,7 +8,6 @@
   ],
   "name": "CARROLLTON BANK",
   "legalName": "CARROLLTON BANK",
-  "bic": "CLRTUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.carrolltonbank.com.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLRTUS44XXX"
 }

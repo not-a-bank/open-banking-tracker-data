@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS GLOBAL INVESTOR SERVICES,INC.",
   "legalName": "BARCLAYS GLOBAL INVESTOR SERVICES,INC.",
-  "bic": "BGIXUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysglobalinvestorservicesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGIXUS61XXX"
 }

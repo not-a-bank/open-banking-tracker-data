@@ -8,7 +8,6 @@
   ],
   "name": "HEWLETT-PACKARD (SCHWEIZ) GMBH",
   "legalName": "HEWLETT-PACKARD (SCHWEIZ) GMBH",
-  "bic": "HESGCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hewlettpackardschweizgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HESGCHZ1XXX"
 }

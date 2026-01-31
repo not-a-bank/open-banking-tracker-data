@@ -8,7 +8,6 @@
   ],
   "name": "FIO BANKA, A.S., POBOCKA ZAHRANICNEJ BANKY",
   "legalName": "FIO BANKA, A.S., POBOCKA ZAHRANICNEJ BANKY",
-  "bic": "FIOZSKBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fiobankaaspobockazahranicnejbanky.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIOZSKBAXXX"
 }

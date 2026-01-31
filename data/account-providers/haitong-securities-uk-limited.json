@@ -8,7 +8,6 @@
   ],
   "name": "HAITONG SECURITIES (UK) LIMITED",
   "legalName": "HAITONG SECURITIES (UK) LIMITED",
-  "bic": "EXEUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.haitongsecuritiesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXEUGB21XXX"
 }

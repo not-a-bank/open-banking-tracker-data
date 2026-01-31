@@ -8,7 +8,6 @@
   ],
   "name": "TIB BANK OF THE KEYS",
   "legalName": "TIB BANK OF THE KEYS",
-  "bic": "ISLAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tibbankofthekeys.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISLAUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "WESTPACTRUST SECURITIES NZ LTD",
   "legalName": "WESTPACTRUST SECURITIES NZ LTD",
-  "bic": "WTSLNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.westpactrustsecuritiesnzltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WTSLNZ21XXX"
 }

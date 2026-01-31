@@ -8,7 +8,6 @@
   ],
   "name": "DE NOVO EAD",
   "legalName": "DE NOVO EAD",
-  "bic": "NODABGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.denovoead.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NODABGS1XXX"
 }

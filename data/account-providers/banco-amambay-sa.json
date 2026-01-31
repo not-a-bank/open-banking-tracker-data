@@ -8,7 +8,6 @@
   ],
   "name": "BANCO AMAMBAY S.A.",
   "legalName": "BANCO AMAMBAY S.A.",
-  "bic": "AMAMPYPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoamambaysa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMAMPYPAXXX"
 }

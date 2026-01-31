@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE CREDITO POPULAR S.A.",
   "legalName": "BANCO DE CREDITO POPULAR S.A.",
-  "bic": "POPCSVS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodecreditopopularsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POPCSVS1XXX"
 }

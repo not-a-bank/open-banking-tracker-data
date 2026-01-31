@@ -8,7 +8,6 @@
   ],
   "name": "NIBC BANK DEUTSCHLAND AG",
   "legalName": "NIBC BANK DEUTSCHLAND AG",
-  "bic": "GABKDE3EXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nibcbankdeutschlandagde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GABKDE3EXXX"
 }

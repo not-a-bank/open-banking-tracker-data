@@ -8,7 +8,6 @@
   ],
   "name": "BNP CAPITAL MARKETS LTD.",
   "legalName": "BNP CAPITAL MARKETS LTD.",
-  "bic": "BNCMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpcapitalmarketsltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNCMGB21XXX"
 }

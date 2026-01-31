@@ -8,7 +8,6 @@
   ],
   "name": "HSBC PROVIDENT FUND TRUSTEE (HONG KONG) LTD",
   "legalName": "HSBC PROVIDENT FUND TRUSTEE (HONG KONG) LTD",
-  "bic": "HSBCHKHPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcprovidentfundtrusteehongkongltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSBCHKHPXXX"
 }

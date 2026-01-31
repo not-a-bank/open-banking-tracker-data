@@ -8,7 +8,6 @@
   ],
   "name": "ALLIANZ SE",
   "legalName": "ALLIANZ SE",
-  "bic": "AZSEDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allianzsede.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZSEDEM1XXX"
 }

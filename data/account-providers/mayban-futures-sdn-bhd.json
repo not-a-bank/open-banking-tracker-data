@@ -8,7 +8,6 @@
   ],
   "name": "MAYBAN FUTURES SDN BHD",
   "legalName": "MAYBAN FUTURES SDN BHD",
-  "bic": "MAYFMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maybanfuturessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAYFMYK1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RED LIQUID FINANCE",
   "legalName": "RED LIQUID FINANCE",
-  "bic": "RELFIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.redliquidfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RELFIE21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NEO (BC) S.R.L.",
   "legalName": "NEO (BC) S.R.L.",
-  "bic": "NEORITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.neobcsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEORITM1XXX"
 }

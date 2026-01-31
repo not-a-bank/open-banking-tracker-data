@@ -8,7 +8,6 @@
   ],
   "name": "CARNEGIE KREDITINSTITUT A/S",
   "legalName": "CARNEGIE KREDITINSTITUT A/S",
-  "bic": "CAJBDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.carnegiekreditinstitutas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAJBDKK1XXX"
 }

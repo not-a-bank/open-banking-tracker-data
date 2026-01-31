@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF JAMAICA",
   "legalName": "BANK OF JAMAICA",
-  "bic": "BAJAJMK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofjamaica.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAJAJMK1XXX"
 }

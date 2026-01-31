@@ -8,7 +8,6 @@
   ],
   "name": "ORRATUM BANK",
   "legalName": "ORRATUM BANK",
-  "bic": "ORRAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orratumbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORRAGB21XXX"
 }

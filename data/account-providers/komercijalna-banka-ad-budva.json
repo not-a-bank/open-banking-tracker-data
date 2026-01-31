@@ -8,7 +8,6 @@
   ],
   "name": "KOMERCIJALNA BANKA AD BUDVA",
   "legalName": "KOMERCIJALNA BANKA AD BUDVA",
-  "bic": "KOBBMEP2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.komercijalnabankaadbudva.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOBBMEP2XXX"
 }

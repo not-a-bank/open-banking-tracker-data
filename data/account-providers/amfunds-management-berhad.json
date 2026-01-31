@@ -8,7 +8,6 @@
   ],
   "name": "AMFUNDS MANAGEMENT BERHAD",
   "legalName": "AMFUNDS MANAGEMENT BERHAD",
-  "bic": "AMMEMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amfundsmanagementberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMMEMYK1XXX"
 }

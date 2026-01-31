@@ -8,7 +8,6 @@
   ],
   "name": "SCHOELLERBANK AG",
   "legalName": "SCHOELLERBANK AG",
-  "bic": "SCHOATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schoellerbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCHOATWWXXX"
 }

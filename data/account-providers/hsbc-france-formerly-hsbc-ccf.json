@@ -8,7 +8,6 @@
   ],
   "name": "HSBC FRANCE (FORMERLY HSBC CCF)",
   "legalName": "HSBC FRANCE (FORMERLY HSBC CCF)",
-  "bic": "CCFRFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcfranceformerlyhsbcccf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCFRFRPPXXX"
 }

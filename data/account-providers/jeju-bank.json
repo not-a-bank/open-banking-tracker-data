@@ -8,7 +8,6 @@
   ],
   "name": "JEJU BANK",
   "legalName": "JEJU BANK",
-  "bic": "JJBKKR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jejubank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JJBKKR22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ETRION SPA",
   "legalName": "ETRION SPA",
-  "bic": "ETRNIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.etrionspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETRNIT21XXX"
 }

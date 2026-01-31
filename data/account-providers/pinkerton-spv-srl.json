@@ -8,7 +8,6 @@
   ],
   "name": "PINKERTON SPV S.R.L.",
   "legalName": "PINKERTON SPV S.R.L.",
-  "bic": "PNSSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pinkertonspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PNSSITM1XXX"
 }

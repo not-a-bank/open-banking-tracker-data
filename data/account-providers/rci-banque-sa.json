@@ -8,7 +8,6 @@
   ],
   "name": "RCI BANQUE S.A.",
   "legalName": "RCI BANQUE S.A.",
-  "bic": "RCIDDE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rcibanquesa.com.ico",
@@ -27,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCIDDE31XXX"
 }

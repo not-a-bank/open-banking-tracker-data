@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole Pyr\u00e9n\u00e9es Gascogne",
-  "legalName": "Cr\u00e9dit Agricole Pyr\u00e9n\u00e9es Gascogne",
+  "name": "Crédit Agricole Pyrénées Gascogne",
+  "legalName": "Crédit Agricole Pyrénées Gascogne",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-pyrenees-gascogne.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

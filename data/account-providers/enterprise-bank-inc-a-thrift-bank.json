@@ -8,7 +8,6 @@
   ],
   "name": "ENTERPRISE BANK INC. (A THRIFT BANK)",
   "legalName": "ENTERPRISE BANK INC. (A THRIFT BANK)",
-  "bic": "ENTHPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enterprisebankincathriftbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENTHPHM1XXX"
 }

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole de Guadeloupe",
-  "legalName": "Cr\u00e9dit Agricole de Guadeloupe",
+  "name": "Crédit Agricole de Guadeloupe",
+  "legalName": "Crédit Agricole de Guadeloupe",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-de-guadeloupe.com.ico",
@@ -23,10 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "CGCTGPG1XXX"
+  "bic": "AGRIGPGXXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "OPTION TRADING COMPANY SA/NV",
   "legalName": "OPTION TRADING COMPANY SA/NV",
-  "bic": "OTCSBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.optiontradingcompanysanv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OTCSBEB1XXX"
 }

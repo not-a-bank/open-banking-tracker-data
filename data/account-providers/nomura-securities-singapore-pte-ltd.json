@@ -8,7 +8,6 @@
   ],
   "name": "NOMURA SECURITIES SINGAPORE PTE LTD",
   "legalName": "NOMURA SECURITIES SINGAPORE PTE LTD",
-  "bic": "NOMSSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nomurasecuritiessingaporepteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOMSSGS1XXX"
 }

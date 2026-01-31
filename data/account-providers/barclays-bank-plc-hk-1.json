@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS BANK PLC",
   "legalName": "BARCLAYS BANK PLC",
-  "bic": "BARCHKHWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysbankplchk1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCHKHWXXX"
 }

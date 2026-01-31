@@ -8,7 +8,6 @@
   ],
   "name": "ODL SECURITIES LTD",
   "legalName": "ODL SECURITIES LTD",
-  "bic": "ODSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.odlsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ODSEGB21XXX"
 }

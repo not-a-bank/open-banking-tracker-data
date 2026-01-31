@@ -8,7 +8,6 @@
   ],
   "name": "UBA KENYA BANK LIMITED",
   "legalName": "UBA KENYA BANK LIMITED",
-  "bic": "UNAFKENAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubakenyabanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNAFKENAXXX"
 }

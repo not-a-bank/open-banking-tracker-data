@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIERE ATLAS S.A.",
   "legalName": "FINANCIERE ATLAS S.A.",
-  "bic": "FITLFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financiereatlassa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FITLFRP1XXX"
 }

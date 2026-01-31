@@ -8,7 +8,6 @@
   ],
   "name": "DVB BANK SE",
   "legalName": "DVB BANK SE",
-  "bic": "DVKBNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dvbbanksenl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DVKBNL21XXX"
 }

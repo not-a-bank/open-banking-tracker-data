@@ -8,7 +8,6 @@
   ],
   "name": "FIDELITY CAPITAL MARKETS",
   "legalName": "FIDELITY CAPITAL MARKETS",
-  "bic": "FICMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidelitycapitalmarkets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FICMUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EVERNORD UAB FMI",
   "legalName": "EVERNORD UAB FMI",
-  "bic": "EVUFLT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.evernorduabfmi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EVUFLT21XXX"
 }

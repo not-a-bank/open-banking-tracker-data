@@ -8,7 +8,6 @@
   ],
   "name": "VIEHMARKTSBANK DER UNTERWESERSTAEDTE GMBH",
   "legalName": "VIEHMARKTSBANK DER UNTERWESERSTAEDTE GMBH",
-  "bic": "VIEHDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.viehmarktsbankderunterweserstaedtegmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VIEHDE21XXX"
 }

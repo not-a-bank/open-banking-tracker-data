@@ -8,7 +8,6 @@
   ],
   "name": "PRIVATE FINANCE B.V.",
   "legalName": "PRIVATE FINANCE B.V.",
-  "bic": "PRVFNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.privatefinancebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRVFNL21XXX"
 }

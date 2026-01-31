@@ -8,7 +8,6 @@
   ],
   "name": "VASKION OSUUSPANKKI",
   "legalName": "VASKION OSUUSPANKKI",
-  "bic": "VAOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vaskionosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VAOSFI21XXX"
 }

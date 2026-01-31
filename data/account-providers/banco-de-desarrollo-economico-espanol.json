@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE DESARROLLO ECONOMICO ESPANOL",
   "legalName": "BANCO DE DESARROLLO ECONOMICO ESPANOL",
-  "bic": "DEEEESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodedesarrolloeconomicoespanol.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEEEESM1XXX"
 }

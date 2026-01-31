@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE VENEZUELA S.A.",
   "legalName": "BANCO DE VENEZUELA S.A.",
-  "bic": "INDSCUHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodevenezuelasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INDSCUHHXXX"
 }

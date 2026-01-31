@@ -8,7 +8,6 @@
   ],
   "name": "AGIB BANK LTD",
   "legalName": "AGIB BANK LTD",
-  "bic": "AGIXGMGMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agibbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGIXGMGMXXX"
 }

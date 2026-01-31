@@ -8,7 +8,6 @@
   ],
   "name": "MONCLER SPA",
   "legalName": "MONCLER SPA",
-  "bic": "MOLCITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.monclerspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOLCITM1XXX"
 }

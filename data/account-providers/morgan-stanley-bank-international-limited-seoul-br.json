@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY BANK INTERNATIONAL LIMITED, SEOUL BRANCH",
   "legalName": "MORGAN STANLEY BANK INTERNATIONAL LIMITED, SEOUL BRANCH",
-  "bic": "MSBKKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleybankinternationallimitedseoulbr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSBKKRSEXXX"
 }

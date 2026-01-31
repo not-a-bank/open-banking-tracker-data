@@ -8,7 +8,6 @@
   ],
   "name": "BANCA NAZIONALE DEL LAVORO",
   "legalName": "BANCA NAZIONALE DEL LAVORO",
-  "bic": "BNLIESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancanazionaledellavoro.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNLIITRRXXX"
 }

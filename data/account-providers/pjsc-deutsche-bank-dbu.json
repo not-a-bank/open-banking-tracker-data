@@ -8,7 +8,6 @@
   ],
   "name": "PJSC DEUTSCHE BANK DBU",
   "legalName": "PJSC DEUTSCHE BANK DBU",
-  "bic": "DEUTUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscdeutschebankdbu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTUAUKXXX"
 }

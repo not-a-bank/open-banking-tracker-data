@@ -8,7 +8,6 @@
   ],
   "name": "EQUITY INVEST S.A.",
   "legalName": "EQUITY INVEST S.A.",
-  "bic": "EQIVROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.equityinvestsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EQIVROB1XXX"
 }

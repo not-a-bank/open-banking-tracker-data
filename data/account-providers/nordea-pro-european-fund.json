@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA PRO EUROPEAN FUND",
   "legalName": "NORDEA PRO EUROPEAN FUND",
-  "bic": "NPEFFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaproeuropeanfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NPEFFIH1XXX"
 }

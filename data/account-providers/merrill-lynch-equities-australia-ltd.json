@@ -8,7 +8,6 @@
   ],
   "name": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
   "legalName": "MERRILL LYNCH EQUITIES (AUSTRALIA) LTD",
-  "bic": "MLEQAU2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.merrilllynchequitiesaustralialtd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLEQAU2SXXX"
 }

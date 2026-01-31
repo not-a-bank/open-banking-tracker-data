@@ -8,7 +8,6 @@
   ],
   "name": "VATTENFALL ENERGY TRADING NETHERLANDS NV",
   "legalName": "VATTENFALL ENERGY TRADING NETHERLANDS NV",
-  "bic": "VETTNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vattenfallenergytradingnetherlandsnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VETTNL21XXX"
 }

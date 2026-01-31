@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Africa - Cote D'ivoire",
   "legalName": "BANK OF AFRICA - COTE D'IVOIRE",
-  "bic": "AFRICIABXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFRICIABXXX"
 }

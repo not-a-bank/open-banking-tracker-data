@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ALCALA S.A.",
   "legalName": "BANCO ALCALA S.A.",
-  "bic": "ALCLESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoalcalasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALCLESMMXXX"
 }

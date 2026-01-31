@@ -8,7 +8,6 @@
   ],
   "name": "AMF FONDER AB",
   "legalName": "AMF FONDER AB",
-  "bic": "AMFDSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amffonderab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMFDSES1XXX"
 }

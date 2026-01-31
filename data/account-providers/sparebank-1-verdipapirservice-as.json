@@ -8,7 +8,6 @@
   ],
   "name": "SPAREBANK 1 VERDIPAPIRSERVICE AS",
   "legalName": "SPAREBANK 1 VERDIPAPIRSERVICE AS",
-  "bic": "SPVDNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebank1verdipapirserviceas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPVDNOK1XXX"
 }

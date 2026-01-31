@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DEL ATLANTICO S.N.C.",
   "legalName": "BANCO DEL ATLANTICO S.N.C.",
-  "bic": "ATCOUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodelatlanticosnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATCOUS31XXX"
 }

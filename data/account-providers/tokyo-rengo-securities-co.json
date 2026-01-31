@@ -8,7 +8,6 @@
   ],
   "name": "TOKYO RENGO SECURITIES CO",
   "legalName": "TOKYO RENGO SECURITIES CO",
-  "bic": "TORSJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tokyorengosecuritiesco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TORSJPJ1XXX"
 }

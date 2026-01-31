@@ -8,7 +8,6 @@
   ],
   "name": "MTS FRANCE SAS",
   "legalName": "MTS FRANCE SAS",
-  "bic": "FMTSFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mtsfrancesas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMTSFRPPXXX"
 }

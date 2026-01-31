@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL DE DEPOSITO DE VALORES DE EL SALVADOR SA DE CV",
   "legalName": "CENTRAL DE DEPOSITO DE VALORES DE EL SALVADOR SA DE CV",
-  "bic": "CDVSSVS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centraldedepositodevaloresdeelsalvadorsad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CDVSSVS1XXX"
 }

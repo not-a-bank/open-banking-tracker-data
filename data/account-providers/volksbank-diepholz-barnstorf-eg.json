@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK DIEPHOLZ-BARNSTORF EG",
   "legalName": "VOLKSBANK DIEPHOLZ-BARNSTORF EG",
-  "bic": "VODIDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankdiepholzbarnstorfeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VODIDE21XXX"
 }

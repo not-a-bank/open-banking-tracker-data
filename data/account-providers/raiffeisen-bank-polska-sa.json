@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN BANK POLSKA S.A.",
   "legalName": "RAIFFEISEN BANK POLSKA S.A.",
-  "bic": "RCBWPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankpolskasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RCBWPLPWXXX"
 }

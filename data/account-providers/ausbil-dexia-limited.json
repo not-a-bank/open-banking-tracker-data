@@ -8,7 +8,6 @@
   ],
   "name": "AUSBIL DEXIA LIMITED",
   "legalName": "AUSBIL DEXIA LIMITED",
-  "bic": "AUSDAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ausbildexialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUSDAU21XXX"
 }

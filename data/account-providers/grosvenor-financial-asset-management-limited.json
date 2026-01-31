@@ -8,7 +8,6 @@
   ],
   "name": "GROSVENOR FINANCIAL ASSET MANAGEMENT LIMITED",
   "legalName": "GROSVENOR FINANCIAL ASSET MANAGEMENT LIMITED",
-  "bic": "GFAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.grosvenorfinancialassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GFAMGB21XXX"
 }

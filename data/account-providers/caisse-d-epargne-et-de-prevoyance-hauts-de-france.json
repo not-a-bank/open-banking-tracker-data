@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE D EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE",
   "legalName": "CAISSE D EPARGNE ET DE PREVOYANCE HAUTS DE FRANCE",
-  "bic": "CEPAFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedepargneetdeprevoyancehautsdefrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEPAFRPPXXX"
 }

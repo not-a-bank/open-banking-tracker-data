@@ -8,7 +8,6 @@
   ],
   "name": "EBC ZURICH AG",
   "legalName": "EBC ZURICH AG",
-  "bic": "EBZUCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ebczurichag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBZUCHZ1XXX"
 }

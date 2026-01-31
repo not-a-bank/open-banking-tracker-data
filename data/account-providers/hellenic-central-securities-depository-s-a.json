@@ -8,7 +8,6 @@
   ],
   "name": "Hellenic Central Securities Depository S.a.",
   "legalName": "HELLENIC CENTRAL SECURITIES DEPOSITORY S.A.",
-  "bic": "HCSDGRAAASI",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HCSDGRAAASI"
 }

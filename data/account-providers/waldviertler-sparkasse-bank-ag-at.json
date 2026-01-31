@@ -8,7 +8,6 @@
   ],
   "name": "WALDVIERTLER SPARKASSE BANK AG",
   "legalName": "WALDVIERTLER SPARKASSE BANK AG",
-  "bic": "SPZWAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.waldviertlersparkassebankagat.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPZWAT21XXX"
 }

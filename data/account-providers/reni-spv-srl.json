@@ -8,7 +8,6 @@
   ],
   "name": "RENI SPV SRL",
   "legalName": "RENI SPV SRL",
-  "bic": "REVLIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.renispvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REVLIT21XXX"
 }

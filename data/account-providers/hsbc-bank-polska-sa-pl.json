@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK POLSKA S.A.",
   "legalName": "HSBC BANK POLSKA S.A.",
-  "bic": "HSBCPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankpolskasapl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSBCPLPWXXX"
 }

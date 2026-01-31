@@ -8,7 +8,6 @@
   ],
   "name": "APP SECURITIES PTY LTD",
   "legalName": "APP SECURITIES PTY LTD",
-  "bic": "APSPAUS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.appsecuritiesptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "APSPAUS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SMBC NIKKO BANK (LUXEMBOURG) S.A.",
   "legalName": "SMBC NIKKO BANK (LUXEMBOURG) S.A.",
-  "bic": "NIKOLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.smbcnikkobankluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIKOLULLXXX"
 }

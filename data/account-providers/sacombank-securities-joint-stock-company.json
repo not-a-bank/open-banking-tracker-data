@@ -8,7 +8,6 @@
   ],
   "name": "SACOMBANK SECURITIES JOINT STOCK COMPANY",
   "legalName": "SACOMBANK SECURITIES JOINT STOCK COMPANY",
-  "bic": "SAEMVNV1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sacombanksecuritiesjointstockcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAEMVNV1XXX"
 }

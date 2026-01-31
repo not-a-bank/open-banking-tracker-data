@@ -8,7 +8,6 @@
   ],
   "name": "INVEST CONSULT B.V.",
   "legalName": "INVEST CONSULT B.V.",
-  "bic": "IVVCNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investconsultbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVVCNL21XXX"
 }

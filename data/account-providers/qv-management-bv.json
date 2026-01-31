@@ -8,7 +8,6 @@
   ],
   "name": "QV MANAGEMENT B.V.",
   "legalName": "QV MANAGEMENT B.V.",
-  "bic": "MAGMNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.qvmanagementbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAGMNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO NACIONAL DE TRABAJADORES",
   "legalName": "BANCO NACIONAL DE TRABAJADORES",
-  "bic": "BNTRPYP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banconacionaldetrabajadores.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNTRPYP1XXX"
 }

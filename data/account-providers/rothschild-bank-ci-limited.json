@@ -8,7 +8,6 @@
   ],
   "name": "ROTHSCHILD BANK (CI) LIMITED",
   "legalName": "ROTHSCHILD BANK (CI) LIMITED",
-  "bic": "ROSWGGSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rothschildbankcilimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROSWGGSPXXX"
 }

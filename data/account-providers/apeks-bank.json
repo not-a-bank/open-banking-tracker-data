@@ -8,7 +8,6 @@
   ],
   "name": "APEKS-BANK",
   "legalName": "APEKS-BANK",
-  "bic": "APKSUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.apeksbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "APKSUAUKXXX"
 }

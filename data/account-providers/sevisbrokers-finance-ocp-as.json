@@ -8,7 +8,6 @@
   ],
   "name": "SEVISBROKERS FINANCE O.C.P., A.S.",
   "legalName": "SEVISBROKERS FINANCE O.C.P., A.S.",
-  "bic": "SEFOSK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sevisbrokersfinanceocpas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEFOSK21XXX"
 }

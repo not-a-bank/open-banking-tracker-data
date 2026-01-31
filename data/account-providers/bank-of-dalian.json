@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF DALIAN",
   "legalName": "BANK OF DALIAN",
-  "bic": "DLCBCNBDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofdalian.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DLCBCNBDXXX"
 }

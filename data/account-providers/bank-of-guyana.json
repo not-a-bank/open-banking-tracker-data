@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF GUYANA",
   "legalName": "BANK OF GUYANA",
-  "bic": "GUBAGYGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofguyana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GUBAGYGGXXX"
 }

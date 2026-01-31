@@ -8,7 +8,6 @@
   ],
   "name": "FBN BANK UK LTD",
   "legalName": "FBN BANK UK LTD",
-  "bic": "FBNIFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fbnbankukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FBNIFRPPXXX"
 }

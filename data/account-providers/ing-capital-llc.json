@@ -8,7 +8,6 @@
   ],
   "name": "ING CAPITAL LLC",
   "legalName": "ING CAPITAL LLC",
-  "bic": "INGBUS3CXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingcapitalllc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGBUS3CXXX"
 }

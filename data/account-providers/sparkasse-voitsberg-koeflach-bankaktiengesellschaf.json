@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE VOITSBERG-KOEFLACH BANKAKTIENGESELLSCHAFT",
   "legalName": "SPARKASSE VOITSBERG-KOEFLACH BANKAKTIENGESELLSCHAFT",
-  "bic": "SPVOAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassevoitsbergkoeflachbankaktiengesellschaf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPVOAT21XXX"
 }

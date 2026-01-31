@@ -8,7 +8,6 @@
   ],
   "name": "EUREX ZURICH AG",
   "legalName": "EUREX ZURICH AG",
-  "bic": "XEURCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurexzurichag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XEURCHZ1XXX"
 }

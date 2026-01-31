@@ -8,7 +8,6 @@
   ],
   "name": "SPAREBANK 1 SR-BANK ASA",
   "legalName": "SPAREBANK 1 SR-BANK ASA",
-  "bic": "SPRONO22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebank1srbankasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPRONO22XXX"
 }

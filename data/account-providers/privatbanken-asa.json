@@ -8,7 +8,6 @@
   ],
   "name": "PRIVATBANKEN ASA",
   "legalName": "PRIVATBANKEN ASA",
-  "bic": "PBASNOK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.privatbankenasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBASNOK1XXX"
 }

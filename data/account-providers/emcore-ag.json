@@ -8,7 +8,6 @@
   ],
   "name": "EMCORE AG",
   "legalName": "EMCORE AG",
-  "bic": "EMCOLI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.emcoreag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EMCOLI21XXX"
 }

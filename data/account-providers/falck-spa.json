@@ -8,7 +8,6 @@
   ],
   "name": "FALCK SPA",
   "legalName": "FALCK SPA",
-  "bic": "FAKCITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.falckspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FAKCITM1XXX"
 }

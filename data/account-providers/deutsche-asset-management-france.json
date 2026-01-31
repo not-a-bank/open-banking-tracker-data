@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE ASSET MANAGEMENT FRANCE",
   "legalName": "DEUTSCHE ASSET MANAGEMENT FRANCE",
-  "bic": "DEUTFRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutscheassetmanagementfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTFRA1XXX"
 }

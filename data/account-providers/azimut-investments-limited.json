@@ -8,7 +8,6 @@
   ],
   "name": "Azimut Investments Limited",
   "legalName": "AZIMUT INVESTMENTS LIMITED",
-  "bic": "AZIVIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.azimutinvestments.ie.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZIVIE2DXXX"
 }

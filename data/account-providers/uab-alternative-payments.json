@@ -8,7 +8,6 @@
   ],
   "name": "UAB ALTERNATIVE PAYMENTS",
   "legalName": "UAB ALTERNATIVE PAYMENTS",
-  "bic": "UAPYLT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uabalternativepayments.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UAPYLT21XXX"
 }

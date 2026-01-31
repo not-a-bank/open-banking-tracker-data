@@ -8,7 +8,6 @@
   ],
   "name": "RMB ASSET MANAGEMENT (PTY) LTD",
   "legalName": "RMB ASSET MANAGEMENT (PTY) LTD",
-  "bic": "RMBAZAJJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rmbassetmanagementptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RMBAZAJJXXX"
 }

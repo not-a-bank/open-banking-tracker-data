@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK SINGAPORE LIMITED",
   "legalName": "CITIBANK SINGAPORE LIMITED",
-  "bic": "CITISG21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibanksingaporelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITISG21XXX"
 }

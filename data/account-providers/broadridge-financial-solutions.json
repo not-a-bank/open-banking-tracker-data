@@ -8,7 +8,6 @@
   ],
   "name": "BROADRIDGE FINANCIAL SOLUTIONS",
   "legalName": "BROADRIDGE FINANCIAL SOLUTIONS",
-  "bic": "BRFOUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.broadridgefinancialsolutions.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRFOUS31XXX"
 }

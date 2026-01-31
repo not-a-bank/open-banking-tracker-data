@@ -8,7 +8,6 @@
   ],
   "name": "NOTTINGHAM BUILDING SOCIETY",
   "legalName": "NOTTINGHAM BUILDING SOCIETY",
-  "bic": "NTBSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nottinghambuildingsociety.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NTBSGB21XXX"
 }

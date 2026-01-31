@@ -8,7 +8,6 @@
   ],
   "name": "SOPRON BANK BURGENLAND ZRT.",
   "legalName": "SOPRON BANK BURGENLAND ZRT.",
-  "bic": "EHBBHUHSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sopronbankburgenlandzrt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EHBBHUHSXXX"
 }

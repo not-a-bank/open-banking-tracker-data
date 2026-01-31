@@ -8,7 +8,6 @@
   ],
   "name": "AL BARAKA BANK (SUDAN)",
   "legalName": "AL BARAKA BANK (SUDAN)",
-  "bic": "RAKASDKHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.albarakabanksudan.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAKASDKHXXX"
 }

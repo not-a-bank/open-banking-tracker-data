@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT BANK OF IRAQ",
   "legalName": "CREDIT BANK OF IRAQ",
-  "bic": "CBIQIQBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditbankofiraq.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBIQIQBAXXX"
 }

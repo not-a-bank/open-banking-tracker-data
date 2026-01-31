@@ -8,7 +8,6 @@
   ],
   "name": "NIINIJOEN OSUUSPANKKI",
   "legalName": "NIINIJOEN OSUUSPANKKI",
-  "bic": "NIOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.niinijoenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIOSFI21XXX"
 }

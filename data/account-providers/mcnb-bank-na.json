@@ -8,7 +8,6 @@
   ],
   "name": "MCNB BANK NA",
   "legalName": "MCNB BANK NA",
-  "bic": "DCNAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mcnbbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCNAUS31XXX"
 }

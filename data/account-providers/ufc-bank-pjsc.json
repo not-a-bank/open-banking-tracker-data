@@ -8,7 +8,6 @@
   ],
   "name": "UFC BANK PJSC",
   "legalName": "UFC BANK PJSC",
-  "bic": "CLJARUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ufcbankpjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLJARUMMXXX"
 }

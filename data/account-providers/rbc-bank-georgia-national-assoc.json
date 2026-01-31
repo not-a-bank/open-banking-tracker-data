@@ -8,7 +8,6 @@
   ],
   "name": "RBC BANK (GEORGIA), NATIONAL ASSOC.",
   "legalName": "RBC BANK (GEORGIA), NATIONAL ASSOC.",
-  "bic": "RBCBUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbcbankgeorgianationalassoc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBCBUS33XXX"
 }

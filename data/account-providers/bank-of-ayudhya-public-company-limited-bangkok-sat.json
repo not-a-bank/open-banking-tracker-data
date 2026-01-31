@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED, BANGKOK SATHORN BRANCH (EX -THE BANK OF TOKYO-MITSUBISHI UFJ LTD)",
   "legalName": "BANK OF AYUDHYA PUBLIC COMPANY LIMITED, BANGKOK SATHORN BRANCH (EX -THE BANK OF TOKYO-MITSUBISHI UFJ LTD)",
-  "bic": "BOTKTHBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofayudhyapubliccompanylimitedbangkoksat.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTKTHBXXXX"
 }

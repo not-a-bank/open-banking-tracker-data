@@ -9,7 +9,6 @@
   ],
   "name": "SKJERN BANK",
   "legalName": "SKJERN BANK",
-  "bic": "SKJBDK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/f22d21c8-4942-4c96-886e-e6fb9af5d8a8/-/preview/170x170/-/crop/180x180/center/DK45801012.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "plaid",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKJBDK22"
 }

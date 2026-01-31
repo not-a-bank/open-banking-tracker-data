@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIAL BROKERAGE GROUP",
   "legalName": "FINANCIAL BROKERAGE GROUP",
-  "bic": "FIBGEGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financialbrokeragegroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIBGEGC1XXX"
 }

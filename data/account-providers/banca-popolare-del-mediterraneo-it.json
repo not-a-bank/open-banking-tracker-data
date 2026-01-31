@@ -9,7 +9,6 @@
   ],
   "name": "BANCA POPOLARE DEL MEDITERRANEO",
   "legalName": "BANCA POPOLARE DEL MEDITERRANEO",
-  "bic": "BMEDITN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/banca_popolare_del_mediterraneo_it.svg",
@@ -34,5 +33,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMEDITN1XXX"
 }

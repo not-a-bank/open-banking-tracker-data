@@ -8,7 +8,6 @@
   ],
   "name": "NIAGA SECURITIES, PT",
   "legalName": "NIAGA SECURITIES, PT",
-  "bic": "NIASIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.niagasecuritiespt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIASIDJ1XXX"
 }

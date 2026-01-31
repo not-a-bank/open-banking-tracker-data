@@ -9,7 +9,6 @@
   ],
   "name": "BANKHAUS MAX FLESSA KG",
   "legalName": "BANKHAUS MAX FLESSA KG",
-  "bic": "FLESDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
@@ -30,10 +29,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "yaxi",
-    "salt-edge"
+    "gocardless",
+    "salt-edge",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FLESDEMMXXX"
 }

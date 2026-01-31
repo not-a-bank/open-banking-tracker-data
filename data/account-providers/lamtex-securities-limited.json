@@ -8,7 +8,6 @@
   ],
   "name": "LAMTEX SECURITIES LIMITED",
   "legalName": "LAMTEX SECURITIES LIMITED",
-  "bic": "LAMSHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lamtexsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LAMSHKH1XXX"
 }

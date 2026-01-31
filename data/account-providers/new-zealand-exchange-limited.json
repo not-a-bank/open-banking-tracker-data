@@ -8,7 +8,6 @@
   ],
   "name": "NEW ZEALAND EXCHANGE LIMITED",
   "legalName": "NEW ZEALAND EXCHANGE LIMITED",
-  "bic": "NZXCNZ2WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newzealandexchangelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NZXCNZ2WXXX"
 }

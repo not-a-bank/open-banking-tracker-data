@@ -8,7 +8,6 @@
   ],
   "name": "HANMAG SECURITIES CORPORATION",
   "legalName": "HANMAG SECURITIES CORPORATION",
-  "bic": "HASNKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hanmagsecuritiescorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HASNKRS1XXX"
 }

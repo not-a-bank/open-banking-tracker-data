@@ -8,7 +8,6 @@
   ],
   "name": "NOVYJ VEK BANK",
   "legalName": "NOVYJ VEK BANK",
-  "bic": "NOVKRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novyjvekbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOVKRUM1XXX"
 }

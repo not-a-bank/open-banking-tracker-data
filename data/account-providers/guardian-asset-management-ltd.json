@@ -8,7 +8,6 @@
   ],
   "name": "GUARDIAN ASSET MANAGEMENT LTD",
   "legalName": "GUARDIAN ASSET MANAGEMENT LTD",
-  "bic": "GUAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.guardianassetmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GUAMGB21XXX"
 }

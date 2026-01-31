@@ -8,7 +8,6 @@
   ],
   "name": "ACTIS",
   "legalName": "ACTIS",
-  "bic": "ACSIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.actis.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACSIFRP1XXX"
 }

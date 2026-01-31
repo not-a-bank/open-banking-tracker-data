@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK BOERDE-BERNBURG EG",
   "legalName": "VOLKSBANK BOERDE-BERNBURG EG",
-  "bic": "VOBDDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankboerdebernburgeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOBDDE81XXX"
 }

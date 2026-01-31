@@ -8,7 +8,6 @@
   ],
   "name": "ERB FUNDS VCIC PLC",
   "legalName": "ERB FUNDS VCIC PLC",
-  "bic": "ERBKCYF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.erbfundsvcicplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERBKCYF1XXX"
 }

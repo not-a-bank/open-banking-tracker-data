@@ -8,7 +8,6 @@
   ],
   "name": "MANULIFE ASSET MANAGEMENT (JAPAN) LIMITED",
   "legalName": "MANULIFE ASSET MANAGEMENT (JAPAN) LIMITED",
-  "bic": "MAMJJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.manulifeassetmanagementjapanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAMJJPJ1XXX"
 }

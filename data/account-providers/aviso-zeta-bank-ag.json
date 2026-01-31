@@ -8,7 +8,6 @@
   ],
   "name": "AVISO ZETA BANK AG",
   "legalName": "AVISO ZETA BANK AG",
-  "bic": "CPAGATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.avisozetabankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPAGATW1XXX"
 }

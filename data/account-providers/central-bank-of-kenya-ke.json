@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL BANK OF KENYA",
   "legalName": "CENTRAL BANK OF KENYA",
-  "bic": "CBKEKENXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralbankofkenyake.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBKEKENXXXX"
 }

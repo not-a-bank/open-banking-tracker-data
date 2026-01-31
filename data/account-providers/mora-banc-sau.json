@@ -8,7 +8,6 @@
   ],
   "name": "MORA BANC SAU",
   "legalName": "MORA BANC SAU",
-  "bic": "BINAADB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morabancsau.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BINAADB1XXX"
 }

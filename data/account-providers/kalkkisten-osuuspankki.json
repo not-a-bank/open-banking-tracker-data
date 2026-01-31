@@ -8,7 +8,6 @@
   ],
   "name": "KALKKISTEN OSUUSPANKKI",
   "legalName": "KALKKISTEN OSUUSPANKKI",
-  "bic": "KASPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kalkkistenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KASPFI21XXX"
 }

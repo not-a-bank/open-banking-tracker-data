@@ -8,7 +8,6 @@
   ],
   "name": "AXA EPARGNE ENTREPRISE SA",
   "legalName": "AXA EPARGNE ENTREPRISE SA",
-  "bic": "AXEEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axaepargneentreprisesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXEEFRP1XXX"
 }

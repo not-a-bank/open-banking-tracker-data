@@ -8,7 +8,6 @@
   ],
   "name": "GROUPAMA FUND PICKERS",
   "legalName": "GROUPAMA FUND PICKERS",
-  "bic": "GRFPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.groupamafundpickers.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRFPFRP1XXX"
 }

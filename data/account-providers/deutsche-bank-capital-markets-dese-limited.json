@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK CAPITAL MARKETS (DESE) LIMITED",
   "legalName": "DEUTSCHE BANK CAPITAL MARKETS (DESE) LIMITED",
-  "bic": "DBCMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankcapitalmarketsdeselimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBCMGB21XXX"
 }

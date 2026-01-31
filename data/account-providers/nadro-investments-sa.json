@@ -8,7 +8,6 @@
   ],
   "name": "NADRO INVESTMENTS SA",
   "legalName": "NADRO INVESTMENTS SA",
-  "bic": "MAIVCHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nadroinvestmentssa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAIVCHG1XXX"
 }

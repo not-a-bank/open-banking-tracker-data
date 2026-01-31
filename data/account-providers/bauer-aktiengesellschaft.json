@@ -8,7 +8,6 @@
   ],
   "name": "BAUER AKTIENGESELLSCHAFT",
   "legalName": "BAUER AKTIENGESELLSCHAFT",
-  "bic": "BAUKDE77XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.baueraktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAUKDE77XXX"
 }

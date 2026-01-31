@@ -8,7 +8,6 @@
   ],
   "name": "MM SECURITIES LIMITED",
   "legalName": "MM SECURITIES LIMITED",
-  "bic": "SESUGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mmsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SESUGB21XXX"
 }

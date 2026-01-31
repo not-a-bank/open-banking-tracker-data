@@ -8,7 +8,6 @@
   ],
   "name": "Istarska Kreditna Banka Joint Stock Company",
   "legalName": "ISTARSKA KREDITNA BANKA JOINT STOCK COMPANY",
-  "bic": "ISTARSKA",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISTARSKA"
 }

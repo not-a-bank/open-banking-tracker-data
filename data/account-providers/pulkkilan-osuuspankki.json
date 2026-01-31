@@ -8,7 +8,6 @@
   ],
   "name": "PULKKILAN OSUUSPANKKI",
   "legalName": "PULKKILAN OSUUSPANKKI",
-  "bic": "PUOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pulkkilanosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PUOPFI21XXX"
 }

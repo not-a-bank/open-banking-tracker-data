@@ -8,7 +8,6 @@
   ],
   "name": "THE COSMOS CO-OPERATIVE BANK LTD.",
   "legalName": "THE COSMOS CO-OPERATIVE BANK LTD.",
-  "bic": "COSDINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thecosmoscooperativebankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COSDINBBXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE AG, SINGAPORE PRIVATE BANKING",
   "legalName": "CREDIT SUISSE AG, SINGAPORE PRIVATE BANKING",
-  "bic": "CSPBSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuisseagsingaporeprivatebanking.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSPBSGSGXXX"
 }

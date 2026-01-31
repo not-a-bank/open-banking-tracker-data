@@ -8,7 +8,6 @@
   ],
   "name": "AON PLC",
   "legalName": "AON PLC",
-  "bic": "AONPGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aonplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AONPGB2LXXX"
 }

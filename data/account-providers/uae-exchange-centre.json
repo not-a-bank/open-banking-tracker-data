@@ -8,7 +8,6 @@
   ],
   "name": "U.A.E. EXCHANGE CENTRE",
   "legalName": "U.A.E. EXCHANGE CENTRE",
-  "bic": "UAEXAEAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uaeexchangecentre.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UAEXAEAAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK (RR) OOO",
   "legalName": "HSBC BANK (RR) OOO",
-  "bic": "BLICRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankrrooo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLICRUMMXXX"
 }

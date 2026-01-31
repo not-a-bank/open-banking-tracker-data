@@ -8,7 +8,6 @@
   ],
   "name": "CHERNIGIV BANK",
   "legalName": "CHERNIGIV BANK",
-  "bic": "CHRKUA21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chernigivbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHRKUA21XXX"
 }

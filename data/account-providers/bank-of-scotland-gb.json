@@ -9,7 +9,6 @@
   ],
   "name": "BANK OF SCOTLAND",
   "legalName": "BANK OF SCOTLAND",
-  "bic": "BOFSGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552648073/radar/icons/UfYosl_o_400x400.jpg",
@@ -138,5 +137,6 @@
     }
   ],
   "stateOwned": false,
-  "stockSymbol": "LON:LLOY"
+  "stockSymbol": "LON:LLOY",
+  "bic": "BOFSGB22XXX"
 }

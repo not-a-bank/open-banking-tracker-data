@@ -1,0 +1,32 @@
+{
+  "id": "nest-bank-corporate",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Nest Bank Corporate",
+  "legalName": "Nest Bank Corporate",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.nest-bank-corporate.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "PL",
+  "countries": [
+    "PL"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "NESBPLPW"
+}

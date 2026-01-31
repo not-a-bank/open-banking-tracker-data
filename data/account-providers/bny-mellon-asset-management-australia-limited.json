@@ -8,7 +8,6 @@
   ],
   "name": "BNY MELLON ASSET MANAGEMENT AUSTRALIA LIMITED",
   "legalName": "BNY MELLON ASSET MANAGEMENT AUSTRALIA LIMITED",
-  "bic": "MGIVAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnymellonassetmanagementaustralialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MGIVAU21XXX"
 }

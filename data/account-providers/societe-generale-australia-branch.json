@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE, AUSTRALIA BRANCH",
   "legalName": "SOCIETE GENERALE, AUSTRALIA BRANCH",
-  "bic": "SOGEAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneraleaustraliabranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGEAU21XXX"
 }

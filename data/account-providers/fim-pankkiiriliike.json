@@ -8,7 +8,6 @@
   ],
   "name": "FIM PANKKIIRILIIKE",
   "legalName": "FIM PANKKIIRILIIKE",
-  "bic": "FIPAFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fimpankkiiriliike.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIPAFIH1XXX"
 }

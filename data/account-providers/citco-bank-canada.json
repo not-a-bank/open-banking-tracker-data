@@ -8,7 +8,6 @@
   ],
   "name": "CITCO BANK CANADA",
   "legalName": "CITCO BANK CANADA",
-  "bic": "CITCCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citcobankcanada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITCCATTXXX"
 }

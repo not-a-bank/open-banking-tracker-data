@@ -8,7 +8,6 @@
   ],
   "name": "NANYANG COMMERCIAL BANK (CHINA), LIMITED",
   "legalName": "NANYANG COMMERCIAL BANK (CHINA), LIMITED",
-  "bic": "NYCBCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nanyangcommercialbankchinalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NYCBCNSHXXX"
 }

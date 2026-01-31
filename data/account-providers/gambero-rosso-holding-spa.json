@@ -8,7 +8,6 @@
   ],
   "name": "GAMBERO ROSSO HOLDING S.P.A.",
   "legalName": "GAMBERO ROSSO HOLDING S.P.A.",
-  "bic": "GARHITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gamberorossoholdingspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GARHITR1XXX"
 }

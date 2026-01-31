@@ -8,7 +8,6 @@
   ],
   "name": "DASHEN BANK S.C.",
   "legalName": "DASHEN BANK S.C.",
-  "bic": "DASHETAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dashenbanksc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DASHETAAXXX"
 }

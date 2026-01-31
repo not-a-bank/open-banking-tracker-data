@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DI IMOLA S.P.A.",
   "legalName": "BANCA DI IMOLA S.P.A.",
-  "bic": "IMCOIT2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadiimolaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IMCOIT2AXXX"
 }

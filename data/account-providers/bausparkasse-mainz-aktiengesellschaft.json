@@ -8,7 +8,6 @@
   ],
   "name": "BAUSPARKASSE MAINZ AKTIENGESELLSCHAFT",
   "legalName": "BAUSPARKASSE MAINZ AKTIENGESELLSCHAFT",
-  "bic": "BKMZDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bausparkassemainzaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKMZDE51XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bank99 AG",
   "legalName": "BANK99 AG",
-  "bic": "SPBAATWWB99",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bank99.at.ico",
@@ -24,10 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPBAATWW"
 }

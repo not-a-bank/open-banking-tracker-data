@@ -8,7 +8,6 @@
   ],
   "name": "NEW YORK COMMERCIAL BANK",
   "legalName": "NEW YORK COMMERCIAL BANK",
-  "bic": "ABNYUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newyorkcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABNYUS33XXX"
 }

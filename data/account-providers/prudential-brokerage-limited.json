@@ -8,7 +8,6 @@
   ],
   "name": "PRUDENTIAL BROKERAGE LIMITED",
   "legalName": "PRUDENTIAL BROKERAGE LIMITED",
-  "bic": "PRUBHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.prudentialbrokeragelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRUBHKH1XXX"
 }

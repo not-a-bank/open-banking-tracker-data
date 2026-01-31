@@ -8,7 +8,6 @@
   ],
   "name": "STOCK S/A COR DE CAM E VAL",
   "legalName": "STOCK S/A COR DE CAM E VAL",
-  "bic": "SCCVBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stocksacordecameval.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCCVBRS1XXX"
 }

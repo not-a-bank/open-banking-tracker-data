@@ -8,7 +8,6 @@
   ],
   "name": "COCA-COLA HBC FINANCE B.V.",
   "legalName": "COCA-COLA HBC FINANCE B.V.",
-  "bic": "CCHBNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cocacolahbcfinancebv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCHBNL2AXXX"
 }

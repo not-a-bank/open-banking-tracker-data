@@ -8,7 +8,6 @@
   ],
   "name": "TD SECURITIES LTD",
   "legalName": "TD SECURITIES LTD",
-  "bic": "SEEIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tdsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEEIGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SPAREKASSEN NORDMORS",
   "legalName": "SPAREKASSEN NORDMORS",
-  "bic": "NOMODK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparekassennordmors.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOMODK21XXX"
 }

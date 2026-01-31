@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE LONDON BRANCH",
   "legalName": "SOCIETE GENERALE LONDON BRANCH",
-  "bic": "SOGEGB33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralelondonbranchgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGEGB33XXX"
 }

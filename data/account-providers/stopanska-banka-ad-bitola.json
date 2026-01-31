@@ -8,7 +8,6 @@
   ],
   "name": "STOPANSKA BANKA AD BITOLA",
   "legalName": "STOPANSKA BANKA AD BITOLA",
-  "bic": "STBBMK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stopanskabankaadbitola.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBBMK22XXX"
 }

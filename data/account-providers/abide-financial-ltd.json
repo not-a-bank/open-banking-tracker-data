@@ -8,7 +8,6 @@
   ],
   "name": "ABIDE FINANCIAL LTD",
   "legalName": "ABIDE FINANCIAL LTD",
-  "bic": "ABFNGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abidefinancialltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABFNGB21XXX"
 }

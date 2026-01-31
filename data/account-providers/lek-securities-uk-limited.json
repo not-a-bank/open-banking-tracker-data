@@ -8,7 +8,6 @@
   ],
   "name": "LEK SECURITIES UK LIMITED",
   "legalName": "LEK SECURITIES UK LIMITED",
-  "bic": "LESEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.leksecuritiesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LESEGB21XXX"
 }

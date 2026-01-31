@@ -8,7 +8,6 @@
   ],
   "name": "TRUSTBANK, PRIVATE JOINT STOCK-EXCHANGE BANK",
   "legalName": "TRUSTBANK, PRIVATE JOINT STOCK-EXCHANGE BANK",
-  "bic": "TRSAUZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trustbankprivatejointstockexchangebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRSAUZ22XXX"
 }

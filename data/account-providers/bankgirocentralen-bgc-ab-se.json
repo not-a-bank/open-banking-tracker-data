@@ -8,7 +8,6 @@
   ],
   "name": "BANKGIROCENTRALEN BGC AB",
   "legalName": "BANKGIROCENTRALEN BGC AB",
-  "bic": "BGABSESGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankgirocentralenbgcabse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGABSESGXXX"
 }

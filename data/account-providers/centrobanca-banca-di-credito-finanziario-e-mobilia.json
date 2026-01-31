@@ -8,7 +8,6 @@
   ],
   "name": "CENTROBANCA BANCA DI CREDITO FINANZIARIO E MOBILIARE S.P.A",
   "legalName": "CENTROBANCA BANCA DI CREDITO FINANZIARIO E MOBILIARE S.P.A",
-  "bic": "BPCCITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centrobancabancadicreditofinanziarioemobilia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPCCITM1XXX"
 }

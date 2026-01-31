@@ -66,7 +66,7 @@
       "categories": [
         "payments"
       ],
-      "description": "The payment initiation API enables any third party, registered as an approved Payment Initiation Service Provider (PISP) with Open Banking, to provision secure payments on behalf of our customers. The payment, once approved and authorised by the customer, is submitted for processing. We currently support the submission of a single, immediate, domestic payment from our customer\u2019s UK personal and business current accounts.",
+      "description": "The payment initiation API enables any third party, registered as an approved Payment Initiation Service Provider (PISP) with Open Banking, to provision secure payments on behalf of our customers. The payment, once approved and authorised by the customer, is submitted for processing. We currently support the submission of a single, immediate, domestic payment from our customer’s UK personal and business current accounts.",
       "documentationUrl": "https://www.bankofapis.com/products/payments/documentation/nwb",
       "apiReferenceUrl": "https://www.bankofapis.com/products/payments/documentation/nwb",
       "premium": false,
@@ -92,6 +92,7 @@
     "bridgeapi-io",
     "equensworldline",
     "friendlyscore",
+    "gocardless",
     "klarna",
     "moneyhub-enterprise",
     "openwrks",
@@ -158,5 +159,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "NWBKGB2L"
 }

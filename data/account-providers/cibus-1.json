@@ -8,7 +8,6 @@
   ],
   "name": "CIBUS 1",
   "legalName": "CIBUS 1",
-  "bic": "CBSUIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cibus1.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBSUIT21XXX"
 }

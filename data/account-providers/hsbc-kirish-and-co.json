@@ -8,7 +8,6 @@
   ],
   "name": "HSBC KIRISH AND CO.",
   "legalName": "HSBC KIRISH AND CO.",
-  "bic": "HSKISI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbckirishandco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HSKISI21XXX"
 }

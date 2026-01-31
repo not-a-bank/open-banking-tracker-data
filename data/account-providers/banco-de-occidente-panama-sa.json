@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE OCCIDENTE (PANAMA), S.A.",
   "legalName": "BANCO DE OCCIDENTE (PANAMA), S.A.",
-  "bic": "OCCIPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodeoccidentepanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OCCIPAPAXXX"
 }

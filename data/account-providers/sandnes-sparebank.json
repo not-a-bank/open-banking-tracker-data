@@ -9,7 +9,6 @@
   ],
   "name": "SANDNES SPAREBANK",
   "legalName": "SANDNES SPAREBANK",
-  "bic": "SASKNO22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/e73387eb-be1b-41fa-9b73-e8d353be51aa/-/preview/170x170/-/crop/180x180/center/NO915691161.png",
@@ -60,5 +59,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SASKNO22XXX"
 }

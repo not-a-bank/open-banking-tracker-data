@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE FINANCIERE DE PAIEMENTS",
   "legalName": "SOCIETE FINANCIERE DE PAIEMENTS",
-  "bic": "SFPTFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societefinancieredepaiements.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFPTFR21XXX"
 }

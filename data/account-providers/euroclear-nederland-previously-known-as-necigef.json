@@ -8,7 +8,6 @@
   ],
   "name": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
   "legalName": "EUROCLEAR NEDERLAND (PREVIOUSLY KNOWN AS NECIGEF)",
-  "bic": "NECINL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euroclearnederlandpreviouslyknownasnecigef.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NECINL2AXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BMT FINANZ SA",
   "legalName": "BMT FINANZ SA",
-  "bic": "BMFACHG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bmtfinanzsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMFACHG1XXX"
 }

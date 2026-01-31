@@ -8,7 +8,6 @@
   ],
   "name": "BANK NEYVA",
   "legalName": "BANK NEYVA",
-  "bic": "CONYRU2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankneyva.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONYRU2NXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "LIQUID CAPITAL SECURITIES LTD",
   "legalName": "LIQUID CAPITAL SECURITIES LTD",
-  "bic": "LICEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.liquidcapitalsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LICEGB21XXX"
 }

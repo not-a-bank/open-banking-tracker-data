@@ -8,7 +8,6 @@
   ],
   "name": "UBI BANCA S.P.A. (FORMERLY CARILO - CASSA DI RISPARMIO DI LORETO)",
   "legalName": "UBI BANCA S.P.A. (FORMERLY CARILO - CASSA DI RISPARMIO DI LORETO)",
-  "bic": "CRLOIT3LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubibancaspaformerlycarilocassadirisparmiod.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRLOIT3LXXX"
 }

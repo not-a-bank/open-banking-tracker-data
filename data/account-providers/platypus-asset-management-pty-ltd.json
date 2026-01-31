@@ -8,7 +8,6 @@
   ],
   "name": "PLATYPUS ASSET MANAGEMENT PTY LTD",
   "legalName": "PLATYPUS ASSET MANAGEMENT PTY LTD",
-  "bic": "PLSMAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.platypusassetmanagementptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PLSMAU21XXX"
 }

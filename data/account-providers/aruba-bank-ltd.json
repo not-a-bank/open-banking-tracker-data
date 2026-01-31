@@ -8,7 +8,6 @@
   ],
   "name": "ARUBA BANK, LTD",
   "legalName": "ARUBA BANK, LTD",
-  "bic": "ARUBAWAXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arubabankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARUBAWAXXXX"
 }

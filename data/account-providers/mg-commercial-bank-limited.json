@@ -8,7 +8,6 @@
   ],
   "name": "MG COMMERCIAL BANK LIMITED",
   "legalName": "MG COMMERCIAL BANK LIMITED",
-  "bic": "MGCBVUVVXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mgcommercialbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MGCBVUVVXXX"
 }

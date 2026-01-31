@@ -8,7 +8,6 @@
   ],
   "name": "EUROBANK EQUITIES INVESTMENT FIRM S.A.",
   "legalName": "EUROBANK EQUITIES INVESTMENT FIRM S.A.",
-  "bic": "EFESGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurobankequitiesinvestmentfirmsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFESGRA1XXX"
 }

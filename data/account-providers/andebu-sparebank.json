@@ -9,7 +9,6 @@
   ],
   "name": "ANDEBU SPAREBANK",
   "legalName": "ANDEBU SPAREBANK",
-  "bic": "ANBUNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/e37c5a56-fb21-4581-8e2f-3d048b4bb6c1/-/preview/170x170/-/crop/180x180/center/NO937890540.png",
@@ -55,11 +54,13 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "enablebanking",
-    "neonomics"
+    "gocardless",
+    "neonomics",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANBUNO21"
 }

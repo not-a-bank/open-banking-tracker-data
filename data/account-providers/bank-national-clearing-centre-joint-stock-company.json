@@ -8,7 +8,6 @@
   ],
   "name": "BANK NATIONAL CLEARING CENTRE (JOINT-STOCK COMPANY)",
   "legalName": "BANK NATIONAL CLEARING CENTRE (JOINT-STOCK COMPANY)",
-  "bic": "NCCBRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banknationalclearingcentrejointstockcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NCCBRUMMXXX"
 }

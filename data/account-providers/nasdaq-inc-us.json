@@ -8,7 +8,6 @@
   ],
   "name": "NASDAQ, INC.",
   "legalName": "NASDAQ, INC.",
-  "bic": "NDAQUS3SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nasdaqincus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDAQUS3SXXX"
 }

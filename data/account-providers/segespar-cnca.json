@@ -8,7 +8,6 @@
   ],
   "name": "SEGESPAR CNCA",
   "legalName": "SEGESPAR CNCA",
-  "bic": "SECNFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.segesparcnca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SECNFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GIROBANK NV BONAIRE BRANCH",
   "legalName": "GIROBANK NV BONAIRE BRANCH",
-  "bic": "GIRCBQBNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.girobanknvbonairebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GIRCBQBNXXX"
 }

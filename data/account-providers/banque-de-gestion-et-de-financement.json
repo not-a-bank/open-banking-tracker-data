@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE GESTION ET DE FINANCEMENT",
   "legalName": "BANQUE DE GESTION ET DE FINANCEMENT",
-  "bic": "BKGFBIBIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedegestionetdefinancement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKGFBIBIXXX"
 }

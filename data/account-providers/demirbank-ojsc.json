@@ -8,7 +8,6 @@
   ],
   "name": "DEMIRBANK OJSC",
   "legalName": "DEMIRBANK OJSC",
-  "bic": "AZERAZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.demirbankojsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZERAZ22XXX"
 }

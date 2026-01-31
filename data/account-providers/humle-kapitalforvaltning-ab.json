@@ -8,7 +8,6 @@
   ],
   "name": "HUMLE KAPITALFORVALTNING AB",
   "legalName": "HUMLE KAPITALFORVALTNING AB",
-  "bic": "HUKASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.humlekapitalforvaltningab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HUKASES1XXX"
 }

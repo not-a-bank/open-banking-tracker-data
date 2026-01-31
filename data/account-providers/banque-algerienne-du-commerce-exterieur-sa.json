@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE ALGERIENNE DU COMMERCE EXTERIEUR S.A.",
   "legalName": "BANQUE ALGERIENNE DU COMMERCE EXTERIEUR S.A.",
-  "bic": "AEXTCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquealgerienneducommerceexterieursa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEXTCHZZXXX"
 }

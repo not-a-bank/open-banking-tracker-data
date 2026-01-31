@@ -8,7 +8,6 @@
   ],
   "name": "HABIB CANADIAN BANK",
   "legalName": "HABIB CANADIAN BANK",
-  "bic": "HBZUCATTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.habibcanadianbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBZUCATTXXX"
 }

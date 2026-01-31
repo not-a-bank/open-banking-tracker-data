@@ -8,7 +8,6 @@
   ],
   "name": "CARDIF LUX VIE",
   "legalName": "CARDIF LUX VIE",
-  "bic": "FTSILULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cardifluxvie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTSILULLXXX"
 }

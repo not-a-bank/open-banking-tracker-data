@@ -8,7 +8,6 @@
   ],
   "name": "NASPA DUBLIN",
   "legalName": "NASPA DUBLIN",
-  "bic": "GANUIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.naspadublin.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GANUIE21XXX"
 }

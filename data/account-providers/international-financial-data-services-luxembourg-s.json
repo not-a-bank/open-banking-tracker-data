@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL FINANCIAL DATA SERVICES (LUXEMBOURG) S.A.",
   "legalName": "INTERNATIONAL FINANCIAL DATA SERVICES (LUXEMBOURG) S.A.",
-  "bic": "IFDELUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalfinancialdataservicesluxembourgs.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IFDELUL1XXX"
 }

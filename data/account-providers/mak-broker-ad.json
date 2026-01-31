@@ -8,7 +8,6 @@
   ],
   "name": "MAK BROKER AD",
   "legalName": "MAK BROKER AD",
-  "bic": "MBBRMK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.makbrokerad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBBRMK21XXX"
 }

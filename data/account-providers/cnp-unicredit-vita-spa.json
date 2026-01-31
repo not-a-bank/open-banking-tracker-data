@@ -8,7 +8,6 @@
   ],
   "name": "CNP UNICREDIT VITA S.P.A.",
   "legalName": "CNP UNICREDIT VITA S.P.A.",
-  "bic": "CNUVITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cnpunicreditvitaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNUVITR1XXX"
 }

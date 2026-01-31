@@ -8,7 +8,6 @@
   ],
   "name": "DERBORSA MENKUL DEGERLER",
   "legalName": "DERBORSA MENKUL DEGERLER",
-  "bic": "DEMGTRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.derborsamenkuldegerler.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEMGTRI1XXX"
 }

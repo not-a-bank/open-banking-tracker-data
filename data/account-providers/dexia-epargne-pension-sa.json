@@ -8,7 +8,6 @@
   ],
   "name": "DEXIA EPARGNE PENSION SA",
   "legalName": "DEXIA EPARGNE PENSION SA",
-  "bic": "DEPEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dexiaepargnepensionsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEPEFRP1XXX"
 }

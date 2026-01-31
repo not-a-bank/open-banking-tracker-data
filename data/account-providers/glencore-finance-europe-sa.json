@@ -8,7 +8,6 @@
   ],
   "name": "GLENCORE FINANCE (EUROPE) SA",
   "legalName": "GLENCORE FINANCE (EUROPE) SA",
-  "bic": "GFEULUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.glencorefinanceeuropesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GFEULUL1XXX"
 }

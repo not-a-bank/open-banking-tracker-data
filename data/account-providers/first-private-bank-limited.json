@@ -8,7 +8,6 @@
   ],
   "name": "FIRST PRIVATE BANK LIMITED",
   "legalName": "FIRST PRIVATE BANK LIMITED",
-  "bic": "FPBPMMMYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstprivatebanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FPBPMMMYXXX"
 }

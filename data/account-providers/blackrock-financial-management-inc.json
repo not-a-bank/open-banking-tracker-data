@@ -8,7 +8,6 @@
   ],
   "name": "BLACKROCK FINANCIAL MANAGEMENT INC.",
   "legalName": "BLACKROCK FINANCIAL MANAGEMENT INC.",
-  "bic": "BLKSUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.blackrockfinancialmanagementinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLKSUS33XXX"
 }

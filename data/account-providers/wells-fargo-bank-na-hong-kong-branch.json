@@ -8,7 +8,6 @@
   ],
   "name": "WELLS FARGO BANK N.A. HONG KONG BRANCH",
   "legalName": "WELLS FARGO BANK N.A. HONG KONG BRANCH",
-  "bic": "WFBIHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wellsfargobanknahongkongbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WFBIHKH1XXX"
 }

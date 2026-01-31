@@ -8,7 +8,6 @@
   ],
   "name": "WHRS INVESTMENT MANAGEMENT",
   "legalName": "WHRS INVESTMENT MANAGEMENT",
-  "bic": "WHIMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.whrsinvestmentmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WHIMUS31XXX"
 }

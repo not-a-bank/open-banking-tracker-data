@@ -8,7 +8,6 @@
   ],
   "name": "IMI CAPITAL MARKETS (UK) LIMITED",
   "legalName": "IMI CAPITAL MARKETS (UK) LIMITED",
-  "bic": "ICMLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.imicapitalmarketsuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICMLGB21XXX"
 }

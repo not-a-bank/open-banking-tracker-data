@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE ZU LUBECK AG",
   "legalName": "SPARKASSE ZU LUBECK AG",
-  "bic": "SPUBDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassezulubeckag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPUBDE21XXX"
 }

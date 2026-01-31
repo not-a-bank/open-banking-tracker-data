@@ -8,7 +8,6 @@
   ],
   "name": "ABERDEEN ASSET MANAGEMENT ASIA LIMITED",
   "legalName": "ABERDEEN ASSET MANAGEMENT ASIA LIMITED",
-  "bic": "ABFMSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aberdeenassetmanagementasialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABFMSGS1XXX"
 }

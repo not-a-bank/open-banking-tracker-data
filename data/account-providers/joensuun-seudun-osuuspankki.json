@@ -8,7 +8,6 @@
   ],
   "name": "JOENSUUN SEUDUN OSUUSPANKKI",
   "legalName": "JOENSUUN SEUDUN OSUUSPANKKI",
-  "bic": "JOSSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.joensuunseudunosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JOSSFI21XXX"
 }

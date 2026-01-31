@@ -8,7 +8,6 @@
   ],
   "name": "RUBINO FINANCE SRL",
   "legalName": "RUBINO FINANCE SRL",
-  "bic": "RUFLITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rubinofinancesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RUFLITM1XXX"
 }

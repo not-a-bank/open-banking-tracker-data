@@ -8,7 +8,6 @@
   ],
   "name": "BNG CAPITAL MANAGEMENT B.V.",
   "legalName": "BNG CAPITAL MANAGEMENT B.V.",
-  "bic": "BCMTNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bngcapitalmanagementbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCMTNL21XXX"
 }

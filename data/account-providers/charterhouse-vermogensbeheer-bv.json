@@ -8,7 +8,6 @@
   ],
   "name": "CHARTERHOUSE VERMOGENSBEHEER B.V.",
   "legalName": "CHARTERHOUSE VERMOGENSBEHEER B.V.",
-  "bic": "CHVENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.charterhousevermogensbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHVENL21XXX"
 }

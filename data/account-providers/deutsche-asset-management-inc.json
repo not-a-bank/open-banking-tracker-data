@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE ASSET MANAGEMENT, INC.",
   "legalName": "DEUTSCHE ASSET MANAGEMENT, INC.",
-  "bic": "DEANUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutscheassetmanagementinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEANUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ARIS",
   "legalName": "ARIS",
-  "bic": "AIISFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aris.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIISFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HSBC REAL ESTATE LEASING (FRANCE) SA",
   "legalName": "HSBC REAL ESTATE LEASING (FRANCE) SA",
-  "bic": "HRELFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcrealestateleasingfrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HRELFRP1XXX"
 }

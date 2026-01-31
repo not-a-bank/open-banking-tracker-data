@@ -8,7 +8,6 @@
   ],
   "name": "FITCH RATINGS (THAILAND) LIMITED",
   "legalName": "FITCH RATINGS (THAILAND) LIMITED",
-  "bic": "FRIPTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fitchratingsthailandlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRIPTHB1XXX"
 }

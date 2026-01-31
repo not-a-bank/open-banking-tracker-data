@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF PAKISTAN, KABUL BRANCH",
   "legalName": "NATIONAL BANK OF PAKISTAN, KABUL BRANCH",
-  "bic": "NBPAAFKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofpakistankabulbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBPAAFKAXXX"
 }

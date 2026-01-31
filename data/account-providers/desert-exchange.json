@@ -8,7 +8,6 @@
   ],
   "name": "DESERT EXCHANGE",
   "legalName": "DESERT EXCHANGE",
-  "bic": "DEEXAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.desertexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEEXAEADXXX"
 }

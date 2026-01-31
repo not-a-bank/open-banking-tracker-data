@@ -30,8 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge",
     "volt"
   ],
-  "swiftCode": "VOVBAT2BXXX"
+  "bic": "VOVBAT2BXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CORDUSIO SIM - ADVISORY AND FAMILY OFFICE S.P.A.",
   "legalName": "CORDUSIO SIM - ADVISORY AND FAMILY OFFICE S.P.A.",
-  "bic": "CSAFITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cordusiosimadvisoryandfamilyofficespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSAFITM1XXX"
 }

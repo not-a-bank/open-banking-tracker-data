@@ -8,7 +8,6 @@
   ],
   "name": "BAB BANKERNAS AUTOMATBOLAG AB",
   "legalName": "BAB BANKERNAS AUTOMATBOLAG AB",
-  "bic": "BAUBSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.babbankernasautomatbolagab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAUBSES1XXX"
 }

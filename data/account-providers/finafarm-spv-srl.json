@@ -8,7 +8,6 @@
   ],
   "name": "FINAFARM SPV S.R.L.",
   "legalName": "FINAFARM SPV S.R.L.",
-  "bic": "FNPLIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finafarmspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNPLIT21XXX"
 }

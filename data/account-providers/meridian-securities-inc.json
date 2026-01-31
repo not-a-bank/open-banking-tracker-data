@@ -8,7 +8,6 @@
   ],
   "name": "MERIDIAN SECURITIES INC",
   "legalName": "MERIDIAN SECURITIES INC",
-  "bic": "MERTPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.meridiansecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MERTPHM1XXX"
 }

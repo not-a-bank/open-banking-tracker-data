@@ -8,7 +8,6 @@
   ],
   "name": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
   "legalName": "UBI BANCA SPA (FORMERLY BANCA CARIME SPA)",
-  "bic": "CARMIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubibancaspaformerlybancacarimespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CARMIT31XXX"
 }

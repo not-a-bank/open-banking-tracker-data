@@ -8,7 +8,6 @@
   ],
   "name": "ORABANK GUINEE BISSAU",
   "legalName": "ORABANK GUINEE BISSAU",
-  "bic": "ORBKGWGWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orabankguineebissau.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORBKGWGWXXX"
 }

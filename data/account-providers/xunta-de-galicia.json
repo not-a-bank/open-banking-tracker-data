@@ -8,7 +8,6 @@
   ],
   "name": "XUNTA DE GALICIA",
   "legalName": "XUNTA DE GALICIA",
-  "bic": "CAGCES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.xuntadegalicia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAGCES21XXX"
 }

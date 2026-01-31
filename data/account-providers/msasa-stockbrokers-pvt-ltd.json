@@ -8,7 +8,6 @@
   ],
   "name": "MSASA STOCKBROKERS (PVT) LTD",
   "legalName": "MSASA STOCKBROKERS (PVT) LTD",
-  "bic": "MSSTZWH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.msasastockbrokerspvtltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSSTZWH1XXX"
 }

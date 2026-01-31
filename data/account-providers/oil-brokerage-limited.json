@@ -8,7 +8,6 @@
   ],
   "name": "OIL BROKERAGE LIMITED",
   "legalName": "OIL BROKERAGE LIMITED",
-  "bic": "OIBRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oilbrokeragelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OIBRGB21XXX"
 }

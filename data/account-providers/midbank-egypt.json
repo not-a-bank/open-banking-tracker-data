@@ -9,7 +9,6 @@
   ],
   "name": "MIDBANK",
   "legalName": "MIDBANK Egypt",
-  "bic": null,
   "verified": false,
   "status": "live",
   "icon": "https://www.midbank.com.eg/themes/custom/midbank/logo.svg",
@@ -35,5 +34,6 @@
       "icon": "https://res.cloudinary.com/apideck/image/upload/v1614098937/icons/temenos.jpg",
       "websiteUrl": "https://www.temenos.com/"
     }
-  ]
+  ],
+  "bic": null
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RURAL INTERNATIONAL BANK",
   "legalName": "RURAL INTERNATIONAL BANK",
-  "bic": "RUBABSN1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ruralinternationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RUBABSN1XXX"
 }

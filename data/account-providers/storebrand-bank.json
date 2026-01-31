@@ -37,6 +37,7 @@
   "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/apis",
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
@@ -96,5 +97,6 @@
   "bloomberg": "STB:NO",
   "github": "storebrand",
   "fca": null,
-  "articles": []
+  "articles": [],
+  "bic": "STFBNOKK"
 }

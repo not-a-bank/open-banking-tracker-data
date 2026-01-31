@@ -8,7 +8,6 @@
   ],
   "name": "NIZHNY NOVGOROD SOCIAL COMMERCIAL BANK GUARANTEE",
   "legalName": "NIZHNY NOVGOROD SOCIAL COMMERCIAL BANK GUARANTEE",
-  "bic": "SCBGRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nizhnynovgorodsocialcommercialbankguarantee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCBGRU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CIMB SECURITIES (USA), INC.",
   "legalName": "CIMB SECURITIES (USA), INC.",
-  "bic": "CIUUUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cimbsecuritiesusainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIUUUS31XXX"
 }

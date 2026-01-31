@@ -8,7 +8,6 @@
   ],
   "name": "SARAWAK SECURITIES FUTURES SDN BHD",
   "legalName": "SARAWAK SECURITIES FUTURES SDN BHD",
-  "bic": "SSFOMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sarawaksecuritiesfuturessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSFOMYK1XXX"
 }

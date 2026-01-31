@@ -8,7 +8,6 @@
   ],
   "name": "INTESA SANPAOLO BRASIL S.A. - BANCO MULTIPLO",
   "legalName": "INTESA SANPAOLO BRASIL S.A. - BANCO MULTIPLO",
-  "bic": "BCITBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intesasanpaolobrasilsabancomultiplo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCITBRSPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KSIT FINANCE AND SECURITIES PLC",
   "legalName": "KSIT FINANCE AND SECURITIES PLC",
-  "bic": "KFSCTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ksitfinanceandsecuritiesplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KFSCTHB1XXX"
 }

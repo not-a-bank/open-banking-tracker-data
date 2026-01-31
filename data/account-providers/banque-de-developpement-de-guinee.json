@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE DEVELOPPEMENT DE GUINEE",
   "legalName": "BANQUE DE DEVELOPPEMENT DE GUINEE",
-  "bic": "BDGEGNGNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquededeveloppementdeguinee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDGEGNGNXXX"
 }

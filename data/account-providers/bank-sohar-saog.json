@@ -8,7 +8,6 @@
   ],
   "name": "BANK SOHAR S.A.O.G",
   "legalName": "BANK SOHAR S.A.O.G",
-  "bic": "BSHROMRUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banksoharsaog.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSHROMRUXXX"
 }

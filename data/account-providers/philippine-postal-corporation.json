@@ -8,7 +8,6 @@
   ],
   "name": "PHILIPPINE POSTAL CORPORATION",
   "legalName": "PHILIPPINE POSTAL CORPORATION",
-  "bic": "PPOSPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philippinepostalcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PPOSPHM1XXX"
 }

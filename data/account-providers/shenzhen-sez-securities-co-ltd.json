@@ -8,7 +8,6 @@
   ],
   "name": "SHENZHEN SEZ SECURITIES CO LTD",
   "legalName": "SHENZHEN SEZ SECURITIES CO LTD",
-  "bic": "SHSSCNB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shenzhensezsecuritiescoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHSSCNB1XXX"
 }

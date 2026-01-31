@@ -8,7 +8,6 @@
   ],
   "name": "FLEMING MANSOUR SECURITIES BROKERAGE",
   "legalName": "FLEMING MANSOUR SECURITIES BROKERAGE",
-  "bic": "FMSREGC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.flemingmansoursecuritiesbrokerage.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMSREGC1XXX"
 }

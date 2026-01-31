@@ -8,7 +8,6 @@
   ],
   "name": "ANZ AMERIKA SAMOA BANK",
   "legalName": "ANZ AMERIKA SAMOA BANK",
-  "bic": "ANZBASPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anzamerikasamoabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBASPAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HSBC PANTELAKIS SECURITIES S.A.",
   "legalName": "HSBC PANTELAKIS SECURITIES S.A.",
-  "bic": "MDPSGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcpantelakissecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MDPSGRA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SHINKO SECURITIES (U.S.A.) INC",
   "legalName": "SHINKO SECURITIES (U.S.A.) INC",
-  "bic": "SNKOUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shinkosecuritiesusainc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SNKOUS31XXX"
 }

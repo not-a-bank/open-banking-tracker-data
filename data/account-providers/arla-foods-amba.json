@@ -8,7 +8,6 @@
   ],
   "name": "ARLA FOODS AMBA",
   "legalName": "ARLA FOODS AMBA",
-  "bic": "ARDADK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arlafoodsamba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARDADK21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ELIGEST SA",
   "legalName": "ELIGEST SA",
-  "bic": "ELIGFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eligestsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ELIGFRP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PRIVATE HOLDING BANK LTD, COMMERCIAL BANK",
   "legalName": "PRIVATE HOLDING BANK LTD, COMMERCIAL BANK",
-  "bic": "PRHCRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.privateholdingbankltdcommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRHCRUM1XXX"
 }

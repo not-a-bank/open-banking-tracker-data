@@ -8,7 +8,6 @@
   ],
   "name": "CITY EXPRESS BANK LIMITED",
   "legalName": "CITY EXPRESS BANK LIMITED",
-  "bic": "CIEHNGL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cityexpressbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIEHNGL1XXX"
 }

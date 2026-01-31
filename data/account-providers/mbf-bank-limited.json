@@ -8,7 +8,6 @@
   ],
   "name": "MBF BANK LIMITED",
   "legalName": "MBF BANK LIMITED",
-  "bic": "MBFMTONUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mbfbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBFMTONUXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INVESTERINGSFORENINGEN NORDEA INVEST,ENGROS MELLEMLANGE OBLIGATIONER",
   "legalName": "INVESTERINGSFORENINGEN NORDEA INVEST,ENGROS MELLEMLANGE OBLIGATIONER",
-  "bic": "IOERDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investeringsforeningennordeainvestengrosmelleml.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IOERDKK1XXX"
 }

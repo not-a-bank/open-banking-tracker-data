@@ -8,7 +8,6 @@
   ],
   "name": "AUDI BANK ZWEIGNIEDERLASSUNG DER VOLKSWAGEN BANK GMBH",
   "legalName": "AUDI BANK ZWEIGNIEDERLASSUNG DER VOLKSWAGEN BANK GMBH",
-  "bic": "AUDFDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.audibankzweigniederlassungdervolkswagenbankg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUDFDE21XXX"
 }

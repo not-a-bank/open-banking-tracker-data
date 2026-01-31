@@ -8,7 +8,6 @@
   ],
   "name": "LAO CONSTRUCTION BANK",
   "legalName": "LAO CONSTRUCTION BANK",
-  "bic": "LCBVLALAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.laoconstructionbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LCBVLALAXXX"
 }

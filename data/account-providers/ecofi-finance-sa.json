@@ -8,7 +8,6 @@
   ],
   "name": "ECOFI-FINANCE S.A.",
   "legalName": "ECOFI-FINANCE S.A.",
-  "bic": "ECOFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecofifinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOFFRP1XXX"
 }

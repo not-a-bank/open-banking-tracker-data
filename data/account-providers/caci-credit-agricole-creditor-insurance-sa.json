@@ -8,7 +8,6 @@
   ],
   "name": "CACI - CREDIT AGRICOLE CREDITOR INSURANCE SA",
   "legalName": "CACI - CREDIT AGRICOLE CREDITOR INSURANCE SA",
-  "bic": "AGRJFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cacicreditagricolecreditorinsurancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRJFRPPXXX"
 }

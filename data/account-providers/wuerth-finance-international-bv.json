@@ -8,7 +8,6 @@
   ],
   "name": "WUERTH FINANCE INTERNATIONAL B.V.",
   "legalName": "WUERTH FINANCE INTERNATIONAL B.V.",
-  "bic": "WUFICHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wuerthfinanceinternationalbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WUFICHZZXXX"
 }

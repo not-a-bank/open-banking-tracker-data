@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CREDIT ANDORRA (PANAMA) S.A.",
   "legalName": "BANCO CREDIT ANDORRA (PANAMA) S.A.",
-  "bic": "CRDAPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocreditandorrapanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRDAPAPAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK MALTA P.L.C.",
   "legalName": "HSBC BANK MALTA P.L.C.",
-  "bic": "MMEBMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankmaltaplcmt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MMEBMTMTXXX"
 }

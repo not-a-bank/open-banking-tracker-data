@@ -8,7 +8,6 @@
   ],
   "name": "BALAKOVO-BANK OAO",
   "legalName": "BALAKOVO-BANK OAO",
-  "bic": "BLAARU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.balakovobankoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLAARU21XXX"
 }

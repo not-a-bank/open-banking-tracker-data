@@ -8,7 +8,6 @@
   ],
   "name": "UCHUMI COMMERCIAL BANK LTD",
   "legalName": "UCHUMI COMMERCIAL BANK LTD",
-  "bic": "UCCTTZTZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uchumicommercialbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UCCTTZTZXXX"
 }

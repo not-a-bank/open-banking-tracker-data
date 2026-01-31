@@ -8,7 +8,6 @@
   ],
   "name": "INVESCO ASSET MANAGEMENT LTD.",
   "legalName": "INVESCO ASSET MANAGEMENT LTD.",
-  "bic": "INVOGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invescoassetmanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INVOGB2LXXX"
 }

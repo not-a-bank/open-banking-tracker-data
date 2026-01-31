@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK AKTIENGESELLSCHAFT FILIALE WIEN (VIENNA BRANCH)",
   "legalName": "DEUTSCHE BANK AKTIENGESELLSCHAFT FILIALE WIEN (VIENNA BRANCH)",
-  "bic": "DEUTATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankaktiengesellschaftfilialewienvien.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTATWWXXX"
 }

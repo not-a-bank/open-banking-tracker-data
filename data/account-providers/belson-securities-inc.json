@@ -8,7 +8,6 @@
   ],
   "name": "BELSON SECURITIES, INC.",
   "legalName": "BELSON SECURITIES, INC.",
-  "bic": "BELCPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.belsonsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BELCPHM1XXX"
 }

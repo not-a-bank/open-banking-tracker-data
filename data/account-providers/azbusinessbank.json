@@ -8,7 +8,6 @@
   ],
   "name": "AZBUSINESSBANK",
   "legalName": "AZBUSINESSBANK",
-  "bic": "AZBUAZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.azbusinessbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZBUAZ21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "X-TRADE BROKERS DM S.A. SUCURSAL EN ESPANA",
   "legalName": "X-TRADE BROKERS DM S.A. SUCURSAL EN ESPANA",
-  "bic": "TBESESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.xtradebrokersdmsasucursalenespana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TBESESM1XXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "BANCA POPOLARE DEL FRUSINATE",
   "legalName": "BANCA POPOLARE DEL FRUSINATE",
-  "bic": "BPFRIT3FXXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/bpf_it.svg",
@@ -30,9 +29,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPFRIT3F"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
   "legalName": "SOCIETE GENERALE DE BANQUE AU LIBAN S.A.L.",
-  "bic": "SGLILBBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneraledebanqueaulibansal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGLILBBXXXX"
 }

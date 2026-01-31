@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS STOCKBROKERS (BACS) LTD.",
   "legalName": "BARCLAYS STOCKBROKERS (BACS) LTD.",
-  "bic": "BASBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysstockbrokersbacsltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BASBGB21XXX"
 }

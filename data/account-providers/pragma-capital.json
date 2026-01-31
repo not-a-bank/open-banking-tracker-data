@@ -8,7 +8,6 @@
   ],
   "name": "PRAGMA CAPITAL",
   "legalName": "PRAGMA CAPITAL",
-  "bic": "PRGAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pragmacapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRGAFRP1XXX"
 }

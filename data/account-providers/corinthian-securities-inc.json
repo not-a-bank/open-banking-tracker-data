@@ -8,7 +8,6 @@
   ],
   "name": "CORINTHIAN SECURITIES, INC.",
   "legalName": "CORINTHIAN SECURITIES, INC.",
-  "bic": "CORCPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.corinthiansecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CORCPHM1XXX"
 }

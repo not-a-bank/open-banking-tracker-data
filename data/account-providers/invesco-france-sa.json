@@ -8,7 +8,6 @@
   ],
   "name": "INVESCO FRANCE SA",
   "legalName": "INVESCO FRANCE SA",
-  "bic": "INRAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.invescofrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INRAFRP1XXX"
 }

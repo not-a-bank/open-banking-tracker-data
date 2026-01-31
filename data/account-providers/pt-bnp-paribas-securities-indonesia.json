@@ -8,7 +8,6 @@
   ],
   "name": "PT. BNP PARIBAS SECURITIES INDONESIA",
   "legalName": "PT. BNP PARIBAS SECURITIES INDONESIA",
-  "bic": "PBPEIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbnpparibassecuritiesindonesia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBPEIDJ1XXX"
 }

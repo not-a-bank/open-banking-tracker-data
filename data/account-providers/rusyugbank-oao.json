@@ -8,7 +8,6 @@
   ],
   "name": "RUSYUGBANK OAO",
   "legalName": "RUSYUGBANK OAO",
-  "bic": "JCCYRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rusyugbankoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JCCYRU21XXX"
 }

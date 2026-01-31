@@ -8,7 +8,6 @@
   ],
   "name": "STADTSPARKASSE MUENCHEN",
   "legalName": "STADTSPARKASSE MUENCHEN",
-  "bic": "SSKMDEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stadtsparkassemuenchen.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSKMDEMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GETAF MBH",
   "legalName": "GETAF MBH",
-  "bic": "GETMDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.getafmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GETMDE71XXX"
 }

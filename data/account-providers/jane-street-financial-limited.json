@@ -8,7 +8,6 @@
   ],
   "name": "JANE STREET FINANCIAL LIMITED",
   "legalName": "JANE STREET FINANCIAL LIMITED",
-  "bic": "JASFGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.janestreetfinanciallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JASFGB21XXX"
 }

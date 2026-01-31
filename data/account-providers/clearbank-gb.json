@@ -8,7 +8,6 @@
   ],
   "name": "CLEARBANK",
   "legalName": "CLEARBANK",
-  "bic": "CLRBGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552648690/radar/icons/clearbank.jpg",
@@ -69,5 +68,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLRBGB22XXX"
 }

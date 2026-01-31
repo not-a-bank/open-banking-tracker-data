@@ -8,7 +8,6 @@
   ],
   "name": "DBS BANK LTD, TOKYO BRANCH",
   "legalName": "DBS BANK LTD, TOKYO BRANCH",
-  "bic": "DBSSJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dbsbankltdtokyobranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DBSSJPJTXXX"
 }

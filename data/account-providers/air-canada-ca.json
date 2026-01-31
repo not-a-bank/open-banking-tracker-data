@@ -8,7 +8,6 @@
   ],
   "name": "AIR CANADA",
   "legalName": "AIR CANADA",
-  "bic": "ACNACA2QXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aircanadaca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACNACA2QXXX"
 }

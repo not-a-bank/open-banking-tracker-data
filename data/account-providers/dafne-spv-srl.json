@@ -8,7 +8,6 @@
   ],
   "name": "DAFNE SPV SRL",
   "legalName": "DAFNE SPV SRL",
-  "bic": "DAPSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dafnespvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAPSITM1XXX"
 }

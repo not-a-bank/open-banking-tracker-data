@@ -8,7 +8,6 @@
   ],
   "name": "SOFIBANQUE SA",
   "legalName": "SOFIBANQUE SA",
-  "bic": "SFBXCDKIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sofibanquesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SFBXCDKIXXX"
 }

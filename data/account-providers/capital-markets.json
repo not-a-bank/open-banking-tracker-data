@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL MARKETS",
   "legalName": "CAPITAL MARKETS",
-  "bic": "CAKRARB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalmarkets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAKRARB1XXX"
 }

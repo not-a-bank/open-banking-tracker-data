@@ -8,7 +8,6 @@
   ],
   "name": "CAIXA ECONOMICA DO ESTADO DO IO GRANDE DO SUL SA",
   "legalName": "CAIXA ECONOMICA DO ESTADO DO IO GRANDE DO SUL SA",
-  "bic": "CEESBRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixaeconomicadoestadodoiograndedosulsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEESBRR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ALLFUNDS SINGAPORE BRANCH",
   "legalName": "ALLFUNDS SINGAPORE BRANCH",
-  "bic": "ALLFSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allfundssingaporebranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALLFSGSGXXX"
 }

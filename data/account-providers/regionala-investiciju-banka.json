@@ -8,7 +8,6 @@
   ],
   "name": "REGIONALA INVESTICIJU BANKA",
   "legalName": "REGIONALA INVESTICIJU BANKA",
-  "bic": "RIBRLV22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.regionalainvesticijubanka.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RIBRLV22XXX"
 }

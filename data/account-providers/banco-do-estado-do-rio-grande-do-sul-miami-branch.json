@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL-MIAMI BRANCH",
   "legalName": "BANCO DO ESTADO DO RIO GRANDE DO SUL-MIAMI BRANCH",
-  "bic": "BRGSUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodoestadodoriograndedosulmiamibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRGSUS33XXX"
 }

@@ -1,0 +1,32 @@
+{
+  "id": "banque-transatlantique",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Banque Transatlantique",
+  "legalName": "Banque Transatlantique",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banque-transatlantique.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "BE",
+  "countries": [
+    "BE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "CMCIBEB1"
+}

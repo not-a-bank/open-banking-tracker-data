@@ -8,7 +8,6 @@
   ],
   "name": "IFCI LIMITED",
   "legalName": "IFCI LIMITED",
-  "bic": "IFCIINDDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ifcilimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IFCIINDDXXX"
 }

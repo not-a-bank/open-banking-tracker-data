@@ -9,7 +9,6 @@
   ],
   "name": "KVINESDAL SPAREBANK",
   "legalName": "KVINESDAL SPAREBANK",
-  "bic": "KVIDNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/92ac51ab-e842-4a95-9808-4fdb56159a28/-/preview/170x170/-/crop/180x180/center/NO937894805.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KVIDNO21"
 }

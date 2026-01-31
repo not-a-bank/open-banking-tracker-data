@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE EXTERIEURE D'ALGERIE",
   "legalName": "BANQUE EXTERIEURE D'ALGERIE",
-  "bic": "BEXADZALXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueexterieuredalgerie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BEXADZALXXX"
 }

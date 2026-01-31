@@ -8,7 +8,6 @@
   ],
   "name": "KEPLER EQUITIES, FRANKFURT BRANCH",
   "legalName": "KEPLER EQUITIES, FRANKFURT BRANCH",
-  "bic": "JBBRDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.keplerequitiesfrankfurtbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JBBRDEF1XXX"
 }

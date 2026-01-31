@@ -8,7 +8,6 @@
   ],
   "name": "SINOLINK SECURITIES (HK) CO. LTD.",
   "legalName": "SINOLINK SECURITIES (HK) CO. LTD.",
-  "bic": "SLSCHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sinolinksecuritieshkcoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SLSCHKH1XXX"
 }

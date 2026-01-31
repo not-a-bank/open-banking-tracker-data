@@ -8,7 +8,6 @@
   ],
   "name": "POWIATOWY BANK SPOLDZIELCZY W TOMASZOWIE MAZOWIECKIM",
   "legalName": "POWIATOWY BANK SPOLDZIELCZY W TOMASZOWIE MAZOWIECKIM",
-  "bic": "PBSTPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.powiatowybankspoldzielczywtomaszowiemazowieck.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBSTPLP1XXX"
 }

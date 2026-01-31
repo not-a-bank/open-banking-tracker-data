@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DEL PACIFICO (PANAMA) S.A.",
   "legalName": "BANCO DEL PACIFICO (PANAMA) S.A.",
-  "bic": "PACIPAPXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodelpacificopanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PACIPAPXXXX"
 }

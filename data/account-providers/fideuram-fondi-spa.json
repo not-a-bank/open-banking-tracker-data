@@ -8,7 +8,6 @@
   ],
   "name": "FIDEURAM FONDI SPA",
   "legalName": "FIDEURAM FONDI SPA",
-  "bic": "FIFOITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fideuramfondispa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIFOITR1XXX"
 }

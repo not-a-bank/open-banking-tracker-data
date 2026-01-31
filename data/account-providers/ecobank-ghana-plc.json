@@ -8,7 +8,6 @@
   ],
   "name": "Ecobank Ghana PLC",
   "legalName": "ECOBANK GHANA PLC",
-  "bic": "ECOCGHACKSI",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCGHACKSI"
 }

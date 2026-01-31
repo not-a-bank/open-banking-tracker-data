@@ -8,7 +8,6 @@
   ],
   "name": "OBERON ASSET MANAGEMENT LIMITED",
   "legalName": "OBERON ASSET MANAGEMENT LIMITED",
-  "bic": "OBAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oberonassetmanagementlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OBAMGB21XXX"
 }

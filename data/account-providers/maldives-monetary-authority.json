@@ -8,7 +8,6 @@
   ],
   "name": "MALDIVES MONETARY AUTHORITY",
   "legalName": "MALDIVES MONETARY AUTHORITY",
-  "bic": "MMAUMVMVXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maldivesmonetaryauthority.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MMAUMVMVXXX"
 }

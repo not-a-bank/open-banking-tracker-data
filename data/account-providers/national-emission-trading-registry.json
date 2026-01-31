@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL EMISSION TRADING REGISTRY",
   "legalName": "NATIONAL EMISSION TRADING REGISTRY",
-  "bic": "NETGIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalemissiontradingregistry.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NETGIE21XXX"
 }

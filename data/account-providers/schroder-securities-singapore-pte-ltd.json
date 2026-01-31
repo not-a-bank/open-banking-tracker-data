@@ -8,7 +8,6 @@
   ],
   "name": "SCHRODER SECURITIES (SINGAPORE) PTE LTD",
   "legalName": "SCHRODER SECURITIES (SINGAPORE) PTE LTD",
-  "bic": "SSSPSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schrodersecuritiessingaporepteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSSPSGS1XXX"
 }

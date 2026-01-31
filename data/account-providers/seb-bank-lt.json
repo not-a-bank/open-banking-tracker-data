@@ -8,7 +8,6 @@
   ],
   "name": "SEB BANK",
   "legalName": "SEB BANK",
-  "bic": "CBVILT2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sebbanklt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBVILT2XXXX"
 }

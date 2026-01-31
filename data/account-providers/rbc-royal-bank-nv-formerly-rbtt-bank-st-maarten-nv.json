@@ -8,7 +8,6 @@
   ],
   "name": "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK ST. MAARTEN N.V.)",
   "legalName": "RBC ROYAL BANK N.V. (FORMERLY RBTT BANK ST. MAARTEN N.V.)",
-  "bic": "RBTTSXSMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbcroyalbanknvformerlyrbttbankstmaartennv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBTTSXSMXXX"
 }

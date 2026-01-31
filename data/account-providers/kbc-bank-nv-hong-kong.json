@@ -8,7 +8,6 @@
   ],
   "name": "KBC BANK NV, HONG KONG",
   "legalName": "KBC BANK NV, HONG KONG",
-  "bic": "KREDHKHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcbanknvhongkong.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KREDHKHXXXX"
 }

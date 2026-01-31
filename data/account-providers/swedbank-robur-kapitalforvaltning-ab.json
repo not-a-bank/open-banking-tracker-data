@@ -8,7 +8,6 @@
   ],
   "name": "SWEDBANK ROBUR KAPITALFORVALTNING AB",
   "legalName": "SWEDBANK ROBUR KAPITALFORVALTNING AB",
-  "bic": "SWRKSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swedbankroburkapitalforvaltningab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWRKSES1XXX"
 }

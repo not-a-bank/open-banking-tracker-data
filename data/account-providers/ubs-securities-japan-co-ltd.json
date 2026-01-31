@@ -8,7 +8,6 @@
   ],
   "name": "UBS SECURITIES JAPAN CO., LTD.",
   "legalName": "UBS SECURITIES JAPAN CO., LTD.",
-  "bic": "UBSWJPJ9XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubssecuritiesjapancoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSWJPJ9XXX"
 }

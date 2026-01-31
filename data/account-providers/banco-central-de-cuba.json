@@ -8,7 +8,6 @@
   ],
   "name": "BANCO CENTRAL DE CUBA",
   "legalName": "BANCO CENTRAL DE CUBA",
-  "bic": "BCCUCUHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocentraldecuba.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCCUCUHHXXX"
 }

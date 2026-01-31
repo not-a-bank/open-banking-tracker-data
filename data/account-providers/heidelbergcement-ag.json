@@ -8,7 +8,6 @@
   ],
   "name": "HEIDELBERGCEMENT AG",
   "legalName": "HEIDELBERGCEMENT AG",
-  "bic": "HCEMDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.heidelbergcementag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HCEMDE66XXX"
 }

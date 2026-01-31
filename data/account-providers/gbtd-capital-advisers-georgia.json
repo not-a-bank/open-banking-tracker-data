@@ -8,7 +8,6 @@
   ],
   "name": "GBTD CAPITAL ADVISERS-GEORGIA",
   "legalName": "GBTD CAPITAL ADVISERS-GEORGIA",
-  "bic": "GBCDUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gbtdcapitaladvisersgeorgia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GBCDUS31XXX"
 }

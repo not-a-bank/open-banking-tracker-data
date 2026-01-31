@@ -8,7 +8,6 @@
   ],
   "name": "CAYMAN ISLANDS MONETARY AUTHORITY",
   "legalName": "CAYMAN ISLANDS MONETARY AUTHORITY",
-  "bic": "CIMGKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caymanislandsmonetaryauthority.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIMGKYKYXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INVEST TRUST S.A.",
   "legalName": "INVEST TRUST S.A.",
-  "bic": "INUTRO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investtrustsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INUTRO21XXX"
 }

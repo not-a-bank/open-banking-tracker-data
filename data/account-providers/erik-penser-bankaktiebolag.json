@@ -8,7 +8,6 @@
   ],
   "name": "ERIK PENSER BANKAKTIEBOLAG",
   "legalName": "ERIK PENSER BANKAKTIEBOLAG",
-  "bic": "ERPFSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.erikpenserbankaktiebolag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERPFSES1XXX"
 }

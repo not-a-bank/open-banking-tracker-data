@@ -8,7 +8,6 @@
   ],
   "name": "ASKIM OG SPYDEBERG SPAREBANK",
   "legalName": "ASKIM OG SPYDEBERG SPAREBANK",
-  "bic": "ASKSNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.askimogspydebergsparebank.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ASKSNO21"
 }

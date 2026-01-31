@@ -8,7 +8,6 @@
   ],
   "name": "MONETA ASSET MANAGEMENT",
   "legalName": "MONETA ASSET MANAGEMENT",
-  "bic": "MOAGFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.monetaassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOAGFRP1XXX"
 }

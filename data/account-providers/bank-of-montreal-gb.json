@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF MONTREAL",
   "legalName": "BANK OF MONTREAL",
-  "bic": "BOFMGB2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofmontrealgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFMGB2XXXX"
 }

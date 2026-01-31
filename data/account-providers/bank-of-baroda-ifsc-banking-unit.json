@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Baroda, Ifsc Banking Unit",
   "legalName": "BANK OF BARODA, IFSC BANKING UNIT",
-  "bic": "BARBINAAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARBINAAXXX"
 }

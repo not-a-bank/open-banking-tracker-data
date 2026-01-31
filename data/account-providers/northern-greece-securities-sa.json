@@ -8,7 +8,6 @@
   ],
   "name": "NORTHERN GREECE SECURITIES S.A.",
   "legalName": "NORTHERN GREECE SECURITIES S.A.",
-  "bic": "NOGSGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.northerngreecesecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOGSGRA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GENERALI FUND MANAGEMENT LUXEMBOURG",
   "legalName": "GENERALI FUND MANAGEMENT LUXEMBOURG",
-  "bic": "GFMLLUL1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.generalifundmanagementluxembourg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GFMLLUL1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "JR SOEDERBERG ASSET MANAGEMENT AB",
   "legalName": "JR SOEDERBERG ASSET MANAGEMENT AB",
-  "bic": "SOAGSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jrsoederbergassetmanagementab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOAGSES1XXX"
 }

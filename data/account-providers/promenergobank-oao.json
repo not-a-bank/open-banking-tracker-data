@@ -8,7 +8,6 @@
   ],
   "name": "PROMENERGOBANK OAO",
   "legalName": "PROMENERGOBANK OAO",
-  "bic": "PRMGRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.promenergobankoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRMGRU21XXX"
 }

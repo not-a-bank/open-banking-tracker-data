@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE SAARBRUECKEN",
   "legalName": "SPARKASSE SAARBRUECKEN",
-  "bic": "SAKSDE55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassesaarbruecken.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAKSDE55XXX"
 }

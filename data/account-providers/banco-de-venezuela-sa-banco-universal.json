@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL",
   "legalName": "BANCO DE VENEZUELA, S.A. BANCO UNIVERSAL",
-  "bic": "VZLAVECAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodevenezuelasabancouniversal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VZLAVECAXXX"
 }

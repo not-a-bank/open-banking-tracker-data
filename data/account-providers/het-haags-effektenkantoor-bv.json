@@ -8,7 +8,6 @@
   ],
   "name": "HET HAAGS EFFEKTENKANTOOR B.V.",
   "legalName": "HET HAAGS EFFEKTENKANTOOR B.V.",
-  "bic": "HHEFNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hethaagseffektenkantoorbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HHEFNL21XXX"
 }

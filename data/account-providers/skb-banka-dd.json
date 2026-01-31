@@ -8,7 +8,6 @@
   ],
   "name": "SKB BANKA D.D.",
   "legalName": "SKB BANKA D.D.",
-  "bic": "SKBASI2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.skbbankadd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKBASI2XXXX"
 }

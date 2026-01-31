@@ -8,7 +8,6 @@
   ],
   "name": "ZARECHYE BANK",
   "legalName": "ZARECHYE BANK",
-  "bic": "ZAJCRU2KXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zarechyebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZAJCRU2KXXX"
 }

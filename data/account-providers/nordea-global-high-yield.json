@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA GLOBAL HIGH YIELD",
   "legalName": "NORDEA GLOBAL HIGH YIELD",
-  "bic": "NGHYFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaglobalhighyield.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NGHYFIH1XXX"
 }

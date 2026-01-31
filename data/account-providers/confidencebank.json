@@ -8,7 +8,6 @@
   ],
   "name": "CONFIDENCEBANK",
   "legalName": "CONFIDENCEBANK",
-  "bic": "CODKRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.confidencebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CODKRU21XXX"
 }

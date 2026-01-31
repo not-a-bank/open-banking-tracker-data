@@ -8,7 +8,6 @@
   ],
   "name": "PJSC SEB CORPORATE BANK",
   "legalName": "PJSC SEB CORPORATE BANK",
-  "bic": "ESSEUAUKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscsebcorporatebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESSEUAUKXXX"
 }

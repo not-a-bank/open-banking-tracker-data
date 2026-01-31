@@ -8,7 +8,6 @@
   ],
   "name": "JUNGHEINRICH AG",
   "legalName": "JUNGHEINRICH AG",
-  "bic": "JUNGDEHAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jungheinrichag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JUNGDEHAXXX"
 }

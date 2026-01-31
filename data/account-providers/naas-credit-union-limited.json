@@ -8,7 +8,6 @@
   ],
   "name": "NAAS CREDIT UNION LIMITED",
   "legalName": "NAAS CREDIT UNION LIMITED",
-  "bic": "NACUIE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.naascreditunionlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NACUIE21XXX"
 }

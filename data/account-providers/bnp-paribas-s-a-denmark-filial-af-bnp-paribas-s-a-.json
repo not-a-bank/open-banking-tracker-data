@@ -8,7 +8,6 @@
   ],
   "name": "BNP Paribas S.a. Denmark, Filial AF BNP Paribas S.a. Frankrig",
   "legalName": "BNP PARIBAS S.A. DENMARK, FILIAL AF BNP PARIBAS S.A. FRANKRIG",
-  "bic": "FRANKRIG",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRANKRIG"
 }

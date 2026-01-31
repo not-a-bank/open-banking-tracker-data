@@ -8,7 +8,6 @@
   ],
   "name": "ALPENBANK AG FILIALE BOLZANO",
   "legalName": "ALPENBANK AG FILIALE BOLZANO",
-  "bic": "ALPEIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alpenbankagfilialebolzano.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALPEIT21XXX"
 }

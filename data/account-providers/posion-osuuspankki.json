@@ -8,7 +8,6 @@
   ],
   "name": "POSION OSUUSPANKKI",
   "legalName": "POSION OSUUSPANKKI",
-  "bic": "POONFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.posionosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "POONFI21XXX"
 }

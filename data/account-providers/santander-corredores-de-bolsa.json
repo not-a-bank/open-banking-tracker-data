@@ -8,7 +8,6 @@
   ],
   "name": "SANTANDER CORREDORES DE BOLSA",
   "legalName": "SANTANDER CORREDORES DE BOLSA",
-  "bic": "SINSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santandercorredoresdebolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SINSUS31XXX"
 }

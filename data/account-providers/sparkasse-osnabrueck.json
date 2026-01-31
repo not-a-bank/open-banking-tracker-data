@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE OSNABRUECK",
   "legalName": "SPARKASSE OSNABRUECK",
-  "bic": "NOLADE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasseosnabrueck.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOLADE22XXX"
 }

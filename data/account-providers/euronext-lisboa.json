@@ -8,7 +8,6 @@
   ],
   "name": "EURONEXT LISBOA",
   "legalName": "EURONEXT LISBOA",
-  "bic": "XLISPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.euronextlisboa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XLISPTP1XXX"
 }

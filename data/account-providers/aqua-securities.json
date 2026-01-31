@@ -8,7 +8,6 @@
   ],
   "name": "AQUA SECURITIES",
   "legalName": "AQUA SECURITIES",
-  "bic": "AQSEUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aquasecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AQSEUS31XXX"
 }

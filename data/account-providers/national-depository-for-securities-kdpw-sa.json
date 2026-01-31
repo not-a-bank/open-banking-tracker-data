@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL DEPOSITORY FOR SECURITIES (KDPW SA)",
   "legalName": "NATIONAL DEPOSITORY FOR SECURITIES (KDPW SA)",
-  "bic": "KDPWPLPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationaldepositoryforsecuritieskdpwsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KDPWPLPAXXX"
 }

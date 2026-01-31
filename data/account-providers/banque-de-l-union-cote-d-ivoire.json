@@ -8,7 +8,6 @@
   ],
   "name": "Banque DE L'union - Cote D'ivoire",
   "legalName": "BANQUE DE L'UNION - COTE D'IVOIRE",
-  "bic": "BDUTCIABXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDUTCIABXXX"
 }

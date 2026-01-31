@@ -8,7 +8,6 @@
   ],
   "name": "EURO BROKERS FINANCIAL SERVICES LTD",
   "legalName": "EURO BROKERS FINANCIAL SERVICES LTD",
-  "bic": "EBFSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurobrokersfinancialservicesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBFSGB21XXX"
 }

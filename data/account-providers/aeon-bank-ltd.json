@@ -8,7 +8,6 @@
   ],
   "name": "AEON BANK, LTD.",
   "legalName": "AEON BANK, LTD.",
-  "bic": "AEONJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aeonbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEONJPJ1XXX"
 }

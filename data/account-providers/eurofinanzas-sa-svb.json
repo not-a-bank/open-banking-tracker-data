@@ -8,7 +8,6 @@
   ],
   "name": "EUROFINANZAS, S.A., S.V.B.",
   "legalName": "EUROFINANZAS, S.A., S.V.B.",
-  "bic": "EUASESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurofinanzassasvb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUASESM1XXX"
 }

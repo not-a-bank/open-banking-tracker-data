@@ -8,7 +8,6 @@
   ],
   "name": "BMF-BANCO BAI MICROFINANCAS, SARL",
   "legalName": "BMF-BANCO BAI MICROFINANCAS, SARL",
-  "bic": "NOSAAOLUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bmfbancobaimicrofinancassarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSAAOLUXXX"
 }

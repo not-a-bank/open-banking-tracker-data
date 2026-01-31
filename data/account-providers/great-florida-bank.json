@@ -8,7 +8,6 @@
   ],
   "name": "GREAT FLORIDA BANK",
   "legalName": "GREAT FLORIDA BANK",
-  "bic": "GRFLUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.greatfloridabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRFLUS31XXX"
 }

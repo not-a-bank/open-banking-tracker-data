@@ -8,7 +8,6 @@
   ],
   "name": "PJSC 'BANK CREDIT DNEPR'",
   "legalName": "PJSC 'BANK CREDIT DNEPR'",
-  "bic": "CRDEUA2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pjscbankcreditdnepr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRDEUA2NXXX"
 }

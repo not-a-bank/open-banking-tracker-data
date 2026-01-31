@@ -8,7 +8,6 @@
   ],
   "name": "UNIBANK, S.A.",
   "legalName": "UNIBANK, S.A.",
-  "bic": "UNIBPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unibanksapa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNIBPAPAXXX"
 }

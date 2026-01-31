@@ -8,7 +8,6 @@
   ],
   "name": "BANK FUER TIROL UND VORARLBERG AG, INNSBRUCK, ZWEIGNIEDERLASSUNG STAAD",
   "legalName": "BANK FUER TIROL UND VORARLBERG AG, INNSBRUCK, ZWEIGNIEDERLASSUNG STAAD",
-  "bic": "BTVACH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankfuertirolundvorarlbergaginnsbruckzweign.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTVACH22XXX"
 }

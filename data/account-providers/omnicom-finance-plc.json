@@ -8,7 +8,6 @@
   ],
   "name": "OMNICOM FINANCE PLC",
   "legalName": "OMNICOM FINANCE PLC",
-  "bic": "OMNCGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.omnicomfinanceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OMNCGB2LXXX"
 }

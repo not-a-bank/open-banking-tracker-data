@@ -8,7 +8,6 @@
   ],
   "name": "AMSTEL FUNDS EN ASSET MANAGEMENT B.V.",
   "legalName": "AMSTEL FUNDS EN ASSET MANAGEMENT B.V.",
-  "bic": "AFAMNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amstelfundsenassetmanagementbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFAMNL21XXX"
 }

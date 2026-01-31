@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK REGENSBURG EG",
   "legalName": "VOLKSBANK REGENSBURG EG",
-  "bic": "VOREDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankregensburgeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOREDE51XXX"
 }

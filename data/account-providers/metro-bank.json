@@ -80,10 +80,11 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "plaid",
-    "truelayer",
+    "gocardless",
     "klarna",
-    "moneyhub-enterprise"
+    "moneyhub-enterprise",
+    "plaid",
+    "truelayer"
   ],
   "collections": [],
   "tppAccessInterface": [
@@ -142,5 +143,6 @@
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "MYMBGB2L"
 }

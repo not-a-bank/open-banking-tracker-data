@@ -8,7 +8,6 @@
   ],
   "name": "SOCIETE GENERALE SECURITIES SERVICES GMBH",
   "legalName": "SOCIETE GENERALE SECURITIES SERVICES GMBH",
-  "bic": "ACTSDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.societegeneralesecuritiesservicesgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ACTSDEMMXXX"
 }

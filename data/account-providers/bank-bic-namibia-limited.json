@@ -8,7 +8,6 @@
   ],
   "name": "BANK BIC NAMIBIA LIMITED",
   "legalName": "BANK BIC NAMIBIA LIMITED",
-  "bic": "BBNLNANAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankbicnamibialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBNLNANAXXX"
 }

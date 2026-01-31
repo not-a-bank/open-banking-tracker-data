@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ITAPUA SAECA",
   "legalName": "BANCO ITAPUA SAECA",
-  "bic": "BISAPYPEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoitapuasaeca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BISAPYPEXXX"
 }

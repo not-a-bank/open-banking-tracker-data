@@ -8,7 +8,6 @@
   ],
   "name": "POST BANK OF IRAN (P.B.I)",
   "legalName": "POST BANK OF IRAN (P.B.I)",
-  "bic": "PBIRIRTHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.postbankofiranpbi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBIRIRTHXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "IVREA SIM",
   "legalName": "IVREA SIM",
-  "bic": "IVREITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ivreasim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IVREITM1XXX"
 }

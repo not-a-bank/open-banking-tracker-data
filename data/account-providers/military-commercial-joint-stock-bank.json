@@ -8,7 +8,6 @@
   ],
   "name": "MILITARY COMMERCIAL JOINT STOCK BANK",
   "legalName": "MILITARY COMMERCIAL JOINT STOCK BANK",
-  "bic": "MSCBVNVXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.militarycommercialjointstockbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSCBVNVXXXX"
 }

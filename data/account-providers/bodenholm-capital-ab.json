@@ -8,7 +8,6 @@
   ],
   "name": "BODENHOLM CAPITAL AB",
   "legalName": "BODENHOLM CAPITAL AB",
-  "bic": "BOCTSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bodenholmcapitalab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOCTSES1XXX"
 }

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole du Nord Est",
-  "legalName": "Cr\u00e9dit Agricole du Nord Est",
+  "name": "Crédit Agricole du Nord Est",
+  "legalName": "Crédit Agricole du Nord Est",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-du-nord-est.com.ico",
@@ -23,10 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "AGRIFRPP802"
+  "bic": "AGRIFRPP867"
 }

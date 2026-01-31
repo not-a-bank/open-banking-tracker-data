@@ -8,7 +8,6 @@
   ],
   "name": "CLAAS FINANCIAL SERVICES SAS",
   "legalName": "CLAAS FINANCIAL SERVICES SAS",
-  "bic": "CLAAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.claasfinancialservicessas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLAAFRP1XXX"
 }

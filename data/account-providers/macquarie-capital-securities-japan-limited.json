@@ -8,7 +8,6 @@
   ],
   "name": "MACQUARIE CAPITAL SECURITIES (JAPAN) LIMITED",
   "legalName": "MACQUARIE CAPITAL SECURITIES (JAPAN) LIMITED",
-  "bic": "MACQJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macquariecapitalsecuritiesjapanlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MACQJPJ1XXX"
 }

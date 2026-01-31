@@ -8,7 +8,6 @@
   ],
   "name": "ECOBANK UGANDA",
   "legalName": "ECOBANK UGANDA",
-  "bic": "ECOCUGKAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecobankuganda.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCUGKAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "YAPI KREDI BANK MALTA LTD.",
   "legalName": "YAPI KREDI BANK MALTA LTD.",
-  "bic": "YAPIMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.yapikredibankmaltaltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YAPIMTMTXXX"
 }

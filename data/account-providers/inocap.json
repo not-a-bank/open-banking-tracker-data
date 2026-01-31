@@ -8,7 +8,6 @@
   ],
   "name": "INOCAP",
   "legalName": "INOCAP",
-  "bic": "IOCPFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.inocap.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IOCPFRP1XXX"
 }

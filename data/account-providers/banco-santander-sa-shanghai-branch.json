@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER, S.A. SHANGHAI BRANCH",
   "legalName": "BANCO SANTANDER, S.A. SHANGHAI BRANCH",
-  "bic": "BSCHCNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantandersashanghaibranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSCHCNSHXXX"
 }

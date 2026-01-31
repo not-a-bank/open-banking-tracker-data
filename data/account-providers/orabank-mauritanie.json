@@ -8,7 +8,6 @@
   ],
   "name": "ORABANK MAURITANIE",
   "legalName": "ORABANK MAURITANIE",
-  "bic": "ORBKMRMRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orabankmauritanie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORBKMRMRXXX"
 }

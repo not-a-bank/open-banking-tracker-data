@@ -8,7 +8,6 @@
   ],
   "name": "FIDA INTERMEDIAZIONI SIM SPA",
   "legalName": "FIDA INTERMEDIAZIONI SIM SPA",
-  "bic": "FINSITT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fidaintermediazionisimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FINSITT1XXX"
 }

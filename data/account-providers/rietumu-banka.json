@@ -8,7 +8,6 @@
   ],
   "name": "RIETUMU BANKA",
   "legalName": "RIETUMU BANKA",
-  "bic": "RTMBLV2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rietumubanka.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RTMBLV2X"
 }

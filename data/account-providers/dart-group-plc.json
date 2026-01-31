@@ -8,7 +8,6 @@
   ],
   "name": "DART GROUP PLC",
   "legalName": "DART GROUP PLC",
-  "bic": "DARTGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dartgroupplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DARTGB22XXX"
 }

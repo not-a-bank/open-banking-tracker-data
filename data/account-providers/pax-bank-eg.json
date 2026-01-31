@@ -8,7 +8,6 @@
   ],
   "name": "PAX-BANK EG",
   "legalName": "PAX-BANK EG",
-  "bic": "PAXBDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paxbankeg.com.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAXBDE51XXX"
 }

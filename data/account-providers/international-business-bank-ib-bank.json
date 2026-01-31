@@ -8,7 +8,6 @@
   ],
   "name": "International Business Bank (IB Bank)",
   "legalName": "INTERNATIONAL BUSINESS BANK (IB BANK)",
-  "bic": "IBBABFBFXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBBABFBFXXX"
 }

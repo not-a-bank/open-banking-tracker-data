@@ -3,7 +3,9 @@
   "type": [
     "account"
   ],
-  "bankType": ["universal"],
+  "bankType": [
+    "universal"
+  ],
   "status": "live",
   "name": "VR-Bank Rottal-Inn eG",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/vr_at.svg",
@@ -30,5 +32,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "VRBKAT21XXX"
+  "bic": "VRBKAT21XXX"
 }

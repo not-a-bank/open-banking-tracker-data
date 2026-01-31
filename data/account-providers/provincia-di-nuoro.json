@@ -8,7 +8,6 @@
   ],
   "name": "PROVINCIA DI NUORO",
   "legalName": "PROVINCIA DI NUORO",
-  "bic": "PRNUIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.provinciadinuoro.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRNUIT31XXX"
 }

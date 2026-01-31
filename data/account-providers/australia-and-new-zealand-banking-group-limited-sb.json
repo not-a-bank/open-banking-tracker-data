@@ -8,7 +8,6 @@
   ],
   "name": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
   "legalName": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED",
-  "bic": "ANZBSBSBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.australiaandnewzealandbankinggrouplimitedsb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBSBSBXXX"
 }

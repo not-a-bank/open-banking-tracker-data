@@ -8,7 +8,6 @@
   ],
   "name": "BOND'S SECURITIES LTD",
   "legalName": "BOND'S SECURITIES LTD",
-  "bic": "BONIHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bondssecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BONIHKH1XXX"
 }

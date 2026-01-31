@@ -8,7 +8,6 @@
   ],
   "name": "KOPP INVESTMENT ADVISORS",
   "legalName": "KOPP INVESTMENT ADVISORS",
-  "bic": "KOIAUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.koppinvestmentadvisors.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOIAUS41XXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "CREDITO VALTELLINESE",
   "legalName": "CREDITO VALTELLINESE",
-  "bic": "BPCVIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/it/credito_valtellinese_oauth_client_it.svg",
@@ -34,5 +33,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPCVIT21XXX"
 }

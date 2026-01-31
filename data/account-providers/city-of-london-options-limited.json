@@ -8,7 +8,6 @@
   ],
   "name": "CITY OF LONDON OPTIONS LIMITED",
   "legalName": "CITY OF LONDON OPTIONS LIMITED",
-  "bic": "CILOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cityoflondonoptionslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CILOGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FONCIER-BAIL",
   "legalName": "FONCIER-BAIL",
-  "bic": "FONEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.foncierbail.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FONEFRP1XXX"
 }

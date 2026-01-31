@@ -8,7 +8,6 @@
   ],
   "name": "SUMITOMO MITSUI BANKING CORPORATION",
   "legalName": "SUMITOMO MITSUI BANKING CORPORATION",
-  "bic": "SMBCSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sumitomomitsuibankingcorporationsg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SMBCSGSGXXX"
 }

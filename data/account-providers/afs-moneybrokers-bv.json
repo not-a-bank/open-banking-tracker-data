@@ -8,7 +8,6 @@
   ],
   "name": "AFS MONEYBROKERS B.V.",
   "legalName": "AFS MONEYBROKERS B.V.",
-  "bic": "AFMONL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.afsmoneybrokersbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFMONL21XXX"
 }

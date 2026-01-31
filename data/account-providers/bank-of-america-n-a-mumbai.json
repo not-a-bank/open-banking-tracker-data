@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF America, N.a. Mumbai",
   "legalName": "BANK OF AMERICA, N.A. MUMBAI",
-  "bic": "BOFAIN4XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAIN4XXXX"
 }

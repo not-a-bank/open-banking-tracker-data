@@ -8,7 +8,6 @@
   ],
   "name": "INFO SECURITIES INC",
   "legalName": "INFO SECURITIES INC",
-  "bic": "INSRTRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.infosecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INSRTRI1XXX"
 }

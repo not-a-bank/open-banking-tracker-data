@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS S.A. NORWAY BRANCH",
   "legalName": "BNP PARIBAS S.A. NORWAY BRANCH",
-  "bic": "BNPANOKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassanorwaybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPANOKKXXX"
 }

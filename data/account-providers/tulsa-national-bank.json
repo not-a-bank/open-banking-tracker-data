@@ -8,7 +8,6 @@
   ],
   "name": "TULSA NATIONAL BANK",
   "legalName": "TULSA NATIONAL BANK",
-  "bic": "NBTUUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tulsanationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBTUUS41XXX"
 }

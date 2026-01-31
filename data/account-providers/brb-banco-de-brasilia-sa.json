@@ -8,7 +8,6 @@
   ],
   "name": "BRB-BANCO DE BRASILIA S.A.",
   "legalName": "BRB-BANCO DE BRASILIA S.A.",
-  "bic": "BRBSBRDFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.brbbancodebrasiliasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRBSBRDFXXX"
 }

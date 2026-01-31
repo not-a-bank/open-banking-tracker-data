@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE LA Nacion Argentina",
   "legalName": "BANCO DE LA NACION ARGENTINA",
-  "bic": "NACNARBAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NACNARBAXXX"
 }

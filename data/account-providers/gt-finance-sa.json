@@ -8,7 +8,6 @@
   ],
   "name": "GT FINANCE SA",
   "legalName": "GT FINANCE SA",
-  "bic": "FNNEFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gtfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNNEFRP1XXX"
 }

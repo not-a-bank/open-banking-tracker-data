@@ -8,7 +8,6 @@
   ],
   "name": "KHB FINANZ AG",
   "legalName": "KHB FINANZ AG",
-  "bic": "KHZUCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.khbfinanzag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KHZUCHZ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INSIGHT SECURITIES (PRIVATE) LTD",
   "legalName": "INSIGHT SECURITIES (PRIVATE) LTD",
-  "bic": "ISSTPKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.insightsecuritiesprivateltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISSTPKK1XXX"
 }

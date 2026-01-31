@@ -8,7 +8,6 @@
   ],
   "name": "NIKE INC",
   "legalName": "NIKE INC",
-  "bic": "NIKEUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nikeinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIKEUS61XXX"
 }

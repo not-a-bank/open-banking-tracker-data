@@ -8,7 +8,6 @@
   ],
   "name": "MALAWI STOCK EXCHANGE",
   "legalName": "MALAWI STOCK EXCHANGE",
-  "bic": "XMSWMWM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.malawistockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMSWMWM1XXX"
 }

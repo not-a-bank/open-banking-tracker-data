@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ALFA DE INVESTIMENTO S.A., SAO PAULO",
   "legalName": "BANCO ALFA DE INVESTIMENTO S.A., SAO PAULO",
-  "bic": "AUFABRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoalfadeinvestimentosasaopaulo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUFABRSPXXX"
 }

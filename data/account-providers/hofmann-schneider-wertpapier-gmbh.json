@@ -8,7 +8,6 @@
   ],
   "name": "HOFMANN SCHNEIDER WERTPAPIER GMBH",
   "legalName": "HOFMANN SCHNEIDER WERTPAPIER GMBH",
-  "bic": "HOSWDEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hofmannschneiderwertpapiergmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOSWDEB1XXX"
 }

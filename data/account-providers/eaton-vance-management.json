@@ -8,7 +8,6 @@
   ],
   "name": "EATON VANCE MANAGEMENT",
   "legalName": "EATON VANCE MANAGEMENT",
-  "bic": "ETVCUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eatonvancemanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ETVCUS33XXX"
 }

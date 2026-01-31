@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Hypo Ober\u00f6sterreich",
-  "legalName": "Hypo Ober\u00f6sterreich",
+  "name": "Hypo Oberösterreich",
+  "legalName": "Hypo Oberösterreich",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hypo-oberoesterreich.com.ico",
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OBLAAT2L"
 }

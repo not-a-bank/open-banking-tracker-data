@@ -8,7 +8,6 @@
   ],
   "name": "SORIA FINANCE SA",
   "legalName": "SORIA FINANCE SA",
-  "bic": "SOICFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.soriafinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOICFRP1XXX"
 }

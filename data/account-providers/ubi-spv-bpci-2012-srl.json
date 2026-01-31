@@ -8,7 +8,6 @@
   ],
   "name": "UBI SPV BPCI 2012 SRL",
   "legalName": "UBI SPV BPCI 2012 SRL",
-  "bic": "USPRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubispvbpci2012srl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "USPRITM1XXX"
 }

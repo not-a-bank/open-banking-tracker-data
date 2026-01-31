@@ -8,7 +8,6 @@
   ],
   "name": "MFC GLOBAL INVESTMENT MANAGEMENT (U.S.),LCC",
   "legalName": "MFC GLOBAL INVESTMENT MANAGEMENT (U.S.),LCC",
-  "bic": "MFCGUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mfcglobalinvestmentmanagementuslcc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MFCGUS33XXX"
 }

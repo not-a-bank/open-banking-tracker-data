@@ -8,7 +8,6 @@
   ],
   "name": "RHEINMETALL AKTIENGESELLSCHAFT",
   "legalName": "RHEINMETALL AKTIENGESELLSCHAFT",
-  "bic": "RHAGDEDDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rheinmetallaktiengesellschaft.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RHAGDEDDXXX"
 }

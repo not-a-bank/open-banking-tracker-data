@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS WEALTH MANAGEMENT, S.A.",
   "legalName": "BNP PARIBAS WEALTH MANAGEMENT, S.A.",
-  "bic": "BPWMPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibaswealthmanagementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPWMPTP1XXX"
 }

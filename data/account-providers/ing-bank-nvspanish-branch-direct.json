@@ -8,7 +8,6 @@
   ],
   "name": "ING BANK NV,SPANISH BRANCH (DIRECT)",
   "legalName": "ING BANK NV,SPANISH BRANCH (DIRECT)",
-  "bic": "INGDESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingbanknvspanishbranchdirect.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGDESMMXXX"
 }

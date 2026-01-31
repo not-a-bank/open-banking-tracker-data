@@ -8,7 +8,6 @@
   ],
   "name": "SANTANDER CONSUMER BANK SPA",
   "legalName": "SANTANDER CONSUMER BANK SPA",
-  "bic": "FICUITTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.santanderconsumerbankspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FICUITTTXXX"
 }

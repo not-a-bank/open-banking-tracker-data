@@ -8,7 +8,6 @@
   ],
   "name": "AKF Bank Gmbh UND CO KG",
   "legalName": "AKF BANK GMBH UND CO KG",
-  "bic": "AKFBDE33XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKFBDE33XXX"
 }

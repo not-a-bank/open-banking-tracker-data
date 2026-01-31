@@ -9,7 +9,6 @@
   ],
   "name": "FRANKFURTER SPARKASSE",
   "legalName": "FRANKFURTER SPARKASSE",
-  "bic": "FRSKDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1618353220/icons/frankfurter-sparkasse-de.png",
@@ -30,12 +29,14 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt",
-    "yaxi",
+    "gocardless",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HELADEF1822"
 }

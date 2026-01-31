@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISEN-VOLKSBANK RIES EG",
   "legalName": "RAIFFEISEN-VOLKSBANK RIES EG",
-  "bic": "RARSDE71XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenvolksbankrieseg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RARSDE71XXX"
 }

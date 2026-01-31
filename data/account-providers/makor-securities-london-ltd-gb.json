@@ -8,7 +8,6 @@
   ],
   "name": "MAKOR SECURITIES LONDON LTD",
   "legalName": "MAKOR SECURITIES LONDON LTD",
-  "bic": "MKSLGB31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.makorsecuritieslondonltdgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MKSLGB31XXX"
 }

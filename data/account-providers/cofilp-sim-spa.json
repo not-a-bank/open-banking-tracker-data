@@ -8,7 +8,6 @@
   ],
   "name": "COFILP SIM SPA",
   "legalName": "COFILP SIM SPA",
-  "bic": "COFSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cofilpsimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COFSITM1XXX"
 }

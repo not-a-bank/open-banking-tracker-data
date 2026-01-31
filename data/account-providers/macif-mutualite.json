@@ -8,7 +8,6 @@
   ],
   "name": "MACIF-MUTUALITE",
   "legalName": "MACIF-MUTUALITE",
-  "bic": "MCCFFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.macifmutualite.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCCFFRP1XXX"
 }

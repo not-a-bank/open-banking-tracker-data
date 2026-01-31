@@ -8,7 +8,6 @@
   ],
   "name": "TOHOLAMMIN OSUUSPANKKI",
   "legalName": "TOHOLAMMIN OSUUSPANKKI",
-  "bic": "TOOSFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.toholamminosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TOOSFI21XXX"
 }

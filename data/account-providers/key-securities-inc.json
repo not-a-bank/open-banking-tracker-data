@@ -8,7 +8,6 @@
   ],
   "name": "KEY SECURITIES INC",
   "legalName": "KEY SECURITIES INC",
-  "bic": "KEYSPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.keysecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KEYSPHM1XXX"
 }

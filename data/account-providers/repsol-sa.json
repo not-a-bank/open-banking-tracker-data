@@ -8,7 +8,6 @@
   ],
   "name": "REPSOL, S.A.",
   "legalName": "REPSOL, S.A.",
-  "bic": "REPYESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.repsolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REPYESMMXXX"
 }

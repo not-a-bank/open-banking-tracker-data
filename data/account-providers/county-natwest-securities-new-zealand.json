@@ -8,7 +8,6 @@
   ],
   "name": "COUNTY NATWEST SECURITIES (NEW ZEALAND)",
   "legalName": "COUNTY NATWEST SECURITIES (NEW ZEALAND)",
-  "bic": "CNSNNZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.countynatwestsecuritiesnewzealand.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNSNNZ21XXX"
 }

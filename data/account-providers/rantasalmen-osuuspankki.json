@@ -8,7 +8,6 @@
   ],
   "name": "RANTASALMEN OSUUSPANKKI",
   "legalName": "RANTASALMEN OSUUSPANKKI",
-  "bic": "RAOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rantasalmenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAOUFI21XXX"
 }

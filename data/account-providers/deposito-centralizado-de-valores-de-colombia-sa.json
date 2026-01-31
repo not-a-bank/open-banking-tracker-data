@@ -8,7 +8,6 @@
   ],
   "name": "DEPOSITO CENTRALIZADO DE VALORES DE COLOMBIA S.A",
   "legalName": "DEPOSITO CENTRALIZADO DE VALORES DE COLOMBIA S.A",
-  "bic": "DCVDCOB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.depositocentralizadodevaloresdecolombiasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DCVDCOB1XXX"
 }

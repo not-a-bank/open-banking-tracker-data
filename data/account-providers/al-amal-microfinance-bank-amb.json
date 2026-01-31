@@ -8,7 +8,6 @@
   ],
   "name": "AL-AMAL MICROFINANCE BANK (AMB)",
   "legalName": "AL-AMAL MICROFINANCE BANK (AMB)",
-  "bic": "AARMYESAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alamalmicrofinancebankamb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AARMYESAXXX"
 }

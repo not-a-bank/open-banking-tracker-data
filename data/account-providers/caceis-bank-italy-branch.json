@@ -8,7 +8,6 @@
   ],
   "name": "CACEIS BANK, ITALY BRANCH",
   "legalName": "CACEIS BANK, ITALY BRANCH",
-  "bic": "ISAEITMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caceisbankitalybranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISAEITMMXXX"
 }

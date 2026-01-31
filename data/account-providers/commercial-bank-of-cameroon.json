@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK OF CAMEROON",
   "legalName": "COMMERCIAL BANK OF CAMEROON",
-  "bic": "CBCDCMCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankofcameroon.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBCDCMCXXXX"
 }

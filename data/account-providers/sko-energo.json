@@ -8,7 +8,6 @@
   ],
   "name": "SKO ENERGO",
   "legalName": "SKO ENERGO",
-  "bic": "SKENCZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.skoenergo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SKENCZ21XXX"
 }

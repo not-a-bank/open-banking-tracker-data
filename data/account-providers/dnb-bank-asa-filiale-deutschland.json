@@ -8,7 +8,6 @@
   ],
   "name": "DNB BANK ASA, FILIALE DEUTSCHLAND",
   "legalName": "DNB BANK ASA, FILIALE DEUTSCHLAND",
-  "bic": "DNBADEHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dnbbankasafilialedeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DNBADEHXXXX"
 }

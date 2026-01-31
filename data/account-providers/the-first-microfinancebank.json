@@ -8,7 +8,6 @@
   ],
   "name": "THE FIRST MICROFINANCEBANK",
   "legalName": "THE FIRST MICROFINANCEBANK",
-  "bic": "FMBTTJ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thefirstmicrofinancebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMBTTJ22XXX"
 }

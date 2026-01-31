@@ -8,7 +8,6 @@
   ],
   "name": "SVENSKA FINANSMAKLARNA AB",
   "legalName": "SVENSKA FINANSMAKLARNA AB",
-  "bic": "SVFNSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.svenskafinansmaklarnaab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SVFNSE21XXX"
 }

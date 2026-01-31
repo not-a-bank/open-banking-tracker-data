@@ -8,7 +8,6 @@
   ],
   "name": "DZB BANK GMBH",
   "legalName": "DZB BANK GMBH",
-  "bic": "DZBMDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dzbbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DZBMDEF1XXX"
 }

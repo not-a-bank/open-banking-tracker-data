@@ -8,7 +8,6 @@
   ],
   "name": "BNY MELLON CAPITAL MARKETS EMEA LIMITED",
   "legalName": "BNY MELLON CAPITAL MARKETS EMEA LIMITED",
-  "bic": "BMCKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnymelloncapitalmarketsemealimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMCKGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MANULIFE BANK OF CANADA",
   "legalName": "MANULIFE BANK OF CANADA",
-  "bic": "MCBTCA2WXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.manulifebankofcanada.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCBTCA2WXXX"
 }

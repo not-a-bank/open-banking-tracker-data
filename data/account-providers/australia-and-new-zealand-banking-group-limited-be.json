@@ -8,7 +8,6 @@
   ],
   "name": "Australia AND NEW Zealand Banking Group Limited, Beijing Branch",
   "legalName": "AUSTRALIA AND NEW ZEALAND BANKING GROUP LIMITED, BEIJING BRANCH",
-  "bic": "ANZBCNSHBJG",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANZBCNSHBJG"
 }

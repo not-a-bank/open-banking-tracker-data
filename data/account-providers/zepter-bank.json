@@ -8,7 +8,6 @@
   ],
   "name": "Zepter Bank",
   "legalName": "ZEPTER BANK",
-  "bic": "ZEPTBY2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ZEPTBY2XXXX"
 }

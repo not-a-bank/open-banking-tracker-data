@@ -8,7 +8,6 @@
   ],
   "name": "TRANSNET LIMITED TREASURY DEPARTMENT",
   "legalName": "TRANSNET LIMITED TREASURY DEPARTMENT",
-  "bic": "TNETZAA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.transnetlimitedtreasurydepartment.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TNETZAA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "P-H BORSMAEGLERSELSKAB A/S",
   "legalName": "P-H BORSMAEGLERSELSKAB A/S",
-  "bic": "PHBSDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.phborsmaeglerselskabas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHBSDKK1XXX"
 }

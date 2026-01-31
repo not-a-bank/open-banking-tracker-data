@@ -8,7 +8,6 @@
   ],
   "name": "Central Securities Depository (gh) LTD",
   "legalName": "CENTRAL SECURITIES DEPOSITORY (GH) LTD",
-  "bic": "CSDRGHACXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSDRGHACXXX"
 }

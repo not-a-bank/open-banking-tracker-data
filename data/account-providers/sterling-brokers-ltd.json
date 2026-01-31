@@ -8,7 +8,6 @@
   ],
   "name": "STERLING BROKERS LTD",
   "legalName": "STERLING BROKERS LTD",
-  "bic": "STBRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sterlingbrokersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STBRGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EURAZEO",
   "legalName": "EURAZEO",
-  "bic": "EURZFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurazeo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EURZFRP1XXX"
 }

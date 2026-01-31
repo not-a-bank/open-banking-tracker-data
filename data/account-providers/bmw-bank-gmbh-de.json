@@ -8,7 +8,6 @@
   ],
   "name": "BMW BANK GMBH",
   "legalName": "BMW BANK GMBH",
-  "bic": "BMWBDEMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bmwbankgmbhde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMWBDEMUXXX"
 }

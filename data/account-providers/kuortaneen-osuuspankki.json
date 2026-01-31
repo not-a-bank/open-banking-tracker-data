@@ -8,7 +8,6 @@
   ],
   "name": "KUORTANEEN OSUUSPANKKI",
   "legalName": "KUORTANEEN OSUUSPANKKI",
-  "bic": "KUONFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kuortaneenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KUONFI21XXX"
 }

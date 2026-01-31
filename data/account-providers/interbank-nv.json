@@ -8,7 +8,6 @@
   ],
   "name": "INTERBANK N.V.",
   "legalName": "INTERBANK N.V.",
-  "bic": "INKBNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.interbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INKBNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EXXON MOBIL CORPORATION",
   "legalName": "EXXON MOBIL CORPORATION",
-  "bic": "EXXMUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.exxonmobilcorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXXMUS41XXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "ARENDAL OG OMEGNS SPAREKASSE",
   "legalName": "ARENDAL OG OMEGNS SPAREKASSE",
-  "bic": "ARENNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/0309161b-a791-4046-8eff-3032c4ebb94f/-/preview/170x170/-/crop/180x180/center/NO937894082.png",
@@ -56,9 +55,11 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARENNO21"
 }

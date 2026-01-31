@@ -8,7 +8,6 @@
   ],
   "name": "BOSLIL BANK LIMITED",
   "legalName": "BOSLIL BANK LIMITED",
-  "bic": "BSLULCLCXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.boslilbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSLULCLCXXX"
 }

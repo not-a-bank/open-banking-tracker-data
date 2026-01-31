@@ -8,7 +8,6 @@
   ],
   "name": "BARCLAYS FRANCE S.A.",
   "legalName": "BARCLAYS FRANCE S.A.",
-  "bic": "PRIVFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.barclaysfrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRIVFRPPXXX"
 }

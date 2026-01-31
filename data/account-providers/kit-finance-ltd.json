@@ -8,7 +8,6 @@
   ],
   "name": "KIT FINANCE LTD",
   "legalName": "KIT FINANCE LTD",
-  "bic": "KFIERU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kitfinanceltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KFIERU21XXX"
 }

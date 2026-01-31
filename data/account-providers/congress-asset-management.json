@@ -8,7 +8,6 @@
   ],
   "name": "CONGRESS ASSET MANAGEMENT",
   "legalName": "CONGRESS ASSET MANAGEMENT",
-  "bic": "COSNUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.congressassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COSNUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BNP Paribas Prime Brokerage International, Limited",
   "legalName": "BNP PARIBAS PRIME BROKERAGE INTERNATIONAL, LIMITED",
-  "bic": "BNPBIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPBIE2DXXX"
 }

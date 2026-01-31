@@ -8,7 +8,6 @@
   ],
   "name": "ENDEX EUROPEAN ENERGY DERIVATIVES EXCHANGE N.V.",
   "legalName": "ENDEX EUROPEAN ENERGY DERIVATIVES EXCHANGE N.V.",
-  "bic": "EEEDNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.endexeuropeanenergyderivativesexchangenv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EEEDNL21XXX"
 }

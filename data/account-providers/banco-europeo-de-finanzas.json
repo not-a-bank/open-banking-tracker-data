@@ -76,6 +76,7 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "volt"
   ],
@@ -108,5 +109,6 @@
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://apis-i.redsys.es:20443/psd2/xs2a/api-entrada-xs2a/services/BANCOEUROPEODEFINANZAS/v1.1"
-  }
+  },
+  "bic": "BEDFESM1"
 }

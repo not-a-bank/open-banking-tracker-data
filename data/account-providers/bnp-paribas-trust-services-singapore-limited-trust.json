@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS TRUST SERVICES SINGAPORE LIMITED  (TRUST AND TA ONLY)",
   "legalName": "BNP PARIBAS TRUST SERVICES SINGAPORE LIMITED  (TRUST AND TA ONLY)",
-  "bic": "BNPTSGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibastrustservicessingaporelimitedtrust.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPTSGSGXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MEINL BANK A.G.",
   "legalName": "MEINL BANK A.G.",
-  "bic": "MEINATWWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.meinlbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEINATWWXXX"
 }

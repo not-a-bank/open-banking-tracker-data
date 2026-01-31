@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DAVIVIENDA INTERNACIONAL (PANAMA), S.A.",
   "legalName": "BANCO DAVIVIENDA INTERNACIONAL (PANAMA), S.A.",
-  "bic": "DAVPPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodaviviendainternacionalpanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DAVPPAPAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bank Tabungan Negara (persero), PT.",
   "legalName": "BANK TABUNGAN NEGARA (PERSERO), PT.",
-  "bic": "TABUNGAN",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TABUNGAN"
 }

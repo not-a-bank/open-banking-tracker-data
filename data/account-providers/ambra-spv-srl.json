@@ -8,7 +8,6 @@
   ],
   "name": "AMBRA SPV SRL",
   "legalName": "AMBRA SPV SRL",
-  "bic": "AMVSIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ambraspvsrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMVSIT21XXX"
 }

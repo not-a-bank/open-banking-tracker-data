@@ -8,7 +8,6 @@
   ],
   "name": "BAIL BANQUE POPULAIRE",
   "legalName": "BAIL BANQUE POPULAIRE",
-  "bic": "BAPOFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bailbanquepopulaire.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAPOFR21XXX"
 }

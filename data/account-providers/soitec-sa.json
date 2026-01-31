@@ -8,7 +8,6 @@
   ],
   "name": "SOITEC SA",
   "legalName": "SOITEC SA",
-  "bic": "SOECFR22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.soitecsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOECFR22XXX"
 }

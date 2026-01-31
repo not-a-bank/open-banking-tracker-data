@@ -9,7 +9,6 @@
   ],
   "name": "EIDSBERG SPAREBANK",
   "legalName": "EIDSBERG SPAREBANK",
-  "bic": "EIDSNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/e265f824-838c-4b3f-bb32-5623f8bc60a7/-/preview/170x170/-/crop/180x180/center/NO937884494.png",
@@ -55,11 +54,13 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "enablebanking",
-    "neonomics"
+    "gocardless",
+    "neonomics",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EIDSNO21"
 }

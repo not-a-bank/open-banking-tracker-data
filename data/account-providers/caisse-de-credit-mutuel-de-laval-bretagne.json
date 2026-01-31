@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE CREDIT MUTUEL DE LAVAL BRETAGNE",
   "legalName": "CAISSE DE CREDIT MUTUEL DE LAVAL BRETAGNE",
-  "bic": "CCMVFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedecreditmutueldelavalbretagne.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCMVFR21XXX"
 }

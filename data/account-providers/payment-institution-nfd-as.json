@@ -8,7 +8,6 @@
   ],
   "name": "PAYMENT INSTITUTION NFD A.S.",
   "legalName": "PAYMENT INSTITUTION NFD A.S.",
-  "bic": "NFDNSKBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.paymentinstitutionnfdas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NFDNSKBAXXX"
 }

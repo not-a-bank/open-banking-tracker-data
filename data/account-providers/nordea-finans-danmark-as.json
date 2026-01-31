@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA FINANS DANMARK A/S",
   "legalName": "NORDEA FINANS DANMARK A/S",
-  "bic": "UNREDKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeafinansdanmarkas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNREDKK1XXX"
 }

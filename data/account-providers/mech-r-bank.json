@@ -8,7 +8,6 @@
   ],
   "name": "MECH R BANK",
   "legalName": "MECH R BANK",
-  "bic": "MECHAZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mechrbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MECHAZ21XXX"
 }

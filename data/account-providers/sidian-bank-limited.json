@@ -8,7 +8,6 @@
   ],
   "name": "SIDIAN BANK LIMITED",
   "legalName": "SIDIAN BANK LIMITED",
-  "bic": "SIDNKENAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sidianbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIDNKENAXXX"
 }

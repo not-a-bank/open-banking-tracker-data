@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS MANAMA, FULL COMMERCIAL BRANCH (FCB)",
   "legalName": "BNP PARIBAS MANAMA, FULL COMMERCIAL BRANCH (FCB)",
-  "bic": "BNPABHC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasmanamafullcommercialbranchfcb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPABHC1XXX"
 }

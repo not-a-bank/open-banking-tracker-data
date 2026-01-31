@@ -8,7 +8,6 @@
   ],
   "name": "Banca Privada D'andorra S.a.",
   "legalName": "BANCA PRIVADA D'ANDORRA S.A.",
-  "bic": "CASBADADXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CASBADADXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO MADESANT - SOCIEDADE UNIPESSOAL S.A. (ZONA FRANCA DA MADEIRA)",
   "legalName": "BANCO MADESANT - SOCIEDADE UNIPESSOAL S.A. (ZONA FRANCA DA MADEIRA)",
-  "bic": "MASNPTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomadesantsociedadeunipessoalsazonafranca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MASNPTP1XXX"
 }

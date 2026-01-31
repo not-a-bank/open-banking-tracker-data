@@ -8,7 +8,6 @@
   ],
   "name": "UBS SECURITIES ESPANA SOCIEDAD DE VALORES SA",
   "legalName": "UBS SECURITIES ESPANA SOCIEDAD DE VALORES SA",
-  "bic": "UBSSESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubssecuritiesespanasociedaddevaloressa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBSSESM1XXX"
 }

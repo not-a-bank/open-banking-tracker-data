@@ -8,7 +8,6 @@
   ],
   "name": "KREISSPARKASSE SAARPFALZ",
   "legalName": "KREISSPARKASSE SAARPFALZ",
-  "bic": "KRSFDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkassesaarpfalz.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SALADE51HOM"
 }

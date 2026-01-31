@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA LATINAMERIKAFOND",
   "legalName": "NORDEA LATINAMERIKAFOND",
-  "bic": "NOLTFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordealatinamerikafond.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOLTFIH1XXX"
 }

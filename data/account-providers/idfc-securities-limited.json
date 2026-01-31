@@ -8,7 +8,6 @@
   ],
   "name": "IDFC SECURITIES LIMITED",
   "legalName": "IDFC SECURITIES LIMITED",
-  "bic": "SSKIINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.idfcsecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSKIINB1XXX"
 }

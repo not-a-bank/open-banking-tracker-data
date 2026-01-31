@@ -8,7 +8,6 @@
   ],
   "name": "DANSKE BANK A/S",
   "legalName": "DANSKE BANK A/S",
-  "bic": "DABAIE2DXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.danskebankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DABAIE2DXXX"
 }

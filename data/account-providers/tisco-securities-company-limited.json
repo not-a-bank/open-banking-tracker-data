@@ -8,7 +8,6 @@
   ],
   "name": "TISCO SECURITIES COMPANY LIMITED",
   "legalName": "TISCO SECURITIES COMPANY LIMITED",
-  "bic": "TSCCTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tiscosecuritiescompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TSCCTHB1XXX"
 }

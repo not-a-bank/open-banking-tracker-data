@@ -8,7 +8,6 @@
   ],
   "name": "TRADIMPEX BIENES RAICES C.A.",
   "legalName": "TRADIMPEX BIENES RAICES C.A.",
-  "bic": "TRBRVEC1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tradimpexbienesraicesca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRBRVEC1XXX"
 }

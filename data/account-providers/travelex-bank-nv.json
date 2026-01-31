@@ -8,7 +8,6 @@
   ],
   "name": "TRAVELEX BANK N.V.",
   "legalName": "TRAVELEX BANK N.V.",
-  "bic": "TRVXNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.travelexbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRVXNL21XXX"
 }

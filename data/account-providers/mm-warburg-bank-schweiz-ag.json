@@ -8,7 +8,6 @@
   ],
   "name": "M.M. WARBURG BANK (SCHWEIZ) AG",
   "legalName": "M.M. WARBURG BANK (SCHWEIZ) AG",
-  "bic": "WBWCCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mmwarburgbankschweizag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WBWCCHZZXXX"
 }

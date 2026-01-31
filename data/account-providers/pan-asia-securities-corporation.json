@@ -8,7 +8,6 @@
   ],
   "name": "PAN ASIA SECURITIES CORPORATION",
   "legalName": "PAN ASIA SECURITIES CORPORATION",
-  "bic": "PANIPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.panasiasecuritiescorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PANIPHM1XXX"
 }

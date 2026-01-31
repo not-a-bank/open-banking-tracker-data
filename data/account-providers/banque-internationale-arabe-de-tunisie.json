@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
   "legalName": "BANQUE INTERNATIONALE ARABE DE TUNISIE",
-  "bic": "BIATTNTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueinternationalearabedetunisie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIATTNTTXXX"
 }

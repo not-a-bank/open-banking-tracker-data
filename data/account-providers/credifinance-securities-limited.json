@@ -8,7 +8,6 @@
   ],
   "name": "CREDIFINANCE SECURITIES LIMITED",
   "legalName": "CREDIFINANCE SECURITIES LIMITED",
-  "bic": "CSECCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credifinancesecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSECCAT1XXX"
 }

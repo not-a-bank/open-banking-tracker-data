@@ -8,7 +8,6 @@
   ],
   "name": "ULSTER BANK (I.O.M.) LIMITED",
   "legalName": "ULSTER BANK (I.O.M.) LIMITED",
-  "bic": "ULSBIMD1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ulsterbankiomlimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ULSBIMD1XXX"
 }

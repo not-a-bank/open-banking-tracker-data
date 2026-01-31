@@ -8,7 +8,6 @@
   ],
   "name": "MWALIMU COMMERCIAL BANK PLC",
   "legalName": "MWALIMU COMMERCIAL BANK PLC",
-  "bic": "MWCOTZTZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mwalimucommercialbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MWCOTZTZXXX"
 }

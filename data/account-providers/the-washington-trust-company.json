@@ -8,7 +8,6 @@
   ],
   "name": "THE WASHINGTON TRUST COMPANY",
   "legalName": "THE WASHINGTON TRUST COMPANY",
-  "bic": "WATCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thewashingtontrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WATCUS31XXX"
 }

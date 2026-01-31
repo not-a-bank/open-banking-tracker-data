@@ -8,7 +8,6 @@
   ],
   "name": "FINECOBANK S.P.A.",
   "legalName": "FINECOBANK S.P.A.",
-  "bic": "FEBIITM2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finecobankspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FEBIITM2XXX"
 }

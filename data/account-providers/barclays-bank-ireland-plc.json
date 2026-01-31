@@ -8,7 +8,6 @@
   ],
   "name": "Barclays Bank Ireland PLC",
   "legalName": "BARCLAYS BANK IRELAND PLC",
-  "bic": "BARCIE2DSEC",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BARCIE2DSEC"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China India Branch",
   "legalName": "BANK OF CHINA INDIA BRANCH",
-  "bic": "BKCHINBBXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHINBBXXX"
 }

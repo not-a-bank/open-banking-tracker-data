@@ -8,7 +8,6 @@
   ],
   "name": "NARUSE SECURITIES CO",
   "legalName": "NARUSE SECURITIES CO",
-  "bic": "NAREJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.narusesecuritiesco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAREJPJ1XXX"
 }

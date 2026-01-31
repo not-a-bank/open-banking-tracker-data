@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS EQUITIES ITALIA SIM S.P.A.",
   "legalName": "BNP PARIBAS EQUITIES ITALIA SIM S.P.A.",
-  "bic": "BNAIITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasequitiesitaliasimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNAIITM1XXX"
 }

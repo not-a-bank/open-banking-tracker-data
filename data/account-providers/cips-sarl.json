@@ -8,7 +8,6 @@
   ],
   "name": "CIPS SARL",
   "legalName": "CIPS SARL",
-  "bic": "CPPSFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cipssarl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPPSFRP1XXX"
 }

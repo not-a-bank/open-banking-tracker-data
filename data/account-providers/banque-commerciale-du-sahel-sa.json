@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE COMMERCIALE DU SAHEL SA",
   "legalName": "BANQUE COMMERCIALE DU SAHEL SA",
-  "bic": "ALIMMLBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquecommercialedusahelsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALIMMLBAXXX"
 }

@@ -9,7 +9,6 @@
   ],
   "name": "REGIONS BANK",
   "legalName": "REGIONS BANK",
-  "bic": "UPNBUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1630111148/radar/icons/regions-bank.jpg",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "RF"
+  "stockSymbol": "RF",
+  "bic": "UPNBUS44XXX"
 }

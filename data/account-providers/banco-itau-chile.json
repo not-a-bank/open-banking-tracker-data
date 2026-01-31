@@ -8,7 +8,6 @@
   ],
   "name": "Banco Itau Chile",
   "legalName": "BANCO ITAU CHILE",
-  "bic": "CONBCLRMXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONBCLRMXXX"
 }

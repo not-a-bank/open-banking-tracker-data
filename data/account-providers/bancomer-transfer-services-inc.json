@@ -8,7 +8,6 @@
   ],
   "name": "BANCOMER TRANSFER SERVICES INC.",
   "legalName": "BANCOMER TRANSFER SERVICES INC.",
-  "bic": "BTSIUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancomertransferservicesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BTSIUS44XXX"
 }

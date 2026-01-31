@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK CANADA SECURITIES LTD.",
   "legalName": "CITIBANK CANADA SECURITIES LTD.",
-  "bic": "CICSCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankcanadasecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CICSCAT1XXX"
 }

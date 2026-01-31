@@ -8,7 +8,6 @@
   ],
   "name": "KMT PAYMENT SERVICES S.A.",
   "legalName": "KMT PAYMENT SERVICES S.A.",
-  "bic": "KMPSGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kmtpaymentservicessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KMPSGRA1XXX"
 }

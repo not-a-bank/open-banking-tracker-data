@@ -8,7 +8,6 @@
   ],
   "name": "BERHAN INTERNATIONAL BANK",
   "legalName": "BERHAN INTERNATIONAL BANK",
-  "bic": "BERHETAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.berhaninternationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BERHETAAXXX"
 }

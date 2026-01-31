@@ -8,7 +8,6 @@
   ],
   "name": "CROSBY SECURITIES (UK) LIMITED",
   "legalName": "CROSBY SECURITIES (UK) LIMITED",
-  "bic": "CRSEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.crosbysecuritiesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRSEGB21XXX"
 }

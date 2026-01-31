@@ -8,7 +8,6 @@
   ],
   "name": "OSUUSPANKKI KANTRISALO",
   "legalName": "OSUUSPANKKI KANTRISALO",
-  "bic": "OSKAFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.osuuspankkikantrisalo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OSKAFI21XXX"
 }

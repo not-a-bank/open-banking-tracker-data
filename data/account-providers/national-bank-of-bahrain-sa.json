@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF BAHRAIN",
   "legalName": "NATIONAL BANK OF BAHRAIN",
-  "bic": "NBOBSARIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankofbahrainsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBOBSARIXXX"
 }

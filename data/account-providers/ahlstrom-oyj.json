@@ -8,7 +8,6 @@
   ],
   "name": "Ahlstrom OYJ",
   "legalName": "AHLSTROM OYJ",
-  "bic": "AHLSTROM",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AHLSTROM"
 }

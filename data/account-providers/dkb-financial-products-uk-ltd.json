@@ -8,7 +8,6 @@
   ],
   "name": "DKB FINANCIAL PRODUCTS (UK) LTD",
   "legalName": "DKB FINANCIAL PRODUCTS (UK) LTD",
-  "bic": "DKFPGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dkbfinancialproductsukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DKFPGB21XXX"
 }

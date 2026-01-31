@@ -8,7 +8,6 @@
   ],
   "name": "CASA DE CAMBIO",
   "legalName": "CASA DE CAMBIO",
-  "bic": "CSAIHNT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.casadecambio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSAIHNT1XXX"
 }

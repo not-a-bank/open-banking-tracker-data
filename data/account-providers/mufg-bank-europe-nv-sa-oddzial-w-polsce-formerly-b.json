@@ -8,7 +8,6 @@
   ],
   "name": "MUFG BANK (EUROPE) N.V. S.A. ODDZIAL W POLSCE (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (POLSKA) S.A.)",
   "legalName": "MUFG BANK (EUROPE) N.V. S.A. ODDZIAL W POLSCE (FORMERLY BANK OF TOKYO-MITSUBISHI UFJ (POLSKA) S.A.)",
-  "bic": "BOTKPLPWXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mufgbankeuropenvsaoddzialwpolsceformerlyb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOTKPLPWXXX"
 }

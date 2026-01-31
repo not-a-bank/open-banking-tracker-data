@@ -8,7 +8,6 @@
   ],
   "name": "MIZUHO BANK, LTD. PARIS BRANCH",
   "legalName": "MIZUHO BANK, LTD. PARIS BRANCH",
-  "bic": "MHCBFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mizuhobankltdparisbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MHCBFRPPXXX"
 }

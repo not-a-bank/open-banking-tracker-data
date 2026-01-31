@@ -8,7 +8,6 @@
   ],
   "name": "EASTERN SECURITIES S.A.",
   "legalName": "EASTERN SECURITIES S.A.",
-  "bic": "EASCROB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.easternsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EASCROB1XXX"
 }

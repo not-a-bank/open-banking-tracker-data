@@ -8,7 +8,6 @@
   ],
   "name": "PRIME S/A CORRETORA DE CAMBIO E VALORES",
   "legalName": "PRIME S/A CORRETORA DE CAMBIO E VALORES",
-  "bic": "PRCCBRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.primesacorretoradecambioevalores.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRCCBRR1XXX"
 }

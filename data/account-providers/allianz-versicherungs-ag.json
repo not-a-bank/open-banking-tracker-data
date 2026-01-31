@@ -8,7 +8,6 @@
   ],
   "name": "Allianz Versicherungs - AG",
   "legalName": "ALLIANZ VERSICHERUNGS - AG",
-  "bic": "ALAVDEMSXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALAVDEMSXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PACIFIC CONTINENTAL SECURITIES (UK) LIMITED",
   "legalName": "PACIFIC CONTINENTAL SECURITIES (UK) LIMITED",
-  "bic": "PCUKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pacificcontinentalsecuritiesuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PCUKGB21XXX"
 }

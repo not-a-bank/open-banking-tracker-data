@@ -8,7 +8,6 @@
   ],
   "name": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
   "legalName": "BANCA NUOVA SPA (INTESA SANPAOLO GROUP)",
-  "bic": "BPVIIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancanuovaspaintesasanpaologroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPVIIT31XXX"
 }

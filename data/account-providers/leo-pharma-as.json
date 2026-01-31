@@ -8,7 +8,6 @@
   ],
   "name": "LEO PHARMA A/S",
   "legalName": "LEO PHARMA A/S",
-  "bic": "LEPHDK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.leopharmaas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LEPHDK22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DO ESTADO DE SAO PAOLO S.A.",
   "legalName": "BANCO DO ESTADO DE SAO PAOLO S.A.",
-  "bic": "ESAONL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodoestadodesaopaolosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESAONL21XXX"
 }

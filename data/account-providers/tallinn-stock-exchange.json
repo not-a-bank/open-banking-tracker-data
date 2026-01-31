@@ -8,7 +8,6 @@
   ],
   "name": "TALLINN STOCK EXCHANGE",
   "legalName": "TALLINN STOCK EXCHANGE",
-  "bic": "XTALEE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tallinnstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XTALEE21XXX"
 }

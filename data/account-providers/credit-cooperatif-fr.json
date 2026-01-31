@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT COOPERATIF",
   "legalName": "CREDIT COOPERATIF",
-  "bic": "CCOPFRCPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditcooperatiffr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCOPFRCPXXX"
 }

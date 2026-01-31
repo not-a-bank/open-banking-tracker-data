@@ -8,7 +8,6 @@
   ],
   "name": "NADEX CO.,LTD.",
   "legalName": "NADEX CO.,LTD.",
-  "bic": "NDXEJPJTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nadexcoltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDXEJPJTXXX"
 }

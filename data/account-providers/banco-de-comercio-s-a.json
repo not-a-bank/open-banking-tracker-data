@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE Comercio S.a.",
   "legalName": "BANCO DE COMERCIO S.A.",
-  "bic": "MCFAARBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodecomercio.com.ar.ico",
@@ -27,5 +26,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCFAARBAXXX"
 }

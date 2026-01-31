@@ -8,7 +8,6 @@
   ],
   "name": "KFIC FINANCIAL BROKERAGE",
   "legalName": "KFIC FINANCIAL BROKERAGE",
-  "bic": "KFFBKWK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kficfinancialbrokerage.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KFFBKWK1XXX"
 }

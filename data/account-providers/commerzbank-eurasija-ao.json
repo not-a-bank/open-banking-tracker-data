@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZBANK (EURASIJA) AO",
   "legalName": "COMMERZBANK (EURASIJA) AO",
-  "bic": "COBARUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzbankeurasijaao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBARUMMXXX"
 }

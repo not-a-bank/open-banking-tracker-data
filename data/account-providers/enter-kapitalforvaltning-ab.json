@@ -8,7 +8,6 @@
   ],
   "name": "ENTER KAPITALFORVALTNING AB",
   "legalName": "ENTER KAPITALFORVALTNING AB",
-  "bic": "ENKASES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enterkapitalforvaltningab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENKASES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CMC SPREADBET PLC",
   "legalName": "CMC SPREADBET PLC",
-  "bic": "CMSRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cmcspreadbetplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMSRGB21XXX"
 }

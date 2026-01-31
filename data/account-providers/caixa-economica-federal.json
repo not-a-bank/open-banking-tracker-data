@@ -9,7 +9,6 @@
   ],
   "name": "Caixa Econômica Federal",
   "legalName": "CAIXA ECONOMICA FEDERAL",
-  "bic": "CEFXBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1620492426/radar/icons/caixa-br.jpg",
@@ -33,5 +32,6 @@
   ],
   "ownership": [],
   "stateOwned": true,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEFXBRSPXXX"
 }

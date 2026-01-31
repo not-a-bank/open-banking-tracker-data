@@ -8,7 +8,6 @@
   ],
   "name": "NZIJ STOCKBROKERS LTD",
   "legalName": "NZIJ STOCKBROKERS LTD",
-  "bic": "MACENZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nzijstockbrokersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MACENZ21XXX"
 }

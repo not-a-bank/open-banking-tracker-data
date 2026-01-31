@@ -8,7 +8,6 @@
   ],
   "name": "STANDARD BANK (MAURITIUS) LIMITED",
   "legalName": "STANDARD BANK (MAURITIUS) LIMITED",
-  "bic": "SBICMUMUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.standardbankmauritiuslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBICMUMUXXX"
 }

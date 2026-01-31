@@ -8,7 +8,6 @@
   ],
   "name": "COMDIRECT BANK S.P.A.",
   "legalName": "COMDIRECT BANK S.P.A.",
-  "bic": "COBAIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.comdirectbankspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBAIT21XXX"
 }

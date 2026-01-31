@@ -8,7 +8,6 @@
   ],
   "name": "DANSKE BANK RUSSIA",
   "legalName": "DANSKE BANK RUSSIA",
-  "bic": "DABARU2PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.danskebankrussia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DABARU2PXXX"
 }

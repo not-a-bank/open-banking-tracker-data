@@ -8,7 +8,6 @@
   ],
   "name": "SPAREBANKEN VEST",
   "legalName": "SPAREBANKEN VEST",
-  "bic": "SPAVNOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebankenvest.com.ico",
@@ -29,5 +28,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPAVNOBBXXX"
 }

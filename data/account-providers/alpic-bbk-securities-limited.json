@@ -8,7 +8,6 @@
   ],
   "name": "ALPIC BBK SECURITIES LIMITED",
   "legalName": "ALPIC BBK SECURITIES LIMITED",
-  "bic": "ALBCINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alpicbbksecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALBCINB1XXX"
 }

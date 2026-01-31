@@ -8,7 +8,6 @@
   ],
   "name": "NOVACAO S/A CCVM",
   "legalName": "NOVACAO S/A CCVM",
-  "bic": "NOCCBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.novacaosaccvm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOCCBRS1XXX"
 }

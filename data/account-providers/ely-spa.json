@@ -8,7 +8,6 @@
   ],
   "name": "ELY S.P.A.",
   "legalName": "ELY S.P.A.",
-  "bic": "ELYEITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.elyspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ELYEITM1XXX"
 }

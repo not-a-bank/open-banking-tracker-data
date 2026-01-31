@@ -8,7 +8,6 @@
   ],
   "name": "SOLARIS BANK AG",
   "legalName": "SOLARIS BANK AG",
-  "bic": "SOBKDEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.solarisbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOBKDEBBXXX"
 }

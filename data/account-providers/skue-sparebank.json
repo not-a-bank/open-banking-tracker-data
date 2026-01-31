@@ -9,7 +9,6 @@
   ],
   "name": "SKUE SPAREBANK",
   "legalName": "SKUE SPAREBANK",
-  "bic": "NEPRNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/041e4146-aefa-493f-a907-b918260e4078/-/preview/170x170/-/crop/180x180/center/NO837889812.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEPRNO21"
 }

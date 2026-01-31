@@ -8,7 +8,6 @@
   ],
   "name": "WEST BROMWICH BUILDING SOCIETY",
   "legalName": "WEST BROMWICH BUILDING SOCIETY",
-  "bic": "WBBSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.westbromwichbuildingsociety.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WBBSGB21XXX"
 }

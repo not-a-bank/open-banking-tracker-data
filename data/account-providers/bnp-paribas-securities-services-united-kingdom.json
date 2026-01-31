@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS SECURITIES SERVICES, UNITED KINGDOM",
   "legalName": "BNP PARIBAS SECURITIES SERVICES, UNITED KINGDOM",
-  "bic": "PARBGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibassecuritiesservicesunitedkingdom.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARBGB2LXXX"
 }

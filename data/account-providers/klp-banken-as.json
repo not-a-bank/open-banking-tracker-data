@@ -8,7 +8,6 @@
   ],
   "name": "KLP BANKEN AS",
   "legalName": "KLP BANKEN AS",
-  "bic": "KLPKNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.klpbankenas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KLPKNO21XXX"
 }

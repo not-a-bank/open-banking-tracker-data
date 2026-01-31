@@ -8,7 +8,6 @@
   ],
   "name": "ABN AMRO FIXED INCOME FRANCE",
   "legalName": "ABN AMRO FIXED INCOME FRANCE",
-  "bic": "AAFNFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abnamrofixedincomefrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AAFNFRP1XXX"
 }

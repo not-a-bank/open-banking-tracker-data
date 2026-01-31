@@ -8,7 +8,6 @@
   ],
   "name": "AKZO NOBEL N.V.",
   "legalName": "AKZO NOBEL N.V.",
-  "bic": "AKZONL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.akzonobelnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AKZONL2AXXX"
 }

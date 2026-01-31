@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONALE NEDERLANDEN BOURSE S.A.",
   "legalName": "INTERNATIONALE NEDERLANDEN BOURSE S.A.",
-  "bic": "INGNFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalenederlandenboursesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGNFRP1XXX"
 }

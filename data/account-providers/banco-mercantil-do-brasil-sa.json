@@ -8,7 +8,6 @@
   ],
   "name": "Banco Mercantil",
   "legalName": "BANCO MERCANTIL DO BRASIL S.A.",
-  "bic": "BMBRBRRBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mercantil.com.br.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "BMEB4"
+  "stockSymbol": "BMEB4",
+  "bic": "BMBRBRRBXXX"
 }

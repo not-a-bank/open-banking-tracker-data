@@ -8,7 +8,6 @@
   ],
   "name": "NATWEST STOCKBROKERS LIMITED",
   "legalName": "NATWEST STOCKBROKERS LIMITED",
-  "bic": "NWSBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natweststockbrokerslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NWSBGB21XXX"
 }

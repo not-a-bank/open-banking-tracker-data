@@ -8,7 +8,6 @@
   ],
   "name": "HOLLA OG LUNDE SPAREBANK",
   "legalName": "HOLLA OG LUNDE SPAREBANK",
-  "bic": "HOSANO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hollaoglundesparebank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOSANO21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ABC INTERNATIONAL BANK PLC, ZWEIGNIEDERLASSUNG FRANKFURT AM MAIN",
   "legalName": "ABC INTERNATIONAL BANK PLC, ZWEIGNIEDERLASSUNG FRANKFURT AM MAIN",
-  "bic": "ABCADEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abcinternationalbankplczweigniederlassungfran.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABCADEFFXXX"
 }

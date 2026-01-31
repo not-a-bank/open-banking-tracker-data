@@ -8,7 +8,6 @@
   ],
   "name": "PERHON OSUUSPANKKI",
   "legalName": "PERHON OSUUSPANKKI",
-  "bic": "PEOPFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.perhonosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PEOPFI21XXX"
 }

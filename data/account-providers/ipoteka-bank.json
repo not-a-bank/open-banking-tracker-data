@@ -8,7 +8,6 @@
   ],
   "name": "IPOTEKA-BANK",
   "legalName": "IPOTEKA-BANK",
-  "bic": "UZHOUZ22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ipotekabank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UZHOUZ22XXX"
 }

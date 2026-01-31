@@ -8,7 +8,6 @@
   ],
   "name": "NH SECURITIES PVT LTD",
   "legalName": "NH SECURITIES PVT LTD",
-  "bic": "SEPVINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nhsecuritiespvtltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEPVINB1XXX"
 }

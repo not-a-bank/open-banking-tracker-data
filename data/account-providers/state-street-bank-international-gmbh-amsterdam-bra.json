@@ -8,7 +8,6 @@
   ],
   "name": "STATE STREET BANK INTERNATIONAL GMBH AMSTERDAM BRANCH",
   "legalName": "STATE STREET BANK INTERNATIONAL GMBH AMSTERDAM BRANCH",
-  "bic": "SBOSNL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.statestreetbankinternationalgmbhamsterdambra.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBOSNL2AXXX"
 }

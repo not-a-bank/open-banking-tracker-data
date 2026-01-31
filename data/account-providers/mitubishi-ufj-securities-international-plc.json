@@ -8,7 +8,6 @@
   ],
   "name": "MITUBISHI UFJ SECURITIES INTERNATIONAL PLC",
   "legalName": "MITUBISHI UFJ SECURITIES INTERNATIONAL PLC",
-  "bic": "MUSIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mitubishiufjsecuritiesinternationalplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MUSIGB21XXX"
 }

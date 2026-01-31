@@ -8,7 +8,6 @@
   ],
   "name": "MF Banka A.d. Banja Luka",
   "legalName": "MF BANKA A.D. BANJA LUKA",
-  "bic": "MFBLBA22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MFBLBA22XXX"
 }

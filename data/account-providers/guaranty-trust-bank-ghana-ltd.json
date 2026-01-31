@@ -8,7 +8,6 @@
   ],
   "name": "Guaranty Trust Bank (ghana) LTD",
   "legalName": "GUARANTY TRUST BANK (GHANA) LTD",
-  "bic": "GTBIGHACXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GTBIGHACXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE COMERCIO EXTERIOR",
   "legalName": "BANCO DE COMERCIO EXTERIOR",
-  "bic": "BCEVVECAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodecomercioexterior.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCEVVECAXXX"
 }

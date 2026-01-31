@@ -8,7 +8,6 @@
   ],
   "name": "ALEXANDRE FINANCE",
   "legalName": "ALEXANDRE FINANCE",
-  "bic": "ALNCFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alexandrefinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALNCFRP1XXX"
 }

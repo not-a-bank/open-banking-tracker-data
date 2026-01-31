@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE PREGARTEN-UNTERWEISSENBACH AG",
   "legalName": "SPARKASSE PREGARTEN-UNTERWEISSENBACH AG",
-  "bic": "SPPRAT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassepregartenunterweissenbachag.com.ico",
@@ -23,8 +22,11 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPPRAT21"
 }

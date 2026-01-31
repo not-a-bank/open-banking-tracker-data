@@ -127,13 +127,14 @@
     }
   ],
   "apiAggregators": [
-    "volt",
-    "bridgeapi-io",
     "bankingsdk",
+    "bridgeapi-io",
     "budget-insight",
     "fintecture",
+    "gocardless",
     "ibanity",
-    "salt-edge"
+    "salt-edge",
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -8,7 +8,6 @@
   ],
   "name": "SEACOAST NATIONAL BANK",
   "legalName": "SEACOAST NATIONAL BANK",
-  "bic": "SNBFUS3FXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.seacoastnationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SNBFUS3FXXX"
 }

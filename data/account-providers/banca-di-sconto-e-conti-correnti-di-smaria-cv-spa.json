@@ -8,7 +8,6 @@
   ],
   "name": "BANCA DI SCONTO E CONTI CORRENTI DI S.MARIA C.V. S.P.A.",
   "legalName": "BANCA DI SCONTO E CONTI CORRENTI DI S.MARIA C.V. S.P.A.",
-  "bic": "SCCDIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancadiscontoeconticorrentidismariacvspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCCDIT31XXX"
 }

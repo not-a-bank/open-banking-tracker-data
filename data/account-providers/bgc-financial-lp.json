@@ -8,7 +8,6 @@
   ],
   "name": "BGC FINANCIAL LP",
   "legalName": "BGC FINANCIAL LP",
-  "bic": "BGCFUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bgcfinanciallp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BGCFUS33XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ING BANK N.V., LONDON BRANCH, EQUITY SETTLEMENTS",
   "legalName": "ING BANK N.V., LONDON BRANCH, EQUITY SETTLEMENTS",
-  "bic": "INGBGB2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingbanknvlondonbranchequitysettlements.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGBGB2SXXX"
 }

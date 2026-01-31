@@ -8,7 +8,6 @@
   ],
   "name": "DIRECT DEAL (STOCKBROKERS) LTD",
   "legalName": "DIRECT DEAL (STOCKBROKERS) LTD",
-  "bic": "DIDSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.directdealstockbrokersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DIDSGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FIRST NATIONAL BANK OF SANTA FE",
   "legalName": "FIRST NATIONAL BANK OF SANTA FE",
-  "bic": "FNBSUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstnationalbankofsantafe.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNBSUS51XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UMB BANK, N.A.",
   "legalName": "UMB BANK, N.A.",
-  "bic": "UMKCUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.umbbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UMKCUS44XXX"
 }

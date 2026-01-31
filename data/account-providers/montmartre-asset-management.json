@@ -8,7 +8,6 @@
   ],
   "name": "MONTMARTRE ASSET MANAGEMENT",
   "legalName": "MONTMARTRE ASSET MANAGEMENT",
-  "bic": "MOSMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.montmartreassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOSMFRP1XXX"
 }

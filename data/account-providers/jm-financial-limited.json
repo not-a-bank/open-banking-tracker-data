@@ -8,7 +8,6 @@
   ],
   "name": "JM FINANCIAL LIMITED",
   "legalName": "JM FINANCIAL LIMITED",
-  "bic": "SHSBINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jmfinanciallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SHSBINB1XXX"
 }

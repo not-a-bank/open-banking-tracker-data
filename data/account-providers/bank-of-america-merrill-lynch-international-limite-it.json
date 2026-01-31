@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, MILAN BRANCH",
   "legalName": "BANK OF AMERICA MERRILL LYNCH INTERNATIONAL LIMITED, MILAN BRANCH",
-  "bic": "BOFAIT2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericamerrilllynchinternationallimiteit.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAIT2XXXX"
 }

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "SpareBank 1 Lom og Skj\u00e5k",
-  "legalName": "SpareBank 1 Lom og Skj\u00e5k",
+  "name": "SpareBank 1 Lom og Skjåk",
+  "legalName": "SpareBank 1 Lom og Skjåk",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebank-1-lom-og-skjak.com.ico",
@@ -23,10 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "LOSKNO21XXX"
+  "bic": "SPTRNO22"
 }

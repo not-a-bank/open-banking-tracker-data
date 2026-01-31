@@ -8,7 +8,6 @@
   ],
   "name": "EUROBANK PRIVATE BANK LUXEMBOURG S.A. LONDON BRANCH",
   "legalName": "EUROBANK PRIVATE BANK LUXEMBOURG S.A. LONDON BRANCH",
-  "bic": "ERBKGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurobankprivatebankluxembourgsalondonbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERBKGB2LXXX"
 }

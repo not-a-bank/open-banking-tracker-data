@@ -8,7 +8,6 @@
   ],
   "name": "KAZAKHSTAN STOCK EXCHANGE",
   "legalName": "KAZAKHSTAN STOCK EXCHANGE",
-  "bic": "KICEKZKXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kazakhstanstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KICEKZKXXXX"
 }

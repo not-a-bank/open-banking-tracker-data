@@ -8,7 +8,6 @@
   ],
   "name": "JSC ECONOMBANK",
   "legalName": "JSC ECONOMBANK",
-  "bic": "BRECRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jsceconombank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRECRU21XXX"
 }

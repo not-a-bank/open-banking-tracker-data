@@ -8,7 +8,6 @@
   ],
   "name": "AGK CORRETORA DE CAMBIO S.A.",
   "legalName": "AGK CORRETORA DE CAMBIO S.A.",
-  "bic": "AGKCBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agkcorretoradecambiosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGKCBRS1XXX"
 }

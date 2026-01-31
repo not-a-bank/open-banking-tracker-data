@@ -8,7 +8,6 @@
   ],
   "name": "ROYAL EXCHANGE TRUST COMPANY LIMITED",
   "legalName": "ROYAL EXCHANGE TRUST COMPANY LIMITED",
-  "bic": "RETCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.royalexchangetrustcompanylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RETCGB21XXX"
 }

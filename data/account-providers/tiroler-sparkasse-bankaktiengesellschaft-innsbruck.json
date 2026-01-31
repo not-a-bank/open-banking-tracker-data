@@ -8,7 +8,6 @@
   ],
   "name": "TIROLER SPARKASSE BANKAKTIENGESELLSCHAFT INNSBRUCK",
   "legalName": "TIROLER SPARKASSE BANKAKTIENGESELLSCHAFT INNSBRUCK",
-  "bic": "SPIHAT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tirolersparkassebankaktiengesellschaftinnsbruck.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPIHAT22XXX"
 }

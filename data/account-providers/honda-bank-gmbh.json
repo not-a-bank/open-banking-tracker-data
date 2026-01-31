@@ -8,7 +8,6 @@
   ],
   "name": "HONDA BANK GMBH",
   "legalName": "HONDA BANK GMBH",
-  "bic": "HONDDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hondabankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HONDDEF1XXX"
 }

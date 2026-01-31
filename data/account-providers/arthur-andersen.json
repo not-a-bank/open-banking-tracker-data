@@ -8,7 +8,6 @@
   ],
   "name": "ARTHUR ANDERSEN",
   "legalName": "ARTHUR ANDERSEN",
-  "bic": "ARADUS51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.arthurandersen.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARADUS51XXX"
 }

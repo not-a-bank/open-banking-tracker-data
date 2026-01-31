@@ -8,7 +8,6 @@
   ],
   "name": "SYGNIA SECURITIES (PTY) LTD",
   "legalName": "SYGNIA SECURITIES (PTY) LTD",
-  "bic": "SYSYZAJ2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sygniasecuritiesptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SYSYZAJ2XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NATIXIS COMMODITY MARKETS LIMITED",
   "legalName": "NATIXIS COMMODITY MARKETS LIMITED",
-  "bic": "SOGAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natixiscommoditymarketslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOGAGB21XXX"
 }

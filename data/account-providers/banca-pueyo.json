@@ -67,11 +67,12 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge"
   ],
-  "swiftCode": "BAPUES22",
   "sandbox": {
     "status": "available",
     "sourceUrl": "No encontrado"
-  }
+  },
+  "bic": "BAPUES22"
 }

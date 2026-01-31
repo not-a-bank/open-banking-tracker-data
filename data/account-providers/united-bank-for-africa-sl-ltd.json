@@ -8,7 +8,6 @@
   ],
   "name": "UNITED BANK FOR AFRICA (S/L) LTD",
   "legalName": "UNITED BANK FOR AFRICA (S/L) LTD",
-  "bic": "UNAFSLFRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedbankforafricaslltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNAFSLFRXXX"
 }

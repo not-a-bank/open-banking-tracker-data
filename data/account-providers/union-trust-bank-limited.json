@@ -8,7 +8,6 @@
   ],
   "name": "UNION TRUST BANK LIMITED",
   "legalName": "UNION TRUST BANK LIMITED",
-  "bic": "UTBSSLFRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.uniontrustbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UTBSSLFRXXX"
 }

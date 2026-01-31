@@ -8,7 +8,6 @@
   ],
   "name": "OPFUTRADE AB",
   "legalName": "OPFUTRADE AB",
-  "bic": "OPFUSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.opfutradeab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPFUSES1XXX"
 }

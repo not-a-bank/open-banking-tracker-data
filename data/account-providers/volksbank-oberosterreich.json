@@ -3,7 +3,9 @@
   "type": [
     "account"
   ],
-  "bankType": ["universal"],
+  "bankType": [
+    "universal"
+  ],
   "status": "live",
   "name": "Volksbank Oberosterreich",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/at/volksbank_at.svg",
@@ -30,5 +32,5 @@
   "apiAggregators": [
     "salt-edge"
   ],
-  "swiftCode": "VBWEAT2WXXX"
+  "bic": "VBWEAT2WXXX"
 }

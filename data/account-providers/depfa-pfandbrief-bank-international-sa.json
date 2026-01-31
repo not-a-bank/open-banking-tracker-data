@@ -8,7 +8,6 @@
   ],
   "name": "DEPFA PFANDBRIEF BANK INTERNATIONAL S.A.",
   "legalName": "DEPFA PFANDBRIEF BANK INTERNATIONAL S.A.",
-  "bic": "PBILLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.depfapfandbriefbankinternationalsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBILLULLXXX"
 }

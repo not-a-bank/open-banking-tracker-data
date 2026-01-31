@@ -8,7 +8,6 @@
   ],
   "name": "BPR BANK S.A.",
   "legalName": "BPR BANK S.A.",
-  "bic": "BPRBPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bprbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPRBPAPAXXX"
 }

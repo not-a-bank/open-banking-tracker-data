@@ -8,7 +8,6 @@
   ],
   "name": "GLOBUS BANK",
   "legalName": "GLOBUS BANK",
-  "bic": "GLIBUA22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globusbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GLIBUA22XXX"
 }

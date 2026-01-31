@@ -8,7 +8,6 @@
   ],
   "name": "WORLD PARTNERS BANK",
   "legalName": "WORLD PARTNERS BANK",
-  "bic": "WOPAPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.worldpartnersbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WOPAPHM1XXX"
 }

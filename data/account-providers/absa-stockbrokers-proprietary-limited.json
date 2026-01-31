@@ -8,7 +8,6 @@
   ],
   "name": "ABSA STOCKBROKERS (PROPRIETARY) LIMITED",
   "legalName": "ABSA STOCKBROKERS (PROPRIETARY) LIMITED",
-  "bic": "ABSAZAJ2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.absastockbrokersproprietarylimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABSAZAJ2XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MIND BANK AB",
   "legalName": "MIND BANK AB",
-  "bic": "MNNDSEG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mindbankab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MNNDSEG1XXX"
 }

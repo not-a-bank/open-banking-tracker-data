@@ -8,7 +8,6 @@
   ],
   "name": "EUROCORPORATE SA",
   "legalName": "EUROCORPORATE SA",
-  "bic": "EUOCFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurocorporatesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUOCFRP1XXX"
 }

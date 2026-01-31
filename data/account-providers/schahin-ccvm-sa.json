@@ -8,7 +8,6 @@
   ],
   "name": "SCHAHIN CCVM S/A",
   "legalName": "SCHAHIN CCVM S/A",
-  "bic": "SCHVBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.schahinccvmsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCHVBRS1XXX"
 }

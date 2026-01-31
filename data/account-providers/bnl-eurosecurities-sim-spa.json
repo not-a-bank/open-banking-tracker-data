@@ -8,7 +8,6 @@
   ],
   "name": "BNL EUROSECURITIES SIM S.P.A.",
   "legalName": "BNL EUROSECURITIES SIM S.P.A.",
-  "bic": "BNLEITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnleurosecuritiessimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNLEITM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "THAI BOND MARKET ASSOCIATION",
   "legalName": "THAI BOND MARKET ASSOCIATION",
-  "bic": "TBDCTHB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thaibondmarketassociation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TBDCTHB1XXX"
 }

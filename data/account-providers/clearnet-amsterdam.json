@@ -8,7 +8,6 @@
   ],
   "name": "CLEARNET AMSTERDAM",
   "legalName": "CLEARNET AMSTERDAM",
-  "bic": "CLIQNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.clearnetamsterdam.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLIQNL21XXX"
 }

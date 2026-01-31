@@ -8,7 +8,6 @@
   ],
   "name": "RUSSKY NATZIONALNY BANK",
   "legalName": "RUSSKY NATZIONALNY BANK",
-  "bic": "RUNARU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.russkynatzionalnybank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RUNARU21XXX"
 }

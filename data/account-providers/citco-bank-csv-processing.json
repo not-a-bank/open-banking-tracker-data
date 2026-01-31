@@ -8,7 +8,6 @@
   ],
   "name": "CITCO BANK CSV PROCESSING",
   "legalName": "CITCO BANK CSV PROCESSING",
-  "bic": "CISGCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citcobankcsvprocessing.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CISGCAT1XXX"
 }

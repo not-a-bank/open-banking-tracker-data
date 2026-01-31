@@ -8,7 +8,6 @@
   ],
   "name": "BNY MELLON ASSET SERVICING GMBH",
   "legalName": "BNY MELLON ASSET SERVICING GMBH",
-  "bic": "BAEHDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnymellonassetservicinggmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAEHDEF1XXX"
 }

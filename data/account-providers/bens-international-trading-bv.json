@@ -8,7 +8,6 @@
   ],
   "name": "BENS INTERNATIONAL TRADING B.V.",
   "legalName": "BENS INTERNATIONAL TRADING B.V.",
-  "bic": "BITDNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bensinternationaltradingbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BITDNL21XXX"
 }

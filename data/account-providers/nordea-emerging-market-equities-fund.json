@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA EMERGING MARKET EQUITIES FUND",
   "legalName": "NORDEA EMERGING MARKET EQUITIES FUND",
-  "bic": "NEMEFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaemergingmarketequitiesfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEMEFIH1XXX"
 }

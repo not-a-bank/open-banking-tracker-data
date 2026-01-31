@@ -8,7 +8,6 @@
   ],
   "name": "CRUZEIRO DO SUL CORRETORA DE VALORES",
   "legalName": "CRUZEIRO DO SUL CORRETORA DE VALORES",
-  "bic": "CSCVBRR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cruzeirodosulcorretoradevalores.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSCVBRR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EUDEA SPA",
   "legalName": "EUDEA SPA",
-  "bic": "EUEAITR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eudeaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUEAITR1XXX"
 }

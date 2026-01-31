@@ -8,7 +8,6 @@
   ],
   "name": "RBC INVESTOR SERVICES BANK FRANCE S.A.",
   "legalName": "RBC INVESTOR SERVICES BANK FRANCE S.A.",
-  "bic": "DISFFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rbcinvestorservicesbankfrancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DISFFRPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "STOCKBROKERS MALAWI LIMITED",
   "legalName": "STOCKBROKERS MALAWI LIMITED",
-  "bic": "SBMWMWM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stockbrokersmalawilimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBMWMWM1XXX"
 }

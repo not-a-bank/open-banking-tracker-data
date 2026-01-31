@@ -8,7 +8,6 @@
   ],
   "name": "CTBC BANK CORP. (USA)",
   "legalName": "CTBC BANK CORP. (USA)",
-  "bic": "CTHCUS66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ctbcbankcorpusa.com.ico",
@@ -28,5 +27,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTHCUS66XXX"
 }

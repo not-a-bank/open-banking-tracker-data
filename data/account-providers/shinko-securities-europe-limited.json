@@ -8,7 +8,6 @@
   ],
   "name": "SHINKO SECURITIES (EUROPE) LIMITED",
   "legalName": "SHINKO SECURITIES (EUROPE) LIMITED",
-  "bic": "SNKOGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shinkosecuritieseuropelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SNKOGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ECOBANK BURUNDI",
   "legalName": "ECOBANK BURUNDI",
-  "bic": "ECOCBIBIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ecobankburundi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ECOCBIBIXXX"
 }

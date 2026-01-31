@@ -8,7 +8,6 @@
   ],
   "name": "BANK INSINGER DE BEAUFORT N.V.",
   "legalName": "BANK INSINGER DE BEAUFORT N.V.",
-  "bic": "INSINL2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankinsingerdebeaufortnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INSINL2AXXX"
 }

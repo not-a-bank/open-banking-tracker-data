@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Uelzen L\u00fcchow-Dannenberg",
-  "legalName": "Sparkasse Uelzen L\u00fcchow-Dannenberg",
+  "name": "Sparkasse Uelzen Lüchow-Dannenberg",
+  "legalName": "Sparkasse Uelzen Lüchow-Dannenberg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-uelzen-luechow-dannenberg.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

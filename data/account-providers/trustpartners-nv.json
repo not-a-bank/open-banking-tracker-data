@@ -8,7 +8,6 @@
   ],
   "name": "TRUSTPARTNERS N.V.",
   "legalName": "TRUSTPARTNERS N.V.",
-  "bic": "TRUPNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.trustpartnersnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRUPNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "E TRADE SECURITIES LIMITED",
   "legalName": "E TRADE SECURITIES LIMITED",
-  "bic": "STIRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.etradesecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STIRGB21XXX"
 }

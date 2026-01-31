@@ -8,7 +8,6 @@
   ],
   "name": "AUSWIDE BANK LTD",
   "legalName": "AUSWIDE BANK LTD",
-  "bic": "AUSWAU41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.auswidebankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUSWAU41XXX"
 }

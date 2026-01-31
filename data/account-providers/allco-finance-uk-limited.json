@@ -8,7 +8,6 @@
   ],
   "name": "ALLCO FINANCE (UK) LIMITED",
   "legalName": "ALLCO FINANCE (UK) LIMITED",
-  "bic": "ALFNGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.allcofinanceuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALFNGB21XXX"
 }

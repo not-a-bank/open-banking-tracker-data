@@ -8,7 +8,6 @@
   ],
   "name": "CHONG HING BANK LIMITED",
   "legalName": "CHONG HING BANK LIMITED",
-  "bic": "LCHBUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chonghingbanklimitedus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LCHBUS61XXX"
 }

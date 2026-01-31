@@ -8,7 +8,6 @@
   ],
   "name": "KBC LEASE HOLDING NV",
   "legalName": "KBC LEASE HOLDING NV",
-  "bic": "FDCOBEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kbcleaseholdingnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDCOBEB1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VALIANT BANK, INC. ( A RURAL BANK)",
   "legalName": "VALIANT BANK, INC. ( A RURAL BANK)",
-  "bic": "VARUPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.valiantbankincaruralbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VARUPHM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "THETA CAPITAL MANAGEMENT B.V.",
   "legalName": "THETA CAPITAL MANAGEMENT B.V.",
-  "bic": "THCMNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thetacapitalmanagementbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "THCMNL21XXX"
 }

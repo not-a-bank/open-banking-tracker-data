@@ -8,7 +8,6 @@
   ],
   "name": "MITTEL",
   "legalName": "MITTEL",
-  "bic": "MIETITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mittel.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MIETITM1XXX"
 }

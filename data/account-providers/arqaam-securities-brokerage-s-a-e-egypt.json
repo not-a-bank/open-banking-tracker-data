@@ -8,7 +8,6 @@
   ],
   "name": "Arqaam Securities Brokerage, S.a.e. Egypt",
   "legalName": "ARQAAM SECURITIES BROKERAGE, S.A.E. EGYPT",
-  "bic": "ARQAEGCAXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ARQAEGCAXXX"
 }

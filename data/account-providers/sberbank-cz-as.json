@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK CZ, A.S.",
   "legalName": "SBERBANK CZ, A.S.",
-  "bic": "VBOECZ2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbankczas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VBOECZ2XXXX"
 }

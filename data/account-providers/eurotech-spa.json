@@ -8,7 +8,6 @@
   ],
   "name": "EUROTECH SPA",
   "legalName": "EUROTECH SPA",
-  "bic": "EUTOIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.eurotechspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUTOIT21XXX"
 }

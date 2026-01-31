@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT MERCANTILE S.A.",
   "legalName": "CREDIT MERCANTILE S.A.",
-  "bic": "CRMECHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditmercantilesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CRMECHZ1XXX"
 }

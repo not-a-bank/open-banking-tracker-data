@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK ARGENTINA SA",
   "legalName": "HSBC BANK ARGENTINA SA",
-  "bic": "BACOARB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankargentinasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACOARB1XXX"
 }

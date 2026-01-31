@@ -8,7 +8,6 @@
   ],
   "name": "BANCO INTERNACIONAL DEL PERU (INTERBANK)",
   "legalName": "BANCO INTERNACIONAL DEL PERU (INTERBANK)",
-  "bic": "BINPPEPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancointernacionaldelperuinterbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BINPPEPLXXX"
 }

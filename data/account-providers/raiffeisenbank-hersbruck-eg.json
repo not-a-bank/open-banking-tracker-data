@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK HERSBRUCK EG",
   "legalName": "RAIFFEISENBANK HERSBRUCK EG",
-  "bic": "RAHUDE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankhersbruckeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAHUDE81XXX"
 }

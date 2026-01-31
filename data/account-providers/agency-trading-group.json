@@ -8,7 +8,6 @@
   ],
   "name": "AGENCY TRADING GROUP",
   "legalName": "AGENCY TRADING GROUP",
-  "bic": "ATGPUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agencytradinggroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ATGPUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE FRANCE",
   "legalName": "BANQUE DE FRANCE",
-  "bic": "BDFEFR2TXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedefrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDFEFR2TXXX"
 }

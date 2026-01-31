@@ -8,7 +8,6 @@
   ],
   "name": "TRESOR PUBLIC",
   "legalName": "TRESOR PUBLIC",
-  "bic": "TRPUFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tresorpublic.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRPUFRP1XXX"
 }

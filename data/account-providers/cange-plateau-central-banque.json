@@ -8,7 +8,6 @@
   ],
   "name": "CANGE PLATEAU-CENTRAL BANQUE",
   "legalName": "CANGE PLATEAU-CENTRAL BANQUE",
-  "bic": "CNPTHTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cangeplateaucentralbanque.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNPTHTP1XXX"
 }

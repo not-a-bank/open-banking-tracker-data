@@ -8,7 +8,6 @@
   ],
   "name": "BT SECURITIES S.A.",
   "legalName": "BT SECURITIES S.A.",
-  "bic": "SEEERO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.btsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEEERO21XXX"
 }

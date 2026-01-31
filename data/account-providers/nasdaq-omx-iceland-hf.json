@@ -8,7 +8,6 @@
   ],
   "name": "NASDAQ OMX ICELAND HF",
   "legalName": "NASDAQ OMX ICELAND HF",
-  "bic": "XICEISR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nasdaqomxicelandhf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XICEISR1XXX"
 }

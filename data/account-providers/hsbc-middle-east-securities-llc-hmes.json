@@ -8,7 +8,6 @@
   ],
   "name": "HSBC MIDDLE EAST SECURITIES L.L.C (HMES)",
   "legalName": "HSBC MIDDLE EAST SECURITIES L.L.C (HMES)",
-  "bic": "HMEEAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcmiddleeastsecuritiesllchmes.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HMEEAEA1XXX"
 }

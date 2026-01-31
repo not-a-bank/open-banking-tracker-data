@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE SECURITIES (INDIA) PRIVATE LIMITED",
   "legalName": "CREDIT SUISSE SECURITIES (INDIA) PRIVATE LIMITED",
-  "bic": "CSFBINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissesecuritiesindiaprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSFBINB1XXX"
 }

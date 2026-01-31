@@ -8,7 +8,6 @@
   ],
   "name": "BLOM BANK EGYPT S.A.E.",
   "legalName": "BLOM BANK EGYPT S.A.E.",
-  "bic": "MRBAEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.blombankegyptsae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MRBAEGCXXXX"
 }

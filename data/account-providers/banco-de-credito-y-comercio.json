@@ -8,7 +8,6 @@
   ],
   "name": "BANCO DE CREDITO Y COMERCIO",
   "legalName": "BANCO DE CREDITO Y COMERCIO",
-  "bic": "BDCRCUHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodecreditoycomercio.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BDCRCUHHXXX"
 }

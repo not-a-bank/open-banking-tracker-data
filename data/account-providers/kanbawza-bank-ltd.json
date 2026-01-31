@@ -8,7 +8,6 @@
   ],
   "name": "KANBAWZA BANK LTD",
   "legalName": "KANBAWZA BANK LTD",
-  "bic": "KBZBMMMYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kanbawzabankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBZBMMMYXXX"
 }

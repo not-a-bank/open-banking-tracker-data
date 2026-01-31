@@ -8,7 +8,6 @@
   ],
   "name": "AEGON FINANCIELE DIENSTEN B.V.",
   "legalName": "AEGON FINANCIELE DIENSTEN B.V.",
-  "bic": "AEFDNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aegonfinancieledienstenbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AEFDNL21XXX"
 }

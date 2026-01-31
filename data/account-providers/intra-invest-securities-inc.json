@@ -8,7 +8,6 @@
   ],
   "name": "INTRA-INVEST SECURITIES INC",
   "legalName": "INTRA-INVEST SECURITIES INC",
-  "bic": "INIEPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.intrainvestsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INIEPHM1XXX"
 }

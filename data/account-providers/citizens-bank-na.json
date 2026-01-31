@@ -8,7 +8,6 @@
   ],
   "name": "CITIZENS BANK, NA",
   "legalName": "CITIZENS BANK, NA",
-  "bic": "CTZIUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citizensbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CTZIUS33XXX"
 }

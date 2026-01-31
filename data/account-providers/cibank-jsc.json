@@ -8,7 +8,6 @@
   ],
   "name": "CIBANK JSC",
   "legalName": "CIBANK JSC",
-  "bic": "BUIBBGSFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cibankjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BUIBBGSFXXX"
 }

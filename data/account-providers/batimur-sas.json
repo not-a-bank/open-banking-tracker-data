@@ -8,7 +8,6 @@
   ],
   "name": "BATIMUR SAS",
   "legalName": "BATIMUR SAS",
-  "bic": "BAUIFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.batimursas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAUIFRP1XXX"
 }

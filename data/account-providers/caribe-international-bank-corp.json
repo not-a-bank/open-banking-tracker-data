@@ -8,7 +8,6 @@
   ],
   "name": "CARIBE INTERNATIONAL BANK, CORP.",
   "legalName": "CARIBE INTERNATIONAL BANK, CORP.",
-  "bic": "CBNTPRSJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caribeinternationalbankcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CBNTPRSJXXX"
 }

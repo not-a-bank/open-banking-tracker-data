@@ -8,7 +8,6 @@
   ],
   "name": "FINANZMINISTERIUM DES LANDES SCHLESWIG-HOLSTEIN",
   "legalName": "FINANZMINISTERIUM DES LANDES SCHLESWIG-HOLSTEIN",
-  "bic": "FILWDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.finanzministeriumdeslandesschleswigholstein.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FILWDE21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SHANGHAI STOCK EXCHANGE",
   "legalName": "SHANGHAI STOCK EXCHANGE",
-  "bic": "XSHGCNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.shanghaistockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSHGCNS1XXX"
 }

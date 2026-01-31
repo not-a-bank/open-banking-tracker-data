@@ -8,7 +8,6 @@
   ],
   "name": "GRIES FINANCIAL CORP.",
   "legalName": "GRIES FINANCIAL CORP.",
-  "bic": "GRFIUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.griesfinancialcorp.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GRFIUS31XXX"
 }

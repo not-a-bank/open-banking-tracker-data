@@ -8,7 +8,6 @@
   ],
   "name": "VISOR CAPITAL (UK) LTD",
   "legalName": "VISOR CAPITAL (UK) LTD",
-  "bic": "VICLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.visorcapitalukltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VICLGB21XXX"
 }

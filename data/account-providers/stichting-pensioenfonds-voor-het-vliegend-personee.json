@@ -8,7 +8,6 @@
   ],
   "name": "STICHTING PENSIOENFONDS VOOR HET VLIEGEND PERSONEEL KLM",
   "legalName": "STICHTING PENSIOENFONDS VOOR HET VLIEGEND PERSONEEL KLM",
-  "bic": "SPHHNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.stichtingpensioenfondsvoorhetvliegendpersonee.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPHHNL21XXX"
 }

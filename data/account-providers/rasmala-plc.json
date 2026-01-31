@@ -8,7 +8,6 @@
   ],
   "name": "RASMALA PLC",
   "legalName": "RASMALA PLC",
-  "bic": "EIIBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rasmalaplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EIIBGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "VAKUFSKA BANKA DD SARAJEVO",
   "legalName": "VAKUFSKA BANKA DD SARAJEVO",
-  "bic": "VAKUBA22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vakufskabankaddsarajevo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VAKUBA22XXX"
 }

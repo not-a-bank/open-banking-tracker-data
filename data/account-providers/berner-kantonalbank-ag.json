@@ -8,7 +8,6 @@
   ],
   "name": "BERNER KANTONALBANK AG",
   "legalName": "BERNER KANTONALBANK AG",
-  "bic": "KBBECH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bernerkantonalbankag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KBBECH22XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BLUE OCEAN EQUITIES",
   "legalName": "BLUE OCEAN EQUITIES",
-  "bic": "BLOEAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.blueoceanequities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLOEAU21XXX"
 }

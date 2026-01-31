@@ -30,8 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge",
     "volt"
   ],
-  "swiftCode": "ICRAITRRC20"
+  "bic": "ICRAITRRC20"
 }

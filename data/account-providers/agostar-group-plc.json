@@ -8,7 +8,6 @@
   ],
   "name": "AGOSTAR GROUP PLC",
   "legalName": "AGOSTAR GROUP PLC",
-  "bic": "AGGRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.agostargroupplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGGRGB21XXX"
 }

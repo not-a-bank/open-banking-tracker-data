@@ -8,7 +8,6 @@
   ],
   "name": "NEWBURY BUILDING SOCIETY",
   "legalName": "NEWBURY BUILDING SOCIETY",
-  "bic": "NBUSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newburybuildingsociety.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBUSGB21XXX"
 }

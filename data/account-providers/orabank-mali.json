@@ -8,7 +8,6 @@
   ],
   "name": "ORABANK MALI",
   "legalName": "ORABANK MALI",
-  "bic": "ORBKMLBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.orabankmali.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ORBKMLBAXXX"
 }

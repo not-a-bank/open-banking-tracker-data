@@ -8,7 +8,6 @@
   ],
   "name": "FONDSDEPOT BANK GMBH, HOF (SAALE)",
   "legalName": "FONDSDEPOT BANK GMBH, HOF (SAALE)",
-  "bic": "FODBDE77XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fondsdepotbankgmbhhofsaale.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FODBDE77XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF GREECE",
   "legalName": "BANK OF GREECE",
-  "bic": "BNGRGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofgreecegr.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNGRGRA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS INTERNATIONAL BANK, SEOUL BRANCH",
   "legalName": "GOLDMAN SACHS INTERNATIONAL BANK, SEOUL BRANCH",
-  "bic": "GSIBKRSEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsinternationalbankseoulbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSIBKRSEXXX"
 }

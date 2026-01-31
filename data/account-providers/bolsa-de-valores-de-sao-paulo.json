@@ -8,7 +8,6 @@
   ],
   "name": "BOLSA DE VALORES DE SAO PAULO",
   "legalName": "BOLSA DE VALORES DE SAO PAULO",
-  "bic": "XBSPBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bolsadevaloresdesaopaulo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XBSPBRS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY BANK INTERNATIONAL LIMITED",
   "legalName": "MORGAN STANLEY BANK INTERNATIONAL LIMITED",
-  "bic": "MSDWGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleybankinternationallimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSDWGB2LXXX"
 }

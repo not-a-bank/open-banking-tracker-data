@@ -8,7 +8,6 @@
   ],
   "name": "AIRBUS BANK GMBH",
   "legalName": "AIRBUS BANK GMBH",
-  "bic": "AGBMDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.airbusbankgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGBMDE21XXX"
 }

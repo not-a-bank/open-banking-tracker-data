@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BONSUCESSO SA",
   "legalName": "BANCO BONSUCESSO SA",
-  "bic": "BBONBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobonsucessosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBONBRSPXXX"
 }

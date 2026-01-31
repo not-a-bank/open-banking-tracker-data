@@ -8,7 +8,6 @@
   ],
   "name": "TENNESSEE CONSOLIDATED RETIREMENT SYSTEM",
   "legalName": "TENNESSEE CONSOLIDATED RETIREMENT SYSTEM",
-  "bic": "TCRSUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tennesseeconsolidatedretirementsystem.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TCRSUS41XXX"
 }

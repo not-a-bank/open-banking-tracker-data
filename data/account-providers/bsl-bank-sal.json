@@ -8,7 +8,6 @@
   ],
   "name": "BSL BANK S.A.L.",
   "legalName": "BSL BANK S.A.L.",
-  "bic": "SONBLBBEXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bslbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SONBLBBEXXX"
 }

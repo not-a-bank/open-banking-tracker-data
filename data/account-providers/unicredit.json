@@ -34,6 +34,7 @@
   "apiAggregators": [
     "bankingsdk",
     "equensworldline",
+    "gocardless",
     "ibanity",
     "klarna",
     "plaid",
@@ -65,5 +66,6 @@
   "crunchbase": "unicredit",
   "github": "unicredit",
   "fca": "001b000000MfJO8AAN",
-  "articles": []
+  "articles": [],
+  "bic": "BACXROBU"
 }

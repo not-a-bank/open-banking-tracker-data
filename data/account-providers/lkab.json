@@ -8,7 +8,6 @@
   ],
   "name": "LKAB",
   "legalName": "LKAB",
-  "bic": "LKABSE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lkab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LKABSE21XXX"
 }

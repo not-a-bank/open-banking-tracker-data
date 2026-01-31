@@ -8,7 +8,6 @@
   ],
   "name": "ODESSA-BANK JSCB",
   "legalName": "ODESSA-BANK JSCB",
-  "bic": "ODBKUA21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.odessabankjscb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ODBKUA21XXX"
 }

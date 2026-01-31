@@ -8,7 +8,6 @@
   ],
   "name": "SYSTEMA ASSET MANAGEMENT SGR S.P.A.",
   "legalName": "SYSTEMA ASSET MANAGEMENT SGR S.P.A.",
-  "bic": "SSMSITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.systemaassetmanagementsgrspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSMSITM1XXX"
 }

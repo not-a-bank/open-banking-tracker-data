@@ -8,7 +8,6 @@
   ],
   "name": "FGH BANK N.V.",
   "legalName": "FGH BANK N.V.",
-  "bic": "FRGHNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fghbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRGHNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CARIGE ASSET MANAGEMENT SGR S.P.A.",
   "legalName": "CARIGE ASSET MANAGEMENT SGR S.P.A.",
-  "bic": "CAGGITG1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.carigeassetmanagementsgrspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAGGITG1XXX"
 }

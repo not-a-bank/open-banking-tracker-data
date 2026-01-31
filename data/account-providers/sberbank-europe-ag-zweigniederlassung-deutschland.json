@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK EUROPE AG ZWEIGNIEDERLASSUNG DEUTSCHLAND",
   "legalName": "SBERBANK EUROPE AG ZWEIGNIEDERLASSUNG DEUTSCHLAND",
-  "bic": "SEZDDEF1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbankeuropeagzweigniederlassungdeutschland.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SEZDDEF1XXX"
 }

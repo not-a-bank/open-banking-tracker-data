@@ -8,7 +8,6 @@
   ],
   "name": "CB GEOBANK LTD",
   "legalName": "CB GEOBANK LTD",
-  "bic": "COGKRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbgeobankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COGKRUM1XXX"
 }

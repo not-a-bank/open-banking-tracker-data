@@ -8,7 +8,6 @@
   ],
   "name": "SONEPAR SA",
   "legalName": "SONEPAR SA",
-  "bic": "SONRFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.soneparsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SONRFRPPXXX"
 }

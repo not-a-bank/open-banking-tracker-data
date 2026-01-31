@@ -8,7 +8,6 @@
   ],
   "name": "HIPOTEKARNA BANKA AD",
   "legalName": "HIPOTEKARNA BANKA AD",
-  "bic": "HBBAMEPGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hipotekarnabankaad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBBAMEPGXXX"
 }

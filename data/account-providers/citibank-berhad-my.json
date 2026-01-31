@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK BERHAD",
   "legalName": "CITIBANK BERHAD",
-  "bic": "CITIMYM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankberhadmy.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITIMYM1XXX"
 }

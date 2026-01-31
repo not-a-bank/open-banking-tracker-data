@@ -8,7 +8,6 @@
   ],
   "name": "MGET PATRIMOINE",
   "legalName": "MGET PATRIMOINE",
-  "bic": "MGPAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mgetpatrimoine.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MGPAFRP1XXX"
 }

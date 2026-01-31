@@ -8,7 +8,6 @@
   ],
   "name": "OSAKA MERCANTILE EXCHANGE",
   "legalName": "OSAKA MERCANTILE EXCHANGE",
-  "bic": "XOSMJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.osakamercantileexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XOSMJPJ1XXX"
 }

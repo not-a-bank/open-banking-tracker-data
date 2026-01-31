@@ -8,7 +8,6 @@
   ],
   "name": "SUNFLOWER BANK N.A.",
   "legalName": "SUNFLOWER BANK N.A.",
-  "bic": "NBFTUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sunflowerbankna.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBFTUS31XXX"
 }

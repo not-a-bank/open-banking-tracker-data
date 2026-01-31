@@ -8,7 +8,6 @@
   ],
   "name": "THESIS ASSET MANAGEMENT PLC",
   "legalName": "THESIS ASSET MANAGEMENT PLC",
-  "bic": "THAMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thesisassetmanagementplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "THAMGB21XXX"
 }

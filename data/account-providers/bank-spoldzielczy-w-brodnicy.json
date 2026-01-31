@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W BRODNICY",
   "legalName": "BANK SPOLDZIELCZY W BRODNICY",
-  "bic": "SPBOPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywbrodnicy.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPBOPLP1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MOODY'S INVESTORS SERVICE EMEA LTD",
   "legalName": "MOODY'S INVESTORS SERVICE EMEA LTD",
-  "bic": "MOODGB31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.moodysinvestorsserviceemealtd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOODGB31XXX"
 }

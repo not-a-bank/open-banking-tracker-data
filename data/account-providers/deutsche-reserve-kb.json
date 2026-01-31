@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE RESERVE KB",
   "legalName": "DEUTSCHE RESERVE KB",
-  "bic": "DEURSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschereservekb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEURSES1XXX"
 }

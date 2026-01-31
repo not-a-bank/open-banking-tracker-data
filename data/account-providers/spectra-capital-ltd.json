@@ -8,7 +8,6 @@
   ],
   "name": "SPECTRA CAPITAL LTD",
   "legalName": "SPECTRA CAPITAL LTD",
-  "bic": "SPCIGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spectracapitalltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPCIGB21XXX"
 }

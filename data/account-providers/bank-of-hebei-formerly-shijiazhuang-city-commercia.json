@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
   "legalName": "BANK OF HEBEI (FORMERLY SHIJIAZHUANG CITY COMMERCIAL BANK)",
-  "bic": "BKSHCNBJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofhebeiformerlyshijiazhuangcitycommercia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKSHCNBJXXX"
 }

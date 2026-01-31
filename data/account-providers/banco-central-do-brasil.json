@@ -8,7 +8,6 @@
   ],
   "name": "Banco Central DO Brasil",
   "legalName": "BANCO CENTRAL DO BRASIL",
-  "bic": "BCBRBRDFINT",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocentraldobrasil.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCBRBRDFINT"
 }

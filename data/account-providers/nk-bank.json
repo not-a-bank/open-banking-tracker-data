@@ -8,7 +8,6 @@
   ],
   "name": "NK BANK",
   "legalName": "NK BANK",
-  "bic": "NASPRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nkbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NASPRUMMXXX"
 }

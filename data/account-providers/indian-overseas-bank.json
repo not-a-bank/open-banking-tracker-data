@@ -8,7 +8,6 @@
   ],
   "name": "INDIAN OVERSEAS BANK",
   "legalName": "INDIAN OVERSEAS BANK",
-  "bic": "IOBAINBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indianoverseasbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IOBAINBBXXX"
 }

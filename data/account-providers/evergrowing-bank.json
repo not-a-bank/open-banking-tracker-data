@@ -8,7 +8,6 @@
   ],
   "name": "EVERGROWING BANK",
   "legalName": "EVERGROWING BANK",
-  "bic": "HFBACNSDXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.evergrowingbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HFBACNSDXXX"
 }

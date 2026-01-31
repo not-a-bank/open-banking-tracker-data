@@ -8,7 +8,6 @@
   ],
   "name": "ROYAL BANK OF SCOTLAND NV (GLOBAL BANKING AND MARKETS OPERATIONS)",
   "legalName": "ROYAL BANK OF SCOTLAND NV (GLOBAL BANKING AND MARKETS OPERATIONS)",
-  "bic": "RBOSGB22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.royalbankofscotlandnvglobalbankingandmarke.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RBOSGB22XXX"
 }

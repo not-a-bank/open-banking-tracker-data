@@ -8,7 +8,6 @@
   ],
   "name": "FIMA SECURITIES LTD",
   "legalName": "FIMA SECURITIES LTD",
-  "bic": "FMVZHR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fimasecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMVZHR21XXX"
 }

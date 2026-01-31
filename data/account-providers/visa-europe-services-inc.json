@@ -8,7 +8,6 @@
   ],
   "name": "VISA EUROPE SERVICES INC.",
   "legalName": "VISA EUROPE SERVICES INC.",
-  "bic": "VISNGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.visaeuropeservicesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VISNGB2LXXX"
 }

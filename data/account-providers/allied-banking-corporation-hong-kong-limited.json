@@ -8,7 +8,6 @@
   ],
   "name": "Allied Banking Corporation (hong Kong) Limited",
   "legalName": "ALLIED BANKING CORPORATION (HONG KONG) LIMITED",
-  "bic": "ABCHHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABCHHKHHXXX"
 }

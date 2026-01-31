@@ -8,7 +8,6 @@
   ],
   "name": "LLOYDS TSB BANK PLC",
   "legalName": "LLOYDS TSB BANK PLC",
-  "bic": "LOYDECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lloydstsbbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOYDECE1XXX"
 }

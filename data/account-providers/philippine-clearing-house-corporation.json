@@ -8,7 +8,6 @@
   ],
   "name": "PHILIPPINE CLEARING HOUSE CORPORATION",
   "legalName": "PHILIPPINE CLEARING HOUSE CORPORATION",
-  "bic": "PCHCPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philippineclearinghousecorporation.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PCHCPHM1XXX"
 }

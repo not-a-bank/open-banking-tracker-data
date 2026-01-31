@@ -8,7 +8,6 @@
   ],
   "name": "ABERDEEN ASSET MANAGEMENT",
   "legalName": "ABERDEEN ASSET MANAGEMENT",
-  "bic": "ABTMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.aberdeenassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABTMFRP1XXX"
 }

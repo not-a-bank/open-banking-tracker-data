@@ -8,7 +8,6 @@
   ],
   "name": "ANTHIUM FINANCE",
   "legalName": "ANTHIUM FINANCE",
-  "bic": "ANTHFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anthiumfinance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANTHFRP1XXX"
 }

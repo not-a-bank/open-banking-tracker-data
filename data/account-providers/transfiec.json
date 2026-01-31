@@ -8,7 +8,6 @@
   ],
   "name": "TRANSFIEC",
   "legalName": "TRANSFIEC",
-  "bic": "TRAFECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.transfiec.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRAFECE1XXX"
 }

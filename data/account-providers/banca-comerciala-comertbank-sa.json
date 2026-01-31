@@ -8,7 +8,6 @@
   ],
   "name": "BANCA COMERCIALA 'COMERTBANK' S.A.",
   "legalName": "BANCA COMERCIALA 'COMERTBANK' S.A.",
-  "bic": "CMTBMD2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancacomercialacomertbanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CMTBMD2XXXX"
 }

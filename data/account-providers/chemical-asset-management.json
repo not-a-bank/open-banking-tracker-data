@@ -8,7 +8,6 @@
   ],
   "name": "CHEMICAL ASSET MANAGEMENT",
   "legalName": "CHEMICAL ASSET MANAGEMENT",
-  "bic": "CHAGESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chemicalassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHAGESM1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "PRIVANET SECURITIES LTD",
   "legalName": "PRIVANET SECURITIES LTD",
-  "bic": "PSEUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.privanetsecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PSEUFI21XXX"
 }

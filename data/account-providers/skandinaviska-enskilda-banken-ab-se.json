@@ -8,7 +8,6 @@
   ],
   "name": "SKANDINAVISKA ENSKILDA BANKEN AB",
   "legalName": "SKANDINAVISKA ENSKILDA BANKEN AB",
-  "bic": "ESSESESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.skandinaviskaenskildabankenabse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESSESESSXXX"
 }

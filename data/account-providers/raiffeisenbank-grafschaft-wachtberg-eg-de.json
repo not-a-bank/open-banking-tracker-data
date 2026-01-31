@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK GRAFSCHAFT-WACHTBERG EG",
   "legalName": "RAIFFEISENBANK GRAFSCHAFT-WACHTBERG EG",
-  "bic": "RAGADE31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankgrafschaftwachtbergegde.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAGADE31XXX"
 }

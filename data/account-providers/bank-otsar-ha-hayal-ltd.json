@@ -8,7 +8,6 @@
   ],
   "name": "BANK OTSAR HA-HAYAL LTD.",
   "legalName": "BANK OTSAR HA-HAYAL LTD.",
-  "bic": "OTSHILITXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankotsarhahayalltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OTSHILITXXX"
 }

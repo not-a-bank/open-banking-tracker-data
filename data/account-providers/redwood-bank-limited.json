@@ -8,7 +8,6 @@
   ],
   "name": "REDWOOD BANK LIMITED",
   "legalName": "REDWOOD BANK LIMITED",
-  "bic": "REDWGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.redwoodbanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "REDWGB21XXX"
 }

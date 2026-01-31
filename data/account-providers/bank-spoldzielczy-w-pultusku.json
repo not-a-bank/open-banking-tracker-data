@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W PULTUSKU",
   "legalName": "BANK SPOLDZIELCZY W PULTUSKU",
-  "bic": "SPPUPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywpultusku.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPPUPLP1XXX"
 }

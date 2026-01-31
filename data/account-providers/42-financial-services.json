@@ -8,7 +8,6 @@
   ],
   "name": "42 FINANCIAL SERVICES",
   "legalName": "42 FINANCIAL SERVICES",
-  "bic": "FNSECZP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.42financialservices.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FNSECZP1XXX"
 }

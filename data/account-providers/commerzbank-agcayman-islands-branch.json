@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZBANK AG,CAYMAN ISLANDS BRANCH",
   "legalName": "COMMERZBANK AG,CAYMAN ISLANDS BRANCH",
-  "bic": "COBAKYKXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzbankagcaymanislandsbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBAKYKXXXX"
 }

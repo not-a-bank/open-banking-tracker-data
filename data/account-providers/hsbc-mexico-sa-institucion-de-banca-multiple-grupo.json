@@ -8,7 +8,6 @@
   ],
   "name": "HSBC MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO HSBC",
   "legalName": "HSBC MEXICO, S.A., INSTITUCION DE BANCA MULTIPLE, GRUPO FINANCIERO HSBC",
-  "bic": "BIMEMXMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcmexicosainstituciondebancamultiplegrupo.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIMEMXMMXXX"
 }

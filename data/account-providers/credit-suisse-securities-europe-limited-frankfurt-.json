@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE SECURITIES (EUROPE) LIMITED, FRANKFURT BRANCH",
   "legalName": "CREDIT SUISSE SECURITIES (EUROPE) LIMITED, FRANKFURT BRANCH",
-  "bic": "CSFBDEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissesecuritieseuropelimitedfrankfurt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSFBDEFFXXX"
 }

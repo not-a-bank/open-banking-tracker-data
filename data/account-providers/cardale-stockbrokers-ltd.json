@@ -8,7 +8,6 @@
   ],
   "name": "CARDALE STOCKBROKERS LTD",
   "legalName": "CARDALE STOCKBROKERS LTD",
-  "bic": "CATKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cardalestockbrokersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CATKGB21XXX"
 }

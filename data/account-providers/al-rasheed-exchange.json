@@ -8,7 +8,6 @@
   ],
   "name": "AL RASHEED EXCHANGE",
   "legalName": "AL RASHEED EXCHANGE",
-  "bic": "RDEXAEA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alrasheedexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RDEXAEA1XXX"
 }

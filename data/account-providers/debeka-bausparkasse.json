@@ -8,7 +8,6 @@
   ],
   "name": "DEBEKA BAUSPARKASSE",
   "legalName": "DEBEKA BAUSPARKASSE",
-  "bic": "DEBPDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.debekabausparkasse.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEBPDE51XXX"
 }

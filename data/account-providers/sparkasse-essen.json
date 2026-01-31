@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE ESSEN",
   "legalName": "SPARKASSE ESSEN",
-  "bic": "SPESDE3EXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasseessen.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPESDE3EXXX"
 }

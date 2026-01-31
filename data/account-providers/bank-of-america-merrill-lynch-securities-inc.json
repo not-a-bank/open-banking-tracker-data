@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AMERICA MERRILL LYNCH SECURITIES, INC",
   "legalName": "BANK OF AMERICA MERRILL LYNCH SECURITIES, INC",
-  "bic": "MLSCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofamericamerrilllynchsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MLSCUS31XXX"
 }

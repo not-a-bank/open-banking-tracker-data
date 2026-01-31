@@ -8,7 +8,6 @@
   ],
   "name": "UNITED BANK OF TRINIDAD AND TOBAGO",
   "legalName": "UNITED BANK OF TRINIDAD AND TOBAGO",
-  "bic": "UBTTTTP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedbankoftrinidadandtobago.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBTTTTP1XXX"
 }

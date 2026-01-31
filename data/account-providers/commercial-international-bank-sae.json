@@ -8,7 +8,6 @@
   ],
   "name": "Commercial International Bank, SAE",
   "legalName": "COMMERCIAL INTERNATIONAL BANK, SAE",
-  "bic": "CIBEEGCX229",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CIBEEGCX229"
 }

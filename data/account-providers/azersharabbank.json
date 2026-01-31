@@ -8,7 +8,6 @@
   ],
   "name": "AZERSHARABBANK",
   "legalName": "AZERSHARABBANK",
-  "bic": "AZRSAZ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.azersharabbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZRSAZ21XXX"
 }

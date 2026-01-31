@@ -8,7 +8,6 @@
   ],
   "name": "MCSD MISR FOR CLEARING,DEPOSITORY AND REGISTRY",
   "legalName": "MCSD MISR FOR CLEARING,DEPOSITORY AND REGISTRY",
-  "bic": "MCSDEGCAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mcsdmisrforclearingdepositoryandregistry.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MCSDEGCAXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA STRATEGA FIXED INCOME",
   "legalName": "NORDEA STRATEGA FIXED INCOME",
-  "bic": "NSFIFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeastrategafixedincome.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NSFIFIH1XXX"
 }

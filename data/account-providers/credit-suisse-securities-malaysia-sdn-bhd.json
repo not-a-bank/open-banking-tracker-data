@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT SUISSE SECURITIES (MALAYSIA) SDN. BHD.",
   "legalName": "CREDIT SUISSE SECURITIES (MALAYSIA) SDN. BHD.",
-  "bic": "CSFBMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditsuissesecuritiesmalaysiasdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSFBMYK1XXX"
 }

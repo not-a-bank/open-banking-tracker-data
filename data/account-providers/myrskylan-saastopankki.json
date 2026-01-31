@@ -8,7 +8,6 @@
   ],
   "name": "MYRSKYLAN SAASTOPANKKI",
   "legalName": "MYRSKYLAN SAASTOPANKKI",
-  "bic": "MYSAFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.myrskylansaastopankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MYSAFI21XXX"
 }

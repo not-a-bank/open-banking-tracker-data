@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSWAGEN FINANCE SA",
   "legalName": "VOLKSWAGEN FINANCE SA",
-  "bic": "VOFIFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volkswagenfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOFIFR21XXX"
 }

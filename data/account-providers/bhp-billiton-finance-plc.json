@@ -8,7 +8,6 @@
   ],
   "name": "BHP BILLITON FINANCE PLC",
   "legalName": "BHP BILLITON FINANCE PLC",
-  "bic": "BHPBGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bhpbillitonfinanceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BHPBGB2LXXX"
 }

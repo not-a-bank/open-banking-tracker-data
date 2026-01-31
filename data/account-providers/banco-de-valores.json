@@ -8,7 +8,6 @@
   ],
   "name": "Banco DE Valores",
   "legalName": "BANCO DE VALORES",
-  "bic": "BAVAARBAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodevalores.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAVAARBAXXX"
 }

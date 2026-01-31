@@ -8,7 +8,6 @@
   ],
   "name": "CIBC BANK USA",
   "legalName": "CIBC BANK USA",
-  "bic": "PVTBUS44XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cibcbankusa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PVTBUS44XXX"
 }

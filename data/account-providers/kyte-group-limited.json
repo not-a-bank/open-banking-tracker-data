@@ -8,7 +8,6 @@
   ],
   "name": "KYTE GROUP LIMITED",
   "legalName": "KYTE GROUP LIMITED",
-  "bic": "KYTGGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kytegrouplimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KYTGGB21XXX"
 }

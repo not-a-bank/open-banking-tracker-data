@@ -8,7 +8,6 @@
   ],
   "name": "CEF ANDROMEDA SECURITIES, PT",
   "legalName": "CEF ANDROMEDA SECURITIES, PT",
-  "bic": "CEASIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cefandromedasecuritiespt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEASIDJ1XXX"
 }

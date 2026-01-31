@@ -8,7 +8,6 @@
   ],
   "name": "NEW JAPAN SECURITIES",
   "legalName": "NEW JAPAN SECURITIES",
-  "bic": "NJSCHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.newjapansecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NJSCHKH1XXX"
 }

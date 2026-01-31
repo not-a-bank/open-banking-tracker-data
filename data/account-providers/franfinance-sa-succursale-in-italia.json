@@ -8,7 +8,6 @@
   ],
   "name": "FRANFINANCE S.A. SUCCURSALE IN ITALIA",
   "legalName": "FRANFINANCE S.A. SUCCURSALE IN ITALIA",
-  "bic": "FRANITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.franfinancesasuccursaleinitalia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRANITM1XXX"
 }

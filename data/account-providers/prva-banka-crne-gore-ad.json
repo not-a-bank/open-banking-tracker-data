@@ -8,7 +8,6 @@
   ],
   "name": "PRVA BANKA CRNE GORE AD",
   "legalName": "PRVA BANKA CRNE GORE AD",
-  "bic": "PRVAMEPGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.prvabankacrnegoread.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRVAMEPGXXX"
 }

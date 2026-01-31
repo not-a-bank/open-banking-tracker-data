@@ -8,7 +8,6 @@
   ],
   "name": "SAMARA CURRENCY INTERBANK EXCHANGE OAO",
   "legalName": "SAMARA CURRENCY INTERBANK EXCHANGE OAO",
-  "bic": "XSAMRU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.samaracurrencyinterbankexchangeoao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XSAMRU31XXX"
 }

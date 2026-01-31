@@ -8,7 +8,6 @@
   ],
   "name": "FIDUCIARY ASSET MANAGEMENT CO.",
   "legalName": "FIDUCIARY ASSET MANAGEMENT CO.",
-  "bic": "FIEAUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fiduciaryassetmanagementco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIEAUS41XXX"
 }

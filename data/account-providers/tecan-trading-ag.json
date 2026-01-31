@@ -8,7 +8,6 @@
   ],
   "name": "TECAN TRADING AG",
   "legalName": "TECAN TRADING AG",
-  "bic": "TEANCH2MXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tecantradingag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TEANCH2MXXX"
 }

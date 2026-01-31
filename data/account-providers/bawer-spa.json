@@ -8,7 +8,6 @@
   ],
   "name": "BAWER S.P.A.",
   "legalName": "BAWER S.P.A.",
-  "bic": "BAWEIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bawerspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BAWEIT31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CHARTERHOUSE SECURITIES LIMITED",
   "legalName": "CHARTERHOUSE SECURITIES LIMITED",
-  "bic": "CHRTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.charterhousesecuritieslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHRTGB21XXX"
 }

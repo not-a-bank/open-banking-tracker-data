@@ -8,7 +8,6 @@
   ],
   "name": "CAPITAL SECURITY BANK LIMITED",
   "legalName": "CAPITAL SECURITY BANK LIMITED",
-  "bic": "CPSBCKCAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.capitalsecuritybanklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPSBCKCAXXX"
 }

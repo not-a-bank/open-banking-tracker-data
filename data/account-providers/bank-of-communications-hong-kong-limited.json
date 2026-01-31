@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF Communications (hong Kong)limited",
   "legalName": "BANK OF COMMUNICATIONS (HONG KONG)LIMITED",
-  "bic": "COMMHKHKMTG",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COMMHKHKMTG"
 }

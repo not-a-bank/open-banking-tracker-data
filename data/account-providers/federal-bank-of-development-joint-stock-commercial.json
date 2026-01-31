@@ -8,7 +8,6 @@
   ],
   "name": "FEDERAL BANK OF DEVELOPMENT JOINT-STOCK COMMERCIAL BANK",
   "legalName": "FEDERAL BANK OF DEVELOPMENT JOINT-STOCK COMMERCIAL BANK",
-  "bic": "FDJSRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.federalbankofdevelopmentjointstockcommercial.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FDJSRUM1XXX"
 }

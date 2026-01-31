@@ -8,7 +8,6 @@
   ],
   "name": "SGB FINANCE SA",
   "legalName": "SGB FINANCE SA",
-  "bic": "SGFIFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sgbfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SGFIFR21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DEUTSCHE BANK AG ZURICH BRANCH",
   "legalName": "DEUTSCHE BANK AG ZURICH BRANCH",
-  "bic": "DEUTCHZZXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.deutschebankagzurichbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEUTCHZZXXX"
 }

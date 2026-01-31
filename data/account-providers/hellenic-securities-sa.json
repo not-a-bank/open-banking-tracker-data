@@ -8,7 +8,6 @@
   ],
   "name": "HELLENIC SECURITIES S.A.",
   "legalName": "HELLENIC SECURITIES S.A.",
-  "bic": "HLSEGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hellenicsecuritiessa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HLSEGRA1XXX"
 }

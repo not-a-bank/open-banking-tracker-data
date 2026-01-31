@@ -8,7 +8,6 @@
   ],
   "name": "MEDIOVENEZIE BANCA S.P.A.",
   "legalName": "MEDIOVENEZIE BANCA S.P.A.",
-  "bic": "MEDVIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.medioveneziebancaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEDVIT21XXX"
 }

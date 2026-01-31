@@ -8,7 +8,6 @@
   ],
   "name": "B3 S.A - Brasil, Bolsa, Balcao",
   "legalName": "B3 S.A - BRASIL, BOLSA, BALCAO",
-  "bic": "XBMFBRSPXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XBMFBRSPXXX"
 }

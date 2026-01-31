@@ -8,7 +8,6 @@
   ],
   "name": "HSBC FUTURES HONG KONG LIMITED",
   "legalName": "HSBC FUTURES HONG KONG LIMITED",
-  "bic": "HFHKHKH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcfutureshongkonglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HFHKHKH1XXX"
 }

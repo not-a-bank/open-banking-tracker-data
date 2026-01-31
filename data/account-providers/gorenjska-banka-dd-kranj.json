@@ -8,7 +8,6 @@
   ],
   "name": "GORENJSKA BANKA D.D., KRANJ",
   "legalName": "GORENJSKA BANKA D.D., KRANJ",
-  "bic": "GORESI2XXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gorenjskabankaddkranj.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GORESI2XXXX"
 }

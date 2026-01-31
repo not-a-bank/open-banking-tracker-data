@@ -8,7 +8,6 @@
   ],
   "name": "INTERACTIVE BROKERS AUSTRALIA PTY LTD",
   "legalName": "INTERACTIVE BROKERS AUSTRALIA PTY LTD",
-  "bic": "IBKRAU2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.interactivebrokersaustraliaptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBKRAU2SXXX"
 }

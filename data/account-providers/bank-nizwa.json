@@ -9,7 +9,6 @@
   ],
   "name": "BANK NIZWA",
   "legalName": "BANK NIZWA",
-  "bic": "BNZWOMRXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1609706406/radar/icons/banknizwa-om.jpg",
@@ -36,5 +35,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNZWOMRXXXX"
 }

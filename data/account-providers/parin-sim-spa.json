@@ -8,7 +8,6 @@
   ],
   "name": "PARIN SIM S.P.A.",
   "legalName": "PARIN SIM S.P.A.",
-  "bic": "PARNITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.parinsimspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PARNITM1XXX"
 }

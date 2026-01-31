@@ -8,7 +8,6 @@
   ],
   "name": "GSD YATIRIM BANKASI A.S.",
   "legalName": "GSD YATIRIM BANKASI A.S.",
-  "bic": "GSDBTRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gsdyatirimbankasias.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSDBTRISXXX"
 }

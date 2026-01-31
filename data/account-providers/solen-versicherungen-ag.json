@@ -8,7 +8,6 @@
   ],
   "name": "SOLEN VERSICHERUNGEN AG",
   "legalName": "SOLEN VERSICHERUNGEN AG",
-  "bic": "SOVRCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.solenversicherungenag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SOVRCH21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "INTERACTIVE BROKERS SECURITIES JAPAN, INC. TEKKO KAIKAN 4 F",
   "legalName": "INTERACTIVE BROKERS SECURITIES JAPAN, INC. TEKKO KAIKAN 4 F",
-  "bic": "IBSJJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.interactivebrokerssecuritiesjapaninctekkokai.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IBSJJPJ1XXX"
 }

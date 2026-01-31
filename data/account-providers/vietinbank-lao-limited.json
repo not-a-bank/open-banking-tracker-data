@@ -8,7 +8,6 @@
   ],
   "name": "VIETINBANK LAO LIMITED",
   "legalName": "VIETINBANK LAO LIMITED",
-  "bic": "ICBVLALAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vietinbanklaolimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICBVLALAXXX"
 }

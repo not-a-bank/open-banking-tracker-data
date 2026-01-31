@@ -8,7 +8,6 @@
   ],
   "name": "Belaruski Narodny Bank",
   "legalName": "BELARUSKI NARODNY BANK",
-  "bic": "BLNBBY2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BLNBBY2XXXX"
 }

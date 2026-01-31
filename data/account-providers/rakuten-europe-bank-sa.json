@@ -8,7 +8,6 @@
   ],
   "name": "RAKUTEN EUROPE BANK S.A",
   "legalName": "RAKUTEN EUROPE BANK S.A",
-  "bic": "RAPSLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rakuteneuropebanksa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAPSLULLXXX"
 }

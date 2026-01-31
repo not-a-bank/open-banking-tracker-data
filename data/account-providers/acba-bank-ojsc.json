@@ -8,7 +8,6 @@
   ],
   "name": "Acba Bank Ojsc",
   "legalName": "ACBA BANK OJSC",
-  "bic": "AGCAAM22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGCAAM22XXX"
 }

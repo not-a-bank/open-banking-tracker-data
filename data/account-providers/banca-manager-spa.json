@@ -8,7 +8,6 @@
   ],
   "name": "BANCA MANAGER SPA",
   "legalName": "BANCA MANAGER SPA",
-  "bic": "MANAITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancamanagerspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MANAITM1XXX"
 }

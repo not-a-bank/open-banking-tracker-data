@@ -8,7 +8,6 @@
   ],
   "name": "TITULO CORRETORA DE VALORES S/A",
   "legalName": "TITULO CORRETORA DE VALORES S/A",
-  "bic": "TITUBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.titulocorretoradevaloressa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TITUBRS1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NACFCA ITMC",
   "legalName": "NACFCA ITMC",
-  "bic": "NACIKRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nacfcaitmc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NACIKRS1XXX"
 }

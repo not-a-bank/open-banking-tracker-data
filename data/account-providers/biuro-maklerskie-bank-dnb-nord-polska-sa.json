@@ -8,7 +8,6 @@
   ],
   "name": "BIURO MAKLERSKIE BANK DNB NORD POLSKA S.A.",
   "legalName": "BIURO MAKLERSKIE BANK DNB NORD POLSKA S.A.",
-  "bic": "BMDNPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.biuromaklerskiebankdnbnordpolskasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BMDNPLP1XXX"
 }

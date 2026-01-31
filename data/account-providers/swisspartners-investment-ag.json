@@ -8,7 +8,6 @@
   ],
   "name": "SWISSPARTNERS INVESTMENT AG",
   "legalName": "SWISSPARTNERS INVESTMENT AG",
-  "bic": "SWIECHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.swisspartnersinvestmentag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SWIECHZ1XXX"
 }

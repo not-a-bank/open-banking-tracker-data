@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA GENERATIONSFOND 90-TAL",
   "legalName": "NORDEA GENERATIONSFOND 90-TAL",
-  "bic": "NONTFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeagenerationsfond90tal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NONTFIH1XXX"
 }

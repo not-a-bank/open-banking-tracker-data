@@ -8,7 +8,6 @@
   ],
   "name": "CITIBANK EUROPE PLC LUXEMBOURG BRANCH",
   "legalName": "CITIBANK EUROPE PLC LUXEMBOURG BRANCH",
-  "bic": "CITILUL2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citibankeuropeplcluxembourgbranchlu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CITILUL2XXX"
 }

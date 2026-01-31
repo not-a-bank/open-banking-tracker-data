@@ -8,7 +8,6 @@
   ],
   "name": "HMG FINANCE SA",
   "legalName": "HMG FINANCE SA",
-  "bic": "HMGFFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hmgfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HMGFFRPPXXX"
 }

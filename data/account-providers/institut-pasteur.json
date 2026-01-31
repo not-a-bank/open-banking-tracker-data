@@ -8,7 +8,6 @@
   ],
   "name": "INSTITUT PASTEUR",
   "legalName": "INSTITUT PASTEUR",
-  "bic": "IPASFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.institutpasteur.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IPASFRP1XXX"
 }

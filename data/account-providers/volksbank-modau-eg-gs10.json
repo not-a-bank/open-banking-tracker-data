@@ -8,7 +8,6 @@
   ],
   "name": "VOLKSBANK MODAU EG GS10",
   "legalName": "VOLKSBANK MODAU EG GS10",
-  "bic": "VOMDDE51XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbankmodaueggs10.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VOMDDE51XXX"
 }

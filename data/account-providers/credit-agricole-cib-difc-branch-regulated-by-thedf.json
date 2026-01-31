@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE CIB (DIFC BRANCH, REGULATED BY THEDFSA)",
   "legalName": "CREDIT AGRICOLE CIB (DIFC BRANCH, REGULATED BY THEDFSA)",
-  "bic": "BSUIAEAFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolecibdifcbranchregulatedbythedf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSUIAEAFXXX"
 }

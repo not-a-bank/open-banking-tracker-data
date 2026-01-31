@@ -8,7 +8,6 @@
   ],
   "name": "BANK AND CLIENTS LIMITED",
   "legalName": "BANK AND CLIENTS LIMITED",
-  "bic": "BCLTGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankandclientslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCLTGB21XXX"
 }

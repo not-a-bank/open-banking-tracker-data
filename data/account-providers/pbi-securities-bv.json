@@ -8,7 +8,6 @@
   ],
   "name": "PBI SECURITIES B.V.",
   "legalName": "PBI SECURITIES B.V.",
-  "bic": "PBISNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pbisecuritiesbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PBISNL21XXX"
 }

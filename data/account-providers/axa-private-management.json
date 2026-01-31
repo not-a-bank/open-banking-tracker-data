@@ -8,7 +8,6 @@
   ],
   "name": "AXA PRIVATE MANAGEMENT",
   "legalName": "AXA PRIVATE MANAGEMENT",
-  "bic": "AXPMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.axaprivatemanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AXPMFRP1XXX"
 }

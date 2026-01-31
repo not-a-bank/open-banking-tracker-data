@@ -8,7 +8,6 @@
   ],
   "name": "BANK ISLAM MALAYSIA BERHAD",
   "legalName": "BANK ISLAM MALAYSIA BERHAD",
-  "bic": "BIMBMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankislammalaysiaberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BIMBMYKLXXX"
 }

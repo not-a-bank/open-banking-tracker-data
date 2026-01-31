@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR-Bank in S\u00fcdoldenburg",
-  "legalName": "VR-Bank in S\u00fcdoldenburg",
+  "name": "VR-Bank in Südoldenburg",
+  "legalName": "VR-Bank in Südoldenburg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-in-suedoldenburg.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

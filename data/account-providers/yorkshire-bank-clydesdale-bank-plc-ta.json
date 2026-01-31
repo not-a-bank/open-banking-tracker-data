@@ -8,7 +8,6 @@
   ],
   "name": "YORKSHIRE BANK (CLYDESDALE BANK PLC T/A)",
   "legalName": "YORKSHIRE BANK (CLYDESDALE BANK PLC T/A)",
-  "bic": "YORKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.yorkshirebankclydesdalebankplcta.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YORKGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO COLPATRIA MIAMI AGENCY",
   "legalName": "BANCO COLPATRIA MIAMI AGENCY",
-  "bic": "COLPUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancocolpatriamiamiagency.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COLPUS31XXX"
 }

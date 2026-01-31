@@ -8,7 +8,6 @@
   ],
   "name": "IDS TRUST COMPANY",
   "legalName": "IDS TRUST COMPANY",
-  "bic": "IDTCUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.idstrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IDTCUS41XXX"
 }

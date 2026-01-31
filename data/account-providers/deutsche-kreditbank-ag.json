@@ -9,7 +9,6 @@
   ],
   "name": "DEUTSCHE KREDITBANK AG",
   "legalName": "DEUTSCHE KREDITBANK AG",
-  "bic": "DEKDDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/dkb_de.svg",
@@ -36,5 +35,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEKDDE21XXX"
 }

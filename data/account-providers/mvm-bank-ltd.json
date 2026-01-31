@@ -8,7 +8,6 @@
   ],
   "name": "MVM BANK LTD",
   "legalName": "MVM BANK LTD",
-  "bic": "MMMMGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mvmbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MMMMGB21XXX"
 }

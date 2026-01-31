@@ -9,7 +9,6 @@
   ],
   "name": "FIRST TRUST BANK",
   "legalName": "FIRST TRUST BANK",
-  "bic": "FTBKGB2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/first_trust_bank_gb.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FTBKGB2BXXX"
 }

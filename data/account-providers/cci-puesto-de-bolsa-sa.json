@@ -8,7 +8,6 @@
   ],
   "name": "CCI PUESTO DE BOLSA, S.A",
   "legalName": "CCI PUESTO DE BOLSA, S.A",
-  "bic": "CCPSDOS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ccipuestodebolsasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCPSDOS1XXX"
 }

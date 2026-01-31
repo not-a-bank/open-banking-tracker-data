@@ -8,7 +8,6 @@
   ],
   "name": "TIBRA TRADING EUROPE LIMITED",
   "legalName": "TIBRA TRADING EUROPE LIMITED",
-  "bic": "TITRGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tibratradingeuropelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TITRGB21XXX"
 }

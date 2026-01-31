@@ -9,7 +9,6 @@
   ],
   "name": "RABOBANK",
   "legalName": "RABOBANK",
-  "bic": "RABONL2UXXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296085/radar/icons/Rabobank.jpg",
@@ -168,5 +167,6 @@
     }
   ],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RABONL2UXXX"
 }

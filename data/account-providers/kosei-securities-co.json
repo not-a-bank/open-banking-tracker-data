@@ -8,7 +8,6 @@
   ],
   "name": "KOSEI SECURITIES CO.",
   "legalName": "KOSEI SECURITIES CO.",
-  "bic": "KOSSJPJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.koseisecuritiesco.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KOSSJPJ1XXX"
 }

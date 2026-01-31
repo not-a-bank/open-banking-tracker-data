@@ -8,7 +8,6 @@
   ],
   "name": "BANK FUER AERZTE UND FREIE BERUFE A.G.",
   "legalName": "BANK FUER AERZTE UND FREIE BERUFE A.G.",
-  "bic": "BWFBATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankfueraerzteundfreieberufeag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BWFBATW1XXX"
 }

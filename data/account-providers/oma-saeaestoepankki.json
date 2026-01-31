@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Oma S\u00e4\u00e4st\u00f6pankki",
-  "legalName": "Oma S\u00e4\u00e4st\u00f6pankki",
+  "name": "Oma Säästöpankki",
+  "legalName": "Oma Säästöpankki",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.oma-saeaestoepankki.com.ico",
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OMSAFI2S"
 }

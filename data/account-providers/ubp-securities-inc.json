@@ -8,7 +8,6 @@
   ],
   "name": "UBP SECURITIES INC.",
   "legalName": "UBP SECURITIES INC.",
-  "bic": "UBPPPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubpsecuritiesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBPPPHM1XXX"
 }

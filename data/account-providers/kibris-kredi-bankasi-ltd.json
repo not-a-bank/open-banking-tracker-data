@@ -8,7 +8,6 @@
   ],
   "name": "KIBRIS KREDI BANKASI LTD.",
   "legalName": "KIBRIS KREDI BANKASI LTD.",
-  "bic": "KKIBTRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kibriskredibankasiltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KKIBTRI1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "LENDTECH AB",
   "legalName": "LENDTECH AB",
-  "bic": "LENTSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lendtechab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LENTSES1XXX"
 }

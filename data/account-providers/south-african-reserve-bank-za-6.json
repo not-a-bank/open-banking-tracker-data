@@ -8,7 +8,6 @@
   ],
   "name": "SOUTH AFRICAN RESERVE BANK",
   "legalName": "SOUTH AFRICAN RESERVE BANK",
-  "bic": "SARBZAJSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.southafricanreservebankza6.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SARBZAJSXXX"
 }

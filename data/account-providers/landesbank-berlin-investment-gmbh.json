@@ -8,7 +8,6 @@
   ],
   "name": "LANDESBANK BERLIN INVESTMENT GMBH",
   "legalName": "LANDESBANK BERLIN INVESTMENT GMBH",
-  "bic": "BBIVDEB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.landesbankberlininvestmentgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBIVDEB1XXX"
 }

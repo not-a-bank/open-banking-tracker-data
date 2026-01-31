@@ -8,7 +8,6 @@
   ],
   "name": "LEGAL AND GENERAL ASSET MANAGEMENT (FRANCE)",
   "legalName": "LEGAL AND GENERAL ASSET MANAGEMENT (FRANCE)",
-  "bic": "LGAMFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.legalandgeneralassetmanagementfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LGAMFRP1XXX"
 }

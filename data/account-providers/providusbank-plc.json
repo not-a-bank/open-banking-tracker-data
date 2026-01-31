@@ -8,7 +8,6 @@
   ],
   "name": "PROVIDUSBANK PLC",
   "legalName": "PROVIDUSBANK PLC",
-  "bic": "UMPLNGLAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.providusbankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UMPLNGLAXXX"
 }

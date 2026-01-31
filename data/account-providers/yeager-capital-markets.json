@@ -8,7 +8,6 @@
   ],
   "name": "YEAGER CAPITAL MARKETS",
   "legalName": "YEAGER CAPITAL MARKETS",
-  "bic": "YECMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.yeagercapitalmarkets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "YECMUS31XXX"
 }

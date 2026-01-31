@@ -8,7 +8,6 @@
   ],
   "name": "BULGARIAN STOCK EXCHANGE",
   "legalName": "BULGARIAN STOCK EXCHANGE",
-  "bic": "XBULBGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bulgarianstockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XBULBGS1XXX"
 }

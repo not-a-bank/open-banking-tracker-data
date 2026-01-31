@@ -31,10 +31,11 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "plaid",
     "salt-edge",
     "tink"
   ],
-  "swiftCode": "CRDRIT2FXXX",
-  "legalName": "Solution Bank "
+  "legalName": "Solution Bank ",
+  "bic": "CRDRIT2FXXX"
 }

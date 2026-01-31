@@ -8,7 +8,6 @@
   ],
   "name": "MEDIOLANUM GESTIONE FONDI",
   "legalName": "MEDIOLANUM GESTIONE FONDI",
-  "bic": "MEGDITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mediolanumgestionefondi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MEGDITM1XXX"
 }

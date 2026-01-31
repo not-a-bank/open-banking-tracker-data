@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF America Europe Designated Activity Company, Athens Branch",
   "legalName": "BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY, ATHENS BRANCH",
-  "bic": "BOFAGR2XXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFAGR2XXXX"
 }

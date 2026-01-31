@@ -8,7 +8,6 @@
   ],
   "name": "CALVERT GROUP",
   "legalName": "CALVERT GROUP",
-  "bic": "CAURUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.calvertgroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CAURUS31XXX"
 }

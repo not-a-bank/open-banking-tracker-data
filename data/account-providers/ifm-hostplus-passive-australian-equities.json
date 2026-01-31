@@ -8,7 +8,6 @@
   ],
   "name": "IFM HOSTPLUS PASSIVE AUSTRALIAN EQUITIES",
   "legalName": "IFM HOSTPLUS PASSIVE AUSTRALIAN EQUITIES",
-  "bic": "IHPUAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ifmhostpluspassiveaustralianequities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IHPUAU31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KARIBA SPA",
   "legalName": "KARIBA SPA",
-  "bic": "KAIIIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.karibaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KAIIIT21XXX"
 }

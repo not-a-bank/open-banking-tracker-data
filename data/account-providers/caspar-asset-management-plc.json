@@ -8,7 +8,6 @@
   ],
   "name": "CASPAR ASSET MANAGEMENT PLC",
   "legalName": "CASPAR ASSET MANAGEMENT PLC",
-  "bic": "CSSNPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.casparassetmanagementplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSSNPLP1XXX"
 }

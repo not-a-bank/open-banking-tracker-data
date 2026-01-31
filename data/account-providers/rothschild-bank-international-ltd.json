@@ -8,7 +8,6 @@
   ],
   "name": "ROTHSCHILD BANK INTERNATIONAL LTD",
   "legalName": "ROTHSCHILD BANK INTERNATIONAL LTD",
-  "bic": "ROTHGGSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rothschildbankinternationalltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROTHGGSPXXX"
 }

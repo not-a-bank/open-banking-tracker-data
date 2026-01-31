@@ -8,7 +8,6 @@
   ],
   "name": "DAIWA CAPITAL MARKETS AUSTRALIA LIMITED",
   "legalName": "DAIWA CAPITAL MARKETS AUSTRALIA LIMITED",
-  "bic": "DWHKAU31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.daiwacapitalmarketsaustralialimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DWHKAU31XXX"
 }

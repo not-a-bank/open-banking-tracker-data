@@ -8,7 +8,6 @@
   ],
   "name": "SPF VERMOGENSBEHEER B.V.",
   "legalName": "SPF VERMOGENSBEHEER B.V.",
-  "bic": "SPVENL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spfvermogensbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SPVENL21XXX"
 }

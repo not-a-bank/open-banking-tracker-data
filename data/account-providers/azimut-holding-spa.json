@@ -8,7 +8,6 @@
   ],
   "name": "AZIMUT HOLDING SPA",
   "legalName": "AZIMUT HOLDING SPA",
-  "bic": "AZHOITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.azimutholdingspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AZHOITM1XXX"
 }

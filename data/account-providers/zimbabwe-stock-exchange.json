@@ -8,7 +8,6 @@
   ],
   "name": "ZIMBABWE STOCK EXCHANGE",
   "legalName": "ZIMBABWE STOCK EXCHANGE",
-  "bic": "XZIMZWH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.zimbabwestockexchange.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XZIMZWH1XXX"
 }

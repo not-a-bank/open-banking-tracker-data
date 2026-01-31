@@ -8,7 +8,6 @@
   ],
   "name": "SPAREBANKEN DIN",
   "legalName": "SPAREBANKEN DIN",
-  "bic": "BSPANO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebankendin.com.ico",
@@ -24,10 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSPANO21"
 }

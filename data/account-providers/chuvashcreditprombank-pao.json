@@ -8,7 +8,6 @@
   ],
   "name": "CHUVASHCREDITPROMBANK PAO",
   "legalName": "CHUVASHCREDITPROMBANK PAO",
-  "bic": "CHVARU2CXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.chuvashcreditprombankpao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHVARU2CXXX"
 }

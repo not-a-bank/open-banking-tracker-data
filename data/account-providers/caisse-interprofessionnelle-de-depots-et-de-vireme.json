@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
   "legalName": "CAISSE INTERPROFESSIONNELLE DE DEPOTS ET DE VIREMENTS DE TITRES",
-  "bic": "ESESBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caisseinterprofessionnellededepotsetdevireme.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESESBEBBXXX"
 }

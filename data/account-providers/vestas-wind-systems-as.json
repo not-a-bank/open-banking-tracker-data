@@ -8,7 +8,6 @@
   ],
   "name": "VESTAS WIND SYSTEMS A/S",
   "legalName": "VESTAS WIND SYSTEMS A/S",
-  "bic": "WINDDK22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vestaswindsystemsas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WINDDK22XXX"
 }

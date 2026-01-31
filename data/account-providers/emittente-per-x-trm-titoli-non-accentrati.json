@@ -8,7 +8,6 @@
   ],
   "name": "EMITTENTE PER X-TRM (TITOLI NON ACCENTRATI)",
   "legalName": "EMITTENTE PER X-TRM (TITOLI NON ACCENTRATI)",
-  "bic": "EXIOIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.emittenteperxtrmtitolinonaccentrati.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EXIOIT21XXX"
 }

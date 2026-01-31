@@ -8,7 +8,6 @@
   ],
   "name": "HANG SENG BANK LIMITED",
   "legalName": "HANG SENG BANK LIMITED",
-  "bic": "HASESGSGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hangsengbanklimitedsg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HASESGSGXXX"
 }

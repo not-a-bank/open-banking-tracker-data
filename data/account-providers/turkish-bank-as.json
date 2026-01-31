@@ -8,7 +8,6 @@
   ],
   "name": "TURKISH BANK A.S.",
   "legalName": "TURKISH BANK A.S.",
-  "bic": "TUBATRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.turkishbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TUBATRISXXX"
 }

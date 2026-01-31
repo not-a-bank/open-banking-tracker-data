@@ -30,8 +30,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge",
     "tink"
   ],
-  "swiftCode": "SELBIT2B"
+  "bic": "SELBIT2B"
 }

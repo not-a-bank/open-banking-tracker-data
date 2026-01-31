@@ -8,7 +8,6 @@
   ],
   "name": "BCI CORREDOR DE BOLSA S.A.",
   "legalName": "BCI CORREDOR DE BOLSA S.A.",
-  "bic": "BCCSCLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bcicorredordebolsasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BCCSCLR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "TRAVAL CURRENCY MANAGEMENT LTD",
   "legalName": "TRAVAL CURRENCY MANAGEMENT LTD",
-  "bic": "TRCNGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.travalcurrencymanagementltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRCNGB21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SPINELLI S/A - CORRETORA DE VALORES MOBILIARIOS E CAMBIO",
   "legalName": "SPINELLI S/A - CORRETORA DE VALORES MOBILIARIOS E CAMBIO",
-  "bic": "SCVCBRS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spinellisacorretoradevaloresmobiliariosecam.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCVCBRS1XXX"
 }

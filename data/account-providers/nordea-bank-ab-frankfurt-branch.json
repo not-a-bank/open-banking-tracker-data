@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA BANK AB FRANKFURT BRANCH",
   "legalName": "NORDEA BANK AB FRANKFURT BRANCH",
-  "bic": "NDEADEFFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeabankabfrankfurtbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEADEFFXXX"
 }

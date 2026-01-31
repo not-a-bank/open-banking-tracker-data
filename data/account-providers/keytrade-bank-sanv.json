@@ -8,7 +8,6 @@
   ],
   "name": "KEYTRADE BANK SA/NV",
   "legalName": "KEYTRADE BANK SA/NV",
-  "bic": "KEYTBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.keytradebanksanv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KEYTBEBBXXX"
 }

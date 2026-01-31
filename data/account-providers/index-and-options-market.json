@@ -8,7 +8,6 @@
   ],
   "name": "INDEX AND OPTIONS MARKET",
   "legalName": "INDEX AND OPTIONS MARKET",
-  "bic": "XIOMUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indexandoptionsmarket.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XIOMUS41XXX"
 }

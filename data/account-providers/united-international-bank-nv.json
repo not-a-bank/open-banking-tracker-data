@@ -8,7 +8,6 @@
   ],
   "name": "UNITED INTERNATIONAL BANK N.V.",
   "legalName": "UNITED INTERNATIONAL BANK N.V.",
-  "bic": "UDIBCWCUXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unitedinternationalbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UDIBCWCUXXX"
 }

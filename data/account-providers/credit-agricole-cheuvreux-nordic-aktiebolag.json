@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE CHEUVREUX NORDIC AKTIEBOLAG",
   "legalName": "CREDIT AGRICOLE CHEUVREUX NORDIC AKTIEBOLAG",
-  "bic": "CINSSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolecheuvreuxnordicaktiebolag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CINSSES1XXX"
 }

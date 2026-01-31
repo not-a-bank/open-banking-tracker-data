@@ -8,7 +8,6 @@
   ],
   "name": "LINDE AG",
   "legalName": "LINDE AG",
-  "bic": "LNDEDEMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lindeag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LNDEDEMMXXX"
 }

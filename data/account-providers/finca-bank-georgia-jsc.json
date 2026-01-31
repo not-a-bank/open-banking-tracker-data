@@ -8,7 +8,6 @@
   ],
   "name": "FINCA BANK GEORGIA JSC",
   "legalName": "FINCA BANK GEORGIA JSC",
-  "bic": "FGEOGE22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fincabankgeorgiajsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FGEOGE22XXX"
 }

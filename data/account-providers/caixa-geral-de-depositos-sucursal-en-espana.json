@@ -8,7 +8,6 @@
   ],
   "name": "CAIXA GERAL DE DEPOSITOS-SUCURSAL EN ESPANA",
   "legalName": "CAIXA GERAL DE DEPOSITOS-SUCURSAL EN ESPANA",
-  "bic": "CGDIES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixageraldedepositossucursalenespana.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CGDIES21XXX"
 }

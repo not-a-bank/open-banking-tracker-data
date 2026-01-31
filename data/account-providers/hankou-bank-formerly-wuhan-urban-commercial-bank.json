@@ -8,7 +8,6 @@
   ],
   "name": "HANKOU BANK (FORMERLY WUHAN URBAN COMMERCIAL BANK)",
   "legalName": "HANKOU BANK (FORMERLY WUHAN URBAN COMMERCIAL BANK)",
-  "bic": "WHCBCNBNXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hankoubankformerlywuhanurbancommercialbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WHCBCNBNXXX"
 }

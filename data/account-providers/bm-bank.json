@@ -8,7 +8,6 @@
   ],
   "name": "BM-BANK",
   "legalName": "BM-BANK",
-  "bic": "MOSWRUM2XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bmbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOSWRUM2XXX"
 }

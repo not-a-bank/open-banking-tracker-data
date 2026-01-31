@@ -8,7 +8,6 @@
   ],
   "name": "HVIDBJERG BANK AKTIESELSKAB",
   "legalName": "HVIDBJERG BANK AKTIESELSKAB",
-  "bic": "HVBADK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hvidbjergbankaktieselskab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HVBADK21XXX"
 }

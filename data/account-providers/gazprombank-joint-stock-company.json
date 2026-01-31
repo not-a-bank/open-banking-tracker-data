@@ -8,7 +8,6 @@
   ],
   "name": "GAZPROMBANK (JOINT - STOCK COMPANY)",
   "legalName": "GAZPROMBANK (JOINT - STOCK COMPANY)",
-  "bic": "GAZPRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gazprombankjointstockcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GAZPRUMMXXX"
 }

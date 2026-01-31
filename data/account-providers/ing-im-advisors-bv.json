@@ -8,7 +8,6 @@
   ],
   "name": "ING IM ADVISORS B.V.",
   "legalName": "ING IM ADVISORS B.V.",
-  "bic": "INGWNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingimadvisorsbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGWNL21XXX"
 }

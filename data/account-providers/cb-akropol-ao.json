@@ -8,7 +8,6 @@
   ],
   "name": "CB 'AKROPOL' AO",
   "legalName": "CB 'AKROPOL' AO",
-  "bic": "COAKRUM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cbakropolao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COAKRUM1XXX"
 }

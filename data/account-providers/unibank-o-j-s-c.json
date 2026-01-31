@@ -8,7 +8,6 @@
   ],
   "name": "Unibank O.j.s.c",
   "legalName": "UNIBANK O.J.S.C",
-  "bic": "UNIJAM22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNIJAM22XXX"
 }

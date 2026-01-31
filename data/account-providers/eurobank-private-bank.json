@@ -1,0 +1,32 @@
+{
+  "id": "eurobank-private-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Eurobank Private Bank",
+  "legalName": "Eurobank Private Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.eurobank-private-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "LU",
+  "countries": [
+    "LU"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "ERBKLULL"
+}

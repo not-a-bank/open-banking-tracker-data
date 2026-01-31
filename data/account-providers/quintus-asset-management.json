@@ -8,7 +8,6 @@
   ],
   "name": "QUINTUS ASSET MANAGEMENT",
   "legalName": "QUINTUS ASSET MANAGEMENT",
-  "bic": "QUAMUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.quintusassetmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QUAMUS41XXX"
 }

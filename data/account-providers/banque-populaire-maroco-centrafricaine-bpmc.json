@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE POPULAIRE MAROCO-CENTRAFRICAINE B.P.M.C.",
   "legalName": "BANQUE POPULAIRE MAROCO-CENTRAFRICAINE B.P.M.C.",
-  "bic": "BPMCCFCFXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepopulairemarococentrafricainebpmc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPMCCFCFXXX"
 }

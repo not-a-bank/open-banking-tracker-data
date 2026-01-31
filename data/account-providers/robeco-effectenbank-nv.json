@@ -8,7 +8,6 @@
   ],
   "name": "ROBECO EFFECTENBANK N.V.",
   "legalName": "ROBECO EFFECTENBANK N.V.",
-  "bic": "ROEFNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.robecoeffectenbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ROEFNL21XXX"
 }

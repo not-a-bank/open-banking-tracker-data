@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF AFRICA-RDC",
   "legalName": "BANK OF AFRICA-RDC",
-  "bic": "AFRICDKSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofafricardc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFRICDKSXXX"
 }

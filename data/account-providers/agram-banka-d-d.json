@@ -8,7 +8,6 @@
   ],
   "name": "Agram Banka D.d.",
   "legalName": "AGRAM BANKA D.D.",
-  "bic": "KREZHR2XCUS",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KREZHR2XCUS"
 }

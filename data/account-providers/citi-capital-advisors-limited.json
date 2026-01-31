@@ -8,7 +8,6 @@
   ],
   "name": "CITI CAPITAL ADVISORS LIMITED",
   "legalName": "CITI CAPITAL ADVISORS LIMITED",
-  "bic": "CICDGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citicapitaladvisorslimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CICDGB21XXX"
 }

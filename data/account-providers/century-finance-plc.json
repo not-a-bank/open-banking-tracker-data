@@ -8,7 +8,6 @@
   ],
   "name": "CENTURY FINANCE PLC",
   "legalName": "CENTURY FINANCE PLC",
-  "bic": "CEFCGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centuryfinanceplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEFCGB21XXX"
 }

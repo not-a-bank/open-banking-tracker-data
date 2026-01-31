@@ -8,7 +8,6 @@
   ],
   "name": "CENTURY BANK AND TRUST COMPANY",
   "legalName": "CENTURY BANK AND TRUST COMPANY",
-  "bic": "CERYUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centurybankandtrustcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CERYUS33XXX"
 }

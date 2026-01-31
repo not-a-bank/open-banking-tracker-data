@@ -8,7 +8,6 @@
   ],
   "name": "BYBLOS INVEST BANK S.A.L.",
   "legalName": "BYBLOS INVEST BANK S.A.L.",
-  "bic": "BYBILBBXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.byblosinvestbanksal.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BYBILBBXXXX"
 }

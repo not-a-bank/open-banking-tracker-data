@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK MALAYSIA BERHAD",
   "legalName": "HSBC BANK MALAYSIA BERHAD",
-  "bic": "HBMBMYKLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankmalaysiaberhad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HBMBMYKLXXX"
 }

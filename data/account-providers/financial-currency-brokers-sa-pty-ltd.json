@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIAL CURRENCY BROKERS S.A. (PTY) LTD",
   "legalName": "FINANCIAL CURRENCY BROKERS S.A. (PTY) LTD",
-  "bic": "FCBPZAJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financialcurrencybrokerssaptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FCBPZAJ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Banco Popular SA - Colombia",
   "legalName": "BANCO POPULAR SA - COLOMBIA",
-  "bic": "BPOPCOBBPEI",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPOPCOBBPEI"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SIGNINA CAPITAL AG",
   "legalName": "SIGNINA CAPITAL AG",
-  "bic": "SIPTCHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.signinacapitalag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIPTCHZ1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "RAND FINANCIAL SERVICES, INC",
   "legalName": "RAND FINANCIAL SERVICES, INC",
-  "bic": "RAFSUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.randfinancialservicesinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RAFSUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SYGMA FINANCE SNC",
   "legalName": "SYGMA FINANCE SNC",
-  "bic": "SYFSFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sygmafinancesnc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SYFSFR21XXX"
 }

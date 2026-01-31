@@ -8,7 +8,6 @@
   ],
   "name": "GLOBAL DERIVATIVES TRADING AMSTERDAM B.V.",
   "legalName": "GLOBAL DERIVATIVES TRADING AMSTERDAM B.V.",
-  "bic": "GDTANL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globalderivativestradingamsterdambv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GDTANL21XXX"
 }

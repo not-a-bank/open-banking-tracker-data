@@ -8,7 +8,6 @@
   ],
   "name": "SPARKASSE BANK MALTA PLC",
   "legalName": "SPARKASSE BANK MALTA PLC",
-  "bic": "SBMTMTMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkassebankmaltaplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBMTMTMTXXX"
 }

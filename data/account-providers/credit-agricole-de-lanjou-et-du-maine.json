@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Cr\u00e9dit Agricole de l'Anjou et du Maine",
-  "legalName": "Cr\u00e9dit Agricole de l'Anjou et du Maine",
+  "name": "Crédit Agricole de l'Anjou et du Maine",
+  "legalName": "Crédit Agricole de l'Anjou et du Maine",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.credit-agricole-de-lanjou-et-du-maine.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],

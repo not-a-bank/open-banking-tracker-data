@@ -8,7 +8,6 @@
   ],
   "name": "A3E CAPITAL SICAV P.L.C.",
   "legalName": "A3E CAPITAL SICAV P.L.C.",
-  "bic": "CPSCMTM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.a3ecapitalsicavplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CPSCMTM1XXX"
 }

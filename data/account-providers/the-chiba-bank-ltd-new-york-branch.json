@@ -8,7 +8,6 @@
   ],
   "name": "THE CHIBA BANK LTD., NEW YORK BRANCH",
   "legalName": "THE CHIBA BANK LTD., NEW YORK BRANCH",
-  "bic": "CHBAUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thechibabankltdnewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHBAUS33XXX"
 }

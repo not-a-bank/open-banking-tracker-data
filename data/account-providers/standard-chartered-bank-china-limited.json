@@ -8,7 +8,6 @@
   ],
   "name": "STANDARD CHARTERED BANK (CHINA) LIMITED",
   "legalName": "STANDARD CHARTERED BANK (CHINA) LIMITED",
-  "bic": "SCBLCNSXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.standardcharteredbankchinalimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCBLCNSXXXX"
 }

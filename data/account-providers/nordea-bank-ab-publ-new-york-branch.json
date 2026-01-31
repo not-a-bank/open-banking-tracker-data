@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA BANK AB (PUBL), NEW YORK BRANCH",
   "legalName": "NORDEA BANK AB (PUBL), NEW YORK BRANCH",
-  "bic": "NDEAUS3NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeabankabpublnewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NDEAUS3NXXX"
 }

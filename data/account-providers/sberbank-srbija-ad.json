@@ -8,7 +8,6 @@
   ],
   "name": "SBERBANK SRBIJA A.D.",
   "legalName": "SBERBANK SRBIJA A.D.",
-  "bic": "SABRRSBGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sberbanksrbijaad.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SABRRSBGXXX"
 }

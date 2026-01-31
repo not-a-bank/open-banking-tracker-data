@@ -8,7 +8,6 @@
   ],
   "name": "BONGRAIN SA",
   "legalName": "BONGRAIN SA",
-  "bic": "BONGFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bongrainsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BONGFR21XXX"
 }

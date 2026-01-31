@@ -8,7 +8,6 @@
   ],
   "name": "CNH INDUSTRIAL FINANCE S.P.A.",
   "legalName": "CNH INDUSTRIAL FINANCE S.P.A.",
-  "bic": "CNHFITTTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cnhindustrialfinancespa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CNHFITTTXXX"
 }

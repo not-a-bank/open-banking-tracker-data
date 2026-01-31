@@ -8,7 +8,6 @@
   ],
   "name": "FIDEURAM BANK (LUXEMBOURG) S.A.",
   "legalName": "FIDEURAM BANK (LUXEMBOURG) S.A.",
-  "bic": "FIBKLULLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fideurambankluxembourgsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIBKLULLXXX"
 }

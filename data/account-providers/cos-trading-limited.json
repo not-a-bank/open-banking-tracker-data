@@ -8,7 +8,6 @@
   ],
   "name": "COS TRADING LIMITED",
   "legalName": "COS TRADING LIMITED",
-  "bic": "COTAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.costradinglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COTAGB21XXX"
 }

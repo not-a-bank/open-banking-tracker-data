@@ -8,7 +8,6 @@
   ],
   "name": "BRIDGE CAPITAL",
   "legalName": "BRIDGE CAPITAL",
-  "bic": "BRPTSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bridgecapital.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRPTSGS1XXX"
 }

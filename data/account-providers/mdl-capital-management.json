@@ -8,7 +8,6 @@
   ],
   "name": "MDL CAPITAL MANAGEMENT",
   "legalName": "MDL CAPITAL MANAGEMENT",
-  "bic": "MDCAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mdlcapitalmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MDCAUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UNIVERSAL STOCK BANK LTD",
   "legalName": "UNIVERSAL STOCK BANK LTD",
-  "bic": "UNSKRUMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.universalstockbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNSKRUMMXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "EFG TELESIS FINANCE S A",
   "legalName": "EFG TELESIS FINANCE S A",
-  "bic": "EFTFGRA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efgtelesisfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFTFGRA1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ABN Amro Bank N.v., Paris Branch (previously Banque Neuflize Obc)",
   "legalName": "ABN AMRO BANK N.V., PARIS BRANCH (PREVIOUSLY BANQUE NEUFLIZE OBC)",
-  "bic": "NEUFLIZE",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NEUFLIZE"
 }

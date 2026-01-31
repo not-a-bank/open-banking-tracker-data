@@ -8,7 +8,6 @@
   ],
   "name": "HSBC BANK EGYPT S.A.E",
   "legalName": "HSBC BANK EGYPT S.A.E",
-  "bic": "EBBKEGCXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hsbcbankegyptsae.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EBBKEGCXXXX"
 }

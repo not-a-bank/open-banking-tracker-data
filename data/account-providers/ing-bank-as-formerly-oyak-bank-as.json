@@ -8,7 +8,6 @@
   ],
   "name": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
   "legalName": "ING BANK A.S. (FORMERLY OYAK BANK A.S.)",
-  "bic": "INGBTRISXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ingbankasformerlyoyakbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INGBTRISXXX"
 }

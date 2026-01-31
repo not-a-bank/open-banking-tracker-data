@@ -8,7 +8,6 @@
   ],
   "name": "GE MONEY BANK SCA",
   "legalName": "GE MONEY BANK SCA",
-  "bic": "MOEYFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gemoneybanksca.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOEYFRPPXXX"
 }

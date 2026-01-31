@@ -8,7 +8,6 @@
   ],
   "name": "BANK ACCEPT JSC",
   "legalName": "BANK ACCEPT JSC",
-  "bic": "AJSCRU55XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankacceptjsc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AJSCRU55XXX"
 }

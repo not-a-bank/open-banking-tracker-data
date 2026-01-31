@@ -8,7 +8,6 @@
   ],
   "name": "JUPITER SECURITIES SDN. BHD",
   "legalName": "JUPITER SECURITIES SDN. BHD",
-  "bic": "JUPSMYK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jupitersecuritiessdnbhd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JUPSMYK1XXX"
 }

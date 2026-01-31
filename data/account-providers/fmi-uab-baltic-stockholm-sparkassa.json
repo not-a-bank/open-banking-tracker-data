@@ -8,7 +8,6 @@
   ],
   "name": "FMI UAB BALTIC STOCKHOLM SPARKASSA",
   "legalName": "FMI UAB BALTIC STOCKHOLM SPARKASSA",
-  "bic": "BATKLT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fmiuabbalticstockholmsparkassa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BATKLT21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SEDEV (SOCIETE EUROP. DE DEV. DU FINANCEMENT)",
   "legalName": "SEDEV (SOCIETE EUROP. DE DEV. DU FINANCEMENT)",
-  "bic": "SSEDFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sedevsocieteeuropdedevdufinancement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SSEDFR21XXX"
 }

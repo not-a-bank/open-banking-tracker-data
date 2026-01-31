@@ -8,7 +8,6 @@
   ],
   "name": "DS STOCK EXCHANGE SERVICES LTD.",
   "legalName": "DS STOCK EXCHANGE SERVICES LTD.",
-  "bic": "STXSILI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dsstockexchangeservicesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STXSILI1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BORGHOLS B.V.",
   "legalName": "BORGHOLS B.V.",
-  "bic": "BORHNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.borgholsbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BORHNL21XXX"
 }

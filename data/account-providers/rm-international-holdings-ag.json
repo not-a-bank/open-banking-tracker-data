@@ -8,7 +8,6 @@
   ],
   "name": "RM INTERNATIONAL HOLDINGS AG",
   "legalName": "RM INTERNATIONAL HOLDINGS AG",
-  "bic": "INHLSCS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rminternationalholdingsag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "INHLSCS1XXX"
 }

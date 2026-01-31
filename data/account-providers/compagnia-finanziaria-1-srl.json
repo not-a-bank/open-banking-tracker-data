@@ -8,7 +8,6 @@
   ],
   "name": "COMPAGNIA FINANZIARIA 1 SRL",
   "legalName": "COMPAGNIA FINANZIARIA 1 SRL",
-  "bic": "CFSRITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.compagniafinanziaria1srl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CFSRITM1XXX"
 }

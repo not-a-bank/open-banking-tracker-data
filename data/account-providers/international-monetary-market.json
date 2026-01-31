@@ -8,7 +8,6 @@
   ],
   "name": "INTERNATIONAL MONETARY MARKET",
   "legalName": "INTERNATIONAL MONETARY MARKET",
-  "bic": "XIMMUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.internationalmonetarymarket.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XIMMUS41XXX"
 }

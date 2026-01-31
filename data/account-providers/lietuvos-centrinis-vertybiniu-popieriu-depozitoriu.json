@@ -8,7 +8,6 @@
   ],
   "name": "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
   "legalName": "LIETUVOS CENTRINIS VERTYBINIU POPIERIU DEPOZITORIUMAS, AB (CENTRAL SECURITIES DEPOSITORY OF LITHUANIA)",
-  "bic": "CSDLLT22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lietuvoscentrinisvertybiniupopieriudepozitoriu.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSDLLT22XXX"
 }

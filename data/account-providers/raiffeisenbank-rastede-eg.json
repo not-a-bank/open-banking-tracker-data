@@ -8,7 +8,6 @@
   ],
   "name": "RAIFFEISENBANK RASTEDE EG",
   "legalName": "RAIFFEISENBANK RASTEDE EG",
-  "bic": "RARADE81XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbankrastedeeg.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RARADE81XXX"
 }

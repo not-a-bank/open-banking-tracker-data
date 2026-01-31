@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS (FORMERLY BANQUE NATIONALE DE PARIS S.A.)",
   "legalName": "BNP PARIBAS (FORMERLY BANQUE NATIONALE DE PARIS S.A.)",
-  "bic": "BNPAFRPHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasformerlybanquenationaledeparissa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPAFRPHXXX"
 }

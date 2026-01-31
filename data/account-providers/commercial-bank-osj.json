@@ -8,7 +8,6 @@
   ],
   "name": "COMMERCIAL BANK O.SJ.",
   "legalName": "COMMERCIAL BANK O.SJ.",
-  "bic": "COOSIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commercialbankosj.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COOSIT31XXX"
 }

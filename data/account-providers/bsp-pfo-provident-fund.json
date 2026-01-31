@@ -8,7 +8,6 @@
   ],
   "name": "BSP-PFO PROVIDENT FUND",
   "legalName": "BSP-PFO PROVIDENT FUND",
-  "bic": "BPRFPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bsppfoprovidentfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPRFPHM1XXX"
 }

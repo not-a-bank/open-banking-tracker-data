@@ -8,7 +8,6 @@
   ],
   "name": "KPM INVESTMENT MANAGEMENT",
   "legalName": "KPM INVESTMENT MANAGEMENT",
-  "bic": "KPIAUS41XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kpminvestmentmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KPIAUS41XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SIEVIN OSUUSPANKKI",
   "legalName": "SIEVIN OSUUSPANKKI",
-  "bic": "SIOUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sievinosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SIOUFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "KREISSPARKASSE ESSLINGEN-NUERTINGEN",
   "legalName": "KREISSPARKASSE ESSLINGEN-NUERTINGEN",
-  "bic": "ESSLDE66XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasseesslingennuertingen.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESSLDE66XXX"
 }

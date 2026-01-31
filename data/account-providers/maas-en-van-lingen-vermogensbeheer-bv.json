@@ -8,7 +8,6 @@
   ],
   "name": "MAAS EN VAN LINGEN VERMOGENSBEHEER B.V.",
   "legalName": "MAAS EN VAN LINGEN VERMOGENSBEHEER B.V.",
-  "bic": "MALVNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maasenvanlingenvermogensbeheerbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MALVNL21XXX"
 }

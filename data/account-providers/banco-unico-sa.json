@@ -8,7 +8,6 @@
   ],
   "name": "BANCO UNICO, SA",
   "legalName": "BANCO UNICO, SA",
-  "bic": "UNICMZMXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancounicosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UNICMZMXXXX"
 }

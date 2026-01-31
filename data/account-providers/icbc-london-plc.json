@@ -8,7 +8,6 @@
   ],
   "name": "ICBC (LONDON) PLC",
   "legalName": "ICBC (LONDON) PLC",
-  "bic": "ICBKGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.icbclondonplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICBKGB2LXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA AAA GOVERNMENT BOND FUND",
   "legalName": "NORDEA AAA GOVERNMENT BOND FUND",
-  "bic": "NAGBFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaaaagovernmentbondfund.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAGBFIH1XXX"
 }

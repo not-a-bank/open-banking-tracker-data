@@ -8,7 +8,6 @@
   ],
   "name": "AB.LV CAPITAL MARKETS",
   "legalName": "AB.LV CAPITAL MARKETS",
-  "bic": "ABCRLV21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ablvcapitalmarkets.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ABCRLV21XXX"
 }

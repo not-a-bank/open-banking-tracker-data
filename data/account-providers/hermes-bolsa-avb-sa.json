@@ -8,7 +8,6 @@
   ],
   "name": "HERMES BOLSA, AVB, S.A.",
   "legalName": "HERMES BOLSA, AVB, S.A.",
-  "bic": "HEBVESB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hermesbolsaavbsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HEBVESB1XXX"
 }

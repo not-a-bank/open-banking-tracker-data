@@ -67,12 +67,13 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
     "salt-edge",
     "volt"
   ],
-  "swiftCode": "POPLESMM",
   "sandbox": {
     "status": "available",
     "sourceUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/wizink"
-  }
+  },
+  "bic": "POPLESMM"
 }

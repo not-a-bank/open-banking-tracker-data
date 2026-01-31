@@ -8,7 +8,6 @@
   ],
   "name": "BANCO NACIONAL DE CREDITO RURAL SA",
   "legalName": "BANCO NACIONAL DE CREDITO RURAL SA",
-  "bic": "NCRUMXM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banconacionaldecreditoruralsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NCRUMXM1XXX"
 }

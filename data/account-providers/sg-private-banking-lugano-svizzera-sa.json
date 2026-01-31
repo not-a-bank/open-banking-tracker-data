@@ -8,7 +8,6 @@
   ],
   "name": "SG PRIVATE BANKING (LUGANO-SVIZZERA) SA",
   "legalName": "SG PRIVATE BANKING (LUGANO-SVIZZERA) SA",
-  "bic": "CANTCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sgprivatebankingluganosvizzerasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CANTCH21XXX"
 }

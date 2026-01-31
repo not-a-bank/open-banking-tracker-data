@@ -8,7 +8,6 @@
   ],
   "name": "AUSTROBANK (OVERSEAS) PANAMA S.A.",
   "legalName": "AUSTROBANK (OVERSEAS) PANAMA S.A.",
-  "bic": "AUBAPAPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.austrobankoverseaspanamasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AUBAPAPAXXX"
 }

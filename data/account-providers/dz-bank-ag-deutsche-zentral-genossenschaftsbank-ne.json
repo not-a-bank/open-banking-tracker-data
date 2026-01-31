@@ -8,7 +8,6 @@
   ],
   "name": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK, NEW YORK BRANCH",
   "legalName": "DZ BANK AG DEUTSCHE ZENTRAL-GENOSSENSCHAFTSBANK, NEW YORK BRANCH",
-  "bic": "GENOUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dzbankagdeutschezentralgenossenschaftsbankne.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENOUS33XXX"
 }

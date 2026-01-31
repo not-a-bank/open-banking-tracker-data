@@ -8,7 +8,6 @@
   ],
   "name": "BANCA ANTONVENETA SPA",
   "legalName": "BANCA ANTONVENETA SPA",
-  "bic": "ANTBIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancaantonvenetaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANTBIT21XXX"
 }

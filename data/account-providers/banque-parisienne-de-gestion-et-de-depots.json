@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE PARISIENNE DE GESTION ET DE DEPOTS",
   "legalName": "BANQUE PARISIENNE DE GESTION ET DE DEPOTS",
-  "bic": "BPGDFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banqueparisiennedegestionetdedepots.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPGDFRP1XXX"
 }

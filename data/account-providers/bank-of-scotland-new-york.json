@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF SCOTLAND, NEW YORK",
   "legalName": "BANK OF SCOTLAND, NEW YORK",
-  "bic": "BOFSUS3NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofscotlandnewyork.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BOFSUS3NXXX"
 }

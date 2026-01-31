@@ -8,7 +8,6 @@
   ],
   "name": "SAXO BANK A/S",
   "legalName": "SAXO BANK A/S",
-  "bic": "SAXODKKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.saxobankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SAXODKKKXXX"
 }

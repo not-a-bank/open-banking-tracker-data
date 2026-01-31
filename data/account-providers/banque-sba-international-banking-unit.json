@@ -8,7 +8,6 @@
   ],
   "name": "Banque SBA - International Banking Unit",
   "legalName": "BANQUE SBA - INTERNATIONAL BANKING UNIT",
-  "bic": "SBAACY2IXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBAACY2IXXX"
 }

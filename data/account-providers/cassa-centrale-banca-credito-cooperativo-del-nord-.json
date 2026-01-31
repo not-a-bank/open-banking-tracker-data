@@ -8,7 +8,6 @@
   ],
   "name": "CASSA CENTRALE BANCA CREDITO COOPERATIVO DEL NORD EST S.P.A.",
   "legalName": "CASSA CENTRALE BANCA CREDITO COOPERATIVO DEL NORD EST S.P.A.",
-  "bic": "CCRTIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cassacentralebancacreditocooperativodelnord.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCRTIT21XXX"
 }

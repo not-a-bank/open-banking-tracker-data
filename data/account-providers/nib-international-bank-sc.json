@@ -8,7 +8,6 @@
   ],
   "name": "NIB INTERNATIONAL BANK S.C.",
   "legalName": "NIB INTERNATIONAL BANK S.C.",
-  "bic": "NIBIETAAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nibinternationalbanksc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NIBIETAAXXX"
 }

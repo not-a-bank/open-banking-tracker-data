@@ -8,7 +8,6 @@
   ],
   "name": "PCF SECURITIES PTY LTD",
   "legalName": "PCF SECURITIES PTY LTD",
-  "bic": "PCSPAU61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.pcfsecuritiesptyltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PCSPAU61XXX"
 }

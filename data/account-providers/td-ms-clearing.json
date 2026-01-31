@@ -8,7 +8,6 @@
   ],
   "name": "TD MS CLEARING",
   "legalName": "TD MS CLEARING",
-  "bic": "CLERCAT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tdmsclearing.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CLERCAT1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "COMMERZBANK (BUDAPEST) RT.",
   "legalName": "COMMERZBANK (BUDAPEST) RT.",
-  "bic": "COBAHUHXXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.commerzbankbudapestrt.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COBAHUHXXXX"
 }

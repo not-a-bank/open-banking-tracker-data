@@ -8,7 +8,6 @@
   ],
   "name": "CREDIT AGRICOLE S.A. LONDON BRANCH",
   "legalName": "CREDIT AGRICOLE S.A. LONDON BRANCH",
-  "bic": "AGRIGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditagricolesalondonbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AGRIGB2LXXX"
 }

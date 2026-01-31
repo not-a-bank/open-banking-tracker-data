@@ -8,7 +8,6 @@
   ],
   "name": "BANK OF FUKUOKA LTD., THE, LONDON BRANCH",
   "legalName": "BANK OF FUKUOKA LTD., THE, LONDON BRANCH",
-  "bic": "FKBKGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankoffukuokaltdthelondonbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FKBKGB21XXX"
 }

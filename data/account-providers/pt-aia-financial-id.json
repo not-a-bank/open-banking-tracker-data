@@ -8,7 +8,6 @@
   ],
   "name": "PT AIA FINANCIAL",
   "legalName": "PT AIA FINANCIAL",
-  "bic": "AIACIDJ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptaiafinancialid.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIACIDJ1XXX"
 }

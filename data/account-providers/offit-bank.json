@@ -8,7 +8,6 @@
   ],
   "name": "OFFIT BANK",
   "legalName": "OFFIT BANK",
-  "bic": "OFBAUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.offitbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OFBAUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Societe Nigerienne DE Bank (sonibank), Succursale DU Benin",
   "legalName": "SOCIETE NIGERIENNE DE BANK (SONIBANK), SUCCURSALE DU BENIN",
-  "bic": "SONIBANK",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SONIBANK"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "AM FRANCE",
   "legalName": "AM FRANCE",
-  "bic": "FRNNFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amfrance.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FRNNFRP1XXX"
 }

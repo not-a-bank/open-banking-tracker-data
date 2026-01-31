@@ -8,7 +8,6 @@
   ],
   "name": "ISLANDSPOSTUR HF",
   "legalName": "ISLANDSPOSTUR HF",
-  "bic": "ICGIISR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.islandsposturhf.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ICGIISR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GLOBAL SECURITIES S.A. COMISIONISTA DE BOLSA",
   "legalName": "GLOBAL SECURITIES S.A. COMISIONISTA DE BOLSA",
-  "bic": "GSCBCOB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.globalsecuritiessacomisionistadebolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSCBCOB1XXX"
 }

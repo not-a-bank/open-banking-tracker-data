@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS UK LIMITED",
   "legalName": "BNP PARIBAS UK LIMITED",
-  "bic": "BNPBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPBGB21XXX"
 }

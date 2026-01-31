@@ -8,7 +8,6 @@
   ],
   "name": "CREDITO EMILIANO S.P.A.",
   "legalName": "CREDITO EMILIANO S.P.A.",
-  "bic": "BACRIT21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.creditoemilianospa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BACRIT21XXX"
 }

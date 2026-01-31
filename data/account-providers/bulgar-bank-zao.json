@@ -8,7 +8,6 @@
   ],
   "name": "BULGAR BANK ZAO",
   "legalName": "BULGAR BANK ZAO",
-  "bic": "BULGRU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bulgarbankzao.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BULGRU21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "DUBAI EXCHANGE CENTRE L.L.C.",
   "legalName": "DUBAI EXCHANGE CENTRE L.L.C.",
-  "bic": "DEXEAEADXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.dubaiexchangecentrellc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DEXEAEADXXX"
 }

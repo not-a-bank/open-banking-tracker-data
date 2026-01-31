@@ -8,7 +8,6 @@
   ],
   "name": "CERBERUS AB",
   "legalName": "CERBERUS AB",
-  "bic": "CEBSSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cerberusab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEBSSES1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANCO D-MIRO S.A.",
   "legalName": "BANCO D-MIRO S.A.",
-  "bic": "DMIRECE1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodmirosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DMIRECE1XXX"
 }

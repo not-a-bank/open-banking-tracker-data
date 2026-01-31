@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparebanken M\u00f8re",
-  "legalName": "Sparebanken M\u00f8re",
+  "name": "Sparebanken Møre",
+  "legalName": "Sparebanken Møre",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparebanken-more.com.ico",
@@ -23,11 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "SPARNO22XXX"
+  "bic": "SPARNO22"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "FINANCIAL MARKET AUTHORITY",
   "legalName": "FINANCIAL MARKET AUTHORITY",
-  "bic": "FMAFATW1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.financialmarketauthority.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FMAFATW1XXX"
 }

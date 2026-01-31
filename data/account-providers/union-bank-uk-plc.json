@@ -8,7 +8,6 @@
   ],
   "name": "UNION BANK UK PLC",
   "legalName": "UNION BANK UK PLC",
-  "bic": "UBNIGB2LXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.unionbankukplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UBNIGB2LXXX"
 }

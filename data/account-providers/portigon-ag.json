@@ -8,7 +8,6 @@
   ],
   "name": "PORTIGON AG",
   "legalName": "PORTIGON AG",
-  "bic": "WELACNS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.portigonag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WELACNS1XXX"
 }

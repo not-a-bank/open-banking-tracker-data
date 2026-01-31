@@ -8,7 +8,6 @@
   ],
   "name": "COELI FONDER AB",
   "legalName": "COELI FONDER AB",
-  "bic": "COONSES1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.coelifonderab.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "COONSES1XXX"
 }

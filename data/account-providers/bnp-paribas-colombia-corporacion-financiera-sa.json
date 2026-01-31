@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
   "legalName": "BNP PARIBAS COLOMBIA CORPORACION FINANCIERA S.A.",
-  "bic": "BNPACOBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibascolombiacorporacionfinancierasa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPACOBBXXX"
 }

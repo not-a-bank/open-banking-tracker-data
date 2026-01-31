@@ -8,7 +8,6 @@
   ],
   "name": "UTR8 BV",
   "legalName": "UTR8 BV",
-  "bic": "UTRUNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.utr8bv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "UTRUNL21XXX"
 }

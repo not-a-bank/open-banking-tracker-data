@@ -8,7 +8,6 @@
   ],
   "name": "SOFIRIF - COOPERATIVE FINANCIERE DE LA REGION ILE DE FRANCE SA",
   "legalName": "SOFIRIF - COOPERATIVE FINANCIERE DE LA REGION ILE DE FRANCE SA",
-  "bic": "SCFEFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sofirifcooperativefinancieredelaregionilede.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCFEFR21XXX"
 }

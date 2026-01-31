@@ -8,7 +8,6 @@
   ],
   "name": "PRINCETON CAPITAL MANAGEMENT",
   "legalName": "PRINCETON CAPITAL MANAGEMENT",
-  "bic": "PRPNUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.princetoncapitalmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PRPNUS31XXX"
 }

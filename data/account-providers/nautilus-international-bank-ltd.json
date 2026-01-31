@@ -8,7 +8,6 @@
   ],
   "name": "NAUTILUS INTERNATIONAL BANK LTD",
   "legalName": "NAUTILUS INTERNATIONAL BANK LTD",
-  "bic": "NAIOVUV1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nautilusinternationalbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NAIOVUV1XXX"
 }

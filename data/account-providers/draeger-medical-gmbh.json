@@ -8,7 +8,6 @@
   ],
   "name": "DRAEGER MEDICAL GMBH",
   "legalName": "DRAEGER MEDICAL GMBH",
-  "bic": "DRMGDE21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.draegermedicalgmbh.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DRMGDE21XXX"
 }

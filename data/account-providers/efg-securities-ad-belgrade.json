@@ -8,7 +8,6 @@
   ],
   "name": "EFG SECURITIES A.D. BELGRADE",
   "legalName": "EFG SECURITIES A.D. BELGRADE",
-  "bic": "EFSBRSB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.efgsecuritiesadbelgrade.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EFSBRSB1XXX"
 }

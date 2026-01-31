@@ -8,7 +8,6 @@
   ],
   "name": "RAB CAPITAL PLC",
   "legalName": "RAB CAPITAL PLC",
-  "bic": "RACAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.rabcapitalplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RACAGB21XXX"
 }

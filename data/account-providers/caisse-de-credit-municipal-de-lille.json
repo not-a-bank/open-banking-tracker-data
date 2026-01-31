@@ -8,7 +8,6 @@
   ],
   "name": "CAISSE DE CREDIT MUNICIPAL DE LILLE",
   "legalName": "CAISSE DE CREDIT MUNICIPAL DE LILLE",
-  "bic": "CCMEFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caissedecreditmunicipaldelille.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCMEFR21XXX"
 }

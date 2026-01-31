@@ -8,7 +8,6 @@
   ],
   "name": "GOTTEX BROKERS S.A.",
   "legalName": "GOTTEX BROKERS S.A.",
-  "bic": "GOBOCH21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.gottexbrokerssa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GOBOCH21XXX"
 }

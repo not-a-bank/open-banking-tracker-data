@@ -8,7 +8,6 @@
   ],
   "name": "GHL BANK LTD",
   "legalName": "GHL BANK LTD",
-  "bic": "GHLLGHACXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ghlbankltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GHLLGHACXXX"
 }

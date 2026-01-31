@@ -8,7 +8,6 @@
   ],
   "name": "323 TRADING B.V.",
   "legalName": "323 TRADING B.V.",
-  "bic": "TRNGNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.323tradingbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TRNGNL21XXX"
 }

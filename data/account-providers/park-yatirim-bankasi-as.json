@@ -8,7 +8,6 @@
   ],
   "name": "PARK YATIRIM BANKASI A.S.",
   "legalName": "PARK YATIRIM BANKASI A.S.",
-  "bic": "PAYATRI1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.parkyatirimbankasias.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PAYATRI1XXX"
 }

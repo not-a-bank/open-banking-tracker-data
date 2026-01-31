@@ -9,7 +9,6 @@
   ],
   "name": "KFW",
   "legalName": "KFW",
-  "bic": "DTABDED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1608488623/icons/kfw-bank-de.jpg",
@@ -32,5 +31,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "DTABDED1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CENTRAL ASIAN BANK",
   "legalName": "CENTRAL ASIAN BANK",
-  "bic": "CEAATJ21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.centralasianbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CEAATJ21XXX"
 }

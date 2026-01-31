@@ -8,7 +8,6 @@
   ],
   "name": "LOCAL TRADERS LTD",
   "legalName": "LOCAL TRADERS LTD",
-  "bic": "LOTAGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.localtradersltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOTAGB21XXX"
 }

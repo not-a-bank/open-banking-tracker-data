@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ALICANTINO DE COMERCIO S.A.",
   "legalName": "BANCO ALICANTINO DE COMERCIO S.A.",
-  "bic": "ALCIESM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoalicantinodecomerciosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALCIESM1XXX"
 }

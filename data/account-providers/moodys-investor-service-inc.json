@@ -8,7 +8,6 @@
   ],
   "name": "MOODY'S INVESTOR SERVICE INC.",
   "legalName": "MOODY'S INVESTOR SERVICE INC.",
-  "bic": "MOODUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.moodysinvestorserviceinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MOODUS31XXX"
 }

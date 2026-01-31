@@ -8,7 +8,6 @@
   ],
   "name": "BNP PARIBAS FACTOR SA",
   "legalName": "BNP PARIBAS FACTOR SA",
-  "bic": "BNPCFR21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bnpparibasfactorsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNPCFR21XXX"
 }

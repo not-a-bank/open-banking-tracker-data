@@ -8,7 +8,6 @@
   ],
   "name": "Banco Agrario DE Colombia S.a. (formerly Caja DE Credito Agrario Industrial Y Minero)",
   "legalName": "BANCO AGRARIO DE COLOMBIA S.A. (FORMERLY CAJA DE CREDITO AGRARIO INDUSTRIAL Y MINERO)",
-  "bic": "CCAICOBBXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCAICOBBXXX"
 }

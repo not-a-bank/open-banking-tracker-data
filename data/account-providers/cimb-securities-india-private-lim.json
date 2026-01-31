@@ -8,7 +8,6 @@
   ],
   "name": "CIMB SECURITIES (INDIA) PRIVATE LIM",
   "legalName": "CIMB SECURITIES (INDIA) PRIVATE LIM",
-  "bic": "CSIPINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.cimbsecuritiesindiaprivatelim.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CSIPINB1XXX"
 }

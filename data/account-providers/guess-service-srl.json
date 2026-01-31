@@ -8,7 +8,6 @@
   ],
   "name": "GUESS SERVICE S.R.L.",
   "legalName": "GUESS SERVICE S.R.L.",
-  "bic": "GSRVIT31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.guessservicesrl.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSRVIT31XXX"
 }

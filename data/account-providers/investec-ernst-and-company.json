@@ -8,7 +8,6 @@
   ],
   "name": "INVESTEC ERNST AND COMPANY",
   "legalName": "INVESTEC ERNST AND COMPANY",
-  "bic": "ERNCUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.investecernstandcompany.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ERNCUS31XXX"
 }

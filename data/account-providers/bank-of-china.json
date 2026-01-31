@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China",
   "legalName": "BANK OF CHINA",
-  "bic": "BKCHAU2SXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankofchina.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHAU2SXXX"
 }

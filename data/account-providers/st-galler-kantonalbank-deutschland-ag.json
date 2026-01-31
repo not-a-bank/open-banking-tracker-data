@@ -9,7 +9,6 @@
   ],
   "name": "ST. GALLER KANTONALBANK DEUTSCHLAND AG",
   "legalName": "ST. GALLER KANTONALBANK DEUTSCHLAND AG",
-  "bic": "GAKDDEM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/volksbank_de.svg",
@@ -35,5 +34,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GAKDDEM1XXX"
 }

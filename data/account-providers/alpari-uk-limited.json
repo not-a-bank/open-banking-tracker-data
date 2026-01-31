@@ -8,7 +8,6 @@
   ],
   "name": "ALPARI (UK) LIMITED",
   "legalName": "ALPARI (UK) LIMITED",
-  "bic": "AFXLGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alpariuklimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AFXLGB21XXX"
 }

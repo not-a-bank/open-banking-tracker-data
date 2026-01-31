@@ -8,7 +8,6 @@
   ],
   "name": "NORDEA AVTALSPENSIONSFOND MIDI",
   "legalName": "NORDEA AVTALSPENSIONSFOND MIDI",
-  "bic": "NOVDFIH1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nordeaavtalspensionsfondmidi.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOVDFIH1XXX"
 }

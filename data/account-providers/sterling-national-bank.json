@@ -8,7 +8,6 @@
   ],
   "name": "STERLING NATIONAL BANK",
   "legalName": "STERLING NATIONAL BANK",
-  "bic": "STETUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sterlingnationalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "STETUS33XXX"
 }

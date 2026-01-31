@@ -8,7 +8,6 @@
   ],
   "name": "BANCO BAKUN, INC. (A RURAL BANK)",
   "legalName": "BANCO BAKUN, INC. (A RURAL BANK)",
-  "bic": "BKRUPHM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancobakunincaruralbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKRUPHM1XXX"
 }

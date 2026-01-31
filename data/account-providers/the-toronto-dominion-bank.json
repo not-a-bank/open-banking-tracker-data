@@ -8,7 +8,6 @@
   ],
   "name": "THE TORONTO-DOMINION BANK",
   "legalName": "THE TORONTO-DOMINION BANK",
-  "bic": "TDOMTWT1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thetorontodominionbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TDOMTWT1XXX"
 }

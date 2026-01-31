@@ -8,7 +8,6 @@
   ],
   "name": "BANCO SANTANDER PERU S.A.",
   "legalName": "BANCO SANTANDER PERU S.A.",
-  "bic": "BSAPPEPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantanderperusa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BSAPPEPLXXX"
 }

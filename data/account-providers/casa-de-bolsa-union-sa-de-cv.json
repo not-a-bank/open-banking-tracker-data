@@ -8,7 +8,6 @@
   ],
   "name": "CASA DE BOLSA UNION SA DE CV",
   "legalName": "CASA DE BOLSA UNION SA DE CV",
-  "bic": "CABUMXM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.casadebolsaunionsadecv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CABUMXM1XXX"
 }

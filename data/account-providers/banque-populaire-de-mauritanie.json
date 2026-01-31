@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE POPULAIRE DE MAURITANIE",
   "legalName": "BANQUE POPULAIRE DE MAURITANIE",
-  "bic": "BPMAMRMRXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquepopulairedemauritanie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPMAMRMRXXX"
 }

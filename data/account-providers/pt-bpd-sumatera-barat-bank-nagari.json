@@ -8,7 +8,6 @@
   ],
   "name": "PT. BPD SUMATERA BARAT (BANK NAGARI)",
   "legalName": "PT. BPD SUMATERA BARAT (BANK NAGARI)",
-  "bic": "PDSBIDSPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ptbpdsumaterabaratbanknagari.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PDSBIDSPXXX"
 }

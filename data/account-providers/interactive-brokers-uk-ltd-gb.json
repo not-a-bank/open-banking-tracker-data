@@ -8,7 +8,6 @@
   ],
   "name": "INTERACTIVE BROKERS (U.K.) LTD",
   "legalName": "INTERACTIVE BROKERS (U.K.) LTD",
-  "bic": "TIMBGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.interactivebrokersukltdgb.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "TIMBGB21XXX"
 }

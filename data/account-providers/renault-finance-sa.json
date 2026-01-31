@@ -8,7 +8,6 @@
   ],
   "name": "RENAULT FINANCE S.A.",
   "legalName": "RENAULT FINANCE S.A.",
-  "bic": "RENOCH22XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.renaultfinancesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "RENOCH22XXX"
 }

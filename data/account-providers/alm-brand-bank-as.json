@@ -8,7 +8,6 @@
   ],
   "name": "ALM. BRAND BANK A/S",
   "legalName": "ALM. BRAND BANK A/S",
-  "bic": "ALMBDKKKXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.almbrandbankas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ALMBDKKKXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "NATIXIS GLOBAL ASSET MANAGEMENT SA",
   "legalName": "NATIXIS GLOBAL ASSET MANAGEMENT SA",
-  "bic": "NGAAFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.natixisglobalassetmanagementsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NGAAFRP1XXX"
 }

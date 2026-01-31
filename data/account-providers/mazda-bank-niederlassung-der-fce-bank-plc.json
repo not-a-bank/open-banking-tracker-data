@@ -8,7 +8,6 @@
   ],
   "name": "MAZDA BANK NIEDERLASSUNG DER FCE BANK PLC",
   "legalName": "MAZDA BANK NIEDERLASSUNG DER FCE BANK PLC",
-  "bic": "MAZDDED1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.mazdabankniederlassungderfcebankplc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MAZDDED1XXX"
 }

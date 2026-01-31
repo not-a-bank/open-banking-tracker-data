@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ORIGINAL S.A.",
   "legalName": "BANCO ORIGINAL S.A.",
-  "bic": "BORIKYKYXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancooriginalsaky.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BORIKYKYXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "Bank OF China (central AND Eastern Europe) Limited",
   "legalName": "BANK OF CHINA (CENTRAL AND EASTERN EUROPE) LIMITED",
-  "bic": "BKCHHUHBXXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BKCHHUHBXXX"
 }

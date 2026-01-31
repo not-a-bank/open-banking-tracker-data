@@ -8,7 +8,6 @@
   ],
   "name": "AMAN FOR SECURITIES",
   "legalName": "AMAN FOR SECURITIES",
-  "bic": "AMSIJOA1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.amanforsecurities.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AMSIJOA1XXX"
 }

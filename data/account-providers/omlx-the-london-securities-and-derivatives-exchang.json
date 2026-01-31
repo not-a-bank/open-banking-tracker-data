@@ -8,7 +8,6 @@
   ],
   "name": "OMLX, THE LONDON SECURITIES AND DERIVATIVES EXCHANGE LIMITED",
   "legalName": "OMLX, THE LONDON SECURITIES AND DERIVATIVES EXCHANGE LIMITED",
-  "bic": "XMLXGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.omlxthelondonsecuritiesandderivativesexchang.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "XMLXGB21XXX"
 }

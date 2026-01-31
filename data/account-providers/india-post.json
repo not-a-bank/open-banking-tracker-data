@@ -8,7 +8,6 @@
   ],
   "name": "INDIA POST",
   "legalName": "INDIA POST",
-  "bic": "IDDIIND1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indiapost.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IDDIIND1XXX"
 }

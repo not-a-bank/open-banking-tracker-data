@@ -8,7 +8,6 @@
   ],
   "name": "NATIONAL BANK OF THE REPUBLIC OF MACEDONIA",
   "legalName": "NATIONAL BANK OF THE REPUBLIC OF MACEDONIA",
-  "bic": "NBRMMK2AXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.nationalbankoftherepublicofmacedonia.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NBRMMK2AXXX"
 }

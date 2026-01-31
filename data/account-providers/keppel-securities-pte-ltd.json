@@ -8,7 +8,6 @@
   ],
   "name": "KEPPEL SECURITIES PTE LTD.",
   "legalName": "KEPPEL SECURITIES PTE LTD.",
-  "bic": "KEPSSGS1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.keppelsecuritiespteltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "KEPSSGS1XXX"
 }

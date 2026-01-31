@@ -8,7 +8,6 @@
   ],
   "name": "Alberta Investment Management Corporation",
   "legalName": "ALBERTA INVESTMENT MANAGEMENT CORPORATION",
-  "bic": "AIMCCA66XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AIMCCA66XXX"
 }

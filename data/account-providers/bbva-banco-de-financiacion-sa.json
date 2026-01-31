@@ -8,7 +8,6 @@
   ],
   "name": "BBVA BANCO DE FINANCIACION, S.A.",
   "legalName": "BBVA BANCO DE FINANCIACION, S.A.",
-  "bic": "BBFIES21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bbvabancodefinanciacionsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BBFIES21XXX"
 }

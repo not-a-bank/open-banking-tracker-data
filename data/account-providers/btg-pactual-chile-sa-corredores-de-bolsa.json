@@ -8,7 +8,6 @@
   ],
   "name": "BTG PACTUAL CHILE S.A. CORREDORES DE BOLSA",
   "legalName": "BTG PACTUAL CHILE S.A. CORREDORES DE BOLSA",
-  "bic": "CCOACLR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.btgpactualchilesacorredoresdebolsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CCOACLR1XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN EUROPE LIMITED (UK), STOCKHOLM BANKFILIAL",
   "legalName": "J.P. MORGAN EUROPE LIMITED (UK), STOCKHOLM BANKFILIAL",
-  "bic": "CHASSESSXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganeuropelimitedukstockholmbankfilial.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASSESSXXX"
 }

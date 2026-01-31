@@ -8,7 +8,6 @@
   ],
   "name": "ENSKILDA, SOCIETE DE BOURSE S.A.",
   "legalName": "ENSKILDA, SOCIETE DE BOURSE S.A.",
-  "bic": "ENSBFRP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.enskildasocietedeboursesa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ENSBFRP1XXX"
 }

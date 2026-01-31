@@ -8,7 +8,6 @@
   ],
   "name": "CAIXA BANCO DE INVESTIMENTO, S.A.",
   "legalName": "CAIXA BANCO DE INVESTIMENTO, S.A.",
-  "bic": "CXBIPTPLXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caixabancodeinvestimentosa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CXBIPTPLXXX"
 }

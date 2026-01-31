@@ -8,7 +8,6 @@
   ],
   "name": "BANQUE DE COMMERCE ET DE PLACEMENTS S.A.",
   "legalName": "BANQUE DE COMMERCE ET DE PLACEMENTS S.A.",
-  "bic": "BPCPCHGGXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.banquedecommerceetdeplacementssa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BPCPCHGGXXX"
 }

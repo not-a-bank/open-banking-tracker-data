@@ -8,7 +8,6 @@
   ],
   "name": "Nova Banka AD Banjaluka",
   "legalName": "NOVA BANKA AD BANJALUKA",
-  "bic": "NOBIBA22XXX",
   "verified": false,
   "status": "live",
   "icon": null,
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOBIBA22XXX"
 }

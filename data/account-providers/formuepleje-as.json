@@ -8,7 +8,6 @@
   ],
   "name": "FORMUEPLEJE A/S",
   "legalName": "FORMUEPLEJE A/S",
-  "bic": "FORJDK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.formueplejeas.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FORJDK21XXX"
 }

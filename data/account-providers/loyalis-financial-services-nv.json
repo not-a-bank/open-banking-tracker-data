@@ -8,7 +8,6 @@
   ],
   "name": "LOYALIS FINANCIAL SERVICES N.V.",
   "legalName": "LOYALIS FINANCIAL SERVICES N.V.",
-  "bic": "LOFSNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.loyalisfinancialservicesnv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LOFSNL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "ANZ BANK (EUROPE) LIMITED",
   "legalName": "ANZ BANK (EUROPE) LIMITED",
-  "bic": "ANMEGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.anzbankeuropelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ANMEGB21XXX"
 }

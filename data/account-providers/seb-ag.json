@@ -8,7 +8,6 @@
   ],
   "name": "SEB AG",
   "legalName": "SEB AG",
-  "bic": "ESSEDE5FXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sebag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ESSEDE5FXXX"
 }

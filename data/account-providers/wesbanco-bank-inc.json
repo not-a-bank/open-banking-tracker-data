@@ -8,7 +8,6 @@
   ],
   "name": "WESBANCO BANK, INC.",
   "legalName": "WESBANCO BANK, INC.",
-  "bic": "WEBCUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.wesbancobankinc.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WEBCUS33XXX"
 }

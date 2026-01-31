@@ -8,7 +8,6 @@
   ],
   "name": "INDEX FINANCIAL SERVICES AG",
   "legalName": "INDEX FINANCIAL SERVICES AG",
-  "bic": "IFGECHZ1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.indexfinancialservicesag.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "IFGECHZ1XXX"
 }

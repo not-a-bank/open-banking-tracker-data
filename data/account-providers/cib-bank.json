@@ -1,0 +1,32 @@
+{
+  "id": "cib-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "CIB Bank",
+  "legalName": "CIB Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.cib-bank.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "HU",
+  "countries": [
+    "HU"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "gocardless"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "CIBHHUHB"
+}

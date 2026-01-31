@@ -8,7 +8,6 @@
   ],
   "name": "HF VERDBREF",
   "legalName": "HF VERDBREF",
-  "bic": "VERRISR1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hfverdbref.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "VERRISR1XXX"
 }

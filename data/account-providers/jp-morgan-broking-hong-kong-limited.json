@@ -8,7 +8,6 @@
   ],
   "name": "J.P. MORGAN BROKING (HONG KONG) LIMITED",
   "legalName": "J.P. MORGAN BROKING (HONG KONG) LIMITED",
-  "bic": "CHASHKK1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jpmorganbrokinghongkonglimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CHASHKK1XXX"
 }

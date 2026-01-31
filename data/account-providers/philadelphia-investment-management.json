@@ -8,7 +8,6 @@
   ],
   "name": "PHILADELPHIA INVESTMENT MANAGEMENT",
   "legalName": "PHILADELPHIA INVESTMENT MANAGEMENT",
-  "bic": "PHIMUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.philadelphiainvestmentmanagement.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PHIMUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SCOTTISH BUILDING SOCIETY",
   "legalName": "SCOTTISH BUILDING SOCIETY",
-  "bic": "SCBSGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scottishbuildingsociety.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SCBSGB21XXX"
 }

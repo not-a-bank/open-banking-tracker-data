@@ -8,7 +8,6 @@
   ],
   "name": "HUATAI FINANCIAL HOLDINGS (HK) LTD",
   "legalName": "HUATAI FINANCIAL HOLDINGS (HK) LTD",
-  "bic": "HUFHHK21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.huataifinancialholdingshkltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HUFHHK21XXX"
 }

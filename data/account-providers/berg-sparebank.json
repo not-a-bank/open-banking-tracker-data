@@ -9,7 +9,6 @@
   ],
   "name": "BERG SPAREBANK",
   "legalName": "BERG SPAREBANK",
-  "bic": "BRGPNO21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://ucarecdn.com/01c82537-50c4-4f21-8d8e-d7370eac3faa/-/preview/170x170/-/crop/180x180/center/NO937885288.png",
@@ -56,11 +55,13 @@
   ],
   "apiAggregators": [
     "enablebanking",
+    "gocardless",
     "neonomics",
     "tink",
     "volt"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BRGPNO21"
 }

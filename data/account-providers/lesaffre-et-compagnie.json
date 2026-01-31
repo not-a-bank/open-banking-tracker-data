@@ -8,7 +8,6 @@
   ],
   "name": "LESAFFRE ET COMPAGNIE",
   "legalName": "LESAFFRE ET COMPAGNIE",
-  "bic": "LECPFRPPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.lesaffreetcompagnie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LECPFRPPXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "GOLDMAN SACHS (INDIA) SECURITIES PRIVATE LIMITED",
   "legalName": "GOLDMAN SACHS (INDIA) SECURITIES PRIVATE LIMITED",
-  "bic": "GSISINB1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.goldmansachsindiasecuritiesprivatelimited.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GSISINB1XXX"
 }

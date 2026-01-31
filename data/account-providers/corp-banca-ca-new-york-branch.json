@@ -8,7 +8,6 @@
   ],
   "name": "CORP BANCA C.A. NEW YORK BRANCH",
   "legalName": "CORP BANCA C.A. NEW YORK BRANCH",
-  "bic": "CONSUS31XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.corpbancacanewyorkbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "CONSUS31XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "MAYBANK SHANGHAI",
   "legalName": "MAYBANK SHANGHAI",
-  "bic": "MBBECNSHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maybankshanghai.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MBBECNSHXXX"
 }

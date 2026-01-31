@@ -8,7 +8,6 @@
   ],
   "name": "KUTXABANK, S.A.",
   "legalName": "KUTXABANK, S.A.",
-  "bic": "BASKES2BXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kutxabanksa.com.ico",
@@ -24,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
     "tink"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BASKES2B"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "BANK SPOLDZIELCZY W LIPNIE",
   "legalName": "BANK SPOLDZIELCZY W LIPNIE",
-  "bic": "LIPNPLP1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bankspoldzielczywlipnie.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LIPNPLP1XXX"
 }

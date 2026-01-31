@@ -8,7 +8,6 @@
   ],
   "name": "CITIGROUP GLOBAL MARKETS INC.",
   "legalName": "CITIGROUP GLOBAL MARKETS INC.",
-  "bic": "SBNYUS33XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.citigroupglobalmarketsincus.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SBNYUS33XXX"
 }

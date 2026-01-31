@@ -8,7 +8,6 @@
   ],
   "name": "BANCO PICHINCHA",
   "legalName": "BANCO PICHINCHA",
-  "bic": "PICHESMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancopichinchaes.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "PICHESMMXXX"
 }

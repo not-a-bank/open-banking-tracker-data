@@ -8,7 +8,6 @@
   ],
   "name": "MORGAN STANLEY AUSTRALIA SECURITIES LTD",
   "legalName": "MORGAN STANLEY AUSTRALIA SECURITIES LTD",
-  "bic": "MSDIAU21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.morganstanleyaustraliasecuritiesltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MSDIAU21XXX"
 }

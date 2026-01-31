@@ -8,7 +8,6 @@
   ],
   "name": "BELFIUS BANK SA/NV",
   "legalName": "BELFIUS BANK SA/NV",
-  "bic": "GKCCBEBBXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.belfiusbanksanv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GKCCBEBBXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
   "legalName": "UBI BANCA SPA (FORMERLY BANCA REGIONALE EUROPEA S.P.A.)",
-  "bic": "BREUITM1XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.ubibancaspaformerlybancaregionaleeuropeaspa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BREUITM1XXX"
 }

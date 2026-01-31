@@ -8,7 +8,6 @@
   ],
   "name": "JONES FINANCIAL GROUP",
   "legalName": "JONES FINANCIAL GROUP",
-  "bic": "JOFGUS61XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.jonesfinancialgroup.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "JOFGUS61XXX"
 }

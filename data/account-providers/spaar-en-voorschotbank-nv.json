@@ -8,7 +8,6 @@
   ],
   "name": "SPAAR- EN VOORSCHOTBANK NV",
   "legalName": "SPAAR- EN VOORSCHOTBANK NV",
-  "bic": "SVOONL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.spaarenvoorschotbanknv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "SVOONL21XXX"
 }

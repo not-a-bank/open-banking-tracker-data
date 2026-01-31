@@ -8,7 +8,6 @@
   ],
   "name": "HONG KONG SAR GOVERNMENT EXCHANGE FUND (HONG KONG MONETARY AUTHORITY)",
   "legalName": "HONG KONG SAR GOVERNMENT EXCHANGE FUND (HONG KONG MONETARY AUTHORITY)",
-  "bic": "HKMAHKHHXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.hongkongsargovernmentexchangefundhongkongm.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HKMAHKHHXXX"
 }

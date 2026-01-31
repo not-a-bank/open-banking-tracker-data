@@ -8,7 +8,6 @@
   ],
   "name": "ALAWWAL BANK",
   "legalName": "ALAWWAL BANK",
-  "bic": "AAALSARIXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.alawwalbank.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "AAALSARIXXX"
 }

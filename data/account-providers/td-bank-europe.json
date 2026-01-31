@@ -8,7 +8,6 @@
   ],
   "name": "TD BANK EUROPE",
   "legalName": "TD BANK EUROPE",
-  "bic": "EUOPGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.tdbankeurope.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "EUOPGB21XXX"
 }

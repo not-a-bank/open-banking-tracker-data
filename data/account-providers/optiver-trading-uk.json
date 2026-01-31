@@ -8,7 +8,6 @@
   ],
   "name": "OPTIVER TRADING UK",
   "legalName": "OPTIVER TRADING UK",
-  "bic": "OPTVGB21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.optivertradinguk.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "OPTVGB21XXX"
 }

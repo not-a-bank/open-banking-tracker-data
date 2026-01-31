@@ -8,7 +8,6 @@
   ],
   "name": "BANCO INTERACCIONES",
   "legalName": "BANCO INTERACCIONES",
-  "bic": "BITEMXMMXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancointeracciones.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BITEMXMMXXX"
 }

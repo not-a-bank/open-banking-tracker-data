@@ -9,7 +9,6 @@
   ],
   "name": "BTG Pactual",
   "legalName": "BANCO BTG PACTUAL S.A.",
-  "bic": "BPABBRRJXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.btgpactual.com.ico",
@@ -40,5 +39,6 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": "BPAC11"
+  "stockSymbol": "BPAC11",
+  "bic": "BPABBRRJXXX"
 }

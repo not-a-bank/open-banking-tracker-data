@@ -8,7 +8,6 @@
   ],
   "name": "ALMAR S.A.",
   "legalName": "ALMAR S.A.",
-  "bic": "LMARUYMTXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.almarsa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "LMARUYMTXXX"
 }

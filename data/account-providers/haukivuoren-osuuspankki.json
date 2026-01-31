@@ -8,7 +8,6 @@
   ],
   "name": "HAUKIVUOREN OSUUSPANKKI",
   "legalName": "HAUKIVUOREN OSUUSPANKKI",
-  "bic": "HAUUFI21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.haukivuorenosuuspankki.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HAUUFI21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "THE BANK OF NEW YORK MELLON",
   "legalName": "THE BANK OF NEW YORK MELLON",
-  "bic": "MELNUS3PXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thebankofnewyorkmellonus3.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MELNUS3PXXX"
 }

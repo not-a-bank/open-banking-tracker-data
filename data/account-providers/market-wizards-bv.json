@@ -8,7 +8,6 @@
   ],
   "name": "MARKET WIZARDS B.V.",
   "legalName": "MARKET WIZARDS B.V.",
-  "bic": "MARWNL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.marketwizardsbv.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "MARWNL21XXX"
 }

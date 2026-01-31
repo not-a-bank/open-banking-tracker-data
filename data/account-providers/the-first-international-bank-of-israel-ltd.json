@@ -8,7 +8,6 @@
   ],
   "name": "THE FIRST INTERNATIONAL BANK OF ISRAEL LTD",
   "legalName": "THE FIRST INTERNATIONAL BANK OF ISRAEL LTD",
-  "bic": "FIRBIL21XXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.thefirstinternationalbankofisraelltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "FIRBIL21XXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "CACEIS BANK, SWITZERLAND BRANCH",
   "legalName": "CACEIS BANK, SWITZERLAND BRANCH",
-  "bic": "ISAECH2NXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.caceisbankswitzerlandbranch.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "ISAECH2NXXX"
 }

@@ -8,7 +8,6 @@
   ],
   "name": "SCOTIABANK (TURKS AND CAICOS) LTD",
   "legalName": "SCOTIABANK (TURKS AND CAICOS) LTD",
-  "bic": "NOSCTCGPXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.scotiabankturksandcaicosltd.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "NOSCTCGPXXX"
 }

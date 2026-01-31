@@ -8,7 +8,6 @@
   ],
   "name": "BANCO ATLAS S.A.",
   "legalName": "BANCO ATLAS S.A.",
-  "bic": "BNITPYPAXXX",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancoatlassa.com.ico",
@@ -26,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "BNITPYPAXXX"
 }
