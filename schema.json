@@ -1221,18 +1221,6 @@
         }
       ]
     },
-    "swiftCode": {
-      "anyOf": [
-        {
-          "type": "string",
-          "description": "SWIFT Code. More info https://en.wikipedia.org/wiki/ISO_9362",
-          "examples": ["CIBCCATT"]
-        },
-        {
-          "type": "null"
-        }
-      ]
-    },
     "ipoStatus": {
       "enum": [
         "public",
