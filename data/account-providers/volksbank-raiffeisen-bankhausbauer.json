@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Bankhaus Bauer Aktiengesellschaft",
@@ -15,7 +16,7 @@
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -31,7 +32,9 @@
   "stockSymbol": "",
   "apiAggregators": [
     "yaxi",
-    "salt-edge"
+    "salt-edge",
+    "gocardless"
   ],
-  "bic": "BHBADES1XXX"
+  "bic": "BHBADES1XXX",
+  "legalName": "Bankhaus Bauer Aktiengesellschaft"
 }

@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "BCC di Roma",
@@ -15,7 +16,7 @@
   "countries": [
     "IT"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "gocardless"
   ],
-  "bic": "ROMAITRR"
+  "bic": "ROMAITRR",
+  "legalName": "BCC Di Roma"
 }

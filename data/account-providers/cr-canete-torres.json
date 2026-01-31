@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "Caja Rural Cañete De Las Torres",
@@ -15,7 +16,7 @@
   "countries": [
     "ES"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -31,7 +32,9 @@
   "stockSymbol": "",
   "apiAggregators": [
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "gocardless"
   ],
-  "bic": "BCOEESMM104"
+  "bic": "BCOEESMM104",
+  "legalName": "Caja Rural Cañete de las Torres"
 }

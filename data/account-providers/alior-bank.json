@@ -4,26 +4,74 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Alior Bank",
   "legalName": "Alior Bank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.alior-bank.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1585235526/radar/icons/aliorbank-pl.png",
+  "websiteUrl": "https://www.aliorbank.pl/",
   "countryHQ": "PL",
   "countries": [
     "PL"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/pl/app/alior-bank/id1226971903?l=pl"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=pl.aliorbank.aib"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developer.aliorbank.pl/openapipl/sb/",
+  "apiStandards": [
+    "POLISHAPI"
+  ],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.aliorbank.pl/openapipl/sb/api-catalogue/accounts-ais",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developer.aliorbank.pl/openapipl/sb/api-catalogue/payments-pis",
+      "apiReferenceUrl": null,
+      "standars": "",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiAggregators": [
-    "gocardless"
+    "gocardless",
+    "plaid",
+    "nordigen",
+    "enablebanking",
+    "fintecture",
+    "salt-edge"
   ],
   "ownership": [],
   "stateOwned": false,

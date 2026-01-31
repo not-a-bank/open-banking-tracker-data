@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "business"
+    "business",
+    "retail"
   ],
   "status": "live",
   "name": "Royal Bank of Scotland ClearSpend",
@@ -15,7 +16,7 @@
   "countries": [
     "GB"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -30,7 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "gocardless"
   ],
-  "bic": "RBSSGBKC"
+  "bic": "RBSSGBKC",
+  "legalName": "Royal Bank of Scotland ClearSpend"
 }

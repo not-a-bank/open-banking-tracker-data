@@ -4,24 +4,93 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Bank of Epirus",
   "legalName": "Bank of Epirus",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.bank-of-epirus.com.ico",
-  "websiteUrl": null,
+  "icon": "https://res.cloudinary.com/apideck/image/upload/v1600383044/icons/epirusbank.jpg",
+  "websiteUrl": "https://www.epirusbank.com/",
   "countryHQ": "GR",
   "countries": [
     "GR"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
-  "apiStandards": [],
-  "apiProducts": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "unknown"
+    }
+  ],
+  "developerPortalUrl": "https://developers.epirusbank.openbank.gr",
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiProducts": [
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.epirusbank.openbank.gr/node/100",
+      "apiReferenceUrl": "https://developers.epirusbank.openbank.gr/node/102",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developers.epirusbank.openbank.gr/ibm_apim/swaggerjson/YWNjb3VudC1pbmZvcm1hdGlvbi1zZXJ2aWNlOjEuMA%2C%2C"
+        }
+      ]
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.epirusbank.openbank.gr/node/106",
+      "apiReferenceUrl": "https://developers.epirusbank.openbank.gr/node/105",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developers.epirusbank.openbank.gr/ibm_apim/swaggerjson/cGF5bWVudC1pbml0aWFsaXNhdGlvbi1zZXJ2aWNlOjEuMA%2C%2C"
+        }
+      ]
+    },
+    {
+      "label": "Confirmation of Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "",
+      "documentationUrl": "https://developers.epirusbank.openbank.gr/node/128",
+      "apiReferenceUrl": "https://developers.epirusbank.openbank.gr/node/127",
+      "premium": false,
+      "stage": "live",
+      "specifications": "BERLIN1.3",
+      "apiSpecs": [
+        {
+          "type": "swagger",
+          "format": "yaml",
+          "url": "https://developers.epirusbank.openbank.gr/ibm_apim/swaggerjson/Y29uZmlybWF0aW9uLW9mLWZ1bmRzLXNlcnZpY2U6MS4w"
+        }
+      ]
+    }
+  ],
   "apiAggregators": [
     "gocardless"
   ],

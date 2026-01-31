@@ -4,26 +4,63 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "ICA Banken",
   "legalName": "ICA Banken",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.ica-banken.com.ico",
-  "websiteUrl": null,
+  "icon": "https://ucarecdn.com/e3e9bf9f-2b92-4579-9268-95827bcfd53a/-/preview/170x170/-/crop/180x180/center/SE5164010190.png",
+  "websiteUrl": "https://www.icabanken.se/",
   "countryHQ": "SE",
   "countries": [
     "SE"
   ],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [],
-  "developerPortalUrl": null,
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "developerPortalUrl": "https://apim-icabanken.ica.se/store",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Accounts API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": null,
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "production"
+    }
+  ],
   "apiAggregators": [
-    "gocardless"
+    "gocardless",
+    "plaid",
+    "nordigen",
+    "enablebanking",
+    "enfuce",
+    "salt-edge",
+    "tink"
   ],
   "ownership": [],
   "stateOwned": false,
