@@ -8,7 +8,9 @@
     "validate-data": "node scripts/validate-all.js",
     "validate-providers": "node scripts/validate.js",
     "validate-aggregators": "node scripts/validate-aggregators.js",
-    "validate-file": "node scripts/validate-file.js"
+    "validate-file": "node scripts/validate-file.js",
+    "scrape:plaid": "python3 scrapers/plaid_scraper.py",
+    "scrape:flinks": "python3 scrapers/flinks_scraper.py"
   },
   "repository": {
     "type": "git",
