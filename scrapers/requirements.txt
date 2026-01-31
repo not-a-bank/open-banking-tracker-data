@@ -1,0 +1,15 @@
+# Requirements for scrapers
+beautifulsoup4>=4.12.0
+
+# Optional: for parsing browser accessibility snapshots (thebanks_eu_scraper.py)
+pyyaml>=6.0
+
+# Required for tink_scraper.py (browser automation for JS-rendered pages)
+# After pip install, run: playwright install chromium
+playwright>=1.40.0
+
+# Note: Plaid scraper loads .env file automatically
+# Create scrapers/.env with:
+#   PLAID_CLIENT_ID=your_client_id
+#   PLAID_SECRET=your_secret
+#   PLAID_ENV=sandbox  # or production

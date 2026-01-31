@@ -7,8 +7,8 @@
     "retail",
     "private"
   ],
-  "name": "Sparda-Bank Nürnberg",
-  "legalName": "Sparda-Bank Nürnberg",
+  "name": "Sparda-Bank N\u00fcrnberg",
+  "legalName": "Sparda-Bank N\u00fcrnberg",
   "verified": false,
   "status": "live",
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/de/sparda_de.svg",
@@ -29,9 +29,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "plaid",
+    "salt-edge",
     "volt",
-    "yaxi",
-    "salt-edge"
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
