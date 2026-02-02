@@ -1,20 +1,17 @@
 {
-  "id": "idbi-bank-ltd",
+  "id": "inter",
   "type": [
     "account"
   ],
-  "bankType": [
-    "retail"
-  ],
-  "name": "IDBI BANK LTD",
-  "legalName": "IDBI BANK LTD",
+  "name": "Inter",
+  "legalName": "Inter",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.idbibankltd.com.ico",
+  "icon": "https://icons.duckduckgo.com/ip3/www.inter.com.ico",
   "websiteUrl": null,
-  "countryHQ": "AE",
+  "countryHQ": "BR",
   "countries": [
-    "AE"
+    "BR"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -22,9 +19,13 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "pluggy"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "IBKLAEADXXX"
+  "bankType": [
+    "retail"
+  ]
 }

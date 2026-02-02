@@ -1,0 +1,35 @@
+{
+  "id": "finverse",
+  "label": "Finverse",
+  "website": "https://www.finverse.com/",
+  "iconUrl": "https://www.finverse.com/favicon.ico",
+  "twitter": "finabordo",
+  "developerPortalUrl": "https://docs.finverse.com/",
+  "countryHQ": "HK",
+  "verified": false,
+  "description": "Open finance infrastructure for Asia-Pacific, connecting to banks and financial institutions across Hong Kong, Singapore, Philippines, Indonesia, and other APAC markets",
+  "marketCoverage": {
+    "live": [
+      "HK",
+      "ID",
+      "MY",
+      "PH",
+      "SG",
+      "VN"
+    ]
+  },
+  "bankCount": 42,
+  "lastUpdated": "2026-02-02T16:42:14.667062",
+  "coverage": {
+    "byCountry": {
+      "null": 6,
+      "HK": 1,
+      "SG": 5,
+      "MY": 7,
+      "PH": 9,
+      "VN": 8,
+      "ID": 6
+    },
+    "total": 42
+  }
+}

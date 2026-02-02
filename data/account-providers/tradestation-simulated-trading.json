@@ -1,0 +1,30 @@
+{
+  "id": "tradestation-simulated-trading",
+  "type": [
+    "investment",
+    "brokerage"
+  ],
+  "name": "TradeStation Simulated Trading",
+  "legalName": "TradeStation Simulated Trading",
+  "verified": false,
+  "status": "live",
+  "icon": "https://passiv-brokerage-logos.s3.ca-central-1.amazonaws.com/tradestation-logo-square.png",
+  "websiteUrl": "https://www.tradestation.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "snaptrade"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "desription": "Simulated trading for stocks, ETFs, futures, options, or crypto with reliable execution on powerful platforms, broad market access, and competitive pricing models."
+}

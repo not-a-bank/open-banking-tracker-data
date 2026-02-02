@@ -1,0 +1,29 @@
+{
+  "id": "binance",
+  "type": [
+    "crypto"
+  ],
+  "name": "Binance",
+  "legalName": "Binance",
+  "verified": false,
+  "status": "live",
+  "icon": "https://passiv-brokerage-logos.s3.ca-central-1.amazonaws.com/binance-logo-square.png",
+  "websiteUrl": "https://binance.com",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "snaptrade"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "desription": "Binance Exchange is the largest crypto exchange by trade volume and one of the fastest crypto exchanges in the world."
+}

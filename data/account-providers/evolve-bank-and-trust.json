@@ -4,16 +4,18 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "commercial"
   ],
-  "name": "Evolve Bank and Trust",
-  "description": "For more than 90 years, we've had one mission: to serve you like a hometown bank should. We have branches throughout Arkansas and Tennessee, comprised of well-established and seasoned banking professionals.",
+  "name": "Evolve Bank & Trust",
+  "description": "Evolve Bank & Trust is a leading Banking-as-a-Service (BaaS) provider and FDIC-insured bank headquartered in West Memphis, Arkansas. Founded in 1925 as First State Bank, Evolve established its Open Banking division in 2017 to provide API-driven BaaS solutions. The bank powers financial services for major fintech companies including Affirm, Mercury, Stripe, Marqeta, Branch, Melio, Step, and Wise. Evolve's Open Banking platform enables partners to offer card issuing (Visa, Mastercard, American Express), payment processing, account services, and embedded finance solutions at scale. With 26 branch locations across Arkansas and Tennessee, Evolve combines traditional community banking with modern fintech infrastructure.",
   "legalName": "Evolve Bancorp, Inc.",
   "ipoStatus": "private",
   "verified": false,
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1566677487/radar/icons/evolve-bank-and-trust.jpg",
-  "websiteUrl": "https://getevolved.com",
+  "websiteUrl": "https://www.getevolved.com/",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Evolve_Bank_%26_Trust",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "US",
@@ -21,23 +23,238 @@
     "US"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "sandbox": {
+    "status": "available",
+    "sourceUrl": "https://developers.getevolved.com/"
+  },
+  "developerPortalUrl": "https://developers.getevolved.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
-  "apiAuth": [],
-  "apiProducts": [],
+  "apiAuth": [
+    "OAUTH2"
+  ],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Card Issuing",
+      "type": "cards",
+      "categories": ["cards", "payments"],
+      "description": "White-label card issuing services supporting Visa, Mastercard, and American Express. Enables fintechs to launch debit, credit, and prepaid card programs with full program management, BIN sponsorship, and compliance support.",
+      "documentationUrl": "https://developers.getevolved.com/enterprise/docs",
+      "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Card Acquiring",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Card acquiring services supporting purchase (pull) transactions, Push to Card disbursements, Remote Payment & Presentment Service (RPPS), and tokenized card storage for repeat transactions.",
+      "documentationUrl": "https://developers.getevolved.com/enterprise/docs/getting-started",
+      "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Virtual Accounts",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "FDIC-insured deposit accounts and virtual account services for fintechs to offer banking products to their customers. Supports account opening, transaction management, and balance inquiries.",
+      "documentationUrl": "https://developers.getevolved.com/enterprise/docs",
+      "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "ACH Payments",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "ACH origination and processing services enabling partners to initiate bank-to-bank transfers, direct deposits, and recurring payments through the Automated Clearing House network.",
+      "documentationUrl": "https://developers.getevolved.com/enterprise/docs",
+      "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Wire Transfers",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Domestic and international wire transfer capabilities for high-value, time-sensitive payments.",
+      "documentationUrl": "https://developers.getevolved.com/enterprise/docs",
+      "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
+  "apiStatusUrls": [
+    {
+      "url": "https://status.getevolved.com/"
+    }
+  ],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "collections": [],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/evolve-digital-banking/id6449748440"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.getevolved.grip"
+    }
+  ],
   "stockSymbol": null,
   "investorRelationsUrl": null,
   "financialReports": [],
-  "twitter": "https://www.twitter.com/getevolved1925",
+  "twitter": "getevolved1925",
   "crunchbase": null,
-  "bloomberg": "https://www.bloomberg.com/profile/company/472048Z:US",
-  "github": "",
-  "apiAggregators": [
-    "plaid"
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    "visa",
+    "mastercard"
+  ],
+  "creditCards": [],
+  "virtualCards": [
+    "visa",
+    "mastercard"
+  ],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "id": "affirm",
+      "name": "Affirm",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1599472968/radar/icons/affirm.jpg",
+      "websiteUrl": "https://www.affirm.com/",
+      "sourceUrl": "https://www.getevolved.com/openbanking/partners/"
+    },
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614709718/radar/icons/mercury.jpg",
+      "websiteUrl": "https://mercury.com/",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Evolve_Bank_%26_Trust"
+    },
+    {
+      "id": "stripe",
+      "name": "Stripe",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531306175/catalog/stripe/icon128x128.png",
+      "websiteUrl": "https://stripe.com/",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Evolve_Bank_%26_Trust"
+    },
+    {
+      "id": "marqeta",
+      "name": "Marqeta",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614711091/radar/icons/marqeta.jpg",
+      "websiteUrl": "https://www.marqeta.com/",
+      "sourceUrl": "https://marqeta.com/blog/evolve-bank-partnership"
+    },
+    {
+      "id": "branch",
+      "name": "Branch",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1597932107/radar/icons/branch.jpg",
+      "websiteUrl": "https://www.branchapp.com/",
+      "sourceUrl": "https://www.getevolved.com/openbanking/partners/"
+    },
+    {
+      "id": "melio",
+      "name": "Melio",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614710558/radar/icons/melio.jpg",
+      "websiteUrl": "https://meliopayments.com/",
+      "sourceUrl": "https://www.getevolved.com/openbanking/partners/"
+    },
+    {
+      "id": "step",
+      "name": "Step",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614710836/radar/icons/step.jpg",
+      "websiteUrl": "https://step.com/",
+      "sourceUrl": "https://www.getevolved.com/openbanking/partners/"
+    },
+    {
+      "id": "earnin",
+      "name": "Earnin",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1597877358/radar/icons/earnin.jpg",
+      "websiteUrl": "https://www.earnin.com/",
+      "sourceUrl": "https://www.getevolved.com/openbanking/partners/"
+    },
+    {
+      "id": "airwallex",
+      "name": "Airwallex",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614710278/radar/icons/airwallex.jpg",
+      "websiteUrl": "https://www.airwallex.com/",
+      "sourceUrl": "https://www.getevolved.com/openbanking/partners/"
+    },
+    {
+      "id": "tabapay",
+      "name": "TabaPay",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614710558/radar/icons/tabapay.jpg",
+      "websiteUrl": "https://tabapay.com/",
+      "sourceUrl": "https://www.getevolved.com/openbanking/partners/"
+    },
+    {
+      "id": "wise",
+      "name": "Wise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567835699/radar/icons/transferwise.jpg",
+      "websiteUrl": "https://wise.com/",
+      "sourceUrl": "https://wise.com/help/articles/1Tyvn34K9tp08aZ0y0Hqe0/data-breach-at-evolve-bank-trust-in-the-us"
+    },
+    {
+      "id": "mbanq",
+      "name": "Mbanq",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1614710558/radar/icons/mbanq.jpg",
+      "websiteUrl": "https://www.mbanq.com/",
+      "sourceUrl": "https://www.getevolved.com/openbanking/partners/"
+    }
+  ],
+  "rewardPartners": [],
+  "integrations": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567834059/radar/icons/visa.png",
+      "websiteUrl": "https://usa.visa.com/"
+    },
+    {
+      "id": "mastercard",
+      "name": "Mastercard",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567834059/radar/icons/mastercard.png",
+      "websiteUrl": "https://www.mastercard.com/"
+    }
+  ],
+  "platforms": [],
+  "awards": [],
+  "dataBreaches": [
+    {
+      "date": "2024-06-26",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/arkansas-based-evolve-bank-confirms-cyber-attack-data-breach-2024-06-26/"
+    }
+  ],
+  "articles": [
+    {
+      "date": "2024-06-14",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20240614a.htm"
+    },
+    {
+      "date": "2022-05-19",
+      "url": "https://marqeta.com/blog/evolve-bank-partnership"
+    }
   ]
 }

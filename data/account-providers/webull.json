@@ -1,0 +1,30 @@
+{
+  "id": "webull",
+  "type": [
+    "investment",
+    "brokerage"
+  ],
+  "name": "Webull",
+  "legalName": "Webull",
+  "verified": false,
+  "status": "live",
+  "icon": "https://passiv-brokerage-logos.s3.ca-central-1.amazonaws.com/webull-logo-square.jpg",
+  "websiteUrl": "https://www.webull.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "snaptrade"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "desription": "Webull Financial LLC offers an electronic trading platform, for the commission-free trading of stocks, exchange traded funds, options, margins, and cryptocurrencies."
+}

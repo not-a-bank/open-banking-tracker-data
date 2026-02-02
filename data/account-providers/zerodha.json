@@ -1,0 +1,30 @@
+{
+  "id": "zerodha",
+  "type": [
+    "investment",
+    "brokerage"
+  ],
+  "name": "Zerodha",
+  "legalName": "Zerodha",
+  "verified": false,
+  "status": "live",
+  "icon": "https://passiv-brokerage-logos.s3.ca-central-1.amazonaws.com/zerodha-logo-square.png",
+  "websiteUrl": "https://zerodha.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "snaptrade"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "desription": "Zerodha is the largest stock brokerage firm in India with more than 4 million clients."
+}

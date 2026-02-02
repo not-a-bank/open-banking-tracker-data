@@ -124,6 +124,94 @@
           "examples": [["BR", "AR"]]
         }
       }
+    },
+    "description": {
+      "title": "Description",
+      "type": "string",
+      "description": "Brief description of the API aggregator and its services",
+      "examples": ["Open finance infrastructure for Latin America", "Investment account aggregator for portfolio tracking"]
+    },
+    "note": {
+      "title": "Note",
+      "type": "string",
+      "description": "Additional notes or special information about the aggregator",
+      "examples": ["Aggregator of aggregators, inherits coverage from multiple providers"]
+    },
+    "upstreamAggregators": {
+      "title": "Upstream Aggregators",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9-]+$"
+      },
+      "description": "For meta-aggregators: list of aggregator IDs this service inherits coverage from",
+      "examples": [["gocardless", "mx", "finicity", "plaid"]]
+    },
+    "connectorCount": {
+      "title": "Connector Count",
+      "type": "integer",
+      "minimum": 0,
+      "description": "Total number of bank/institution connectors supported",
+      "examples": [98, 250]
+    },
+    "brokerageCount": {
+      "title": "Brokerage Count",
+      "type": "integer",
+      "minimum": 0,
+      "description": "Total number of brokerages supported (for investment aggregators)",
+      "examples": [24, 50]
+    },
+    "integrationCount": {
+      "title": "Integration Count",
+      "type": "integer",
+      "minimum": 0,
+      "description": "Total number of integrations supported",
+      "examples": [70, 100]
+    },
+    "bankCount": {
+      "title": "Bank Count",
+      "type": "integer",
+      "minimum": 0,
+      "description": "Total number of banks supported",
+      "examples": [42, 150]
+    },
+    "lastUpdated": {
+      "title": "Last Updated",
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of when this data was last updated by a scraper",
+      "examples": ["2024-01-15T10:30:00Z"]
+    },
+    "coverage": {
+      "title": "Coverage Details",
+      "type": "object",
+      "description": "Detailed breakdown of coverage statistics",
+      "properties": {
+        "total": {
+          "type": "integer",
+          "description": "Total number of institutions covered"
+        },
+        "banks": {
+          "type": "integer",
+          "description": "Number of banks covered"
+        },
+        "investments": {
+          "type": "integer",
+          "description": "Number of investment platforms covered"
+        },
+        "tradingEnabled": {
+          "type": "integer",
+          "description": "Number of institutions with trading enabled"
+        },
+        "byCountry": {
+          "type": "object",
+          "description": "Institution count by country code",
+          "additionalProperties": {
+            "type": "integer"
+          }
+        }
+      },
+      "additionalProperties": true
     }
   },
   "additionalProperties": false

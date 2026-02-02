@@ -1,0 +1,30 @@
+{
+  "id": "schwab",
+  "type": [
+    "investment",
+    "brokerage"
+  ],
+  "name": "Schwab",
+  "legalName": "Schwab",
+  "verified": false,
+  "status": "live",
+  "icon": "https://passiv-brokerage-logos.s3.ca-central-1.amazonaws.com/schwab-logo-square.png",
+  "websiteUrl": "https://www.schwab.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "snaptrade"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "desription": "Schwab is an American multinational financial services corporation based in San Francisco, California."
+}

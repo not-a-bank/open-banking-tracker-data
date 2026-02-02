@@ -1,0 +1,45 @@
+{
+  "id": "smartbroker",
+  "type": [
+    "brokerage",
+    "investment"
+  ],
+  "name": "Smartbroker",
+  "description": "Smartbroker is a German online broker offering low-cost trading of stocks, ETFs, funds, and derivatives.",
+  "legalName": "Smartbroker AG",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/smartbroker.de.ico",
+  "websiteUrl": "https://smartbroker.de/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/smartbroker/id1603498067"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.smartbroker.app"
+    }
+  ]
+}

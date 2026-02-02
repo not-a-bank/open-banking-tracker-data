@@ -163,9 +163,10 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "klarna",
-    "salt-edge",
+    "leantech",
     "moneyhub-enterprise",
-    "leantech"
+    "pluggy",
+    "salt-edge"
   ],
   "collections": [],
   "webApplication": true,

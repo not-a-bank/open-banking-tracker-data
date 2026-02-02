@@ -1,0 +1,53 @@
+{
+  "id": "santander-uk",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Santander UK",
+  "description": "Santander UK is a British bank, part of the Spanish Santander Group, providing retail and commercial banking services.",
+  "legalName": "Santander UK plc",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.santander.co.uk.ico",
+  "websiteUrl": "https://www.santander.co.uk/",
+  "ownership": [
+    {
+      "shareholderName": "Banco Santander",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/www.santander.com.ico",
+      "providerId": "santander"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.santander.co.uk/",
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/gb/app/santander-mobile-banking/id479215294"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=uk.co.santander.santanderUK"
+    }
+  ]
+}

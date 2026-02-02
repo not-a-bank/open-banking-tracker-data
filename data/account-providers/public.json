@@ -1,0 +1,30 @@
+{
+  "id": "public",
+  "type": [
+    "investment",
+    "brokerage"
+  ],
+  "name": "Public",
+  "legalName": "Public",
+  "verified": false,
+  "status": "live",
+  "icon": "https://passiv-brokerage-logos.s3.ca-central-1.amazonaws.com/public-logo-square.png",
+  "websiteUrl": "https://public.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "snaptrade"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "desription": "In 2019, we launched Public, an investing platform with a mission to make the public markets work for all people. We started by introducing the world to fractional investing. Then, we set our sights on creating a new kind of multi-asset investing experience."
+}

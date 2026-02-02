@@ -1,0 +1,30 @@
+{
+  "id": "alpaca-paper",
+  "type": [
+    "investment",
+    "brokerage"
+  ],
+  "name": "Alpaca Paper",
+  "legalName": "Alpaca Paper",
+  "verified": false,
+  "status": "live",
+  "icon": "https://passiv-brokerage-logos.s3.ca-central-1.amazonaws.com/alpaca-logo-square.png",
+  "websiteUrl": "https://alpaca.markets/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "snaptrade"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "desription": "Paper trading accounts for Alpaca."
+}

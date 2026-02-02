@@ -1,0 +1,48 @@
+{
+  "id": "raiffeisen-at",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "cooperative",
+    "retail"
+  ],
+  "name": "Raiffeisen Austria",
+  "description": "Raiffeisen Bank is an Austrian cooperative banking group, part of the Raiffeisen Banking Group Austria.",
+  "legalName": "Raiffeisen Bank International AG",
+  "ipoStatus": "public",
+  "stockSymbol": "VIE:RBI",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisen.at.ico",
+  "websiteUrl": "https://www.raiffeisen.at/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/at/app/mein-elba/id409889668"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=at.raiffeisen.elba"
+    }
+  ]
+}

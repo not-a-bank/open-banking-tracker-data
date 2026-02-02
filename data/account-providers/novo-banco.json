@@ -1,0 +1,47 @@
+{
+  "id": "novo-banco",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Novo Banco",
+  "description": "Novo Banco is a Portuguese bank created in 2014 from the healthy assets of Banco Espírito Santo.",
+  "legalName": "Novo Banco, S.A.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.novobanco.pt.ico",
+  "websiteUrl": "https://www.novobanco.pt/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "PT",
+  "countries": [
+    "PT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/pt/app/nb-smart/id1031870999"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=novobanco.android.smartbanking"
+    }
+  ]
+}

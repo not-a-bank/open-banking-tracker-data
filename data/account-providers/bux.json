@@ -1,0 +1,52 @@
+{
+  "id": "bux",
+  "type": [
+    "brokerage",
+    "investment"
+  ],
+  "name": "BUX",
+  "description": "BUX is a Dutch neobroker offering commission-free investing in stocks, ETFs, and crypto across Europe.",
+  "legalName": "BUX B.V.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/getbux.com.ico",
+  "websiteUrl": "https://getbux.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "NL",
+  "countries": [
+    "NL",
+    "DE",
+    "AT",
+    "FR",
+    "BE",
+    "IE",
+    "ES",
+    "IT"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/bux-zero/id1439277498"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.getbux.android.buxzero"
+    }
+  ]
+}

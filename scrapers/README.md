@@ -102,6 +102,101 @@ https://docs.google.com/spreadsheets/d/1EZ5n7QDGaRIot5M86dwqd5UFSGEDTeTRzEq3D9uE
 
 **Coverage:** AT, BE, BG, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IS, IT, LI, LT, LU, LV, MT, NL, NO, PL, PT, RO, SE, SI, SK (31 European countries)
 
+---
+
+### Pluggy Scraper
+
+Updates Pluggy's coverage data (Brazilian open finance).
+
+```bash
+python3 scrapers/pluggy_scraper.py
+python3 scrapers/pluggy_scraper.py --update-providers
+```
+
+**Features:**
+- Scrapes connector data from Pluggy documentation
+- Supports both personal and business connectors
+- Includes Open Finance regulated institutions
+
+**Coverage:** Brazil, Mexico
+
+---
+
+### Akahu Scraper
+
+Updates Akahu's coverage data (New Zealand open banking).
+
+```bash
+python3 scrapers/akahu_scraper.py
+python3 scrapers/akahu_scraper.py --update-providers
+```
+
+**Features:**
+- Scrapes integration data from Akahu developer docs
+- Covers banks, investment platforms, and KiwiSaver providers
+- Includes major NZ banks: ANZ, ASB, BNZ, Kiwibank, Westpac
+
+**Coverage:** New Zealand
+
+---
+
+### Finverse Scraper
+
+Updates Finverse's coverage data (Asia-Pacific open finance).
+
+```bash
+python3 scrapers/finverse_scraper.py
+python3 scrapers/finverse_scraper.py --update-providers
+```
+
+**Features:**
+- Scrapes bank coverage from Finverse website
+- Covers 6 Asia-Pacific markets
+- Includes major banks in each market
+
+**Coverage:** Hong Kong, Singapore, Malaysia, Philippines, Vietnam, Indonesia
+
+---
+
+### SnapTrade Scraper
+
+Updates SnapTrade's coverage data (investment/brokerage aggregator).
+
+```bash
+python3 scrapers/snaptrade_scraper.py
+python3 scrapers/snaptrade_scraper.py --update-providers
+```
+
+**Features:**
+- Fetches brokerage data from SnapTrade's public API
+- Includes trading capability information
+- Covers brokerages in US, Canada, Europe, Australia
+
+**Coverage:** US, Canada, UK, Australia, and other markets
+
+---
+
+### Tink Scraper
+
+Updates Tink's market coverage and bank provider data.
+
+```bash
+python3 scrapers/tink_scraper.py
+```
+
+**Options:**
+- `--from-csvs DIR` - Parse from downloaded CSV files
+- `--from-snapshots DIR` - Parse from browser snapshots
+- `--coverage-only` - Only update market coverage
+- `--skip-providers` - Skip updating account provider files
+
+**Features:**
+- Browser automation via Playwright to download CSV data per market
+- Updates market coverage in `data/api-aggregators/tink.json`
+- Creates/updates account provider entries with `tink` in `apiAggregators`
+
+**Coverage:** 19 European countries
+
 ## Output
 
 Each scraper updates:

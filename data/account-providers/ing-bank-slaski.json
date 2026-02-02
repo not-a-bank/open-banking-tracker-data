@@ -1,0 +1,53 @@
+{
+  "id": "ing-bank-slaski",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "ING Bank Śląski",
+  "description": "ING Bank Śląski is a Polish bank, part of the ING Group, providing retail and corporate banking services.",
+  "legalName": "ING Bank Śląski S.A.",
+  "ipoStatus": "public",
+  "stockSymbol": "WSE:ING",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.ing.pl.ico",
+  "websiteUrl": "https://www.ing.pl/",
+  "ownership": [
+    {
+      "shareholderName": "ING Group",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/www.ing.com.ico",
+      "providerId": "ing"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "PL",
+  "countries": [
+    "PL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/pl/app/moje-ing-mobile/id553abordo"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=pl.ing.mojeing"
+    }
+  ]
+}
