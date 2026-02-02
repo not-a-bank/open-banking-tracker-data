@@ -66,11 +66,12 @@
     }
   ],
   "apiAggregators": [
-    "gocardless",
-    "plaid",
     "friendlyscore",
-    "truelayer",
-    "moneyhub-enterprise"
+    "gocardless",
+    "lunchflow",
+    "moneyhub-enterprise",
+    "plaid",
+    "truelayer"
   ],
   "ownership": [
     {

@@ -31,10 +31,11 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "gocardless",
+    "lunchflow",
     "salt-edge",
     "volt",
-    "gocardless"
+    "yaxi"
   ],
   "legalName": "NORD/LB",
   "bic": "NOLADE2HXXX"

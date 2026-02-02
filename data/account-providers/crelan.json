@@ -18,7 +18,7 @@
       "shareholderName": "Crelanco - Cooperative of Bank Members",
       "shareholderIconUrl": "https://res.cloudinary.com/banq/image/upload/v1553175199/radar/icons/Crelan.jpg",
       "providerId": null,
-      "percentage": 95.0,
+      "percentage": 95,
       "sourceUrl": "https://www.crelan.be/assets/2018-04/rapport_annuel2017.pdf"
     }
   ],
@@ -101,6 +101,7 @@
     "gocardless",
     "ibanity",
     "klarna",
+    "lunchflow",
     "plaid",
     "salt-edge",
     "tink",

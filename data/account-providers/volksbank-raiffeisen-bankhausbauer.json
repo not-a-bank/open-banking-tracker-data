@@ -31,9 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "gocardless",
+    "lunchflow",
     "salt-edge",
-    "gocardless"
+    "yaxi"
   ],
   "bic": "BHBADES1XXX",
   "legalName": "Bankhaus Bauer Aktiengesellschaft"

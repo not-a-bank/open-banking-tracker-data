@@ -68,9 +68,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
-    "salt-edge",
-    "gocardless"
+    "salt-edge"
   ],
   "sandbox": {
     "status": "available",

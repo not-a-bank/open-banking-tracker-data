@@ -28,9 +28,10 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiAggregators": [
-    "pluggy",
     "belvo",
-    "klavi"
+    "klavi",
+    "lunchflow",
+    "pluggy"
   ],
   "apiProducts": [],
   "apiStandards": [],

@@ -31,8 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge",
-    "gocardless"
+    "gocardless",
+    "lunchflow",
+    "salt-edge"
   ],
   "bic": "BCOEESMM111",
   "legalName": "Caja Rural San Isidro Vall D'Uxo"

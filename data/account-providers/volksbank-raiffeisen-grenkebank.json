@@ -31,11 +31,12 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
-    "salt-edge",
     "gocardless",
+    "lunchflow",
+    "salt-edge",
     "tink",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "bic": "GREBDEH1XXX",
   "legalName": "GRENKE BANK AG"
