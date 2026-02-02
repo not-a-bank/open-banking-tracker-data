@@ -31,9 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
-    "salt-edge",
-    "gocardless"
+    "salt-edge"
   ],
   "bic": "BCOEESMM104",
   "legalName": "Caja Rural Cañete de las Torres"

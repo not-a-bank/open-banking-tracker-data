@@ -1,0 +1,32 @@
+{
+  "id": "uob",
+  "type": [
+    "account"
+  ],
+  "name": "UOB",
+  "legalName": "UOB",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.uob.com.ico",
+  "websiteUrl": null,
+  "countryHQ": "HK",
+  "countries": [
+    "HK"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "finverse",
+    "lunchflow"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bankType": [
+    "retail"
+  ]
+}

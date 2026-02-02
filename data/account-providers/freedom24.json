@@ -1,0 +1,59 @@
+{
+  "id": "freedom24",
+  "type": [
+    "brokerage",
+    "investment"
+  ],
+  "name": "Freedom24",
+  "description": "Freedom24 is a European online broker offering access to US, European, and Asian stock exchanges with IPO participation.",
+  "legalName": "Freedom Finance Europe Ltd",
+  "ipoStatus": "public",
+  "stockSymbol": "NASDAQ:FRHC",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/freedom24.com.ico",
+  "websiteUrl": "https://freedom24.com/",
+  "ownership": [
+    {
+      "shareholderName": "Freedom Holding Corp",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/freedomholdingcorp.com.ico"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "CY",
+  "countries": [
+    "DE",
+    "FR",
+    "ES",
+    "IT",
+    "NL",
+    "BE",
+    "AT",
+    "GR",
+    "PL",
+    "CZ"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/freedom24/id1541558771"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=online.freedom24"
+    }
+  ]
+}

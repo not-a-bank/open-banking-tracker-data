@@ -1,0 +1,61 @@
+{
+  "id": "trade-republic",
+  "type": [
+    "brokerage",
+    "investment"
+  ],
+  "name": "Trade Republic",
+  "description": "Trade Republic is a German mobile-only neobroker offering commission-free trading of stocks, ETFs, derivatives, and cryptocurrencies.",
+  "legalName": "Trade Republic Bank GmbH",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/traderepublic.com.ico",
+  "websiteUrl": "https://traderepublic.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE",
+    "AT",
+    "FR",
+    "ES",
+    "IT",
+    "NL",
+    "BE",
+    "PT",
+    "IE",
+    "GR",
+    "FI",
+    "LU",
+    "LT",
+    "LV",
+    "EE",
+    "SK",
+    "SI"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/trade-republic/id1410703839"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.traderepublic.app"
+    }
+  ]
+}

@@ -66,11 +66,12 @@
   ],
   "apiAggregators": [
     "gocardless",
-    "yaxi",
+    "lunchflow",
     "plaid",
-    "truelayer",
     "salt-edge",
-    "tink"
+    "tink",
+    "truelayer",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

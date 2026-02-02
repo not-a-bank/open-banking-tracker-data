@@ -54,11 +54,12 @@
     }
   ],
   "apiAggregators": [
-    "gocardless",
-    "plaid",
-    "nordigen",
     "enablebanking",
     "enfuce",
+    "gocardless",
+    "lunchflow",
+    "nordigen",
+    "plaid",
     "salt-edge",
     "tink"
   ],

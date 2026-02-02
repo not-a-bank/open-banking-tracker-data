@@ -22,7 +22,10 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "lunchflow",
+    "pluggy"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,

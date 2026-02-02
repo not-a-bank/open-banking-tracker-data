@@ -7,8 +7,8 @@
     "industrial"
   ],
   "name": "First Electronic Bank",
-  "description": "First Electronic Bank is headquartered in Salt Lake City, Utah and is a state-chartered, federally insured industrial bank, regulated by the FDIC and Utah Department of Financial Institutions. First Electronic Bank offers revolving private-label bank card and closed-end financing programs through its strategic partners.",
-  "legalName": null,
+  "description": "First Electronic Bank is an FDIC-insured, state-chartered industrial bank headquartered in Salt Lake City, Utah, regulated by the FDIC and Utah Department of Financial Institutions. With over 20 years of operating history and more than $6 billion in loans originated, the bank partners with fintech and financial services providers to offer credit products across the spectrum—from prime to subprime lending, serving both individual consumers and small businesses. First Electronic Bank provides Banking-as-a-Service (BaaS) infrastructure for fintech partners including Visa, Mastercard, and American Express credit card issuance, revolving lines of credit, and closed-end loans. The bank works with leading fintech companies like Imprint and Cardless to issue co-branded credit cards for major retailers, airlines, and hotels.",
+  "legalName": "First Electronic Bank",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -49,15 +49,152 @@
   "prepaidCards": [],
   "prepaidDebitCards": [],
   "debitCards": [],
-  "creditCards": [],
+  "creditCards": [
+    "visa",
+    "mastercard",
+    "amex"
+  ],
   "virtualCards": [],
   "applePay": false,
   "googlePay": false,
   "samsungPay": false,
   "fitbitPay": false,
-  "partnerships": [],
+  "partnerships": [
+    {
+      "id": "imprint",
+      "name": "Imprint",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/imprint-co.png",
+      "websiteUrl": "https://imprint.co/",
+      "description": "Fintech platform powering co-branded credit cards for major retailers and travel brands"
+    },
+    {
+      "id": "cardless",
+      "name": "Cardless",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/cardless.png",
+      "websiteUrl": "https://www.cardless.com/",
+      "description": "Fintech company issuing co-branded airline and retail credit cards"
+    },
+    {
+      "id": "rakuten",
+      "name": "Rakuten",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557989779/catalog/rakuten/icon128x128.png",
+      "websiteUrl": "https://www.rakuten.com/",
+      "description": "Rakuten American Express Card issued via Imprint partnership"
+    },
+    {
+      "id": "booking-com",
+      "name": "Booking.com",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531055738/catalog/booking/icon128x128.png",
+      "websiteUrl": "https://www.booking.com/",
+      "description": "Genius Rewards Credit Card issued via Imprint partnership"
+    },
+    {
+      "id": "turkish-airlines",
+      "name": "Turkish Airlines",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/turkish-airlines.png",
+      "websiteUrl": "https://www.turkishairlines.com/",
+      "description": "Miles&Smiles Premier Visa Signature Card"
+    },
+    {
+      "id": "qatar-airways",
+      "name": "Qatar Airways",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/qatar-airways.png",
+      "websiteUrl": "https://www.qatarairways.com/",
+      "description": "Privilege Club Visa credit cards issued via Cardless partnership"
+    },
+    {
+      "id": "avianca",
+      "name": "Avianca",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/avianca.png",
+      "websiteUrl": "https://www.avianca.com/",
+      "description": "LifeMiles American Express cards issued via Cardless partnership"
+    },
+    {
+      "id": "latam-airlines",
+      "name": "LATAM Airlines",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/latam-airlines.png",
+      "websiteUrl": "https://www.latamairlines.com/",
+      "description": "LATAM Airlines Mastercards issued via Cardless partnership"
+    },
+    {
+      "id": "tap-air-portugal",
+      "name": "TAP Air Portugal",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/tap-air-portugal.png",
+      "websiteUrl": "https://www.flytap.com/",
+      "description": "Miles&Go American Express Card issued via Cardless partnership"
+    },
+    {
+      "id": "brooks-brothers",
+      "name": "Brooks Brothers",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/brooks-brothers.png",
+      "websiteUrl": "https://www.brooksbrothers.com/",
+      "description": "World Mastercard issued via Imprint partnership"
+    },
+    {
+      "id": "eddie-bauer",
+      "name": "Eddie Bauer",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/eddie-bauer.png",
+      "websiteUrl": "https://www.eddiebauer.com/",
+      "description": "World Mastercard issued via Imprint partnership"
+    },
+    {
+      "id": "heb",
+      "name": "H-E-B",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/heb.png",
+      "websiteUrl": "https://www.heb.com/",
+      "description": "H-E-B Visa Signature Card issued via Imprint partnership"
+    },
+    {
+      "id": "simon-property-group",
+      "name": "Simon Property Group",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/simon.png",
+      "websiteUrl": "https://www.simon.com/",
+      "description": "Simon American Express Card issued via Cardless partnership"
+    },
+    {
+      "id": "westgate-resorts",
+      "name": "Westgate Resorts",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/westgate-resorts.png",
+      "websiteUrl": "https://www.westgateresorts.com/",
+      "description": "World of Westgate Mastercard issued via Imprint partnership"
+    },
+    {
+      "id": "holiday-inn-club-vacations",
+      "name": "Holiday Inn Club Vacations",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/holiday-inn-club-vacations.png",
+      "websiteUrl": "https://www.holidayinnclub.com/",
+      "description": "World Mastercard issued via Imprint partnership"
+    },
+    {
+      "id": "coinbase",
+      "name": "Coinbase",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1569192052/catalog/coinbase/icon128x128.png",
+      "websiteUrl": "https://www.coinbase.com/",
+      "description": "Coinbase One Card crypto rewards credit card launched October 2025"
+    },
+    {
+      "id": "fetch-rewards",
+      "name": "Fetch Rewards",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/fetch-rewards.png",
+      "websiteUrl": "https://www.fetchrewards.com/",
+      "description": "Fetch American Express Card"
+    }
+  ],
   "rewardPartners": [],
   "integrations": [],
-  "platforms": [],
+  "platforms": [
+    {
+      "id": "imprint",
+      "name": "Imprint",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/imprint-co.png",
+      "websiteUrl": "https://imprint.co/"
+    },
+    {
+      "id": "cardless",
+      "name": "Cardless",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1705589024/icons/cardless.png",
+      "websiteUrl": "https://www.cardless.com/"
+    }
+  ],
   "awards": []
 }

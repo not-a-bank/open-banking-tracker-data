@@ -1,0 +1,31 @@
+{
+  "id": "fidelity",
+  "type": [
+    "investment",
+    "brokerage"
+  ],
+  "name": "Fidelity",
+  "legalName": "Fidelity",
+  "verified": false,
+  "status": "live",
+  "icon": "https://passiv-brokerage-logos.s3.ca-central-1.amazonaws.com/fidelity-logo-square.png",
+  "websiteUrl": "https://www.fidelity.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "lunchflow",
+    "snaptrade"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "desription": "Fidelity is an American multinational financial services corporation based in Boston, Massachusetts."
+}

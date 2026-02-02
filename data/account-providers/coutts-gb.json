@@ -29,10 +29,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "plaid",
     "salt-edge",
-    "volt",
-    "gocardless"
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

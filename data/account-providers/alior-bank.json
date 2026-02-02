@@ -66,11 +66,12 @@
     }
   ],
   "apiAggregators": [
-    "gocardless",
-    "plaid",
-    "nordigen",
     "enablebanking",
     "fintecture",
+    "gocardless",
+    "lunchflow",
+    "nordigen",
+    "plaid",
     "salt-edge"
   ],
   "ownership": [],

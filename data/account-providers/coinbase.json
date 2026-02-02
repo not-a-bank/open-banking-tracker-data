@@ -38,7 +38,10 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "lunchflow",
+    "snaptrade"
+  ],
   "collections": [],
   "sdks": [
     {

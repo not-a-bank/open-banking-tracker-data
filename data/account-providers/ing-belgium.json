@@ -1,0 +1,53 @@
+{
+  "id": "ing-belgium",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "ING Belgium",
+  "description": "ING Belgium is a Belgian bank, part of the ING Group, offering retail and commercial banking services.",
+  "legalName": "ING Belgium SA/NV",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.ing.be.ico",
+  "websiteUrl": "https://www.ing.be/",
+  "ownership": [
+    {
+      "shareholderName": "ING Group",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/www.ing.com.ico",
+      "providerId": "ing"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "BE",
+  "countries": [
+    "BE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": "https://developer.ing.com/openbanking/",
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/be/app/ing-banking/id437203741"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.ing.banking"
+    }
+  ]
+}

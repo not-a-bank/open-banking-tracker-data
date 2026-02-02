@@ -1,0 +1,53 @@
+{
+  "id": "santander-bank-polska",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Santander Bank Polska",
+  "description": "Santander Bank Polska is one of the largest banks in Poland, part of the Santander Group.",
+  "legalName": "Santander Bank Polska S.A.",
+  "ipoStatus": "public",
+  "stockSymbol": "WSE:SPL",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.santander.pl.ico",
+  "websiteUrl": "https://www.santander.pl/",
+  "ownership": [
+    {
+      "shareholderName": "Banco Santander",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/www.santander.com.ico",
+      "providerId": "santander"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "PL",
+  "countries": [
+    "PL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/pl/app/santander-mobile/id548691691"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=pl.bzwbk.bzwbk24"
+    }
+  ]
+}

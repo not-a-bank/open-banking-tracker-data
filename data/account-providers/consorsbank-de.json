@@ -46,11 +46,12 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
-    "yaxi",
     "equensworldline",
+    "gocardless",
+    "lunchflow",
     "salt-edge",
     "tink",
-    "gocardless"
+    "yaxi"
   ],
   "collections": [],
   "webApplication": true,

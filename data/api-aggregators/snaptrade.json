@@ -1,0 +1,29 @@
+{
+  "id": "snaptrade",
+  "label": "SnapTrade",
+  "website": "https://snaptrade.com/",
+  "iconUrl": "https://res.cloudinary.com/apideck/icons/snaptrade",
+  "twitter": "SnapTradeHQ",
+  "developerPortalUrl": "https://docs.snaptrade.com/",
+  "countryHQ": "CA",
+  "verified": false,
+  "description": "Investment account aggregator providing connections to brokerages and investment platforms in the US and Canada for portfolio tracking and trading",
+  "marketCoverage": {
+    "live": [
+      "AU",
+      "CA",
+      "US"
+    ]
+  },
+  "brokerageCount": 24,
+  "lastUpdated": "2026-02-02T16:41:54.757324",
+  "coverage": {
+    "byCountry": {
+      "US": 21,
+      "AU": 1,
+      "CA": 2
+    },
+    "tradingEnabled": 19,
+    "total": 24
+  }
+}

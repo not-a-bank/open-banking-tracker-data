@@ -1,7 +1,12 @@
 {
   "id": "axa-bank",
-  "type": ["account"],
-  "bankType": ["retail","corporate"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "corporate"
+  ],
   "name": "Axa Bank",
   "legalName": "AXA Holdings Belgium S.A.",
   "ipoStatus": "private",
@@ -18,7 +23,9 @@
   ],
   "stateOwned": false,
   "countryHQ": "BE",
-  "countries": ["BE"],
+  "countries": [
+    "BE"
+  ],
   "compliance": [
     {
       "regulation": "PSD2",
@@ -33,7 +40,9 @@
     {
       "label": "Account Information Service",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": null,
       "documentationUrl": "https://api-portal.axabank.be/psd2-account-information-service/apis",
       "apiReferenceUrl": "https://api-portal.axabank.be/psd2-account-information-service/apis",
@@ -44,7 +53,9 @@
     {
       "label": "Payment Initiation Service",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": null,
       "documentationUrl": "https://api-portal.axabank.be/psd2-payment-initiation-service/apis-0",
       "apiReferenceUrl": "https://api-portal.axabank.be/psd2-payment-initiation-service/apis-0",
@@ -56,7 +67,9 @@
       "label": "OAuth2",
       "type": "auth",
       "description": null,
-      "categories": ["auth"],
+      "categories": [
+        "auth"
+      ],
       "documentationUrl": "https://api-portal.axabank.be/psd2-oauth2-apis/apis-0",
       "apiReferenceUrl": "https://api-portal.axabank.be/psd2-oauth2-apis/apis-0",
       "premium": false,
@@ -67,7 +80,9 @@
       "label": "Funds Confirmation Service",
       "type": "fundsConfirmation",
       "description": null,
-      "categories": ["funds"],
+      "categories": [
+        "funds"
+      ],
       "documentationUrl": "https://api-portal.axabank.be/psd2-funds-confirmation-service/apis-0",
       "apiReferenceUrl": "https://api-portal.axabank.be/psd2-funds-confirmation-service/apis-0",
       "premium": false,
@@ -75,16 +90,19 @@
       "specifications": "BERLIN1.3"
     }
   ],
-  "apiStandards": ["BERLIN"],
+  "apiStandards": [
+    "BERLIN"
+  ],
   "apiAggregators": [
     "bankingsdk",
-    "budget-insight",
-    "klarna",
-    "ibanity",
     "banqup",
-    "fintecture",
     "bridgeapi-io",
-    "equensworldline"
+    "budget-insight",
+    "equensworldline",
+    "fintecture",
+    "ibanity",
+    "klarna",
+    "powens"
   ],
   "webApplication": true,
   "mobileApps": [

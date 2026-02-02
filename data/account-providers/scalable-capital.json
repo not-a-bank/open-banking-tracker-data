@@ -1,0 +1,50 @@
+{
+  "id": "scalable-capital",
+  "type": [
+    "brokerage",
+    "investment"
+  ],
+  "name": "Scalable Capital",
+  "description": "Scalable Capital is a German digital investment platform offering robo-advisory and brokerage services with commission-free trading.",
+  "legalName": "Scalable Capital GmbH",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/scalable.capital.ico",
+  "websiteUrl": "https://scalable.capital/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE",
+    "AT",
+    "FR",
+    "ES",
+    "IT",
+    "NL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/scalable-capital/id1557296813"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=capital.scalable.broker"
+    }
+  ]
+}

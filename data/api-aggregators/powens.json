@@ -1,0 +1,46 @@
+{
+  "id": "powens",
+  "label": "Powens (formerly Budget Insight)",
+  "website": "https://www.powens.com/",
+  "iconUrl": "https://res.cloudinary.com/apideck/icons/powens",
+  "twitter": "Powens_eu",
+  "developerPortalUrl": "https://docs.powens.com/",
+  "countryHQ": "FR",
+  "verified": false,
+  "description": "European Open Finance and Embedded Banking platform providing data aggregation, payment initiation, and IBAN account services across 1800+ financial institutions",
+  "marketCoverage": {
+    "live": [
+      "FR",
+      "ES",
+      "DE",
+      "IT",
+      "BE",
+      "NL",
+      "PT",
+      "AT",
+      "IE",
+      "GB",
+      "PL",
+      "LU"
+    ]
+  },
+  "connectorCount": 1800,
+  "lastUpdated": "2026-02-02T17:14:10.784157",
+  "coverage": {
+    "total": 1800,
+    "byCountry": {
+      "FR": 21,
+      "DE": 9,
+      "ES": 6,
+      "IT": 5,
+      "BE": 6,
+      "NL": 9,
+      "PT": 6,
+      "GB": 10,
+      "AT": 4,
+      "IE": 4,
+      "PL": 5,
+      "LU": 3
+    }
+  }
+}

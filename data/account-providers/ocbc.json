@@ -31,7 +31,10 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "finverse",
+    "lunchflow"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],

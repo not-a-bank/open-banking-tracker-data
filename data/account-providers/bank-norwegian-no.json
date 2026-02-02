@@ -69,11 +69,12 @@
     }
   ],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "neonomics",
     "nordigen",
-    "volt",
     "tink",
-    "gocardless"
+    "volt"
   ],
   "ownership": [],
   "stateOwned": false,

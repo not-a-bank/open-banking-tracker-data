@@ -31,10 +31,11 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "gocardless",
+    "lunchflow",
     "salt-edge",
     "tink",
-    "gocardless"
+    "yaxi"
   ],
   "legalName": "Fürst Fugger Privatbank Aktiengesellschaft",
   "bic": "FUBKDE71XXX"

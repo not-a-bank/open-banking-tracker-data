@@ -31,7 +31,9 @@
   "stockSymbol": "",
   "apiAggregators": [
     "gocardless",
+    "lunchflow",
     "plaid",
+    "powens",
     "salt-edge",
     "tink"
   ],

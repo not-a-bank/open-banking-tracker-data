@@ -59,9 +59,10 @@
     }
   ],
   "apiAggregators": [
-    "gocardless",
     "enablebanking",
     "enfuce",
+    "gocardless",
+    "lunchflow",
     "neonomics",
     "salt-edge",
     "tink"

@@ -31,8 +31,9 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge",
-    "gocardless"
+    "gocardless",
+    "lunchflow",
+    "salt-edge"
   ],
   "bic": "ROMAITRR",
   "legalName": "BCC Di Roma"

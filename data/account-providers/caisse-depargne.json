@@ -1,0 +1,54 @@
+{
+  "id": "caisse-depargne",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail",
+    "cooperative"
+  ],
+  "name": "Caisse d'Epargne",
+  "description": "Caisse d'Epargne is a French cooperative bank, part of Groupe BPCE, one of France's largest banking groups.",
+  "legalName": "Caisse d'Epargne",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.caisse-epargne.fr.ico",
+  "websiteUrl": "https://www.caisse-epargne.fr/",
+  "ownership": [
+    {
+      "shareholderName": "Groupe BPCE",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/www.groupebpce.com.ico",
+      "providerId": "groupe-bpce"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "FR",
+  "countries": [
+    "FR"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/fr/app/caisse-d-epargne/id361708498"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.caisseepargne.android.mobilebanking"
+    }
+  ]
+}

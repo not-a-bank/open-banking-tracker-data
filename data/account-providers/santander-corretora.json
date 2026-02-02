@@ -1,20 +1,17 @@
 {
-  "id": "idbi-bank-ltd",
+  "id": "santander-corretora",
   "type": [
     "account"
   ],
-  "bankType": [
-    "retail"
-  ],
-  "name": "IDBI BANK LTD",
-  "legalName": "IDBI BANK LTD",
+  "name": "Santander Corretora",
+  "legalName": "Santander Corretora",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.idbibankltd.com.ico",
+  "icon": "https://icons.duckduckgo.com/ip3/www.santander-corretora.com.ico",
   "websiteUrl": null,
-  "countryHQ": "AE",
+  "countryHQ": "BR",
   "countries": [
-    "AE"
+    "BR"
   ],
   "webApplication": true,
   "mobileApps": [],
@@ -22,9 +19,14 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "lunchflow",
+    "pluggy"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "IBKLAEADXXX"
+  "bankType": [
+    "retail"
+  ]
 }

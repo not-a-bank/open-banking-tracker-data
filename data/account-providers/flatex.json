@@ -1,0 +1,52 @@
+{
+  "id": "flatex",
+  "type": [
+    "brokerage",
+    "investment"
+  ],
+  "name": "flatex",
+  "description": "flatex is a German online broker offering trading of stocks, ETFs, funds, bonds, and derivatives across European markets.",
+  "legalName": "flatexDEGIRO Bank AG",
+  "ipoStatus": "public",
+  "stockSymbol": "FRA:FTK",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.flatex.de.ico",
+  "websiteUrl": "https://www.flatex.de/",
+  "ownership": [
+    {
+      "shareholderName": "flatexDEGIRO AG",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/www.flatexdegiro.com.ico"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE",
+    "AT",
+    "NL"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/flatex-next/id1531498340"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.xcom.flatex"
+    }
+  ]
+}

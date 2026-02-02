@@ -1,0 +1,31 @@
+{
+  "id": "interactive-brokers",
+  "type": [
+    "investment",
+    "brokerage"
+  ],
+  "name": "Interactive Brokers",
+  "legalName": "Interactive Brokers",
+  "verified": false,
+  "status": "live",
+  "icon": "https://passiv-brokerage-logos.s3.ca-central-1.amazonaws.com/interactive-brokers-logo-square.png",
+  "websiteUrl": "https://www.interactivebrokers.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "lunchflow",
+    "snaptrade"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "desription": "Interactive Brokers is a brokerage that operates in 200+ countries. IBKR's low fees and advanced features will delight traders old and new."
+}

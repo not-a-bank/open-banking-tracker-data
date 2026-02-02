@@ -1,0 +1,45 @@
+{
+  "id": "justtrade",
+  "type": [
+    "brokerage",
+    "investment"
+  ],
+  "name": "justTRADE",
+  "description": "justTRADE is a German commission-free online broker for trading stocks, ETFs, and cryptocurrencies.",
+  "legalName": "JT Technologies GmbH",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/justtrade.com.ico",
+  "websiteUrl": "https://justtrade.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "powens"
+  ],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/justtrade/id1500648617"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.justtrade.app"
+    }
+  ]
+}
