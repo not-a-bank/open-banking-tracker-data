@@ -4,7 +4,55 @@
   "website": "https://www.yapily.com/",
   "iconUrl": "https://res.cloudinary.com/apideck/image/upload/v1574471864/catalog/yapily/icon128x128.jpg",
   "developerPortalUrl": "https://docs.yapily.com/",
+  "statusUrl": "https://status.yapily.com/",
+  "institutionStatusUrl": "https://status-institutions.yapily.com/",
   "twitter": "yapilyltd",
-  "countryHQ": "GB"
+  "countryHQ": "GB",
+  "marketCoverage": {
+    "live": [
+      "AT",
+      "BE",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "IE",
+      "IS",
+      "IT",
+      "LT",
+      "LV",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "SE"
+    ]
+  },
+  "coverage": {
+    "total": 463,
+    "byCountry": {
+      "AT": 13,
+      "BE": 17,
+      "DE": 36,
+      "DK": 38,
+      "EE": 6,
+      "ES": 32,
+      "FI": 11,
+      "FR": 50,
+      "GB": 89,
+      "IE": 17,
+      "IS": 3,
+      "IT": 76,
+      "LT": 5,
+      "LV": 5,
+      "NL": 14,
+      "NO": 9,
+      "PL": 10,
+      "PT": 29,
+      "SE": 13
+    }
+  }
 }
-
