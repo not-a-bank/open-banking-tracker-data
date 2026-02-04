@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Bank f\u00fcr Kirche und Caritas",
-  "legalName": "Bank f\u00fcr Kirche und Caritas",
+  "name": "Bank für Kirche und Caritas",
+  "legalName": "Bank für Kirche und Caritas",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bank-fuer-kirche-und-caritas.com.ico",
@@ -23,9 +23,11 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "tink"
+    "tink",
+    "yapily"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GENODEM1BKC"
 }

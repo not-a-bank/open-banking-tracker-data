@@ -1,0 +1,32 @@
+{
+  "id": "banco-sabadell",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Banco Sabadell",
+  "legalName": "Banco Sabadell",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.banco.de.ico",
+  "websiteUrl": null,
+  "countryHQ": "ES",
+  "countries": [
+    "ES"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "yapily"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "BSABESBBXXX"
+}

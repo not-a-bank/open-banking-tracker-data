@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "challenger"
+    "challenger",
+    "retail"
   ],
   "name": "Banco Inter",
   "description": "Banco Inter S.A., called Banco Intermedium S.A. until the year 2017, is a Brazilian digital bank incorporated in 1994 and headquartered in Belo Horizonte.",
-  "legalName": null,
+  "legalName": "Banco Inter",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -39,7 +40,7 @@
     "pluggy"
   ],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [
     {
       "operatingSystem": "ios",

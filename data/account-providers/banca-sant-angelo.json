@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "private"
+    "private",
+    "retail"
   ],
   "status": "live",
   "name": "Banca Popolare Sant'Angelo",
@@ -30,7 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "salt-edge"
+    "salt-edge",
+    "gocardless",
+    "lunchflow"
   ],
-  "bic": "PSANIT3PXXX"
+  "bic": "PSANIT3PXXX",
+  "legalName": "Banca Sant'Angelo"
 }

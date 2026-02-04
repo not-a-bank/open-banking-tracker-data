@@ -23,9 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "tink"
+    "tink",
+    "gocardless",
+    "lunchflow"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "HOABGB2L"
 }

@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Hang Seng Bank",
   "description": "Hang Seng Bank Limited is a Hong Kong-based banking and financial services company with headquarters in Central, Hong Kong. It is one of Hong Kong's leading public companies in terms of market capitalisation and is part of the HSBC Group, which holds a majority equity interest in the bank.",
@@ -39,9 +40,12 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "finverse",
+    "lunchflow"
+  ],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Hang_Seng_Bank",

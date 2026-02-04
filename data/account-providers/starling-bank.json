@@ -82,7 +82,8 @@
     "salt-edge",
     "tink",
     "truelayer",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "collections": [],
   "webApplication": true,
@@ -111,6 +112,12 @@
     }
   ],
   "stack": [
+    {
+      "id": "engine-by-starling",
+      "name": "Engine by Starling",
+      "icon": "https://img.logo.dev/enginebystarling.com",
+      "websiteUrl": "https://enginebystarling.com/"
+    },
     {
       "id": "bnkbl",
       "name": "Bankable",
