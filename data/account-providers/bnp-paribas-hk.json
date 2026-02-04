@@ -16,11 +16,25 @@
   "countryHQ": "HK",
   "countries": [
     "HK",
-    "EU"
+    "EU",
+    "FR"
   ],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/fr/app/mes-comptes-bnp-paribas/id376992697"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=net.bnpparibas.mescomptes"
+    }
+  ],
   "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    },
     {
       "regulation": "PSD2",
       "status": "inProgress"
@@ -81,7 +95,8 @@
     "plaid",
     "powens",
     "salt-edge",
-    "volt"
+    "volt",
+    "yapily"
   ],
   "ownership": [],
   "stateOwned": false,

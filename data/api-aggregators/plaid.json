@@ -4,10 +4,25 @@
   "website": "https://plaid.com/",
   "iconUrl": "https://res.cloudinary.com/apideck/image/upload/v1559337184/catalog/plaid/icon128x128.jpg",
   "developerPortalUrl": "https://plaid.com/docs/",
+  "statusUrl": "https://status.plaid.com/",
   "twitter": "plaid",
   "companyId": "visa",
   "countryHQ": "US",
   "marketFocus": "North America and Europe",
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "serverUrl": "https://api.dashboard.plaid.com/mcp/sse",
+    "authType": "oauth",
+    "authScope": "mcp:dashboard",
+    "documentationUrl": "https://plaid.com/docs/mcp/",
+    "tools": [
+      "plaid_debug_item",
+      "plaid_get_link_analytics",
+      "plaid_get_usages",
+      "plaid_list_teams"
+    ]
+  },
   "marketCoverage": {
     "live": [
       "AT",

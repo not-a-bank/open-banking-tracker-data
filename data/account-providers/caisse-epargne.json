@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "cooperative"
   ],
   "name": "Caisse d'Epargne",
   "description": "Groupe Caisse d'épargne is a French semi-cooperative[dubious – discuss] banking group, founded in 1818, with around 4700 branches in the country. The group is active in retail and private banking, as well as holding a significant stake in the publicly traded investment bank Natixis.",
@@ -31,6 +32,10 @@
     {
       "regulation": "PSD2",
       "status": "unknown"
+    },
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
     }
   ],
   "sandbox": {
@@ -113,11 +118,22 @@
     "plaid",
     "equensworldline",
     "truelayer",
-    "tink"
+    "tink",
+    "powens",
+    "yapily"
   ],
   "collections": [],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/fr/app/caisse-d-epargne/id361708498"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.caisseepargne.android.mobilebanking"
+    }
+  ],
   "financialReports": [],
   "twitter": "https://twitter.com/Caisse_Epargne",
   "wikipediaUrl": "https://en.wikipedia.org/wiki/Groupe_Caisse_d%27%C3%89pargne",

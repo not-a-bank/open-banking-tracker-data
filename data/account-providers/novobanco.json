@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "retail",
+    "universal"
   ],
   "name": "Novobanco",
   "legalName": "Novobanco",
@@ -17,17 +18,35 @@
     "PT"
   ],
   "webApplication": true,
-  "mobileApps": [],
-  "compliance": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/pt/app/nb-smart/id1031870999"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=novobanco.android.smartbanking"
+    }
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
     "plaid",
-    "volt"
+    "volt",
+    "powens",
+    "yapily"
   ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "BESCPTPLXXX"
+  "bic": "BESCPTPLXXX",
+  "description": "Novo Banco is a Portuguese bank created in 2014 from the healthy assets of Banco Espírito Santo.",
+  "ipoStatus": "private"
 }

@@ -51,7 +51,8 @@
     "SI",
     "ES",
     "SE",
-    "GB"
+    "GB",
+    "NZ"
   ],
   "compliance": [
     "psd2"
@@ -93,7 +94,9 @@
     "powens",
     "salt-edge",
     "tink",
-    "truelayer"
+    "truelayer",
+    "akahu",
+    "lunchflow"
   ],
   "collections": [],
   "webApplication": true,
@@ -145,5 +148,8 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bankType": [
+    "retail"
+  ]
 }

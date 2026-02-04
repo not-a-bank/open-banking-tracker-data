@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "Westpac",
   "description": "Westpac Banking Corporation, known simply as Westpac, is an Australian bank and financial services provider headquartered in Sydney, Australia. Established in 1817 as the Bank of New South Wales, it acquired the Commercial Bank of Australia in 1982 before being renamed shortly afterwards.",
@@ -19,7 +20,8 @@
   "stateOwned": false,
   "countryHQ": "AU",
   "countries": [
-    "AU"
+    "AU",
+    "NZ"
   ],
   "compliance": [
     {
@@ -38,9 +40,12 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiStatusUrls": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "akahu",
+    "lunchflow"
+  ],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "financialReports": [],
   "twitter": "Westpac",

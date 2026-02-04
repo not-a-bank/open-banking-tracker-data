@@ -1,0 +1,32 @@
+{
+  "id": "cbc-belgium",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "CBC Belgium",
+  "legalName": "CBC Belgium",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.cbc.de.ico",
+  "websiteUrl": null,
+  "countryHQ": "BE",
+  "countries": [
+    "BE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "yapily"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "CREGBEBBTGT"
+}

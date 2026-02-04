@@ -1,0 +1,58 @@
+{
+  "id": "nebeus",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Nebeus",
+  "description": "Nebeus is a crypto-finance platform offering crypto-backed loans, crypto IBAN accounts, staking, exchange, and yield-earning services for individuals and businesses.",
+  "legalName": "Rintral Trading SL",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://res.cloudinary.com/apideck/icons/nebeus",
+  "websiteUrl": "https://nebeus.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "ES",
+  "countries": [
+    "ES",
+    "EU"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "apiAuth": [],
+  "apiAggregators": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/app/nebeus/id1445498312"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.nebeus.app"
+    }
+  ],
+  "investorRelationsUrl": null,
+  "financialReports": [],
+  "twitter": null,
+  "crunchbase": "nebeus",
+  "bloomberg": null,
+  "github": null,
+  "articles": [],
+  "foundedYear": 2014
+}

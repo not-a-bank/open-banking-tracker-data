@@ -5,7 +5,24 @@
   "iconUrl": "https://res.cloudinary.com/apideck/icons/lunchflow",
   "twitter": null,
   "developerPortalUrl": "https://docs.lunchflow.app/introduction",
-  "countryHQ": "UK",
+  "countryHQ": "GB",
+  "mcpServer": {
+    "type": "local",
+    "transport": "stdio",
+    "npmPackage": "@lunchflow/mcp",
+    "command": "npx",
+    "args": ["-y", "@lunchflow/mcp"],
+    "env": ["LUNCHFLOW_API_KEY"],
+    "authType": "api_key",
+    "repositoryUrl": "https://github.com/lunchflow/mcp",
+    "documentationUrl": "https://docs.lunchflow.app/destinations/mcp",
+    "smitheryUrl": "https://smithery.ai/server/@lunchflow/mcp",
+    "tools": [
+      "lunchflow_list_accounts",
+      "lunchflow_get_account_transactions",
+      "lunchflow_get_account_balance"
+    ]
+  },
   "verified": true,
   "note": "Lunch Flow is an aggregator of aggregators, inheriting coverage from GoCardless, MX, Finicity, Pluggy, Akahu, Finverse, and SnapTrade",
   "upstreamAggregators": [

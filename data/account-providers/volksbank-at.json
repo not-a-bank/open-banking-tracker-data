@@ -4,11 +4,13 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "cooperative",
+    "retail"
   ],
   "name": "Volksbank",
   "description": "As a regional universal bank, Volksbank focuses on customer partnerships. Customer loyalty and quality of advice.",
-  "legalName": null,
+  "legalName": "Volksbank eG",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -19,12 +21,17 @@
   "stateOwned": false,
   "countryHQ": "AT",
   "countries": [
-    "AT"
+    "AT",
+    "DE"
   ],
   "compliance": [
     {
       "regulation": "PSD2",
       "status": "unknown"
+    },
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
     }
   ],
   "sandbox": {
@@ -100,10 +107,23 @@
     "BERLIN"
   ],
   "apiStatusUrls": [],
-  "apiAggregators": ["equensworldline"],
+  "apiAggregators": [
+    "equensworldline",
+    "powens",
+    "yapily"
+  ],
   "collections": [],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/de/app/vr-banking-classic/id477880832"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=de.fiducia.smartphone.android.banking.vr"
+    }
+  ],
   "financialReports": [],
   "bloomberg": null,
   "alumni": [],

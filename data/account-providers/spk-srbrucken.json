@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "status": "live",
   "name": "SPK Saarbrücken",
@@ -15,7 +16,7 @@
   "countries": [
     "DE"
   ],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [],
   "compliance": [
     {
@@ -31,7 +32,9 @@
   "stockSymbol": "",
   "apiAggregators": [
     "yaxi",
-    "salt-edge"
+    "salt-edge",
+    "yapily"
   ],
-  "bic": "SAKSDE55XXX"
+  "bic": "SAKSDE55XXX",
+  "legalName": "SPK Saarbrücken"
 }

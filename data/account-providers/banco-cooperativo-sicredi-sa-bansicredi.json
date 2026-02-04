@@ -4,7 +4,8 @@
     "account"
   ],
   "bankType": [
-    "credit-union"
+    "credit-union",
+    "retail"
   ],
   "name": "Sicredi",
   "legalName": "BANCO COOPERATIVO SICREDI SA - BANSICREDI",
@@ -23,7 +24,9 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "klavi"
+    "klavi",
+    "lunchflow",
+    "pluggy"
   ],
   "ownership": [],
   "stateOwned": false,

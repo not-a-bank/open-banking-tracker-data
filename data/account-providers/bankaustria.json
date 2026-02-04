@@ -25,6 +25,10 @@
     {
       "regulation": "PSD2",
       "status": "unknown"
+    },
+    {
+      "regulation": "PSD2",
+      "status": "inProgress"
     }
   ],
   "developerPortalUrl": "https://developer.unicredit.eu/",
@@ -106,7 +110,9 @@
     "gocardless",
     "ibanity",
     "lunchflow",
-    "tink"
+    "tink",
+    "powens",
+    "yapily"
   ],
   "collections": [],
   "apiAccess": "verifiedTpp",
@@ -115,6 +121,14 @@
     {
       "operatingSystem": "android",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.bankaustria.android.olb&hl=de"
+    },
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/at/app/bank-austria-mobilebanking/id452969591"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bankaustria.android.olb"
     }
   ],
   "financialReports": [],

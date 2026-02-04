@@ -45,6 +45,20 @@
       "description": "URL to the developer documentation or API portal",
       "examples": ["https://documentation.ibanity.com/xs2a/api", "https://docs.belvo.co/"]
     },
+    "statusUrl": {
+      "title": "Status Page URL",
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "URL to the API/platform status page",
+      "examples": ["https://status.yapily.com/", "https://status.plaid.com/"]
+    },
+    "institutionStatusUrl": {
+      "title": "Institution Status URL",
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "URL to the institution/bank-specific status page showing connectivity status per bank",
+      "examples": ["https://status-institutions.yapily.com/"]
+    },
     "twitter": {
       "title": "Twitter Handle",
       "type": ["string", "null"],
@@ -212,6 +226,102 @@
         }
       },
       "additionalProperties": true
+    },
+    "mcpServer": {
+      "title": "MCP Server",
+      "type": ["object", "null"],
+      "description": "Model Context Protocol (MCP) server configuration for AI assistant integration",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["hosted", "local"],
+          "description": "Whether the MCP server is hosted (remote SSE) or local (npm package)",
+          "examples": ["hosted", "local"]
+        },
+        "serverUrl": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "URL for hosted MCP servers using SSE transport",
+          "examples": ["https://api.dashboard.plaid.com/mcp/sse"]
+        },
+        "transport": {
+          "type": "string",
+          "enum": ["sse", "stdio"],
+          "description": "Transport protocol used by the MCP server",
+          "examples": ["sse", "stdio"]
+        },
+        "npmPackage": {
+          "type": ["string", "null"],
+          "description": "NPM package name for local MCP servers",
+          "examples": ["@lunchflow/mcp", "@modelcontextprotocol/server-stripe"]
+        },
+        "command": {
+          "type": ["string", "null"],
+          "description": "Command to run local MCP servers",
+          "examples": ["npx", "node", "uvx"]
+        },
+        "args": {
+          "type": ["array", "null"],
+          "items": {
+            "type": "string"
+          },
+          "description": "Arguments to pass to the command",
+          "examples": [["-y", "@lunchflow/mcp"]]
+        },
+        "env": {
+          "type": ["array", "null"],
+          "items": {
+            "type": "string"
+          },
+          "description": "Environment variable names required by the MCP server",
+          "examples": [["LUNCHFLOW_API_KEY"], ["PLAID_CLIENT_ID", "PLAID_SECRET"]]
+        },
+        "authType": {
+          "type": ["string", "null"],
+          "enum": ["oauth", "api_key", "basic", null],
+          "description": "Authentication type required for the MCP server",
+          "examples": ["oauth", "api_key"]
+        },
+        "authScope": {
+          "type": ["string", "null"],
+          "description": "OAuth scope required for hosted MCP servers",
+          "examples": ["mcp:dashboard"]
+        },
+        "repositoryUrl": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "URL to the MCP server source code repository",
+          "examples": ["https://github.com/lunchflow/mcp"]
+        },
+        "documentationUrl": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "URL to the MCP server documentation",
+          "examples": ["https://plaid.com/docs/mcp/", "https://docs.lunchflow.app/destinations/mcp"]
+        },
+        "smitheryUrl": {
+          "type": ["string", "null"],
+          "format": "uri",
+          "description": "URL to install/configure on Smithery platform",
+          "examples": ["https://smithery.ai/server/@lunchflow/mcp"]
+        },
+        "tools": {
+          "type": ["array", "null"],
+          "items": {
+            "type": "string"
+          },
+          "description": "List of tool names provided by the MCP server",
+          "examples": [["lunchflow_list_accounts", "lunchflow_get_account_transactions"]]
+        },
+        "resources": {
+          "type": ["array", "null"],
+          "items": {
+            "type": "string"
+          },
+          "description": "List of resource types provided by the MCP server",
+          "examples": [["accounts", "transactions", "institutions"]]
+        }
+      }
     }
   },
   "additionalProperties": false
