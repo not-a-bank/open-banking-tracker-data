@@ -1,12 +1,7 @@
 {
   "id": "banco-montepio",
-  "type": [
-    "account"
-  ],
-  "bankType": [
-    "retail",
-    "universal"
-  ],
+  "type": ["account"],
+  "bankType": ["retail", "universal"],
   "name": "Banco Montepio",
   "legalName": "Banco Montepio",
   "verified": false,
@@ -14,28 +9,42 @@
   "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/pt/montepio_oauth_client_pt.svg",
   "websiteUrl": "https://www.bancomontepio.pt",
   "countryHQ": "PT",
-  "countries": [
-    "PT"
-  ],
+  "countries": ["PT"],
   "webApplication": true,
   "mobileApps": [],
-  "compliance": [
+  "compliance": [{"regulation": "PSD2", "status": "unknown"}],
+  "developerPortalUrl": "https://developer.sibsapimarket.com/",
+  "apiStandards": [],
+  "apiProducts": [
     {
-      "regulation": "PSD2",
-      "status": "unknown"
+      "label": "Account information",
+      "type": "accountInformation",
+      "categories": ["accounts"],
+      "description": "Access to account information, including a list of accounts, balances and movements.",
+      "documentationUrl": "https://www.bancomontepio.pt/en/open-banking-apis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment initiation",
+      "type": "paymentInitiation",
+      "categories": ["payments"],
+      "description": "Allows customers to initiate payments on third-party websites or apps, from a Banco Montepio account.",
+      "documentationUrl": "https://www.bancomontepio.pt/en/open-banking-apis",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Availability of funds",
+      "type": "fundsConfirmation",
+      "categories": ["funds"],
+      "description": "Check in real time whether an account has money available to make a payment.",
+      "documentationUrl": "https://www.bancomontepio.pt/en/open-banking-apis",
+      "premium": false,
+      "stage": "live"
     }
   ],
-  "developerPortalUrl": "https://www.sibsapimarket.com",
-  "apiStandards": [],
-  "apiProducts": [],
-  "apiAggregators": [
-    "bridgeapi-io",
-    "plaid",
-    "salt-edge",
-    "tink",
-    "volt",
-    "yapily"
-  ],
+  "apiAggregators": ["bridgeapi-io", "plaid", "salt-edge", "tink", "volt", "yapily"],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,

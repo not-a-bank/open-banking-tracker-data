@@ -1,21 +1,15 @@
 {
   "id": "cooperative-and-agricultural-credit-bank",
-  "type": [
-    "account"
-  ],
-  "bankType": [
-    "retail"
-  ],
-  "name": "COOPERATIVE AND AGRICULTURAL CREDIT BANK",
-  "legalName": "COOPERATIVE AND AGRICULTURAL CREDIT BANK",
+  "type": ["account"],
+  "bankType": ["retail"],
+  "name": "COOPERATIVE & AGRICULTURAL CREDIT BANK (CAC BANK)",
+  "legalName": "COOPERATIVE & AGRICULTURAL CREDIT BANK (CAC BANK)",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.cooperativeandagriculturalcreditbank.com.ico",
+  "icon": "https://icons.duckduckgo.com/ip3/www.cacbank.com.ico",
   "websiteUrl": null,
   "countryHQ": "YE",
-  "countries": [
-    "YE"
-  ],
+  "countries": ["YE"],
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
@@ -25,6 +19,5 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null,
-  "bic": "CACBYESAXXX"
+  "stockSymbol": null
 }
