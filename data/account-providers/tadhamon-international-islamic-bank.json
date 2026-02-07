@@ -1,21 +1,15 @@
 {
   "id": "tadhamon-international-islamic-bank",
-  "type": [
-    "account"
-  ],
-  "bankType": [
-    "retail"
-  ],
+  "type": ["account"],
+  "bankType": ["retail"],
   "name": "TADHAMON INTERNATIONAL ISLAMIC BANK",
   "legalName": "TADHAMON INTERNATIONAL ISLAMIC BANK",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.tadhamoninternationalislamicbank.com.ico",
+  "icon": "https://icons.duckduckgo.com/ip3/www.tadhamonbank.com.ico",
   "websiteUrl": null,
   "countryHQ": "YE",
-  "countries": [
-    "YE"
-  ],
+  "countries": ["YE"],
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
@@ -25,6 +19,5 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null,
-  "bic": "TIBKYESAXXX"
+  "stockSymbol": null
 }
