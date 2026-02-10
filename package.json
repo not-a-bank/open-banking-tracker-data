@@ -12,6 +12,7 @@
     "scrape:plaid": "python3 scrapers/plaid_scraper.py",
     "scrape:flinks": "python3 scrapers/flinks_scraper.py",
     "scrape:gocardless": "python3 scrapers/gocardless_scraper.py",
+    "scrape:opensanctions": "python3 scrapers/opensanctions_bic_scraper.py",
     "sync:lunchflow": "node scripts/sync-lunchflow-coverage.js --update-providers"
   },
   "repository": {

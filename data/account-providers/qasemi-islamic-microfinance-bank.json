@@ -1,7 +1,11 @@
 {
   "id": "qasemi-islamic-microfinance-bank",
-  "type": ["account"],
-  "bankType": ["retail"],
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
   "name": "QASEMI ISLAMIC MICROFINANCE BANK",
   "legalName": "QASEMI ISLAMIC MICROFINANCE BANK",
   "verified": false,
@@ -9,7 +13,9 @@
   "icon": "https://icons.duckduckgo.com/ip3/www.qasemibank.com.ico",
   "websiteUrl": null,
   "countryHQ": "YE",
-  "countries": ["YE"],
+  "countries": [
+    "YE"
+  ],
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
@@ -19,5 +25,6 @@
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "QIMRYESA"
 }
