@@ -41,7 +41,10 @@
     {
       "label": "Card Issuing",
       "type": "cards",
-      "categories": ["cards", "payments"],
+      "categories": [
+        "cards",
+        "payments"
+      ],
       "description": "White-label card issuing services supporting Visa, Mastercard, and American Express. Enables fintechs to launch debit, credit, and prepaid card programs with full program management, BIN sponsorship, and compliance support.",
       "documentationUrl": "https://developers.getevolved.com/enterprise/docs",
       "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
@@ -51,7 +54,9 @@
     {
       "label": "Card Acquiring",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Card acquiring services supporting purchase (pull) transactions, Push to Card disbursements, Remote Payment & Presentment Service (RPPS), and tokenized card storage for repeat transactions.",
       "documentationUrl": "https://developers.getevolved.com/enterprise/docs/getting-started",
       "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
@@ -61,7 +66,9 @@
     {
       "label": "Virtual Accounts",
       "type": "accountInformation",
-      "categories": ["accounts"],
+      "categories": [
+        "accounts"
+      ],
       "description": "FDIC-insured deposit accounts and virtual account services for fintechs to offer banking products to their customers. Supports account opening, transaction management, and balance inquiries.",
       "documentationUrl": "https://developers.getevolved.com/enterprise/docs",
       "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
@@ -71,7 +78,9 @@
     {
       "label": "ACH Payments",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "ACH origination and processing services enabling partners to initiate bank-to-bank transfers, direct deposits, and recurring payments through the Automated Clearing House network.",
       "documentationUrl": "https://developers.getevolved.com/enterprise/docs",
       "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
@@ -81,7 +90,9 @@
     {
       "label": "Wire Transfers",
       "type": "paymentInitiation",
-      "categories": ["payments"],
+      "categories": [
+        "payments"
+      ],
       "description": "Domestic and international wire transfer capabilities for high-value, time-sensitive payments.",
       "documentationUrl": "https://developers.getevolved.com/enterprise/docs",
       "apiReferenceUrl": "https://developers.getevolved.com/enterprise/reference",
@@ -256,5 +267,6 @@
       "date": "2022-05-19",
       "url": "https://marqeta.com/blog/evolve-bank-partnership"
     }
-  ]
+  ],
+  "bic": "EVOVUS42"
 }

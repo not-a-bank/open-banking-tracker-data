@@ -4,11 +4,12 @@
     "account"
   ],
   "bankType": [
-    "universal"
+    "universal",
+    "retail"
   ],
   "name": "My Money Bank",
   "description": "My Money Bank is an independent bank operating in Mainland France and French Overseas Territories.",
-  "legalName": null,
+  "legalName": "MY MONEY BANK",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -64,5 +65,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "bic": "CMFCFRP1"
 }

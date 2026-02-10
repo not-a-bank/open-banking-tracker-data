@@ -176,6 +176,33 @@ python3 scrapers/snaptrade_scraper.py --update-providers
 
 ---
 
+### OpenSanctions BIC Scraper
+
+Backfills missing banks from the OpenSanctions ISO 9362 BIC dataset (~32,000 banking organizations worldwide).
+
+```bash
+npm run scrape:opensanctions
+# or
+python3 scrapers/opensanctions_bic_scraper.py
+```
+
+**Options:**
+- `--dry-run` - Show what would be done without making changes
+- `--limit N` - Process only first N entities (for testing)
+- `--update` - Only update existing providers with missing BICs (don't create new)
+
+**Features:**
+- Downloads bulk data from OpenSanctions (CC BY-NC 4.0 license)
+- Creates new account providers with BIC codes
+- Updates existing providers that are missing BIC codes
+- Validates BIC format before adding
+
+**Data Source:** https://www.opensanctions.org/datasets/iso9362_bic/
+
+**Coverage:** 231 countries worldwide
+
+---
+
 ### Tink Scraper
 
 Updates Tink's market coverage and bank provider data.
