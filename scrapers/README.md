@@ -104,6 +104,23 @@ https://docs.google.com/spreadsheets/d/1EZ5n7QDGaRIot5M86dwqd5UFSGEDTeTRzEq3D9uE
 
 ---
 
+### YAXI Scraper
+
+Update YAXI's bank provider data.
+
+```bash
+npm run scrape:yaxi
+# or
+python3 scrapers/yaxi_scraper.py
+```
+
+**Features:**
+- Fetches generally available bank connections from YAXI API
+- Creates/updates account provider entries with `yaxi` in `apiAggregators`
+- Saves connection ID mappings to `scrapers/yaxi_connection_ids.json`
+
+---
+
 ### Pluggy Scraper
 
 Updates Pluggy's coverage data (Brazilian open finance).
