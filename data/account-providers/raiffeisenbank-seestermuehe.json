@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Seestermühe",
-  "legalName": "Raiffeisenbank Seestermühe",
+  "name": "Raiffeisenbank Seesterm\u00fche",
+  "legalName": "Raiffeisenbank Seesterm\u00fche",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-seestermuehe.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

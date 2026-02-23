@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank im Münsterland",
-  "legalName": "Volksbank im Münsterland",
+  "name": "Volksbank im M\u00fcnsterland",
+  "legalName": "Volksbank im M\u00fcnsterland",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-im-muensterland.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

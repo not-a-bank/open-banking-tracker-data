@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Bühl",
-  "legalName": "Volksbank Bühl",
+  "name": "Volksbank B\u00fchl",
+  "legalName": "Volksbank B\u00fchl",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-buehl.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

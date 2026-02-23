@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Löbau-Zittau",
-  "legalName": "Volksbank Löbau-Zittau",
+  "name": "Volksbank L\u00f6bau-Zittau",
+  "legalName": "Volksbank L\u00f6bau-Zittau",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-loebau-zittau.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

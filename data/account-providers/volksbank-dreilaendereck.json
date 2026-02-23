@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Dreiländereck",
-  "legalName": "Volksbank Dreiländereck",
+  "name": "Volksbank Dreil\u00e4ndereck",
+  "legalName": "Volksbank Dreil\u00e4ndereck",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-dreilaendereck.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

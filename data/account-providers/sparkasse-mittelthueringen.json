@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Mittelthüringen",
-  "legalName": "Sparkasse Mittelthüringen",
+  "name": "Sparkasse Mittelth\u00fcringen",
+  "legalName": "Sparkasse Mittelth\u00fcringen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-mittelthueringen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Wolfenbüttel",
-  "legalName": "Volksbank Wolfenbüttel",
+  "name": "Volksbank Wolfenb\u00fcttel",
+  "legalName": "Volksbank Wolfenb\u00fcttel",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-wolfenbuettel.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

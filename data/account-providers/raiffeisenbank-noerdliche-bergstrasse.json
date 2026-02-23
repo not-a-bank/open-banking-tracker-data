@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Nördliche Bergstraße",
-  "legalName": "Raiffeisenbank Nördliche Bergstraße",
+  "name": "Raiffeisenbank N\u00f6rdliche Bergstra\u00dfe",
+  "legalName": "Raiffeisenbank N\u00f6rdliche Bergstra\u00dfe",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-noerdliche-bergstrasse.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

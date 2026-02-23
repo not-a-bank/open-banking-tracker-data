@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Türkheim",
-  "legalName": "Raiffeisenbank Türkheim",
+  "name": "Raiffeisenbank T\u00fcrkheim",
+  "legalName": "Raiffeisenbank T\u00fcrkheim",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-tuerkheim.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Wesermarsch-Süd",
-  "legalName": "Raiffeisenbank Wesermarsch-Süd",
+  "name": "Raiffeisenbank Wesermarsch-S\u00fcd",
+  "legalName": "Raiffeisenbank Wesermarsch-S\u00fcd",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-wesermarsch-sued.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

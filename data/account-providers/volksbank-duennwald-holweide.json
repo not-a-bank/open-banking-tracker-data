@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Dünnwald-Holweide",
-  "legalName": "Volksbank Dünnwald-Holweide",
+  "name": "Volksbank D\u00fcnnwald-Holweide",
+  "legalName": "Volksbank D\u00fcnnwald-Holweide",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-duennwald-holweide.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

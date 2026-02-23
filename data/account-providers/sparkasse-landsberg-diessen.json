@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Landsberg-Dießen",
-  "legalName": "Sparkasse Landsberg-Dießen",
+  "name": "Sparkasse Landsberg-Die\u00dfen",
+  "legalName": "Sparkasse Landsberg-Die\u00dfen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-landsberg-diessen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

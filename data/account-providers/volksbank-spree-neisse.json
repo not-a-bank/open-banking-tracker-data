@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Spree-Neiße",
-  "legalName": "Volksbank Spree-Neiße",
+  "name": "Volksbank Spree-Nei\u00dfe",
+  "legalName": "Volksbank Spree-Nei\u00dfe",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-spree-neisse.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

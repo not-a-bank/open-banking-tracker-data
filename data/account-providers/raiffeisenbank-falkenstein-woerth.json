@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Falkenstein-Wörth",
-  "legalName": "Raiffeisenbank Falkenstein-Wörth",
+  "name": "Raiffeisenbank Falkenstein-W\u00f6rth",
+  "legalName": "Raiffeisenbank Falkenstein-W\u00f6rth",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-falkenstein-woerth.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

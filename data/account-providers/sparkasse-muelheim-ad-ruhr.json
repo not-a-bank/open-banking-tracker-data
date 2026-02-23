@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Mülheim a.d. Ruhr",
-  "legalName": "Sparkasse Mülheim a.d. Ruhr",
+  "name": "Sparkasse M\u00fclheim a.d. Ruhr",
+  "legalName": "Sparkasse M\u00fclheim a.d. Ruhr",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-muelheim-ad-ruhr.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

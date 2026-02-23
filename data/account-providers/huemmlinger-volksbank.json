@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Hümmlinger Volksbank",
-  "legalName": "Hümmlinger Volksbank",
+  "name": "H\u00fcmmlinger Volksbank",
+  "legalName": "H\u00fcmmlinger Volksbank",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.huemmlinger-volksbank.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

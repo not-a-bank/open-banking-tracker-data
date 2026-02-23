@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Abtsgmünder Bank - Raiffeisen",
-  "legalName": "Abtsgmünder Bank - Raiffeisen",
+  "name": "Abtsgm\u00fcnder Bank - Raiffeisen",
+  "legalName": "Abtsgm\u00fcnder Bank - Raiffeisen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.abtsgmuender-bank-raiffeisen.com.ico",
@@ -23,7 +23,8 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

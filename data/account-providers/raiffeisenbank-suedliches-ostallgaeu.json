@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Südliches Ostallgäu",
-  "legalName": "Raiffeisenbank Südliches Ostallgäu",
+  "name": "Raiffeisenbank S\u00fcdliches Ostallg\u00e4u",
+  "legalName": "Raiffeisenbank S\u00fcdliches Ostallg\u00e4u",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-suedliches-ostallgaeu.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Altmühl-Jura",
-  "legalName": "Raiffeisenbank Altmühl-Jura",
+  "name": "Raiffeisenbank Altm\u00fchl-Jura",
+  "legalName": "Raiffeisenbank Altm\u00fchl-Jura",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-altmuehl-jura.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

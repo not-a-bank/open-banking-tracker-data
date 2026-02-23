@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR Bank Südpfalz",
-  "legalName": "VR Bank Südpfalz",
+  "name": "VR Bank S\u00fcdpfalz",
+  "legalName": "VR Bank S\u00fcdpfalz",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-suedpfalz.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

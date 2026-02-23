@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR Bank Main-Kinzig-Büdingen",
-  "legalName": "VR Bank Main-Kinzig-Büdingen",
+  "name": "VR Bank Main-Kinzig-B\u00fcdingen",
+  "legalName": "VR Bank Main-Kinzig-B\u00fcdingen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-main-kinzig-buedingen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Bank11 für Privatkunden und Handel",
-  "legalName": "Bank11 für Privatkunden und Handel",
+  "name": "Bank11 f\u00fcr Privatkunden und Handel",
+  "legalName": "Bank11 f\u00fcr Privatkunden und Handel",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bank11-fuer-privatkunden-und-handel.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

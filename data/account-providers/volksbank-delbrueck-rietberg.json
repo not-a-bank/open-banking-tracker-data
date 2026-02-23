@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Delbrück-Rietberg",
-  "legalName": "Volksbank Delbrück-Rietberg",
+  "name": "Volksbank Delbr\u00fcck-Rietberg",
+  "legalName": "Volksbank Delbr\u00fcck-Rietberg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-delbrueck-rietberg.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

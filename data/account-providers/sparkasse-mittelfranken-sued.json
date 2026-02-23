@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Mittelfranken-Süd",
-  "legalName": "Sparkasse Mittelfranken-Süd",
+  "name": "Sparkasse Mittelfranken-S\u00fcd",
+  "legalName": "Sparkasse Mittelfranken-S\u00fcd",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-mittelfranken-sued.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

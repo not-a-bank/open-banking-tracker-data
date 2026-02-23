@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Börde-Bernburg",
-  "legalName": "Volksbank Börde-Bernburg",
+  "name": "Volksbank B\u00f6rde-Bernburg",
+  "legalName": "Volksbank B\u00f6rde-Bernburg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-boerde-bernburg.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

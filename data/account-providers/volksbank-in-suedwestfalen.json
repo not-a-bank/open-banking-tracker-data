@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank in Südwestfalen",
-  "legalName": "Volksbank in Südwestfalen",
+  "name": "Volksbank in S\u00fcdwestfalen",
+  "legalName": "Volksbank in S\u00fcdwestfalen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-in-suedwestfalen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

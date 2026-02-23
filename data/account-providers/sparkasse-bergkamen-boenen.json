@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Bergkamen-Bönen",
-  "legalName": "Sparkasse Bergkamen-Bönen",
+  "name": "Sparkasse Bergkamen-B\u00f6nen",
+  "legalName": "Sparkasse Bergkamen-B\u00f6nen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-bergkamen-boenen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

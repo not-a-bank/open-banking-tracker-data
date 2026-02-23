@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Mainfranken Würzburg",
-  "legalName": "Sparkasse Mainfranken Würzburg",
+  "name": "Sparkasse Mainfranken W\u00fcrzburg",
+  "legalName": "Sparkasse Mainfranken W\u00fcrzburg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-mainfranken-wuerzburg.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

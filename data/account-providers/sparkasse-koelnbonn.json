@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse KölnBonn",
-  "legalName": "Sparkasse KölnBonn",
+  "name": "Sparkasse K\u00f6lnBonn",
+  "legalName": "Sparkasse K\u00f6lnBonn",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-koelnbonn.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

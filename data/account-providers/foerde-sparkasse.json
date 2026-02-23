@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Förde Sparkasse",
-  "legalName": "Förde Sparkasse",
+  "name": "F\u00f6rde Sparkasse",
+  "legalName": "F\u00f6rde Sparkasse",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.foerde-sparkasse.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

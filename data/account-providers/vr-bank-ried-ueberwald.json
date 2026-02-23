@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR Bank Ried-Überwald",
-  "legalName": "VR Bank Ried-Überwald",
+  "name": "VR Bank Ried-\u00dcberwald",
+  "legalName": "VR Bank Ried-\u00dcberwald",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-ried-ueberwald.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

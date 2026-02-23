@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Lüneburger Heide",
-  "legalName": "Volksbank Lüneburger Heide",
+  "name": "Volksbank L\u00fcneburger Heide",
+  "legalName": "Volksbank L\u00fcneburger Heide",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-lueneburger-heide.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

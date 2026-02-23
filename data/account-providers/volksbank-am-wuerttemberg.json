@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank am Württemberg",
-  "legalName": "Volksbank am Württemberg",
+  "name": "Volksbank am W\u00fcrttemberg",
+  "legalName": "Volksbank am W\u00fcrttemberg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-am-wuerttemberg.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

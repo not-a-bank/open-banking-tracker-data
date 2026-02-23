@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR Bank Augsburg-Ostallgäu",
-  "legalName": "VR Bank Augsburg-Ostallgäu",
+  "name": "VR Bank Augsburg-Ostallg\u00e4u",
+  "legalName": "VR Bank Augsburg-Ostallg\u00e4u",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-augsburg-ostallgaeu.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

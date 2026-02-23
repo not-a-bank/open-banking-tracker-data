@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse Döbeln",
-  "legalName": "Kreissparkasse Döbeln",
+  "name": "Kreissparkasse D\u00f6beln",
+  "legalName": "Kreissparkasse D\u00f6beln",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-doebeln.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

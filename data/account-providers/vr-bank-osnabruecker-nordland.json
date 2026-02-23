@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR-Bank Osnabrücker Nordland",
-  "legalName": "VR-Bank Osnabrücker Nordland",
+  "name": "VR-Bank Osnabr\u00fccker Nordland",
+  "legalName": "VR-Bank Osnabr\u00fccker Nordland",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-osnabruecker-nordland.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

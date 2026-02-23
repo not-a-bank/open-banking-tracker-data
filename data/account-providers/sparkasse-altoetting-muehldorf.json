@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Altötting-Mühldorf",
-  "legalName": "Sparkasse Altötting-Mühldorf",
+  "name": "Sparkasse Alt\u00f6tting-M\u00fchldorf",
+  "legalName": "Sparkasse Alt\u00f6tting-M\u00fchldorf",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-altoetting-muehldorf.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

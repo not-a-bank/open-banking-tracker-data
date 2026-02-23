@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR Bank Kempten-Oberallgäu",
-  "legalName": "VR Bank Kempten-Oberallgäu",
+  "name": "VR Bank Kempten-Oberallg\u00e4u",
+  "legalName": "VR Bank Kempten-Oberallg\u00e4u",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-kempten-oberallgaeu.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Breisgau- Markgräflerland",
-  "legalName": "Volksbank Breisgau- Markgräflerland",
+  "name": "Volksbank Breisgau- Markgr\u00e4flerland",
+  "legalName": "Volksbank Breisgau- Markgr\u00e4flerland",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-breisgau-markgraeflerland.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

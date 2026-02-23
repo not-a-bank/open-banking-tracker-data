@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Märkisches Sauerland Hemer - Menden",
-  "legalName": "Sparkasse Märkisches Sauerland Hemer - Menden",
+  "name": "Sparkasse M\u00e4rkisches Sauerland Hemer - Menden",
+  "legalName": "Sparkasse M\u00e4rkisches Sauerland Hemer - Menden",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-maerkisches-sauerland-hemer-menden.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

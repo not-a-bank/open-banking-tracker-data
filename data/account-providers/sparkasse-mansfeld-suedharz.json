@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Mansfeld-Südharz",
-  "legalName": "Sparkasse Mansfeld-Südharz",
+  "name": "Sparkasse Mansfeld-S\u00fcdharz",
+  "legalName": "Sparkasse Mansfeld-S\u00fcdharz",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-mansfeld-suedharz.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

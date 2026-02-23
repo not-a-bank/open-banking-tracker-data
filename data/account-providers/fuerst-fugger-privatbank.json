@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Fürst Fugger Privatbank",
-  "legalName": "Fürst Fugger Privatbank",
+  "name": "F\u00fcrst Fugger Privatbank",
+  "legalName": "F\u00fcrst Fugger Privatbank",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.fuerst-fugger-privatbank.com.ico",
@@ -23,7 +23,8 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

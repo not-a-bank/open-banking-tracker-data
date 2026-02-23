@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Kassel Göttingen",
-  "legalName": "Volksbank Kassel Göttingen",
+  "name": "Volksbank Kassel G\u00f6ttingen",
+  "legalName": "Volksbank Kassel G\u00f6ttingen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-kassel-goettingen.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

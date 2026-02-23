@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Vereinigte Raiffeisenbank Burgstädt",
-  "legalName": "Vereinigte Raiffeisenbank Burgstädt",
+  "name": "Vereinigte Raiffeisenbank Burgst\u00e4dt",
+  "legalName": "Vereinigte Raiffeisenbank Burgst\u00e4dt",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vereinigte-raiffeisenbank-burgstaedt.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Grävenwiesbach",
-  "legalName": "Raiffeisenbank Grävenwiesbach",
+  "name": "Raiffeisenbank Gr\u00e4venwiesbach",
+  "legalName": "Raiffeisenbank Gr\u00e4venwiesbach",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-graevenwiesbach.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

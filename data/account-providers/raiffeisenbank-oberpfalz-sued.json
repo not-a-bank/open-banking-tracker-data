@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Oberpfalz Süd",
-  "legalName": "Raiffeisenbank Oberpfalz Süd",
+  "name": "Raiffeisenbank Oberpfalz S\u00fcd",
+  "legalName": "Raiffeisenbank Oberpfalz S\u00fcd",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-oberpfalz-sued.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse Märkisch-Oderland",
-  "legalName": "Kreissparkasse Märkisch-Oderland",
+  "name": "Kreissparkasse M\u00e4rkisch-Oderland",
+  "legalName": "Kreissparkasse M\u00e4rkisch-Oderland",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-maerkisch-oderland.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "yapily"
+    "yapily",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

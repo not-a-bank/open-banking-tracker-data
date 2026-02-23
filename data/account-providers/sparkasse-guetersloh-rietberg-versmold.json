@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Gütersloh-Rietberg-Versmold",
-  "legalName": "Sparkasse Gütersloh-Rietberg-Versmold",
+  "name": "Sparkasse G\u00fctersloh-Rietberg-Versmold",
+  "legalName": "Sparkasse G\u00fctersloh-Rietberg-Versmold",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-guetersloh-rietberg-versmold.com.ico",
@@ -23,7 +23,8 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

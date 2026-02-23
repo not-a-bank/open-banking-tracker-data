@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Bonndorf-Stühlingen",
-  "legalName": "Sparkasse Bonndorf-Stühlingen",
+  "name": "Sparkasse Bonndorf-St\u00fchlingen",
+  "legalName": "Sparkasse Bonndorf-St\u00fchlingen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-bonndorf-stuehlingen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank München-Süd",
-  "legalName": "Raiffeisenbank München-Süd",
+  "name": "Raiffeisenbank M\u00fcnchen-S\u00fcd",
+  "legalName": "Raiffeisenbank M\u00fcnchen-S\u00fcd",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-muenchen-sued.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

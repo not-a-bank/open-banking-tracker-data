@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "PSD Bank Nürnberg",
-  "legalName": "PSD Bank Nürnberg",
+  "name": "PSD Bank N\u00fcrnberg",
+  "legalName": "PSD Bank N\u00fcrnberg",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.psd-bank-nuernberg.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

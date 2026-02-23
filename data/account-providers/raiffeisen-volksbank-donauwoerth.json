@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisen-Volksbank Donauwörth",
-  "legalName": "Raiffeisen-Volksbank Donauwörth",
+  "name": "Raiffeisen-Volksbank Donauw\u00f6rth",
+  "legalName": "Raiffeisen-Volksbank Donauw\u00f6rth",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisen-volksbank-donauwoerth.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

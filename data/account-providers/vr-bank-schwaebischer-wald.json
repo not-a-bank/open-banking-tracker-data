@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR Bank Schwäbischer Wald",
-  "legalName": "VR Bank Schwäbischer Wald",
+  "name": "VR Bank Schw\u00e4bischer Wald",
+  "legalName": "VR Bank Schw\u00e4bischer Wald",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-schwaebischer-wald.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Böllingertal",
-  "legalName": "Raiffeisenbank Böllingertal",
+  "name": "Raiffeisenbank B\u00f6llingertal",
+  "legalName": "Raiffeisenbank B\u00f6llingertal",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-boellingertal.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR-Bank Main-Rhön",
-  "legalName": "VR-Bank Main-Rhön",
+  "name": "VR-Bank Main-Rh\u00f6n",
+  "legalName": "VR-Bank Main-Rh\u00f6n",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-main-rhoen.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

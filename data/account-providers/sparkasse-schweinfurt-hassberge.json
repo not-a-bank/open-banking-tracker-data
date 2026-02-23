@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Schweinfurt-Haßberge",
-  "legalName": "Sparkasse Schweinfurt-Haßberge",
+  "name": "Sparkasse Schweinfurt-Ha\u00dfberge",
+  "legalName": "Sparkasse Schweinfurt-Ha\u00dfberge",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-schweinfurt-hassberge.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

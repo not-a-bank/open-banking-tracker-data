@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Sparkasse Bad Tölz-Wolfratshausen",
-  "legalName": "Sparkasse Bad Tölz-Wolfratshausen",
+  "name": "Sparkasse Bad T\u00f6lz-Wolfratshausen",
+  "legalName": "Sparkasse Bad T\u00f6lz-Wolfratshausen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sparkasse-bad-toelz-wolfratshausen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Genossenschaftsbank München",
-  "legalName": "Genossenschaftsbank München",
+  "name": "Genossenschaftsbank M\u00fcnchen",
+  "legalName": "Genossenschaftsbank M\u00fcnchen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.genossenschaftsbank-muenchen.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

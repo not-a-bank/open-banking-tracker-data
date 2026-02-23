@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Märkische Bank",
-  "legalName": "Märkische Bank",
+  "name": "M\u00e4rkische Bank",
+  "legalName": "M\u00e4rkische Bank",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.maerkische-bank.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Allgäu-Oberschwaben",
-  "legalName": "Volksbank Allgäu-Oberschwaben",
+  "name": "Volksbank Allg\u00e4u-Oberschwaben",
+  "legalName": "Volksbank Allg\u00e4u-Oberschwaben",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-allgaeu-oberschwaben.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

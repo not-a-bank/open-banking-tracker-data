@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Genossenschaftsbank Weil im Schönbuch",
-  "legalName": "Genossenschaftsbank Weil im Schönbuch",
+  "name": "Genossenschaftsbank Weil im Sch\u00f6nbuch",
+  "legalName": "Genossenschaftsbank Weil im Sch\u00f6nbuch",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.genossenschaftsbank-weil-im-schoenbuch.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Wallgau-Krün",
-  "legalName": "Raiffeisenbank Wallgau-Krün",
+  "name": "Raiffeisenbank Wallgau-Kr\u00fcn",
+  "legalName": "Raiffeisenbank Wallgau-Kr\u00fcn",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-wallgau-kruen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

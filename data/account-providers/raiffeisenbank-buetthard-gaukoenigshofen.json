@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Raiffeisenbank Bütthard-Gaukönigshofen",
-  "legalName": "Raiffeisenbank Bütthard-Gaukönigshofen",
+  "name": "Raiffeisenbank B\u00fctthard-Gauk\u00f6nigshofen",
+  "legalName": "Raiffeisenbank B\u00fctthard-Gauk\u00f6nigshofen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisenbank-buetthard-gaukoenigshofen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

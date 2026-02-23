@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "VR-Bank in Südniedersachsen",
-  "legalName": "VR-Bank in Südniedersachsen",
+  "name": "VR-Bank in S\u00fcdniedersachsen",
+  "legalName": "VR-Bank in S\u00fcdniedersachsen",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.vr-bank-in-suedniedersachsen.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

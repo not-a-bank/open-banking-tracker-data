@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Volksbank Raiffeisenbank AmmerGäu",
-  "legalName": "Volksbank Raiffeisenbank AmmerGäu",
+  "name": "Volksbank Raiffeisenbank AmmerG\u00e4u",
+  "legalName": "Volksbank Raiffeisenbank AmmerG\u00e4u",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.volksbank-raiffeisenbank-ammergaeu.com.ico",
@@ -24,7 +24,8 @@
   "apiProducts": [],
   "apiAggregators": [
     "gocardless",
-    "lunchflow"
+    "lunchflow",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,

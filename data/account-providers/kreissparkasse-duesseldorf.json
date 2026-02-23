@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "Kreissparkasse Düsseldorf",
-  "legalName": "Kreissparkasse Düsseldorf",
+  "name": "Kreissparkasse D\u00fcsseldorf",
+  "legalName": "Kreissparkasse D\u00fcsseldorf",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.kreissparkasse-duesseldorf.com.ico",
@@ -25,7 +25,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "volt"
+    "volt",
+    "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
