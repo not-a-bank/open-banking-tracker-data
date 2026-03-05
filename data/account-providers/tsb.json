@@ -7,11 +7,15 @@
     "retail",
     "corporate"
   ],
-  "name": "TSB",
+  "name": "TSB Bank",
   "legalName": "TSB Bank plc",
   "ipoStatus": "private",
   "stockSymbol": "BME:SAB",
   "verified": false,
+  "aliases": [
+    "TSB"
+  ],
+  "description": "TSB Bank (TSB Bank plc) is a UK retail and commercial bank headquartered in Edinburgh. It provides current accounts, savings, mortgages, personal loans, credit cards, and insurance to consumers and businesses across Great Britain. TSB offers open banking APIs for account information, payment initiation, and confirmation of funds.",
   "status": "live",
   "icon": "https://res.cloudinary.com/banq/image/upload/v1552296092/radar/icons/TSB.jpg",
   "websiteUrl": "https://www.tsb.co.uk/",
@@ -42,7 +46,9 @@
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
-  "apiAuth": [],
+  "apiAuth": [
+    "OAUTH2"
+  ],
   "apiReferenceUrl": "https://apis.developer.tsb.co.uk/",
   "apiPerformanceReports": [],
   "apiSpecs": [],
@@ -53,7 +59,7 @@
       "categories": [
         "accounts"
       ],
-      "description": "",
+      "description": "Access to account information, balances and transaction history for personal and business current accounts, subject to customer consent.",
       "documentationUrl": "https://apis.developer.tsb.co.uk/doc-aisp.html",
       "apiReferenceUrl": "https://apis.developer.tsb.co.uk/doc-aisp.html",
       "specs": [
@@ -71,7 +77,7 @@
       "categories": [
         "payments"
       ],
-      "description": "",
+      "description": "Initiate single immediate domestic payments from UK personal and business current accounts on behalf of consenting customers.",
       "documentationUrl": "https://apis.developer.tsb.co.uk/doc-pisp.html",
       "apiReferenceUrl": "https://apis.developer.tsb.co.uk/doc-pisp.html",
       "specs": [
@@ -89,7 +95,7 @@
       "categories": [
         "funds"
       ],
-      "description": "",
+      "description": "Verify that an account holds sufficient funds for a payment (CBPII).",
       "documentationUrl": "https://apis.developer.tsb.co.uk/doc-funds.html",
       "apiReferenceUrl": "https://apis.developer.tsb.co.uk/doc-funds.html",
       "specs": [
@@ -102,7 +108,9 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "OBIE"
+  ],
   "apiStatusUrls": [],
   "apiAggregators": [
     "akahu",
@@ -121,7 +129,16 @@
   ],
   "collections": [],
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/gb/app/tsb-mobile-banking/id1160720878"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=uk.co.tsb.newmobilebank"
+    }
+  ],
   "investorRelationsUrl": "https://www.grupbancsabadell.com/en/",
   "financialReports": [
     {
@@ -136,7 +153,12 @@
   "github": null,
   "fca": "001b000000MfI5JAAV",
   "alumni": [],
-  "articles": [],
+  "articles": [
+    {
+      "url": "https://www.openbankingexpo.com/news/aperidata-collaborates-with-tsb-bank-on-open-banking-proof-of-concept/",
+      "date": "2025-01-27"
+    }
+  ],
   "stack": [
     {
       "id": "redoc",
@@ -165,12 +187,43 @@
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
-  "partnerships": [],
+  "partnerships": [
+    {
+      "id": "aperidata",
+      "name": "AperiData",
+      "websiteUrl": "https://www.aperidata.com/",
+      "title": "AperiData collaborates with TSB Bank on Open Banking proof of concept",
+      "description": "Following the 2024 TSB Innovation Labs programme, UK-based Open Banking credit bureau AperiData unveiled a proof of concept with TSB Bank. TSB gains access to AperiData's Credit Console platform and Open Banking data insights to improve credit-related decision making and deliver deeper insights into customers' financial behaviours.",
+      "sourceUrl": "https://www.openbankingexpo.com/news/aperidata-collaborates-with-tsb-bank-on-open-banking-proof-of-concept/",
+      "sourceDate": "2025-01-27"
+    }
+  ],
   "rewardPartners": [],
   "integrations": [
-    "moneyhub-enterprise"
+    {
+      "id": "moneyhub-enterprise",
+      "name": "Moneyhub Enterprise",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1567665469/catalog/moneyhub/icon128x128.jpg",
+      "websiteUrl": "https://www.moneyhub.com/"
+    },
+    {
+      "id": "qonto",
+      "name": "Qonto",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1571995818/catalog/qonto-eu/icon128x128.jpg",
+      "websiteUrl": "https://qonto.com/en-de/integrations/tsb"
+    }
   ],
-  "platforms": [],
+  "platforms": [
+    "ios",
+    "android"
+  ],
   "awards": [],
-  "bic": "TSBSGB2A"
+  "bic": "TSBSGB2A",
+  "fscsProtected": true,
+  "accelerators": [
+    {
+      "name": "TSB Labs (FinTech Scotland)",
+      "url": "https://www.fintechscotland.com/research-innovation/innovation-lab/tsb-labs/"
+    }
+  ]
 }
