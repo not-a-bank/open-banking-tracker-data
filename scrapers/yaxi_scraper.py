@@ -116,10 +116,7 @@ def update_bank_providers() -> None:
         if bank_id in existing_ids:
             if add_to_existing_provider(provider_path):
                 updated_count += 1
-                if bank_id != bank_id:
-                    print(f"  Updated: {name} -> {bank_id}.json (added yaxi)")
-                else:
-                    print(f"  Updated: {name} (added yaxi)")
+                print(f"  Updated: {name} (added yaxi)")
             else:
                 skipped_count += 1
         else:
@@ -131,7 +128,7 @@ def update_bank_providers() -> None:
         id_mappings[bank_id] = connection["id"]
 
     with open(CONNECTION_IDS_PATH, "w", encoding="utf-8") as f:
-        json.dump(id_mappings, f, indent=2)
+        json.dump(id_mappings, f, indent=2, ensure_ascii=False)
         f.write("\n")
     print(f"Saved {len(id_mappings)} YAXI connection ID mappings")
 

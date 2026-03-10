@@ -273,7 +273,7 @@ def load_json(path: Path) -> dict:
 def save_json(path: Path, data: dict) -> None:
     """Save data to a JSON file."""
     with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+        json.dump(data, f, indent=2, ensure_ascii=False)
         f.write("\n")
 
 
