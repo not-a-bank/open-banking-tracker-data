@@ -1,0 +1,20 @@
+{
+  "id": "finexer",
+  "label": "Finexer",
+  "website": "https://finexer.com",
+  "iconUrl": "https://finexer.blob.core.windows.net/logos/finexer-d128.png",
+  "developerPortalUrl": "https://finexer.com/docs",
+  "countryHQ": "GB",
+  "verified": false,
+  "marketFocus": "UK and Europe",
+  "marketCoverage": {
+    "live": [
+      "GB",
+      "IE"
+    ],
+    "upcoming": [
+      "EU"
+    ]
+  },
+  "description": "Finexer is an FCA-authorised Open Banking infrastructure provider that enables businesses to access real-time financial data and process instant payments (pay-ins & payouts)."
+}
