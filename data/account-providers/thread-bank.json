@@ -1,17 +1,19 @@
 {
-  "id": "austin-capital-bank",
+  "id": "thread-bank",
   "type": [
     "account"
   ],
   "bankType": [
-    "retail"
+    "direct",
+    "retail",
+    "commercial"
   ],
-  "name": "Austin Capital Bank",
-  "legalName": "Austin Capital Bank",
+  "name": "Thread Bank",
+  "legalName": "Thread Bank",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.austincapitalbank.com.ico",
-  "websiteUrl": "https://www.austincapitalbank.com/",
+  "icon": "https://icons.duckduckgo.com/ip3/thread.bank.ico",
+  "websiteUrl": "https://thread.bank/",
   "countryHQ": "US",
   "countries": [
     "US"

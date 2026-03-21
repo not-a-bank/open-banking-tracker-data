@@ -30,6 +30,25 @@
     "status": "available",
     "sourceUrl": "https://docs.griffin.com/"
   },
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "documentationUrl": "https://griffin.com/blog/the-agentic-bank",
+    "programStatus": "beta",
+    "accessLevel": "read-write",
+    "launchDate": "2025-05-29",
+    "capabilities": [
+      "account-opening",
+      "payments",
+      "transaction-analysis",
+      "prototyping"
+    ],
+    "supportedModels": [
+      "Claude",
+      "ChatGPT",
+      "Custom Agents"
+    ]
+  },
   "developerPortalUrl": "https://docs.griffin.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
