@@ -1,0 +1,28 @@
+{
+  "id": "financial-elastic-mcp",
+  "label": "Elastic MCP Server for Digital Banking",
+  "website": "https://lobehub.com/mcp/amir-gorji-financial-elastic-mcp-server",
+  "iconUrl": "https://icons.duckduckgo.com/ip3/github.com.ico",
+  "countryHQ": "US",
+  "twitter": null,
+  "developerPortalUrl": "https://github.com/amir-gorji/financial-elastic-mcp-server",
+  "mcpServer": {
+    "type": "local",
+    "transport": "stdio",
+    "repositoryUrl": "https://github.com/amir-gorji/financial-elastic-mcp-server",
+    "documentationUrl": "https://lobehub.com/mcp/amir-gorji-financial-elastic-mcp-server",
+    "env": [
+      "ELASTIC_URL",
+      "ELASTIC_API_KEY"
+    ],
+    "tools": [
+      "Cluster discovery",
+      "Read-only search",
+      "Cluster health",
+      "Kibana alert status",
+      "PII redaction",
+      "Audit logging"
+    ]
+  },
+  "note": "Stdio MCP server for Elasticsearch with multi-stage PII redaction; conversational access to digital banking telemetry (payment rails, sessions, APM, logs) for business, architecture, and engineering teams. MIT license. Author: amir-gorji. Listed for regulated / digital-banking MCP tooling (not an open banking account aggregator)."
+}

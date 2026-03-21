@@ -26,6 +26,31 @@
     "status": "available",
     "sourceUrl": "https://developers.coinbase.com"
   },
+  "mcpServer": {
+    "type": "local",
+    "transport": "stdio",
+    "npmPackage": "@coinbase/payments-mcp",
+    "command": "npx",
+    "args": [
+      "-y",
+      "@coinbase/payments-mcp"
+    ],
+    "documentationUrl": "https://docs.cdp.coinbase.com/payments-mcp/welcome",
+    "programStatus": "live",
+    "accessLevel": "read-write",
+    "launchDate": "2025-09-12",
+    "capabilities": [
+      "payments",
+      "wallet-management",
+      "onramp",
+      "stablecoin-payments"
+    ],
+    "supportedModels": [
+      "Claude",
+      "Gemini",
+      "Other LLMs"
+    ]
+  },
   "developerPortalUrl": "https://developers.coinbase.com",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
