@@ -173,6 +173,34 @@
       "title": "Website",
       "examples": ["https://www.abnamro.com/"]
     },
+    "retailWebLoginUrl": {
+      "title": "Retail web login URL",
+      "description": "HTTPS URL where personal/retail customers sign in to web online banking. Not the developer portal. Use null when only app-based access exists.",
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "commercialWebLoginUrl": {
+      "title": "Commercial web login URL",
+      "description": "HTTPS URL where business/commercial customers sign in when distinct from retail. Use null if not offered on the web or same entry as retail.",
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
     "countryHQ": {
       "type": "string",
       "title": "Country HQ",
