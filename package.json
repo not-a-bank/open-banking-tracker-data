@@ -9,6 +9,8 @@
     "validate-providers": "node scripts/validate.js",
     "validate-aggregators": "node scripts/validate-aggregators.js",
     "validate-file": "node scripts/validate-file.js",
+    "validate-links": "node scripts/validate-links.js --strict",
+    "validate-links:aggregators": "node scripts/validate-links.js --full --no-providers --aggregators",
     "scrape:plaid": "python3 scrapers/plaid_scraper.py",
     "scrape:flinks": "python3 scrapers/flinks_scraper.py",
     "scrape:gocardless": "python3 scrapers/gocardless_scraper.py",

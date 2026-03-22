@@ -4,26 +4,175 @@
     "account"
   ],
   "bankType": [
-    "retail"
+    "commercial",
+    "challenger"
   ],
   "name": "Slash",
-  "legalName": "Slash",
+  "legalName": "Slash Financial, Inc.",
+  "description": "US business banking and corporate cards from a fintech (not an FDIC-insured bank). Deposit accounts and the Slash Platinum Visa charge card are provided by Column N.A., Member FDIC, including FDIC pass-through insurance and Column’s deposit sweep arrangements with network banks. Digital-asset and stablecoin features involve third parties (e.g. Bridge Building Inc, Layer2 Financial, Inc.). Working-capital loans are arranged with Slope as technology partner and Lead Bank as lender. Slash Treasury is an advisory/brokerage stack through Atomic Invest and Atomic Brokerage (FINRA/SIPC). The platform markets AI/automation capabilities (e.g. Agents) and offers a hosted Model Context Protocol (MCP) server so AI clients can list Slash API endpoints, inspect schemas, and call the API; optional RSA public key encrypts PAN/CVV before data reaches the agent. Some capabilities are limited to the Pro plan. See Slash’s website legal footers for full terms.",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.slash.com.ico",
+  "icon": "https://icons.duckduckgo.com/ipCjec3/www.slash.com.ico",
   "websiteUrl": "https://www.slash.com",
   "countryHQ": "US",
   "countries": [
     "US"
   ],
+  "thirdPartyBankingLicense": "column",
   "webApplication": true,
-  "mobileApps": [],
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://docs.slash.com/",
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "serverUrl": "https://mcp.slash.com/mcp",
+    "authType": "api_key",
+    "documentationUrl": "https://docs.slash.com/docs/mcp",
+    "programStatus": "live",
+    "accessLevel": "read-write",
+    "tools": [
+      "list_endpoints",
+      "get_endpoint_schema",
+      "call_api_endpoint"
+    ],
+    "capabilities": [
+      "account-data",
+      "cards",
+      "api-exploration",
+      "payments"
+    ],
+    "supportedModels": [
+      "Claude",
+      "ChatGPT",
+      "Cursor",
+      "Codex",
+      "OpenClaw"
+    ]
+  },
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
     "plaid"
+  ],
+  "partnerships": [
+    {
+      "id": "column",
+      "name": "Column N.A.",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1650573236/radar/icons/column.jpg",
+      "websiteUrl": "https://column.com/",
+      "title": "Banking, card issuance, and FDIC deposit insurance",
+      "desription": "Banking services and the Slash Platinum Visa charge card are provided by Column N.A., Member FDIC. Business checking deposits are FDIC-insured through Column and Column’s deposit sweep program (including placement with network banks; see Column’s sweep disclosures).",
+      "sourceUrl": "https://www.slash.com/"
+    },
+    {
+      "name": "Bridge Building Inc",
+      "icon": "https://icons.duckduckgo.com/ip3/bridge.xyz.ico",
+      "websiteUrl": "https://www.bridge.xyz/",
+      "title": "Digital assets and USDSL stablecoin",
+      "desription": "USDSL is issued and redeemed by Bridge Building Inc; Slash does not custody digital assets or guarantee redemptions. Global USD / USDSL and related digital-asset services are offered in partnership with third-party providers.",
+      "sourceUrl": "https://www.slash.com/"
+    },
+    {
+      "name": "Layer2 Financial, Inc.",
+      "icon": "https://icons.duckduckgo.com/ip3/www.layer2financial.com.ico",
+      "websiteUrl": "https://www.l2f.io/",
+      "title": "Cryptocurrency conversion (with Bridge Building Inc)",
+      "desription": "Eligible Slash Platinum users may hold crypto at Bridge Building Inc or Layer2 Financial, Inc.; those providers convert crypto to USD for transfer to the Slash Platinum account. Stablecoin custody and transfer may be provided by Bridge and/or Layer2.",
+      "sourceUrl": "https://www.slash.com/"
+    },
+    {
+      "name": "Slope",
+      "icon": "https://icons.duckduckgo.com/ip3/slope.com.ico",
+      "websiteUrl": "https://www.slopepay.com/",
+      "title": "Working capital (technology partner)",
+      "desription": "Slope is a financial technology company, not a bank; it partners on business-purpose lending that is originated by Lead Bank and subject to credit approval.",
+      "sourceUrl": "https://www.slash.com/"
+    },
+    {
+      "id": "lead-bank-business",
+      "name": "Lead Bank",
+      "icon": "https://icons.duckduckgo.com/ip3/www.lead.bank.ico",
+      "websiteUrl": "https://www.lead.bank/",
+      "title": "Working capital lender",
+      "desription": "Business-purpose loans offered in the Slash flow are made by Lead Bank, subject to credit approval, disclosures, and program requirements described on Slash.",
+      "sourceUrl": "https://www.slash.com/"
+    },
+    {
+      "name": "Atomic Invest",
+      "icon": "https://icons.duckduckgo.com/ip3/atomicvest.com.ico",
+      "websiteUrl": "https://atomicvest.com/",
+      "title": "Slash Treasury — investment adviser",
+      "desription": "Slash Treasury is an investment advisory account provided by Atomic Invest (SEC-registered investment adviser). Yields and money-market options are variable; investments are not FDIC insured and may lose value.",
+      "sourceUrl": "https://www.slash.com/"
+    },
+    {
+      "name": "Atomic Brokerage",
+      "icon": "https://icons.duckduckgo.com/ip3/atomicvest.com.ico",
+      "websiteUrl": "https://atomicvest.com/",
+      "title": "Slash Treasury — broker-dealer",
+      "desription": "Brokerage services for Slash Treasury are provided by Atomic Brokerage, a registered broker-dealer and FINRA/SIPC member, as described in Atomic Treasury disclosures.",
+      "sourceUrl": "https://www.slash.com/"
+    }
+  ],
+  "integrations": [
+    {
+      "name": "QuickBooks Online",
+      "type": "Accounting",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "name": "Xero",
+      "type": "Accounting",
+      "websiteUrl": "https://www.xero.com/"
+    },
+    {
+      "name": "BILL",
+      "type": "Accounting",
+      "websiteUrl": "https://www.bill.com/"
+    },
+    {
+      "name": "Bill.com",
+      "type": "Accounting",
+      "websiteUrl": "https://www.bill.com/"
+    },
+    {
+      "name": "Expensify",
+      "type": "Expense Management",
+      "websiteUrl": "https://www.expensify.com/"
+    },
+    {
+      "name": "Gusto",
+      "type": "HRIS",
+      "websiteUrl": "https://gusto.com/"
+    },
+    {
+      "name": "HubSpot",
+      "type": "CRM",
+      "websiteUrl": "https://www.hubspot.com/"
+    },
+    {
+      "name": "Shopify",
+      "type": "Ecommerce",
+      "websiteUrl": "https://www.shopify.com/"
+    },
+    {
+      "name": "EBizCharge",
+      "type": "Payments",
+      "websiteUrl": "https://www.ebizcharge.com/"
+    },
+    {
+      "name": "QuickBooks Time",
+      "type": "HRIS",
+      "websiteUrl": "https://quickbooks.intuit.com/time-tracking/"
+    }
   ],
   "ownership": [],
   "stateOwned": false,
