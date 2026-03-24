@@ -26,6 +26,25 @@
     "status": "available",
     "sourceUrl": "https://www.grasshopper.bank/banking-solutions/api-banking/"
   },
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "documentationUrl": "https://www.grasshopper.bank/press-releases/narmi-and-grasshopper-launch-first-mcp-server-by-a-u-s-bank-for-ai-driven-insights/",
+    "programStatus": "beta",
+    "accessLevel": "read-only",
+    "launchDate": "2025-08-01",
+    "partnerName": "Narmi",
+    "capabilities": [
+      "account-data",
+      "transaction-analysis",
+      "cash-flow",
+      "expense-categorization"
+    ],
+    "supportedModels": [
+      "Claude",
+      "ChatGPT"
+    ]
+  },
   "developerPortalUrl": "https://www.grasshopper.bank/banking-solutions/api-banking/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,

@@ -1,0 +1,24 @@
+{
+  "id": "agentcard",
+  "label": "AgentCard",
+  "website": "https://agentcard.sh/",
+  "iconUrl": "https://icons.duckduckgo.com/ip3/agentcard.sh.ico",
+  "countryHQ": "US",
+  "twitter": null,
+  "developerPortalUrl": "https://agentcard.sh/",
+  "mcpServer": {
+    "type": "local",
+    "transport": "stdio",
+    "documentationUrl": "https://agentcard.sh/",
+    "tools": [
+      "Create card",
+      "List cards",
+      "Get card details",
+      "Check balance",
+      "Close card",
+      "Record payment",
+      "MCP integration"
+    ]
+  },
+  "note": "Prepaid virtual Visa cards for AI agents. Fund a card, expose it via MCP so agents can create cards, list cards, get details, check balance, close cards, and record payments. Single-use by default with scoped spend limits; works anywhere Visa is accepted. CLI and MCP for Claude Desktop and Cursor. Listed for MCP and agentic payments discovery (not an open banking account aggregator)."
+}
