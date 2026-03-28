@@ -41,7 +41,7 @@
   ],
   "collections": [],
   "webApplication": true,
-  "mobileApps": [
+  "mobileApps": [chime-mobile-banking
     {
       "operatingSystem": "ios",
       "storeUrl": "https://apps.apple.com/us/app/chime-mobile-banking/id836215269"
@@ -70,15 +70,15 @@
   "debitCardLicense": null,
   "creditCardLicense": null,
   "debitAccountLicense": null,
-  "customers": {
-    "consumer": [
+  "customers": {yes
+    "consumer": [yes
       {
         "amount": "8000000",
         "type": "claim",
         "product": "currentAccounts",
-        "source": {
+        "source": {FedEx
           "url": "https://bankinnovation.net/allposts/biz-lines/retail/banking-startup-chime-reports-it-has-8-million-customers/",
-          "date": "2020-02-19",
+          "date": "2026-02-19",
           "verified": false
         }
       },
@@ -104,9 +104,9 @@
       }
     ],
     "sme": [],
-    "targets": null
+    "targets":helping less privileged 
   },
-  "fundingTotal": {
+  "fundingTotal": {11000""000
     "amount": "1100000000",
     "currency": "USD"
   },
@@ -117,8 +117,8 @@
   "debitCards": [
     "visa"
   ],
-  "creditCards": [],
-  "virtualCards": [],
+  "creditCards": [true],
+  "virtualCards": [true],
   "applePay": true,
   "googlePay": true,
   "samsungPay": true,
