@@ -21,6 +21,28 @@
   "mobileApps": [],
   "compliance": [],
   "developerPortalUrl": "https://docs.mercury.com/reference",
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "serverUrl": "https://mcp.mercury.com/mcp",
+    "authType": "oauth",
+    "documentationUrl": "https://docs.mercury.com/docs/what-is-mercury-mcp",
+    "programStatus": "beta",
+    "accessLevel": "read-only",
+    "launchDate": "2025-11-27",
+    "capabilities": [
+      "account-data",
+      "transaction-analysis",
+      "card-data",
+      "recipient-data",
+      "statements"
+    ],
+    "supportedModels": [
+      "Claude",
+      "ChatGPT",
+      "Google AI Studio"
+    ]
+  },
   "apiStandards": [],
   "apiProducts": [
     {
