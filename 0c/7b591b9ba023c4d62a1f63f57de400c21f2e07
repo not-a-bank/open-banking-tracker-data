@@ -1,0 +1,19 @@
+data/account-providers/godutch.json
+  s_f157c2b382db7e::t_fd2679a813d488 1-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "0c7b591b9ba023c4d62a1f63f57de400c21f2e07",
+  "prompts": {},
+  "sessions": {
+    "s_f157c2b382db7e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5472fc47-bd08-47c5-8592-c6d0da29cd95",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
