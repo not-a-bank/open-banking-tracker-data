@@ -1,0 +1,19 @@
+data/account-providers/flex.json
+  s_9092a47c712cf5::t_a6a05cd40e2a44 1-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "64c026523961979d484adb87c03c3e408ca228ed",
+  "prompts": {},
+  "sessions": {
+    "s_9092a47c712cf5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4f46fda8-95c9-4877-a2e1-36b27af5ffdb",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
