@@ -1,0 +1,19 @@
+data/api-aggregators/quickbooks.json
+  s_c109a24cd2dff3::t_1da3333a18f86e 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "6019091d4460c3f13bf872bea2c01ebd02c05abd",
+  "prompts": {},
+  "sessions": {
+    "s_c109a24cd2dff3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5da14cf7-98f7-41eb-a18e-50e6719b5d6b",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
