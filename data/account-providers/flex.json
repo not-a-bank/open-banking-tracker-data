@@ -1,0 +1,55 @@
+{
+  "id": "flex",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Flex",
+  "legalName": "Flexbase Technologies, Inc.",
+  "description": "Flex is an AI-native financial platform for business owners and entrepreneurs, offering business banking, a 3-in-1 business credit card with Net-60 terms, expense management, global payments across 180+ countries, and accounts payable/receivable automation. Banking services are provided by Thread Bank (Member FDIC) and credit cards are issued by Lead Bank.",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.flex.one.ico",
+  "websiteUrl": "https://www.flex.one/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "ipoStatus": "private",
+  "stack": [
+    {
+      "id": "thread-bank",
+      "name": "Thread Bank",
+      "icon": "https://icons.duckduckgo.com/ip3/www.thread.bank.ico",
+      "websiteUrl": "https://www.thread.bank/"
+    },
+    {
+      "id": "lead-bank",
+      "name": "Lead Bank",
+      "icon": "https://icons.duckduckgo.com/ip3/www.lead.bank.ico",
+      "websiteUrl": "https://www.lead.bank/"
+    }
+  ],
+  "thirdPartyBankingLicense": "thread-bank",
+  "creditCardLicense": "lead-bank",
+  "partnerships": [
+    {
+      "id": "visa",
+      "name": "Visa",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+      "websiteUrl": "https://visa.com"
+    }
+  ]
+}
