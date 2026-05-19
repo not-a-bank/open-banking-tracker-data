@@ -30,14 +30,14 @@
     "status": "available",
     "sourceUrl": "https://www.devolksbank.nl/artikel/nieuwe-europese-richtlijn-betaaldiensten-psd2-en-gevolgen-voor-de-klanten.html"
   },
-  "developerPortalUrl": "https://innovatie.devolksbank.nl/cases/api-koppelingen/",
+  "developerPortalUrl": "https://developer.devolksbank.nl/admin/app/home",
   "apiProducts": [
     {
       "label": "Transaction Information API",
       "type": "accountInformation",
       "categories": ["accounts"],
       "description": "Deze API werkt eigenlijk op dezelfde manier als betaalinitiatie, met een ander resultaat. Zo kan je bijvoorbeeld een app met een mooi huishoudboekje machtigen om jouw rekeninginformatie op te halen. Ook hier werkt de dienst niet zonder jouw digitale handtekening in de vorm van de code die door je kastje wordt gegenereerd.",
-      "documentationUrl": "https://innovatie.devolksbank.nl/cases/api-koppelingen/",
+      "documentationUrl": "https://developer.devolksbank.nl/apihub/#/apis/41dc1d57-6add-488e-a62c-f62e001b93ae/show",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "upcoming"
@@ -47,7 +47,7 @@
       "type": "paymentInitiation",
       "categories": ["payments"],
       "description": "Met een betaalinitiatie kan een andere partij dan je eigen bank namens jou een betaling bij de bank indienen. Doordat jij die betaling ondertekent met het kastje van jouw bank, de zogeheten Digipas bij de ASN, RegioBank en SNS, weet de bank zeker dat jij de opdracht hebt gegeven. Het heeft daarmee in de ervaring iets weg van een dienst die je waarschijnlijk al gebruikt: iDEAL.",
-      "documentationUrl": "https://innovatie.devolksbank.nl/cases/api-koppelingen/",
+      "documentationUrl": "https://developer.devolksbank.nl/apihub/#/apis/176d381a-ae43-48a7-9490-e76b5d9221cf/show",
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "upcoming"
