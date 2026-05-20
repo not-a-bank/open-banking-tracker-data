@@ -4,8 +4,7 @@
     "account"
   ],
   "bankType": [
-    "commercial",
-    "retail"
+    "commercial"
   ],
   "name": "Piermont Bank",
   "description": "Piermont is redefining the commercial banking experience with its technology platform and innovative process as a new bank.",
@@ -30,7 +29,7 @@
   "mcpServer": {
     "type": "hosted",
     "transport": "sse",
-    "documentationUrl": "https://www.narmi.com/narmi-ai",
+    "documentationUrl": "https://docs.narmi.com/docs/narmi-developer-docs/bc6e7tqtatpvz-about-narmi-mcp-server",
     "programStatus": "beta",
     "accessLevel": "read-only",
     "launchDate": "2025-12-02",
