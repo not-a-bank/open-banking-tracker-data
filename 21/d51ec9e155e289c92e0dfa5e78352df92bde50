@@ -1,0 +1,19 @@
+data/account-providers/snappi.json
+  s_22f0b0c41d9949::t_12fcd75ba30331 1-53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "21d51ec9e155e289c92e0dfa5e78352df92bde50",
+  "prompts": {},
+  "sessions": {
+    "s_22f0b0c41d9949": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7aea1ac1-ee4f-48f7-a1f2-d1be6b888203",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
