@@ -1,0 +1,19 @@
+data/account-providers/xono.json
+  s_22f0b0c41d9949::t_7634a54c07ab1a 1-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "b3b39e9997c4fa4f6528cda36a9829d4e91fec33",
+  "prompts": {},
+  "sessions": {
+    "s_22f0b0c41d9949": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7aea1ac1-ee4f-48f7-a1f2-d1be6b888203",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
