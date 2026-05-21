@@ -1,0 +1,53 @@
+{
+  "id": "snappi",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger",
+    "retail"
+  ],
+  "name": "Snappi",
+  "legalName": "SNAPPI S.A.",
+  "description": "The first Greek neobank fully licensed by the European Central Bank (June 2024), offering Greek IBAN accounts, virtual and physical debit cards, IRIS payments, savings (1.0% interest), Pay Later (4 interest-free installments), and an interest-free Cash Now loan. A joint initiative between Piraeus Group and Natech. PSD2-compliant Open Banking APIs are live in production with SDKs in C#, JavaScript, Ruby, Python, and Go.",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.snappibank.com.ico",
+  "websiteUrl": "https://www.snappibank.com/en/",
+  "countryHQ": "GR",
+  "countries": [
+    "GR"
+  ],
+  "webApplication": false,
+  "mobileApps": [],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "compliant"
+    }
+  ],
+  "developerPortalUrl": "https://docs.snappibank.com/",
+  "apiStandards": [],
+  "apiProducts": [
+    {
+      "type": "accountInformation"
+    },
+    {
+      "type": "paymentInitiation"
+    }
+  ],
+  "apiAggregators": [],
+  "ownership": [
+    {
+      "name": "Piraeus Financial Holdings",
+      "type": "shareholder"
+    },
+    {
+      "name": "Natech",
+      "type": "shareholder"
+    }
+  ],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "SNPIGR2AXXX"
+}
