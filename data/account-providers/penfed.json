@@ -1,0 +1,33 @@
+{
+  "id": "penfed",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "credit-union",
+    "retail"
+  ],
+  "name": "PenFed Credit Union",
+  "legalName": "Pentagon Federal Credit Union",
+  "description": "One of the largest US credit unions, serving over 2.9 million members worldwide with $34B+ in assets. Established in 1935 as the War Department Credit Union. Headquartered in Tysons, Virginia. Open to all — no military service required for membership.",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.penfed.org.ico",
+  "websiteUrl": "https://www.penfed.org/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

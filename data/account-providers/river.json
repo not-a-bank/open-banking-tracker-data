@@ -1,0 +1,34 @@
+{
+  "id": "river",
+  "type": [
+    "account",
+    "crypto",
+    "brokerage"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "River",
+  "legalName": "River Financial Inc.",
+  "description": "Bitcoin-focused financial services company offering buy/sell, custody, USD cash management, lightning network payments, and bitcoin-collateralized lending. Founded 2019 with the mission to build a Bitcoin-native bank. HQ in San Francisco with a global operations center in Columbus, Ohio.",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/river.com.ico",
+  "websiteUrl": "https://river.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}
