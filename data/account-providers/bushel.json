@@ -1,0 +1,33 @@
+{
+  "id": "bushel",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Bushel",
+  "legalName": "Bushel, Inc.",
+  "description": "Software and payments platform for US agriculture — growers, grain buyers, ag retailers, protein producers, and food companies. Bushel Wallet offers business accounts with banking services provided by The Bancorp Bank, N.A., and connects to up to six external bank accounts via the Plaid network for settlements, ag lending, and invoice payments. HQ in Fargo, North Dakota.",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/bushelpowered.com.ico",
+  "websiteUrl": "https://bushelpowered.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "plaid"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "thirdPartyBankingLicense": "the-bancorp-bank"
+}
