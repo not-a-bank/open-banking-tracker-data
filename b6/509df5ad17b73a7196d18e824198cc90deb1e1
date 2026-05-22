@@ -1,0 +1,31 @@
+data/account-providers/penfed.json
+  s_22f0b0c41d9949::t_7b72852fb8dc28 1-33
+data/account-providers/river.json
+  s_22f0b0c41d9949::t_63d3305e4bc963 1-34
+data/account-providers/erebor-bank.json
+  s_22f0b0c41d9949::t_cc249a96fe98fb 26-28
+data/account-providers/bushel.json
+  s_22f0b0c41d9949::t_033439e71bb7fe 1-33
+data/account-providers/coinbase.json
+  s_22f0b0c41d9949::t_4e0f5af6fd57e7 69-70
+data/account-providers/crypto-com.json
+  s_22f0b0c41d9949::t_6630019158e55d 37-38
+data/account-providers/flex.json
+  s_22f0b0c41d9949::t_c13af7ea6a02c9 26-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.11",
+  "base_commit_sha": "b6509df5ad17b73a7196d18e824198cc90deb1e1",
+  "prompts": {},
+  "sessions": {
+    "s_22f0b0c41d9949": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7aea1ac1-ee4f-48f7-a1f2-d1be6b888203",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
