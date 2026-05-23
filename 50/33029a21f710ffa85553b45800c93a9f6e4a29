@@ -1,0 +1,19 @@
+data/account-providers/aib-bank.json
+  s_ef2c497f3eb8fe::t_2c2d7c32c01b4a 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "5033029a21f710ffa85553b45800c93a9f6e4a29",
+  "prompts": {},
+  "sessions": {
+    "s_ef2c497f3eb8fe": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "208a736f-7127-490d-a90a-5520f7476e80",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
