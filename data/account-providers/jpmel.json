@@ -49,7 +49,7 @@
     "GBP"
   ],
   "sortCodes": [
-    "60-83-71"
+    "60-84-07"
   ],
   "ibanSupport": false,
   "compliance": [
@@ -194,7 +194,7 @@
       "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-aisp",
       "premium": false,
       "stage": "live",
-      "standard": "Open Banking UK Read/Write API v3.1",
+      "standard": "Open Banking UK Read/Write API v3.1.10",
       "features": [
         "account-access-consents",
         "account-list",
@@ -240,7 +240,7 @@
       "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-pisp",
       "premium": false,
       "stage": "live",
-      "standard": "Open Banking UK Read/Write API v3.1",
+      "standard": "Open Banking UK Read/Write API v3.1.10",
       "features": [
         "domestic-single-immediate-payments",
         "domestic-future-dated-payments",
@@ -285,7 +285,7 @@
       "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-cbpii",
       "premium": false,
       "stage": "live",
-      "standard": "Open Banking UK Read/Write API v3.1",
+      "standard": "Open Banking UK Read/Write API v3.1.10",
       "features": [
         "funds-confirmation-consents",
         "funds-confirmation-checks",
