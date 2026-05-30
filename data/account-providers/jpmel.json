@@ -1,38 +1,763 @@
 {
   "id": "jpmel",
   "type": [
-    "account"
+    "account",
+    "payments",
+    "savings",
+    "card",
+    "openBankingApi"
   ],
   "bankType": [
-    "universal"
+    "retail",
+    "digital",
+    "app-only"
   ],
-  "status": "live",
   "name": "Chase UK",
-  "icon": "https://d1uuj3mi6rzwpm.cloudfront.net/logos/providers/gb/jpmel_gb.svg",
-  "verified": false,
-  "websiteUrl": "https://www.chase.co.uk",
+  "description": "Chase UK is the UK digital, mobile-first retail banking brand of J.P. Morgan Europe Limited, offering app-based personal current accounts, savings, round-ups, rewards/cashback and a Mastercard debit card. This record is UK-only and excludes Chase US credit-card, mortgage, branch and US checking products.",
+  "legalName": "J.P. Morgan Europe Limited",
+  "tradingNames": [
+    "Chase",
+    "Chase UK"
+  ],
+  "companyNumber": "00938937",
+  "registeredOffice": "25 Bank Street, Canary Wharf, London, E14 5JP, United Kingdom",
+  "ipoStatus": "private",
+  "stockSymbol": "NYSE:JPM",
+  "parentCompany": "JPMorgan Chase & Co.",
+  "verified": true,
+  "status": "live",
+  "launched": "2021-09-21",
+  "icon": "https://static.chase.co.uk/content/dam/chaseweb/gb/en/images/logos/chase-logo.svg",
+  "websiteUrl": "https://www.chase.co.uk/gb/en/",
+  "supportUrl": "https://www.chase.co.uk/gb/en/support/",
+  "serviceStatusUrl": "https://www.chase.co.uk/gb/en/support/service-status/",
+  "ownership": [
+    {
+      "shareholderName": "JPMorgan Chase & Co.",
+      "shareholderIconUrl": "https://logo.clearbit.com/jpmorganchase.com",
+      "providerId": "jpmorgan-chase-co",
+      "percentage": 100,
+      "relationship": "ultimateParent"
+    }
+  ],
+  "stateOwned": false,
   "countryHQ": "GB",
   "countries": [
     "GB"
   ],
-  "webApplication": false,
-  "mobileApps": [],
+  "currencies": [
+    "GBP"
+  ],
+  "sortCodes": [
+    "60-84-07"
+  ],
+  "ibanSupport": false,
   "compliance": [
     {
+      "regulation": "FCA/PRA",
+      "status": "authorised",
+      "registrationNumber": "124579",
+      "description": "J.P. Morgan Europe Limited is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority."
+    },
+    {
+      "regulation": "FSCS",
+      "status": "covered",
+      "limit": "GBP 85,000 per eligible person, per authorised institution",
+      "description": "Eligible Chase UK deposits are protected by the Financial Services Compensation Scheme."
+    },
+    {
       "regulation": "OB",
-      "status": "unknown"
+      "status": "compliant",
+      "description": "Chase UK exposes UK Open Banking APIs for authorised/registered TPPs."
+    },
+    {
+      "regulation": "PSD2 / UK Payment Services Regulations 2017",
+      "status": "compliant"
+    },
+    {
+      "regulation": "SCA",
+      "status": "implemented",
+      "description": "Strong customer authentication is used for app login, card payments and Open Banking consent/payment journeys."
+    },
+    {
+      "regulation": "UK GDPR / Data Protection Act 2018",
+      "status": "compliant"
+    },
+    {
+      "regulation": "Confirmation of Payee",
+      "status": "supported",
+      "description": "Name-checking is supported for UK bank-payment safety where applicable."
     }
   ],
-  "developerPortalUrl": "https://developer.jpmorgan.com/products/jpmel-accounts-payments",
-  "apiStandards": [],
-  "apiProducts": [],
-  "ownership": [],
-  "stateOwned": false,
-  "stockSymbol": "",
+  "sandbox": {
+    "status": "available",
+    "environment": "OBIE sandbox",
+    "developerPortalUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk",
+    "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs",
+    "supportsDynamicClientRegistration": true,
+    "supportsSimulatedCustomerConsent": true,
+    "notes": "Public Open Banking sandbox tenant for TPP testing. Production access requires appropriate regulatory permissions/registration and onboarding through Open Banking/Chase processes."
+  },
+  "developerPortalUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [
+    "oauth2",
+    "openid-connect",
+    "fapi",
+    "mtls",
+    "private-key-jwt",
+    "jwt-secured-authorisation-request",
+    "ciba",
+    "sca"
+  ],
+  "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs",
+  "apiPerformanceReports": [
+    {
+      "label": "Open Banking UK API performance dashboard",
+      "url": "https://www.openbanking.org.uk/api-performance/",
+      "scope": "UK Open Banking ASPSP API availability/performance reporting"
+    }
+  ],
+  "apiStatusUrls": [
+    {
+      "label": "Chase UK service status",
+      "url": "https://www.chase.co.uk/gb/en/support/service-status/"
+    },
+    {
+      "label": "Open Banking UK API performance",
+      "url": "https://www.openbanking.org.uk/api-performance/"
+    }
+  ],
+  "apiServerEndpoints": [
+    {
+      "environment": "sandbox",
+      "label": "Open Banking sandbox resource APIs",
+      "baseUrl": "https://api.openbanking-obie-sandbox.chase.co.uk/open-banking/v3.1",
+      "documentationUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs",
+      "paths": [
+        "/aisp",
+        "/pisp",
+        "/cbpii",
+        "/event-notifications",
+        "/register"
+      ],
+      "notes": "Confirm exact hostnames and well-known metadata against the Chase developer portal/Open Banking Directory before implementation."
+    },
+    {
+      "environment": "production",
+      "label": "Open Banking production resource APIs",
+      "baseUrl": "https://api.openbanking.chase.co.uk/open-banking/v3.1",
+      "documentationUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs",
+      "access": "Authorised/registered TPPs only",
+      "notes": "Production endpoint metadata should be validated against the current Open Banking Directory and Chase onboarding metadata."
+    }
+  ],
+  "apiSpecs": [
+    {
+      "label": "Open Banking UK Read/Write API",
+      "version": "v3.1.x",
+      "url": "https://standards.openbanking.org.uk/api-specifications/"
+    },
+    {
+      "label": "Open Banking Security Profile",
+      "version": "FAPI / OIDC",
+      "url": "https://standards.openbanking.org.uk/security-profiles/"
+    },
+    {
+      "label": "Open Banking Dynamic Client Registration",
+      "url": "https://standards.openbanking.org.uk/dynamic-client-registration/"
+    },
+    {
+      "label": "Open Banking Customer Experience Guidelines",
+      "url": "https://standards.openbanking.org.uk/customer-experience-guidelines/"
+    }
+  ],
+  "apiProducts": [
+    {
+      "label": "Account and Transaction API (AISP)",
+      "type": "accountInformation",
+      "categories": [
+        "accounts",
+        "balances",
+        "transactions",
+        "beneficiaries",
+        "direct-debits",
+        "standing-orders",
+        "scheduled-payments",
+        "products",
+        "statements"
+      ],
+      "description": "Provides authorised AISPs, with customer consent, access to eligible Chase UK account information including account details, balances, transactions, beneficiaries, direct debits, standing orders, scheduled/future-dated payment instructions, products and statement data where available.",
+      "documentationUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-aisp",
+      "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-aisp",
+      "premium": false,
+      "stage": "live",
+      "standard": "Open Banking UK Read/Write API v3.1.10",
+      "features": [
+        "account-access-consents",
+        "account-list",
+        "account-detail",
+        "balances",
+        "transactions",
+        "beneficiaries",
+        "direct-debits",
+        "standing-orders",
+        "scheduled-payments",
+        "products",
+        "statements-where-available"
+      ],
+      "endpoints": [
+        "POST /open-banking/v3.1/aisp/account-access-consents",
+        "GET /open-banking/v3.1/aisp/account-access-consents/{ConsentId}",
+        "DELETE /open-banking/v3.1/aisp/account-access-consents/{ConsentId}",
+        "GET /open-banking/v3.1/aisp/accounts",
+        "GET /open-banking/v3.1/aisp/accounts/{AccountId}",
+        "GET /open-banking/v3.1/aisp/balances",
+        "GET /open-banking/v3.1/aisp/accounts/{AccountId}/balances",
+        "GET /open-banking/v3.1/aisp/transactions",
+        "GET /open-banking/v3.1/aisp/accounts/{AccountId}/transactions",
+        "GET /open-banking/v3.1/aisp/beneficiaries",
+        "GET /open-banking/v3.1/aisp/direct-debits",
+        "GET /open-banking/v3.1/aisp/standing-orders",
+        "GET /open-banking/v3.1/aisp/scheduled-payments",
+        "GET /open-banking/v3.1/aisp/products",
+        "GET /open-banking/v3.1/aisp/statements"
+      ]
+    },
+    {
+      "label": "Payment Initiation API (PISP)",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments",
+        "domestic-payments",
+        "scheduled-payments",
+        "standing-orders"
+      ],
+      "description": "Enables authorised PISPs to initiate eligible GBP domestic payments from Chase UK current accounts, including single immediate domestic payments, future-dated domestic payments and domestic standing orders, with consent creation, status retrieval and resource lifecycle operations supported by the Open Banking standard.",
+      "documentationUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-pisp",
+      "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-pisp",
+      "premium": false,
+      "stage": "live",
+      "standard": "Open Banking UK Read/Write API v3.1.10",
+      "features": [
+        "domestic-single-immediate-payments",
+        "domestic-future-dated-payments",
+        "domestic-standing-orders",
+        "payment-consents",
+        "payment-status",
+        "funds-availability-check-during-consent-where-supported",
+        "app-based-sca-authorisation"
+      ],
+      "notSupported": [
+        "chase-uk-consumer-international-payment-initiation",
+        "file-payments",
+        "bulk-payments",
+        "chase-us-products"
+      ],
+      "endpoints": [
+        "POST /open-banking/v3.1/pisp/domestic-payment-consents",
+        "GET /open-banking/v3.1/pisp/domestic-payment-consents/{ConsentId}",
+        "GET /open-banking/v3.1/pisp/domestic-payment-consents/{ConsentId}/funds-confirmation",
+        "POST /open-banking/v3.1/pisp/domestic-payments",
+        "GET /open-banking/v3.1/pisp/domestic-payments/{DomesticPaymentId}",
+        "POST /open-banking/v3.1/pisp/domestic-scheduled-payment-consents",
+        "GET /open-banking/v3.1/pisp/domestic-scheduled-payment-consents/{ConsentId}",
+        "POST /open-banking/v3.1/pisp/domestic-scheduled-payments",
+        "GET /open-banking/v3.1/pisp/domestic-scheduled-payments/{DomesticScheduledPaymentId}",
+        "POST /open-banking/v3.1/pisp/domestic-standing-order-consents",
+        "GET /open-banking/v3.1/pisp/domestic-standing-order-consents/{ConsentId}",
+        "POST /open-banking/v3.1/pisp/domestic-standing-orders",
+        "GET /open-banking/v3.1/pisp/domestic-standing-orders/{DomesticStandingOrderId}"
+      ]
+    },
+    {
+      "label": "Confirmation of Funds API (CBPII)",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds",
+        "cards",
+        "payments"
+      ],
+      "description": "Allows authorised CBPIIs, with customer consent, to perform confirmation-of-funds checks against an eligible Chase UK account in GBP.",
+      "documentationUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-cbpii",
+      "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-cbpii",
+      "premium": false,
+      "stage": "live",
+      "standard": "Open Banking UK Read/Write API v3.1.10",
+      "features": [
+        "funds-confirmation-consents",
+        "funds-confirmation-checks",
+        "consent-status",
+        "app-based-sca-authorisation"
+      ],
+      "endpoints": [
+        "POST /open-banking/v3.1/cbpii/funds-confirmation-consents",
+        "GET /open-banking/v3.1/cbpii/funds-confirmation-consents/{ConsentId}",
+        "DELETE /open-banking/v3.1/cbpii/funds-confirmation-consents/{ConsentId}",
+        "POST /open-banking/v3.1/cbpii/funds-confirmations"
+      ]
+    },
+    {
+      "label": "Event Notification API",
+      "type": "eventNotification",
+      "categories": [
+        "events",
+        "webhooks",
+        "resource-updates"
+      ],
+      "description": "Provides Open Banking event-notification capability for TPP resource-update events such as account-access and payment-resource changes where enabled. Public documentation is exposed through the JPM/Chase sandbox tenant.",
+      "documentationUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-event-notification",
+      "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs/jpm-event-notification",
+      "premium": false,
+      "stage": "sandbox",
+      "standard": "Open Banking UK Event Notification API",
+      "features": [
+        "event-subscriptions",
+        "resource-update-events",
+        "signed-event-notifications"
+      ],
+      "endpoints": [
+        "POST /open-banking/v3.1/event-notifications/event-subscriptions",
+        "GET /open-banking/v3.1/event-notifications/event-subscriptions/{EventSubscriptionId}",
+        "PUT /open-banking/v3.1/event-notifications/event-subscriptions/{EventSubscriptionId}",
+        "DELETE /open-banking/v3.1/event-notifications/event-subscriptions/{EventSubscriptionId}",
+        "POST /open-banking/v3.1/event-notifications/events"
+      ]
+    },
+    {
+      "label": "Dynamic Client Registration (DCR)",
+      "type": "clientRegistration",
+      "categories": [
+        "onboarding",
+        "security",
+        "open-banking"
+      ],
+      "description": "Supports Open Banking-style dynamic client registration for TPP software clients using directory software statements and certificate-based authentication.",
+      "documentationUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs",
+      "apiReferenceUrl": "https://developer.openbanking-obie-sandbox.chase.co.uk/docs",
+      "premium": false,
+      "stage": "live",
+      "standard": "Open Banking Dynamic Client Registration",
+      "features": [
+        "software-statement-assertion",
+        "client-create",
+        "client-read",
+        "client-update",
+        "client-delete",
+        "certificate-bound-client-authentication"
+      ],
+      "endpoints": [
+        "POST /register",
+        "GET /register/{ClientId}",
+        "PUT /register/{ClientId}",
+        "DELETE /register/{ClientId}"
+      ]
+    }
+  ],
+  "apiStandards": [
+    "obie",
+    "open-banking-uk",
+    "fapi",
+    "oauth2",
+    "openid-connect",
+    "psd2"
+  ],
   "apiAggregators": [
     "finexer",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "truelayer",
+    "yapily",
+    "tink",
+    "moneyhub",
+    "gocardless-bank-account-data",
+    "token.io"
   ],
-  "bic": "CHASGB22"
+  "collections": [
+    "uk-open-banking",
+    "uk-retail-banks",
+    "uk-digital-banks",
+    "app-only-banks",
+    "jpmorgan-chase"
+  ],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "platform": "ios",
+      "name": "Chase UK",
+      "storeUrl": "https://apps.apple.com/gb/app/chase-uk/id1517121245",
+      "appId": "1517121245",
+      "publisher": "J.P. Morgan Europe Limited",
+      "countryAvailability": [
+        "GB"
+      ]
+    },
+    {
+      "platform": "android",
+      "name": "Chase UK",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.chase.intl",
+      "packageName": "com.chase.intl",
+      "publisher": "J.P. Morgan Europe Limited",
+      "countryAvailability": [
+        "GB"
+      ]
+    }
+  ],
+  "retailProducts": [
+    {
+      "label": "Chase Current Account",
+      "type": "personalCurrentAccount",
+      "stage": "live",
+      "currency": "GBP",
+      "description": "App-only personal UK current account with sort code/account number, domestic GBP payments, direct debits, standing orders, debit-card spending and in-app money management.",
+      "features": [
+        "personal-current-account",
+        "multiple-current-account-pots/accounts",
+        "sort-code-and-account-number",
+        "faster-payments",
+        "direct-debits",
+        "standing-orders",
+        "scheduled-payments",
+        "card-spending",
+        "spending-insights",
+        "real-time-notifications",
+        "card-freeze-controls",
+        "app-based-support",
+        "fsCS-protected-eligible-deposits"
+        "credit-cards"
+      ],
+      "limitations": [
+        "personal-customers-only",
+        "app-only-no-branch-banking",
+        "no-overdraft",
+        "no-cheque-book",
+        "no-cash-or-cheque-deposits",
+        "no-joint-account",
+        "no-business-account",
+        "consumer-international-bank-transfers-not-a-core-feature"
+      ]
+    },
+    {
+      "label": "Chase Saver",
+      "type": "easyAccessSavings",
+      "stage": "live",
+      "currency": "GBP",
+      "description": "Linked easy-access savings account for Chase UK customers. Rates are variable/promotional and should be stored separately with an effective date.",
+      "features": [
+        "easy-access-savings",
+        "linked-to-chase-current-account",
+        "monthly-interest",
+        "multiple-saver-pots/accounts-where-available",
+        "fsCS-protected-eligible-deposits"
+      ]
+    },
+    {
+      "label": "Round-up account",
+      "type": "roundUps",
+      "stage": "live",
+      "currency": "GBP",
+      "description": "Rounds eligible Chase debit-card purchases to the nearest pound and moves the difference into an interest-bearing round-up balance/pot.",
+      "features": [
+        "card-purchase-round-ups",
+        "interest-bearing-round-up-balance",
+        "automatic-savings",
+        "in-app-toggle-and-tracking"
+      ]
+    },
+    {
+      "label": "Everyday cashback / Chase Rewards",
+      "type": "rewards",
+      "stage": "live",
+      "currency": "GBP",
+      "description": "Cashback/rewards on eligible Chase UK debit-card spending, subject to eligibility criteria, merchant exclusions, caps and Chase UK reward terms. Current rates should be stored separately with effective dates.",
+      "features": [
+        "eligible-debit-card-spend-cashback",
+        "in-app-reward-tracking",
+        "merchant-category-exclusions-apply",
+        "eligibility-and-caps-may-apply"
+      ]
+    },
+    {
+      "label": "International card spending",
+      "type": "foreignSpend",
+      "stage": "live",
+      "description": "Chase UK debit card can be used abroad with no Chase foreign-transaction fee on eligible card purchases. Mastercard exchange rate applies and ATM/operator fees may apply.",
+      "features": [
+        "debit-card-spending-abroad",
+        "no-chase-foreign-transaction-fee",
+        "mastercard-exchange-rate",
+        "foreign-atm-use-subject-to-local-operator-fees"
+      ]
+    }
+  ],
+  "investorRelationsUrl": "https://www.jpmorganchase.com/ir",
+  "financialReports": [
+    {
+      "label": "J.P. Morgan Europe Limited filing history - Companies House",
+      "url": "https://find-and-update.company-information.service.gov.uk/company/00938937/filing-history"
+    },
+    {
+      "label": "JPMorgan Chase & Co. annual reports",
+      "url": "https://www.jpmorganchase.com/ir/annual-report"
+    },
+    {
+      "label": "JPMorgan Chase & Co. SEC filings",
+      "url": "https://www.jpmorganchase.com/ir/sec-filings"
+    }
+  ],
+  "twitter": "https://twitter.com/chase_uk",
+  "crunchbase": "https://www.crunchbase.com/organization/jpmorgan-chase-co",
+  "bloomberg": "https://www.bloomberg.com/quote/JPM:US",
+  "github": "https://github.com/jpmorganchase",
+  "fca": "124579",
+  "fcaRegisterUrl": "https://register.fca.org.uk/s/search?q=124579",
+  "alumni": [],
+  "articles": [
+    {
+      "title": "JPMorgan Chase launches new digital bank in the UK",
+      "publisher": "JPMorgan Chase & Co.",
+      "date": "2021-09-21",
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2021/jpmorgan-chase-launches-new-digital-bank-in-the-uk"
+    },
+    {
+      "title": "Chase UK current account",
+      "publisher": "Chase UK",
+      "url": "https://www.chase.co.uk/gb/en/current-account/"
+    },
+    {
+      "title": "Chase UK savings",
+      "publisher": "Chase UK",
+      "url": "https://www.chase.co.uk/gb/en/savings/"
+    },
+    {
+      "title": "Chase UK rewards",
+      "publisher": "Chase UK",
+      "url": "https://www.chase.co.uk/gb/en/rewards/"
+    }
+  ],
+  "stack": [
+    "Open Banking UK OBIE v3.1",
+    "OAuth 2.0",
+    "OpenID Connect",
+    "Financial-grade API",
+    "mTLS",
+    "private_key_jwt",
+    "CIBA",
+    "JWT",
+    "JWS",
+    "JWE",
+    "Mastercard Debit",
+    "Mastercard tokenisation",
+    "3-D Secure / SCA",
+    "Faster Payments",
+    "Bacs Direct Debit",
+    "Confirmation of Payee",
+    "Apple Pay",
+    "Google Pay",
+    "iOS",
+    "Android"
+  ],
+  "thirdPartyBankingLicense": "not_applicable_directly_authorised_bank",
+  "debitCardLicense": "Mastercard Debit",
+  "creditCardLicense": "not_applicable_no_chase_uk_credit_card_product",
+  "debitAccountLicense": "Direct UK bank/current-account and deposit-taking permissions under J.P. Morgan Europe Limited, PRA/FCA FRN 124579; eligible deposits protected by FSCS.",
+  "strategies": [
+    {
+      "label": "Mobile-first UK retail banking",
+      "description": "App-only consumer banking proposition with no branch network and no retail web banking."
+    },
+    {
+      "label": "Everyday banking plus rewards",
+      "description": "Uses debit-card cashback/rewards, round-ups and savings features to drive primary-account usage."
+    },
+    {
+      "label": "Low-friction foreign card spending",
+      "description": "Positions the Mastercard debit card for travel with no Chase foreign-transaction fee on eligible spending."
+    },
+    {
+      "label": "Multi-account budgeting",
+      "description": "Supports multiple current/savings pots or accounts and in-app spending insights."
+    },
+    {
+      "label": "Open Banking compliance",
+      "description": "Provides AISP, PISP and CBPII APIs under the UK Open Banking framework."
+    },
+    {
+      "label": "JPMorgan ecosystem expansion",
+      "description": "Chase UK can connect customers to broader JPMorgan consumer offerings such as J.P. Morgan/Nutmeg investing where available."
+    }
+  ],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [
+    {
+      "label": "Chase UK debit card",
+      "network": "Mastercard",
+      "type": "debit",
+      "currency": "GBP",
+      "country": "GB",
+      "stage": "live",
+      "formFactors": [
+        "physical-numberless-card",
+        "in-app-card-details",
+        "apple-pay-token",
+        "google-pay-token"
+      ],
+      "features": [
+        "contactless",
+        "numberless-physical-card",
+        "card-details-in-app",
+        "freeze-and-unfreeze",
+        "lost-stolen-replacement-controls",
+        "choose-linked-chase-account-for-card-spend",
+        "online-card-payments",
+        "3ds-sca",
+        "atm-cash-withdrawals",
+        "real-time-spending-notifications",
+        "eligible-cashback-rewards",
+        "no-chase-foreign-transaction-fee-on-eligible-card-spend"
+      ],
+      "wallets": [
+        "Apple Pay",
+        "Google Pay"
+      ]
+    }
+  ],
+  "creditCards": [],
+  "virtualCards": [
+    {
+      "label": "In-app debit card details and wallet tokenisation",
+      "type": "digital-debit-card-access",
+      "network": "Mastercard",
+      "stage": "live",
+      "description": "Chase UK provides card details in-app and supports tokenised wallet cards. This is not a separate Chase UK disposable/merchant-specific virtual card product.",
+      "features": [
+        "view-card-number-expiry-and-cvc-in-app",
+        "add-to-apple-pay",
+        "add-to-google-pay",
+        "tokenised-wallet-card"
+      ]
+    }
+  ],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [
+    {
+      "name": "Mastercard",
+      "type": "cardNetwork",
+      "description": "Card scheme for the Chase UK debit card and related card acceptance/tokenisation."
+    },
+    {
+      "name": "Pay.UK Faster Payments",
+      "type": "paymentRail",
+      "description": "UK domestic real-time account-to-account payment rail used for GBP payments."
+    },
+    {
+      "name": "Bacs",
+      "type": "paymentRail",
+      "description": "UK Direct Debit infrastructure used for recurring account payments."
+    },
+    {
+      "name": "Open Banking Limited",
+      "type": "openBankingStandard",
+      "description": "UK Open Banking standards, directory and ecosystem framework."
+    },
+    {
+      "name": "Nutmeg / J.P. Morgan Personal Investing",
+      "type": "investments",
+      "description": "JPMorgan-owned investment capability that may be surfaced to eligible Chase UK customers where available."
+    }
+  ],
+  "rewardPartners": [
+    {
+      "name": "Chase Rewards",
+      "type": "cashback",
+      "description": "Chase-funded cashback/rewards on eligible Chase UK debit-card spending, subject to programme terms."
+    },
+    {
+      "name": "Round-ups",
+      "type": "savingsReward",
+      "description": "Automatic round-up savings feature linked to debit-card spending."
+    }
+  ],
+  "integrations": [
+    {
+      "name": "Apple Pay",
+      "type": "wallet",
+      "status": "live"
+    },
+    {
+      "name": "Google Pay",
+      "type": "wallet",
+      "status": "live"
+    },
+    {
+      "name": "Open Banking TPP access",
+      "type": "openBanking",
+      "status": "live"
+    },
+    {
+      "name": "Mastercard tokenisation",
+      "type": "cardTokenisation",
+      "status": "live"
+    },
+    {
+      "name": "3-D Secure / Strong Customer Authentication",
+      "type": "cardSecurity",
+      "status": "live"
+    },
+    {
+      "name": "Confirmation of Payee",
+      "type": "paymentSafety",
+      "status": "live"
+    },
+    {
+      "name": "Nutmeg / J.P. Morgan Personal Investing",
+      "type": "investmentAccess",
+      "status": "available-to-eligible-customers"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "iOS",
+      "type": "mobile",
+      "status": "live"
+    },
+    {
+      "name": "Android",
+      "type": "mobile",
+      "status": "live"
+    },
+    {
+      "name": "Open Banking UK",
+      "type": "api",
+      "status": "live"
+    },
+    {
+      "name": "Mastercard",
+      "type": "cardNetwork",
+      "status": "live"
+    },
+    {
+      "name": "Faster Payments",
+      "type": "paymentRail",
+      "status": "live"
+    },
+    {
+      "name": "Bacs Direct Debit",
+      "type": "paymentRail",
+      "status": "live"
+    }
+  ],
+  "bic": "CHASGB22",
+  "dataNotes": [
+    "Chase UK is app-only for retail customers; webApplication is false because there is no full retail internet-banking web app.",
+    "Savings rates, cashback percentages, eligibility thresholds and reward caps are variable/promotional and should be stored in a dated pricing table rather than hard-coded here.",
+    "No Chase US products are included: no Sapphire/Freedom/Ink cards, no US checking, no US branches and no US mortgages.",
+    "Production Open Banking hostnames and well-known endpoints should be validated against the current Open Banking Directory/Chase developer metadata before implementation."
+  ]
 }
