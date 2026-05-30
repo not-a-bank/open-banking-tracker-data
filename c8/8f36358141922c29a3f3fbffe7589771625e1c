@@ -1,0 +1,19 @@
+.github/workflows/pr-comment.yml
+  s_37e224d4ae104a::t_a65161aec9113a 17-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "c88f36358141922c29a3f3fbffe7589771625e1c",
+  "prompts": {},
+  "sessions": {
+    "s_37e224d4ae104a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f2210903-d8e2-4614-8484-8fd4df0ba2c2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
