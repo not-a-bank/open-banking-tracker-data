@@ -14,6 +14,10 @@ on:
 permissions:
   pull-requests: write
   issues: write
+  # Required by download-artifact@v4 to fetch the pr-number artifact from the
+  # separate "Validate Data" run. An explicit permissions block defaults all
+  # unlisted scopes to none, so this must be declared.
+  actions: read
 
 jobs:
   comment:
