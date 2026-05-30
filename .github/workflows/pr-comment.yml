@@ -1,0 +1,63 @@
+name: PR Comment
+
+# Runs after "Validate Data" completes. Because workflow_run executes in the
+# context of the base repository, its GITHUB_TOKEN can be granted write scope
+# even when the triggering run came from a fork PR — which is why posting the
+# comment here (rather than inside validate-data.yml) avoids the 403
+# "Resource not accessible by integration" error.
+on:
+  workflow_run:
+    workflows: ["Validate Data"]
+    types:
+      - completed
+
+permissions:
+  pull-requests: write
+  issues: write
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    # Only comment for PR-triggered validation runs (skip push-to-master runs).
+    if: github.event.workflow_run.event == 'pull_request'
+
+    steps:
+      - name: ⬇️ Download PR number artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: pr-number
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🔢 Read PR number
+        id: pr
+        run: echo "number=$(cat pr-number.txt)" >> "$GITHUB_OUTPUT"
+
+      - name: 📝 Comment validation result on PR
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const conclusion = '${{ github.event.workflow_run.conclusion }}';
+            // Only report a definitive pass/fail; ignore cancelled/skipped/etc.
+            if (conclusion !== 'success' && conclusion !== 'failure') {
+              core.info(`Skipping comment for conclusion: ${conclusion}`);
+              return;
+            }
+
+            const prNumber = Number('${{ steps.pr.outputs.number }}');
+            if (!Number.isInteger(prNumber) || prNumber <= 0) {
+              core.setFailed(`Invalid PR number: ${prNumber}`);
+              return;
+            }
+
+            const body = conclusion === 'success'
+              ? '✅ All validation checks passed for changed files!'
+              : '❌ Validation failed!\n\nPlease review the errors in the workflow logs and ensure your data follows the required schema.';
+
+            await github.rest.issues.createComment({
+              issue_number: prNumber,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body,
+            });
