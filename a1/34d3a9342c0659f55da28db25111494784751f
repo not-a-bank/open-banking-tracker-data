@@ -1,0 +1,19 @@
+data/account-providers/jpmel.json
+  s_06f76c6dd643bb::t_0bb140b00ca0ba 428
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a134d3a9342c0659f55da28db25111494784751f",
+  "prompts": {},
+  "sessions": {
+    "s_06f76c6dd643bb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "83034a3e-3f69-4141-8458-119a3f36694a",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
