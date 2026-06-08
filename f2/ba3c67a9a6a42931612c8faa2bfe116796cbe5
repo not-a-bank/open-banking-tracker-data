@@ -1,0 +1,20 @@
+data/third-party-providers/paidby.json
+  s_30d3a4f1496889::t_ad4ba361b1d055 1-35,37-64
+  s_30d3a4f1496889::t_0e387a793c2c1e 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "f2ba3c67a9a6a42931612c8faa2bfe116796cbe5",
+  "prompts": {},
+  "sessions": {
+    "s_30d3a4f1496889": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "80358ed5-21f2-4305-838a-cc1847c3ac1e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
