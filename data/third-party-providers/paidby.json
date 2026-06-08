@@ -1,0 +1,64 @@
+{
+  "id": "paidby",
+  "type": [
+    "third-party"
+  ],
+  "name": "PaidBy",
+  "description": "Open banking account-to-account payment solution enabling instant, secure direct bank payments as a cardless checkout alternative. Settles over UK Faster Payments and SEPA Instant.",
+  "legalName": "ISX Financial UK Ltd",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.paidby.eu.ico",
+  "websiteUrl": "https://www.paidby.eu/",
+  "ownership": [
+    {
+      "shareholderName": "Xryma Plc Group",
+      "shareholderIconUrl": null,
+      "providerId": null,
+      "percentage": null
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "CY",
+  "countries": [
+    "GB",
+    "CY"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    }
+  ],
+  "sandbox": {
+    "status": "unavailable"
+  },
+  "developerPortalUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "webApplication": true,
+  "mobileApps": [],
+  "fca": "901034",
+  "thirdPartyBankingLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "partnerships": [
+    {
+      "id": "wix",
+      "name": "Wix",
+      "icon": null,
+      "websiteUrl": "https://www.wix.com/"
+    }
+  ],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}
