@@ -1,0 +1,19 @@
+data/api-aggregators/paidby.json
+  s_30d3a4f1496889::t_912aea80a754e6 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "7adda5ea4cd48fc0637ccc78485a1da347c1ce43",
+  "prompts": {},
+  "sessions": {
+    "s_30d3a4f1496889": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "80358ed5-21f2-4305-838a-cc1847c3ac1e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
