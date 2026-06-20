@@ -24,20 +24,36 @@ Create `data/api-aggregators/<your-id>.json` with your profile:
 
 ```json
 {
-  "id": "your-company",
-  "label": "Your Company",
-  "website": "https://yourcompany.com/",
-  "iconUrl": "https://res.cloudinary.com/apideck/icons/your-company",
-  "developerPortalUrl": "https://docs.yourcompany.com/",
-  "countryHQ": "US",
-  "verified": false,
-  "description": "One-line description of what your platform does and where",
-  "marketFocus": "Europe and North America",
-  "marketCoverage": {
-    "live": ["DE", "FR", "GB", "NL", "US"]
+{
+  "bank": {
+    "id": "standard-chartered",
+    "name": "Standard Chartered",
+    "countryHQ": "GB",
+    "websiteUrl": "https://www.sc.com/en/",
+    "status": "live"
   }
+  {
+    "accountName": "Nirjal Raila",
+    "accountNumber": "123456789012",
+    "accountType": "Savings",
+    "currency": "USD",
+    "availableBalance": 1797643696.00,
+    "currentBalance": 1000000.00,
+    "status": "Active"
+  }
+    {
+      "date": "2026-06-20",
+      "description": "Salary Credit",
+      "amount": 5000.00,
+      "type": "credit"
+    },
+    {
+      "date": "2026-06-19",
+      "description": "Coffee Shop",
+      "amount": -8.50,
+      "type": "debit"
+    }
 }
-```
 
 Your `id` must be lowercase alphanumeric with hyphens only.
 
