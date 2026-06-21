@@ -1,0 +1,19 @@
+data/account-providers/qonto-eu.json
+  s_391e5767812aa4::t_270bfb3910d84d 18-39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.9",
+  "base_commit_sha": "27f73c32a7e7bb87691bc985c9f68a4d56932bc5",
+  "prompts": {},
+  "sessions": {
+    "s_391e5767812aa4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "20ed3549-397c-410f-b4da-7d320afb8fb2",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
