@@ -15,6 +15,28 @@
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1571995818/catalog/qonto-eu/icon128x128.jpg",
   "websiteUrl": "https://qonto.eu",
+  "mcpServer": {
+    "type": "hosted",
+    "serverUrl": "https://mcp.qonto.com/mcp",
+    "authType": "oauth",
+    "documentationUrl": "https://docs.qonto.com/mcp/overview",
+    "programStatus": "live",
+    "accessLevel": "read-write",
+    "launchDate": null,
+    "capabilities": [
+      "banking-data",
+      "card-management",
+      "invoicing",
+      "payment-requests"
+    ],
+    "supportedModels": [
+      "Claude",
+      "ChatGPT",
+      "Mistral",
+      "Other LLMs"
+    ],
+    "partnerName": null
+  },
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "FR",
