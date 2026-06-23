@@ -8,7 +8,7 @@
   ],
   "name": "Sierra Central Credit Union",
   "legalName": "Sierra Central Credit Union",
-  "verified": false,
+  "verified": true,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.sierra-central-credit-union.com.ico",
   "websiteUrl": "https://www.sierracentral.com/",
@@ -19,13 +19,13 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": generate,
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
     "plaid"
   ],
   "ownership": [],
-  "stateOwned": false,
-  "stockSymbol": null
+  "stateOwned": true,
+  "stockSymbol": true
 }
