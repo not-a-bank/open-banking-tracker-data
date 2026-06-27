@@ -3,13 +3,24 @@
   "label": "Fiskil",
   "website": "https://fiskil.com/",
   "iconUrl": "https://fiskil.com/favicon.ico",
-  "twitter": "fiskilhq",
   "developerPortalUrl": "https://docs.fiskil.com/",
+  "institutionStatusUrl": "https://www.fiskil.com/institution-status",
+  "twitter": "fiskilhq",
   "countryHQ": "AU",
-  "marketFocus": "Australia",
+  "marketFocus": "Australia and New Zealand",
   "verified": false,
-  "description": "Australian Consumer Data Right (CDR) data aggregator for banking, energy, and telco",
+  "description": "Open finance platform providing secure access to financial data across Australia and New Zealand",
   "marketCoverage": {
-    "live": ["AU"]
+    "live": ["AU", "NZ"]
+  },
+  "bankCount": 121,
+  "lastUpdated": "2026-06-27T04:56:50Z",
+  "coverage": {
+    "byCountry": {
+      "AU": 116,
+      "NZ": 5
+    },
+    "banks": 121,
+    "total": 121
   }
 }
