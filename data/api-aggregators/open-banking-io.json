@@ -3,7 +3,12 @@
   "label": "open-banking.io",
   "website": "https://open-banking.io/",
   "iconUrl": "https://cdn.brandfetch.io/open-banking.io/fallback/lettermark/theme/dark/h/256/w/256/icon",
-  "developerPortalUrl": "https://open-banking.io/",
+  "developerPortalUrl": "https://open-banking.io/en/developers",
   "countryHQ": "DK",
-  "verified": false
+  "verified": false,
+  "marketCoverage": {
+    "live": [
+      "DK"
+    ]
+  }
 }
