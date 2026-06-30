@@ -1,0 +1,19 @@
+data/api-aggregators/open-banking-io.json
+  s_0a84bc3eb2c4a3::t_8b4fbaa57629e0 6,8-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "4725872448662c38fd94c492bd159a950a5bcd15",
+  "prompts": {},
+  "sessions": {
+    "s_0a84bc3eb2c4a3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a912563a-6c3a-4bde-b6c0-e712b0466437",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
