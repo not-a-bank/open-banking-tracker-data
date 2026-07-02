@@ -31,9 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "banksapi",
     "salt-edge",
-    "tink"
+    "tink",
+    "yaxi"
   ],
   "legalName": "Pax-Bank eG Kirche und Caritas",
   "bic": "GENODED1PAX"

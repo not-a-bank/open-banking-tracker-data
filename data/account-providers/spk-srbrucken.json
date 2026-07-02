@@ -31,9 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "banksapi",
     "salt-edge",
-    "yapily"
+    "yapily",
+    "yaxi"
   ],
   "bic": "SAKSDE55XXX",
   "legalName": "SPK Saarbrücken"

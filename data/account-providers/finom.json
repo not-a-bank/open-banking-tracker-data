@@ -36,6 +36,7 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "banksapi",
     "plaid",
     "salt-edge",
     "tink",

@@ -30,9 +30,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "banksapi",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "yaxi"
   ],
   "bic": "GENODEM1DLR"
 }

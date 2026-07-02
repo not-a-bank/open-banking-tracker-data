@@ -38,17 +38,18 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://developers.bankdata.dk",
   "apiAggregators": [
+    "banksapi",
     "enablebanking",
     "gocardless",
     "klarna",
     "lunchflow",
     "neonomics",
+    "open-banking-io",
     "plaid",
     "salt-edge",
     "tink",
     "volt",
-    "yaxi",
-    "open-banking-io"
+    "yaxi"
   ],
   "apiProducts": [
     {

@@ -32,6 +32,7 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "banksapi",
     "gocardless",
     "lunchflow",
     "plaid",

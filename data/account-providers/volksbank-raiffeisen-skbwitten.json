@@ -31,9 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "banksapi",
     "salt-edge",
-    "tink"
+    "tink",
+    "yaxi"
   ],
   "legalName": "Spar- und Kreditbank des Bundes Freier evangelischer Gemeinden eG",
   "bic": "GENODEM1BFG"

@@ -31,9 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "banksapi",
     "salt-edge",
-    "tink"
+    "tink",
+    "yaxi"
   ],
   "legalName": "Südtiroler Sparkasse AG Niederlassung München",
   "bic": "SUSKDEM1XXX"

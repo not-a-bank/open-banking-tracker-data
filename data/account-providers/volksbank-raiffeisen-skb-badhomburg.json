@@ -31,9 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "banksapi",
     "salt-edge",
-    "tink"
+    "tink",
+    "yaxi"
   ],
   "legalName": "Spar- und Kreditbank Evangelisch-Freikirchlicher Gemeinden eG",
   "bic": "GENODE51BH2"

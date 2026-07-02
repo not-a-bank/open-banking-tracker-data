@@ -31,9 +31,10 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
-    "yaxi",
+    "banksapi",
     "salt-edge",
-    "tink"
+    "tink",
+    "yaxi"
   ],
   "legalName": "Bank11 für Privatkunden und Handel GmbH",
   "bic": "WEFZDED1XXX"
