@@ -1,0 +1,30 @@
+{
+  "id": "banksapi",
+  "label": "BANKSapi",
+  "website": "https://banksapi.de/",
+  "iconUrl": "https://icons.duckduckgo.com/ip3/banksapi.de.ico",
+  "developerPortalUrl": "https://docs.banksapi.de/",
+  "countryHQ": "DE",
+  "verified": false,
+  "description": "BaFin-regulated Open Banking platform, licensed as Kontoinformationsdienst (AIS) and Zahlungsauslösedienst (PIS) under PSD2/ZAG. Provides account information, SEPA payment initiation, and AI-powered transaction analytics via a single REST API, aggregating banks, cards, and securities accounts across the DACH region.",
+  "marketFocus": "Germany and Austria",
+  "marketCoverage": {
+    "live": [
+      "AT",
+      "CH",
+      "DE",
+      "LI"
+    ]
+  },
+  "bankCount": 2266,
+  "coverage": {
+    "total": 2266,
+    "byCountry": {
+      "AT": 111,
+      "CH": 1,
+      "DE": 2153,
+      "LI": 1
+    }
+  },
+  "lastUpdated": "2026-07-02T08:08:00Z"
+}
