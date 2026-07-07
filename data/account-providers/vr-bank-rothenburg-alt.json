@@ -1,0 +1,32 @@
+{
+  "id": "vr-bank-rothenburg-alt",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "VR-Bank Rothenburg -alt-",
+  "legalName": "VR-Bank Rothenburg -alt-",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/vr.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODEF1RT2"
+}

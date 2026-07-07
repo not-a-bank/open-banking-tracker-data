@@ -1,0 +1,32 @@
+{
+  "id": "sparkasse-gronau-gronau-westf",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Sparkasse Gronau Gronau (Westf.)",
+  "legalName": "Sparkasse Gronau Gronau (Westf.)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/sparkasse.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "WELADED1GRO"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "volksbank-hoechst-am-frankfurt",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Volksbank Höchst a.M. Frankfurt",
+  "legalName": "Volksbank Höchst a.M. Frankfurt",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/vr.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODE51FHC"
+}

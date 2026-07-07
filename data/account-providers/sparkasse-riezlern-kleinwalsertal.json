@@ -1,0 +1,32 @@
+{
+  "id": "sparkasse-riezlern-kleinwalsertal",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Sparkasse Riezlern, Kleinwalsertal",
+  "legalName": "Sparkasse Riezlern, Kleinwalsertal",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/sparkasse.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "BYLADEM1ALR"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bank-fuer-sozialwirtschaft-magdeburg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Bank für Sozialwirtschaft Magdeburg",
+  "legalName": "Bank für Sozialwirtschaft Magdeburg",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/demo.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "BFSWDE33MAG"
+}
