@@ -11,7 +11,7 @@
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.firstinternetbankofindiana.com.ico",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.firstib.com/",
   "countryHQ": "US",
   "countries": [
     "US"
@@ -23,6 +23,23 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [],
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "documentationUrl": "https://www.firstib.com/faq/how-does-first-internet-banks-model-context-protocol-mcp-connection-work-with-claude-and-chatgpt/",
+    "programStatus": "live",
+    "accessLevel": "read-only",
+    "partnerName": "Narmi",
+    "capabilities": [
+      "account-data",
+      "transaction-analysis",
+      "documents"
+    ],
+    "supportedModels": [
+      "Claude",
+      "ChatGPT"
+    ]
+  },
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
