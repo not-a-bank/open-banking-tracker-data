@@ -1,0 +1,45 @@
+{
+  "id": "synci",
+  "label": "Synci",
+  "website": "https://synci.io/",
+  "iconUrl": "https://synci.io/synci-icon.svg",
+  "developerPortalUrl": "https://docs.synci.io/",
+  "statusUrl": "https://status.synci.io/",
+  "countryHQ": "NO",
+  "verified": false,
+  "description": "Bank, brokerage, and crypto data sync for Europe and New Zealand. Routes transactions and balances to YNAB, Actual Budget, Lunch Money, spreadsheets, webhooks, and AI assistants via MCP.",
+  "marketFocus": "Europe and New Zealand",
+  "upstreamAggregators": ["gocardless", "akahu", "snaptrade"],
+  "marketCoverage": {
+    "live": [
+      "AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HR", "HU",
+      "IE", "IS", "IT", "LI", "LT", "LU", "LV", "MT", "NL", "NO", "NZ", "PL", "PT", "RO", "SE",
+      "SI", "SK"
+    ]
+  },
+  "bankCount": 2937,
+  "brokerageCount": 34,
+  "integrationCount": 7,
+  "mcpServer": {
+    "type": "hosted",
+    "serverUrl": "https://api.synci.io/mcp",
+    "authType": "oauth",
+    "documentationUrl": "https://help.synci.io/articles/4520480-mcp-and-ai-assistants",
+    "tools": [
+      "list_accounts",
+      "get_account_balance",
+      "list_transactions",
+      "list_holdings",
+      "list_connections"
+    ]
+  },
+  "lastUpdated": "2026-07-21T20:05:02.000Z",
+  "coverage": {
+    "total": 32,
+    "byUpstream": {
+      "gocardless": 31,
+      "akahu": 1,
+      "snaptrade": 0
+    }
+  }
+}
