@@ -70,7 +70,8 @@
   "apiAggregators": [
     "gocardless",
     "lunchflow",
-    "salt-edge"
+    "salt-edge",
+    "synci"
   ],
   "sandbox": {
     "status": "available",
