@@ -107,8 +107,9 @@
     }
   ],
   "apiAggregators": [
+    "banksync",
     "plaid",
-    "banksync"
+    "wealthreader"
   ],
   "articles": [
     {

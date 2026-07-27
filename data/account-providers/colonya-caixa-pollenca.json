@@ -66,9 +66,10 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "plaid",
-    "salt-edge"
+    "salt-edge",
+    "volt",
+    "wealthreader"
   ],
   "ownership": [],
   "stateOwned": false,

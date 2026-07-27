@@ -66,9 +66,10 @@
     }
   ],
   "apiAggregators": [
-    "volt",
     "bridgeapi-io",
-    "salt-edge"
+    "salt-edge",
+    "volt",
+    "wealthreader"
   ],
   "ownership": [],
   "stateOwned": false,

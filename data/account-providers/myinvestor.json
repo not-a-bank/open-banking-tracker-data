@@ -112,12 +112,13 @@
   "apiStatusUrls": [],
   "apiAggregators": [
     "bankingsdk",
-    "salt-edge",
     "bridgeapi-io",
-    "ibanity",
     "equensworldline",
+    "ibanity",
     "nordigen",
-    "plaid"
+    "plaid",
+    "salt-edge",
+    "wealthreader"
   ],
   "collections": [],
   "webApplication": true,

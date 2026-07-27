@@ -44,7 +44,15 @@
       "stage": "live"
     }
   ],
-  "apiAggregators": ["bridgeapi-io", "plaid", "salt-edge", "tink", "volt", "yapily"],
+  "apiAggregators": [
+    "bridgeapi-io",
+    "plaid",
+    "salt-edge",
+    "tink",
+    "volt",
+    "wealthreader",
+    "yapily"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,

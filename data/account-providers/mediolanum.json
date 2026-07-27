@@ -69,7 +69,8 @@
   "apiAggregators": [
     "plaid",
     "salt-edge",
-    "tink"
+    "tink",
+    "wealthreader"
   ],
   "sandbox": {
     "status": "available",

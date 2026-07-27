@@ -29,10 +29,11 @@
   "apiProducts": [],
   "apiStandards": [],
   "apiAggregators": [
+    "banksync",
     "flinks",
     "plaid",
     "truelayer",
-    "banksync"
+    "wealthreader"
   ],
   "collections": [],
   "webApplication": true,
