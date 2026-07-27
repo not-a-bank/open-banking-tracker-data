@@ -1,0 +1,19 @@
+data/account-providers/johnson-international-inc.json
+  s_3ee3eadfde047e::t_e08fcdd89e2eba 13-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "132751ffae25339ca7a42e29554f839fa195f153",
+  "prompts": {},
+  "sessions": {
+    "s_3ee3eadfde047e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e703adc2-e27b-47a3-8730-2225d6b3f044",
+        "model": "claude-opus-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
