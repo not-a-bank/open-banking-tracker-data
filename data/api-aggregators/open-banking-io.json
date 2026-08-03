@@ -12,7 +12,39 @@
   "bankCount": 20,
   "marketCoverage": {
     "live": [
-      "DK"
+      "AT",
+      "BE",
+      "BG",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FR",
+      "GB",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "SE",
+      "SI",
+      "SK"
     ]
-  }
+  },
+  "note": "Certificate-free PSD2 access: open-banking.io operates on a licensed-partner model so developers connect without an eIDAS QWAC/QSeal certificate. Pan-European coverage across 600+ institutions via the underlying regulated AISP/PISP; the 20 banks explicitly tagged in this directory are Danish institutions where granular coverage data has been verified.",
+  "lastUpdated": "2026-08-03T11:00:00Z"
 }
