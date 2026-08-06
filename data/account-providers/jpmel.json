@@ -366,14 +366,14 @@
   ],
   "apiAggregators": [
     "finexer",
+    "gocardless",
+    "moneyhub-enterprise",
     "plaid",
     "salt-edge",
-    "truelayer",
-    "yapily",
     "tink",
-    "moneyhub",
-    "gocardless-bank-account-data",
-    "token.io"
+    "token",
+    "truelayer",
+    "yapily"
   ],
   "collections": [
     "uk-open-banking",
