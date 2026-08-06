@@ -85,6 +85,7 @@ The `scrapers/` directory contains examples you can reference:
 | `plaid_scraper.py` | Plaid API + docs |
 | `gocardless_scraper.py` | GoCardless institution list |
 | `flinks_scraper.py` | Flinks coverage page |
+| `zenith_scraper.py` | Zenith public JSON API |
 
 Your scraper should:
 
