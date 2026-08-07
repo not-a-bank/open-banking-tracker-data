@@ -1,0 +1,19 @@
+data/account-providers/bank-of-new-hampshire.json
+  s_2b2b1497c84b24::t_110f6d9514ec0f 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "0b67ec7fe7b69d98582c8c750217fd6974ac7f46",
+  "prompts": {},
+  "sessions": {
+    "s_2b2b1497c84b24": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "71054a48-ecbe-4ddc-b04f-b9636558c0cb",
+        "model": "claude-opus-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
