@@ -6,8 +6,8 @@
   "bankType": [
     "retail"
   ],
-  "name": "University of Hawai\u2019i Federal Credit Union",
-  "legalName": "University of Hawai\u2019i Federal Credit Union",
+  "name": "University of Hawai’i Federal Credit Union",
+  "legalName": "University of Hawai’i Federal Credit Union",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.university-of-hawaii-federal-credit-union.com.ico",
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "finicity",
     "plaid"
   ],
   "ownership": [],
