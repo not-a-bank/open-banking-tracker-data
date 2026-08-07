@@ -1,0 +1,62 @@
+scrapers/finicity_scraper.py
+  s_cc71e607c407dd::t_7e65ef93619fae 535-577
+  s_cc71e607c407dd::t_5512cc88316ac3 579-580
+  s_cc71e607c407dd::t_031dc3e9476415 660-663
+  s_cc71e607c407dd::t_7de41cfcb12412 857-860
+  s_cc71e607c407dd::t_d20945f46f3f8c 622,631-632
+  s_cc71e607c407dd::t_4e0334cda2a442 203,205,207-210,212,214-216,220-264,266-268,277-279,281-288,294,299-302,305,313
+data/account-providers/barclays-bank-us.json
+  s_cc71e607c407dd::t_6ea835f41ef042 26
+data/account-providers/cathay-bank-us.json
+  s_cc71e607c407dd::t_c2e694a4f4745b 25-27
+data/account-providers/caye-international-bank-ltd.json
+  s_cc71e607c407dd::t_68bc9e81299ab5 25
+data/account-providers/celtic-bank-ltd.json
+  s_cc71e607c407dd::t_6a158cd273cd0b 25
+data/account-providers/citibank-na-us.json
+  s_cc71e607c407dd::t_79ba82a46b919f 25-27
+data/account-providers/delta-bank.json
+  s_cc71e607c407dd::t_2f23efe41ab053 25
+data/account-providers/finbank.json
+  s_cc71e607c407dd::t_2149bdda2d6d0c 25
+data/account-providers/interbank-nv.json
+  s_cc71e607c407dd::t_e5d3b9fcdf9a28 25
+data/account-providers/international-finance-bank-us.json
+  s_cc71e607c407dd::t_3f680e102f729a 25-27
+data/account-providers/interstate-bank.json
+  s_cc71e607c407dd::t_114ef0c8daeb20 25
+data/account-providers/invesco-ltd.json
+  s_cc71e607c407dd::t_5a8873ccc9958d 25
+data/account-providers/merrill-lynch.json
+  s_cc71e607c407dd::t_dbaa3954d7b39a 25
+data/account-providers/morgan-stanley-bank-na-us.json
+  s_cc71e607c407dd::t_10f12b41b80915 25-27
+data/account-providers/morgan-stanley.json
+  s_cc71e607c407dd::t_a19187ee209559 25
+data/account-providers/peoples-bank-us.json
+  s_cc71e607c407dd::t_b89e845d27320a 25-27
+data/account-providers/point-bank-ltd.json
+  s_cc71e607c407dd::t_8f6e1a89cebd7c 25
+data/account-providers/state-bank.json
+  s_cc71e607c407dd::t_d059f81a613258 25
+data/account-providers/t-bank-ltd.json
+  s_cc71e607c407dd::t_1651de7868e93c 25
+data/account-providers/viking.json
+  s_cc71e607c407dd::t_5e1caa69ecf384 25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "e6b74bb1e134735551327f7ed39dd1c6754fad9e",
+  "prompts": {},
+  "sessions": {
+    "s_cc71e607c407dd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8114f6ae-4bb3-48ce-a3b0-dfd9056cd886",
+        "model": "claude-opus-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
