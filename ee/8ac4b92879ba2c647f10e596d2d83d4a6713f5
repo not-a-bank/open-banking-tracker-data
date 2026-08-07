@@ -1,0 +1,23 @@
+data/api-aggregators/tink.json
+  s_cc71e607c407dd::t_5def2e9e24d7a6 4
+data/api-aggregators/finicity.json
+  s_cc71e607c407dd::t_14b72daa74af1e 4
+api-aggregators-schema.json
+  s_cc71e607c407dd::t_3bb162a705a9ce 109-114
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "ee8ac4b92879ba2c647f10e596d2d83d4a6713f5",
+  "prompts": {},
+  "sessions": {
+    "s_cc71e607c407dd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8114f6ae-4bb3-48ce-a3b0-dfd9056cd886",
+        "model": "claude-opus-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
