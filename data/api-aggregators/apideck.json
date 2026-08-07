@@ -1,0 +1,25 @@
+{
+  "id": "apideck",
+  "label": "Apideck",
+  "website": "https://www.apideck.com/",
+  "iconUrl": "https://res.cloudinary.com/apideck/icons/apideck",
+  "countryHQ": "US",
+  "twitter": "apideck",
+  "developerPortalUrl": "https://developers.apideck.com",
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "serverUrl": "https://mcp.apideck.dev/mcp",
+    "authType": "api_key",
+    "documentationUrl": "https://www.apideck.com/mcp-server",
+    "repositoryUrl": "https://github.com/apideck-libraries/mcp",
+    "tools": [
+      "list_tools",
+      "describe_tool",
+      "execute_tool",
+      "list_scopes"
+    ]
+  },
+  "verified": true,
+  "note": "Apideck Unified API MCP server giving AI agents structured access to 200+ SaaS apps across 7 unified APIs (Accounting, CRM, HRIS, File Storage, Issue Tracking, Ecommerce, ATS) plus Vault and Proxy. Dynamic mode default exposes 4 meta-tools (list_tools, describe_tool, execute_tool, list_scopes) for progressive discovery — keeps agent context lean (~1.3K tokens). Static mode exposes 360+ tools upfront. Listed for MCP and agentic SaaS-integration discovery (not an open banking account aggregator)."
+}
