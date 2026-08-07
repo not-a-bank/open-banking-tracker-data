@@ -200,24 +200,72 @@ def canonicalize_slug(slug: str) -> str:
     return "-".join(tokens)
 
 
-def build_canonical_index(existing_ids: set[str]) -> dict[str, str]:
+def build_canonical_index(existing_ids: set[str]) -> dict[str, list[str]]:
     """
-    Map canonical slug -> existing provider ID.
+    Map canonical slug -> existing provider IDs, shortest first.
 
-    Where several providers share a canonical form, the shortest ID wins: it is
-    the least qualified and therefore the most likely to be the base entry.
+    The shortest ID is the least qualified and therefore the most likely base
+    entry, but it is not always the right country: `chase` (GB) and `chase-us`
+    share a canonical form. Keeping every candidate lets the country gate in
+    `find_provider_match` fall through to the next one instead of giving up.
     """
-    index: dict[str, str] = {}
+    index: dict[str, list[str]] = {}
     for provider_id in existing_ids:
-        canonical = canonicalize_slug(provider_id)
-        current = index.get(canonical)
-        if current is None or (len(provider_id), provider_id) < (len(current), current):
-            index[canonical] = provider_id
+        index.setdefault(canonicalize_slug(provider_id), []).append(provider_id)
+    for candidates in index.values():
+        candidates.sort(key=lambda pid: (len(pid), pid))
     return index
 
 
+# Institution names collide across borders. Finicity's "Chase" is the US bank,
+# not `chase.json` (GB); its "ACB" is not Vietnam's Asia Commercial Bank. The
+# Open Finance US portal serves US and CA only, so a provider whose own country
+# data cannot overlap the institution's is the wrong bank however well the slug
+# matches.
+US_TERRITORIES = {"PR", "VI", "GU", "AS", "MP"}
+
+
+def expand_countries(codes) -> set[str]:
+    """Normalise country codes; US institutions cover the US territories too."""
+    expanded = {code.upper() for code in codes if code}
+    if "US" in expanded:
+        expanded |= US_TERRITORIES
+    return expanded
+
+
+def build_provider_countries() -> dict[str, set[str]]:
+    """Map provider ID -> every country code that provider claims."""
+    index: dict[str, set[str]] = {}
+    for path in ACCOUNT_PROVIDERS_PATH.glob("*.json"):
+        try:
+            provider = load_json(path)
+        except (json.JSONDecodeError, OSError):
+            continue
+        codes = set(provider.get("countries") or [])
+        if provider.get("countryHQ"):
+            codes.add(provider["countryHQ"])
+        index[path.stem] = expand_countries(codes)
+    return index
+
+
+def country_compatible(provider_id: str, countries: list[str],
+                       provider_countries: dict[str, set[str]]) -> bool:
+    """
+    Whether a candidate provider could be the institution Finicity listed.
+
+    Providers carrying no country data at all are accepted: missing metadata
+    should not cost a genuine match. 178 of the 57k providers are in that state.
+    """
+    known = provider_countries.get(provider_id)
+    if not known:
+        return True
+    return bool(known & expand_countries(countries))
+
+
 def find_provider_match(slug: str, countries: list[str], existing_ids: set[str],
-                        canonical_index: Optional[dict[str, str]] = None) -> Optional[str]:
+                        canonical_index: Optional[dict[str, list[str]]] = None,
+                        provider_countries: Optional[dict[str, set[str]]] = None
+                        ) -> Optional[str]:
     """
     Find an existing provider for a Finicity institution.
 
@@ -226,28 +274,35 @@ def find_provider_match(slug: str, countries: list[str], existing_ids: set[str],
     never tries adding one, so a US-heavy dataset like this would miss the very
     common `<name>-us` form (e.g. `fifth-third-bank` vs the existing
     `fifth-third-bank-us.json`) and create thousands of duplicate stubs.
+
+    Every candidate is then gated on country, so a name that exists only as a
+    foreign provider goes to the unmatched list rather than tagging that bank.
     """
-    if slug in existing_ids:
+    def acceptable(candidate: Optional[str]) -> bool:
+        if not candidate:
+            return False
+        if provider_countries is None:
+            return True
+        return country_compatible(candidate, countries, provider_countries)
+
+    if slug in existing_ids and acceptable(slug):
         return slug
 
     country_suffixes = [f"-{c.lower()}" for c in countries]
 
     for suffix in country_suffixes:
-        if f"{slug}{suffix}" in existing_ids:
+        if f"{slug}{suffix}" in existing_ids and acceptable(f"{slug}{suffix}"):
             return f"{slug}{suffix}"
 
     if canonical_index is not None:
         canonical = canonicalize_slug(slug)
-        match = canonical_index.get(canonical)
-        if match:
-            return match
-        for suffix in country_suffixes:
-            match = canonical_index.get(f"{canonical}{suffix}")
-            if match:
-                return match
+        for key in [canonical] + [f"{canonical}{s}" for s in country_suffixes]:
+            for candidate in canonical_index.get(key, []):
+                if acceptable(candidate):
+                    return candidate
 
     shared_match = find_matching_provider(slug, existing_ids)
-    if shared_match:
+    if acceptable(shared_match):
         return shared_match
 
     for generic in GENERIC_SUFFIXES:
@@ -255,7 +310,7 @@ def find_provider_match(slug: str, countries: list[str], existing_ids: set[str],
             continue
         for suffix in country_suffixes:
             candidate = f"{slug}{generic}{suffix}"
-            if candidate in existing_ids:
+            if candidate in existing_ids and acceptable(candidate):
                 return candidate
 
     return None
@@ -477,8 +532,52 @@ def add_finicity_to_existing_provider(provider_path: Path, dry_run: bool = False
     return True
 
 
+def prune_incompatible_tags(markets: list[str],
+                            provider_countries: dict[str, set[str]],
+                            dry_run: bool = False) -> list[str]:
+    """
+    Remove `finicity` from providers no Open Finance US market can reach.
+
+    The first run of this scraper matched on name alone and tagged Barclays
+    (GB), Chase (GB), Citibank (CO) and ACB (VN) among others. The country gate
+    stops new ones; this clears the ones already written. It only ever removes
+    tags that contradict the endpoint's own markets, so a provider with no
+    country data keeps its tag.
+    """
+    allowed = expand_countries(markets)
+    removed: list[str] = []
+
+    for path in sorted(ACCOUNT_PROVIDERS_PATH.glob("*.json")):
+        known = provider_countries.get(path.stem)
+        if not known or known & allowed:
+            continue
+
+        provider = load_json(path)
+        aggregators = provider.get("apiAggregators") or []
+        if "finicity" not in aggregators:
+            continue
+
+        removed.append(path.stem)
+        if dry_run:
+            continue
+
+        provider["apiAggregators"] = sorted(a for a in aggregators if a != "finicity")
+        save_json(path, provider)
+
+    prefix = "[dry-run] " if dry_run else ""
+    if removed:
+        print(f"\n  {prefix}Untagged {len(removed)} providers outside "
+              f"{'/'.join(sorted(allowed - US_TERRITORIES))}:")
+        for provider_id in removed:
+            print(f"    - {provider_id} ({'/'.join(sorted(provider_countries[provider_id]))})")
+    else:
+        print("\n  No country-incompatible finicity tags to remove")
+    return removed
+
+
 def update_bank_providers(all_institutions: dict[str, list[dict]],
-                          dry_run: bool = False, verbose: bool = False) -> list[dict]:
+                          dry_run: bool = False, verbose: bool = False,
+                          prune: bool = True) -> list[dict]:
     """
     Tag matching account providers with the `finicity` aggregator.
 
@@ -520,6 +619,7 @@ def update_bank_providers(all_institutions: dict[str, list[dict]],
 
     existing_ids = get_existing_provider_ids()
     canonical_index = build_canonical_index(existing_ids)
+    provider_countries = build_provider_countries()
     print(f"Found {len(existing_ids)} existing account providers")
 
     updated_count = 0
@@ -528,7 +628,8 @@ def update_bank_providers(all_institutions: dict[str, list[dict]],
 
     for slug, entry in sorted(by_slug.items()):
         countries = sorted(entry["countries"])
-        matching_id = find_provider_match(slug, countries, existing_ids, canonical_index)
+        matching_id = find_provider_match(slug, countries, existing_ids,
+                                          canonical_index, provider_countries)
 
         if matching_id:
             provider_path = ACCOUNT_PROVIDERS_PATH / f"{matching_id}.json"
@@ -556,6 +657,10 @@ def update_bank_providers(all_institutions: dict[str, list[dict]],
     print(f"  {prefix}{updated_count} providers tagged with finicity")
     print(f"  {skipped_count} already had finicity (no changes needed)")
     print(f"  {len(unmatched)} institutions had no matching provider")
+
+    if prune:
+        prune_incompatible_tags(sorted(all_institutions), provider_countries, dry_run)
+
     return unmatched
 
 
@@ -749,7 +854,10 @@ wait a few minutes and raise --delay.
     )
 
     if not args.coverage_only and not args.skip_providers:
-        unmatched = update_bank_providers(all_institutions, args.dry_run, args.verbose)
+        # Pruning compares existing tags against the markets this run saw, so it
+        # is only safe once every page has been fetched.
+        unmatched = update_bank_providers(all_institutions, args.dry_run,
+                                          args.verbose, prune=complete)
         save_unmatched(unmatched, args.dry_run or not complete)
 
     if args.from_cache:
