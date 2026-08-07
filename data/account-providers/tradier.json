@@ -21,9 +21,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "banksync",
+    "finicity",
     "lunchflow",
-    "snaptrade",
-    "banksync"
+    "snaptrade"
   ],
   "ownership": [],
   "stateOwned": false,

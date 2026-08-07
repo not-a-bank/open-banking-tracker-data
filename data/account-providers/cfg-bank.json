@@ -22,7 +22,10 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": ["sahl"],
+  "apiAggregators": [
+    "finicity",
+    "sahl"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,

@@ -36,7 +36,9 @@
   "apiAuth": [],
   "apiProducts": [],
   "apiStandards": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "finicity"
+  ],
   "collections": [],
   "webApplication": false,
   "mobileApps": [],

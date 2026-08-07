@@ -34,9 +34,10 @@
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [
+    "banksync",
+    "finicity",
     "flinks",
-    "plaid",
-    "banksync"
+    "plaid"
   ],
   "collections": [],
   "webApplication": false,

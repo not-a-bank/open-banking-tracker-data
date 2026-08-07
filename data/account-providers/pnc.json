@@ -23,9 +23,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "banksync",
+    "finicity",
     "flinks",
-    "plaid",
-    "banksync"
+    "plaid"
   ],
   "ownership": [],
   "stateOwned": false,

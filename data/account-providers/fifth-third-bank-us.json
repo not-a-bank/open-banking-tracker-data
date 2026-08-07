@@ -24,9 +24,10 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "finicity",
+    "flinks",
     "plaid",
-    "truelayer",
-    "flinks"
+    "truelayer"
   ],
   "ownership": [],
   "stateOwned": false,

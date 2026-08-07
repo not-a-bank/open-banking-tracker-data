@@ -22,7 +22,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "finicity"
+  ],
   "mcpServer": {
     "type": "hosted",
     "transport": "sse",
