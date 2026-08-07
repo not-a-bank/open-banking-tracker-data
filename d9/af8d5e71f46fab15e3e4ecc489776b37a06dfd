@@ -1,0 +1,22 @@
+data/api-aggregators/gocardless.json
+  s_cc71e607c407dd::t_55edbac7311924 4-5
+api-aggregators-schema.json
+  s_cc71e607c407dd::t_e5904483f2696f 112,115-119
+  s_cc71e607c407dd::t_56fdd8785e6b21 120
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "d9af8d5e71f46fab15e3e4ecc489776b37a06dfd",
+  "prompts": {},
+  "sessions": {
+    "s_cc71e607c407dd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8114f6ae-4bb3-48ce-a3b0-dfd9056cd886",
+        "model": "claude-opus-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
