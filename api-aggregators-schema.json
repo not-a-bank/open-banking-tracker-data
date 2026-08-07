@@ -106,6 +106,12 @@
       "description": "Whether the API aggregator has been verified as legitimate and operational",
       "examples": [true, false]
     },
+    "parentCompany": {
+      "title": "Parent Company",
+      "type": "string",
+      "description": "Owner of the aggregator, where the ownership is material to how the market reads it. Omit for independent aggregators.",
+      "examples": ["Mastercard", "Visa"]
+    },
     "marketFocus": {
       "title": "Market Focus",
       "type": "string",
