@@ -1,0 +1,31 @@
+{
+  "id": "cusb-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "CUSB Bank",
+  "legalName": "CUSB Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.cusb.bank.ico",
+  "websiteUrl": "https://www.cusb.bank/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "finicity"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

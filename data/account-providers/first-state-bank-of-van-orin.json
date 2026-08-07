@@ -1,0 +1,31 @@
+{
+  "id": "first-state-bank-of-van-orin",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "First State Bank of Van Orin",
+  "legalName": "First State Bank of Van Orin",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/vanorinbank.com.ico",
+  "websiteUrl": "https://vanorinbank.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "finicity"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

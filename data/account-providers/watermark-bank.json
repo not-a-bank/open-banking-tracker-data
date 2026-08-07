@@ -1,0 +1,31 @@
+{
+  "id": "watermark-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Watermark Bank",
+  "legalName": "Watermark Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/watermark.bank.ico",
+  "websiteUrl": "https://watermark.bank/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "finicity"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

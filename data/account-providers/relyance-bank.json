@@ -1,0 +1,31 @@
+{
+  "id": "relyance-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Relyance Bank",
+  "legalName": "Relyance Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.rely.bank.ico",
+  "websiteUrl": "https://www.rely.bank/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "finicity"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

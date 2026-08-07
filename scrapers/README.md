@@ -173,6 +173,51 @@ than replacing it — it cannot confirm or deny coverage in other markets.
 
 ---
 
+### US Institution Enricher
+
+Turns a scraper's "unmatched institutions" file into real account providers by resolving each
+name against authoritative US regulator data.
+
+```bash
+npm run enrich:us
+# or
+python3 scrapers/us_institution_enricher.py
+```
+
+**Options:**
+- `--unmatched-file PATH` - Input file (default: `scraped-data/finicity/finicity-unmatched.json`)
+- `--aggregator ID` - Aggregator to record on created providers (default: `finicity`)
+- `--refresh-reference` - Re-download FDIC/NCUA reference data instead of using the cache
+- `--limit N` - Process only the first N institutions
+- `--dry-run` - Show what would be created without writing files
+- `--verbose` - Log every decision
+
+**Why this exists:** `schema.json` requires non-null `icon` and `websiteUrl`, which aggregator APIs
+generally don't provide. Rather than guessing a domain per bank, this looks each institution up in
+the regulator's own registry and uses the website that regulator publishes.
+
+**Data sources:**
+- Banks — [FDIC BankFind API](https://api.fdic.gov/banks/institutions) (~4,200 active banks with a website)
+- Credit unions — [NCUA quarterly Call Report data](https://ncua.gov/analysis/credit-union-corporate-call-report-data)
+  for identity (~4,300 credit unions), then the NCUA Research-a-Credit-Union detail endpoint for
+  the website
+
+**Matching is conservative.** An institution is only created on an unambiguous match. Where a name
+carries a state hint — `1st National Bank (KS)` — that hint must *agree* with the registry record;
+a single candidate in the wrong state is rejected, not accepted. Nothing is ever guessed, and
+everything unresolved is written to `still-unresolved.json` next to the input file.
+
+**Duplicate avoidance** runs on three axes: the canonical name index over all existing providers
+(same abbreviation expansion the Finicity scraper uses), the resolved website host against every
+provider that already has one (this catches the same bank listed under a different name), and
+within the batch itself.
+
+**Repeatable.** Reference data and resolved websites are cached under `scraped-data/reference/`
+(gitignored), and the run is idempotent — re-running after a fresh scrape only adds what is
+genuinely new.
+
+---
+
 ### YAXI Scraper
 
 Update YAXI's bank provider data.

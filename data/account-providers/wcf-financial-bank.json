@@ -1,0 +1,31 @@
+{
+  "id": "wcf-financial-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "WCF Financial Bank",
+  "legalName": "WCF Financial Bank",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.wcfbank.com.ico",
+  "websiteUrl": "https://www.wcfbank.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "finicity"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}
