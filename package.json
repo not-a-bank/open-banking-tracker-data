@@ -14,6 +14,7 @@
     "scrape:plaid": "python3 scrapers/plaid_scraper.py",
     "scrape:flinks": "python3 scrapers/flinks_scraper.py",
     "scrape:gocardless": "python3 scrapers/gocardless_scraper.py",
+    "scrape:finicity": "python3 scrapers/finicity_scraper.py",
     "scrape:opensanctions": "python3 scrapers/opensanctions_bic_scraper.py",
     "scrape:yaxi": "python3 scrapers/yaxi_scraper.py",
     "scrape:zenith": "python3 scrapers/zenith_scraper.py",

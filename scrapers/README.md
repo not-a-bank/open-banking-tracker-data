@@ -104,6 +104,75 @@ https://docs.google.com/spreadsheets/d/1EZ5n7QDGaRIot5M86dwqd5UFSGEDTeTRzEq3D9uE
 
 ---
 
+### Finicity Scraper
+
+Updates Finicity's (Mastercard Open Finance) market coverage and bank provider data from the public endpoint behind the Supported Institutions page.
+
+```bash
+npm run scrape:finicity
+# or
+python3 scrapers/finicity_scraper.py
+```
+
+**Options:**
+- `--coverage-only` - Only update market coverage (skip provider updates)
+- `--skip-providers` - Skip tagging account provider files
+- `--replace-coverage` - Replace `marketCoverage` instead of merging with existing
+- `--from-cache` - Re-process the last scrape without hitting the API again
+- `--max-pages N` - Stop after N pages per country (for testing)
+- `--delay SECONDS` - Seconds between requests (default: 0.5)
+- `--dry-run` - Show what would be done without making changes
+- `--verbose` - Log every tagged/unmatched institution
+
+**Features:**
+- Fetches institutions from `https://developer.mastercard.com/devzone/api/portal/open-banking-institutions`
+- Updates market coverage in `data/api-aggregators/finicity.json`
+- Adds `finicity` to `apiAggregators` on matching account providers
+- Saves coverage and institution ID mappings to `scraped-data/finicity/`
+
+**Does not create providers.** Unlike the other scrapers, this one never writes new
+`data/account-providers/` files. The endpoint exposes only an ID, a display name and product
+flags, while `schema.json` requires non-null `icon` and `websiteUrl` URLs — generating stubs
+would break `npm run validate-providers`, which all existing providers currently pass. Institutions
+with no match are written to `scraped-data/finicity/finicity-unmatched.json` (with suggested ID,
+Finicity IDs and supported products) so they can be added deliberately with real metadata.
+
+**Matching:** Finicity abbreviates where the tracker spells things out ("Aloha Pacific FCU" vs
+`aloha-pacific-federal-credit-union.json`), so both sides are canonicalised by expanding known
+abbreviations (FCU, CU, FSB, Fed, Cred, Svgs, Natl, Assn, Coop) before comparison. Country
+suffixes are also tried when appending (`fifth-third-bank` → `fifth-third-bank-us.json`), which
+the shared `find_matching_provider` helper does not do. State qualifiers are deliberately *not*
+stripped for matching — "Arsenal Credit Union (MO)" is left unmatched rather than risk merging it
+into a different institution.
+
+**Products:** Per-institution capability flags are recorded in the scraped data using the
+abbreviations from the Supported Institutions table: AO (Account Owner), ABC (Account Balance
+Check), TA (Transaction Aggregation), VOI (Verification of Income), VOA (Verification of Assets),
+ACH (Account ACH Details), SA (Statements), AHA (Account History Aggregation), LPD (Account Loan
+Payment Details), SLD (Account Student Loan Data).
+
+**Connection variants:** Finicity lists one entry per *connection*, not per institution, so the
+same bank appears several times with a trailing qualifier ("Central Bank - Personal Banking",
+"Bank of Crockett - Cash Management"). The scraper strips those qualifiers so the variants collapse
+onto a single account provider, and records every Finicity ID that rolls up into it in
+`scraped-data/finicity/finicity-institution-ids.json`. Parenthetical qualifiers are deliberately
+kept — "Citizens Bank (NM)" is a different company from "Citizens Bank".
+
+**Rate limiting:** The endpoint is unauthenticated but heavily rate limited. Bursting concurrent
+requests trips a server-side circuit breaker that returns `INSTITUTIONS_ERROR` (HTTP 500) for
+several minutes, for every client — including your browser. The scraper fetches strictly
+sequentially and backs off exponentially. Do not parallelise it. If you hit repeated errors, wait
+a few minutes and raise `--delay`.
+
+**Data Source:** https://developer.mastercard.com/open-finance-us/documentation/financial-institution/supported-institutions/
+
+**Coverage:** US, CA (the `country` parameter only filters for these two markets; other ISO codes
+fall through to a fuzzy name search on the backend). Because this endpoint only serves the Open
+Finance *US* portal, market coverage is **merged** with what is already in `finicity.json` rather
+than replacing it — it cannot confirm or deny coverage in other markets.
+
+---
+
 ### YAXI Scraper
 
 Update YAXI's bank provider data.
