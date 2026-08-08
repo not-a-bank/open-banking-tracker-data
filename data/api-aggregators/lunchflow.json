@@ -11,8 +11,13 @@
     "transport": "stdio",
     "npmPackage": "@lunchflow/mcp",
     "command": "npx",
-    "args": ["-y", "@lunchflow/mcp"],
-    "env": ["LUNCHFLOW_API_KEY"],
+    "args": [
+      "-y",
+      "@lunchflow/mcp"
+    ],
+    "env": [
+      "LUNCHFLOW_API_KEY"
+    ],
     "authType": "api_key",
     "repositoryUrl": "https://github.com/lunchflow/mcp",
     "documentationUrl": "https://docs.lunchflow.app/destinations/mcp",
@@ -81,13 +86,13 @@
       "VN"
     ]
   },
-  "lastUpdated": "2026-02-02T16:59:19.388Z",
+  "lastUpdated": "2026-08-08T01:08:07.132Z",
   "coverage": {
     "total": 43,
     "byUpstream": {
       "gocardless": 31,
       "mx": 0,
-      "finicity": 0,
+      "finicity": 3,
       "pluggy": 2,
       "akahu": 1,
       "finverse": 6,

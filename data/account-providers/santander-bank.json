@@ -23,9 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "finicity"
+    "finicity",
+    "gocardless",
+    "lunchflow"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "WBKPPLPP"
 }
