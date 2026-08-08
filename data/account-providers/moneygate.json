@@ -1,0 +1,60 @@
+{
+  "id": "moneygate",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Moneygate",
+  "legalName": null,
+  "verified": false,
+  "status": "live",
+  "icon": null,
+  "websiteUrl": null,
+  "countryHQ": null,
+  "countries": [
+    "AT",
+    "BE",
+    "BG",
+    "CY",
+    "CZ",
+    "DE",
+    "DK",
+    "ES",
+    "EE",
+    "FI",
+    "FR",
+    "GR",
+    "HR",
+    "HU",
+    "IE",
+    "IS",
+    "IT",
+    "LI",
+    "LT",
+    "LU",
+    "LV",
+    "MT",
+    "NL",
+    "NO",
+    "PL",
+    "PT",
+    "RO",
+    "SK",
+    "SI",
+    "SE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

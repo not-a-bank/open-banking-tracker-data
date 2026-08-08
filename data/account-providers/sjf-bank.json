@@ -1,0 +1,31 @@
+{
+  "id": "sjf-bank",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "SJF Bank",
+  "legalName": null,
+  "verified": false,
+  "status": "live",
+  "icon": null,
+  "websiteUrl": null,
+  "countryHQ": null,
+  "countries": [
+    "DK"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "yaxi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null
+}

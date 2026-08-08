@@ -23,9 +23,12 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "gocardless",
+    "lunchflow",
     "yaxi"
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "bic": "GABLDE71XXX"
 }
