@@ -1,0 +1,40 @@
+{
+  "id": "redbark",
+  "label": "Redbark",
+  "website": "https://redbark.com/",
+  "iconUrl": "https://redbark.com/favicon.ico",
+  "twitter": null,
+  "developerPortalUrl": "https://redbark.com/developers",
+  "countryHQ": "AU",
+  "marketFocus": "Australia and New Zealand",
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "serverUrl": "https://mcp.redbark.com/mcp",
+    "authType": "oauth",
+    "repositoryUrl": "https://github.com/redbark-co/redbark-mcp",
+    "documentationUrl": "https://docs.redbark.com/api-reference/mcp",
+    "tools": [
+      "list_connections",
+      "list_accounts",
+      "list_balances",
+      "list_transactions",
+      "list_holdings",
+      "list_trades"
+    ]
+  },
+  "verified": true,
+  "description": "Bank and brokerage sync for Australia and New Zealand: live transactions, balances, and holdings into Google Sheets, Notion, Airtable, YNAB, Actual Budget (SimpleFIN), webhooks, a REST API, and AI agents via a hosted OAuth 2.1 MCP server",
+  "note": "Redbark inherits institutional coverage from Fiskil (CDR, Australia) and Akahu (New Zealand) for banking, and SnapTrade for global brokerage. Consumer data is proxied live under CDR consent and never stored at rest",
+  "upstreamAggregators": [
+    "fiskil",
+    "akahu",
+    "snaptrade"
+  ],
+  "marketCoverage": {
+    "live": [
+      "AU",
+      "NZ"
+    ]
+  }
+}
