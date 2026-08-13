@@ -9,7 +9,7 @@
   ],
   "name": "Found",
   "legalName": "Indie Technologies, Inc.",
-  "description": "Found is an all-in-one financial platform for self-employed and small-business owners, combining business banking, bookkeeping, invoicing, and tax tools. Found is a financial technology company, not a bank; banking services and the Found Mastercard Business debit card are provided by Lead Bank, Member FDIC, with deposits eligible for FDIC insurance up to applicable limits. Some customers may have accounts governed by separate terms with Piermont Bank, Member FDIC, as disclosed in Found’s legal agreements.",
+  "description": "Found is an all-in-one financial platform for self-employed and small-business owners, combining business banking, bookkeeping, invoicing, and tax tools. Found is a financial technology company, not a bank; banking services and the Found Mastercard Business debit card are provided by Lead Bank, Member FDIC, with deposits eligible for FDIC insurance up to applicable limits. Some customers may have accounts governed by separate terms with Piermont Bank, Member FDIC, as disclosed in Found\u2019s legal agreements.",
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.found.com.ico",
@@ -33,7 +33,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
-    "finicity",
+    "mastercard-open-banking",
     "plaid"
   ],
   "partnerships": [

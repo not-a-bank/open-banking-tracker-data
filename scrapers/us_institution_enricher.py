@@ -443,8 +443,8 @@ Examples:
     )
     parser.add_argument("--unmatched-file", type=Path, default=DEFAULT_UNMATCHED,
                         help=f"Unmatched institutions JSON (default: {DEFAULT_UNMATCHED})")
-    parser.add_argument("--aggregator", default="finicity",
-                        help="Aggregator ID to record on created providers (default: finicity)")
+    parser.add_argument("--aggregator", default="mastercard-open-banking",
+                        help="Aggregator ID to record on created providers (default: mastercard-open-banking)")
     parser.add_argument("--refresh-reference", action="store_true",
                         help="Re-download FDIC/NCUA reference data instead of using the cache")
     parser.add_argument("--limit", type=int, help="Process only the first N institutions")

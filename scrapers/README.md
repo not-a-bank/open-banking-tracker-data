@@ -126,8 +126,8 @@ python3 scrapers/finicity_scraper.py
 
 **Features:**
 - Fetches institutions from `https://developer.mastercard.com/devzone/api/portal/open-banking-institutions`
-- Updates market coverage in `data/api-aggregators/finicity.json`
-- Adds `finicity` to `apiAggregators` on matching account providers
+- Updates market coverage in `data/api-aggregators/mastercard-open-banking.json`
+- Adds `mastercard-open-banking` to `apiAggregators` on matching account providers
 - Saves coverage and institution ID mappings to `scraped-data/finicity/`
 
 **Does not create providers.** Unlike the other scrapers, this one never writes new
@@ -168,7 +168,7 @@ a few minutes and raise `--delay`.
 
 **Coverage:** US, CA (the `country` parameter only filters for these two markets; other ISO codes
 fall through to a fuzzy name search on the backend). Because this endpoint only serves the Open
-Finance *US* portal, market coverage is **merged** with what is already in `finicity.json` rather
+Finance *US* portal, market coverage is **merged** with what is already in `mastercard-open-banking.json` rather
 than replacing it — it cannot confirm or deny coverage in other markets.
 
 ---
@@ -186,7 +186,7 @@ python3 scrapers/us_institution_enricher.py
 
 **Options:**
 - `--unmatched-file PATH` - Input file (default: `scraped-data/finicity/finicity-unmatched.json`)
-- `--aggregator ID` - Aggregator to record on created providers (default: `finicity`)
+- `--aggregator ID` - Aggregator to record on created providers (default: `mastercard-open-banking`)
 - `--refresh-reference` - Re-download FDIC/NCUA reference data instead of using the cache
 - `--limit N` - Process only the first N institutions
 - `--dry-run` - Show what would be created without writing files

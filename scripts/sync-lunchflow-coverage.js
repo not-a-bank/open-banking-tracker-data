@@ -6,7 +6,7 @@
  * inheriting coverage from multiple upstream providers:
  * - GoCardless (Europe)
  * - MX (US)
- * - Finicity/Mastercard (US)
+ * - Mastercard Open Banking (US)
  * - Pluggy (Brazil, Mexico)
  * - Akahu (New Zealand)
  * - Finverse (Asia-Pacific)

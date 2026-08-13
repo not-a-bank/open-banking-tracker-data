@@ -24,11 +24,11 @@
     ]
   },
   "verified": true,
-  "note": "Lunch Flow is an aggregator of aggregators, inheriting coverage from GoCardless, MX, Finicity, Pluggy, Akahu, Finverse, and SnapTrade",
+  "note": "Lunch Flow is an aggregator of aggregators, inheriting coverage from GoCardless, MX, Mastercard Open Banking, Pluggy, Akahu, Finverse, and SnapTrade",
   "upstreamAggregators": [
     "gocardless",
     "mx",
-    "finicity",
+    "mastercard-open-banking",
     "pluggy",
     "akahu",
     "finverse",
@@ -87,7 +87,7 @@
     "byUpstream": {
       "gocardless": 31,
       "mx": 0,
-      "finicity": 0,
+      "mastercard-open-banking": 0,
       "pluggy": 2,
       "akahu": 1,
       "finverse": 6,

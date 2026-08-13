@@ -171,7 +171,7 @@
         "pattern": "^[a-z0-9-]+$"
       },
       "description": "For meta-aggregators: list of aggregator IDs this service inherits coverage from",
-      "examples": [["gocardless", "mx", "finicity", "plaid"]]
+      "examples": [["gocardless", "mx", "mastercard-open-banking", "plaid"]]
     },
     "connectorCount": {
       "title": "Connector Count",

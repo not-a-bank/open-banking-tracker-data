@@ -53,7 +53,7 @@ PAGE_SIZE = 20  # fixed server side, no page-size parameter is honoured
 
 # Paths
 BASE_PATH = Path(__file__).parent.parent
-FINICITY_JSON_PATH = BASE_PATH / "data" / "api-aggregators" / "finicity.json"
+FINICITY_JSON_PATH = BASE_PATH / "data" / "api-aggregators" / "mastercard-open-banking.json"
 SCRAPED_DATA_PATH = BASE_PATH / "scraped-data" / "finicity"
 
 # Request settings
@@ -519,13 +519,13 @@ def add_finicity_to_existing_provider(provider_path: Path, dry_run: bool = False
     provider = load_json(provider_path)
 
     aggregators = provider.get("apiAggregators") or []
-    if "finicity" in aggregators:
+    if "mastercard-open-banking" in aggregators:
         return False
 
     if dry_run:
         return True
 
-    aggregators.append("finicity")
+    aggregators.append("mastercard-open-banking")
     aggregators.sort()
     provider["apiAggregators"] = aggregators
     save_json(provider_path, provider)
@@ -554,14 +554,14 @@ def prune_incompatible_tags(markets: list[str],
 
         provider = load_json(path)
         aggregators = provider.get("apiAggregators") or []
-        if "finicity" not in aggregators:
+        if "mastercard-open-banking" not in aggregators:
             continue
 
         removed.append(path.stem)
         if dry_run:
             continue
 
-        provider["apiAggregators"] = sorted(a for a in aggregators if a != "finicity")
+        provider["apiAggregators"] = sorted(a for a in aggregators if a != "mastercard-open-banking")
         save_json(path, provider)
 
     prefix = "[dry-run] " if dry_run else ""

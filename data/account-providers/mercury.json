@@ -16,7 +16,7 @@
   "countries": [
     "US"
   ],
-  "description": "Mercury is a financial technology company that partners with FDIC insured partner banks to protect your money. Mercury offers its users a “banking stack”, with the goal of empowering startups, as well as making banking easier for all businesses. In April 2026, Mercury acquired Central (YC S24), an AI-native payroll, benefits, and compliance platform for startups, to add payroll to its product suite.",
+  "description": "Mercury is a financial technology company that partners with FDIC insured partner banks to protect your money. Mercury offers its users a \u201cbanking stack\u201d, with the goal of empowering startups, as well as making banking easier for all businesses. In April 2026, Mercury acquired Central (YC S24), an AI-native payroll, benefits, and compliance platform for startups, to add payroll to its product suite.",
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
@@ -108,7 +108,7 @@
   ],
   "apiAggregators": [
     "banksync",
-    "finicity",
+    "mastercard-open-banking",
     "plaid",
     "wealthreader"
   ],
