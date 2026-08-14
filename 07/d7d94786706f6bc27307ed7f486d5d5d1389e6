@@ -1,0 +1,27 @@
+data/api-aggregators/mastercard-open-banking.json
+  s_bf5dce86c25f33::t_00611da8f63e1e 4
+data/account-providers/bmoharrisbank.json
+  s_bf5dce86c25f33::t_573ddef2f1df75 82
+data/account-providers/brex.json
+  s_bf5dce86c25f33::t_fd4f3054374e35 99
+data/account-providers/tomocredit.json
+  s_bf5dce86c25f33::t_6dc5c83de8be74 48
+data/account-providers/usbank.json
+  s_bf5dce86c25f33::t_afa441c37ee74e 103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "07d7d94786706f6bc27307ed7f486d5d5d1389e6",
+  "prompts": {},
+  "sessions": {
+    "s_bf5dce86c25f33": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "947df648-2244-4c56-8a06-a641c81423cd",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
