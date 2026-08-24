@@ -38,14 +38,14 @@
       "VE"
     ]
   },
-  "connectorCount": 285,
+  "connectorCount": 287,
   "bankCount": 229,
-  "note": "Connector count reflects active production connectors in Wealthreader’s registry. Tracker coverage includes only existing provider records matched conservatively by BIC and country or by an unambiguous institution name and country.",
-  "lastUpdated": "2026-07-27T00:00:00Z",
+  "note": "Connector count reflects active production connectors in Wealthreader's registry. The bank figure keeps the original conservative matching, by BIC and country or by an unambiguous institution name and country. The investment figure counts institutions in the same registry that are investment platforms rather than deposit-taking banks - brokers, fund and asset managers, pension managers and robo-advisors - and excludes private banks that also return portfolio data, which stay counted under banks. Beyond these, 103 of the banks counted above also return investment portfolio data.",
+  "lastUpdated": "2026-08-24T00:00:00Z",
   "coverage": {
-    "total": 229,
+    "total": 250,
     "banks": 229,
-    "investments": 0,
+    "investments": 21,
     "byCountry": {
       "AD": 5,
       "BR": 2,
