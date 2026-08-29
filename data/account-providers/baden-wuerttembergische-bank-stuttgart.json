@@ -1,0 +1,32 @@
+{
+  "id": "baden-wuerttembergische-bank-stuttgart",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Baden-Württembergische Bank Stuttgart",
+  "legalName": "Baden-Württembergische Bank Stuttgart",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/bwbank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "SOLADEST601"
+}

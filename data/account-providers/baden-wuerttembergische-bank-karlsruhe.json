@@ -1,0 +1,32 @@
+{
+  "id": "baden-wuerttembergische-bank-karlsruhe",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Baden-Württembergische Bank Karlsruhe",
+  "legalName": "Baden-Württembergische Bank Karlsruhe",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/bwbank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "SOLADEST663"
+}
