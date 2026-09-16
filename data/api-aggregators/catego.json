@@ -1,0 +1,29 @@
+{
+  "id": "catego",
+  "label": "Catego",
+  "website": "https://catego.app/",
+  "iconUrl": "https://catego.app/apple-touch-icon.png",
+  "developerPortalUrl": "https://ais.catego.app/api/v1/docs#/",
+  "countryHQ": "LV",
+  "description": "AIS provider and transaction categorization",
+  "statusUrl": "https://status.catego.app",
+  "marketFocus": "Baltics (Latvia, Lithuania, Estonia) and Northern Europe",
+  "marketCoverage": {
+    "live": [
+    "LV",
+    "LT",
+    "EE"
+    ],
+    "upcoming": [
+    "FI",
+    "SE",
+    "NO",
+    "IS",
+    "DK",
+    "NL",
+    "DE",
+    "RO",
+    "PL"
+]
+  }
+}
