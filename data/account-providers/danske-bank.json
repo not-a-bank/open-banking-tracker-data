@@ -48,6 +48,21 @@
     "status": "available",
     "sourceUrl": "https://danskebank.com/openbanking"
   },
+  "mcpServer": {
+    "type": "hosted",
+    "documentationUrl": "https://developers.danskebank.com/premium-apis/mcp-service",
+    "programStatus": "beta",
+    "accessLevel": "read-only",
+    "launchDate": "2026-09-15",
+    "capabilities": [
+      "account-data",
+      "cash-flow"
+    ],
+    "supportedModels": [
+      "Claude",
+      "ChatGPT"
+    ]
+  },
   "developerPortalUrl": "https://danskebank.com/openbanking",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
