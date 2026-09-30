@@ -1,0 +1,29 @@
+{
+  "id": "emisso-connect",
+  "label": "Emisso Connect",
+  "website": "https://www.emisso.ai/es",
+  "iconUrl": "https://connect.emisso.ai/icon1.png",
+  "developerPortalUrl": "https://connect.emisso.ai/docs",
+  "twitter": "emisso_ai",
+  "countryHQ": "CL",
+  "verified": false,
+  "description": "Chilean business data API for software and AI agents: business bank accounts (balances and transactions) at 7 Chilean banks, SII tax data and electronic invoice (DTE) issuance, and Previred payroll contributions, through a REST API, a TypeScript SDK and a hosted MCP server.",
+  "marketFocus": "Chile",
+  "bankCount": 7,
+  "marketCoverage": {
+    "live": [
+      "CL"
+    ]
+  },
+  "mcpServer": {
+    "type": "hosted",
+    "serverUrl": "https://connect.emisso.ai/mcp",
+    "authType": "oauth",
+    "documentationUrl": "https://connect.emisso.ai/docs/agentes/mcp",
+    "tools": [
+      "search_docs",
+      "execute",
+      "execute_write"
+    ]
+  }
+}

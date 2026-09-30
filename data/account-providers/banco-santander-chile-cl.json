@@ -11,7 +11,7 @@
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancosantanderchilecl.com.ico",
-  "websiteUrl": null,
+  "websiteUrl": "https://banco.santander.cl/",
   "countryHQ": "CL",
   "countries": [
     "CL"
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "emisso-connect",
     "wealthreader"
   ],
   "ownership": [],

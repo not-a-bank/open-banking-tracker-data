@@ -12,7 +12,7 @@
   "legalName": "Banco del Estado de Chile",
   "ipoStatus": "public",
   "verified": false,
-  "icon": "https://res.cloudinary.com/apideck/image/upload/v1614098937/icons/bancoestado.png",
+  "icon": "https://icons.duckduckgo.com/ip3/www.bancoestado.cl.ico",
   "websiteUrl": "https://www.bancoestado.cl/",
   "ownership": [],
   "stateOwned": true,
@@ -29,6 +29,7 @@
   "apiProducts": [],
   "apiAggregators": [
     "boufin",
+    "emisso-connect",
     "wealthreader"
   ],
   "webApplication": true,

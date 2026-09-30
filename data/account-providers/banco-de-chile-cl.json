@@ -11,7 +11,7 @@
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodechilecl.com.ico",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.bancochile.cl/",
   "countryHQ": "CL",
   "countries": [
     "CL"
@@ -22,7 +22,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "emisso-connect"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,

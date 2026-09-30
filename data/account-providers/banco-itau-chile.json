@@ -10,8 +10,8 @@
   "legalName": "BANCO ITAU CHILE",
   "verified": false,
   "status": "live",
-  "icon": null,
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.itau.cl.ico",
+  "websiteUrl": "https://www.itau.cl/",
   "countryHQ": "CL",
   "countries": [
     "CL"
@@ -24,6 +24,7 @@
   "apiProducts": [],
   "apiAggregators": [
     "boufin",
+    "emisso-connect",
     "floid-io",
     "wealthreader"
   ],
