@@ -1,0 +1,58 @@
+{
+  "id": "truthifi",
+  "label": "Truthifi",
+  "website": "https://truthifi.com/",
+  "iconUrl": "https://icons.duckduckgo.com/ip3/truthifi.com.ico",
+  "developerPortalUrl": "https://truthifi.com/mcp-tools",
+  "countryHQ": "US",
+  "twitter": null,
+  "verified": false,
+  "description": "Collaboration hub for agentic finance: one verified household record of US investment and bank accounts (via data partners), brought into AI assistants through a hosted OAuth MCP server: accounts, holdings, fees, performance, cash flow and the Truthifi Score. Can't move money.",
+  "marketFocus": "United States",
+  "marketCoverage": {
+    "live": [
+      "US"
+    ]
+  },
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "streamable-http",
+    "serverUrl": "https://api.truthifi.com/mcp",
+    "authType": "oauth",
+    "authScope": "offline_access",
+    "documentationUrl": "https://truthifi.com/mcp-tools",
+    "tools": [
+      "get_accounts",
+      "get_groups",
+      "get_advisors",
+      "get_dated_holdings",
+      "get_composition",
+      "get_equity_concentrations",
+      "get_market_cap_allocation",
+      "get_balance_history",
+      "get_performance_history",
+      "get_fees",
+      "get_transactions",
+      "get_budget_flow_summary",
+      "get_investment_transactions_summary",
+      "get_asset_liabilities",
+      "create_asset_liability",
+      "delete_asset_liability",
+      "get_findings",
+      "get_truthifi_score_history",
+      "get_security_info",
+      "get_security_distributions",
+      "get_security_news",
+      "get_truthifi_info",
+      "get_prompt_catalog",
+      "run_scan",
+      "get_scan_status",
+      "get_subscription_info",
+      "get_subscription_catalog",
+      "connect_account",
+      "fix_connections",
+      "upgrade"
+    ]
+  },
+  "note": "Listed for MCP discovery (not an open banking account aggregator)."
+}
