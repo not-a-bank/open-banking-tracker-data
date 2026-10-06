@@ -28,7 +28,9 @@
   "slackCommunity": false,
   "apiAuth": [],
   "apiProducts": [],
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiAggregators": [
     "banksync",
     "mastercard-open-banking",
@@ -66,5 +68,11 @@
     }
   ],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "articles": [
+    {
+      "url": "https://developer.key.com/announcements/q3-2025",
+      "date": "2025-07"
+    }
+  ]
 }

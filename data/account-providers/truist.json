@@ -31,7 +31,9 @@
   "apiServerEndpoints": [],
   "apiSpecs": [],
   "apiProducts": [],
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiStatusUrls": [],
   "apiAggregators": [
     "banksync",
@@ -65,5 +67,11 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "articles": [
+    {
+      "url": "https://ir.truist.com/2026-03-12-Truist-expands-open-banking-capabilities-with-Plaid",
+      "date": "2026-03-12"
+    }
+  ]
 }

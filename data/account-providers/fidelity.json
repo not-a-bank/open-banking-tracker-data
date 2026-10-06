@@ -18,7 +18,9 @@
   "mobileApps": [],
   "compliance": [],
   "developerPortalUrl": null,
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiProducts": [],
   "apiAggregators": [
     "lunchflow",
@@ -30,5 +32,11 @@
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "desription": "Fidelity is an American multinational financial services corporation based in Boston, Massachusetts."
+  "desription": "Fidelity is an American multinational financial services corporation based in Boston, Massachusetts.",
+  "articles": [
+    {
+      "url": "https://akoya.com/news/fidelity-data-sharing-hub-aims-to-end-screen-scraping",
+      "date": "2019"
+    }
+  ]
 }

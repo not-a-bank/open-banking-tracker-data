@@ -159,7 +159,9 @@
       ]
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiStatusUrls": [],
   "apiAggregators": [
     "klarna",
@@ -195,7 +197,11 @@
   "github": "citi",
   "fca": "001b000000MfF27AAF",
   "alumni": [],
-  "articles": [],
+  "articles": [
+    {
+      "url": "https://akoya.com/financial-institutions"
+    }
+  ],
   "stack": [],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
