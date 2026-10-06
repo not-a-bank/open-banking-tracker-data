@@ -1,0 +1,19 @@
+data/account-providers/citizensbank.json
+  s_5e3a8938aa3387::t_79fb13274ced69 30-52,76-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d77c7b90c88dbb9524b56459be9288de3c3856b0",
+  "prompts": {},
+  "sessions": {
+    "s_5e3a8938aa3387": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b96c0f24-164b-47f7-9fba-05f279362e2d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
