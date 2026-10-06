@@ -258,7 +258,7 @@
         },
         "transport": {
           "type": "string",
-          "enum": ["sse", "stdio"],
+          "enum": ["sse", "stdio", "streamable-http"],
           "description": "Transport protocol used by the MCP server",
           "examples": ["sse", "stdio"]
         },
