@@ -1,0 +1,55 @@
+data/account-providers/bankofamerica.json
+  s_161c6066572695::t_629d70c2eb3b5a 34-35
+data/account-providers/capitalone.json
+  s_161c6066572695::t_7ea24a57c5c5be 78-79
+data/account-providers/charles-schwab.json
+  s_161c6066572695::t_ea8ee4e5f7a21e 30-31
+data/account-providers/chime.json
+  s_161c6066572695::t_8b7f321755c498 44-45
+data/account-providers/citi.json
+  s_161c6066572695::t_60482c86fe5c51 172-173
+data/account-providers/citizensbank.json
+  s_161c6066572695::t_4b0835e8e00d6f 185-186
+data/account-providers/edward-jones.json
+  s_161c6066572695::t_28a23756546f06 29-30
+data/account-providers/empower-retirement.json
+  s_161c6066572695::t_457d5063c3286b 29-30
+data/account-providers/fidelity.json
+  s_161c6066572695::t_ee710226943b2b 30-31
+data/account-providers/keybank.json
+  s_161c6066572695::t_121b58c6a1bd44 38-39
+data/account-providers/navy-federal-credit-union.json
+  s_161c6066572695::t_85ff6771c85ca7 42-43
+data/account-providers/penfed.json
+  s_161c6066572695::t_49c45ed32fccc2 30-31
+data/account-providers/pnc.json
+  s_161c6066572695::t_d390a57cef6b3c 31-32
+data/account-providers/schwab.json
+  s_161c6066572695::t_85c130a71efb0e 30-31
+data/account-providers/usaa.json
+  s_161c6066572695::t_cd5c20bf577d4d 42-43
+data/account-providers/usbank.json
+  s_161c6066572695::t_eeb4dfa7641ad9 64-65
+data/account-providers/wellsfargo.json
+  s_161c6066572695::t_e0d3a4f908c40d 73-74
+data/api-aggregators/akoya.json
+  s_161c6066572695::t_7cd0df78c44852 1-17
+schema.json
+  s_161c6066572695::t_dd211a78bb9441 403
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9b39318d4d02106b7b8d16e209c7039581e6adac",
+  "prompts": {},
+  "sessions": {
+    "s_161c6066572695": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f72c0864-7607-43eb-a7ba-331fdf3c5c99",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
