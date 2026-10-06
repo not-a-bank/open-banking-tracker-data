@@ -1,0 +1,19 @@
+data/account-providers/chase-us.json
+  s_161c6066572695::t_c986fb18edfe92 1-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "67e2f6ad0150ec1f13035593d831e978eb60ab56",
+  "prompts": {},
+  "sessions": {
+    "s_161c6066572695": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f72c0864-7607-43eb-a7ba-331fdf3c5c99",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
