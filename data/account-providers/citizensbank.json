@@ -22,11 +22,13 @@
     "US"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.citizensbank.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
-  "apiAuth": [],
+  "apiAuth": [
+    "OAUTH2"
+  ],
   "apiProducts": [
     {
       "label": "Citizens Open Banking API",
@@ -34,7 +36,7 @@
       "categories": [
         "accounts"
       ],
-      "description": "FDX-standard data-sharing API that lets connected platforms, fintechs and data aggregators retrieve account balances, transactions and more for Citizens retail, business, commercial, wealth and private banking clients, replacing screen scraping. No public developer portal; access is through connected platforms and aggregators.",
+      "description": "FDX-standard data-sharing API that lets connected platforms, fintechs and data aggregators retrieve account balances, transactions and more for Citizens retail, business, commercial, wealth and private banking clients, replacing screen scraping.",
       "documentationUrl": null,
       "apiReferenceUrl": null,
       "premium": false,
@@ -45,6 +47,131 @@
         "corporate",
         "private"
       ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "label": "Accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve Citizens Bank customer account and transaction information.",
+      "documentationUrl": "https://developer.citizensbank.com/product/accounts/api/86",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "label": "Statements",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve Citizens Bank customer statements for retail customers.",
+      "documentationUrl": "https://developer.citizensbank.com/product/statements/api/statements-v1",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "customerTypes": [
+        "retail"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "label": "Information Reporting",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve deposit account metadata and transaction history for checking and savings accounts, for company finance management and financial reporting. FAPI-compliant, OAuth 2.0 with fine-grained scopes.",
+      "documentationUrl": "https://developer.citizensbank.com/product/commercial-banking/api/informationreporting-v1",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "label": "Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate ACH and RTP payments and retrieve their status, including participant status inquiry by routing number. FAPI-compliant, OAuth 2.0 with fine-grained scopes.",
+      "documentationUrl": "https://developer.citizensbank.com/product/commercial-banking/api/payments-v3",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "label": "Account Transfer",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate single, same-day transfers between a client's own Citizens accounts in near real time. Future-dated transfers are not supported.",
+      "documentationUrl": "https://developer.citizensbank.com/product/commercial-banking/api/accounttransfer-v1",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "label": "Account Validation",
+      "type": "other",
+      "categories": [
+        "accounts",
+        "payments"
+      ],
+      "description": "Validate payee details before paying: verify an account by account and routing number, check its status, and match the beneficiary name (full, partial or no match).",
+      "documentationUrl": "https://developer.citizensbank.com/product/commercial-banking/api/accountvalidation-v1",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "label": "Authorize",
+      "type": "auth",
+      "categories": [
+        "auth"
+      ],
+      "description": "Manage authorization to Citizens Bank APIs using OAuth.",
+      "documentationUrl": "https://developer.citizensbank.com/product/107/api/89",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
       "countries": [
         "US"
       ]
