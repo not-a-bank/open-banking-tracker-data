@@ -27,7 +27,29 @@
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Citizens Open Banking API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "FDX-standard data-sharing API that lets connected platforms, fintechs and data aggregators retrieve account balances, transactions and more for Citizens retail, business, commercial, wealth and private banking clients, replacing screen scraping. No public developer portal; access is through connected platforms and aggregators.",
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "customerTypes": [
+        "retail",
+        "business",
+        "corporate",
+        "private"
+      ],
+      "countries": [
+        "US"
+      ]
+    }
+  ],
   "apiStandards": [],
   "apiAggregators": [
     "plaid",
@@ -51,5 +73,15 @@
   "partnerships": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "articles": [
+    {
+      "url": "https://investor.citizensbank.com/about-us/newsroom/latest-news/2025/2025-03-27.aspx",
+      "date": "2025-03-27"
+    },
+    {
+      "url": "https://investor.citizensbank.com/about-us/newsroom/latest-news/2025/2025-11-05.aspx",
+      "date": "2025-11-05"
+    }
+  ]
 }
