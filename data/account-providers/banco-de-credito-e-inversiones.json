@@ -11,7 +11,7 @@
   "verified": false,
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.bancodecreditoeinversiones.com.ico",
-  "websiteUrl": null,
+  "websiteUrl": "https://www.bci.cl/",
   "countryHQ": "CL",
   "countries": [
     "CL"
@@ -24,6 +24,7 @@
   "apiProducts": [],
   "apiAggregators": [
     "boufin",
+    "emisso-connect",
     "floid-io"
   ],
   "ownership": [],
