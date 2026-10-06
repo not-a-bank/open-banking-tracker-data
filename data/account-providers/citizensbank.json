@@ -50,7 +50,9 @@
       ]
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiAggregators": [
     "plaid",
     "truelayer"
