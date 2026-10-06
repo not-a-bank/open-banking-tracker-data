@@ -20,7 +20,9 @@
   "mobileApps": [],
   "compliance": [],
   "developerPortalUrl": null,
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiProducts": [],
   "apiAggregators": [
     "banksync"
@@ -28,5 +30,10 @@
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "NRTHUS33XXX"
+  "bic": "NRTHUS33XXX",
+  "articles": [
+    {
+      "url": "https://docs.pat.openbanking.amcb.developer.td.com/guides/intro-to-fdx"
+    }
+  ]
 }

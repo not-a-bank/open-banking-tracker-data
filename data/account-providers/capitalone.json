@@ -63,7 +63,9 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiStatusUrls": [],
   "apiAggregators": [
     "flinks",
@@ -111,5 +113,10 @@
   "platforms": [],
   "awards": [],
   "marketplaceUrl": "",
-  "bic": "NFBKUSF1XXX"
+  "bic": "NFBKUSF1XXX",
+  "articles": [
+    {
+      "url": "https://akoya.com/financial-institutions"
+    }
+  ]
 }

@@ -71,7 +71,9 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "webApplication": false,
   "mobileApps": [
     {
@@ -90,5 +92,11 @@
   "debitCards": [],
   "creditCards": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "articles": [
+    {
+      "url": "https://akoya.com/news/akoya-rings-in-2022-with-huntington-national-bank-mt-bank-and-truist",
+      "date": "2022-01-24"
+    }
+  ]
 }

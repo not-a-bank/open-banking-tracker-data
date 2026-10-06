@@ -63,7 +63,9 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiStatusUrls": [],
   "apiAggregators": [
     "flinks",
@@ -110,5 +112,15 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "marketplaceUrl": ""
+  "marketplaceUrl": "",
+  "articles": [
+    {
+      "url": "https://newsroom.wf.com/news-releases/news-details/2019/Wells-Fargo-and-Plaid-Sign-Data-Exchange-Agreement/default.aspx",
+      "date": "2019-09-19"
+    },
+    {
+      "url": "https://newsroom.wf.com/news-releases/news-details/2020/Wells-Fargo-and-Envestnet--Yodlee-Sign-Data-Exchange-Agreement/default.aspx",
+      "date": "2020-09-24"
+    }
+  ]
 }

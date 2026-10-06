@@ -55,7 +55,9 @@
       "stage": "live"
     }
   ],
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiStatusUrls": [],
   "apiAggregators": [
     "plaid",
@@ -126,5 +128,14 @@
   "integrations": [],
   "platforms": [],
   "awards": [],
-  "bic": "USBKUS44XXX"
+  "bic": "USBKUS44XXX",
+  "articles": [
+    {
+      "url": "https://developer.usbank.com/products/data-toolbox/v2"
+    },
+    {
+      "url": "https://ir.usbank.com/news-events/news/news-details/2019/U.S.-Bank-Signs-Agreements-With-Top-Data-Aggregators-and-Fintechs-Bolstering-API-Efforts-09-23-2019/default.aspx",
+      "date": "2019-09-23"
+    }
+  ]
 }

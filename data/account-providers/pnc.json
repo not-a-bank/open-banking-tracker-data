@@ -20,7 +20,9 @@
   "mobileApps": [],
   "compliance": [],
   "developerPortalUrl": null,
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiProducts": [],
   "apiAggregators": [
     "banksync",
@@ -30,5 +32,11 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "articles": [
+    {
+      "url": "https://pnc.mediaroom.com/2024-10-03-PNC-Bank-Launches-Akoya-Integration-for-PINACLE-Connect-R-to-Provide-More-Secure,-Transparent-Data-Access-for-Corporate-Clients",
+      "date": "2024-10-03"
+    }
+  ]
 }

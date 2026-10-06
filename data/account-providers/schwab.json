@@ -18,7 +18,9 @@
   "mobileApps": [],
   "compliance": [],
   "developerPortalUrl": null,
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiProducts": [],
   "apiAggregators": [
     "lunchflow",
@@ -30,5 +32,11 @@
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "desription": "Schwab is an American multinational financial services corporation based in San Francisco, California."
+  "desription": "Schwab is an American multinational financial services corporation based in San Francisco, California.",
+  "articles": [
+    {
+      "url": "https://ibsintelligence.com/banktech-daily-news/finicity-forms-direct-data-agreement-with-charles-schwab/",
+      "date": "2020"
+    }
+  ]
 }

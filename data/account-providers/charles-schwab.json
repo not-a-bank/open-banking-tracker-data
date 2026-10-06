@@ -20,7 +20,9 @@
   "mobileApps": [],
   "compliance": [],
   "developerPortalUrl": null,
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiProducts": [],
   "apiAggregators": [
     "banksync",
@@ -29,5 +31,11 @@
   ],
   "ownership": [],
   "stateOwned": false,
-  "stockSymbol": null
+  "stockSymbol": null,
+  "articles": [
+    {
+      "url": "https://ibsintelligence.com/banktech-daily-news/finicity-forms-direct-data-agreement-with-charles-schwab/",
+      "date": "2020"
+    }
+  ]
 }
