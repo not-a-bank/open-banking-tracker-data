@@ -6,12 +6,12 @@
   "bankType": [
     "retail"
   ],
-  "name": "TD BANK, N.A.",
-  "legalName": "TD BANK, N.A.",
+  "name": "TD Bank (US)",
+  "legalName": "TD Bank, N.A.",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.tdbankna.com.ico",
-  "websiteUrl": null,
+  "icon": "https://img.logo.dev/td.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ",
+  "websiteUrl": "https://www.td.com/us/en/personal-banking",
   "countryHQ": "US",
   "countries": [
     "US"
@@ -23,9 +23,27 @@
   "apiStandards": [
     "FDX"
   ],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "TD Open Banking API (FDX)",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "FDX v6 API that shares TD Bank US customer account data with data recipients through the Akoya network. Documentation is not public.",
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "countries": [
+        "US"
+      ]
+    }
+  ],
   "apiAggregators": [
-    "banksync"
+    "banksync",
+    "akoya",
+    "plaid"
   ],
   "ownership": [],
   "stateOwned": false,
@@ -33,7 +51,14 @@
   "bic": "NRTHUS33XXX",
   "articles": [
     {
-      "url": "https://docs.pat.openbanking.amcb.developer.td.com/guides/intro-to-fdx"
+      "url": "https://akoya.com/news/td-bank-joins-the-akoya-data-access-network-to-accelerate-open-finance",
+      "date": "2021-09-13"
+    },
+    {
+      "url": "https://thefintechtimes.com/td-bank-group-and-plaid-forge-data-access-agreement-for-enhanced-financial-connectivity/",
+      "date": "2023-12"
     }
-  ]
+  ],
+  "desription": "TD Bank, N.A. is the US retail and commercial bank of TD Bank Group.",
+  "parentId": "td-bank"
 }

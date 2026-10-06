@@ -1,0 +1,112 @@
+{
+  "id": "chase-us",
+  "parentId": "jpmorganchase",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "universal"
+  ],
+  "name": "Chase",
+  "legalName": "JPMorgan Chase Bank, N.A.",
+  "desription": "Chase is the US consumer and commercial banking business of JPMorgan Chase & Co.",
+  "verified": false,
+  "status": "live",
+  "icon": "https://img.logo.dev/chase.com?token=pk_X-1ZO13GSgeOoUrIuJ6GMQ",
+  "websiteUrl": "https://www.chase.com/",
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": "https://developer.chase.com/",
+  "apiAuth": [
+    "OAUTH2"
+  ],
+  "apiStandards": [
+    "FDX"
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Data Sharing (FDX)",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "FDX-based API that lets approved data aggregators and apps access Chase customer account data, with the customer's consent, to verify and connect accounts.",
+      "documentationUrl": "https://developer.chase.com/products/aggregation-fdx",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "customerTypes": [
+        "retail"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "label": "Aggregation Consent",
+      "type": "consent",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Manage the consents Chase customers grant to data aggregators and apps.",
+      "documentationUrl": "https://developer.chase.com/products/aggregation-consent",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "customerTypes": [
+        "retail"
+      ],
+      "countries": [
+        "US"
+      ]
+    },
+    {
+      "label": "J.P. Morgan Business Direct Connect",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "FDX-standard API for commercial deposit accounts: prior-day balances and transactions, account identifiers, owner and payment network details, and monthly statements, for reconciliation, reporting and auditing. OAuth per FDX guidelines.",
+      "documentationUrl": "https://developer.payments.jpmorgan.com/docs/treasury/jp-morgan-business-direct-connect",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ],
+      "countries": [
+        "US"
+      ]
+    }
+  ],
+  "apiAggregators": [
+    "akoya",
+    "mastercard-open-banking",
+    "plaid",
+    "yodlee"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "CHASUS33XXX",
+  "articles": [
+    {
+      "url": "https://akoya.com/news/akoya-and-jpmorganchase-renew-agreement-to-advance-consumer-permissioned-data-access",
+      "date": "2025-11-18"
+    },
+    {
+      "url": "https://www.jpmorganchase.com/newsroom/press-releases/2025/jpmc-plaid-renewed-data-access-agreement",
+      "date": "2025-09"
+    },
+    {
+      "url": "https://media.chase.com/news/jpmorgan-chase-envestnet-yodlee-sign-agreement-to-increase-customerss-control-of-their-data",
+      "date": "2019-12-05"
+    }
+  ]
+}
