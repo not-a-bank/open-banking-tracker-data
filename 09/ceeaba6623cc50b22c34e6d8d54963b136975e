@@ -1,0 +1,19 @@
+data/account-providers/td-bank-na.json
+  s_161c6066572695::t_4dd7232ea2c496 9-10,13-14,26-42,44-46,54-59,61-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "09ceeaba6623cc50b22c34e6d8d54963b136975e",
+  "prompts": {},
+  "sessions": {
+    "s_161c6066572695": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f72c0864-7607-43eb-a7ba-331fdf3c5c99",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
