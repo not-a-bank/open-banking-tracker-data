@@ -20,10 +20,13 @@
   "mobileApps": [],
   "compliance": [],
   "developerPortalUrl": null,
-  "apiStandards": [],
+  "apiStandards": [
+    "FDX"
+  ],
   "apiProducts": [],
   "apiAggregators": [
-    "plaid"
+    "plaid",
+    "akoya"
   ],
   "ownership": [],
   "stateOwned": false,
