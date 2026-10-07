@@ -34,6 +34,36 @@
     "status": "available",
     "sourceUrl": "https://sandboxapi.lhv.eu/psd2/v1"
   },
+  "mcpServer": {
+    "type": "hosted",
+    "transport": "sse",
+    "serverUrl": "https://mcp.lhv.ai/mcp",
+    "authType": "oauth",
+    "programStatus": "live",
+    "accessLevel": "read-only",
+    "documentationUrl": "https://www.lhv.ai",
+    "capabilities": [
+      "account-data",
+      "account-statements",
+      "investment-data",
+      "orders-and-executions",
+      "credit-data"
+    ],
+    "tools": [
+      "list_accounts",
+      "get_balances",
+      "get_account_statement",
+      "get_server_info",
+      "get_instrument_balances",
+      "get_account_instrument_balances",
+      "get_account_orders",
+      "get_account_executions",
+      "search_instruments",
+      "get_credit_contracts",
+      "get_credit_contract_details"
+    ],
+    "launchDate": "2026-07-15"
+  },
   "developerPortalUrl": "https://partners.lhv.ee/en/open-banking/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
