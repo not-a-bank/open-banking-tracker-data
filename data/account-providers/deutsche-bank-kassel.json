@@ -1,0 +1,32 @@
+{
+  "id": "deutsche-bank-kassel",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Deutsche Bank Kassel",
+  "legalName": "Deutsche Bank Kassel",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/deutschebank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "DEUTDEFF520"
+}

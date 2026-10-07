@@ -16,15 +16,28 @@
       "LI"
     ]
   },
-  "bankCount": 2266,
+  "bankCount": 2993,
   "coverage": {
-    "total": 2266,
+    "total": 2993,
     "byCountry": {
-      "AT": 111,
+      "AT": 431,
       "CH": 1,
-      "DE": 2153,
+      "DE": 2560,
       "LI": 1
     }
   },
-  "lastUpdated": "2026-07-02T08:08:00Z"
+  "lastUpdated": "2026-07-07T14:57:51Z",
+  "connectorCount": 2993,
+  "mcpServer": {
+    "type": "hosted",
+    "serverUrl": "https://banksapi.io/docs-mcp",
+    "authType": null,
+    "documentationUrl": "https://docs.banksapi.de/guide/docs-mcp",
+    "tools": [
+      "search-banksapi-docs",
+      "get-banksapi-docs-page",
+      "get-banksapi-openapi-spec"
+    ]
+  },
+  "note": "Also offers LLM/Connect, an MCP server add-on that connects live banking data (accounts, transactions) to AI agents. The MCP entry above is the public, no-auth documentation server (docs.banksapi.de/guide/docs-mcp)."
 }

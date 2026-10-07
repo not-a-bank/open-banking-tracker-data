@@ -1,0 +1,32 @@
+{
+  "id": "stadtsparkasse-bad-honnef",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Stadtsparkasse Bad Honnef",
+  "legalName": "Stadtsparkasse Bad Honnef",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/sparkasse.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "WELADED1HON"
+}

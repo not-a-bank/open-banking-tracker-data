@@ -1,0 +1,32 @@
+{
+  "id": "morgenfund",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "MorgenFund",
+  "legalName": "MorgenFund",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/morgenfund.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": null
+}

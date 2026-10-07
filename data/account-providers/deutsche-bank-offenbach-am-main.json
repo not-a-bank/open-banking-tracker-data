@@ -1,0 +1,32 @@
+{
+  "id": "deutsche-bank-offenbach-am-main",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Deutsche Bank Offenbach am Main",
+  "legalName": "Deutsche Bank Offenbach am Main",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/deutschebank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "DEUTDEFF505"
+}

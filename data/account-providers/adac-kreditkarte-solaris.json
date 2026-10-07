@@ -1,0 +1,32 @@
+{
+  "id": "adac-kreditkarte-solaris",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "ADAC Kreditkarte - Solaris",
+  "legalName": "ADAC Kreditkarte - Solaris",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/adac.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": null
+}

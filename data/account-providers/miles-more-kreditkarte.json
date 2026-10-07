@@ -1,0 +1,32 @@
+{
+  "id": "miles-more-kreditkarte",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Miles & More Kreditkarte",
+  "legalName": "Miles & More Kreditkarte",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/milesandmore.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": null
+}

@@ -1,0 +1,32 @@
+{
+  "id": "sydbank-filiale-berlin-flensburg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Sydbank Filiale Berlin Flensburg",
+  "legalName": "Sydbank Filiale Berlin Flensburg",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/sydbank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "SYBKDE22BER"
+}

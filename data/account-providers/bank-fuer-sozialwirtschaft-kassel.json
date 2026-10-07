@@ -1,0 +1,32 @@
+{
+  "id": "bank-fuer-sozialwirtschaft-kassel",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Bank für Sozialwirtschaft Kassel",
+  "legalName": "Bank für Sozialwirtschaft Kassel",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/demo.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "BFSWDE33MNZ"
+}

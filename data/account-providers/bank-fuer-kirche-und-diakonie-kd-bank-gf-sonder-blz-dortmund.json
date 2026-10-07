@@ -1,0 +1,32 @@
+{
+  "id": "bank-fuer-kirche-und-diakonie-kd-bank-gf-sonder-blz-dortmund",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Bank für Kirche und Diakonie - KD-Bank Gf Sonder-BLZ Dortmund",
+  "legalName": "Bank für Kirche und Diakonie - KD-Bank Gf Sonder-BLZ Dortmund",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/bkc.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODED1KDD"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bundesbank-eh-bayreuth-muenchen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Bundesbank eh Bayreuth München",
+  "legalName": "Bundesbank eh Bayreuth München",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/demo.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "MARKDEF1773"
+}

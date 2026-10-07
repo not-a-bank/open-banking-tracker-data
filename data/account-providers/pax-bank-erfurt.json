@@ -1,0 +1,32 @@
+{
+  "id": "pax-bank-erfurt",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Pax-Bank Erfurt",
+  "legalName": "Pax-Bank Erfurt",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/paxbank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODED1PA5"
+}
