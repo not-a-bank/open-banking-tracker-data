@@ -2,6 +2,7 @@
   "id": "lorum",
   "type": ["account"],
   "name": "Lorum",
+  "description": "Lorum is the correspondent institution for banks and fintechs. It provides programmable access to global clearing, named custody, and treasury, on a non-lending, 100% reserve model. Licensed clients connect through one API and issue named accounts, each with its own IBAN and local clearing details, to their own end customers. Client funds are backed one to one by liquid assets, with no lending against them.",
   "legalName": "Lorum Finance (DIFC) Ltd",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -18,7 +19,73 @@
   "compliance": [],
   "sandbox": { "status": "available", "sourceUrl": "https://docs.lorum.com/docs/getting-started" },
   "developerPortalUrl": "https://docs.lorum.com/docs/getting-started",
+  "apiReferenceUrl": "https://docs.lorum.com/docs/getting-started",
   "apiStandards": [],
-  "apiProducts": null,
+  "apiProducts": [
+    {
+      "label": "Client onboarding",
+      "type": "clientRegistration",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Onboard a client's own business customers, including shareholder information, and return their verification status.",
+      "documentationUrl": "https://docs.lorum.com/docs/getting-started",
+      "apiReferenceUrl": "https://docs.lorum.com/docs/getting-started",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Named accounts",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Issue a named account per end customer in AED, USD, EUR or GBP, each with its own IBAN and local clearing details, and retrieve balances, statements and account confirmation letters.",
+      "documentationUrl": "https://docs.lorum.com/docs/getting-started",
+      "apiReferenceUrl": "https://docs.lorum.com/docs/getting-started",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Local payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send and receive payments on local rails, including failures and returns: FTS and IPP for AED, Fedwire and SWIFT for USD, SEPA and SEPA Instant for EUR, and Faster Payments for GBP.",
+      "documentationUrl": "https://docs.lorum.com/docs/getting-started",
+      "apiReferenceUrl": "https://docs.lorum.com/docs/getting-started",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Foreign exchange",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Quote a firm rate and convert between supported currencies through the same integration as payments, with automated liquidity movement between accounts.",
+      "documentationUrl": "https://docs.lorum.com/docs/getting-started",
+      "apiReferenceUrl": "https://docs.lorum.com/docs/getting-started",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    }
+  ],
   "apiAggregators": []
 }
