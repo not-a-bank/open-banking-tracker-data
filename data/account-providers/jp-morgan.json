@@ -4,7 +4,7 @@
     "account"
   ],
   "bankType": [
-    "business"
+    "corporate"
   ],
   "status": "live",
   "name": "JP Morgan",
@@ -23,9 +23,58 @@
       "status": "unknown"
     }
   ],
-  "developerPortalUrl": "https://developer.jpmorgan.com",
+  "developerPortalUrl": "https://developer.payments.jpmorgan.com",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Business Direct Connect",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "FDX-based API for J.P. Morgan commercial DDA clients: consented access to account details, balances, transactions, statements and account owner and payment network information for third-party treasury and ERP platforms.",
+      "documentationUrl": "https://developer.payments.jpmorgan.com/docs/treasury/jp-morgan-business-direct-connect",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live"
+    },
+    {
+      "label": "Global Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate multiple payment types (ACH, wire, RTP, push to card and more) across global markets through a single API. Available to J.P. Morgan Payments treasury clients.",
+      "documentationUrl": "https://developer.payments.jpmorgan.com/docs/treasury/global-payments/getting-started",
+      "apiReferenceUrl": "https://developer.payments.jpmorgan.com/api/treasury/global-payments/overview",
+      "premium": true,
+      "stage": "live"
+    },
+    {
+      "label": "Pay by Bank: Account Information Service",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Consent-based open banking access to customer account details, balances and transaction history in the US, UK and EU.",
+      "documentationUrl": "https://developer.payments.jpmorgan.com/docs/treasury/pay-by-bank/capabilities/account-information-service/overview",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Pay by Bank: Payment Initiation Service",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate payments directly from customer bank accounts in the UK and EU, with refunds and recurring mandates (UK).",
+      "documentationUrl": "https://developer.payments.jpmorgan.com/docs/treasury/pay-by-bank",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": "",
