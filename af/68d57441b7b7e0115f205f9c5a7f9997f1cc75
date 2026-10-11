@@ -1,0 +1,19 @@
+data/account-providers/jp-morgan.json
+  s_f51771cc87ff46::t_57ff624e07e8c5 7,26,28-77
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "af68d57441b7b7e0115f205f9c5a7f9997f1cc75",
+  "prompts": {},
+  "sessions": {
+    "s_f51771cc87ff46": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dfde5a62-fbd5-483d-b570-a316d30f7215",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
