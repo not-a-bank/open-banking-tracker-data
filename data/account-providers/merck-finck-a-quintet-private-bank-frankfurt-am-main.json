@@ -1,0 +1,32 @@
+{
+  "id": "merck-finck-a-quintet-private-bank-frankfurt-am-main",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Merck Finck A Quintet Private Bank Frankfurt am Main",
+  "legalName": "Merck Finck A Quintet Private Bank Frankfurt am Main",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/merckfinck.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "MEFIDEMM501"
+}

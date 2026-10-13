@@ -1,0 +1,32 @@
+{
+  "id": "volksbank-bad-muender-am-deister",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Volksbank Bad Münder am Deister",
+  "legalName": "Volksbank Bad Münder am Deister",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/vr.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODED1BMU"
+}

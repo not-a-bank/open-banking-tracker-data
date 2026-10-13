@@ -1,0 +1,32 @@
+{
+  "id": "deutsche-bank-bad-wildungen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Deutsche Bank Bad Wildungen",
+  "legalName": "Deutsche Bank Bad Wildungen",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/deutschebank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "DEUTDEFF521"
+}

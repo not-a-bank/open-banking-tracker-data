@@ -1,0 +1,32 @@
+{
+  "id": "isbank-fil-duesseldorf",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Isbank Fil Düsseldorf",
+  "legalName": "Isbank Fil Düsseldorf",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/isbank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "ISBKDEFXDUS"
+}

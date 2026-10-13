@@ -1,0 +1,32 @@
+{
+  "id": "isbank-fil-stuttgart",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Isbank Fil Stuttgart",
+  "legalName": "Isbank Fil Stuttgart",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/isbank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "ISBKDEFXSTU"
+}

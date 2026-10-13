@@ -1,0 +1,32 @@
+{
+  "id": "unicredit-bank-hypovereinsbank-wuerzburg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "UniCredit Bank - HypoVereinsbank Würzburg",
+  "legalName": "UniCredit Bank - HypoVereinsbank Würzburg",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/unicredit.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "HYVEDEMM455"
+}

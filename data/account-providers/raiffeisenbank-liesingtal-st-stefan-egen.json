@@ -1,0 +1,32 @@
+{
+  "id": "raiffeisenbank-liesingtal-st-stefan-egen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Raiffeisenbank Liesingtal-St. Stefan eGen",
+  "legalName": "Raiffeisenbank Liesingtal-St. Stefan eGen",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/raiffeisenbank.svg",
+  "websiteUrl": null,
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RZSTAT2G227"
+}

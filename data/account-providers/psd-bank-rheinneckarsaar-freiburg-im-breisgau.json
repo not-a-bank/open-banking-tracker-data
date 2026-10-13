@@ -1,0 +1,32 @@
+{
+  "id": "psd-bank-rheinneckarsaar-freiburg-im-breisgau",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "PSD Bank RheinNeckarSaar Freiburg im Breisgau",
+  "legalName": "PSD Bank RheinNeckarSaar Freiburg im Breisgau",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/psdbank.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODEF1P07"
+}

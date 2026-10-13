@@ -1,0 +1,32 @@
+{
+  "id": "vr-bank-rhein-erft-bruehl",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "VR-Bank Rhein-Erft Brühl",
+  "legalName": "VR-Bank Rhein-Erft Brühl",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/vr.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODED1BRH"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "raiffeisenbank-kirchheim-walheim",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Raiffeisenbank Kirchheim-Walheim",
+  "legalName": "Raiffeisenbank Kirchheim-Walheim",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/vr.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "GENODES1KIB"
+}

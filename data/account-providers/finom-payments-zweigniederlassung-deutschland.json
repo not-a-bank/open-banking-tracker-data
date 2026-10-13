@@ -1,0 +1,32 @@
+{
+  "id": "finom-payments-zweigniederlassung-deutschland",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Finom Payments Zweigniederlassung Deutschland",
+  "legalName": "Finom Payments Zweigniederlassung Deutschland",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/finom.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "FNOMDEB2XXX"
+}

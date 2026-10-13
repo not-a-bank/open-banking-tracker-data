@@ -1,0 +1,32 @@
+{
+  "id": "lbb-kreditkarte-landesbank-berlin",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "LBB Kreditkarte - Landesbank Berlin",
+  "legalName": "LBB Kreditkarte - Landesbank Berlin",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/lbb.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": null
+}

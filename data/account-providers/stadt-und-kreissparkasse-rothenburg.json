@@ -1,0 +1,32 @@
+{
+  "id": "stadt-und-kreissparkasse-rothenburg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Stadt- und Kreissparkasse Rothenburg",
+  "legalName": "Stadt- und Kreissparkasse Rothenburg",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/sparkasse.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "BYLADEM1ROT"
+}

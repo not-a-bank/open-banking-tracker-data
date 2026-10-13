@@ -1,0 +1,32 @@
+{
+  "id": "kreissparkasse-westerwald-montabaur",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Kreissparkasse Westerwald Montabaur",
+  "legalName": "Kreissparkasse Westerwald Montabaur",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/sparkasse.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "MALADE51BMB"
+}

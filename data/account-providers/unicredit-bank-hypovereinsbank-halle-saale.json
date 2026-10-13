@@ -1,0 +1,32 @@
+{
+  "id": "unicredit-bank-hypovereinsbank-halle-saale",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "UniCredit Bank - HypoVereinsbank Halle (Saale)",
+  "legalName": "UniCredit Bank - HypoVereinsbank Halle (Saale)",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/unicredit.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "HYVEDEMM440"
+}

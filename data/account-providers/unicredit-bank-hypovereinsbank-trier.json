@@ -1,0 +1,32 @@
+{
+  "id": "unicredit-bank-hypovereinsbank-trier",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "UniCredit Bank - HypoVereinsbank Trier",
+  "legalName": "UniCredit Bank - HypoVereinsbank Trier",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/unicredit.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "HYVEDEMM437"
+}

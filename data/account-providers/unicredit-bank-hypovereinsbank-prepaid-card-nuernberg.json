@@ -1,0 +1,32 @@
+{
+  "id": "unicredit-bank-hypovereinsbank-prepaid-card-nuernberg",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "UniCredit Bank - HypoVereinsbank Prepaid Card Nürnberg",
+  "legalName": "UniCredit Bank - HypoVereinsbank Prepaid Card Nürnberg",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/unicredit.svg",
+  "websiteUrl": null,
+  "countryHQ": "DE",
+  "countries": [
+    "DE"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "HYVEDEMMCAR"
+}
