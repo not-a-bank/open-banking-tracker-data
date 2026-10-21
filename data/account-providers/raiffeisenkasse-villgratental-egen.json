@@ -1,0 +1,32 @@
+{
+  "id": "raiffeisenkasse-villgratental-egen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Raiffeisenkasse Villgratental eGen",
+  "legalName": "Raiffeisenkasse Villgratental eGen",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/raiffeisenbank.svg",
+  "websiteUrl": "https://www.raika-villgratental.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RZTIAT22386"
+}

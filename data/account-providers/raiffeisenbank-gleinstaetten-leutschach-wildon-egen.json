@@ -1,0 +1,32 @@
+{
+  "id": "raiffeisenbank-gleinstaetten-leutschach-wildon-egen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Raiffeisenbank Gleinstätten-Leutschach-Wildon eGen",
+  "legalName": "Raiffeisenbank Gleinstätten-Leutschach-Wildon eGen",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/raiffeisenbank.svg",
+  "websiteUrl": "https://www.rbgleinstaetten.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RZSTAT2G102"
+}

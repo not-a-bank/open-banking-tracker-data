@@ -1,0 +1,32 @@
+{
+  "id": "raiffeisen-regionalbank-schwaz-wattens-egen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Raiffeisen Regionalbank Schwaz-Wattens eGen",
+  "legalName": "Raiffeisen Regionalbank Schwaz-Wattens eGen",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/raiffeisenbank.svg",
+  "websiteUrl": "https://www.rrb-schwaz-wattens.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RZTIAT22322"
+}

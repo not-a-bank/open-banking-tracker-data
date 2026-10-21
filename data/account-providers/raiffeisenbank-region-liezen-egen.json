@@ -1,0 +1,32 @@
+{
+  "id": "raiffeisenbank-region-liezen-egen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Raiffeisenbank Region Liezen eGen",
+  "legalName": "Raiffeisenbank Region Liezen eGen",
+  "verified": false,
+  "status": "live",
+  "icon": "https://banksapi.io/providers/v2/raiffeisenbank.svg",
+  "websiteUrl": "https://www.raiffeisen-liezen.at",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RZSTAT2G215"
+}
