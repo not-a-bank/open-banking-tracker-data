@@ -160,18 +160,33 @@
       "examples": [true]
     },
     "icon": {
-      "type": "string",
-      "format": "uri",
-      "pattern": "^(https?|http?)://",
       "title": "Icon URL",
-      "description": "URL to the icon of the provider (recommended size 400x400)",
+      "description": "URL to the icon of the provider (recommended size 400x400). Use null when unknown.",
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://"
+        },
+        {
+          "type": "null"
+        }
+      ],
       "examples": ["https://res.cloudinary.com/banq/image/upload/v1552240551/radar/icons/abn-amro.jpg"]
     },
     "websiteUrl": {
-      "type": "string",
-      "format": "uri",
-      "pattern": "^(https?|http?)://",
       "title": "Website",
+      "description": "Official website of the provider. Use null when unknown rather than guessing a domain.",
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^(https?|http?)://"
+        },
+        {
+          "type": "null"
+        }
+      ],
       "examples": ["https://www.abnamro.com/"]
     },
     "retailWebLoginUrl": {
