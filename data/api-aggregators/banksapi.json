@@ -32,11 +32,12 @@
     "type": "hosted",
     "serverUrl": "https://banksapi.io/docs-mcp",
     "authType": null,
-    "documentationUrl": "https://docs.banksapi.de/guide/docs-mcp",
+    "documentationUrl": "https://docs.banksapi.de/guide/docs-mcp.html",
     "tools": [
       "search-banksapi-docs",
       "get-banksapi-docs-page",
-      "get-banksapi-openapi-spec"
+      "get-banksapi-openapi-spec",
+      "get-banksapi-overview"
     ]
   },
   "note": "Also offers LLM/Connect, an MCP server add-on that connects live banking data (accounts, transactions) to AI agents. The MCP entry above is the public, no-auth documentation server (docs.banksapi.de/guide/docs-mcp)."
