@@ -1,0 +1,32 @@
+{
+  "id": "raiffeisenbank-muerztal-egen",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "retail"
+  ],
+  "name": "Raiffeisenbank Mürztal eGen",
+  "legalName": "Raiffeisenbank Mürztal eGen",
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.raiffeisen.at.ico",
+  "websiteUrl": "https://www.raiffeisen.at/stmk/muerztal",
+  "countryHQ": "AT",
+  "countries": [
+    "AT"
+  ],
+  "webApplication": true,
+  "mobileApps": [],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiStandards": [],
+  "apiProducts": [],
+  "apiAggregators": [
+    "banksapi"
+  ],
+  "ownership": [],
+  "stateOwned": false,
+  "stockSymbol": null,
+  "bic": "RZSTAT2G186"
+}
