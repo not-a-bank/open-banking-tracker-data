@@ -43,13 +43,13 @@ jobs:
         id: changed-files
         run: |
           if [ "${{ github.event_name }}" == "pull_request" ]; then
-            CHANGED_PROVIDERS=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/account-providers/**/*.json' | tr '\n' ' ')
-            CHANGED_AGGREGATORS=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/api-aggregators/**/*.json' | tr '\n' ' ')
-            CHANGED_TPP=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/third-party-providers/**/*.json' | tr '\n' ' ')
+            CHANGED_PROVIDERS=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/account-providers/*.json' | tr '\n' ' ')
+            CHANGED_AGGREGATORS=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/api-aggregators/*.json' | tr '\n' ' ')
+            CHANGED_TPP=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/third-party-providers/*.json' | tr '\n' ' ')
           else
-            CHANGED_PROVIDERS=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/account-providers/**/*.json' | tr '\n' ' ')
-            CHANGED_AGGREGATORS=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/api-aggregators/**/*.json' | tr '\n' ' ')
-            CHANGED_TPP=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/third-party-providers/**/*.json' | tr '\n' ' ')
+            CHANGED_PROVIDERS=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/account-providers/*.json' | tr '\n' ' ')
+            CHANGED_AGGREGATORS=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/api-aggregators/*.json' | tr '\n' ' ')
+            CHANGED_TPP=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/third-party-providers/*.json' | tr '\n' ' ')
           fi
           
           ALL_CHANGED="$CHANGED_PROVIDERS $CHANGED_AGGREGATORS $CHANGED_TPP"
