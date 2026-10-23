@@ -1,0 +1,89 @@
+data/account-providers/americanexpress.json
+  s_f4158939ebe941::t_70d18d3547955e 3
+data/account-providers/bundesbank-augsburg.json
+  s_f4158939ebe941::t_9a41ea0c749b01 15
+data/account-providers/bundesbank-berlin.json
+  s_f4158939ebe941::t_5d28c04c29cc3f 15
+data/account-providers/bundesbank-bielefeld.json
+  s_f4158939ebe941::t_849f1374923fd1 15
+data/account-providers/bundesbank-chemnitz.json
+  s_f4158939ebe941::t_ca20ac49b383bc 15
+data/account-providers/bundesbank-erfurt.json
+  s_f4158939ebe941::t_e68576279eaff3 15
+data/account-providers/bundesbank-frankfurt.json
+  s_f4158939ebe941::t_b1d3ad34ff053c 15
+data/account-providers/bundesbank-freiburg.json
+  s_f4158939ebe941::t_2973b645d97443 15
+data/account-providers/bundesbank-goettingen.json
+  s_f4158939ebe941::t_20ec051659bca1 15
+data/account-providers/bundesbank-hamburg.json
+  s_f4158939ebe941::t_5c3d9030e4eafd 15
+data/account-providers/bundesbank-hannover.json
+  s_f4158939ebe941::t_63fb4ccdf35058 15
+data/account-providers/bundesbank-karlsruhe.json
+  s_f4158939ebe941::t_f69abc35266d3b 15
+data/account-providers/bundesbank-koblenz.json
+  s_f4158939ebe941::t_ec3a80827e734d 15
+data/account-providers/bundesbank-koeln.json
+  s_f4158939ebe941::t_de48bf94648622 15
+data/account-providers/bundesbank-leipzig.json
+  s_f4158939ebe941::t_d7659fa2dcbf4f 15
+data/account-providers/bundesbank-ludwigshafen.json
+  s_f4158939ebe941::t_c831833f251dd6 15
+data/account-providers/bundesbank-magdeburg.json
+  s_f4158939ebe941::t_fd7e6736dcc7fa 15
+data/account-providers/bundesbank-mainz.json
+  s_f4158939ebe941::t_3ee653cb2eca76 15
+data/account-providers/bundesbank-muenchen.json
+  s_f4158939ebe941::t_02c8547135302d 15
+data/account-providers/bundesbank-neubrandenburg.json
+  s_f4158939ebe941::t_cf0e8fa633f4df 15
+data/account-providers/bundesbank-nuernberg.json
+  s_f4158939ebe941::t_cbe7119ec1b59c 15
+data/account-providers/bundesbank-oldenburg.json
+  s_f4158939ebe941::t_5dd1fd4b69b5dd 15
+data/account-providers/bundesbank-osnabrueck.json
+  s_f4158939ebe941::t_b0c1f1db543c4c 15
+data/account-providers/bundesbank-regensburg.json
+  s_f4158939ebe941::t_56eed21e2aa590 15
+data/account-providers/bundesbank-reutlingen.json
+  s_f4158939ebe941::t_7ece0a8077386c 15
+data/account-providers/bundesbank-rostock.json
+  s_f4158939ebe941::t_e04a93c76c94c9 15
+data/account-providers/bundesbank-saarbruecken.json
+  s_f4158939ebe941::t_70da2de9b59a0c 15
+data/account-providers/bundesbank-stuttgart.json
+  s_f4158939ebe941::t_b42b5eff2cc265 15
+data/account-providers/bundesbank-ulm.json
+  s_f4158939ebe941::t_e5cde9ed2f7e58 15
+data/account-providers/bundesbank-villingen-schwenningen.json
+  s_f4158939ebe941::t_4549533b0888d4 15
+data/account-providers/bundesbank-wuerzburg.json
+  s_f4158939ebe941::t_e37900a36bf48e 15
+data/account-providers/bundesbank-zentrale.json
+  s_f4158939ebe941::t_2974c00e575a95 15
+data/account-providers/geno-broker.json
+  s_f4158939ebe941::t_e8e6eaac06027c 13
+data/account-providers/jpmel.json
+  s_f4158939ebe941::t_74b23aad64b220 4-8
+data/account-providers/multis-co.json
+  s_f4158939ebe941::t_97e65deec0d3bd 3
+data/account-providers/paycenter.json
+  s_f4158939ebe941::t_f12b210b5634ae 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "10db6d67ad80cd7eff7ec13e792ab9e83a89099c",
+  "prompts": {},
+  "sessions": {
+    "s_f4158939ebe941": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8c1daec6-438c-48fe-ad58-b0e8d32baf4d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
