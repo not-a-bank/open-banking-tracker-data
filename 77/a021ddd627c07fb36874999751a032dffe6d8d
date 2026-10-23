@@ -1,0 +1,23 @@
+data/account-providers/arkeabanqueprivee-fr.json
+  s_f4158939ebe941::t_a5bc76ddd20d0c 7
+data/account-providers/erste-bank-and-sparkassen.json
+  s_f4158939ebe941::t_04f9d9d30900a5 64,78,92,106
+data/account-providers/jpmel.json
+  s_f4158939ebe941::t_f9110b7165c4ff 360-365
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "77a021ddd627c07fb36874999751a032dffe6d8d",
+  "prompts": {},
+  "sessions": {
+    "s_f4158939ebe941": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8c1daec6-438c-48fe-ad58-b0e8d32baf4d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
