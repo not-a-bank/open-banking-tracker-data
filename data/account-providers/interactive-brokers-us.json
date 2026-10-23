@@ -1,11 +1,9 @@
 {
   "id": "interactive-brokers-us",
   "type": [
-    "account"
+    "brokerage"
   ],
-  "bankType": [
-    "retail"
-  ],
+  "bankType": [],
   "name": "Interactive Brokers - US",
   "legalName": "Interactive Brokers - US",
   "verified": false,

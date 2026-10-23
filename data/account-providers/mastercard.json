@@ -1,6 +1,8 @@
 {
   "id": "mastercard",
-  "type": "account",
+  "type": [
+    "account"
+  ],
   "name": "mastercard",
   "description": "Mastercard is a leading global payments & technology company that connects consumers, businesses, merchants, issuers & governments around the world.",
   "legalName": "Mastercard Incorporated",

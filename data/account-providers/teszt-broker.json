@@ -1,11 +1,9 @@
 {
   "id": "teszt-broker",
   "type": [
-    "account"
+    "brokerage"
   ],
-  "bankType": [
-    "retail"
-  ],
+  "bankType": [],
   "name": "TESZT BROKER",
   "legalName": "TESZT BROKER",
   "verified": false,

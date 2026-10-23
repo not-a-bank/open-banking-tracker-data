@@ -1,18 +1,16 @@
 {
   "id": "geno-broker",
   "type": [
-    "account"
+    "brokerage"
   ],
-  "bankType": [
-    "retail"
-  ],
+  "bankType": [],
   "name": "GENO Broker",
   "legalName": null,
   "verified": false,
   "status": "live",
   "icon": null,
   "websiteUrl": null,
-  "countryHQ": null,
+  "countryHQ": "DE",
   "countries": [
     "DE"
   ],
