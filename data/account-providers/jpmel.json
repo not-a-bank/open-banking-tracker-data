@@ -357,7 +357,12 @@
     }
   ],
   "apiStandards": [
-    "OBIE"
+    "obie",
+    "open-banking-uk",
+    "fapi",
+    "oauth2",
+    "openid-connect",
+    "psd2"
   ],
   "apiAggregators": [
     "finexer",
