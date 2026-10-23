@@ -1,6 +1,8 @@
 {
   "id": "americanexpress",
-  "type": "account",
+  "type": [
+    "account"
+  ],
   "name": "American Express",
   "description": "American Express offers world-class Charge and Credit Cards, Gift Cards, Rewards, Travel, Personal Savings, Business Services, Insurance and more.",
   "legalName": "American Express Company",

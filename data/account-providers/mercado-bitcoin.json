@@ -1,7 +1,7 @@
 {
   "id": "mercado-bitcoin",
   "type": [
-    "account"
+    "brokerage"
   ],
   "name": "Mercado Bitcoin",
   "legalName": "Mercado Bitcoin",
@@ -26,7 +26,5 @@
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bankType": [
-    "retail"
-  ]
+  "bankType": []
 }

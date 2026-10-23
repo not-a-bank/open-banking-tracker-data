@@ -1,6 +1,8 @@
 {
   "id": "wellsfargo",
-  "type": "account",
+  "type": [
+    "account"
+  ],
   "bankType": [
     "universal",
     "retail"

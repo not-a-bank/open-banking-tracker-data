@@ -1,11 +1,9 @@
 {
   "id": "nasdaq",
   "type": [
-    "account"
+    "brokerage"
   ],
-  "bankType": [
-    "retail"
-  ],
+  "bankType": [],
   "name": "NASDAQ",
   "legalName": "NASDAQ",
   "verified": false,

@@ -1,6 +1,8 @@
 {
   "id": "visa",
-  "type": "account",
+  "type": [
+    "account"
+  ],
   "name": "visa",
   "description": "Visa is a global payments technology company that connects consumers, businesses, financial institutions, and governments to fast, secure and reliable electronic payments.",
   "legalName": "Visa Inc.",
