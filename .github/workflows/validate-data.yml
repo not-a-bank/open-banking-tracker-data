@@ -39,123 +39,43 @@ jobs:
       - name: 📥 Install dependencies
         run: npm ci
       
+      # The file list goes to a file, not a step output: on bulk PRs (tens of
+      # thousands of files) a single-line output exceeds argument limits, and
+      # `xargs` used to split it across lines, which GitHub rejects as
+      # "Invalid format".
       - name: 🔍 Get changed files
         id: changed-files
         run: |
           if [ "${{ github.event_name }}" == "pull_request" ]; then
-            CHANGED_PROVIDERS=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/account-providers/*.json' | tr '\n' ' ')
-            CHANGED_AGGREGATORS=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/api-aggregators/*.json' | tr '\n' ' ')
-            CHANGED_TPP=$(git diff --name-only --diff-filter=ACMR origin/${{ github.base_ref }}...HEAD -- 'data/third-party-providers/*.json' | tr '\n' ' ')
+            RANGE="origin/${{ github.base_ref }}...HEAD"
           else
-            CHANGED_PROVIDERS=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/account-providers/*.json' | tr '\n' ' ')
-            CHANGED_AGGREGATORS=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/api-aggregators/*.json' | tr '\n' ' ')
-            CHANGED_TPP=$(git diff --name-only --diff-filter=ACMR HEAD~1 -- 'data/third-party-providers/*.json' | tr '\n' ' ')
+            RANGE="HEAD~1 HEAD"
           fi
-          
-          ALL_CHANGED="$CHANGED_PROVIDERS $CHANGED_AGGREGATORS $CHANGED_TPP"
-          ALL_CHANGED=$(echo "$ALL_CHANGED" | xargs)  # Trim whitespace
-          
-          echo "providers=$CHANGED_PROVIDERS" >> $GITHUB_OUTPUT
-          echo "aggregators=$CHANGED_AGGREGATORS" >> $GITHUB_OUTPUT
-          echo "tpp=$CHANGED_TPP" >> $GITHUB_OUTPUT
-          echo "all=$ALL_CHANGED" >> $GITHUB_OUTPUT
-          
-          echo "📁 Changed providers: $CHANGED_PROVIDERS"
-          echo "📁 Changed aggregators: $CHANGED_AGGREGATORS"
-          echo "📁 Changed TPP: $CHANGED_TPP"
-      
+          git diff --name-only --diff-filter=ACMR $RANGE -- \
+            'data/account-providers/*.json' \
+            'data/api-aggregators/*.json' \
+            'data/third-party-providers/*.json' > changed-files.txt
+
+          COUNT=$(wc -l < changed-files.txt | tr -d ' ')
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "📁 Changed data files: $COUNT"
+          head -n 20 changed-files.txt
+
       - name: ℹ️ No files to validate
-        if: steps.changed-files.outputs.all == ''
+        if: steps.changed-files.outputs.count == '0'
         run: echo "No JSON files were changed"
-      
-      - name: 🔍 Validate changed provider files (schema)
-        if: steps.changed-files.outputs.providers != ''
-        run: |
-          echo "Validating provider schema for changed files..."
-          FAILED=0
-          for file in ${{ steps.changed-files.outputs.providers }}; do
-            if [ ! -f "$file" ]; then
-              echo "⚠️ Skipping $file (file does not exist)"
-              continue
-            fi
-            echo "  Validating: $file"
-            if ! node scripts/validate-file.js "$file" --type=provider; then
-              FAILED=1
-            fi
-          done
-          if [ $FAILED -eq 1 ]; then
-            exit 1
-          fi
-          echo "✅ Provider schema validation passed"
-      
-      - name: 🔍 Validate changed aggregator files (schema)
-        if: steps.changed-files.outputs.aggregators != ''
-        run: |
-          echo "Validating aggregator schema for changed files..."
-          FAILED=0
-          for file in ${{ steps.changed-files.outputs.aggregators }}; do
-            if [ ! -f "$file" ]; then
-              echo "⚠️ Skipping $file (file does not exist)"
-              continue
-            fi
-            echo "  Validating: $file"
-            if ! node scripts/validate-file.js "$file" --type=aggregator; then
-              FAILED=1
-            fi
-          done
-          if [ $FAILED -eq 1 ]; then
-            exit 1
-          fi
-          echo "✅ Aggregator schema validation passed"
-      
-      - name: 🔍 Validate changed TPP files (schema)
-        if: steps.changed-files.outputs.tpp != ''
-        run: |
-          echo "Validating TPP schema for changed files..."
-          FAILED=0
-          for file in ${{ steps.changed-files.outputs.tpp }}; do
-            if [ ! -f "$file" ]; then
-              echo "⚠️ Skipping $file (file does not exist)"
-              continue
-            fi
-            echo "  Validating: $file"
-            if ! node scripts/validate-file.js "$file" --type=tpp; then
-              FAILED=1
-            fi
-          done
-          if [ $FAILED -eq 1 ]; then
-            exit 1
-          fi
-          echo "✅ TPP schema validation passed"
-      
+
+      - name: 🔍 Validate changed files (schema and filename/ID)
+        if: steps.changed-files.outputs.count != '0'
+        run: node scripts/validate-changed.js --files-from changed-files.txt
+
+      # Icon checks make an HTTP request per file, so bulk PRs only check a sample.
       - name: 🖼️ Validate icons for changed files
-        if: steps.changed-files.outputs.all != ''
+        if: steps.changed-files.outputs.count != '0'
         continue-on-error: true
         run: |
-          node scripts/validate-icons.js ${{ steps.changed-files.outputs.all }} || echo "::warning::Some icon URLs are not accessible. Please ensure icons are uploaded."
-      
-      - name: 🔍 Check filename/ID mismatches
-        if: steps.changed-files.outputs.all != ''
-        run: |
-          echo "Checking filename/ID consistency for changed files..."
-          FAILED=0
-          for file in ${{ steps.changed-files.outputs.all }}; do
-            if [ ! -f "$file" ]; then
-              continue
-            fi
-            FILENAME=$(basename "$file" .json)
-            ID=$(node -e "console.log(require('./$file').id || '')")
-            if [ -n "$ID" ] && [ "$FILENAME" != "$ID" ]; then
-              echo "❌ Mismatch: $file (filename: $FILENAME, id: $ID)"
-              FAILED=1
-            fi
-          done
-          if [ $FAILED -eq 1 ]; then
-            echo "::error::Filename/ID mismatches found. Filename must match the 'id' field in the JSON."
-            exit 1
-          fi
-          echo "✅ Filename/ID check passed"
-      
+          head -n 200 changed-files.txt | xargs node scripts/validate-icons.js || echo "::warning::Some icon URLs are not accessible. Please ensure icons are uploaded."
+
       - name: ✅ Validation passed
         if: success()
         run: echo "✅ All validation checks passed for changed files!"
