@@ -1,7 +1,11 @@
 {
   "id": "jpmel",
   "type": [
-    "account"
+    "account",
+    "payments",
+    "savings",
+    "card",
+    "openBankingApi"
   ],
   "bankType": [
     "retail",
