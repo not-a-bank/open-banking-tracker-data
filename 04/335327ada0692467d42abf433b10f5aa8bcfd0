@@ -1,0 +1,23 @@
+data/account-providers/td-bank-na.json
+  s_a2587c061f3fdd::t_97efb539cd79e8 95-96
+data/account-providers/td-bank.json
+  s_a2587c061f3fdd::t_5158667c48abaa 86-87
+schema.json
+  s_a2587c061f3fdd::t_0aac67c7a9fda1 134-145
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "04335327ada0692467d42abf433b10f5aa8bcfd0",
+  "prompts": {},
+  "sessions": {
+    "s_a2587c061f3fdd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9bd5c-291b-499c-9c4d-b0ee675c47b2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
