@@ -131,6 +131,18 @@
         { "type": "null" }
       ]
     },
+    "embeddedFinanceIndexUrl": {
+      "anyOf" : [
+        { "type": "string",
+          "format": "uri",
+          "pattern": "^https://www\\.embeddedfinanceindex\\.com/companies/",
+          "title": "Embedded Finance Index profile",
+          "description": "The provider's profile in the Embedded Finance Index: its embedded-finance stack and partners",
+          "examples": ["https://www.embeddedfinanceindex.com/companies/td-bank"]
+        },
+        { "type": "null" }
+      ]
+    },
     "wikipediaUrl": {
       "anyOf" : [
         { "type": "string",
