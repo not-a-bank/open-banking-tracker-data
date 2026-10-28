@@ -143,6 +143,18 @@
         { "type": "null" }
       ]
     },
+    "embeddedFinanceIndexVendorUrl": {
+      "anyOf" : [
+        { "type": "string",
+          "format": "uri",
+          "pattern": "^https://www\\.embeddedfinanceindex\\.com/vendors/",
+          "title": "Embedded Finance Index vendor profile",
+          "description": "The provider's vendor profile in the Embedded Finance Index: the fintechs and platforms that disclose it as a provider",
+          "examples": ["https://www.embeddedfinanceindex.com/vendors/citizens-bank"]
+        },
+        { "type": "null" }
+      ]
+    },
     "wikipediaUrl": {
       "anyOf" : [
         { "type": "string",
