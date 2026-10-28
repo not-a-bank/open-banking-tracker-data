@@ -1,0 +1,23 @@
+data/account-providers/britsm.json
+  s_a2587c061f3fdd::t_78dc0a66d6973f 9,13
+data/account-providers/fgh-bank-nv.json
+  s_a2587c061f3fdd::t_2b9f089221656a 12,14,29-30
+data/account-providers/nordea-bank-abp-fi.json
+  s_a2587c061f3fdd::t_07b47845a53dc5 14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4b8f1ac93473cbc88a6493a822cdaccf7318c21f",
+  "prompts": {},
+  "sessions": {
+    "s_a2587c061f3fdd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4fa9bd5c-291b-499c-9c4d-b0ee675c47b2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
