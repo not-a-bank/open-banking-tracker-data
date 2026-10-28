@@ -9,9 +9,9 @@
   "name": "FGH BANK N.V.",
   "legalName": "FGH BANK N.V.",
   "verified": false,
-  "status": "live",
+  "status": "discontinued",
   "icon": "https://icons.duckduckgo.com/ip3/www.rabobank.nl.ico",
-  "websiteUrl": "https://www.rabobank.nl/",
+  "websiteUrl": "https://www.rabobank.nl/bedrijven/fghbank",
   "countryHQ": "NL",
   "countries": [
     "NL"
@@ -26,5 +26,6 @@
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
-  "bic": "FRGHNL21XXX"
+  "bic": "FRGHNL21XXX",
+  "parentId": "rabobank"
 }
