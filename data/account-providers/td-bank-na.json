@@ -59,6 +59,38 @@
       "date": "2023-12"
     }
   ],
-  "desription": "TD Bank, N.A. is the US retail and commercial bank of TD Bank Group.",
-  "parentId": "td-bank"
+  "parentId": "td-bank",
+  "description": "TD Bank, N.A. is the US bank of TD Bank Group. Its embedded banking plug-in for commercial middle-market and small-business clients connects NetSuite, Sage Intacct, Microsoft Dynamics 365 Business Central and QuickBooks Online to TD for balances, transactions, reconciliation, ACH, wires and Positive Pay, and bank feeds into Workday were added in March 2026.",
+  "integrations": [
+    {
+      "id": "netsuite",
+      "name": "NetSuite",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1531056077/catalog/netsuite/icon128x128.png",
+      "websiteUrl": "https://netsuite.com"
+    },
+    {
+      "id": "sage-intacct",
+      "name": "Sage Intacct",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/catalog/sage-intacct/icon128x128.png",
+      "websiteUrl": "https://www.sage.com/en-us/sage-business-cloud/intacct/"
+    },
+    {
+      "id": "microsoft-dynamics-365-business-central",
+      "name": "Microsoft Dynamics 365 Business Central",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/catalog/microsoft-dynamics-365-business-central/icon128x128.png",
+      "websiteUrl": "https://dynamics.microsoft.com/en-us/business-central/overview/"
+    },
+    {
+      "id": "quickbooks",
+      "name": "QuickBooks",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+      "websiteUrl": "https://quickbooks.intuit.com/"
+    },
+    {
+      "id": "workday",
+      "name": "Workday",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/catalog/workday/icon128x128.png",
+      "websiteUrl": "https://www.workday.com/"
+    }
+  ]
 }
