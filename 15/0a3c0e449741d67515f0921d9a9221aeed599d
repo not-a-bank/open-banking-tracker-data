@@ -1,0 +1,21 @@
+data/account-providers/sid-slovene-export-and-development-bank-inc-ljublj.json
+  s_602a4c3ecca662::t_7db39e32817688 29
+data/account-providers/sid-slovene-export-and-development-bank-inc-ljubljana-si.json
+  s_602a4c3ecca662::t_7dbef145578f6c 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "150a3c0e449741d67515f0921d9a9221aeed599d",
+  "prompts": {},
+  "sessions": {
+    "s_602a4c3ecca662": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae01260-59ab-4b19-a869-f36eb900ec51",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
