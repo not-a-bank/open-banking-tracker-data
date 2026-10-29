@@ -1,0 +1,19 @@
+data/account-providers/nordea.json
+  s_602a4c3ecca662::t_7af2a138cdc011 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9ebcbedddc7fed458ffa15c01f0e7f9c0c624744",
+  "prompts": {},
+  "sessions": {
+    "s_602a4c3ecca662": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dae01260-59ab-4b19-a869-f36eb900ec51",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
