@@ -108,6 +108,96 @@
       "apiReferenceUrl": "https://developers.danskebank.com/api_products/danske_bank_apis/cof/reference",
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "Account Transaction & Balance API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time access to corporate account transactions and balances.",
+      "documentationUrl": "https://developers.danskebank.com/premium-apis/account-transaction--and--balance-api",
+      "apiReferenceUrl": "https://developers.danskebank.com/premium-apis/account-transaction--and--balance-api/reference",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Create and manage corporate payment orders.",
+      "documentationUrl": "https://developers.danskebank.com/premium-apis/payment-initiation-api",
+      "apiReferenceUrl": "https://developers.danskebank.com/premium-apis/payment-initiation-api/reference",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Payment Collection API",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Upload collection files and track their content, metadata and status history.",
+      "documentationUrl": "https://developers.danskebank.com/premium-apis/payment-collection-api",
+      "apiReferenceUrl": "https://developers.danskebank.com/premium-apis/payment-collection-api/reference",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Verification of Payee API",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Check that a payee's name matches the account before paying.",
+      "documentationUrl": "https://developers.danskebank.com/premium-apis/verification-of-payee-api",
+      "apiReferenceUrl": "https://developers.danskebank.com/premium-apis/verification-of-payee-api/reference",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "FX Trade Execution API",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Execute FX trades against existing quotes.",
+      "documentationUrl": "https://developers.danskebank.com/premium-apis/fx-trade-execution-api",
+      "apiReferenceUrl": "https://developers.danskebank.com/premium-apis/fx-trade-execution-api/reference",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "FX Trade Report API",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Open and historical FX trade reports, filterable by date range and counterparty.",
+      "documentationUrl": "https://developers.danskebank.com/premium-apis/fx-trade-report-api",
+      "apiReferenceUrl": "https://developers.danskebank.com/premium-apis/fx-trade-report-api/reference",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],
