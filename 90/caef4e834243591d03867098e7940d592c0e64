@@ -1,0 +1,19 @@
+data/account-providers/danske-bank.json
+  s_aa04c40a309521::t_25ee66b04e880f 111-200
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "90caef4e834243591d03867098e7940d592c0e64",
+  "prompts": {},
+  "sessions": {
+    "s_aa04c40a309521": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3f16ee2e-aa0d-4bea-b763-61498ebc5193",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
