@@ -190,9 +190,9 @@ npm run validate-links       # check all URLs resolve
 
 We use GitHub to host our data, code, to track issues and feature requests, as well as accept pull requests.
 
-## Any contributions you make will be under the MIT License
+## Any contributions you make are licensed to Apideck BV
 
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project.
+This project is maintained by Apideck BV and published under [CC BY-NC-SA 4.0](LICENSE.md), with commercial licenses available from Apideck BV. See [License](#license) for what contributing means.
 
 ## Report bugs using Github's [issues](https://github.com/apideck-io/open-banking-tracker-data/issues)
 
@@ -200,7 +200,7 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the MIT License.
+You keep the copyright in your contributions. By contributing, you grant Apideck BV a perpetual, worldwide, royalty-free, irrevocable license to use, modify, publish and sublicense them, including commercially and under CC BY-NC-SA 4.0. Your contributions form part of the database in which Apideck BV reserves its database rights.
 
 ## References
 
