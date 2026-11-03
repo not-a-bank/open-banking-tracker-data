@@ -170,6 +170,8 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). Please
 
 Commercial licenses available on request [contact us](mailto:hello@apideck.com)
 
+This dataset is a database in which Apideck BV has made a substantial investment since 2019 in obtaining, verifying and presenting its contents. Apideck BV reserves its database rights, including under Directive 96/9/EC, in addition to any copyright; extracting or reusing all or a substantial part of it is permitted only as the license allows. See [NOTICE](NOTICE).
+
 ## About
 
 Made in Belgium 🇧🇪 Europe 🇪🇺
