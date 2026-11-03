@@ -1,0 +1,25 @@
+CONTRIBUTING.md
+  s_646d9e62373811::t_b4a326fa9407db 193,195,203
+NOTICE
+  s_646d9e62373811::t_834a3571ce43ca 1-13
+README.md
+  s_646d9e62373811::t_86066aea3b638c 173-174
+package.json
+  s_646d9e62373811::t_4c95976aeddee5 29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5dbea1bd848e8cb1827265dc12c81d3d13011922",
+  "prompts": {},
+  "sessions": {
+    "s_646d9e62373811": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b4666a7b-10f0-4d58-9820-fc786369b780",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
