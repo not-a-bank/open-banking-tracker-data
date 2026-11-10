@@ -22,7 +22,7 @@
     "US"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.truist.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -30,7 +30,38 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Commercial Account Balance",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Current- and previous-day balance information for Truist commercial accounts.",
+      "documentationUrl": "https://developer.truist.com/api/commercial-account-balance/overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Credit Transfers",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate, search and approve RTP credit transfers from eligible commercial accounts.",
+      "documentationUrl": "https://developer.truist.com/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    }
+  ],
   "apiStandards": [
     "FDX"
   ],

@@ -36,7 +36,7 @@
     "status": "available",
     "sourceUrl": null
   },
-  "developerPortalUrl": "https://sandbox.developerhub.citi.com/api-catalog-list",
+  "developerPortalUrl": "https://developer.citi.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -156,6 +156,186 @@
       "countries": [
         "PL",
         "RU"
+      ]
+    },
+    {
+      "label": "Accounts and Balances",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "CitiConnect APIs for intraday and end-of-day account balances and transactions, optionally including balances held at other banks.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/accountservices",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Statements",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve intraday or prior-day account statements in globally supported formats (e.g. MT940/942, camt) for reconciliation.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/accountservices",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Notifications",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Webhook subscriptions for proactive push notifications on activity in selected Citi accounts.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/accountservices",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Virtual Accounts",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Reserve and activate virtual accounts under a physical header account, including wallet-style virtual accounts to segment balances and pay on behalf of customers.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/accountservices",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Instant Payments",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Domestic real-time payment initiation in 30+ countries, with a next-generation Citi Payments Express platform in 20+ countries.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/instantpayments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Cross-Border Funds Transfer (WorldLink)",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Account-based cross-currency payments in up to 135 currencies with integrated FX, via API or file.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/crossborderpayments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Bulk Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Execute multiple payments in a single API call for batch-driven processes such as supplier runs, claims or payroll.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/instantpayments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Proof of Payment",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Retrieve official real-time digital confirmations of completed transactions to share with payees.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/instantpayments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Validation Services",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Pre-payment validation of account details, bank details, identity and other payment data elements.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/paymentacceptance",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Virtual Cards",
+      "type": "cards",
+      "categories": [
+        "cards"
+      ],
+      "description": "Create, modify and cancel single- or multi-use commercial virtual card numbers with transaction-level controls, plus reporting, notifications and real-time authorization webhooks.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/commercialcards",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Online Payments (Spring by Citi)",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Accept instant payments, local payment methods and cards for e-commerce and B2B flows through Spring by Citi.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/paymentacceptance",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Custody",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Custody APIs for safekeeping transactions, securities positions, cash balances and transactions, FX transactions, tax reclaims, CSDR penalties and billing.",
+      "documentationUrl": "https://developer.citi.com/apis/solutions/custody",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
       ]
     }
   ],

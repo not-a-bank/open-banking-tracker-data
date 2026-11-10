@@ -4,7 +4,7 @@
     "account"
   ],
   "bankType": [
-    "investment"
+    "holding"
   ],
   "name": "Goldman Sachs",
   "description": "The Goldman Sachs Group, Inc. is a leading global investment banking, securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base.",
@@ -22,12 +22,103 @@
     "US"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.gs.com/docs/services/transaction-banking/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "TxB Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Rail-agnostic payment and collection origination over US Fedwire, ACH and SWIFT, up to 500 payments per request, with status tracking.",
+      "documentationUrl": "https://developer.gs.com/docs/services/transaction-banking/payments/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "TxB Virtual Accounts",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Create and modify virtual accounts as sub-ledgers under a commercial deposit account.",
+      "documentationUrl": "https://developer.gs.com/docs/services/transaction-banking/create-via/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "TxB Multi-Currency Accounts",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Open a multi-currency account: one account number with linked virtual accounts in several currencies.",
+      "documentationUrl": "https://developer.gs.com/docs/services/transaction-banking/create-mca/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "TxB Reporting",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time, intraday and previous-day balances and transactions for TxB accounts.",
+      "documentationUrl": "https://developer.gs.com/docs/services/transaction-banking/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "TxB FX",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Query exchange rates and estimate the funding cost of cross-currency payments.",
+      "documentationUrl": "https://developer.gs.com/docs/services/transaction-banking/payments/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "TxB Embedded Banking (FBO)",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "For Benefit Of deposit accounts with underlying virtual accounts so platforms can offer banking to eligible end customers.",
+      "documentationUrl": "https://developer.gs.com/docs/services/transaction-banking/account-types/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    }
+  ],
   "apiStandards": [],
   "apiAggregators": [
     "plaid"

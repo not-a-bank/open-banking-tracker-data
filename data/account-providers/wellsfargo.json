@@ -63,6 +63,186 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "ACH Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Originate ACH credit and debit payments, including same-day ACH, for Wells Fargo treasury management clients.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/ach-payments",
+      "apiReferenceUrl": "https://developer.wellsfargo.com/documentation/api-references/ach-payments/v2/ach-payments-api-ref-v2",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Wire Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate domestic and international wire payments and retrieve their status.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/wire-payments",
+      "apiReferenceUrl": "https://developer.wellsfargo.com/documentation/api-references/wire-payment-and-status/v1/wire-payments-api-ref-v1",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "RTP Payments",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send instant payments 24/7/365, with intelligent routing over RTP and FedNow.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/rtp-payments",
+      "apiReferenceUrl": "https://developer.wellsfargo.com/documentation/api-references/rtp/v1/rtp-payments-api-ref-v1",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Push to Card",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Disburse funds directly to a recipient's eligible debit card.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/push-to-card",
+      "apiReferenceUrl": "https://developer.wellsfargo.com/documentation/api-references/push-to-card/v2/push-to-card-api-ref-v2",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Balance",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve current balances for Wells Fargo commercial accounts.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/account-balance",
+      "apiReferenceUrl": "https://developer.wellsfargo.com/documentation/api-references/account-balance/v1/account-balance-api-ref-v1",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Transaction Detail",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Search and retrieve ACH, wire and RTP transaction data from the current day back 180 days, for intraday and previous-day reporting.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/transaction-detail",
+      "apiReferenceUrl": "https://developer.wellsfargo.com/documentation/api-references/account-transactions/v3/transaction-detail-api-ref-v3",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Statements",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve account statements for Wells Fargo commercial accounts.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/account-statements",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Validation",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Real-time account ownership and account status screening before payments are sent.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/account-validation-full-response",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Positive Pay",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Check fraud prevention by matching presented checks against the client's issue file and decisioning exceptions.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/positive-pay",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Image Retrieval",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve check images in real time.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/image-retrieval",
+      "apiReferenceUrl": "https://developer.wellsfargo.com/documentation/api-references/real-time-image-access/v2/image-retrieval-api-ref-v2",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Foreign Exchange",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Request FX rates and book foreign exchange for cross-currency payments.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/foreign-exchange",
+      "apiReferenceUrl": "https://developer.wellsfargo.com/documentation/api-references/foreign-exchange/v2/foreign-exchange-api-ref-v2",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Virtual Card Payments",
+      "type": "cards",
+      "categories": [
+        "cards"
+      ],
+      "description": "Issue commercial virtual cards to pay suppliers.",
+      "documentationUrl": "https://developer.wellsfargo.com/products/overview/virtual-card-payments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [
