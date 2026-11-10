@@ -33,7 +33,7 @@
   "compliance": [
     {
       "regulation": "PSD2",
-      "status": "inProgress"
+      "status": "ready"
     }
   ],
   "developerPortalUrl": "https://developer.rabobank.nl/",
@@ -46,16 +46,17 @@
         "accounts"
       ],
       "description": "Delivers all the consented payment accounts for a specific Rabobank customer.",
-      "documentationUrl": "https://developer.rabobank.nl/overview/account-information",
-      "apiReferenceUrl": "https://developer.rabobank.nl/reference/accounts-ais/3-0-6",
+      "documentationUrl": "https://docs.developer.rabobank.com/psd2/reference/account-information",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/psd2/reference/getaccountlist",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "rateLimits": [
         {
           "plan": "Default",
           "limit": "5 per second"
         }
-      ]
+      ],
+      "regulation": "PSD2"
     },
     {
       "label": "Balances AIS",
@@ -64,16 +65,17 @@
         "accounts"
       ],
       "description": "Delivers the actual balance for one or more consented payment accounts.",
-      "documentationUrl": "https://developer.rabobank.nl/overview/account-information",
-      "apiReferenceUrl": "https://developer.rabobank.nl/reference/balances-ais/3-0-6",
+      "documentationUrl": "https://docs.developer.rabobank.com/psd2/reference/account-information",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/psd2/reference/getbalances",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "rateLimits": [
         {
           "plan": "Default",
           "limit": "5 per second"
         }
-      ]
+      ],
+      "regulation": "PSD2"
     },
     {
       "label": "Transactions AIS",
@@ -82,16 +84,17 @@
         "accounts"
       ],
       "description": "Delivers transactions for a specific consented payment account.",
-      "documentationUrl": "https://developer.rabobank.nl/overview/account-information",
-      "apiReferenceUrl": "https://developer.rabobank.nl/reference/transactions-ais/3-0-6",
+      "documentationUrl": "https://docs.developer.rabobank.com/psd2/reference/account-information",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/psd2/reference/getaistransactions",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "rateLimits": [
         {
           "plan": "Default",
           "limit": "5 per second"
         }
-      ]
+      ],
+      "regulation": "PSD2"
     },
     {
       "label": "Payment Initiation",
@@ -99,17 +102,44 @@
       "categories": [
         "payments"
       ],
-      "description": "Initiate a single payment from a Rabobank payment account.",
-      "documentationUrl": "https://developer.rabobank.nl/overview/payment-initiation",
-      "apiReferenceUrl": "https://developer.rabobank.nl/reference/payment-initiation/1-1-2",
+      "description": "Initiate single, periodic and cross-border payments from a Rabobank payment account.",
+      "documentationUrl": "https://docs.developer.rabobank.com/psd2/reference/psd2-single-payment-initiation",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/psd2/reference/createsinglesepapayment",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "rateLimits": [
         {
           "plan": "Default",
           "limit": "5 per second"
         }
-      ]
+      ],
+      "regulation": "PSD2"
+    },
+    {
+      "label": "Bulk Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate a bulk SEPA credit transfer from a Rabobank payment account and track its status.",
+      "documentationUrl": "https://docs.developer.rabobank.com/psd2/reference/psd2-bulk-payment-initiation",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/psd2/reference/postbulkpaymentssepacredittransfers",
+      "premium": false,
+      "stage": "live",
+      "regulation": "PSD2"
+    },
+    {
+      "label": "Confirmation Availability Funds",
+      "type": "fundsConfirmation",
+      "categories": [
+        "funds"
+      ],
+      "description": "Check whether a specific amount is available on a Rabobank payment account.",
+      "documentationUrl": "https://docs.developer.rabobank.com/psd2/reference/confirmation-availability-funds",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/psd2/reference/confirmation-availability-funds",
+      "premium": false,
+      "stage": "live",
+      "regulation": "PSD2"
     },
     {
       "label": "OAuth 2.0 Services",
@@ -118,15 +148,81 @@
       "categories": [
         "auth"
       ],
-      "documentationUrl": null,
-      "apiReferenceUrl": "https://developer.rabobank.nl/api-marketplace/oauth2-services/2-1-1",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview-authorization-services",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/authorization-services",
       "premium": false,
-      "stage": "sandbox",
+      "stage": "live",
       "rateLimits": [
         {
           "plan": "Default",
           "limit": "10 per second"
         }
+      ]
+    },
+    {
+      "label": "Business Account Insight",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time balances and transaction details for Rabobank business payment and savings accounts, for direct connectors and third parties.",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview-bai",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/bai",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ],
+      "rateLimits": [
+        {
+          "plan": "Default",
+          "limit": "20 per second"
+        }
+      ]
+    },
+    {
+      "label": "Account Notification Service",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time notifications of account activity, such as specific credit or debit entries, pushed to your ERP or TMS.",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview-ans",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/ans",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Batch Transaction Details",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Details of the individual entries in credit transfer and direct debit batches, using batch references from Business Account Insight.",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview-2",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/accountsaccount-idbatch-detailsbatch-entry-reference",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Business Credit Card Insight",
+      "type": "cards",
+      "categories": [
+        "cards"
+      ],
+      "description": "Balances and transactions for the credit cards linked to Rabobank business accounts.",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview-bcci",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/business-creditcard-insights",
+      "premium": true,
+      "stage": "upcoming",
+      "customerTypes": [
+        "business"
       ]
     },
     {
@@ -136,15 +232,78 @@
         "payments"
       ],
       "description": "Easily and professionally send your customers payment links and receive funds on your business account sooner.",
-      "documentationUrl": "https://developer.rabobank.nl/overview/payment-request",
-      "apiReferenceUrl": "https://developer.rabobank.nl/reference/payment-request/1-0-5",
-      "premium": false,
-      "stage": "sandbox",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview-pr",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/pr",
+      "premium": true,
+      "stage": "live",
       "rateLimits": [
         {
           "plan": "Default",
           "limit": "5 per second"
         }
+      ],
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Business Direct Debit",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Submit bulk SEPA direct debit files from a Rabobank business account and track their status, with an STP variant for direct connectors.",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview-bdd",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/bdd",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Business Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate single, periodic, cross-border and bulk credit transfers from Rabobank business accounts, with an STP variant for bulk.",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview-bpi",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/bpi",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Business Instant Payout",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Fully automated instant SEPA and cross-border payouts, executed without manual approval in Rabo Business Banking.",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/bip",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Payee Account Check",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Check that a beneficiary's name and IBAN match before initiating a payment.",
+      "documentationUrl": "https://docs.developer.rabobank.com/payments/docs/product-overview-pac",
+      "apiReferenceUrl": "https://docs.developer.rabobank.com/payments/reference/payee-account-check",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
       ]
     }
   ],
