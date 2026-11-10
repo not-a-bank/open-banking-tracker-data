@@ -87,6 +87,130 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "sandbox"
+    },
+    {
+      "label": "CB Connect: Credit Transfer",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Corporates initiate credit transfers from their ERP or TMS through Deutsche Bank's CB Connect API platform, with status tracking.",
+      "documentationUrl": "https://developer.db.com/products/credittransfer",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "DB Corporate API: Request to Pay",
+      "type": "paymentRequest",
+      "categories": [
+        "payments"
+      ],
+      "description": "Corporate customers request payments from end customers by SEPA (Instant) Credit Transfer, with Deutsche Bank acting as PISP.",
+      "documentationUrl": "https://developer.db.com/products/requesttopay",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Pre-Validation API",
+      "type": "other",
+      "categories": [
+        "accounts",
+        "payments"
+      ],
+      "description": "Real-time multi-bank check of account existence and beneficiary name before payment or during onboarding.",
+      "documentationUrl": "https://developer.db.com/products/accountprevalidation",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Instant Payments (Commercial)",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Lets registered API partners offer SEPA Instant payments in their app or shop without holding a PISP licence.",
+      "documentationUrl": "https://developer.db.com/products/instantpayments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "db Smart Access",
+      "type": "accountInformation",
+      "categories": [
+        "accounts",
+        "payments",
+        "cards"
+      ],
+      "description": "Connects a business's own Deutsche Bank accounts to its ERP: balances and transactions across account types, plus SEPA, instant, bulk and direct debit payments.",
+      "documentationUrl": "https://developer.db.com/apidocumentation/apidbsmartaccess/introduction",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Real-Time Balances API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time corporate account balances in camt.052 format, available 24/7.",
+      "documentationUrl": "https://corporates.db.com/solutions/Client-access-solutions/corporate-api-connectivity?language_id=1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Statements API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Intraday and end-of-day camt.053 statements for corporates, pushed or pulled on demand.",
+      "documentationUrl": "https://corporates.db.com/solutions/Client-access-solutions/corporate-api-connectivity?language_id=1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "FX4Cash API",
+      "type": "fx",
+      "categories": [
+        "fx",
+        "payments"
+      ],
+      "description": "API channel to FX4Cash with live streaming rates for 125+ payment currencies at trade execution.",
+      "documentationUrl": "https://corporates.db.com/solutions/Client-access-solutions/corporate-api-connectivity?language_id=1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],

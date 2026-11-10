@@ -150,6 +150,53 @@
       "apiReferenceUrl": "https://developer.barclays.com/catalogue/ce94b3d3-f441-42df-aa46-ac8db8a479b2.bdn/documentation/5be94f98-0295-4a3d-8a91-078b633f7e09.bdn",
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "Corporate Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Real-time payment initiation for Barclays corporate, bank and PSP clients, separate from the Open Banking PIS API.",
+      "documentationUrl": "https://developer.barclays.com/portal/documentation/f7a5fe98-fe5b-4bf8-9ef9-00bd372e9bff.bdn",
+      "apiReferenceUrl": "https://developer.barclays.com/portal/documentation/f7a5fe98-fe5b-4bf8-9ef9-00bd372e9bff.bdn",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Balances and Transactions Reporting",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Account balance and transaction reporting for Barclays corporate, bank and PSP clients.",
+      "documentationUrl": "https://developer.barclays.com/portal/documentation/9acb1fae-4023-4d63-9ebc-5f88e0905243.bdn",
+      "apiReferenceUrl": "https://developer.barclays.com/portal/documentation/9acb1fae-4023-4d63-9ebc-5f88e0905243.bdn",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Barclaycard Smartpay Web Payment",
+      "type": "cards",
+      "categories": [
+        "payments",
+        "cards"
+      ],
+      "description": "Process eCommerce and MOTO card and wallet payments through the Smartpay gateway, via hosted page or direct integration.",
+      "documentationUrl": "https://developer.barclays.com/portal/documentation/9aac1f7f-346f-4cc0-b63c-bbfe4c6ca1b1.bdn",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],

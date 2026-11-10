@@ -12,16 +12,81 @@
   "status": "live",
   "icon": "https://icons.duckduckgo.com/ip3/www.handelsbanken.no.ico",
   "websiteUrl": "https://www.handelsbanken.no/",
-  "countryHQ": "NO",
+  "countryHQ": "SE",
   "countries": [
     "NO"
   ],
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.handelsbanken.com/api/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Premium Account API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Account list, structure, balances and transactions for a corporate's Handelsbanken accounts, via a service provider named in the customer's agreement.",
+      "documentationUrl": "https://developer.handelsbanken.com/api/apis/premium/account",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Premium FX API Market Order",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Executes FX spot, forward or swap conversions at the prevailing market rate in a single request.",
+      "documentationUrl": "https://developer.handelsbanken.com/api/apis/premium/fx",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Premium FX API Indicative Rates",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Pre-trade indicative spot, forward and swap-point quotes matching rates tradable through the Market Order API.",
+      "documentationUrl": "https://developer.handelsbanken.com/api/apis/premium/fx",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Premium FX API Trade Retriever",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Retrieves settled and unsettled FX deals with the bank over a settlement span, for bookkeeping and reconciliation.",
+      "documentationUrl": "https://developer.handelsbanken.com/api/apis/premium/fx",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    }
+  ],
   "apiAggregators": [
     "gocardless",
     "lunchflow",

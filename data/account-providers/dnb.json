@@ -180,6 +180,37 @@
       "apiReferenceUrl": "https://developer.dnb.no/documentation#tag/Transactions",
       "premium": false,
       "stage": "sandbox"
+    },
+    {
+      "label": "Account Pre-validation",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Checks that a Norwegian or Swift-reachable account is payable and owned by a given person or company before paying.",
+      "documentationUrl": "https://developer.dnb.no/documentation/account-pre-validation/@default/@latest",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Markets FX: Post Trade",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Retrieves historic FX transactions between DNB Markets and the client, filtered by trade date range.",
+      "documentationUrl": "https://developer.dnb.no/documentation/markets-fx-post-trade/@default/@latest",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],

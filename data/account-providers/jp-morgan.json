@@ -73,6 +73,57 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "Embedded Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments",
+        "accounts"
+      ],
+      "description": "Platforms onboard clients, open virtual transaction accounts, move funds and pay out by ACH, wire, RTP, push-to-card and cross-border FX through one API.",
+      "documentationUrl": "https://developer.payments.jpmorgan.com/docs/embedded-finance-solutions/embedded-payments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Online Payments",
+      "type": "cards",
+      "categories": [
+        "payments",
+        "cards"
+      ],
+      "description": "Accept and manage card, wallet, local and alternative online payments, with recurring payments, stored profiles and fraud tools.",
+      "documentationUrl": "https://developer.payments.jpmorgan.com/docs/commerce/online-payments/capabilities/online-payments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Validation Services",
+      "type": "other",
+      "categories": [
+        "accounts",
+        "payments"
+      ],
+      "description": "Check personal and business bank account ownership and status in many countries before paying.",
+      "documentationUrl": "https://developer.payments.jpmorgan.com/docs/fraud-solutions/validation-services/capabilities/account-validation/how-to/global-account-validation",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
     }
   ],
   "ownership": [],

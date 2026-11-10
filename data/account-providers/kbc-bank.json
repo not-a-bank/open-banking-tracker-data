@@ -112,8 +112,40 @@
       "description": "Cashflow is essential to any business. Providers of invoicing or ERP software packages can now offer their clients On-Demand Financing, an innovative KBC service that allows businesses to receive immediate payment for selected sales invoices.",
       "documentationUrl": "https://developer.kbc.be/business-solution/kbc-demand-financing",
       "apiReferenceUrl": null,
-      "premium": false,
+      "premium": true,
       "stage": "live"
+    },
+    {
+      "label": "Connect & Pay - Reporting",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time balances, booked transactions and end-of-day CAMT statements for a business client's own KBC/CBC accounts.",
+      "documentationUrl": "https://developer.kbc.be/business-solution/connect-pay",
+      "apiReferenceUrl": "https://developer.kbc.be/api-catalog/connect-pay-reporting",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Connect & Pay - Payment",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Single instant payments, falling back to SEPA credit transfer, initiated by a business client from its own software without manual signing.",
+      "documentationUrl": "https://developer.kbc.be/business-solution/connect-pay",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],

@@ -86,7 +86,7 @@
       "description": "The Payment Request API allows you to generate payment request links that can be shared with your customers. The Payment Request API is based on ING’s successful consumer–to-consumer (C2C) payment request feature, which means your customers will already be familiar with this payment method.",
       "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/01199464-4247-4770-8ab8-c3371052e9e5/overview",
       "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/01199464-4247-4770-8ab8-c3371052e9e5/reference",
-      "premium": false,
+      "premium": true,
       "stage": "sandbox"
     },
     {
@@ -110,8 +110,38 @@
       "description": "The Virtual Ledger Accounts API will offer you a secured access to the Virtual Accounts that are created in the Virtual Ledger Account Application. Consuming the API allows you to fully retrieve, control and make use of Virtual Account Information and/or create applications that offer value added services to clients using the Virtual Ledger Account Application.",
       "documentationUrl": "https://developer.ing.com/api-marketplace/marketplace/fa224f87-b4c4-4c2b-85a4-193c6eb57e35/overview",
       "apiReferenceUrl": "https://developer.ing.com/api-marketplace/marketplace/fa224f87-b4c4-4c2b-85a4-193c6eb57e35/reference",
-      "premium": false,
+      "premium": true,
       "stage": "sandbox"
+    },
+    {
+      "label": "Real-time Account Reporting API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Live balances, transactions and settlement data from ING corporate accounts delivered into a client's ERP or TMS.",
+      "documentationUrl": "https://www.ingwb.com/en/payments-and-collections/treasury-apis",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Direct Initiation Payment API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Pre-authorised single SEPA (incl. Instant), domestic and international payments initiated from a corporate's own systems.",
+      "documentationUrl": "https://www.ingwb.com/en/payments-and-collections/treasury-apis",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],

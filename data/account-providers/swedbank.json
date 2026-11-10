@@ -19,9 +19,74 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://www.swedbank.com/openbanking",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "RestFX Market Order",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Places FX orders with Swedbank executed at the prevailing market rate, for FX Trade customers with a RestFX agreement.",
+      "documentationUrl": "https://www.swedbank.com/openbanking/restfx/market-orders.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "RestFX List Rates",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Executes FX transactions at pre-agreed rates valid for a set period, aimed at check-outs and high-frequency FX flows.",
+      "documentationUrl": "https://www.swedbank.com/openbanking/restfx2.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Swedbank Gateway API",
+      "type": "other",
+      "categories": [
+        "accounts",
+        "payments"
+      ],
+      "description": "ERP and accounting connection for Baltic business customers: statements, real-time balances, payments, notifications, e-invoices and payment links.",
+      "documentationUrl": "https://www.swedbank.com/openbanking/swedbank-gateway-go-live.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "E-commerce Payment Initiation API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Merchant pay-by-bank collection in Estonia, Latvia and Lithuania from Swedbank and other Baltic banks, with an optional refund service.",
+      "documentationUrl": "https://pi.swedbank.com/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    }
+  ],
   "apiAggregators": [
     "gocardless",
     "insurely",

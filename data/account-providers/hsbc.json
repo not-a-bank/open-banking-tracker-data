@@ -41,7 +41,7 @@
     "status": "available",
     "sourceUrl": "https://www.businesswire.com/news/home/20190307005306/en/HSBC-Launches-PSD2-Developer-Portal-Expanded-APIs"
   },
-  "developerPortalUrl": "https://developer.hsbc.com/",
+  "developerPortalUrl": "https://develop.hsbc.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -172,6 +172,127 @@
       "stage": "live",
       "countries": [
         "UK"
+      ]
+    },
+    {
+      "label": "Treasury Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time balance and transaction enquiry for corporate current and term-deposit accounts in ISO 20022 format, for ERP and treasury systems.",
+      "documentationUrl": "https://develop.hsbc.com/api-overview/treasury-account-information",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Treasury Payment Initiation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Single, bulk and real-time payment initiation across HSBC's global network, with payment status enquiry.",
+      "documentationUrl": "https://develop.hsbc.com/api-overview/treasury-payment-initiation",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Global Disbursements",
+      "type": "fx",
+      "categories": [
+        "payments",
+        "fx"
+      ],
+      "description": "Cross-border payments in over 140 currencies from one operating account, combined with guaranteed or real-time FX quotes.",
+      "documentationUrl": "https://develop.hsbc.com/api-overview/treasury-global-disbursements",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Virtual Account Management",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Create and maintain virtual accounts and retrieve their balances and transactions.",
+      "documentationUrl": "https://develop.hsbc.com/api-overview/treasury-virtual-account-management-api",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "SWIFT gpi Payment Tracking",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Track cross-border SWIFT gpi payments by UETR, singly or in bulk, through clearing and settlement.",
+      "documentationUrl": "https://develop.hsbc.com/api-overview/treasury-swift-gpi",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Supply Chain Finance",
+      "type": "invoiceFinancing",
+      "categories": [
+        "loans"
+      ],
+      "description": "Submit approved invoices and credit notes, onboard suppliers and track invoice status for HSBC supply chain finance programmes.",
+      "documentationUrl": "https://develop.hsbc.com/api-overview/trade-finance-supply-chain-finance",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Receivables Finance",
+      "type": "invoiceFinancing",
+      "categories": [
+        "loans"
+      ],
+      "description": "Submit invoices for financing and check invoice status, details and buyer repayments.",
+      "documentationUrl": "https://develop.hsbc.com/api-overview/trade-finance-receivables-finance",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "TradePay",
+      "type": "invoiceFinancing",
+      "categories": [
+        "loans"
+      ],
+      "description": "Request, extend, settle and track TradePay buyer loans directly from an ERP or accounting platform.",
+      "documentationUrl": "https://develop.hsbc.com/api-overview/trade-finance-tradepay",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
       ]
     }
   ],

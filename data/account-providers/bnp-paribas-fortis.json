@@ -62,6 +62,22 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "sandbox"
+    },
+    {
+      "label": "Camt.052 Intraday Reporting",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "On-demand camt.052 intraday transactions and balances for a company's BNP Paribas Fortis current accounts, available 24/7.",
+      "documentationUrl": "https://developer.bnpparibasfortis.com/api-detail/561",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],

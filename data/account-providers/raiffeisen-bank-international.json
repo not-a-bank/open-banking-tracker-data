@@ -169,6 +169,84 @@
           "limit": "100 per hour"
         }
       ]
+    },
+    {
+      "label": "Account Statement API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Intraday (camt.052) and end-of-day (camt.053) statements for accounts at RBI and connected RBI network banks.",
+      "documentationUrl": "https://www.rbinternational.com/en/corporates/solutions/cash-management/direct-connections/open-apis.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Payment Initiation API (Cash Management)",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Corporates initiate ISO 20022 pain.001 payments (local, SEPA, SCT Inst) over real-time rails from ERP or TMS.",
+      "documentationUrl": "https://www.rbinternational.com/en/corporates/solutions/cash-management/direct-connections/open-apis.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Payment Status API",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Real-time pain.002 payment status for accounts at RBI and connected network banks.",
+      "documentationUrl": "https://www.rbinternational.com/en/corporates/solutions/cash-management/direct-connections/open-apis.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Bank Account Information API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Configurable reports on a corporate's set-up, accounts, users and signature rights across RBI and network banks.",
+      "documentationUrl": "https://www.rbinternational.com/content/dam/rbi/marketing/ww/open-apis/RBI_ProductSheet_BAI-API_EN.pdf.coredownload.pdf",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "RBCZ Premium API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts",
+        "payments",
+        "fx"
+      ],
+      "description": "Raiffeisenbank CZ's corporate API for balances, transactions, batch payment import, statements and FX rates.",
+      "documentationUrl": "https://www.rb.cz/firmy/transakcni-bankovnictvi/elektronicke-bankovnictvi/premium-api",
+      "apiReferenceUrl": "https://developers.rb.cz/premium/documentation/01rbczpremiumapi",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],

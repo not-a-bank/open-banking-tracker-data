@@ -147,6 +147,86 @@
       "apiGateway": "cbiglobe",
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "API Account Balance",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time or historical (up to 18 months) balance, available balance and credit line for a business's own accounts.",
+      "documentationUrl": "https://smarthub.intesasanpaolo.com/en/homepage_en/api-catalogue/api-account-balance.html",
+      "apiReferenceUrl": "https://smarthub.intesasanpaolo.com/en/homepage_en/technical-documentation/Account-Information-API.html",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "API Transaction List",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "End-of-day and intraday transaction lists for a business's own accounts, up to 18 months back.",
+      "documentationUrl": "https://smarthub.intesasanpaolo.com/en/homepage_en/api-catalogue/api-transaction-list.html",
+      "apiReferenceUrl": "https://smarthub.intesasanpaolo.com/en/homepage_en/technical-documentation/Transaction-List-API.html",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "API SCT",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Single SEPA credit transfers from the company's management system, with validation, status, list and revocation.",
+      "documentationUrl": "https://smarthub.intesasanpaolo.com/en/homepage_en/api-catalogue/api__sct.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "API SCT Inst",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "SEPA Instant credit transfers from the company's systems, with reachability check, Verification of Payee, execution and status.",
+      "documentationUrl": "https://smarthub.intesasanpaolo.com/en/homepage_en/api-catalogue/api-sct-inst.html",
+      "apiReferenceUrl": "https://smarthub.intesasanpaolo.com/en/homepage_en/technical-documentation/Sepa-Instant-Payment-API.html",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "API Check IBAN",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time check that an Italian IBAN exists and matches the holder's tax code or VAT number.",
+      "documentationUrl": "https://smarthub.intesasanpaolo.com/it/homepage/catalogo-prodotti/api_check-iban.html",
+      "apiReferenceUrl": "https://smarthub.intesasanpaolo.com/en/homepage_en/technical-documentation/Multibank-Iban-Check-API.html",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [

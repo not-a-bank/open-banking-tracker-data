@@ -119,6 +119,96 @@
       "customerTypes": [
         "business"
       ]
+    },
+    {
+      "label": "Corporate Payout",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Payments initiated from corporate systems and signed with a personal signing key, with instant execution confirmation for immediate schemes.",
+      "documentationUrl": "https://developer.nordeaopenbanking.com/products/corporate-payout",
+      "apiReferenceUrl": "https://documentation.nordeaopenbanking.com/premium/corporate/corporate-payout-v2",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Multi-Payout Instant",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Up to 500 pre-signed SEPA Instant payments in one ISO 20022 request, with real-time status (Finland).",
+      "documentationUrl": "https://developer.nordeaopenbanking.com/products/multi-payout-instant",
+      "apiReferenceUrl": "https://documentation.nordeaopenbanking.com/premium/corporate/multi-payout-instant-api-v1",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "FX Trading",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Automated FX spot, forward and swap trades from the client's own systems, including tradable rates valid for up to 24 hours.",
+      "documentationUrl": "https://developer.nordeaopenbanking.com/products/fx-trading",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Payments Track & Trace",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Status of incoming and outgoing Swift gpi cross-border payments by UETR or by account and time range.",
+      "documentationUrl": "https://documentation.nordeaopenbanking.com/premium/corporate/payment-track-and-trace-v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Payment Refund",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Returns received SEPA credit transfers to the original payer without knowing the payer's account (Finland pilot).",
+      "documentationUrl": "https://developer.nordeaopenbanking.com/products/payment-refund",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "privateBeta",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Bulk Verification of Payee",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Checks payee name and IBAN for bulk SEPA payments before sending (Finland).",
+      "documentationUrl": "https://documentation.nordeaopenbanking.com/premium/corporate/overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "upcoming",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],
