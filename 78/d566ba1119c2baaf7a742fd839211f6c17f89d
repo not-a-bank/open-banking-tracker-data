@@ -1,0 +1,19 @@
+data/account-providers/rabobank-nl.json
+  s_474941fc1db8b0::t_1ef4e08e48d55c 36,49-50,52,58-59,68-69,71,77-78,87-88,90,96-97,105-107,109,115-142,151-152,154,162-227,235-238,244-306
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "78d566ba1119c2baaf7a742fd839211f6c17f89d",
+  "prompts": {},
+  "sessions": {
+    "s_474941fc1db8b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e160ede6-1ab7-46ef-8840-8a5ea49d64ae",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
