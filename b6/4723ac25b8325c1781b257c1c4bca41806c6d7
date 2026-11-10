@@ -1,0 +1,51 @@
+data/account-providers/bankofamerica.json
+  s_7f91e367cf7aa7::t_db6984716d5c74 26,73-147
+data/account-providers/citi.json
+  s_7f91e367cf7aa7::t_e532411df48657 39,160-339
+data/account-providers/citizensbank.json
+  s_8341f1dbb61958::t_954c88992beb0d 96,115,134,154
+data/account-providers/fifth-third-bank-us.json
+  s_7f91e367cf7aa7::t_5d62387dae758b 23,25-116
+data/account-providers/first-citizens-bank.json
+  s_7f91e367cf7aa7::t_cb6299c8ced3dc 22,24-145
+data/account-providers/goldmansachs.json
+  s_8341f1dbb61958::t_ae64481b761be7 7,25,30-121,151
+data/account-providers/huntington-bank.json
+  s_7f91e367cf7aa7::t_59c6ba54b14e93 25,33-109
+data/account-providers/keybank.json
+  s_7f91e367cf7aa7::t_a88542e0a7fdee 25,30-136
+data/account-providers/pnc.json
+  s_7f91e367cf7aa7::t_0317e385a40d98 22,26-102
+data/account-providers/the-bank-of-new-york-mellon-us-1.json
+  s_7f91e367cf7aa7::t_aa240c242c8157 22,24-191
+data/account-providers/truist.json
+  s_7f91e367cf7aa7::t_bc72efa8e46f5c 25,33-64
+data/account-providers/usbank.json
+  s_7f91e367cf7aa7::t_9d4ae31eaaa44e 58-237
+data/account-providers/wellsfargo.json
+  s_7f91e367cf7aa7::t_3605a4d02ad535 66-245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b64723ac25b8325c1781b257c1c4bca41806c6d7",
+  "prompts": {},
+  "sessions": {
+    "s_7f91e367cf7aa7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8114487d-bf23-4e1d-b72b-c48a960099f3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    },
+    "s_8341f1dbb61958": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fad25549-fd2c-4f72-a238-4ee3750fb8fa",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
