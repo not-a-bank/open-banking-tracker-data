@@ -55,6 +55,186 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "ACH Originations",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Originate same-day and standard ACH payment (credit) and collection (debit) requests.",
+      "documentationUrl": "https://developer.usbank.com/products/ach-originations/v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Wire Transfers",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate and retrieve details of domestic and international wire transfers.",
+      "documentationUrl": "https://developer.usbank.com/products/wire-transfers/v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Instant Payments",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Instant credit transfers combined with Request for Payment in a single solution.",
+      "documentationUrl": "https://developer.usbank.com/products/instant-payments/v2",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "PaySmart",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Originate an RTP payment with automatic fallback to ACH or wire.",
+      "documentationUrl": "https://developer.usbank.com/products/pay-smart/v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Corporate Account Information",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Access company bank account and credit card balances, transactions and statements.",
+      "documentationUrl": "https://developer.usbank.com/products/corporate-account-information/v2",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Validation",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Validate bank account status and ownership before moving money.",
+      "documentationUrl": "https://developer.usbank.com/products/account-validation/v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Positive Pay",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Manage check fraud prevention services through an API.",
+      "documentationUrl": "https://developer.usbank.com/products/positive-pay/v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Foreign Exchange",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Request a rate for an eligible currency pair, accept it and retrieve a settlement date.",
+      "documentationUrl": "https://developer.usbank.com/products/foreign-exchange/v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Push to Card",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send money to a receiver's debit card over the Visa network.",
+      "documentationUrl": "https://developer.usbank.com/products/push-to-card/v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Virtual Card Payments",
+      "type": "cards",
+      "categories": [
+        "cards"
+      ],
+      "description": "Create virtual card accounts on demand with controls and real-time access to transactions, balances and authorizations.",
+      "documentationUrl": "https://developer.usbank.com/products/virtual-card-payments/v2",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "U.S. Bank FBO Account",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Bundle of APIs for qualified partners to power customers' money movement through an FBO account in a single integration.",
+      "documentationUrl": "https://developer.usbank.com/products/us-bank-fbo-account/v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Virtual Account Reporting",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Automate reconciliation and reporting for virtual accounts.",
+      "documentationUrl": "https://developer.usbank.com/products/virtual-account-reporting/v1",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [

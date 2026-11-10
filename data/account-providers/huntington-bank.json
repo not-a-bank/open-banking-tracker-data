@@ -22,7 +22,7 @@
     "US"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.huntington.com/enterprisepayments/docs/api-catalog",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -30,7 +30,83 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Information Reporting",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time and historical commercial account lists, balances and transactions (ACH, wire, RTP, check) for Huntington treasury clients.",
+      "documentationUrl": "https://developer.huntington.com/enterprisepayments/docs/information-reporting-apis-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Payment Origination",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Submit ACH, RTP and wire payment batches and track their status through one API.",
+      "documentationUrl": "https://developer.huntington.com/enterprisepayments/docs/payments-origination-api-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Internal Transfers",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Transfer funds between authorized Huntington commercial accounts.",
+      "documentationUrl": "https://developer.huntington.com/enterprisepayments/docs/internal-transfers-api-v10",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Check Images",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Retrieve the image and metadata for a cleared check.",
+      "documentationUrl": "https://developer.huntington.com/enterprisepayments/docs/check-images-api-v11",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Statements",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "List and render account statements for commercial accounts.",
+      "documentationUrl": "https://developer.huntington.com/enterprisepayments/docs/statements-api-v10",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    }
+  ],
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [

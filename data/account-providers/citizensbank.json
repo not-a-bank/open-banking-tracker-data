@@ -93,7 +93,7 @@
       "description": "Retrieve deposit account metadata and transaction history for checking and savings accounts, for company finance management and financial reporting. FAPI-compliant, OAuth 2.0 with fine-grained scopes.",
       "documentationUrl": "https://developer.citizensbank.com/product/commercial-banking/api/informationreporting-v1",
       "apiReferenceUrl": null,
-      "premium": false,
+      "premium": true,
       "stage": "live",
       "customerTypes": [
         "business",
@@ -112,7 +112,7 @@
       "description": "Initiate ACH and RTP payments and retrieve their status, including participant status inquiry by routing number. FAPI-compliant, OAuth 2.0 with fine-grained scopes.",
       "documentationUrl": "https://developer.citizensbank.com/product/commercial-banking/api/payments-v3",
       "apiReferenceUrl": null,
-      "premium": false,
+      "premium": true,
       "stage": "live",
       "customerTypes": [
         "business",
@@ -131,7 +131,7 @@
       "description": "Initiate single, same-day transfers between a client's own Citizens accounts in near real time. Future-dated transfers are not supported.",
       "documentationUrl": "https://developer.citizensbank.com/product/commercial-banking/api/accounttransfer-v1",
       "apiReferenceUrl": null,
-      "premium": false,
+      "premium": true,
       "stage": "live",
       "customerTypes": [
         "business",
@@ -151,7 +151,7 @@
       "description": "Validate payee details before paying: verify an account by account and routing number, check its status, and match the beneficiary name (full, partial or no match).",
       "documentationUrl": "https://developer.citizensbank.com/product/commercial-banking/api/accountvalidation-v1",
       "apiReferenceUrl": null,
-      "premium": false,
+      "premium": true,
       "stage": "live",
       "customerTypes": [
         "business",

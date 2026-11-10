@@ -19,11 +19,87 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.pnc.com/",
   "apiStandards": [
     "FDX"
   ],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Send RTP Credit",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Originate Real-Time Payments from the client's own system with real-time confirmation; companion RTP Bank Eligibility API checks receiving-bank participation.",
+      "documentationUrl": "https://www.pnc.com/insights/corporate-institutional/gain-market-insight/a-look-at-pncs-apis.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Direct to Debit Card",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "24x7 business-to-consumer disbursements to accounts linked to Visa or Mastercard debit cards, with card verification and tokenization APIs.",
+      "documentationUrl": "https://www.pnc.com/insights/corporate-institutional/gain-market-insight/a-look-at-pncs-apis.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Verification Services",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Confirm the existence, status and ownership of a US bank account and the identity of counterparties before payment.",
+      "documentationUrl": "https://developer.pnc.com/documentation/products/Account-Verification-Services/3/overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Bank Routing Number Verification",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Validate ACH and wire routing numbers and return the institution name and routing type.",
+      "documentationUrl": "https://www.pnc.com/insights/corporate-institutional/gain-market-insight/a-look-at-pncs-apis.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Check Deposit",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Deposit checks from within the client's workflow or app using check images and deposit data.",
+      "documentationUrl": "https://www.pnc.com/insights/corporate-institutional/gain-market-insight/a-look-at-pncs-apis.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    }
+  ],
   "apiAggregators": [
     "banksync",
     "mastercard-open-banking",
