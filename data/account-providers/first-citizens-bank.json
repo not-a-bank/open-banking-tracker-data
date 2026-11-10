@@ -19,9 +19,130 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.firstcitizens.com/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Account Balance",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Commercial account balance retrieval for First Citizens (including SVB division) clients.",
+      "documentationUrl": "https://developer.firstcitizens.com/apis/commercial-banking-apis/account-balance/1.2/accounts-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Transfer",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Book transfers between a client's own accounts.",
+      "documentationUrl": "https://developer.firstcitizens.com/apis/commercial-banking-apis/account-transfer/1.0/account-transfer-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "ACH Transfers",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Domestic, verified and IAT ACH transfers, including instant account verification through Plaid.",
+      "documentationUrl": "https://developer.firstcitizens.com/apis/commercial-banking-apis/ach-transfers/2.7/ach-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Instant Payments",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send instant payments and retrieve their status; a Reference API checks instant-payment reachability of the receiving bank.",
+      "documentationUrl": "https://developer.firstcitizens.com/apis/commercial-banking-apis/instant-payments/1.3/instant-payments-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Wires",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Create, list, retrieve and cancel wire payments.",
+      "documentationUrl": "https://developer.firstcitizens.com/apis/commercial-banking-apis/wires-api/2.6/wires-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Stop Payment",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Place and retrieve stop-payment orders on checks.",
+      "documentationUrl": "https://developer.firstcitizens.com/apis/commercial-banking-apis/stop-payment/1.2/stop-payment-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Virtual Cards",
+      "type": "cards",
+      "categories": [
+        "cards"
+      ],
+      "description": "Issue and manage virtual card numbers, with authorizations, clearings, suppliers and templates.",
+      "documentationUrl": "https://developer.firstcitizens.com/apis/commercial-banking-apis/virtual-cards/2.0/virtual-cards-vcn-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Webhooks",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Subscribe to event notifications for account and payment events.",
+      "documentationUrl": "https://developer.firstcitizens.com/apis/commercial-banking-apis/webhook-api/2.0/webhooks-overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    }
+  ],
   "apiAggregators": [
     "mastercard-open-banking",
     "plaid"

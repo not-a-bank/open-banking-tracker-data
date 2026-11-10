@@ -23,7 +23,7 @@
     "US"
   ],
   "compliance": [],
-  "developerPortalUrl": "https://developer.bankofamerica.com",
+  "developerPortalUrl": "https://developer.bankofamerica.com/",
   "developerCommunityUrl": null,
   "slackCommunity": false,
   "apiAuth": [],
@@ -70,6 +70,81 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "CashPro Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate, cancel and track the status of multiple payment types (ACH, wire, RTP and more) through CashPro API.",
+      "documentationUrl": "https://business.bofa.com/en-us/content/cashpro-api-integration.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "CashPro Request for Payment",
+      "type": "paymentRequest",
+      "categories": [
+        "payments"
+      ],
+      "description": "Request funds from counterparties and receive real-time payments in response.",
+      "documentationUrl": "https://business.bofa.com/en-us/content/cashpro-api-integration.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "CashPro Account Validation",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Validate the status and owner of a recipient's US bank account before initiating electronic credits or debits.",
+      "documentationUrl": "https://business.bofa.com/en-us/content/cashpro-api-integration.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "CashPro Account Information and Reporting",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Near-real-time balances, transaction history, end-of-day reporting and payment statuses for CashPro clients.",
+      "documentationUrl": "https://business.bofa.com/en-us/content/cashpro-api-integration.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "CashPro FX Trading and Rate Management",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Execute FX trades using live or guaranteed rates and embed FX execution into treasury workflows.",
+      "documentationUrl": "https://business.bofa.com/en-us/content/cashpro-api-integration.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [

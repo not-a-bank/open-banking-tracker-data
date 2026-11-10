@@ -20,9 +20,100 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developers.newline53.com/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Newline Accounts",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Embedded custodial and synthetic accounts that platforms create and manage on Fifth Third's Newline embedded payments platform.",
+      "documentationUrl": "https://developers.newline53.com/docs/welcome",
+      "apiReferenceUrl": "https://developers.newline53.com/reference/synthetic-accounts",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Newline Transfers",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate, track and cancel ACH, wire, book and RTP transfers between synthetic accounts and external counterparties.",
+      "documentationUrl": "https://developers.newline53.com/docs/transfer",
+      "apiReferenceUrl": "https://developers.newline53.com/reference/transfers",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Newline Instant Payments",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send and receive instant payments over The Clearing House RTP network, including on-behalf-of payments.",
+      "documentationUrl": "https://developers.newline53.com/docs/instant-payments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Newline Virtual Reference Numbers",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Create and manage virtual reference numbers that route incoming ACH, wire and RTP payments to synthetic accounts.",
+      "documentationUrl": "https://developers.newline53.com/docs/virtual-reference-numbers-vrns",
+      "apiReferenceUrl": "https://developers.newline53.com/reference/virtual-reference-numbers",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Newline Reporting",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Intraday and prior-day reporting of posted transactions and closing balances for reconciliation.",
+      "documentationUrl": "https://developers.newline53.com/docs/reporting",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Newline Webhooks",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Webhook and message-queue notifications for transfer, transaction and account events.",
+      "documentationUrl": "https://developers.newline53.com/docs/webhooks",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    }
+  ],
   "apiAggregators": [
     "mastercard-open-banking",
     "flinks",

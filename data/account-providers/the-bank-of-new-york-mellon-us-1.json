@@ -19,9 +19,176 @@
   "webApplication": true,
   "mobileApps": [],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.bny.com/",
   "apiStandards": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Wires",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate global wire payments across BNY's network of banks and agencies, with tracking.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "ACH",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Initiate ACH transfers in multiple message formats, track them and set up notifications.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Real-Time Payments",
+      "type": "realTimePayments",
+      "categories": [
+        "payments"
+      ],
+      "description": "Real-time payment processing for instant money transfers.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Account Validation",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Validate the status and ownership of a financial account in the US.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Tokenized Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Tokenized payment processing, including Zelle disbursements, for enhanced transaction security and privacy.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Foreign Exchange",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Request FX quotes, book and reverse FX deals and check their status.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Treasury Reports",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Access treasury reports including payment transactions and account balances.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Banking-as-a-Service",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Onboard customers, create virtual accounts and submit KYC information to integrate with the BNY BaaS platform.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate",
+        "business"
+      ]
+    },
+    {
+      "label": "Debit Card",
+      "type": "cards",
+      "categories": [
+        "cards"
+      ],
+      "description": "Card operations for BNY debit card programs: card management, shipment tracking, transactions and balance updates.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Cash Management and FX Status",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Near-real-time tracking of custody cash positions and transactions for single accounts or account groups.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Securities Transaction Status and Positions",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Investment positions and transaction activity across custody accounts.",
+      "documentationUrl": "https://developer.bny.com/app/open/catalog/home",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    }
+  ],
   "apiAggregators": [],
   "ownership": [],
   "stateOwned": false,
