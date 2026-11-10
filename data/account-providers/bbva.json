@@ -87,6 +87,132 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "Business Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Companies run SEPA, immediate, international and urgent transfers from their ERP or treasury system and track status in real time.",
+      "documentationUrl": "https://www.bbvaapimarket.com/en/banking-apis/es-business-payments-online-payment-management/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Reconciliation",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time queries of a company's own BBVA balances and movements for automated reconciliation in the ERP.",
+      "documentationUrl": "https://www.bbvaapimarket.com/en/banking-apis/es-bank-reconciliation/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Notifications",
+      "type": "other",
+      "categories": [
+        "accounts",
+        "payments"
+      ],
+      "description": "Webhook subscriptions for account and transaction events, such as transfers received or status changes.",
+      "documentationUrl": "https://www.bbvaapimarket.com/en/banking-apis/es-notifications-real-time-notifications/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Validations",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time account ownership check against the holder's ID or tax number, covering BBVA and other Spanish banks.",
+      "documentationUrl": "https://www.bbvaapimarket.com/en/banking-apis/es-validations-bank-account-ownership-verification/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "FX",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Request-for-quote, execution and confirmation of FX spot and forward trades in 30+ currencies from the company's own systems.",
+      "documentationUrl": "https://www.bbvaapimarket.com/en/banking-apis/es-fx-api-currency-trading/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Confirming Remittances",
+      "type": "invoiceFinancing",
+      "categories": [
+        "payments",
+        "loans"
+      ],
+      "description": "Sends confirming (reverse factoring) remittances of up to 100 invoices with immediate processing confirmation.",
+      "documentationUrl": "https://www.bbvaapimarket.com/en/banking-apis/es-confirming-remittances/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Click&Pay",
+      "type": "other",
+      "categories": [
+        "loans"
+      ],
+      "description": "Lets platforms offer SME clients one-click drawdowns on their BBVA Click&Pay credit limit.",
+      "documentationUrl": "https://www.bbvaapimarket.com/en/banking-apis/es-click-pay-smes-financing/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Customers",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "BBVA customers share verified identity data, including their digitised ID document, with a third-party platform in one click.",
+      "documentationUrl": "https://www.bbvaapimarket.com/en/banking-apis/es-customer-information/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "retail"
+      ]
     }
   ],
   "apiStandards": [],

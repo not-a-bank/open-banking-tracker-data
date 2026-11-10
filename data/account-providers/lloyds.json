@@ -157,6 +157,86 @@
       "apiReferenceUrl": "https://developer.lloydsbanking.com/node/596#post-payment-submissions-1.0.1",
       "premium": false,
       "stage": "sandbox"
+    },
+    {
+      "label": "PayTo",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Make Faster Payments 24/7 straight from a business's own systems, with real-time confirmation and notifications.",
+      "documentationUrl": "https://www.lloydsbank.com/business/payments/embedded-payments.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "PayMe",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Pay individuals or businesses whose account details you don't hold by emailing a secure link, with Confirmation of Payee checks before payment.",
+      "documentationUrl": "https://www.lloydsbank.com/business/payments/embedded-payments.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Pay By Bank",
+      "type": "paymentRequest",
+      "categories": [
+        "payments"
+      ],
+      "description": "Collect customer payments by Faster Payments on a business's website, priced per transaction.",
+      "documentationUrl": "https://www.lloydsbank.com/business/payments/embedded-payments.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Confirmation of Payee",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Check that a client's or supplier's account name matches their bank details, from within the business's own systems.",
+      "documentationUrl": "https://www.lloydsbank.com/business/payments/embedded-payments.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Event Driven Notifications",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Push notifications of credits and debits on a business's Lloyds accounts.",
+      "documentationUrl": "https://www.lloydsbank.com/business/payments/embedded-payments.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],

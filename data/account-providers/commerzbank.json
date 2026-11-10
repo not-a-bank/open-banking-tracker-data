@@ -94,6 +94,53 @@
       "premium": false,
       "stage": "live",
       "apiSpecs": []
+    },
+    {
+      "label": "Corporate Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments",
+        "accounts"
+      ],
+      "description": "Corporate and SME customers send payments and fetch account information (ISO 20022 camt/pain) from their own cash management system; multibank-capable.",
+      "documentationUrl": "https://www.commerzbank.com/account-cashmanagement/products/api-portal/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "SEPA Instant Payment Notification",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Push notification within seconds for each incoming SEPA Instant Credit Transfer.",
+      "documentationUrl": "https://www.commerzbank.com/account-cashmanagement/products/api-portal/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "SWIFT GPI Tracker API",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Tracks international payments through the correspondent bank chain, including status and fees deducted.",
+      "documentationUrl": "https://www.commerzbank.com/account-cashmanagement/products/api-portal/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [

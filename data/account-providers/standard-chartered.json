@@ -37,7 +37,7 @@
     "status": "available",
     "sourceUrl": null
   },
-  "developerPortalUrl": "https://axess.sc.com/",
+  "developerPortalUrl": "https://openbanking.sc.com/developers",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -53,10 +53,13 @@
         "accounts"
       ],
       "description": "Provides account information, balances and  information about transactions.",
-      "documentationUrl": null,
-      "apiReferenceUrl": "https://axess.sc.com/apis/account-data/returns-list-of-transactions-for-specific-account",
-      "premium": false,
-      "stage": "live"
+      "documentationUrl": "https://www.sc.com/en/corporate-investment-banking/transaction-banking/open-banking-marketplace/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     },
     {
       "label": "Move Money",
@@ -65,10 +68,13 @@
       "categories": [
         "payments"
       ],
-      "documentationUrl": null,
-      "apiReferenceUrl": "https://axess.sc.com/apis/paynow/payment-status-check",
-      "premium": false,
-      "stage": "live"
+      "documentationUrl": "https://www.sc.com/en/corporate-investment-banking/transaction-banking/open-banking-marketplace/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     },
     {
       "label": "ATM Locator",
@@ -105,6 +111,96 @@
       "apiReferenceUrl": "https://axess.sc.com/apis/products/list-of-products",
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "Guaranteed FX",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Price products in multiple currencies at guaranteed FX rates to limit currency risk.",
+      "documentationUrl": "https://www.sc.com/en/corporate-investment-banking/transaction-banking/open-banking-marketplace/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Virtual Accounts",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Create and manage single or multi-currency virtual accounts, with transaction notifications for automated collections reconciliation.",
+      "documentationUrl": "https://www.sc.com/en/corporate-investment-banking/transaction-banking/cash-management/virtual-accounts/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Beneficiary Validation",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Validate beneficiary account details and names before paying, to reduce failed payments and fraud.",
+      "documentationUrl": "https://www.sc.com/en/corporate-investment-banking/transaction-banking/open-banking-marketplace/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Bank Guarantee Application",
+      "type": "other",
+      "categories": [
+        "loans"
+      ],
+      "description": "Digitally apply for, issue and manage bank guarantees, in line with ICC-Swift API standards.",
+      "documentationUrl": "https://www.sc.com/en/corporate-investment-banking/transaction-banking/open-banking-marketplace/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "E-wallet Management",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Instant e-wallet top-ups and withdrawals for a platform's users, from Standard Chartered accounts.",
+      "documentationUrl": "https://www.sc.com/en/corporate-investment-banking/transaction-banking/open-banking-marketplace/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Digital Asset Custody",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Bank-grade APIs that put digital asset custody alongside fiat cash operations.",
+      "documentationUrl": "https://www.sc.com/en/corporate-investment-banking/transaction-banking/open-banking-marketplace/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
     }
   ],
   "apiStandards": [],

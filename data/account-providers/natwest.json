@@ -83,6 +83,100 @@
       "apiReferenceUrl": "https://www.bankofapis.com/products/accounts/documentation/nwb",
       "premium": false,
       "stage": "live"
+    },
+    {
+      "label": "Bankline Direct Commercial Payments & Reconciliation",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments",
+        "accounts"
+      ],
+      "description": "Faster Payments, CHAPS and international payments in ISO 20022 JSON, with real-time status notifications and balance and transaction reporting, for corporate clients.",
+      "documentationUrl": "https://www.natwest.com/corporates/everyday-banking/bankline-direct/bankline-direct-apis/corporates.html",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Confirmation of Payee (Corporate Direct Access)",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send Confirmation of Payee name checks from internal systems before making payments.",
+      "documentationUrl": "https://www.bankofapis.com/products/confirmation-of-payee/payee-confirmation",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Payit Collecting Payments",
+      "type": "paymentRequest",
+      "categories": [
+        "payments"
+      ],
+      "description": "Collect cardless bank payments online or by payment request link or QR code, with a companion API for payouts without account details.",
+      "documentationUrl": "https://www.bankofapis.com/solutions/payments",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Payit Variable Recurring Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Collect fixed or variable recurring payments from customers' bank accounts within limits they agree, as an alternative to direct debit or card on file.",
+      "documentationUrl": "https://www.bankofapis.com/products/api/payit-vrp-api/",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "FX APIs",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Access NatWest Markets' FX tools, including executable streaming prices, request for quote, algos, resting orders, options and post-trade.",
+      "documentationUrl": "https://www.bankofapis.com/solutions/foreign-exchange",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Enriched Transactions",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Transaction categorisation with three-level categories, spending types and a carbon score, also offered as a categorisation service.",
+      "documentationUrl": "https://www.bankofapis.com/solutions/enriched-transactions",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
     }
   ],
   "apiStandards": [],

@@ -96,8 +96,8 @@
       ],
       "description": "The API allows merchants to pay real time transfers directly to consumers’ bank accounts.",
       "documentationUrl": "https://op-developer.fi/docs/#Banking",
-      "apiReferenceUrl": "https://maksu.pivo.fi/docs/",
-      "premium": false,
+      "apiReferenceUrl": null,
+      "premium": true,
       "stage": "sandbox"
     },
     {
@@ -120,7 +120,7 @@
       ],
       "description": "Finland’s largest mobile wallet payment solution is designed to make paying online easy and fast. The API supports online, in-app and Facebook messenger.",
       "documentationUrl": "https://op-developer.fi/docs/#Banking",
-      "apiReferenceUrl": "https://maksu.pivo.fi/docs/",
+      "apiReferenceUrl": null,
       "premium": false,
       "stage": "sandbox"
     },
@@ -147,6 +147,133 @@
       "apiReferenceUrl": "https://op-developer.fi/docs/api/6mU2J4ZntSISWMiOmueYKG/Accounts-2.0",
       "premium": false,
       "stage": "deprecated"
+    },
+    {
+      "label": "OP Corporate Account Data API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time account list, balances and transactions for OP corporate accounts, delivered machine-to-machine into business systems.",
+      "documentationUrl": "https://op-developer.fi/products/banking",
+      "apiReferenceUrl": "https://op-developer.fi/products/banking/docs/op-corporate-account-data-api",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "OP Corporate Payment API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "SEPA (instant-first, with Verification of Payee) and cross-border payments from OP corporate accounts, initiated directly from business applications.",
+      "documentationUrl": "https://op-developer.fi/products/banking",
+      "apiReferenceUrl": "https://op-developer.fi/products/banking/docs/op-corporate-payment-api",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "OP Corporate Account Verification API",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Verifies that a business partner's account can receive funds and, where supported, matches the payee name before payment.",
+      "documentationUrl": "https://op-developer.fi/products/banking",
+      "apiReferenceUrl": "https://op-developer.fi/products/banking/docs/op-corporate-account-verification-api",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "OP Corporate International Payment Tracking API",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Real-time tracking of outgoing Swift gpi international payments sent via any OP channel, with failure alerts.",
+      "documentationUrl": "https://op-developer.fi/products/banking/op-corporate-international-payment-tracking-api",
+      "apiReferenceUrl": "https://op-developer.fi/products/banking/docs/op-corporate-international-payment-tracking-api",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "OP Corporate Refund API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Full or partial refunds of received SEPA credit transfers, identified by archive ID.",
+      "documentationUrl": "https://op-developer.fi/products/banking",
+      "apiReferenceUrl": "https://op-developer.fi/products/banking/docs/op-corporate-refund-api",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "OP Corporate Transaction Filter API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Debit or credit transactions for one corporate account matching given search parameters.",
+      "documentationUrl": "https://op-developer.fi/products/banking",
+      "apiReferenceUrl": "https://op-developer.fi/products/banking/docs/op-corporate-transaction-filter-api",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "OP Corporate Transaction Info API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Payer name and address for credit transactions from OP accounts, to support reconciliation.",
+      "documentationUrl": "https://op-developer.fi/products/banking",
+      "apiReferenceUrl": "https://op-developer.fi/products/banking/docs/op-corporate-transaction-info-api",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "OP Online Payment",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "E-commerce account-to-account payments from any Finnish bank, credited to the merchant's OP account, with refunds and status callbacks.",
+      "documentationUrl": "https://op-developer.fi/products/banking/op-online-payment",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
     }
   ],
   "apiStandards": [],

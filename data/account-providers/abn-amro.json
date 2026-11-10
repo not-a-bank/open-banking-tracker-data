@@ -86,9 +86,9 @@
       "categories": [
         "fx"
       ],
-      "documentationUrl": "https://developer.abnamro.com/content/fx-trade",
-      "apiReferenceUrl": "https://developer.abnamro.com/api/fxtrade-v1/fx-trade-api-documentation",
-      "premium": false,
+      "documentationUrl": "https://developer.abnamro.com/api-products/fx-trade",
+      "apiReferenceUrl": "https://developer.abnamro.com/api-products/fx-trade/reference-documentation",
+      "premium": true,
       "stage": "privateBeta"
     },
     {
@@ -98,8 +98,8 @@
       "categories": [
         "payments"
       ],
-      "documentationUrl": "https://developer.abnamro.com/content/tikkie-payment-request",
-      "apiReferenceUrl": "https://developer.abnamro.com/api/tikkie-v1/tikkie-api-documentation",
+      "documentationUrl": "https://developer.abnamro.com/api-products/tikkie",
+      "apiReferenceUrl": "https://developer.abnamro.com/api-products/tikkie/reference-documentation",
       "premium": true,
       "stage": "live"
     },
@@ -110,10 +110,10 @@
       "categories": [
         "payments"
       ],
-      "documentationUrl": "https://developer.abnamro.com/content/tikkie-fast-checkout",
-      "apiReferenceUrl": "https://developer.abnamro.com/api/tikkie-fastcheckout-v1/tikkie-fast-checkout-documentation",
+      "documentationUrl": null,
+      "apiReferenceUrl": null,
       "premium": true,
-      "stage": "live"
+      "stage": "deprecated"
     },
     {
       "label": "Notification Kit",
@@ -126,6 +126,131 @@
       "apiReferenceUrl": null,
       "premium": false,
       "stage": "prototype"
+    },
+    {
+      "label": "Business Account Insight",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Real-time balances, account details and up to 18 months of transactions for Dutch ABN AMRO business accounts, for direct clients or third parties.",
+      "documentationUrl": "https://developer.abnamro.com/api-products/business-account-insight/tutorial",
+      "apiReferenceUrl": "https://developer.abnamro.com/api-products/business-account-insight-v159/reference-documentation",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Business Account Insight - Batch Transaction Details",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Individual transaction details inside executed SEPA credit transfer and direct debit batches, for reconciliation.",
+      "documentationUrl": "https://developer.abnamro.com/api-products/business-account-insight-batch-transaction-details",
+      "apiReferenceUrl": "https://developer.abnamro.com/api-products/business-account-insight-batch-transaction-details-v103/reference-documentation",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Business Account Notification",
+      "type": "other",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Webhook push of each transaction and balance change on ABN AMRO business accounts in real time.",
+      "documentationUrl": "https://developer.abnamro.com/api-products/business-account-notification",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "privateBeta",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Business Account Payment",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Upload ISO 20022 SEPA credit transfers, direct debits and cross-border payments from ERP or TMS, then authorise them in online banking.",
+      "documentationUrl": "https://developer.abnamro.com/api-products/business-account-payment/overview",
+      "apiReferenceUrl": "https://developer.abnamro.com/api-products/business-account-payment-v1210/reference-documentation",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business",
+        "corporate"
+      ]
+    },
+    {
+      "label": "Business Account Payment - Instant",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Pre-authorised (JWS-signed) payments from corporate accounts, executed without separate approval in online banking.",
+      "documentationUrl": "https://developer.abnamro.com/api-products/business-account-payment-instant",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "privateBeta",
+      "customerTypes": [
+        "corporate"
+      ]
+    },
+    {
+      "label": "Wero Merchant Payment",
+      "type": "paymentRequest",
+      "categories": [
+        "payments"
+      ],
+      "description": "Merchants and payment facilitators create Wero e-commerce payments and retrieve their status, under a Wero Direct merchant or facilitator contract.",
+      "documentationUrl": "https://developer.abnamro.com/api-products/wero-merchant-payment/tutorial",
+      "apiReferenceUrl": "https://developer.abnamro.com/api-products/wero-merchant-payment/reference-documentation",
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Tikkie Cashback",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Tikkie business customers create cashback tokens, shared as QR code or link, that customers redeem in the Tikkie app.",
+      "documentationUrl": "https://developer.abnamro.com/api-products/tikkie-cashback",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "live",
+      "customerTypes": [
+        "business"
+      ]
+    },
+    {
+      "label": "Pay By Invoice",
+      "type": "invoiceFinancing",
+      "categories": [
+        "payments",
+        "loans"
+      ],
+      "description": "B2B webshops offer buyers pay-by-invoice at checkout while ABN AMRO pays out in full, takes the debtor risk and collects payment; per-transaction fee, early access pilot.",
+      "documentationUrl": "https://developer.abnamro.com/api-products/pay-invoice/overview",
+      "apiReferenceUrl": null,
+      "premium": true,
+      "stage": "privateBeta",
+      "customerTypes": [
+        "business"
+      ]
     }
   ],
   "apiStandards": [],
