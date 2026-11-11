@@ -10,8 +10,8 @@
   "legalName": "BRED BANQUE POPULAIRE",
   "verified": false,
   "status": "live",
-  "icon": "https://icons.duckduckgo.com/ip3/www.banquepopulaire.fr.ico",
-  "websiteUrl": "https://www.banquepopulaire.fr/",
+  "icon": "https://icons.duckduckgo.com/ip3/www.bred.fr.ico",
+  "websiteUrl": "https://www.bred.fr/",
   "countryHQ": "FR",
   "countries": [
     "FR"
@@ -23,6 +23,7 @@
   "apiStandards": [],
   "apiProducts": [],
   "apiAggregators": [
+    "anessa",
     "gocardless",
     "lunchflow",
     "synci",

@@ -4,12 +4,12 @@
     "other"
   ],
   "bankType": [],
-  "name": "LEGAL AND GENERAL ASSURANCE SOCIETY LIMITED",
-  "legalName": "LEGAL AND GENERAL ASSURANCE SOCIETY LIMITED",
+  "name": "Legal & General",
+  "legalName": "Legal and General Assurance Society Limited",
   "verified": false,
   "status": "live",
-  "icon": null,
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.legalandgeneral.com.ico",
+  "websiteUrl": "https://www.legalandgeneral.com/",
   "countryHQ": "GB",
   "countries": [
     "GB"
@@ -20,7 +20,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "anessa"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
