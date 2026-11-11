@@ -4,12 +4,12 @@
     "investment"
   ],
   "bankType": [],
-  "name": "HARGREAVES LANSDOWN ASSET MANAGEMENT LIMITED",
-  "legalName": "HARGREAVES LANSDOWN ASSET MANAGEMENT LIMITED",
+  "name": "Hargreaves Lansdown",
+  "legalName": "Hargreaves Lansdown Asset Management Limited",
   "verified": false,
   "status": "live",
-  "icon": null,
-  "websiteUrl": null,
+  "icon": "https://icons.duckduckgo.com/ip3/www.hl.co.uk.ico",
+  "websiteUrl": "https://www.hl.co.uk/",
   "countryHQ": "GB",
   "countries": [
     "GB"
@@ -20,7 +20,9 @@
   "developerPortalUrl": null,
   "apiStandards": [],
   "apiProducts": [],
-  "apiAggregators": [],
+  "apiAggregators": [
+    "anessa"
+  ],
   "ownership": [],
   "stateOwned": false,
   "stockSymbol": null,
