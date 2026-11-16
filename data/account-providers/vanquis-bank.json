@@ -101,6 +101,7 @@
     }
   ],
   "apiAggregators": [
+    "banksync",
     "finexer",
     "gocardless",
     "lunchflow",

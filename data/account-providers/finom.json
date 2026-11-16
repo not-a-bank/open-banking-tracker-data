@@ -37,6 +37,7 @@
   "stockSymbol": "",
   "apiAggregators": [
     "banksapi",
+    "banksync",
     "plaid",
     "salt-edge",
     "tink",

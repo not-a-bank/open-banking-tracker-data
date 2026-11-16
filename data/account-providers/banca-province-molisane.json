@@ -32,7 +32,8 @@
   "stockSymbol": "",
   "apiAggregators": [
     "salt-edge",
-    "plaid"
+    "plaid",
+    "banksync"
   ],
   "legalName": "Banca Popolare delle Province Molisane",
   "bic": "PPMSIT31XXX"

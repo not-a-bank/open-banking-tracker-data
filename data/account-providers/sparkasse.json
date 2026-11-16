@@ -65,6 +65,7 @@
     }
   ],
   "apiAggregators": [
+    "banksync",
     "gocardless",
     "lunchflow",
     "plaid",
