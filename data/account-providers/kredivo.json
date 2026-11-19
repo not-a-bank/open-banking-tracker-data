@@ -7,8 +7,8 @@
     "challenger"
   ],
   "name": "Kredivo",
-  "description": "Indonesian digital credit and buy-now-pay-later platform from Kredivo Group (FinAccel), which has expanded from lending into banking.",
-  "legalName": "FinAccel Pte. Ltd.",
+  "description": "Indonesian buy-now-pay-later and digital credit app operated by OJK-licensed multifinance company PT Kredivo Finance Indonesia, part of Kredivo Group (FinAccel). Offers instant credit lines for online and offline purchases and personal loans.",
+  "legalName": "PT Kredivo Finance Indonesia",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -19,15 +19,20 @@
   "status": "live",
   "icon": "https://www.google.com/s2/favicons?domain=kredivo.com&sz=128",
   "websiteUrl": "https://kredivo.com/",
-  "ownership": [],
+  "ownership": [
+    {
+      "shareholderName": "FinAccel Pte. Ltd. (Kredivo Group)",
+      "shareholderIconUrl": null,
+      "providerId": null
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "ID",
   "countries": [
-    "ID",
-    "VN"
+    "ID"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://doc.kredivo.com/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -35,7 +40,20 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Kredivo Checkout API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Merchant checkout for Kredivo PayLater: online and tokenized checkout, account linking, and in-store QR, barcode and EDC checkout.",
+      "documentationUrl": "https://doc.kredivo.com/",
+      "apiReferenceUrl": "https://doc.kredivo.com/",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [],
@@ -43,14 +61,16 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/id/app/kredivo-paylater-loans/id1255413338"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.finaccel.android"
     }
   ],
   "financialReports": [],
-  "twitter": null,
+  "twitter": "kredivo",
   "wikipediaUrl": null,
   "bloomberg": null,
   "alumni": [],
@@ -73,5 +93,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "crunchbase": "kredivo"
 }

@@ -5,7 +5,7 @@
   ],
   "bankType": [],
   "name": "Flutterwave",
-  "description": "African payments company. Its Send App lets eligible users send money to Africa and hold and send stablecoins.",
+  "description": "San Francisco- and Lagos-based payments infrastructure company serving merchants across Africa. Its consumer Send App sends money from the US, UK, EU and several African countries to recipients in Africa, and lets eligible users hold and send stablecoins. Owns the Nigerian open-banking API provider Mono.",
   "legalName": "Flutterwave, Inc.",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -20,15 +20,38 @@
   "stateOwned": false,
   "countryHQ": "US",
   "countries": [
+    "US",
+    "GB",
     "NG",
     "GH",
     "KE",
     "ZA",
-    "US",
-    "GB"
+    "CM",
+    "SN",
+    "CI",
+    "ET",
+    "AT",
+    "BE",
+    "CY",
+    "EE",
+    "FI",
+    "FR",
+    "DE",
+    "GR",
+    "IE",
+    "IT",
+    "NL",
+    "PT",
+    "SK",
+    "SI",
+    "LU",
+    "LV",
+    "LT",
+    "MT",
+    "ES"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.flutterwave.com/docs",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -36,23 +59,82 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Collections API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Accept payments via cards, bank transfer, mobile money, USSD, ACH and other local methods.",
+      "documentationUrl": "https://developer.flutterwave.com/docs/collections-inflow/payment-methods",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payouts / Transfers API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send payouts to bank accounts and mobile money wallets, including bulk transfers.",
+      "documentationUrl": "https://developer.flutterwave.com/docs/payout-outflow/introduction",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Plans API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Recurring and subscription billing.",
+      "documentationUrl": "https://developer.flutterwave.com/docs/recurring-payments/payment-plans",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "KYC & Verification API",
+      "type": "paymentServiceUserIdentity",
+      "categories": [
+        "accounts"
+      ],
+      "description": "BVN, bank account and card BIN verification.",
+      "documentationUrl": "https://developer.flutterwave.com/docs/kyc",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/send-app-prev-send/id1629097184"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.flutterwave.send.prod"
+    },
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/flutterwave/id1534897339"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.flutterwave.app"
     }
   ],
   "financialReports": [],
-  "twitter": null,
-  "wikipediaUrl": null,
+  "twitter": "theflutterwave",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Flutterwave",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
@@ -74,5 +156,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "crunchbase": "flutterwave"
 }

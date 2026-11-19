@@ -7,7 +7,7 @@
     "challenger"
   ],
   "name": "bKash",
-  "description": "Bangladesh's largest mobile financial service, a subsidiary of BRAC Bank. Receives stablecoin-funded international transfers paid out in taka.",
+  "description": "Bangladesh's largest mobile financial service, regulated by Bangladesh Bank and 51% owned by BRAC Bank, with cash-in/out, transfers and payments. Receives stablecoin-funded international transfers paid out in taka.",
   "legalName": "bKash Limited",
   "ipoStatus": "subsidiary",
   "stockSymbol": null,
@@ -15,14 +15,20 @@
   "status": "live",
   "icon": "https://www.google.com/s2/favicons?domain=www.bkash.com&sz=128",
   "websiteUrl": "https://www.bkash.com/",
-  "ownership": [],
+  "ownership": [
+    {
+      "shareholderName": "BRAC Bank PLC",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/www.bracbank.com.ico",
+      "providerId": "brac-bank-plc"
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "BD",
   "countries": [
     "BD"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://developer.bka.sh/",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -30,7 +36,56 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Tokenized Checkout",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Online payment gateway with saved-payer agreements.",
+      "documentationUrl": "https://developer.bka.sh/docs/tokenized-with-agreement",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Auth and Capture",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Pre-authorize and later capture or void a payment.",
+      "documentationUrl": "https://developer.bka.sh/docs/tokenized-auth-capture",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "B2C Payout",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Instant disbursement to bKash customer accounts.",
+      "documentationUrl": "https://developer.bka.sh/docs/b2c-payout",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Refund API",
+      "type": "other",
+      "categories": [
+        "payments"
+      ],
+      "description": "Refund completed payments.",
+      "documentationUrl": "https://developer.bka.sh/docs/refund-transaction",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [],
@@ -38,15 +93,17 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/bkash/id1351183172"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bKash.customerapp"
     }
   ],
   "financialReports": [],
   "twitter": null,
-  "wikipediaUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/BKash",
   "bloomberg": null,
   "alumni": [],
   "stack": [],

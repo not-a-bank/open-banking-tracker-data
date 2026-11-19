@@ -5,7 +5,7 @@
   ],
   "bankType": [],
   "name": "Phantom",
-  "description": "Self-custodial crypto wallet for Solana, Ethereum and other chains. Its Visa card draws on a dollar stablecoin balance on Solana, converted to dollars at checkout so the merchant receives a regular card payment.",
+  "description": "San Francisco-based self-custodial multichain crypto wallet (Solana, Ethereum, Bitcoin, Base, Polygon and others) for mobile and browser. In the US it offers Phantom Cash, a stablecoin account with a Visa debit card issued by Lead Bank; card purchases are converted to dollars at checkout.",
   "legalName": "Phantom Technologies, Inc.",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -20,7 +20,7 @@
     "US"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://docs.phantom.com",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -28,22 +28,61 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Phantom Connect React SDK",
+      "type": "other",
+      "categories": [
+        "developer"
+      ],
+      "description": "React hooks for wallet connection, embedded wallets and transaction signing.",
+      "documentationUrl": "https://docs.phantom.com/sdks/react-sdk",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Phantom Connect Browser SDK",
+      "type": "other",
+      "categories": [
+        "developer"
+      ],
+      "description": "Framework-agnostic JavaScript SDK for wallet integration in web apps.",
+      "documentationUrl": "https://docs.phantom.com/sdks/browser-sdk",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Phantom Connect React Native SDK",
+      "type": "other",
+      "categories": [
+        "developer"
+      ],
+      "description": "SDK for wallet integration in iOS and Android React Native apps.",
+      "documentationUrl": "https://docs.phantom.com/sdks/react-native-sdk",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [],
   "collections": [],
-  "webApplication": false,
+  "webApplication": true,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/phantom-trading-wallet/id1598432977"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=app.phantom"
     }
   ],
   "financialReports": [],
-  "twitter": null,
+  "twitter": "phantom",
   "wikipediaUrl": null,
   "bloomberg": null,
   "alumni": [],
@@ -58,13 +97,24 @@
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
-  "applePay": false,
-  "googlePay": false,
+  "applePay": true,
+  "googlePay": true,
   "samsungPay": false,
   "fitbitPay": false,
   "partnerships": [],
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "crunchbase": "phantom-3171",
+  "mcpServer": {
+    "documentationUrl": "https://docs.phantom.com/phantom-mcp-server",
+    "accessLevel": "read-write",
+    "capabilities": [
+      "wallet",
+      "transfers",
+      "swaps",
+      "transaction-signing"
+    ]
+  }
 }

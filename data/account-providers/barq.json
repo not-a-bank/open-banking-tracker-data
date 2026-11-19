@@ -7,7 +7,7 @@
     "challenger"
   ],
   "name": "barq",
-  "description": "Saudi digital wallet licensed by the Saudi Central Bank, with a current account, mada and Visa cards, international transfers, and children's accounts for ages 6-17 that parents manage.",
+  "description": "Riyadh-based digital wallet operated by Barraq Finance Company, licensed by SAMA as an e-wallet provider in January 2024. Offers a wallet account, mada and Visa cards, local and international transfers, and children's accounts for ages 6-17 managed by parents.",
   "legalName": "Barraq Finance Company",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -41,10 +41,12 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/sa/app/barq/id6463204586"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=sa.com.barraq"
     }
   ],
   "financialReports": [],
@@ -63,7 +65,7 @@
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
-  "applePay": false,
+  "applePay": true,
   "googlePay": false,
   "samsungPay": false,
   "fitbitPay": false,
@@ -71,5 +73,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "crunchbase": "barq-d6bc"
 }

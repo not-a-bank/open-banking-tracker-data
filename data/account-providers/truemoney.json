@@ -7,9 +7,9 @@
     "challenger"
   ],
   "name": "TrueMoney",
-  "description": "Southeast Asian e-wallet from Ascend Money (Charoen Pokphand Group), best known for the TrueMoney Wallet in Thailand. It has run a capped baht-token pilot.",
-  "legalName": "Ascend Money",
-  "ipoStatus": "private",
+  "description": "Thai e-wallet run by Ascend Money (CP Group), covering QR and tap-to-pay payments, transfers, online payments, buy-now-pay-later and investments. It has run a capped baht-token pilot.",
+  "legalName": "True Money Co., Ltd.",
+  "ipoStatus": "subsidiary",
   "stockSymbol": null,
   "verified": false,
   "aliases": [
@@ -18,16 +18,17 @@
   "status": "live",
   "icon": "https://www.google.com/s2/favicons?domain=www.truemoney.com&sz=128",
   "websiteUrl": "https://www.truemoney.com/",
-  "ownership": [],
+  "ownership": [
+    {
+      "shareholderName": "Ascend Money (Charoen Pokphand Group)",
+      "shareholderIconUrl": null,
+      "providerId": null
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "TH",
   "countries": [
-    "TH",
-    "VN",
-    "KH",
-    "MM",
-    "PH",
-    "ID"
+    "TH"
   ],
   "compliance": [],
   "developerPortalUrl": null,
@@ -46,15 +47,17 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/th/app/truemoney-pay-earn-coins/id663885752"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=th.co.truemoney.wallet"
     }
   ],
   "financialReports": [],
   "twitter": null,
-  "wikipediaUrl": null,
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/TrueMoney",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
@@ -76,5 +79,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "crunchbase": "ascend-money"
 }

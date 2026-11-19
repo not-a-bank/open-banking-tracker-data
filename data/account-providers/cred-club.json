@@ -7,7 +7,7 @@
     "challenger"
   ],
   "name": "CRED",
-  "description": "Indian members-only app that rewards users for paying their credit card bills, with UPI payments, credit and other financial products. Not to be confused with cred.ai (US).",
+  "description": "Bengaluru-based fintech app founded by Kunal Shah in 2018. Members earn rewards for paying credit card bills; the app also offers UPI payments, lending, insurance and wealth products. Not to be confused with cred.ai (US).",
   "legalName": "Dreamplug Technologies Private Limited",
   "ipoStatus": "private",
   "stockSymbol": null,
@@ -41,15 +41,17 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/in/app/cred-credit-cards-bills-upi/id1428580080"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.dreamplug.androidapp"
     }
   ],
   "financialReports": [],
-  "twitter": null,
-  "wikipediaUrl": null,
+  "twitter": "CRED_club",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Cred_(company)",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
@@ -71,5 +73,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "crunchbase": "cred-6ab0"
 }

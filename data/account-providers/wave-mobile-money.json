@@ -7,8 +7,8 @@
     "challenger"
   ],
   "name": "Wave",
-  "description": "Mobile money service in West Africa with low-fee transfers and a network of agents for cash deposits and withdrawals.",
-  "legalName": "Wave Mobile Money",
+  "description": "App-based mobile money service launched in Senegal, with free deposits and withdrawals through agents, 1% transfers, bill payments and merchant payments across West and Central Africa and Uganda.",
+  "legalName": "Wave Mobile Money SA",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -26,11 +26,14 @@
     "CI",
     "ML",
     "BF",
+    "NE",
+    "GM",
     "UG",
-    "GM"
+    "SL",
+    "CM"
   ],
   "compliance": [],
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://docs.wave.com/business",
   "developerCommunityUrl": null,
   "openBankProjectUrl": null,
   "slackCommunity": false,
@@ -38,7 +41,44 @@
   "apiPerformanceReports": [],
   "apiServerEndpoints": [],
   "apiSpecs": [],
-  "apiProducts": [],
+  "apiProducts": [
+    {
+      "label": "Checkout API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Create checkout sessions that send a customer to the Wave app to pay a business wallet, including refunds.",
+      "documentationUrl": "https://docs.wave.com/checkout",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payout API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send single or batch payouts from a business wallet to mobile numbers, including reversals.",
+      "documentationUrl": "https://docs.wave.com/payout/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Balance API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve a business wallet's balance and transaction list for reconciliation.",
+      "documentationUrl": "https://docs.wave.com/balance-api",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
   "apiStandards": [],
   "apiStatusUrls": [],
   "apiAggregators": [],
@@ -46,10 +86,12 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/sn/app/wave-mobile-money/id1523884528"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.wave.personal"
     }
   ],
   "financialReports": [],
@@ -76,5 +118,6 @@
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "crunchbase": "wave-mobile-money"
 }

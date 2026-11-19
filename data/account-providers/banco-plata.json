@@ -7,8 +7,8 @@
     "challenger"
   ],
   "name": "Banco Plata",
-  "description": "Mexican digital bank that started with a credit card and expanded from lending into banking.",
-  "legalName": null,
+  "description": "Mexico City digital bank that grew out of the Plata Card credit card fintech. It received CNBV bank authorization in December 2024 and began operating as a bank in March 2026.",
+  "legalName": "Banco Plata, S.A., Institución de Banca Múltiple",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
@@ -18,7 +18,13 @@
   "status": "live",
   "icon": "https://www.google.com/s2/favicons?domain=bancoplata.mx&sz=128",
   "websiteUrl": "https://bancoplata.mx/",
-  "ownership": [],
+  "ownership": [
+    {
+      "shareholderName": "Different Technologies, LLC",
+      "shareholderIconUrl": null,
+      "providerId": null
+    }
+  ],
   "stateOwned": false,
   "countryHQ": "MX",
   "countries": [
@@ -41,14 +47,16 @@
   "webApplication": false,
   "mobileApps": [
     {
-      "operatingSystem": "ios"
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/mx/app/plata/id6443932656"
     },
     {
-      "operatingSystem": "android"
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=dif.tech.plata"
     }
   ],
   "financialReports": [],
-  "twitter": null,
+  "twitter": "bancoplatamx",
   "wikipediaUrl": null,
   "bloomberg": null,
   "alumni": [],
@@ -63,13 +71,14 @@
   "debitCards": [],
   "creditCards": [],
   "virtualCards": [],
-  "applePay": false,
-  "googlePay": false,
+  "applePay": true,
+  "googlePay": true,
   "samsungPay": false,
   "fitbitPay": false,
   "partnerships": [],
   "rewardPartners": [],
   "integrations": [],
   "platforms": [],
-  "awards": []
+  "awards": [],
+  "crunchbase": "banco-plata"
 }
