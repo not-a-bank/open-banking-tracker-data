@@ -1,0 +1,19 @@
+data/api-aggregators/mono-co.json
+  s_9295af092e11dd::t_bb7076564da9e2 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1c2add433811aed901d95d720b6f152796b759a4",
+  "prompts": {},
+  "sessions": {
+    "s_9295af092e11dd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5f2db785-1be6-4ceb-aac7-ba7cfd7d3dd1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
