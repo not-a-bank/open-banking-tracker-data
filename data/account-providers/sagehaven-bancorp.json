@@ -1,0 +1,40 @@
+{
+  "id": "sagehaven-bancorp",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "community"
+  ],
+  "name": "Sagehaven Bank",
+  "description": "Proposed de novo community bank in Pittsburgh, Pennsylvania, serving small and mid-market companies and mid- to high-net-worth individuals, with a single branch and nationwide digital banking. Charter application filed with the OCC and FDIC in July 2026; built on the Nymbus core banking platform.",
+  "legalName": "Sagehaven Bancorp",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "upcoming",
+  "icon": null,
+  "websiteUrl": null,
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiAggregators": [],
+  "webApplication": false,
+  "mobileApps": [],
+  "stack": [
+    {
+      "id": "nymbus",
+      "name": "Nymbus",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1621699308/icons/nymbus.jpg",
+      "websiteUrl": "https://www.nymbus.com/"
+    }
+  ],
+  "partnerships": []
+}
