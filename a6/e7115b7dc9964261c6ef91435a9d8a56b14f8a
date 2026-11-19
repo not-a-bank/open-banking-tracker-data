@@ -1,0 +1,35 @@
+data/account-providers/chrome-federal-credit-union.json
+  s_ede96338ddf479::t_3fd2717e27e5e3 31-39
+data/account-providers/cinefi.json
+  s_ede96338ddf479::t_da4a2543db6742 30-38
+data/account-providers/connectone-bank-business.json
+  s_ede96338ddf479::t_becc745d7ac0b3 30-38
+data/account-providers/inspire-federal-credit-union.json
+  s_ede96338ddf479::t_74b649ef3367f6 30-38
+data/account-providers/peoplesbank-cash-management.json
+  s_ede96338ddf479::t_708c64f158b2c5 30-38
+data/account-providers/peoplesbank-personal-business-banking.json
+  s_ede96338ddf479::t_f056806e632cd1 30-38
+data/account-providers/pillur.json
+  s_ede96338ddf479::t_b659d35483f9f1 30-38
+data/account-providers/sagehaven-bancorp.json
+  s_ede96338ddf479::t_988175173bb4b0 1-40
+data/account-providers/transpecosbanks.json
+  s_ede96338ddf479::t_e68f5f0e82d211 52-59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a6e7115b7dc9964261c6ef91435a9d8a56b14f8a",
+  "prompts": {},
+  "sessions": {
+    "s_ede96338ddf479": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "54724b08-7f0a-4c22-a6c6-94e95d1772ce",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
