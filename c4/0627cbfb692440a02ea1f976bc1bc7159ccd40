@@ -1,0 +1,51 @@
+data/account-providers/antfinancial.json
+  s_9295af092e11dd::t_a8c9311ddda8d5 9-11,15-18,21,44,66
+data/account-providers/aven.json
+  s_9295af092e11dd::t_a1ad41e6a29e6f 1-70
+data/account-providers/banco-plata.json
+  s_9295af092e11dd::t_5ccef3931c447a 1-75
+data/account-providers/barq.json
+  s_9295af092e11dd::t_21ab0f327e9d6f 1-75
+data/account-providers/bitget-wallet.json
+  s_9295af092e11dd::t_252cb25b11c306 1-68
+data/account-providers/bkash.json
+  s_9295af092e11dd::t_128b1c4377bea6 1-72
+data/account-providers/clip-mx.json
+  s_9295af092e11dd::t_10e95b4c88333c 1-73
+data/account-providers/cred-club.json
+  s_9295af092e11dd::t_d0ba50ddf094eb 1-75
+data/account-providers/flutterwave.json
+  s_9295af092e11dd::t_d4820f7ec2ae1f 1-78
+data/account-providers/kredivo.json
+  s_9295af092e11dd::t_d04476d49994f8 1-77
+data/account-providers/momo-vn.json
+  s_9295af092e11dd::t_c427785c0100c7 1-76
+data/account-providers/onepay-us.json
+  s_9295af092e11dd::t_3c36a9b4416428 1-76
+data/account-providers/phantom.json
+  s_9295af092e11dd::t_df2b066586be9f 1-70
+data/account-providers/phonepe.json
+  s_9295af092e11dd::t_282ec6bfedad27 1-72
+data/account-providers/tabby.json
+  s_9295af092e11dd::t_fac173157b7365 1-75
+data/account-providers/truemoney.json
+  s_9295af092e11dd::t_625daa35a55d57 1-80
+data/account-providers/wave-mobile-money.json
+  s_9295af092e11dd::t_6b23699b8f025a 1-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c40627cbfb692440a02ea1f976bc1bc7159ccd40",
+  "prompts": {},
+  "sessions": {
+    "s_9295af092e11dd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5f2db785-1be6-4ceb-aac7-ba7cfd7d3dd1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "GJ <info@gertjandewilde.com>"
+    }
+  }
+}
