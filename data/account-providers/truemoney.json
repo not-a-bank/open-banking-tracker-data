@@ -1,0 +1,80 @@
+{
+  "id": "truemoney",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "TrueMoney",
+  "description": "Southeast Asian e-wallet from Ascend Money (Charoen Pokphand Group), best known for the TrueMoney Wallet in Thailand. It has run a capped baht-token pilot.",
+  "legalName": "Ascend Money",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "TrueMoney Wallet"
+  ],
+  "status": "live",
+  "icon": "https://www.google.com/s2/favicons?domain=www.truemoney.com&sz=128",
+  "websiteUrl": "https://www.truemoney.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "TH",
+  "countries": [
+    "TH",
+    "VN",
+    "KH",
+    "MM",
+    "PH",
+    "ID"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios"
+    },
+    {
+      "operatingSystem": "android"
+    }
+  ],
+  "financialReports": [],
+  "twitter": null,
+  "wikipediaUrl": null,
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": []
+}

@@ -6,15 +6,19 @@
   "bankType": [
     "challenger"
   ],
-  "name": "Ant Financial",
-  "description": "Ant Financial Services Group, formerly known as Alipay, is an affiliate company of the Chinese Alibaba Group. Ant Financial is the world's highest-valued FinTech company, and most valuable unicorn company, with a valuation of US$150 billion.",
-  "legalName": null,
+  "name": "Ant Group",
+  "description": "Ant Group, formerly Ant Financial, is the Alibaba-affiliated company behind Alipay, China's largest digital payments app, which brings rides, bills and other everyday services into one app.",
+  "legalName": "Ant Group Co., Ltd.",
   "ipoStatus": "private",
   "stockSymbol": null,
   "verified": false,
+  "aliases": [
+    "Ant Financial",
+    "Alipay"
+  ],
   "status": "live",
   "icon": "https://res.cloudinary.com/apideck/image/upload/v1595272206/radar/icons/antfin.jpg",
-  "websiteUrl": "https://www.antfin.com/",
+  "websiteUrl": "https://www.antgroup.com/",
   "ownership": [],
   "stateOwned": false,
   "countryHQ": "CN",
@@ -37,7 +41,7 @@
   "webApplication": false,
   "mobileApps": [],
   "financialReports": [],
-  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant_Financial",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Ant_Group",
   "bloomberg": null,
   "alumni": [],
   "stack": [],
