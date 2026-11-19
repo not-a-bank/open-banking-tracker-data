@@ -1,0 +1,115 @@
+{
+  "id": "tabby",
+  "type": [
+    "account"
+  ],
+  "bankType": [],
+  "name": "Tabby",
+  "description": "Riyadh-headquartered buy-now-pay-later and payments app founded in 2019, serving Saudi Arabia, the UAE and Kuwait. SAMA-licensed for BNPL and holds a CBUAE Stored Value Facilities licence in the UAE.",
+  "legalName": "Tabby Financing Company CJSC",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "تابي"
+  ],
+  "status": "live",
+  "icon": "https://www.google.com/s2/favicons?domain=tabby.ai&sz=128",
+  "websiteUrl": "https://tabby.ai/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SA",
+  "countries": [
+    "SA",
+    "AE",
+    "KW"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://docs.tabby.ai",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Checkout API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Create checkout sessions that collect customer data and authorize Tabby payments.",
+      "documentationUrl": "https://docs.tabby.ai/api-reference/overview",
+      "apiReferenceUrl": "https://docs.tabby.ai/api-reference/overview",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Retrieve, capture, refund and close Tabby payments.",
+      "documentationUrl": "https://docs.tabby.ai/api-reference/overview",
+      "apiReferenceUrl": "https://docs.tabby.ai/api-reference/overview",
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Disputes API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Handle disputes, with dispute webhooks for merchants.",
+      "documentationUrl": "https://docs.tabby.ai/api-reference/overview",
+      "apiReferenceUrl": "https://docs.tabby.ai/api-reference/overview",
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/sa/app/tabby-send-spend-and-save/id1528022364"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=app.tabby.client"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "paywithtabby",
+  "wikipediaUrl": null,
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "crunchbase": "tabby"
+}

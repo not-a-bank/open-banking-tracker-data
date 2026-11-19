@@ -1,0 +1,90 @@
+{
+  "id": "onepay-us",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "OnePay",
+  "description": "New York-based, Walmart-backed consumer fintech app with checking, savings, debit and credit cards, investing and crypto, through partner banks Coastal Community Bank and Lead Bank. Eligible customers can send USDC from a wallet and receive dollars in checking. Not to be confused with Onepay (UK).",
+  "legalName": "One Finance, Inc.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "One",
+    "OnePay (Walmart)"
+  ],
+  "status": "live",
+  "icon": "https://www.google.com/s2/favicons?domain=www.onepay.com&sz=128",
+  "websiteUrl": "https://www.onepay.com/",
+  "ownership": [
+    {
+      "shareholderName": "Walmart",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/www.walmart.com.ico",
+      "providerId": "walmart-stores-inc"
+    },
+    {
+      "shareholderName": "Ribbit Capital",
+      "shareholderIconUrl": null,
+      "providerId": null
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "US",
+  "countries": [
+    "US"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/onepay-mobile-banking/id1494523953"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.onefinance.one"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "onepay",
+  "wikipediaUrl": null,
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "crunchbase": "onepay-dad7"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "momo-vn",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "MoMo",
+  "description": "Vietnamese e-wallet and financial app run by M_Service, licensed by the State Bank of Vietnam since 2015. Users transfer money, pay bills and QR codes, top up phones, and access savings, credit and insurance; it also supports QR payments abroad.",
+  "legalName": "Online Mobile Services Joint Stock Company (M_Service)",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "M_Service",
+    "MoMo e-wallet"
+  ],
+  "status": "live",
+  "icon": "https://www.google.com/s2/favicons?domain=momo.vn&sz=128",
+  "websiteUrl": "https://momo.vn/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "VN",
+  "countries": [
+    "VN"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://developers.momo.vn/v3/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Payment Gateway (All-in-One)",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "One integration for MoMo wallet, bank-app, card and QR payments on web, mobile, smart TV and POS.",
+      "documentationUrl": "https://developers.momo.vn/v3/docs/payment/guides/payment-with-aio/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "One-Time Payments API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Create, confirm and query one-off MoMo wallet checkouts.",
+      "documentationUrl": "https://developers.momo.vn/v3/docs/payment/api/wallet/onetime/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/vn/app/momo/id918751511"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.mservice.momotransfer"
+    }
+  ],
+  "financialReports": [],
+  "twitter": null,
+  "wikipediaUrl": null,
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "crunchbase": "momo-vn"
+}

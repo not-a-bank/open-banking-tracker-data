@@ -1,0 +1,84 @@
+{
+  "id": "banco-plata",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Banco Plata",
+  "description": "Mexico City digital bank that grew out of the Plata Card credit card fintech. It received CNBV bank authorization in December 2024 and began operating as a bank in March 2026.",
+  "legalName": "Banco Plata, S.A., Institución de Banca Múltiple",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "Plata"
+  ],
+  "status": "live",
+  "icon": "https://www.google.com/s2/favicons?domain=bancoplata.mx&sz=128",
+  "websiteUrl": "https://bancoplata.mx/",
+  "ownership": [
+    {
+      "shareholderName": "Different Technologies, LLC",
+      "shareholderIconUrl": null,
+      "providerId": null
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "MX",
+  "countries": [
+    "MX"
+  ],
+  "compliance": [],
+  "developerPortalUrl": null,
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/mx/app/plata/id6443932656"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=dif.tech.plata"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "bancoplatamx",
+  "wikipediaUrl": null,
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "crunchbase": "banco-plata"
+}

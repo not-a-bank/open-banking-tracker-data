@@ -1,0 +1,142 @@
+{
+  "id": "phonepe",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "PhonePe",
+  "description": "Indian digital payments platform best known for its UPI payments app, also offering bill payments, insurance, investments and lending to consumers, and a payment gateway and in-store payment products to merchants. Controlled by Walmart.",
+  "legalName": "PhonePe Limited",
+  "ipoStatus": "subsidiary",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://www.google.com/s2/favicons?domain=www.phonepe.com&sz=128",
+  "websiteUrl": "https://www.phonepe.com/",
+  "ownership": [
+    {
+      "shareholderName": "Walmart",
+      "shareholderIconUrl": "https://icons.duckduckgo.com/ip3/www.walmart.com.ico",
+      "providerId": "walmart-stores-inc"
+    }
+  ],
+  "stateOwned": false,
+  "countryHQ": "IN",
+  "countries": [
+    "IN"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://developer.phonepe.com/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Payment Gateway (Standard Checkout)",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Accept online payments on websites and apps through a hosted checkout, with backend and mobile SDKs.",
+      "documentationUrl": "https://developer.phonepe.com/payment-gateway",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Autopay / Recurring Payments",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Set up subscriptions and recurring UPI mandates.",
+      "documentationUrl": "https://developer.phonepe.com/payment-gateway/recurring-payments/introduction",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payment Links",
+      "type": "paymentRequest",
+      "categories": [
+        "payments"
+      ],
+      "description": "Create, check, cancel and refund shareable payment links.",
+      "documentationUrl": "https://developer.phonepe.com/payment-gateway/partners-integration/payment-links/introduction",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Dynamic QR",
+      "type": "paymentRequest",
+      "categories": [
+        "payments"
+      ],
+      "description": "Generate dynamic QR codes for in-store payments and check payment status.",
+      "documentationUrl": "https://developer.phonepe.com/offline-integration/dynamic-qr-solution/introduction",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Switch",
+      "type": "other",
+      "categories": [
+        "developer"
+      ],
+      "description": "Run partner mini-apps inside the PhonePe app, with payments and device-capability APIs.",
+      "documentationUrl": "https://developer.phonepe.com/switch",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/in/app/phonepe-upi-payment-recharge/id1170055821"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.phonepe.app"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "PhonePe",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/PhonePe",
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "crunchbase": "phonepe"
+}

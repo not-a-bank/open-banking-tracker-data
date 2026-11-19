@@ -1,0 +1,123 @@
+{
+  "id": "clip-mx",
+  "type": [
+    "account"
+  ],
+  "bankType": [],
+  "name": "Clip",
+  "description": "Mexican payments company founded in 2012 that lets businesses accept card payments via terminals, payment links and online checkout. It also runs a consumer wallet app, Mi Clip, through Clip Cartera Digital S.A.P.I. de C.V.",
+  "legalName": "PayClip, S. de R.L. de C.V.",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "PayClip"
+  ],
+  "status": "live",
+  "icon": "https://www.google.com/s2/favicons?domain=www.clip.mx&sz=128",
+  "websiteUrl": "https://www.clip.mx/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "MX",
+  "countries": [
+    "MX"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://developer.clip.mx/",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Checkout / Payment Link API",
+      "type": "paymentRequest",
+      "categories": [
+        "payments"
+      ],
+      "description": "Create hosted checkouts or payment links for card, USD and OXXO cash payments.",
+      "documentationUrl": "https://developer.clip.mx/docs/api-de-checkout",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Checkout Transparente",
+      "type": "cards",
+      "categories": [
+        "cards",
+        "payments"
+      ],
+      "description": "Tokenise cards without PCI certification and charge them from your backend, with 3DS and interest-free installments.",
+      "documentationUrl": "https://developer.clip.mx/docs/api-de-checkout-transparente",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "PinPad API",
+      "type": "cards",
+      "categories": [
+        "cards",
+        "payments"
+      ],
+      "description": "Send card-present payment requests from a point-of-sale system to Clip PinPad devices.",
+      "documentationUrl": "https://developer.clip.mx/reference?page=cp-pdv-i",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": true,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/mx/app/clip/id771245360"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.payclip.clip"
+    },
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/mx/app/mi-clip-paga-con-tu-celular/id6758817427"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.clipcd.clipgo"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "clip_mx",
+  "wikipediaUrl": null,
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "crunchbase": "payclip"
+}

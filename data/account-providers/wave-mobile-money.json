@@ -1,0 +1,123 @@
+{
+  "id": "wave-mobile-money",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger"
+  ],
+  "name": "Wave",
+  "description": "App-based mobile money service launched in Senegal, with free deposits and withdrawals through agents, 1% transfers, bill payments and merchant payments across West and Central Africa and Uganda.",
+  "legalName": "Wave Mobile Money SA",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "aliases": [
+    "Wave Mobile Money"
+  ],
+  "status": "live",
+  "icon": "https://www.google.com/s2/favicons?domain=www.wave.com&sz=128",
+  "websiteUrl": "https://www.wave.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "SN",
+  "countries": [
+    "SN",
+    "CI",
+    "ML",
+    "BF",
+    "NE",
+    "GM",
+    "UG",
+    "SL",
+    "CM"
+  ],
+  "compliance": [],
+  "developerPortalUrl": "https://docs.wave.com/business",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Checkout API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Create checkout sessions that send a customer to the Wave app to pay a business wallet, including refunds.",
+      "documentationUrl": "https://docs.wave.com/checkout",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Payout API",
+      "type": "paymentInitiation",
+      "categories": [
+        "payments"
+      ],
+      "description": "Send single or batch payouts from a business wallet to mobile numbers, including reversals.",
+      "documentationUrl": "https://docs.wave.com/payout/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Balance API",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Retrieve a business wallet's balance and transaction list for reconciliation.",
+      "documentationUrl": "https://docs.wave.com/balance-api",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/sn/app/wave-mobile-money/id1523884528"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.wave.personal"
+    }
+  ],
+  "financialReports": [],
+  "twitter": null,
+  "wikipediaUrl": null,
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": false,
+  "googlePay": false,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "crunchbase": "wave-mobile-money"
+}

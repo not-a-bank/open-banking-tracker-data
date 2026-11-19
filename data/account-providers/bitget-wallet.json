@@ -1,0 +1,123 @@
+{
+  "id": "bitget-wallet",
+  "type": [
+    "crypto"
+  ],
+  "bankType": [],
+  "name": "Bitget Wallet",
+  "description": "Self-custodial multichain crypto wallet, formerly BitKeep (renamed 2023), controlled by the Bitget exchange. Issues the Bitget Wallet Card and, through Noah, gives eligible users in 160+ countries USD or EUR account details whose incoming transfers land as USDC or USDT.",
+  "legalName": "BGW Technology Limited",
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "verified": false,
+  "status": "live",
+  "icon": "https://www.google.com/s2/favicons?domain=web3.bitget.com&sz=128",
+  "websiteUrl": "https://web3.bitget.com/",
+  "ownership": [],
+  "stateOwned": false,
+  "countryHQ": "KY",
+  "countries": [],
+  "compliance": [],
+  "developerPortalUrl": "https://web3.bitget.com/en/docs",
+  "developerCommunityUrl": null,
+  "openBankProjectUrl": null,
+  "slackCommunity": false,
+  "apiAuth": [],
+  "apiPerformanceReports": [],
+  "apiServerEndpoints": [],
+  "apiSpecs": [],
+  "apiProducts": [
+    {
+      "label": "Connect Wallet",
+      "type": "other",
+      "categories": [
+        "developer"
+      ],
+      "description": "Wallet connection for dApps across EVM, Solana, Bitcoin, TON, Tron, Sui, Aptos and other chains.",
+      "documentationUrl": "https://web3.bitget.com/en/docs/connect/quickStart/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Markets API",
+      "type": "other",
+      "categories": [
+        "openData"
+      ],
+      "description": "Token prices, candlesticks and transaction data.",
+      "documentationUrl": "https://web3.bitget.com/en/docs/market/market-price/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Swap API",
+      "type": "fx",
+      "categories": [
+        "fx"
+      ],
+      "description": "Quote, create, submit and track same-chain and cross-chain swap orders.",
+      "documentationUrl": "https://web3.bitget.com/en/docs/guide/order-mode/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    },
+    {
+      "label": "Bitget Wallet Pay",
+      "type": "paymentRequest",
+      "categories": [
+        "payments"
+      ],
+      "description": "Merchant payment integration.",
+      "documentationUrl": "https://web3.bitget.com/en/docs/payfi/developer-guide/",
+      "apiReferenceUrl": null,
+      "premium": false,
+      "stage": "live"
+    }
+  ],
+  "apiStandards": [],
+  "apiStatusUrls": [],
+  "apiAggregators": [],
+  "collections": [],
+  "webApplication": false,
+  "mobileApps": [
+    {
+      "operatingSystem": "ios",
+      "storeUrl": "https://apps.apple.com/us/app/bitget-wallet-crypto-payfi/id1395301115"
+    },
+    {
+      "operatingSystem": "android",
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.bitkeep.wallet"
+    }
+  ],
+  "financialReports": [],
+  "twitter": "BitgetWallet",
+  "wikipediaUrl": null,
+  "bloomberg": null,
+  "alumni": [],
+  "stack": [],
+  "thirdPartyBankingLicense": null,
+  "debitCardLicense": null,
+  "creditCardLicense": null,
+  "debitAccountLicense": null,
+  "strategies": [],
+  "prepaidCards": [],
+  "prepaidDebitCards": [],
+  "debitCards": [],
+  "creditCards": [],
+  "virtualCards": [],
+  "applePay": true,
+  "googlePay": true,
+  "samsungPay": false,
+  "fitbitPay": false,
+  "partnerships": [],
+  "rewardPartners": [],
+  "integrations": [],
+  "platforms": [],
+  "awards": [],
+  "aliases": [
+    "BitKeep"
+  ],
+  "crunchbase": "bitkeep"
+}
