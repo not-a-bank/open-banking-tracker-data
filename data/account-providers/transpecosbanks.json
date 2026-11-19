@@ -49,7 +49,14 @@
   "financialReports": [],
   "bloomberg": null,
   "alumni": [],
-  "stack": [],
+  "stack": [
+    {
+      "id": "nymbus",
+      "name": "Nymbus",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1621699308/icons/nymbus.jpg",
+      "websiteUrl": "https://www.nymbus.com/"
+    }
+  ],
   "thirdPartyBankingLicense": null,
   "debitCardLicense": null,
   "creditCardLicense": null,
