@@ -31,7 +31,8 @@
   "stockSymbol": "",
   "apiAggregators": [
     "yaxi",
-    "salt-edge"
+    "salt-edge",
+    "banksync"
   ],
   "bic": "EIHBDEHHXXX"
 }

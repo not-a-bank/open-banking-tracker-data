@@ -7,7 +7,7 @@
   "developerPortalUrl": "https://banksync.io/developers",
   "statusUrl": "https://status.banksync.io/",
   "countryHQ": "AU",
-  "marketFocus": "North America and Australia",
+  "marketFocus": "North America, Europe and Australia",
   "mcpServer": {
     "type": "hosted",
     "transport": "sse",
@@ -30,10 +30,16 @@
     ]
   },
   "verified": true,
-  "description": "Bank data sync for AI agents across the US, Canada, and Australia, with read-write feeds into Notion, Google Sheets, Airtable, and Excel",
-  "note": "BankSync inherits institutional coverage from Plaid (banking, US/CA), Fiskil (CDR, AU), and SnapTrade (brokerage, global), and adds a hosted MCP server with read-write tooling for AI agents",
-  "upstreamAggregators": ["plaid", "fiskil", "snaptrade"],
+  "description": "Bank data sync for AI agents across the US, Canada, the UK, Europe, and Australia, with read-write feeds into Notion, Google Sheets, Airtable, and Excel",
+  "note": "BankSync inherits institutional coverage from Plaid (banking, US/CA), Salt Edge (open banking, UK and EEA), Fiskil (CDR, AU), and SnapTrade (brokerage, global), and adds a hosted MCP server with read-write tooling for AI agents",
+  "upstreamAggregators": ["plaid", "salt-edge", "fiskil", "snaptrade"],
   "marketCoverage": {
-    "live": ["AU", "CA", "US"]
+    "live": [
+      "AT", "AU", "BE", "BG", "CA", "CY", "CZ", "DE",
+      "DK", "EE", "ES", "FI", "FR", "GB", "GR", "HR",
+      "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL",
+      "NO", "PL", "PT", "RO", "SE", "SI", "SK", "US"
+    ],
+    "upcoming": ["IS", "LI"]
   }
 }

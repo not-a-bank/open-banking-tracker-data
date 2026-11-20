@@ -67,6 +67,7 @@
     }
   ],
   "apiAggregators": [
+    "banksync",
     "bridgeapi-io",
     "plaid",
     "salt-edge",

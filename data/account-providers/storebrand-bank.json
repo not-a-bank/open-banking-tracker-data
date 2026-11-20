@@ -36,6 +36,7 @@
   "apiAuth": [],
   "apiReferenceUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox/apis",
   "apiAggregators": [
+    "banksync",
     "enablebanking",
     "gocardless",
     "lunchflow",

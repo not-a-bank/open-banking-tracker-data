@@ -33,6 +33,7 @@
   "stockSymbol": "",
   "apiAggregators": [
     "banksapi",
+    "banksync",
     "gocardless",
     "lunchflow",
     "plaid",

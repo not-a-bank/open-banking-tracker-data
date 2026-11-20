@@ -69,7 +69,8 @@
   ],
   "apiAggregators": [
     "nordigen",
-    "enablebanking"
+    "enablebanking",
+    "banksync"
   ],
   "webApplication": true,
   "mobileApps": [],

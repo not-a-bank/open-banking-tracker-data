@@ -31,6 +31,7 @@
   "stateOwned": false,
   "stockSymbol": "",
   "apiAggregators": [
+    "banksync",
     "gocardless",
     "lunchflow",
     "salt-edge",
