@@ -1,0 +1,77 @@
+{
+  "id": "seapoint-ie",
+  "name": "Seapoint (Ireland)",
+  "legalName": "Seapoint Finance Limited",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger",
+    "corporate"
+  ],
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.seapoint.co.ico",
+  "websiteUrl": "https://www.seapoint.co",
+  "webApplication": true,
+  "mobileApps": [],
+  "developerPortalUrl": null,
+  "tppAccessInterface": [
+    "api"
+  ],
+  "apiAggregators": [],
+  "ownership": [],
+  "stateOwned": false,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "partnerships": [
+    {
+      "name": "tell.money",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579894505/catalog/tell-money/icon128x128.jpg",
+      "websiteUrl": "https://tell.money/",
+      "id": "tell-money",
+      "title": "Seapoint uses tell.money for its Open Banking dedicated interface",
+      "desription": "Seapoint partners with tell.money to provide open banking APIs so regulated third-party providers can access Seapoint business accounts with the customer's consent.",
+      "sourceUrl": "https://guides.tell.money/docs/developer-hub",
+      "features": [
+        "open-banking"
+      ]
+    }
+  ],
+  "countryHQ": "IE",
+  "countries": [
+    "IE"
+  ],
+  "compliance": [
+    {
+      "regulation": "PSD2",
+      "status": "ready"
+    },
+    {
+      "regulation": "GDPR",
+      "status": "ready"
+    }
+  ],
+  "apiStandards": [
+    "BERLIN"
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Information (EU)",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "NextGenPSD2 (Berlin Group) account information API for Seapoint EUR business accounts: accounts, balances and transactions. Third-party providers reach Seapoint business accounts through Tell Money's dedicated interface. E-money services provided by Modulr Finance B.V. (De Nederlandsche Bank, R182870).",
+      "documentationUrl": "https://guides.tell.money/docs/developer-hub",
+      "apiReferenceUrl": "https://guides.tell.money/docs/developer-hub",
+      "premium": false,
+      "stage": "live",
+      "regulation": "PSD2",
+      "specification": "BERLIN1.3",
+      "customerTypes": [
+        "business"
+      ]
+    }
+  ]
+}

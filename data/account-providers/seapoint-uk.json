@@ -1,0 +1,77 @@
+{
+  "id": "seapoint-uk",
+  "name": "Seapoint (UK)",
+  "legalName": "Seapoint Finance UK Limited",
+  "type": [
+    "account"
+  ],
+  "bankType": [
+    "challenger",
+    "corporate"
+  ],
+  "verified": false,
+  "status": "live",
+  "icon": "https://icons.duckduckgo.com/ip3/www.seapoint.co.ico",
+  "websiteUrl": "https://www.seapoint.co",
+  "webApplication": true,
+  "mobileApps": [],
+  "developerPortalUrl": null,
+  "tppAccessInterface": [
+    "api"
+  ],
+  "apiAggregators": [],
+  "ownership": [],
+  "stateOwned": false,
+  "ipoStatus": "private",
+  "stockSymbol": null,
+  "partnerships": [
+    {
+      "name": "tell.money",
+      "icon": "https://res.cloudinary.com/apideck/image/upload/v1579894505/catalog/tell-money/icon128x128.jpg",
+      "websiteUrl": "https://tell.money/",
+      "id": "tell-money",
+      "title": "Seapoint uses tell.money for its Open Banking dedicated interface",
+      "desription": "Seapoint partners with tell.money to provide open banking APIs so regulated third-party providers can access Seapoint business accounts with the customer's consent.",
+      "sourceUrl": "https://guides.tell.money/docs/developer-hub",
+      "features": [
+        "open-banking"
+      ]
+    }
+  ],
+  "countryHQ": "GB",
+  "countries": [
+    "GB"
+  ],
+  "compliance": [
+    {
+      "regulation": "OB",
+      "status": "ready"
+    },
+    {
+      "regulation": "GDPR",
+      "status": "ready"
+    }
+  ],
+  "apiStandards": [
+    "OBIE"
+  ],
+  "apiProducts": [
+    {
+      "label": "Account Information (UK)",
+      "type": "accountInformation",
+      "categories": [
+        "accounts"
+      ],
+      "description": "Open Banking UK (OBIE) account information API for Seapoint GBP business accounts: accounts, balances and transactions. Third-party providers reach Seapoint business accounts through Tell Money's dedicated interface. E-money services provided by Modulr FS Limited (FCA FRN 900573).",
+      "documentationUrl": "https://guides.tell.money/docs/developer-hub",
+      "apiReferenceUrl": "https://guides.tell.money/docs/developer-hub",
+      "premium": false,
+      "stage": "live",
+      "regulation": "OBUK",
+      "specification": "OBIE-AISP",
+      "customerTypes": [
+        "business"
+      ]
+    }
+  ]
+}
